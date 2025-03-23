@@ -1,0 +1,48 @@
+Used permissions
+This launcher uses the following permissions for the purpose of implementing the features. It collects no personal information at all.
+# for general purpose of the launcher
+"android.permission.SET_WALLPAPER"
+"android.permission.SET_WALLPAPER_HINTS"
+"android.permission.EXPAND_STATUS_BAR"
+# for the direct-call shortcuts and long-click call in contacts
+"android.permission.CALL_PHONE"
+# for the "Contacts" widget
+"android.permission.READ_CONTACTS"
+# for the dynamic text and images
+"android.permission.READ_CALENDAR"
+"android.permission.GET_ACCOUNTS"
+"com.google.android.gm.permission.READ_CONTENT_PROVIDER"
+"android.permission.READ_PHONE_STATE"
+"android.permission.BLUETOOTH"
+"android.permission.ACCESS_WIFI_STATE"
+"android.permission.ACCESS_NETWORK_STATE"
+"android.permission.ACCESS_FINE_LOCATION"
+"android.permission.ACCESS_COARSE_LOCATION"
+# for launcher actions
+"android.permission.BLUETOOTH_ADMIN"
+"android.permission.BLUETOOTH_CONNECT"
+"android.permission.CHANGE_WIFI_STATE"
+"android.permission.WRITE_SETTINGS"
+"android.permission.ACCESS_NOTIFICATION_POLICY"
+# for voice input when editing title
+"android.permission.RECORD_AUDIO"
+# for fingerprint authentication on password input
+"android.permission.USE_FINGERPRINT"
+# to download default weather icons
+"android.permission.INTERNET"
+# for Private space support
+"android.permission.ACCESS_HIDDEN_PROFILES"
+Share
+Get link
+Facebook
+X
+Pinterest
+Email
+Other Apps
+Share
+Get link
+Facebook
+X
+Pinterest
+Email
+Other Apps

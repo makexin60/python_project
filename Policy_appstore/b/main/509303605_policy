@@ -1,0 +1,4765 @@
+ErrorException
+ViewException
+ViewException
+HTTP 500
+Internal Server Error
+Undefined variable $homeAds (View: /home/panet/www/resources/views/layouts/base.blade.php) (View: /home/panet/www/resources/views/layouts/base.blade.php)
+Exceptions
+3
+Stack Traces
+3
+Exceptions
+3
+Illuminate\View\
+ViewException
+<button type="button" class="close text-white position-absolute front-ad-btn" id="overlay-close-btn"
+onclick=" closeAds()">
+<span aria-hidden="true" class="display-5">X</span>
+</button>
+<div class="modal-body">
+<?php
+if(
+$homeAds
+==
+'image'
+):
+?>
+<?php
+echo
+$__env
+->
+make
+(
+"ads.banner"
+, [
+'zone'
+=>
+123
+,
+'width'
+=>
+320
+,
+'height'
+=>
+480
+,
+'resize'
+=>
+1
+] ,
+\Illuminate\Support\Arr
+::
+except
+(
+get_defined_vars
+(), [
+'__data'
+,
+'__path'
+]))->
+render
+();
+?>
+<?php
+else:
+?>
+// flush out any stray output that might get out before an error occurs or
+// an exception is thrown. This prevents any partial views from leaking.
+try {
+$this
+->
+files
+->
+getRequire
+(
+$path
+,
+$data
+);
+} catch (
+Throwable $e
+) {
+$this
+->
+handleViewException
+(
+$e
+,
+$obLevel
+);
+}
+return
+ltrim
+(
+ob_get_clean
+());
+}
+// Once we have the path to the compiled file, we will evaluate the paths with
+// typical PHP just like any other templates. We also keep a stack of views
+// which have been rendered for right exception messages to be generated.
+try {
+$results
+=
+$this
+->
+evaluatePath
+(
+$this
+->
+compiler
+->
+getCompiledPath
+(
+$path
+),
+$data
+);
+} catch (
+ViewException $e
+) {
+if (!
+str
+(
+$e
+->
+getMessage
+())->
+contains
+([
+'No such file or directory'
+,
+'File does not exist at path'
+])) {
+throw
+$e
+;
+}
+*
+* @return string
+*/
+protected function
+getContents
+()
+{
+return
+$this
+->
+engine
+->
+get
+(
+$this
+->
+path
+,
+$this
+->
+gatherData
+());
+}
+/**
+* Get the data bound to the view instance.
+*
+// clear out the sections for any separate views that may be rendered.
+$this
+->
+factory
+->
+incrementRender
+();
+$this
+->
+factory
+->
+callComposer
+(
+$this
+);
+$contents
+=
+$this
+->
+getContents
+();
+// Once we've finished rendering the view, we'll decrement the render count
+// so that each section gets flushed out next time a view is created and
+// no old sections are staying around in the memory of an environment.
+$this
+->
+factory
+->
+decrementRender
+();
+* @throws \Throwable
+*/
+public function
+render
+(callable
+$callback
+=
+null
+)
+{
+try {
+$contents
+=
+$this
+->
+renderContents
+();
+$response
+= isset(
+$callback
+) ?
+$callback
+(
+$this
+,
+$contents
+) :
+null
+;
+// Once we have the contents of the view, we will flush the sections if we are
+// done rendering all views so that there is nothing left hanging over when
+// If this content implements the "Renderable" interface then we will call the
+// render method on the object so we will avoid any "__toString" exceptions
+// that might be thrown and have their errors obscured by PHP's handling.
+elseif (
+$content
+instanceof
+Renderable
+) {
+$content
+=
+$content
+->
+render
+();
+}
+parent
+::
+setContent
+(
+$content
+);
+return
+$this
+;
+*/
+public function
+__construct
+(
+$content
+=
+''
+,
+$status
+=
+200
+, array
+$headers
+= [])
+{
+$this
+->
+headers
+= new
+ResponseHeaderBag
+(
+$headers
+);
+$this
+->
+setContent
+(
+$content
+);
+$this
+->
+setStatusCode
+(
+$status
+);
+$this
+->
+setProtocolVersion
+(
+'1.0'
+);
+}
+/**
+* @param  array  $headers
+* @return \Illuminate\Http\Response
+*/
+public function
+make
+(
+$content
+=
+''
+,
+$status
+=
+200
+, array
+$headers
+= [])
+{
+return new
+Response
+(
+$content
+,
+$status
+,
+$headers
+);
+}
+/**
+* Create a new "no content" response.
+*
+{
+if (
+is_array
+(
+$view
+)) {
+return
+$this
+->
+make
+(
+$this
+->
+view
+->
+first
+(
+$view
+,
+$data
+),
+$status
+,
+$headers
+);
+}
+return
+$this
+->
+make
+(
+$this
+->
+view
+->
+make
+(
+$view
+,
+$data
+),
+$status
+,
+$headers
+);
+}
+/**
+* Create a new JSON response instance.
+*
+if (
+$view
+=
+$this
+->
+getHttpExceptionView
+(
+$e
+)) {
+return
+response
+()->
+view
+(
+$view
+, [
+'errors'
+=> new
+ViewErrorBag
+,
+'exception'
+=>
+$e
+,
+],
+$e
+->
+getStatusCode
+(),
+$e
+->
+getHeaders
+());
+}
+return
+$this
+->
+convertExceptionToResponse
+(
+$e
+);
+}
+if (!
+$this
+->
+isHttpException
+(
+$e
+)) {
+$e
+= new
+HttpException
+(
+500
+,
+$e
+->
+getMessage
+());
+}
+return
+$this
+->
+toIlluminateResponse
+(
+$this
+->
+renderHttpException
+(
+$e
+),
+$e
+)->
+prepare
+(
+$request
+);
+}
+/**
+* Create a Symfony response for the given exception.
+*/
+protected function
+renderExceptionResponse
+(
+$request
+,
+Throwable $e
+)
+{
+return
+$this
+->
+shouldReturnJson
+(
+$request
+,
+$e
+)
+?
+$this
+->
+prepareJsonResponse
+(
+$request
+,
+$e
+)
+:
+$this
+->
+prepareResponse
+(
+$request
+,
+$e
+);
+}
+/**
+* Convert an authentication exception into a response.
+*
+return match (
+true
+) {
+$e
+instanceof
+HttpResponseException
+=>
+$e
+->
+getResponse
+(),
+$e
+instanceof
+AuthenticationException
+=>
+$this
+->
+unauthenticated
+(
+$request
+,
+$e
+),
+$e
+instanceof
+ValidationException
+=>
+$this
+->
+convertValidationExceptionToResponse
+(
+$e
+,
+$request
+),
+default =>
+$this
+->
+renderExceptionResponse
+(
+$request
+,
+$e
+),
+};
+}
+/**
+* Prepare exception for rendering.
+//
+});
+}
+public function
+render
+(
+$request
+,
+Throwable $exception
+)
+{
+return
+parent
+::
+render
+(
+$request
+,
+$exception
+);
+}
+}
+$handler
+=
+$this
+->
+container
+->
+make
+(
+ExceptionHandler
+::class);
+$handler
+->
+report
+(
+$e
+);
+$response
+=
+$handler
+->
+render
+(
+$passable
+,
+$e
+);
+if (
+is_object
+(
+$response
+) &&
+method_exists
+(
+$response
+,
+'withException'
+)) {
+$response
+->
+withException
+(
+$e
+);
+}
+{
+return function (
+$passable
+) use (
+$destination
+) {
+try {
+return
+$destination
+(
+$passable
+);
+} catch (
+Throwable $e
+) {
+return
+$this
+->
+handleException
+(
+$passable
+,
+$e
+);
+}
+};
+}
+/**
+*/
+public function
+handle
+(
+$request
+,
+Closure $next
+)
+{
+$this
+->
+clean
+(
+$request
+);
+return
+$next
+(
+$request
+);
+}
+/**
+* Clean the request's data.
+*
+if (
+$callback
+(
+$request
+)) {
+return
+$next
+(
+$request
+);
+}
+}
+return
+parent
+::
+handle
+(
+$request
+,
+$next
+);
+}
+/**
+* Transform the given value.
+*
+// since the object we're given was already a fully instantiated object.
+$parameters
+= [
+$passable
+,
+$stack
+];
+}
+$carry
+=
+method_exists
+(
+$pipe
+,
+$this
+->
+method
+)
+?
+$pipe
+->{
+$this
+->
+method
+}(...
+$parameters
+)
+:
+$pipe
+(...
+$parameters
+);
+return
+$this
+->
+handleCarry
+(
+$carry
+);
+} catch (
+Throwable $e
+) {
+return
+$this
+->
+handleException
+(
+$passable
+,
+$e
+);
+*/
+public function
+handle
+(
+$request
+,
+Closure $next
+)
+{
+$this
+->
+clean
+(
+$request
+);
+return
+$next
+(
+$request
+);
+}
+/**
+* Clean the request's data.
+*
+if (
+$callback
+(
+$request
+)) {
+return
+$next
+(
+$request
+);
+}
+}
+return
+parent
+::
+handle
+(
+$request
+,
+$next
+);
+}
+/**
+* Transform the given value.
+*
+// since the object we're given was already a fully instantiated object.
+$parameters
+= [
+$passable
+,
+$stack
+];
+}
+$carry
+=
+method_exists
+(
+$pipe
+,
+$this
+->
+method
+)
+?
+$pipe
+->{
+$this
+->
+method
+}(...
+$parameters
+)
+:
+$pipe
+(...
+$parameters
+);
+return
+$this
+->
+handleCarry
+(
+$carry
+);
+} catch (
+Throwable $e
+) {
+return
+$this
+->
+handleException
+(
+$passable
+,
+$e
+);
+if (
+$max
+>
+0
+&&
+$request
+->
+server
+(
+'CONTENT_LENGTH'
+) >
+$max
+) {
+throw new
+PostTooLargeException
+;
+}
+return
+$next
+(
+$request
+);
+}
+/**
+* Determine the server 'post_max_size' as bytes.
+*
+// since the object we're given was already a fully instantiated object.
+$parameters
+= [
+$passable
+,
+$stack
+];
+}
+$carry
+=
+method_exists
+(
+$pipe
+,
+$this
+->
+method
+)
+?
+$pipe
+->{
+$this
+->
+method
+}(...
+$parameters
+)
+:
+$pipe
+(...
+$parameters
+);
+return
+$this
+->
+handleCarry
+(
+$carry
+);
+} catch (
+Throwable $e
+) {
+return
+$this
+->
+handleException
+(
+$passable
+,
+$e
+);
+null
+,
+$this
+->
+getHeaders
+(
+$data
+)
+);
+}
+return
+$next
+(
+$request
+);
+}
+/**
+* Determine if the incoming request has a maintenance mode bypass cookie.
+*
+// since the object we're given was already a fully instantiated object.
+$parameters
+= [
+$passable
+,
+$stack
+];
+}
+$carry
+=
+method_exists
+(
+$pipe
+,
+$this
+->
+method
+)
+?
+$pipe
+->{
+$this
+->
+method
+}(...
+$parameters
+)
+:
+$pipe
+(...
+$parameters
+);
+return
+$this
+->
+handleCarry
+(
+$carry
+);
+} catch (
+Throwable $e
+) {
+return
+$this
+->
+handleException
+(
+$passable
+,
+$e
+);
+*/
+public function
+handle
+(
+$request
+,
+Closure $next
+)
+{
+// Check if we're dealing with CORS and if we should handle it
+if (!
+$this
+->
+shouldRun
+(
+$request
+)) {
+return
+$next
+(
+$request
+);
+}
+// For Preflight, return the Preflight response
+if (
+$this
+->
+cors
+->
+isPreflightRequest
+(
+$request
+)) {
+$response
+=
+$this
+->
+cors
+->
+handlePreflightRequest
+(
+$request
+);
+// since the object we're given was already a fully instantiated object.
+$parameters
+= [
+$passable
+,
+$stack
+];
+}
+$carry
+=
+method_exists
+(
+$pipe
+,
+$this
+->
+method
+)
+?
+$pipe
+->{
+$this
+->
+method
+}(...
+$parameters
+)
+:
+$pipe
+(...
+$parameters
+);
+return
+$this
+->
+handleCarry
+(
+$carry
+);
+} catch (
+Throwable $e
+) {
+return
+$this
+->
+handleException
+(
+$passable
+,
+$e
+);
+{
+$request
+::
+setTrustedProxies
+([],
+$this
+->
+getTrustedHeaderNames
+());
+$this
+->
+setTrustedProxyIpAddresses
+(
+$request
+);
+return
+$next
+(
+$request
+);
+}
+/**
+* Sets the trusted proxies on the request.
+*
+// since the object we're given was already a fully instantiated object.
+$parameters
+= [
+$passable
+,
+$stack
+];
+}
+$carry
+=
+method_exists
+(
+$pipe
+,
+$this
+->
+method
+)
+?
+$pipe
+->{
+$this
+->
+method
+}(...
+$parameters
+)
+:
+$pipe
+(...
+$parameters
+);
+return
+$this
+->
+handleCarry
+(
+$carry
+);
+} catch (
+Throwable $e
+) {
+return
+$this
+->
+handleException
+(
+$passable
+,
+$e
+);
+{
+$pipeline
+=
+array_reduce
+(
+array_reverse
+(
+$this
+->
+pipes
+()),
+$this
+->
+carry
+(),
+$this
+->
+prepareDestination
+(
+$destination
+)
+);
+return
+$pipeline
+(
+$this
+->
+passable
+);
+}
+/**
+* Run the pipeline and return the result.
+*
+$this
+->
+bootstrap
+();
+return (new
+Pipeline
+(
+$this
+->
+app
+))
+->
+send
+(
+$request
+)
+->
+through
+(
+$this
+->
+app
+->
+shouldSkipMiddleware
+() ? [] :
+$this
+->
+middleware
+)
+->
+then
+(
+$this
+->
+dispatchToRouter
+());
+}
+/**
+* Bootstrap the application for HTTP requests.
+*
+$this
+->
+requestStartedAt
+=
+Carbon
+::
+now
+();
+try {
+$request
+->
+enableHttpMethodParameterOverride
+();
+$response
+=
+$this
+->
+sendRequestThroughRouter
+(
+$request
+);
+} catch (
+Throwable $e
+) {
+$this
+->
+reportException
+(
+$e
+);
+$response
+=
+$this
+->
+renderException
+(
+$request
+,
+$e
+);
+}
+$app
+= require_once
+__DIR__
+.
+'/../bootstrap/app.php'
+;
+$kernel
+=
+$app
+->
+make
+(
+Kernel
+::class);
+$response
+=
+tap
+(
+$kernel
+->
+handle
+(
+$request
+=
+Request
+::
+capture
+()
+))->
+send
+();
+$kernel
+->
+terminate
+(
+$request
+,
+$response
+);
+Illuminate\View\
+ViewException
+Undefined variable $homeAds (View: /home/panet/www/resources/views/layouts/base.blade.php)
+<button type="button" class="close text-white position-absolute front-ad-btn" id="overlay-close-btn"
+onclick=" closeAds()">
+<span aria-hidden="true" class="display-5">X</span>
+</button>
+<div class="modal-body">
+<?php
+if(
+$homeAds
+==
+'image'
+):
+?>
+<?php
+echo
+$__env
+->
+make
+(
+"ads.banner"
+, [
+'zone'
+=>
+123
+,
+'width'
+=>
+320
+,
+'height'
+=>
+480
+,
+'resize'
+=>
+1
+] ,
+\Illuminate\Support\Arr
+::
+except
+(
+get_defined_vars
+(), [
+'__data'
+,
+'__path'
+]))->
+render
+();
+?>
+<?php
+else:
+?>
+// flush out any stray output that might get out before an error occurs or
+// an exception is thrown. This prevents any partial views from leaking.
+try {
+$this
+->
+files
+->
+getRequire
+(
+$path
+,
+$data
+);
+} catch (
+Throwable $e
+) {
+$this
+->
+handleViewException
+(
+$e
+,
+$obLevel
+);
+}
+return
+ltrim
+(
+ob_get_clean
+());
+}
+// Once we have the path to the compiled file, we will evaluate the paths with
+// typical PHP just like any other templates. We also keep a stack of views
+// which have been rendered for right exception messages to be generated.
+try {
+$results
+=
+$this
+->
+evaluatePath
+(
+$this
+->
+compiler
+->
+getCompiledPath
+(
+$path
+),
+$data
+);
+} catch (
+ViewException $e
+) {
+if (!
+str
+(
+$e
+->
+getMessage
+())->
+contains
+([
+'No such file or directory'
+,
+'File does not exist at path'
+])) {
+throw
+$e
+;
+}
+*
+* @return string
+*/
+protected function
+getContents
+()
+{
+return
+$this
+->
+engine
+->
+get
+(
+$this
+->
+path
+,
+$this
+->
+gatherData
+());
+}
+/**
+* Get the data bound to the view instance.
+*
+// clear out the sections for any separate views that may be rendered.
+$this
+->
+factory
+->
+incrementRender
+();
+$this
+->
+factory
+->
+callComposer
+(
+$this
+);
+$contents
+=
+$this
+->
+getContents
+();
+// Once we've finished rendering the view, we'll decrement the render count
+// so that each section gets flushed out next time a view is created and
+// no old sections are staying around in the memory of an environment.
+$this
+->
+factory
+->
+decrementRender
+();
+* @throws \Throwable
+*/
+public function
+render
+(callable
+$callback
+=
+null
+)
+{
+try {
+$contents
+=
+$this
+->
+renderContents
+();
+$response
+= isset(
+$callback
+) ?
+$callback
+(
+$this
+,
+$contents
+) :
+null
+;
+// Once we have the contents of the view, we will flush the sections if we are
+// done rendering all views so that there is nothing left hanging over when
+</p>
+</div>
+<?php $__env
+->
+stopSection
+();
+?>
+<?php
+echo
+$__env
+->
+make
+(
+"layouts.base"
+,
+\Illuminate\Support\Arr
+::
+except
+(
+get_defined_vars
+(), [
+'__data'
+,
+'__path'
+]))->
+render
+();
+?><?php
+/**PATH /home/panet/www/resources/views/errors/404.blade.php ENDPATH**/
+?>
+$__data
+=
+$data
+;
+return (static function () use (
+$__path
+,
+$__data
+) {
+extract
+(
+$__data
+,
+EXTR_SKIP
+);
+return require
+$__path
+;
+})();
+}
+throw new
+FileNotFoundException
+(
+"File does not exist at path
+{
+$path
+}
+."
+);
+}
+return (static function () use (
+$__path
+,
+$__data
+) {
+extract
+(
+$__data
+,
+EXTR_SKIP
+);
+return require
+$__path
+;
+})();
+}
+throw new
+FileNotFoundException
+(
+"File does not exist at path
+{
+$path
+}
+."
+);
+}
+// We'll evaluate the contents of the view inside a try/catch block so we can
+// flush out any stray output that might get out before an error occurs or
+// an exception is thrown. This prevents any partial views from leaking.
+try {
+$this
+->
+files
+->
+getRequire
+(
+$path
+,
+$data
+);
+} catch (
+Throwable $e
+) {
+$this
+->
+handleViewException
+(
+$e
+,
+$obLevel
+);
+}
+return
+ltrim
+(
+ob_get_clean
+());
+// Once we have the path to the compiled file, we will evaluate the paths with
+// typical PHP just like any other templates. We also keep a stack of views
+// which have been rendered for right exception messages to be generated.
+try {
+$results
+=
+$this
+->
+evaluatePath
+(
+$this
+->
+compiler
+->
+getCompiledPath
+(
+$path
+),
+$data
+);
+} catch (
+ViewException $e
+) {
+if (!
+str
+(
+$e
+->
+getMessage
+())->
+contains
+([
+'No such file or directory'
+,
+'File does not exist at path'
+])) {
+throw
+$e
+;
+}
+*
+* @return string
+*/
+protected function
+getContents
+()
+{
+return
+$this
+->
+engine
+->
+get
+(
+$this
+->
+path
+,
+$this
+->
+gatherData
+());
+}
+/**
+* Get the data bound to the view instance.
+*
+// clear out the sections for any separate views that may be rendered.
+$this
+->
+factory
+->
+incrementRender
+();
+$this
+->
+factory
+->
+callComposer
+(
+$this
+);
+$contents
+=
+$this
+->
+getContents
+();
+// Once we've finished rendering the view, we'll decrement the render count
+// so that each section gets flushed out next time a view is created and
+// no old sections are staying around in the memory of an environment.
+$this
+->
+factory
+->
+decrementRender
+();
+* @throws \Throwable
+*/
+public function
+render
+(callable
+$callback
+=
+null
+)
+{
+try {
+$contents
+=
+$this
+->
+renderContents
+();
+$response
+= isset(
+$callback
+) ?
+$callback
+(
+$this
+,
+$contents
+) :
+null
+;
+// Once we have the contents of the view, we will flush the sections if we are
+// done rendering all views so that there is nothing left hanging over when
+// If this content implements the "Renderable" interface then we will call the
+// render method on the object so we will avoid any "__toString" exceptions
+// that might be thrown and have their errors obscured by PHP's handling.
+elseif (
+$content
+instanceof
+Renderable
+) {
+$content
+=
+$content
+->
+render
+();
+}
+parent
+::
+setContent
+(
+$content
+);
+return
+$this
+;
+*/
+public function
+__construct
+(
+$content
+=
+''
+,
+$status
+=
+200
+, array
+$headers
+= [])
+{
+$this
+->
+headers
+= new
+ResponseHeaderBag
+(
+$headers
+);
+$this
+->
+setContent
+(
+$content
+);
+$this
+->
+setStatusCode
+(
+$status
+);
+$this
+->
+setProtocolVersion
+(
+'1.0'
+);
+}
+/**
+* @param  array  $headers
+* @return \Illuminate\Http\Response
+*/
+public function
+make
+(
+$content
+=
+''
+,
+$status
+=
+200
+, array
+$headers
+= [])
+{
+return new
+Response
+(
+$content
+,
+$status
+,
+$headers
+);
+}
+/**
+* Create a new "no content" response.
+*
+{
+if (
+is_array
+(
+$view
+)) {
+return
+$this
+->
+make
+(
+$this
+->
+view
+->
+first
+(
+$view
+,
+$data
+),
+$status
+,
+$headers
+);
+}
+return
+$this
+->
+make
+(
+$this
+->
+view
+->
+make
+(
+$view
+,
+$data
+),
+$status
+,
+$headers
+);
+}
+/**
+* Create a new JSON response instance.
+*
+if (
+$view
+=
+$this
+->
+getHttpExceptionView
+(
+$e
+)) {
+return
+response
+()->
+view
+(
+$view
+, [
+'errors'
+=> new
+ViewErrorBag
+,
+'exception'
+=>
+$e
+,
+],
+$e
+->
+getStatusCode
+(),
+$e
+->
+getHeaders
+());
+}
+return
+$this
+->
+convertExceptionToResponse
+(
+$e
+);
+}
+if (!
+$this
+->
+isHttpException
+(
+$e
+)) {
+$e
+= new
+HttpException
+(
+500
+,
+$e
+->
+getMessage
+());
+}
+return
+$this
+->
+toIlluminateResponse
+(
+$this
+->
+renderHttpException
+(
+$e
+),
+$e
+)->
+prepare
+(
+$request
+);
+}
+/**
+* Create a Symfony response for the given exception.
+*/
+protected function
+renderExceptionResponse
+(
+$request
+,
+Throwable $e
+)
+{
+return
+$this
+->
+shouldReturnJson
+(
+$request
+,
+$e
+)
+?
+$this
+->
+prepareJsonResponse
+(
+$request
+,
+$e
+)
+:
+$this
+->
+prepareResponse
+(
+$request
+,
+$e
+);
+}
+/**
+* Convert an authentication exception into a response.
+*
+return match (
+true
+) {
+$e
+instanceof
+HttpResponseException
+=>
+$e
+->
+getResponse
+(),
+$e
+instanceof
+AuthenticationException
+=>
+$this
+->
+unauthenticated
+(
+$request
+,
+$e
+),
+$e
+instanceof
+ValidationException
+=>
+$this
+->
+convertValidationExceptionToResponse
+(
+$e
+,
+$request
+),
+default =>
+$this
+->
+renderExceptionResponse
+(
+$request
+,
+$e
+),
+};
+}
+/**
+* Prepare exception for rendering.
+//
+});
+}
+public function
+render
+(
+$request
+,
+Throwable $exception
+)
+{
+return
+parent
+::
+render
+(
+$request
+,
+$exception
+);
+}
+}
+$handler
+=
+$this
+->
+container
+->
+make
+(
+ExceptionHandler
+::class);
+$handler
+->
+report
+(
+$e
+);
+$response
+=
+$handler
+->
+render
+(
+$passable
+,
+$e
+);
+if (
+is_object
+(
+$response
+) &&
+method_exists
+(
+$response
+,
+'withException'
+)) {
+$response
+->
+withException
+(
+$e
+);
+}
+{
+return function (
+$passable
+) use (
+$destination
+) {
+try {
+return
+$destination
+(
+$passable
+);
+} catch (
+Throwable $e
+) {
+return
+$this
+->
+handleException
+(
+$passable
+,
+$e
+);
+}
+};
+}
+/**
+*/
+public function
+handle
+(
+$request
+,
+Closure $next
+)
+{
+$this
+->
+clean
+(
+$request
+);
+return
+$next
+(
+$request
+);
+}
+/**
+* Clean the request's data.
+*
+if (
+$callback
+(
+$request
+)) {
+return
+$next
+(
+$request
+);
+}
+}
+return
+parent
+::
+handle
+(
+$request
+,
+$next
+);
+}
+/**
+* Transform the given value.
+*
+// since the object we're given was already a fully instantiated object.
+$parameters
+= [
+$passable
+,
+$stack
+];
+}
+$carry
+=
+method_exists
+(
+$pipe
+,
+$this
+->
+method
+)
+?
+$pipe
+->{
+$this
+->
+method
+}(...
+$parameters
+)
+:
+$pipe
+(...
+$parameters
+);
+return
+$this
+->
+handleCarry
+(
+$carry
+);
+} catch (
+Throwable $e
+) {
+return
+$this
+->
+handleException
+(
+$passable
+,
+$e
+);
+*/
+public function
+handle
+(
+$request
+,
+Closure $next
+)
+{
+$this
+->
+clean
+(
+$request
+);
+return
+$next
+(
+$request
+);
+}
+/**
+* Clean the request's data.
+*
+if (
+$callback
+(
+$request
+)) {
+return
+$next
+(
+$request
+);
+}
+}
+return
+parent
+::
+handle
+(
+$request
+,
+$next
+);
+}
+/**
+* Transform the given value.
+*
+// since the object we're given was already a fully instantiated object.
+$parameters
+= [
+$passable
+,
+$stack
+];
+}
+$carry
+=
+method_exists
+(
+$pipe
+,
+$this
+->
+method
+)
+?
+$pipe
+->{
+$this
+->
+method
+}(...
+$parameters
+)
+:
+$pipe
+(...
+$parameters
+);
+return
+$this
+->
+handleCarry
+(
+$carry
+);
+} catch (
+Throwable $e
+) {
+return
+$this
+->
+handleException
+(
+$passable
+,
+$e
+);
+if (
+$max
+>
+0
+&&
+$request
+->
+server
+(
+'CONTENT_LENGTH'
+) >
+$max
+) {
+throw new
+PostTooLargeException
+;
+}
+return
+$next
+(
+$request
+);
+}
+/**
+* Determine the server 'post_max_size' as bytes.
+*
+// since the object we're given was already a fully instantiated object.
+$parameters
+= [
+$passable
+,
+$stack
+];
+}
+$carry
+=
+method_exists
+(
+$pipe
+,
+$this
+->
+method
+)
+?
+$pipe
+->{
+$this
+->
+method
+}(...
+$parameters
+)
+:
+$pipe
+(...
+$parameters
+);
+return
+$this
+->
+handleCarry
+(
+$carry
+);
+} catch (
+Throwable $e
+) {
+return
+$this
+->
+handleException
+(
+$passable
+,
+$e
+);
+null
+,
+$this
+->
+getHeaders
+(
+$data
+)
+);
+}
+return
+$next
+(
+$request
+);
+}
+/**
+* Determine if the incoming request has a maintenance mode bypass cookie.
+*
+// since the object we're given was already a fully instantiated object.
+$parameters
+= [
+$passable
+,
+$stack
+];
+}
+$carry
+=
+method_exists
+(
+$pipe
+,
+$this
+->
+method
+)
+?
+$pipe
+->{
+$this
+->
+method
+}(...
+$parameters
+)
+:
+$pipe
+(...
+$parameters
+);
+return
+$this
+->
+handleCarry
+(
+$carry
+);
+} catch (
+Throwable $e
+) {
+return
+$this
+->
+handleException
+(
+$passable
+,
+$e
+);
+*/
+public function
+handle
+(
+$request
+,
+Closure $next
+)
+{
+// Check if we're dealing with CORS and if we should handle it
+if (!
+$this
+->
+shouldRun
+(
+$request
+)) {
+return
+$next
+(
+$request
+);
+}
+// For Preflight, return the Preflight response
+if (
+$this
+->
+cors
+->
+isPreflightRequest
+(
+$request
+)) {
+$response
+=
+$this
+->
+cors
+->
+handlePreflightRequest
+(
+$request
+);
+// since the object we're given was already a fully instantiated object.
+$parameters
+= [
+$passable
+,
+$stack
+];
+}
+$carry
+=
+method_exists
+(
+$pipe
+,
+$this
+->
+method
+)
+?
+$pipe
+->{
+$this
+->
+method
+}(...
+$parameters
+)
+:
+$pipe
+(...
+$parameters
+);
+return
+$this
+->
+handleCarry
+(
+$carry
+);
+} catch (
+Throwable $e
+) {
+return
+$this
+->
+handleException
+(
+$passable
+,
+$e
+);
+{
+$request
+::
+setTrustedProxies
+([],
+$this
+->
+getTrustedHeaderNames
+());
+$this
+->
+setTrustedProxyIpAddresses
+(
+$request
+);
+return
+$next
+(
+$request
+);
+}
+/**
+* Sets the trusted proxies on the request.
+*
+// since the object we're given was already a fully instantiated object.
+$parameters
+= [
+$passable
+,
+$stack
+];
+}
+$carry
+=
+method_exists
+(
+$pipe
+,
+$this
+->
+method
+)
+?
+$pipe
+->{
+$this
+->
+method
+}(...
+$parameters
+)
+:
+$pipe
+(...
+$parameters
+);
+return
+$this
+->
+handleCarry
+(
+$carry
+);
+} catch (
+Throwable $e
+) {
+return
+$this
+->
+handleException
+(
+$passable
+,
+$e
+);
+{
+$pipeline
+=
+array_reduce
+(
+array_reverse
+(
+$this
+->
+pipes
+()),
+$this
+->
+carry
+(),
+$this
+->
+prepareDestination
+(
+$destination
+)
+);
+return
+$pipeline
+(
+$this
+->
+passable
+);
+}
+/**
+* Run the pipeline and return the result.
+*
+$this
+->
+bootstrap
+();
+return (new
+Pipeline
+(
+$this
+->
+app
+))
+->
+send
+(
+$request
+)
+->
+through
+(
+$this
+->
+app
+->
+shouldSkipMiddleware
+() ? [] :
+$this
+->
+middleware
+)
+->
+then
+(
+$this
+->
+dispatchToRouter
+());
+}
+/**
+* Bootstrap the application for HTTP requests.
+*
+$this
+->
+requestStartedAt
+=
+Carbon
+::
+now
+();
+try {
+$request
+->
+enableHttpMethodParameterOverride
+();
+$response
+=
+$this
+->
+sendRequestThroughRouter
+(
+$request
+);
+} catch (
+Throwable $e
+) {
+$this
+->
+reportException
+(
+$e
+);
+$response
+=
+$this
+->
+renderException
+(
+$request
+,
+$e
+);
+}
+$app
+= require_once
+__DIR__
+.
+'/../bootstrap/app.php'
+;
+$kernel
+=
+$app
+->
+make
+(
+Kernel
+::class);
+$response
+=
+tap
+(
+$kernel
+->
+handle
+(
+$request
+=
+Request
+::
+capture
+()
+))->
+send
+();
+$kernel
+->
+terminate
+(
+$request
+,
+$response
+);
+ErrorException
+Undefined variable $homeAds
+<button type="button" class="close text-white position-absolute front-ad-btn" id="overlay-close-btn"
+onclick=" closeAds()">
+<span aria-hidden="true" class="display-5">X</span>
+</button>
+<div class="modal-body">
+<?php
+if(
+$homeAds
+==
+'image'
+):
+?>
+<?php
+echo
+$__env
+->
+make
+(
+"ads.banner"
+, [
+'zone'
+=>
+123
+,
+'width'
+=>
+320
+,
+'height'
+=>
+480
+,
+'resize'
+=>
+1
+] ,
+\Illuminate\Support\Arr
+::
+except
+(
+get_defined_vars
+(), [
+'__data'
+,
+'__path'
+]))->
+render
+();
+?>
+<?php
+else:
+?>
+* @return callable
+*/
+protected function
+forwardsTo
+(
+$method
+)
+{
+return fn (...
+$arguments
+) => static::
+$app
+?
+$this
+->{
+$method
+}(...
+$arguments
+)
+:
+false
+;
+}
+/**
+* Determine if the error level is a deprecation.
+<button type="button" class="close text-white position-absolute front-ad-btn" id="overlay-close-btn"
+onclick=" closeAds()">
+<span aria-hidden="true" class="display-5">X</span>
+</button>
+<div class="modal-body">
+<?php
+if(
+$homeAds
+==
+'image'
+):
+?>
+<?php
+echo
+$__env
+->
+make
+(
+"ads.banner"
+, [
+'zone'
+=>
+123
+,
+'width'
+=>
+320
+,
+'height'
+=>
+480
+,
+'resize'
+=>
+1
+] ,
+\Illuminate\Support\Arr
+::
+except
+(
+get_defined_vars
+(), [
+'__data'
+,
+'__path'
+]))->
+render
+();
+?>
+<?php
+else:
+?>
+$__data
+=
+$data
+;
+return (static function () use (
+$__path
+,
+$__data
+) {
+extract
+(
+$__data
+,
+EXTR_SKIP
+);
+return require
+$__path
+;
+})();
+}
+throw new
+FileNotFoundException
+(
+"File does not exist at path
+{
+$path
+}
+."
+);
+}
+return (static function () use (
+$__path
+,
+$__data
+) {
+extract
+(
+$__data
+,
+EXTR_SKIP
+);
+return require
+$__path
+;
+})();
+}
+throw new
+FileNotFoundException
+(
+"File does not exist at path
+{
+$path
+}
+."
+);
+}
+// We'll evaluate the contents of the view inside a try/catch block so we can
+// flush out any stray output that might get out before an error occurs or
+// an exception is thrown. This prevents any partial views from leaking.
+try {
+$this
+->
+files
+->
+getRequire
+(
+$path
+,
+$data
+);
+} catch (
+Throwable $e
+) {
+$this
+->
+handleViewException
+(
+$e
+,
+$obLevel
+);
+}
+return
+ltrim
+(
+ob_get_clean
+());
+// Once we have the path to the compiled file, we will evaluate the paths with
+// typical PHP just like any other templates. We also keep a stack of views
+// which have been rendered for right exception messages to be generated.
+try {
+$results
+=
+$this
+->
+evaluatePath
+(
+$this
+->
+compiler
+->
+getCompiledPath
+(
+$path
+),
+$data
+);
+} catch (
+ViewException $e
+) {
+if (!
+str
+(
+$e
+->
+getMessage
+())->
+contains
+([
+'No such file or directory'
+,
+'File does not exist at path'
+])) {
+throw
+$e
+;
+}
+*
+* @return string
+*/
+protected function
+getContents
+()
+{
+return
+$this
+->
+engine
+->
+get
+(
+$this
+->
+path
+,
+$this
+->
+gatherData
+());
+}
+/**
+* Get the data bound to the view instance.
+*
+// clear out the sections for any separate views that may be rendered.
+$this
+->
+factory
+->
+incrementRender
+();
+$this
+->
+factory
+->
+callComposer
+(
+$this
+);
+$contents
+=
+$this
+->
+getContents
+();
+// Once we've finished rendering the view, we'll decrement the render count
+// so that each section gets flushed out next time a view is created and
+// no old sections are staying around in the memory of an environment.
+$this
+->
+factory
+->
+decrementRender
+();
+* @throws \Throwable
+*/
+public function
+render
+(callable
+$callback
+=
+null
+)
+{
+try {
+$contents
+=
+$this
+->
+renderContents
+();
+$response
+= isset(
+$callback
+) ?
+$callback
+(
+$this
+,
+$contents
+) :
+null
+;
+// Once we have the contents of the view, we will flush the sections if we are
+// done rendering all views so that there is nothing left hanging over when
+</p>
+</div>
+<?php $__env
+->
+stopSection
+();
+?>
+<?php
+echo
+$__env
+->
+make
+(
+"layouts.base"
+,
+\Illuminate\Support\Arr
+::
+except
+(
+get_defined_vars
+(), [
+'__data'
+,
+'__path'
+]))->
+render
+();
+?><?php
+/**PATH /home/panet/www/resources/views/errors/404.blade.php ENDPATH**/
+?>
+$__data
+=
+$data
+;
+return (static function () use (
+$__path
+,
+$__data
+) {
+extract
+(
+$__data
+,
+EXTR_SKIP
+);
+return require
+$__path
+;
+})();
+}
+throw new
+FileNotFoundException
+(
+"File does not exist at path
+{
+$path
+}
+."
+);
+}
+return (static function () use (
+$__path
+,
+$__data
+) {
+extract
+(
+$__data
+,
+EXTR_SKIP
+);
+return require
+$__path
+;
+})();
+}
+throw new
+FileNotFoundException
+(
+"File does not exist at path
+{
+$path
+}
+."
+);
+}
+// We'll evaluate the contents of the view inside a try/catch block so we can
+// flush out any stray output that might get out before an error occurs or
+// an exception is thrown. This prevents any partial views from leaking.
+try {
+$this
+->
+files
+->
+getRequire
+(
+$path
+,
+$data
+);
+} catch (
+Throwable $e
+) {
+$this
+->
+handleViewException
+(
+$e
+,
+$obLevel
+);
+}
+return
+ltrim
+(
+ob_get_clean
+());
+// Once we have the path to the compiled file, we will evaluate the paths with
+// typical PHP just like any other templates. We also keep a stack of views
+// which have been rendered for right exception messages to be generated.
+try {
+$results
+=
+$this
+->
+evaluatePath
+(
+$this
+->
+compiler
+->
+getCompiledPath
+(
+$path
+),
+$data
+);
+} catch (
+ViewException $e
+) {
+if (!
+str
+(
+$e
+->
+getMessage
+())->
+contains
+([
+'No such file or directory'
+,
+'File does not exist at path'
+])) {
+throw
+$e
+;
+}
+*
+* @return string
+*/
+protected function
+getContents
+()
+{
+return
+$this
+->
+engine
+->
+get
+(
+$this
+->
+path
+,
+$this
+->
+gatherData
+());
+}
+/**
+* Get the data bound to the view instance.
+*
+// clear out the sections for any separate views that may be rendered.
+$this
+->
+factory
+->
+incrementRender
+();
+$this
+->
+factory
+->
+callComposer
+(
+$this
+);
+$contents
+=
+$this
+->
+getContents
+();
+// Once we've finished rendering the view, we'll decrement the render count
+// so that each section gets flushed out next time a view is created and
+// no old sections are staying around in the memory of an environment.
+$this
+->
+factory
+->
+decrementRender
+();
+* @throws \Throwable
+*/
+public function
+render
+(callable
+$callback
+=
+null
+)
+{
+try {
+$contents
+=
+$this
+->
+renderContents
+();
+$response
+= isset(
+$callback
+) ?
+$callback
+(
+$this
+,
+$contents
+) :
+null
+;
+// Once we have the contents of the view, we will flush the sections if we are
+// done rendering all views so that there is nothing left hanging over when
+// If this content implements the "Renderable" interface then we will call the
+// render method on the object so we will avoid any "__toString" exceptions
+// that might be thrown and have their errors obscured by PHP's handling.
+elseif (
+$content
+instanceof
+Renderable
+) {
+$content
+=
+$content
+->
+render
+();
+}
+parent
+::
+setContent
+(
+$content
+);
+return
+$this
+;
+*/
+public function
+__construct
+(
+$content
+=
+''
+,
+$status
+=
+200
+, array
+$headers
+= [])
+{
+$this
+->
+headers
+= new
+ResponseHeaderBag
+(
+$headers
+);
+$this
+->
+setContent
+(
+$content
+);
+$this
+->
+setStatusCode
+(
+$status
+);
+$this
+->
+setProtocolVersion
+(
+'1.0'
+);
+}
+/**
+* @param  array  $headers
+* @return \Illuminate\Http\Response
+*/
+public function
+make
+(
+$content
+=
+''
+,
+$status
+=
+200
+, array
+$headers
+= [])
+{
+return new
+Response
+(
+$content
+,
+$status
+,
+$headers
+);
+}
+/**
+* Create a new "no content" response.
+*
+{
+if (
+is_array
+(
+$view
+)) {
+return
+$this
+->
+make
+(
+$this
+->
+view
+->
+first
+(
+$view
+,
+$data
+),
+$status
+,
+$headers
+);
+}
+return
+$this
+->
+make
+(
+$this
+->
+view
+->
+make
+(
+$view
+,
+$data
+),
+$status
+,
+$headers
+);
+}
+/**
+* Create a new JSON response instance.
+*
+if (
+$view
+=
+$this
+->
+getHttpExceptionView
+(
+$e
+)) {
+return
+response
+()->
+view
+(
+$view
+, [
+'errors'
+=> new
+ViewErrorBag
+,
+'exception'
+=>
+$e
+,
+],
+$e
+->
+getStatusCode
+(),
+$e
+->
+getHeaders
+());
+}
+return
+$this
+->
+convertExceptionToResponse
+(
+$e
+);
+}
+if (!
+$this
+->
+isHttpException
+(
+$e
+)) {
+$e
+= new
+HttpException
+(
+500
+,
+$e
+->
+getMessage
+());
+}
+return
+$this
+->
+toIlluminateResponse
+(
+$this
+->
+renderHttpException
+(
+$e
+),
+$e
+)->
+prepare
+(
+$request
+);
+}
+/**
+* Create a Symfony response for the given exception.
+*/
+protected function
+renderExceptionResponse
+(
+$request
+,
+Throwable $e
+)
+{
+return
+$this
+->
+shouldReturnJson
+(
+$request
+,
+$e
+)
+?
+$this
+->
+prepareJsonResponse
+(
+$request
+,
+$e
+)
+:
+$this
+->
+prepareResponse
+(
+$request
+,
+$e
+);
+}
+/**
+* Convert an authentication exception into a response.
+*
+return match (
+true
+) {
+$e
+instanceof
+HttpResponseException
+=>
+$e
+->
+getResponse
+(),
+$e
+instanceof
+AuthenticationException
+=>
+$this
+->
+unauthenticated
+(
+$request
+,
+$e
+),
+$e
+instanceof
+ValidationException
+=>
+$this
+->
+convertValidationExceptionToResponse
+(
+$e
+,
+$request
+),
+default =>
+$this
+->
+renderExceptionResponse
+(
+$request
+,
+$e
+),
+};
+}
+/**
+* Prepare exception for rendering.
+//
+});
+}
+public function
+render
+(
+$request
+,
+Throwable $exception
+)
+{
+return
+parent
+::
+render
+(
+$request
+,
+$exception
+);
+}
+}
+$handler
+=
+$this
+->
+container
+->
+make
+(
+ExceptionHandler
+::class);
+$handler
+->
+report
+(
+$e
+);
+$response
+=
+$handler
+->
+render
+(
+$passable
+,
+$e
+);
+if (
+is_object
+(
+$response
+) &&
+method_exists
+(
+$response
+,
+'withException'
+)) {
+$response
+->
+withException
+(
+$e
+);
+}
+{
+return function (
+$passable
+) use (
+$destination
+) {
+try {
+return
+$destination
+(
+$passable
+);
+} catch (
+Throwable $e
+) {
+return
+$this
+->
+handleException
+(
+$passable
+,
+$e
+);
+}
+};
+}
+/**
+*/
+public function
+handle
+(
+$request
+,
+Closure $next
+)
+{
+$this
+->
+clean
+(
+$request
+);
+return
+$next
+(
+$request
+);
+}
+/**
+* Clean the request's data.
+*
+if (
+$callback
+(
+$request
+)) {
+return
+$next
+(
+$request
+);
+}
+}
+return
+parent
+::
+handle
+(
+$request
+,
+$next
+);
+}
+/**
+* Transform the given value.
+*
+// since the object we're given was already a fully instantiated object.
+$parameters
+= [
+$passable
+,
+$stack
+];
+}
+$carry
+=
+method_exists
+(
+$pipe
+,
+$this
+->
+method
+)
+?
+$pipe
+->{
+$this
+->
+method
+}(...
+$parameters
+)
+:
+$pipe
+(...
+$parameters
+);
+return
+$this
+->
+handleCarry
+(
+$carry
+);
+} catch (
+Throwable $e
+) {
+return
+$this
+->
+handleException
+(
+$passable
+,
+$e
+);
+*/
+public function
+handle
+(
+$request
+,
+Closure $next
+)
+{
+$this
+->
+clean
+(
+$request
+);
+return
+$next
+(
+$request
+);
+}
+/**
+* Clean the request's data.
+*
+if (
+$callback
+(
+$request
+)) {
+return
+$next
+(
+$request
+);
+}
+}
+return
+parent
+::
+handle
+(
+$request
+,
+$next
+);
+}
+/**
+* Transform the given value.
+*
+// since the object we're given was already a fully instantiated object.
+$parameters
+= [
+$passable
+,
+$stack
+];
+}
+$carry
+=
+method_exists
+(
+$pipe
+,
+$this
+->
+method
+)
+?
+$pipe
+->{
+$this
+->
+method
+}(...
+$parameters
+)
+:
+$pipe
+(...
+$parameters
+);
+return
+$this
+->
+handleCarry
+(
+$carry
+);
+} catch (
+Throwable $e
+) {
+return
+$this
+->
+handleException
+(
+$passable
+,
+$e
+);
+if (
+$max
+>
+0
+&&
+$request
+->
+server
+(
+'CONTENT_LENGTH'
+) >
+$max
+) {
+throw new
+PostTooLargeException
+;
+}
+return
+$next
+(
+$request
+);
+}
+/**
+* Determine the server 'post_max_size' as bytes.
+*
+// since the object we're given was already a fully instantiated object.
+$parameters
+= [
+$passable
+,
+$stack
+];
+}
+$carry
+=
+method_exists
+(
+$pipe
+,
+$this
+->
+method
+)
+?
+$pipe
+->{
+$this
+->
+method
+}(...
+$parameters
+)
+:
+$pipe
+(...
+$parameters
+);
+return
+$this
+->
+handleCarry
+(
+$carry
+);
+} catch (
+Throwable $e
+) {
+return
+$this
+->
+handleException
+(
+$passable
+,
+$e
+);
+null
+,
+$this
+->
+getHeaders
+(
+$data
+)
+);
+}
+return
+$next
+(
+$request
+);
+}
+/**
+* Determine if the incoming request has a maintenance mode bypass cookie.
+*
+// since the object we're given was already a fully instantiated object.
+$parameters
+= [
+$passable
+,
+$stack
+];
+}
+$carry
+=
+method_exists
+(
+$pipe
+,
+$this
+->
+method
+)
+?
+$pipe
+->{
+$this
+->
+method
+}(...
+$parameters
+)
+:
+$pipe
+(...
+$parameters
+);
+return
+$this
+->
+handleCarry
+(
+$carry
+);
+} catch (
+Throwable $e
+) {
+return
+$this
+->
+handleException
+(
+$passable
+,
+$e
+);
+*/
+public function
+handle
+(
+$request
+,
+Closure $next
+)
+{
+// Check if we're dealing with CORS and if we should handle it
+if (!
+$this
+->
+shouldRun
+(
+$request
+)) {
+return
+$next
+(
+$request
+);
+}
+// For Preflight, return the Preflight response
+if (
+$this
+->
+cors
+->
+isPreflightRequest
+(
+$request
+)) {
+$response
+=
+$this
+->
+cors
+->
+handlePreflightRequest
+(
+$request
+);
+// since the object we're given was already a fully instantiated object.
+$parameters
+= [
+$passable
+,
+$stack
+];
+}
+$carry
+=
+method_exists
+(
+$pipe
+,
+$this
+->
+method
+)
+?
+$pipe
+->{
+$this
+->
+method
+}(...
+$parameters
+)
+:
+$pipe
+(...
+$parameters
+);
+return
+$this
+->
+handleCarry
+(
+$carry
+);
+} catch (
+Throwable $e
+) {
+return
+$this
+->
+handleException
+(
+$passable
+,
+$e
+);
+{
+$request
+::
+setTrustedProxies
+([],
+$this
+->
+getTrustedHeaderNames
+());
+$this
+->
+setTrustedProxyIpAddresses
+(
+$request
+);
+return
+$next
+(
+$request
+);
+}
+/**
+* Sets the trusted proxies on the request.
+*
+// since the object we're given was already a fully instantiated object.
+$parameters
+= [
+$passable
+,
+$stack
+];
+}
+$carry
+=
+method_exists
+(
+$pipe
+,
+$this
+->
+method
+)
+?
+$pipe
+->{
+$this
+->
+method
+}(...
+$parameters
+)
+:
+$pipe
+(...
+$parameters
+);
+return
+$this
+->
+handleCarry
+(
+$carry
+);
+} catch (
+Throwable $e
+) {
+return
+$this
+->
+handleException
+(
+$passable
+,
+$e
+);
+{
+$pipeline
+=
+array_reduce
+(
+array_reverse
+(
+$this
+->
+pipes
+()),
+$this
+->
+carry
+(),
+$this
+->
+prepareDestination
+(
+$destination
+)
+);
+return
+$pipeline
+(
+$this
+->
+passable
+);
+}
+/**
+* Run the pipeline and return the result.
+*
+$this
+->
+bootstrap
+();
+return (new
+Pipeline
+(
+$this
+->
+app
+))
+->
+send
+(
+$request
+)
+->
+through
+(
+$this
+->
+app
+->
+shouldSkipMiddleware
+() ? [] :
+$this
+->
+middleware
+)
+->
+then
+(
+$this
+->
+dispatchToRouter
+());
+}
+/**
+* Bootstrap the application for HTTP requests.
+*
+$this
+->
+requestStartedAt
+=
+Carbon
+::
+now
+();
+try {
+$request
+->
+enableHttpMethodParameterOverride
+();
+$response
+=
+$this
+->
+sendRequestThroughRouter
+(
+$request
+);
+} catch (
+Throwable $e
+) {
+$this
+->
+reportException
+(
+$e
+);
+$response
+=
+$this
+->
+renderException
+(
+$request
+,
+$e
+);
+}
+$app
+= require_once
+__DIR__
+.
+'/../bootstrap/app.php'
+;
+$kernel
+=
+$app
+->
+make
+(
+Kernel
+::class);
+$response
+=
+tap
+(
+$kernel
+->
+handle
+(
+$request
+=
+Request
+::
+capture
+()
+))->
+send
+();
+$kernel
+->
+terminate
+(
+$request
+,
+$response
+);
+Stack Traces
+3
+[3/3]
+ViewException
+Illuminate\View\ViewException:
+Undefined variable $homeAds (View: /home/panet/www/resources/views/layouts/base.blade.php) (View: /home/panet/www/resources/views/layouts/base.blade.php)
+
+  at /home/panet/www/storage/framework/views/aacf8fc68aad8bdee4631a9061d1f61586f3a0c2.php:106
+  at Illuminate\View\Engines\CompilerEngine->handleViewException()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php:60)
+  at Illuminate\View\Engines\PhpEngine->evaluatePath()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php:70)
+  at Illuminate\View\Engines\CompilerEngine->get()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/View/View.php:152)
+  at Illuminate\View\View->getContents()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/View/View.php:135)
+  at Illuminate\View\View->renderContents()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/View/View.php:104)
+  at Illuminate\View\View->render()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Http/Response.php:69)
+  at Illuminate\Http\Response->setContent()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Http/Response.php:35)
+  at Illuminate\Http\Response->__construct()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php:57)
+  at Illuminate\Routing\ResponseFactory->make()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php:87)
+  at Illuminate\Routing\ResponseFactory->view()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php:618)
+  at Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php:543)
+  at Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php:449)
+  at Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php:366)
+  at Illuminate\Foundation\Exceptions\Handler->render()
+     (/home/panet/www/app/Exceptions/Handler.php:46)
+  at App\Exceptions\Handler->render()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php:51)
+  at Illuminate\Routing\Pipeline->handleException()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php:143)
+  at Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php:21)
+  at Illuminate\Foundation\Http\Middleware\TransformsRequest->handle()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ConvertEmptyStringsToNull.php:31)
+  at Illuminate\Foundation\Http\Middleware\ConvertEmptyStringsToNull->handle()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php:180)
+  at Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php:21)
+  at Illuminate\Foundation\Http\Middleware\TransformsRequest->handle()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TrimStrings.php:40)
+  at Illuminate\Foundation\Http\Middleware\TrimStrings->handle()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php:180)
+  at Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php:27)
+  at Illuminate\Foundation\Http\Middleware\ValidatePostSize->handle()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php:180)
+  at Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php:86)
+  at Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance->handle()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php:180)
+  at Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}()
+     (/home/panet/www/vendor/fruitcake/laravel-cors/src/HandleCors.php:38)
+  at Fruitcake\Cors\HandleCors->handle()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php:180)
+  at Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Http/Middleware/TrustProxies.php:39)
+  at Illuminate\Http\Middleware\TrustProxies->handle()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php:180)
+  at Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php:116)
+  at Illuminate\Pipeline\Pipeline->then()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php:165)
+  at Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php:134)
+  at Illuminate\Foundation\Http\Kernel->handle()
+     (/home/panet/www/public/index.php:51)
+[2/3]
+ViewException
+Illuminate\View\ViewException:
+Undefined variable $homeAds (View: /home/panet/www/resources/views/layouts/base.blade.php)
+
+  at /home/panet/www/storage/framework/views/aacf8fc68aad8bdee4631a9061d1f61586f3a0c2.php:106
+  at Illuminate\View\Engines\CompilerEngine->handleViewException()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php:60)
+  at Illuminate\View\Engines\PhpEngine->evaluatePath()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php:70)
+  at Illuminate\View\Engines\CompilerEngine->get()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/View/View.php:152)
+  at Illuminate\View\View->getContents()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/View/View.php:135)
+  at Illuminate\View\View->renderContents()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/View/View.php:104)
+  at Illuminate\View\View->render()
+     (/home/panet/www/storage/framework/views/6291053a40b126a94ff2b32a0d2d7c8df5074641.php:23)
+  at require('/home/panet/www/storage/framework/views/6291053a40b126a94ff2b32a0d2d7c8df5074641.php')
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:109)
+  at Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:110)
+  at Illuminate\Filesystem\Filesystem->getRequire()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php:58)
+  at Illuminate\View\Engines\PhpEngine->evaluatePath()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php:70)
+  at Illuminate\View\Engines\CompilerEngine->get()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/View/View.php:152)
+  at Illuminate\View\View->getContents()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/View/View.php:135)
+  at Illuminate\View\View->renderContents()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/View/View.php:104)
+  at Illuminate\View\View->render()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Http/Response.php:69)
+  at Illuminate\Http\Response->setContent()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Http/Response.php:35)
+  at Illuminate\Http\Response->__construct()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php:57)
+  at Illuminate\Routing\ResponseFactory->make()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php:87)
+  at Illuminate\Routing\ResponseFactory->view()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php:618)
+  at Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php:543)
+  at Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php:449)
+  at Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php:366)
+  at Illuminate\Foundation\Exceptions\Handler->render()
+     (/home/panet/www/app/Exceptions/Handler.php:46)
+  at App\Exceptions\Handler->render()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php:51)
+  at Illuminate\Routing\Pipeline->handleException()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php:143)
+  at Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php:21)
+  at Illuminate\Foundation\Http\Middleware\TransformsRequest->handle()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ConvertEmptyStringsToNull.php:31)
+  at Illuminate\Foundation\Http\Middleware\ConvertEmptyStringsToNull->handle()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php:180)
+  at Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php:21)
+  at Illuminate\Foundation\Http\Middleware\TransformsRequest->handle()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TrimStrings.php:40)
+  at Illuminate\Foundation\Http\Middleware\TrimStrings->handle()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php:180)
+  at Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php:27)
+  at Illuminate\Foundation\Http\Middleware\ValidatePostSize->handle()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php:180)
+  at Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php:86)
+  at Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance->handle()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php:180)
+  at Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}()
+     (/home/panet/www/vendor/fruitcake/laravel-cors/src/HandleCors.php:38)
+  at Fruitcake\Cors\HandleCors->handle()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php:180)
+  at Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Http/Middleware/TrustProxies.php:39)
+  at Illuminate\Http\Middleware\TrustProxies->handle()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php:180)
+  at Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php:116)
+  at Illuminate\Pipeline\Pipeline->then()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php:165)
+  at Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php:134)
+  at Illuminate\Foundation\Http\Kernel->handle()
+     (/home/panet/www/public/index.php:51)
+[1/3]
+ErrorException
+ErrorException:
+Undefined variable $homeAds
+
+  at /home/panet/www/storage/framework/views/aacf8fc68aad8bdee4631a9061d1f61586f3a0c2.php:106
+  at Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php:259)
+  at Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}()
+     (/home/panet/www/storage/framework/views/aacf8fc68aad8bdee4631a9061d1f61586f3a0c2.php:106)
+  at require('/home/panet/www/storage/framework/views/aacf8fc68aad8bdee4631a9061d1f61586f3a0c2.php')
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:109)
+  at Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:110)
+  at Illuminate\Filesystem\Filesystem->getRequire()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php:58)
+  at Illuminate\View\Engines\PhpEngine->evaluatePath()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php:70)
+  at Illuminate\View\Engines\CompilerEngine->get()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/View/View.php:152)
+  at Illuminate\View\View->getContents()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/View/View.php:135)
+  at Illuminate\View\View->renderContents()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/View/View.php:104)
+  at Illuminate\View\View->render()
+     (/home/panet/www/storage/framework/views/6291053a40b126a94ff2b32a0d2d7c8df5074641.php:23)
+  at require('/home/panet/www/storage/framework/views/6291053a40b126a94ff2b32a0d2d7c8df5074641.php')
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:109)
+  at Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:110)
+  at Illuminate\Filesystem\Filesystem->getRequire()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php:58)
+  at Illuminate\View\Engines\PhpEngine->evaluatePath()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php:70)
+  at Illuminate\View\Engines\CompilerEngine->get()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/View/View.php:152)
+  at Illuminate\View\View->getContents()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/View/View.php:135)
+  at Illuminate\View\View->renderContents()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/View/View.php:104)
+  at Illuminate\View\View->render()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Http/Response.php:69)
+  at Illuminate\Http\Response->setContent()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Http/Response.php:35)
+  at Illuminate\Http\Response->__construct()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php:57)
+  at Illuminate\Routing\ResponseFactory->make()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php:87)
+  at Illuminate\Routing\ResponseFactory->view()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php:618)
+  at Illuminate\Foundation\Exceptions\Handler->renderHttpException()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php:543)
+  at Illuminate\Foundation\Exceptions\Handler->prepareResponse()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php:449)
+  at Illuminate\Foundation\Exceptions\Handler->renderExceptionResponse()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php:366)
+  at Illuminate\Foundation\Exceptions\Handler->render()
+     (/home/panet/www/app/Exceptions/Handler.php:46)
+  at App\Exceptions\Handler->render()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php:51)
+  at Illuminate\Routing\Pipeline->handleException()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php:143)
+  at Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php:21)
+  at Illuminate\Foundation\Http\Middleware\TransformsRequest->handle()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ConvertEmptyStringsToNull.php:31)
+  at Illuminate\Foundation\Http\Middleware\ConvertEmptyStringsToNull->handle()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php:180)
+  at Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php:21)
+  at Illuminate\Foundation\Http\Middleware\TransformsRequest->handle()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TrimStrings.php:40)
+  at Illuminate\Foundation\Http\Middleware\TrimStrings->handle()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php:180)
+  at Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php:27)
+  at Illuminate\Foundation\Http\Middleware\ValidatePostSize->handle()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php:180)
+  at Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php:86)
+  at Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance->handle()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php:180)
+  at Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}()
+     (/home/panet/www/vendor/fruitcake/laravel-cors/src/HandleCors.php:38)
+  at Fruitcake\Cors\HandleCors->handle()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php:180)
+  at Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Http/Middleware/TrustProxies.php:39)
+  at Illuminate\Http\Middleware\TrustProxies->handle()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php:180)
+  at Illuminate\Pipeline\Pipeline->Illuminate\Pipeline\{closure}()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php:116)
+  at Illuminate\Pipeline\Pipeline->then()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php:165)
+  at Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+     (/home/panet/www/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php:134)
+  at Illuminate\Foundation\Http\Kernel->handle()
+     (/home/panet/www/public/index.php:51)

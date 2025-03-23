@@ -1,0 +1,280 @@
+Welcome to the BMW Motorrad Connected app
+The high level of trust you place in the quality of our products and services is the guiding principle we follow when handling your data. We endeavour to establish and maintain the foundations for a trusting business relationship with our customers and prospective customers. We take the confidentiality and integrity of your personal data very seriously. That is why we will process and use your data carefully, for the specified purpose or in accordance with your consent and in compliance with the statutory data protection provisions.
+Last updated: October 2023
+Who is responsible for processing the data?
+Bayerische Motoren Werke Aktiengesellschaft, Petuelring 130, 80788 Munich, with its registered office in Munich and entry in the commercial register at the Munich Local Court under number HRB 42243 (hereinafter referred to as "BMW"). The BMW Motorrad ConnectedRide service (hereinafter referred to as the "Service") is a family of applications and other services, and incorporates the BMW Motorrad Connected App for iOS and Android.. BMW provides you with the Service and handles the associated data processing activities.
+What information can be collected about you and how is it used?
+In order to provide you with the personalised features and the various functions of the Service, BMW collects, stores and processes your vehicle data and personal data in accordance with applicable law.
+The vehicle data and personal data collected for the Service in question will be processed for the following purposes:
+A. Entering into a contract for the full use of the Service (Article 6(1b) GDPR)
+The BMW Motorrad Connected app offers services that work without logging in as well as services that can only be used after a successful login.
+To be able to make full use of the BMW Motorrad Connected app, you must log in using the BMW Group ID. The following categories of data are processed for this purpose:
+Account login (BMW Group ID)
+Contact details (surname, first name, e-mail address, etc.)
+If you do not yet have a BMW Group ID, you can register for one. Once you have registered, you will receive an online customer account that gives you access to further portals and offers from the BMW Group. For the BMW Group login service, your data will be passed on to the BMW Group company that acts as the provider of the applications you use. BMW AG stores data from your customer account separately from any other (including potentially identical) data about you that may be available to the BMW Group.
+B. Provision of the personalised features of the Service (Article 6(1b) GDPR)
+The BMW Motorrad Connected app offers a variety of services that work without logging in as well as services that can only be used after a successful login.
+For this purpose
+, the Service in question collects and processes a variety of data.
+Service data
+User profile (name, surname etc.)
+Position and motion data (time, position, speed, etc.)
+Destination (position, street address, name of destination, etc.)
+Travel time estimates (estimated travel time)
+Contacts (name, address, telephone number)
+Vehicle profile (vehicle identification number; VIN etc.)
+BMW branch or customer service (preferences, etc.)
+Environmental information (temperature, rain, etc.)
+Anonymised application statistics (clicks, app starts, etc.)
+Vehicle data
+Vehicle ID (links your vehicle to the Service)
+Vehicle maintenance data (next service, oil level, brake wear, etc.)
+Vehicle status data (mileage, fuel level, etc.)
+Service descriptions
+Use of your location
+You can authorise the app to record your location as long as you are actively using the app or the app is open in the background. You do not have to agree to the recording of your location in order to use the app, but certain functions of the app are dependant on the permission to use the location information from your mobile device and vehicle. If you authorise the app to use your location, features such as navigation are possible via the app (destination guidance, POI search, position display on the navigation maps).
+If you also allow your location to be used and recorded, your rides are recorded and saved in "Activities". The "Activities" function must be activated manually once in order for the routes to be recorded. All route data can be viewed and deleted by the app user at any time. Deleting the vehicle profile also results in the removal of all associated "Activities".
+In this context, please note that the continued activation of GPS running in the background can significantly reduce the battery life of your mobile device.
+Provided that you have consented to the recording of your location information, the app will store your location data in "Activities" indefinitely. If you choose not to permit location sharing to the app or the "Activities" function is not turned on, the app will no longer record your location information.
+Digital map
+The digital map in the app is provided by TOMTOM International BV. For the purpose of displaying the digital map, the location is transmitted from your mobile device directly to TOMTOM International BV. All data processing by TOMTOM International BV is based solely on this location information, without any other data about you or your mobile device, and in accordance with TOMTOM International BV's Privacy Policy. You can find this at
+https://www.tomtom.com/privacy/
+.
+Localisation via last mile function
+The app shows you the location of your parked vehicle on the map. The app requires location sharing of the mobile device for this function.
+Vehicle status
+The vehicle status displayed in the app (e.g. maintenance interval, check control messages) is saved/displayed in the app and deleted as soon as the vehicle profile is removed.
+Status report
+Vehicles with ConnectedRide Service have the option of sending a status report. For this purpose, status information from the vehicle is periodically sent to BMW IT systems during and upon completion of the ride, and the most recent status is saved.
+Only as a verified customer can you view the motorbike's status information in the BMW Motorrad Connected app. The verification process takes place in the app with the motorbike connected by Bluetooth. The user must be logged in with a BMW ID for this.
+The service is only activated once the verification process between a BMW ID and the vehicle is completed successfully, and can be deactivated either in the app on the connected motorbike or on the motorbike itself by resetting the vehicle to factory settings. Once deactivated, the motorbike stops sending status information to BMW IT systems.
+Data in the status report:
+Vehicle profile (vehicle identification number; VIN etc.)
+Vehicle maintenance data (next service, oil level, brake wear, etc.)
+Vehicle status data (mileage, fuel level, etc.)
+Battery Guard
+The state of charge of the 12-volt battery is cyclically monitored when the motorbike is stationary for long periods. If the state of charge falls below a critical threshold, the motorbike sends the vehicle status to BMW IT systems, provided status reports are activated, so that verified users can be sent a notification about the state of charge via the BMW Motorrad Connected app. The Battery Guard is activated alongside the "Status Report" for vehicle models enabled ex works.
+If the verification process is completed successfully and the "Status Report" has also been activated, the Battery Guard shall also be active. Permissions to receive notifications must be activated separately in the BMW Motorrad Connected app.
+Deactivating the Status Report via the app or on the vehicle also automatically deactivates the Battery Guard.
+Locating a petrol station
+The app uses the "Petrol station search" function on the start page to find the nearest petrol station for you. In order to do so, the app sends your current location to the servers of TOMTOM International BV. The server then determines the nearest petrol station and transmits this information to the app.
+To use this function, you must authorise the app to record your location while you are actively using the app or the app is open in the background.
+Search function
+The app includes a search function that allows you to search for an address or a point of interest in the app as well as in the vehicle. For this purpose, the app transmits the search term and your current location to an external service provider in order to display a list of places or addresses corresponding to the search criteria. The determined destination is transferred to the navigation and can be called up again via "Last destinations" or via "Favourites". The list can be deleted at any time via the corresponding menu item at the bottom of the page.
+To use this function, you must authorise the app to record your location while you are actively using the app or the app is open in the background.
+Weather function
+The app provides you with weather information at your current location. This information is provided through our partner VAISALA (Vaisala GmbH). In order to do this, the app sends your current location to VAISALA's servers. The servers determine the weather information and then transmit it to the app.
+To use this function, you must authorise the app to record your location while you are actively using the app or the app is open in the background.
+Usage analysis
+The app also collects information on the use of the app. The information which is delivered in a way that cannot be traced back to you personally is transferred to our commissioned service provider MIXPANEL (Mixpanel, Inc., Attn: DPO, 405 Howard St., 2nd Floor, San Francisco, CA 94105) in the USA. Furthermore, this information is transmitted together with the app ID which is created when using the app for the first time. The app ID is created in a way that does not allow the user behind the app ID to be identified. We analyse this information, which is not traceable to you, in pursuit of our legitimate interest in order to understand how each feature is used and which features are most popular. This allows us to assess how the app can be further improved and implement appropriate measures.
+If you wish to object to this usage analysis, you can separate the unique app ID from the transmitted usage information. In order to do so, please deselect the "Allow use of data analytics" item in the app settings. There, you will be given the opportunity to use the app without any further collection of anonymous usage data. For more information on data processing by MIXPANEL, please visit:
+https://mixpanel.com/legal/privacy-overview/
+In the unlikely event of a serious malfunction and a resulting app crash, we offer you the opportunity to submit technical details to us. In this way, we can ensure that the stability and quality of the software is continuously increased. Based on your consent, this data is transmitted to our contracted service provider APPCENTER (Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399) in the USA and processed there accordingly before it is viewed by our support staff. The information cannot be traced back to you personally. For more information on data processing by APPCENTER, please visit:
+https://docs.microsoft.com/en-us/appcenter/gdpr/
+.
+Feedback function
+You have the option of sending us any suggestions for improvement or enquiries via e-mail. In order to be able to support you appropriately, data necessary for technical support is already transferred automatically to the e-mail template. You can remove these from the email at any time if required. In order to process your request comprehensively, we reserve the right to contact you subsequently via e-mail.
+Synchronisation of your data (with login)
+The Service offers to store your app data on BMW's servers. This data includes, among other things, recorded and planned routes. If you change your terminal device or if your terminal device is no longer usable, you can continue to use your data on a new terminal device.
+Delete
+You can delete the data from your app at any time. There are several ways to delete the data:
+For some data types, you can delete individual data elements, e.g. a single target.
+You can delete all app data by selecting the "Reset app" function in the app settings. This will delete all data generated and collected locally by the app, but will not delete your BMW login, vehicle data and other non-app data.
+To delete all data that has been processed as part of the synchronisation and stored on BMW servers, please select the function "Delete my data from ConnectedRide services" in the app
+To exercise your right to be forgotten, please contact your local customer service centre.
+Consent
+When you start the app for the first time, you will be asked to give your consent for some specific types of data before the service starts collecting the data. If you decline, the functions that require this data will be disabled.
+Special consent is required for:
+Position (geo-localisation)
+Contacts (name, address, telephone number)
+Receiving notifications
+Photos
+Refusal of data collection
+You have the right to unsubscribe at any time.
+If you want to continue using the app but do not want to continue allowing data collection for certain types of data.
+You can disable access to location, contacts, photos and notifications in the settings menu of the app.
+If you refuse to collect other data, the app will stop working.
+Deleting your app data via the "reset app" button in the app settings.
+Deleting the app from your phone.
+C. Ensuring product quality and the development of new products (Art. 6(1)(f) GDPR)
+Beyond the mere provision of the service, the data according to Section B is also processed with the aim of quality assurance and the development of new products and services by BMW. These processing measures serve BMW's justified goal of providing products and services of the highest quality as well as new and innovative offerings.
+To protect your privacy, data used to improve our products and develop new services is stored in a form that does not link it directly to you or your vehicle.
+The stability of the Service is continuously monitored. When critical system faults are detected, some of the data collected under Section B may be examined in more detail with the aim of determining the cause of the fault and its rectification. Access to this information is strictly limited and only occurs when it proves necessary to correct critical errors.
+D. Consent-based customer care (Art. 6(1)(a) GDPR)
+If you have separately granted your consent for more extensive use of your personal data, your personal data may be used within the scope described in the consent, for example for marketing purposes (selected offers on products and services from the BMW Group and its advertising partners) and with your separate consent also used by BMW AG and, if applicable, transferred to certain subsidiaries of BMW AG and select BMW dealers with a higher level of personalisation, based on an individual customer profile and/or market research. Further details are available from the corresponding declaration of consent, which you can withdraw at any time.
+E. Compliance with the legal provisions to which BMW is subject (Art. 13(1)(c), Art. 6(1)(c) GDPR)
+BMW also processes personal data if there is a corresponding legal obligation. This is the case, for example, if your vehicle is the subject of a recall or other technical measures.
+In addition, the collected data is also used in the context of securing the operation of the IT systems (backend and vehicle); such as:
+In backup and recovery procedures for data processed in the IT systems.
+As part of logging and monitoring measures to verify the functionality of the IT systems.
+The detection and prevention of unauthorised access to data to ensure the integrity and security of IT systems.
+In event and problem management for debugging IT systems.
+The data collected is also processed as part of our internal compliance management process, which we use to check that the contract has adequately informed you and that the authorised BMW retailer has complied with all legal requirements.
+BMW is subject to a large number of other legal requirements and cooperates with the relevant authorities within the scope of these. For this purpose, we process your data to the extent necessary and pass it on to the competent authorities, if necessary within the scope of legal reporting obligations or upon lawful request.
+Furthermore, we may process your data in the event of a legal dispute if the legal dispute necessitates the processing of your data.
+F. Transfer of data to third parties
+The Service includes functions that selected third parties use to provide certain functions. In most cases, the data is anonymised, such as the request to the map service provider to provide the map image to your location. In other cases, features can only be executed if personal data is transferred to third parties.
+If personal data must be transferred to third parties in order to carry out features, you will be informed accordingly or must give your consent before the data is transferred.
+Data may also be transferred to other third parties (e.g. public authorities) if we are lawfully requested to hand over data.
+How do we collect your personal data?
+BMW collects your personal data under the following circumstances:
+The app runs actively either in the foreground or background of your mobile device.
+You are actively using the features of the app.
+If you use the Service via an integrated device, the Service collects anonymised usage statistics.
+How do we ensure the security of the information?
+We back up your data using the latest technology. For example, we apply the following security measures, among others, to protect your personal data against misuse or any other form of unauthorised processing:
+Access to personal data is restricted to a limited number of authorised people and for specific purposes.
+The data is only transmitted in encrypted form.
+The data is stored in encrypted form.
+The IT systems used for data processing are technically separated from other systems to prevent unauthorised access, for example through hacking.
+Access to the systems is continuously monitored in order to be able to detect and report any misuse at an early stage.
+How long do we store your data?
+We only store your personal data for as long as is necessary for the respective purposes.  If the data are processed for different purposes, they are then automatically deleted immediately or stored in a form that cannot be traced back to you as soon as these purposes have been fulfilled.
+Depending on the data type, the Service stores the data for different periods of time.  The storage period results from the following categories:
+Data stored until a process, command or action is completed (example: starting a navigation)
+Data is stored for a defined period of time (for example, analytical data is stored for three years)
+Data is stored until you delete it or do not use the Service for more than five years (example: your user profile, manually entered destinations)
+Who do we share your data with and how do we protect it?
+BMW is a company operating on a global scale.  In the EU, your personal data is preferably processed by BMW employees, national sales companies, authorised dealers and service providers commissioned by us.
+If data is processed outside the EU, BMW will ensure that your personal data is processed in accordance with the European data protection directives using standard contracts in accordance with EU requirements and in accordance with appropriate technical and organisational measures.
+How to view and change your privacy preferences
+You can check and change your privacy settings at any time in the settings menu of the app.
+Your data protection rights, your right to complain and your right to contact BMW
+As BMW processes your data, you have the opportunity to exercise certain rights under the General Data Protection Regulation and other relevant protective legislation.   This section describes your rights under the General Data Protection Regulation (GDPR).
+Your rights
+Under the GDPR, you have the following rights:
+Right to revocation of consent (Art. 7 GDPR):
+If you wish to withdraw your consent to the processing of your data by the Service, select the "Reset app" option in the app and then delete the app from your smartphone.
+Right to access your information (Art. 15 GDPR):
+You have a right to access the personal data we hold about you at any time. This right to access concerns, among other things, the categories of data we process, the purposes of processing, the source of the data if we do not receive it directly from you and, where applicable, the recipients to whom your data is disclosed. You will receive a free copy of your data. If you require additional copies, we reserve the right to charge you accordingly.
+You can view the data collected or created by the Service in the app itself. In the app, data is shown as part of the display of the feature that captures or uses it.
+Right to rectification (Art. 16 GDPR):
+You can request BMW to correct your data. We will take appropriate steps to ensure the up-to-dateness, accuracy, completeness and relevance of the personal data we hold and process about you based on the latest information available to us.
+You can generally rectify the data processed by the Service in the app itself. In some exceptional cases, for example in the event of changes in the domestic market, our Customer Support team will assist you in rectifying your data.
+Right to erasure (Art. 17 GDPR):
+Provided that the legal requirements are met, you can request the deletion of your data.
+According to Art. 17 GDPR, this is the case when:
+The data are no longer necessary for the purposes for which they were collected or otherwise processed.
+You withdraw your consent on which the data processing was based and there is no legal basis for the processing.
+You object to the processing of your data and there is no legal basis for the processing or you object to the processing of data for direct marketing purposes.
+The data has been processed unlawfully.
+Unless the processing is necessary in order to:
+Comply with legal requirements under which we are obliged to process your data; this applies in particular to legally prescribed retention periods.
+Assert, exercise or defend legal claims.
+Right to restriction of processing (Art. 18 GDPR):
+You may refuse us the right to process on the following grounds:
+If you object to the accuracy of the data, no further processing of the data will take place until we have had the opportunity to verify the accuracy of the data in question;
+If the processing is unlawful, you object to the erasure of your data. and request a restriction of use instead.
+We no longer need your data, but you do need it to assert, exercise or defend legal claims.
+You object to the processing, and there are no overriding legitimate interests on our part in processing your data that override your personal rights.
+Right to data portability (Art. 20 GDPR):
+At your request, we will transfer your data to other data controllers under the prerequisite of technical feasibility. However, you only have this right if the data processing is based on your consent or a contract. Instead of receiving a copy of your data yourself, you can instruct us to transfer the data directly to another data controller to be named by you.
+Right to object (Art. 21 GDPR):
+You have the right to object to data processing at any time on grounds relating to your particular situation, provided that it is based on your consent or our legitimate interests or those of third parties. In this case, we will not continue to process your data. The latter does not apply if we can demonstrate compelling legitimate grounds for processing that override your interests, or if your data is used to assert, exercise or defend legal claims.
+Time limits for the fulfilment of data subjects' rights:
+We will use our best endeavours to meet your requirements within 30 days. However, this deadline may be extended due to the specific rights or complexity of your requests.
+Information restriction in the implementation of data subjects' rights:
+In certain circumstances, we may not be able to disclose all information about your data to you due to legal requirements. If we are forced to object to your right to information in these cases, we will inform you of the reasons for the refusal at that time.
+Complaints to the regulatory bodies:
+BMW AG takes your concerns and rights very seriously. However, if you believe that we are not handling your complaints or concerns with due care, you can lodge a complaint with the relevant data protection authority.
+Contact BMW
+For this purpose, please contact BMW Customer Service
+via e-mail:
+connectedride@bmw.com
+Or you can contact the BMW data protection officer directly:
+BMW AG
+Datenschutzbeauftragter
+Petuelring 130
+80788 München
+datenschutz@bmw.de
+Version 1.2 Endpoint ROW (en)
+Sub-section Policy: 
+Sub-policy 0
+https://www.tomtom.com/privacy/:
+Privacy and your information
+We respect your privacy
+At TomTom, we believe that your private data is yours, and we do everything it takes to keep it truly private.
+When you are using a TomTom navigation product or app, you can understand what personal data we collect from you and how we are using it. You can also control what we do with your data. By letting us use your data, you’re helping TomTom make better products for you – contributing to a safer, cleaner and congestion-free world.
+This privacy policy contains a comprehensive overview of our privacy approach. TomTom sat nav devices and apps such as AmiGO or GO Navigation contain more specific product-related privacy details on your device.
+This privacy policy was last edited on August 1, 2024, and subject to change at any time with or without further notice. We recommend that you re-visit from time to time to see if there have been updates.
+General
+Big data
+Help us learn
+Security
+TomTom account
+California Privacy Rights
+Drive
+Location and journey data
+Maps and mobile mapping vehicles
+Online
+TomTom websites and online marketing
+Cookies and preferences
+Built-in location technology
+Connected vehicles and location intelligence
+Developer Portal
+Communication with TomTom
+Visitors
+Applying for a job
+More information
+What is our legal basis for using your personal data?
+How can you manage your personal data?
+Who has access to your personal data?
+Where do we store your personal data?
+How long do we store your personal data?
+Subprocessors
+Do you have any questions or complaints?
+social media
+/
+TomTom
+/
+TomTom
+/
+TomTom
+/
+TomTom
+/
+tomtomglobal
+For drivers
+Navigation apps
+Personal and professional sat navs
+In-dash navigation
+Accessories
+Maps and service updates
+Support
+Careers
+Jobs
+Offices
+Benefits
+How we hire
+Diversity and inclusion
+Company
+About us
+Customers
+Newsroom
+Events
+Press releases
+Investors
+TomTom Traffic Index
+TomTom Customer Portal
+TomTom MOVE
+TomTom Suppliers
+United Kingdom
+English
+Privacy policy
+Legal information
+Terms of use
+Cookies
+Report vulnerabilities
+Report a map change
+Impressum
+Copyright ©
+2025
+TomTom International BV. All rights reserved.
+At TomTom, we’re all about helping you get around. That’s why we use cookies to improve our sites, to improve your browsing experience, to offer social media functionalities, to streamline and personalize our marketing content and to show you personalized advertisements based on your interests (including on third party websites). You can change your preferences by clicking ‘Cookie preferences’. More info at
+tomtom.com/cookies
+.
+Accept all
+Accept all
+Preferences
+Sub-policy 1
+https://mixpanel.com/legal/privacy-overview/:

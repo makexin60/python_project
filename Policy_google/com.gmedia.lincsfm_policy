@@ -1,0 +1,20 @@
+This Android application is developed and supplied on behalf of the radio station by Aiir.
+The current version of this app requires the following user permissions:
+Location
+approximate location (network-based)
+precise location (GPS and network-based)
+This information is used to provide functionality for finding the most relevant radio station for you based on location when more than one is available in the application. It is also used to deliver more relevant advertising based on where you are. This information is always anonymised and can not directly identify you or tie your identity to your location.
+Phone
+read phone status and identity
+Device ID & call information
+read phone status and identity
+When listening the radio we need to interrupt playback when you receive a phone call and resume playback once a call is complete so that the radio doesn't continue to play whilst on the phone. To provide this functionality we require this permission to tell if the phone is "in use". We do not read any information on who you are calling or your phonebook.
+Other
+view network connections
+full network access
+run at startup
+prevent device from sleeping
+Our application streams the radio station over any available network connection and, where possible, prefers using Wi-Fi over mobile data as it is commonly cheaper and of better quality. This is why we require network access to assess and utilise the best avaialble network connection. Run at startup allows us to prepare the application for a faster launch and reduce memory usage where the playback portion of the app can run without the user interface when it is not visible. Prevent device sleeping is used in limited circumstances to ensure a good user experience.
+If you have any further questions about this app or any of the above information, please contact
+appsupport@aiir.com
+On Air

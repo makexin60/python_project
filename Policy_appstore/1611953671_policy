@@ -1,0 +1,27 @@
+Picto Palette
+Provides a quick and easy way to generate a colour palette from an image.
+Start by selecting an image from your photo library, maybe a screenshot, or by taking a photo with your camera.
+Once an image is selected, we will calculate the average colour from the image, as well as the main colours in the image.
+Long press on a saved colour pair to show the option to remove the saved colour pair.
+There are filters, max colours and rounding, that allow you to tailor the automatically calculated colours.
+Max colours
+: will limit the maximum number of colours that are calculated
+Rounding
+: will reduce the over all colours that can be calculated by rounding the value of each colour component, red, green, blue, to fewer decimal places.
+You can also manually select colours from the image, or from a colour picker to create your own custom palette. Click on the coloured circle to open the colour picker. Then either select a colour, or use the eye dropper tool to allow you to manually select specific colours from the image / screen.
+Hint: when using the eye dropper to select colours, if you select a colour from the palette first, then the screen will scroll to the top of the image so that you should be able to select from the whole image.
+If you tap on a colour in one of the colour grids, it will show you the hexadecimal value for that colour. You can long press on a colour in a colour grid to remove it from the palette.
+You can select the sharing option to export:
+All colours
+: all the manually selected and automatically calculated colours
+Manual colours only
+: only export the colours that you manually chose
+Automatic colours only
+: only export the automatically chosen colours
+If you have any suggestions for future improvements to this application (e.g. additional animal groups) then please email us at:
+picto-palette@software101.co.uk
+We are always happy to hear feedback, criticism, praise or suggestions. Email us at:
+picto-palette@software101.co.uk
+Privacy Policy
+This app does not use any 3rd party frameworks or tracking libraries. We do not store or use any personal information, and only have access to use your photo library if you permit it.
+Provide Feedback →

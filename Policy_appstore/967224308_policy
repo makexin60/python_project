@@ -1,0 +1,387 @@
+Privacy notices
+Rotamap provide two privacy notices relating to the storage
+                            and processing of personal data pursuant to the General Data
+                            Protection Regulation (GDPR) which comes into effect on
+                            25th May 2018.
+The privacy notices cover two different areas. The first
+                            covers the use of personal data in our software as a service
+                            (SAAS) services, and the second covers the use of personal data
+                            in our support, marketing and related activities. In some cases
+                            an individual's personal data may be covered by both privacy
+                            notices.
+SAAS privacy notice
+The "Rotamap Software as a Service Privacy Notice"
+                            covers the use of personal data in our staff rostering
+                            services, CLWRota and Medirota.
+Support and marketing privacy notice
+The "Rotamap Support and Marketing Privacy Notice"
+                            covers the use of personal data in our company's support
+                            of customers and contact and correspondence with customers
+                            and organisational individuals for sales and marketing
+                            purposes.
+Book a demo
+Leave us a message and we'll be in touch to see how we can help.
+Please make sure both 'Email' and the verification checkbox are completed.
+Your email
+Message
+Send demo request
+Sub-section Policy: 
+Sub-policy 0
+https://rotamap.net/resources/saas:
+Rotamap Software as a Service Privacy Notice
+Revision N, 20th December 2024
+contractual documentation
+Introduction
+This privacy notice pertains to Rotamap's software as a service
+(SaaS) clinical staff rostering services, CLWRota, Medirota, Overview, and
+Central Reporting.
+This notice explains how personal data is used in the services for
+clinicians, rota administrators and those who deal with personnel and
+rota-related data between departments. This document provides 'privacy
+information' pursuant to the General Data Protection Regulation (GDPR)
+and aims to follow the guidelines concerning
+privacy
+information
+and
+privacy
+notices
+set out by the United Kingdom's Information Commissioner's
+Office (ICO). The documented information is equally compatible with the guidance for
+data processing and privacy notices
+provided by Guernsey's Office of the Data Protection Authority (ODPA).
+To correspond with the Rotamap team concerning this privacy notice and
+the privacy information contained in it or any other requests or
+enquiries concerning personal data please contact Rotamap at
+privacy@rotamap.net
+, or at the
+contact address provided at the end of this document.
+System overview
+Rotamap provide four software as a service (SaaS) services: CLWRota,
+Medirota, Central Reporting, and Overview. There is more information about each of
+these services available at
+www.rotamap.net/clwrota
+,
+www.rotamap.net/medirota
+,
+www.rotamap.net/central-reporting
+,
+and
+www.rotamap.net/overview
+.
+CLWRota is a specialist rota management system for anaesthetic
+departments. Medirota is a rota management system for all other clinical
+staff groups. Central Reporting reports on department rotas within an
+organisation. Overviews combine real-time rostering information between
+Medirota and CLWRota instances.
+Rotamap's SaaS services are provided over the internet between our servers
+and standard web browsers on devices such as desktop computers, tablets and
+smart phones and native iOS and Android apps. Communications between client
+devices and the servers are encrypted using HTTPS encryption and authentication
+is required to access resources on the services.
+Credentialled access to the services is enforced through the use and
+expiration of authentication tokens and/or cookies. User passwords are stored
+in hashed format in our databases.
+Rotamap's servers are located in server racks maintained by Rotamap
+staff in ISO27001, ISO5001 accredited facilities in London and Slough, UK.
+Our provider has PCI-DSS accreditation. Physical access to our
+servers requires multiple levels of authentication. Database backups are
+public/private key encrypted. Network access to servers between data centers or
+from the internet is via multiple levels of firewalls and performed over either
+HTTPS or SSH encrypted channels.
+The services, including all live databases and encrypted backups, are provided
+from these servers unless otherwise agreed.
+Rotamap aims to take a ‘data protection by design and default’
+approach as recommended by the Information Commissioner's Office.
+Relationships with organisations and individuals
+Rotamap's SaaS services are taken up at an organisational level, for example by
+NHS Trusts, hospitals or departments. A group of individuals are appointed by
+the organisation to administer the services, which requires certain personal
+information to be held for both the administrators and rostered staff members.
+The organisation acts as 'data controller' and determines whose information is
+used in the system. Each instance of the service is contained within its own
+discrete database on our servers.
+Rotamap's SaaS services store this personal information and process it
+using computer code to provide rota management services to the
+organisation, the rostered staff, and other parties given access to the
+rota information by the organisation, for example the organisation's
+theatre management team. Rotamap's staff may also access personal or
+rota information to provide training or assistance to the administrative
+team when called upon to do so by the organisation or to investigate
+software bugs. Rotamap acts as 'data processor' to the organisation and
+we have a legal requirement to maintain records of the personal data we
+hold and how it is processed.
+Administrators and rostered staff members therefore can approach both
+the organisation, as data controller, or Rotamap, as data processor, for
+further information about their rights, the type and use of personal
+information or access requests.
+Rotamap's services are not to be used for patient information.
+Personal data held and processed in our systems
+Administrative staff are identified by their name, email address and
+role in the system. Administrative actions are logged against the user
+who made those actions.
+Rostered staff are identified primarily by their name, email address and role
+in the system. Ancillary information may include mobile phone numbers, home
+telephone number, bleep number, GMC number and employee number for linking with
+external payroll systems, training module assignments and optional short notes
+about the individual, for example sub-specialty skill sets for rostering
+purposes. The individual's start date is recorded, as is their end date if
+known.
+In order to roster staff, different types of planning configuration are
+typically made to set the recurrent planned work patterns of each
+individual. The amount of anticipated work for a period, such as a year,
+may be also be set. Individual profiles may similarly be associated with
+rules to determine their non-availability.
+For active rotas, staff may be assigned to an activity based on the
+planned configuration or through direct assignment by an administrator,
+thereby associating the staff member with the qualities of that
+assignment which may include the values of that assignment in, for
+example, PA and hour units amongst others, the name of the session, and
+any notes and markers.
+Calculations are performed through the system software to process the
+above information to determine whether a staff member may be assignable
+to an activity or not. Similarly calculations are performed to determine
+what assignments have been made historically for reporting purposes,
+including, for example, determining if a staff member may be assigned to
+another annualised session for the year.
+Administrators can view rotas, as can participating staff members whose
+activities are rostered in the system and whose term of service has not
+expired. The organisation may also provide read-only views to other
+parties to allow, for example, clinic management teams to learn which
+clinicians are due to work in a particular week.
+Rotamap services include leave management and messaging facilities.  Leave
+managament includes storing leave requests, their associated information and
+decision notes together with the impact of that leave on the rota.  Users send
+messages to staff members which are then stored in the system, which may also
+be sent as alerts via channels such as email, push or text message depending on
+the staff member's settings and/or the urgency of the communication. The
+organisation may configure the messaging system to alert other parties, such as
+theatre or clinic team members, to events such as a clinician's approved or
+cancelled leave.
+Organisations can choose to record additional information to aid
+processing additional paid work, such as agreed payment rates and
+duration for specific assignments.
+Information stored in the system is retained for the duration of Rotamap's
+contract with the organisation unless otherwise directed by the
+organisation. This is to ensure that historical records such as the
+nature and timing of particular events can be retrieved.
+Information in the system is accessible to administrators and those who
+deal with personnel and rota-related data for reporting purposes.
+Individuals whose term of service has not expired can also run reports
+on their own activity and view their profiles. Application Programming
+Interface (API) access to system data can be enabled by the department
+to provide programmatic access to the data useful for integration into
+other services. API access to all department data in a Trust may also be
+provided via Central Reporting.
+Clinicians are able to access their rota and leave data in an iCalendar
+format feed which can be viewed and/or subscribed to in external calendar
+applications.
+Where agreed with the organisation under contract, Rotamap may process data
+from the NHS Electronic Staff Record (ESR) on behalf of the organisation in
+order to save pertinent ESR data relating to staff in Rotamap's systems to
+assist with reporting and payroll services.  Pertinent saved details include
+the ESR name, role, contact details, employee and assignment numbers. A full
+list of information shared between Rotamap services and ESR can be found in the
+ESR Generic Outbound Interface documentation. ESR data may be used for
+submitting absence and attendance records from our systems to ESR. Data sharing
+with external service providers is covered under the organisation's agreements
+with ESR and the NHS Electronic Staff Record (ESR) privacy notice.
+Further use of data
+Apart from the uses noted above personal data is also streamed between
+servers to ensure that services can be maintained in the case of a
+server failure, and backups are made twice a day of each database and
+then GPG private/public key encrypted before being stored on other
+servers over encrypted SSH channels.
+To fix a specific software fault or issue a department database may be
+copied and psuedo-anonymised in a secure environment for investigation.
+For all other purposes a department database may be copied and used in
+an environment controlled by Rotamap staff only after being fully
+anonymised to remove all personal details.
+Data from the databases are used to provide aggregate data with no
+personal attributes for use in department analysis reports and to
+provide data sets for, for example, academic articles.
+Messaging services may be provided through third parties whose privacy policies
+[1] and GDPR compliance [2] have been checked. All message details including
+content and recipient number are deleted after 90 days.
+Our native Android and iOS apps use Google Firebase Cloud Messaging, Analytics,
+and Crashlytics. These services collect a unique token identifier, which Cloud
+Messaging uses to deliver push messages, and which Crashlytics and Analytics
+use to collect anonymised information on how our apps are used as well as crash
+reports. All information collected is only used to provide our services and
+to improve how our apps work.
+Privacy and GDPR information for Firebase can be found on their
+Data Processing and Security Terms
+.
+Google will delete an inactive token within 180 days, active tokens remain active until:
+The app is restored on a new device
+The user uninstalls/reinstalls the app
+The user clears the app data
+No personal information is provided by Rotamap to any other third party unless
+otherwise agreed with the data controller.
+Personal data rights
+The UK GDPR sets out various important rights relating to personal
+data which are summarised on the
+ICO's
+website
+. Relevant rights pertaining to personal data in the
+Bailiwick of Guernsey Law 2017 are summarised on
+the ODPA
+website
+. These rights include the right to be informed, right of
+access, right of rectification and several others. Individuals may
+contact Rotamap, as data processor, for information about any of these
+rights.
+Individuals whose personal data are stored in Rotamap's systems who
+wish to exercise one of these rights are advised to contact their
+hospital organisation (as data controller) to initiate the process.
+Rotamap will help to facilitate any actioned requests in our capacity as
+data processor.
+You can make an access request, or exercise one of your rights, by
+emailing
+privacy@rotamap.net
+.
+[1] SMS provider privacy policies:
+Plivo
+;
+Twilio
+[2] SMS provider GDPR information:
+Plivo
+;
+Twilio
+Demonstrations
+Contact us to arrange a web presentation or to receive more information about CLWRota or Medirota
+Events
+Spring 2025 Forum
+21 March 2025
+Rotamap ADR Event
+8 November 2024
+Autumn 2023 Event
+29 September 2023
+Articles
+We're measuring, reporting and reducing our carbon emissions
+23 November 2023
+Theatre delivery and COVID-19 recovery, then vs now
+1 November 2022
+How to link with ESR
+23 May 2022
+Data
+Improved theatre planning results in enhanced theatre delivery
+February 2024
+Theatre delivery and COVID-19 recovery, then vs now
+November 2022
+Cross-department benchmarking data
+April 2022
+Book a demo
+Leave us a message and we'll be in touch to see how we can help.
+Please make sure both 'Email' and the verification checkbox are completed.
+Your email
+Message
+Send demo request
+Sub-policy 1
+https://rotamap.net/resources/support-marketing:
+Rotamap Support and Marketing Privacy Notice
+Revision J, 30 August 2024
+contractual documentation
+Introduction
+This privacy notice pertains to Rotamap's customer support and sales and
+marketing activities.
+This notice explains how personal data is used when performing these
+activities and provides 'privacy information' pursuant to the General
+Data Protection Regulation (GDPR) and aims to follow the guidelines
+concerning
+privacy information
+and
+privacy notices
+set out by the Information Commissioner's Office.
+Rotamap acts as data controller when storing or processing personal
+information and does such storage and processing under either contract
+or in relation to contract administration or under the rule of
+legitimate interests both with regard to Rotamap's commercial interests
+and the client, or potential client's, potential benefit from a business
+relationship. Rotamap works to ensure that the processing and storage of
+personal data is appropriate to the scope of these interests.
+To correspond with the Rotamap team concerning this privacy notice and
+the privacy information contained in it or any other requests or
+enquiries concerning personal data please contact Rotamap at
+privacy@rotamap.net
+, or at the
+contact address provided at the end of this document.
+Systems overview
+Rotamap's internal systems are based on messaging, fileshares and a
+customer relationship management (CRM) system. Access between our staff
+members' computers and mobile devices are performed over HTTPS encrypted
+web connections. Access to the services is controlled by Rotamap's team.
+Contact with individuals at existing or potential customer organisations
+may be recorded in messaging and/or our CRM system. Documents pertaining
+to contracts, renewals and other financial matters are recorded on our
+fileshare systems, and in 3rd party Xero's accounting software.
+The services are protected by firewall and other access controls and
+databases are backed up to GPG private/public key encrypted files. The
+fileshares reside on encrypted filesystems. Backups are transported over
+SSH encrypted channels.
+Rotamap aims to take a ‘data protection by design and default’
+approach as recommended by the Information Commissioner's Office.
+Personal data held and processed in our systems
+The name, role and contact details of organisation representatives may
+be recorded in our systems, together with a narrative concerning the
+reason for the communication that has occurred or may occur. Such
+information may be contextualised in the light of conversations with
+other representatives at the same organisation or to record, for
+example, referrals between individuals in different organisations.
+Records in our CRM system are kept indefinitely to ensure continuity of
+contact with organisations and to maintain records of historical contracts.
+Files pertaining to contracts are similarly retained indefinitely.
+Occasional use of email marketing services are used through a third
+party. This service requires recipients to remain "opted-in" to
+receive emails. Recipients can choose to "opt-out" of this communication
+directly with us or via the third party messaging provider.
+Additionally, messaging information such as email may be stored on our
+messaging provider's service. The GDPR compliance of both third party
+providers has been assessed. No personal information is provided by
+Rotamap to any other third party.
+Personal data in the services is not programmatically mixed with
+information from other sources.
+Personal data rights
+The UK GDPR sets out various important rights relating to personal data
+which are summarised on the
+ICO's website
+.
+These rights include the right to be informed, right of access, right of
+rectification and several others.
+Individuals whose personal data are stored in Rotamap's systems who wish
+to exercise one of these rights can contact Rotamap (as data
+controller) to do so. We are required to respond to requests in 30 days.
+Please note that communication regarding your case will be dealt with by
+Rotamap's Data Protection Officer.
+You can make an access request, or exercise one of your rights, by
+emailing
+privacy@rotamap.net
+.
+Demonstrations
+Contact us to arrange a web presentation or to receive more information about CLWRota or Medirota
+Events
+Spring 2025 Forum
+21 March 2025
+Rotamap ADR Event
+8 November 2024
+Autumn 2023 Event
+29 September 2023
+Articles
+We're measuring, reporting and reducing our carbon emissions
+23 November 2023
+Theatre delivery and COVID-19 recovery, then vs now
+1 November 2022
+How to link with ESR
+23 May 2022
+Data
+Improved theatre planning results in enhanced theatre delivery
+February 2024
+Theatre delivery and COVID-19 recovery, then vs now
+November 2022
+Cross-department benchmarking data
+April 2022
+Book a demo
+Leave us a message and we'll be in touch to see how we can help.
+Please make sure both 'Email' and the verification checkbox are completed.
+Your email
+Message
+Send demo request

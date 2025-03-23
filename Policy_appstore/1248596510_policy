@@ -1,0 +1,67 @@
+You need to enable JavaScript to run this app.
+KeySalt
+Designed by Lei Zhang
+KeySalt app is an elegant and powerful password management software. It uses an algorithm based on SHA256 to protect your passwords. Besides, it is amazingly easy to use.
+Frankly speaking, it will take you about half an hour to understand how to use it. But after that, you do not need to worry about your passwords in your lifetime.
+这是一款优雅且强大的app。它采用了基于SHA256的算法确保您密码的安全性。另外，它好用到不行。
+坦诚地说，您大概需要花半个小时才能理解如何使用它。但是在那之后，您这一生再也不需要为密码问题而发愁了。
+Try it now!
+×
+Key
+Key should be non-empty.
+Salt
+Salt should match the format: length of password (04 - 20) + type of password (A - E) + a non-empty note.
+e.g. 06Abankpin, 08Emygmail, 12Bkey.
+Password
+N/A
+Strengths（优势）
+You just need to memorize one sentence to securely manage all your passwords.
+The app works offline and does not store any private information of you.
+Five types (e.g., only contains numbers, only contains letters) of passwords can be generated.
+You can have one independent complex password for every of your account.
+Even if some passwords are leaked, all other passwords are still in secure.
+The algorithm is open sourced.
+Of course, the app is free (at least now) and has no In-App Purchase.
+你只需要记住一个句子就可以安全地管理你所有的密码。
+无需联网即可使用，不存储任何个人隐私信息。
+可以用来生成五种类型（例如：仅含数字，仅含小写字母）密码。
+你可以方便地为你的每一个账户生成一个独立的复杂密码。
+即使一些密码泄露了，其他所有密码也仍然安全。
+算法是开源的。
+当然，这个app（至少现在）是免费的，并且没有任何应用内购买。
+Instructions（指南）
+A brief instruction is shown as below:
+Password is calculated based on key and salt. For a pair of given key and salt, the calculated password is also determined (not randomly generated).
+Key is a secret sentence, which is set by you. This sentence should be complex enough. This sentence should be kept as a secret. Do not write it in your office notebook or email. (Of course, our app will never collect or store your key.)
+Salt is a word contains the specification for one password you want to generate. You can specify the length and type of your password in salt. It is not necessary to keep your salt in high security as key. All salts can be stored in this app and backed up by in your notebook.
+According to our algorithm, it is secure to use one key (and multiple salts) for multiple passwords. In this way, you just need to memorize one complex sentence (key) to manage all of your passwords.
+Detailed instructions are already put at appropriate places in the app. Of course, they can also be accessed by clicking the following links:
+Main instruction
+Key instruction
+Salts Table instruction
+Salt instruction
+简要指南如下所示：
+密码是由key和salt计算而来。对于一对确定的key和salt，计算得到的密码也是确定的（非随机生成）。
+key是一个秘密的句子，需要由你来设置。这个句子需要足够复杂。这个句子需要保密。 不要将这个句子写到你的办公室笔记本或者email里。（当然，本app永远不会收集或者存储你的key。）
+salt是一个用来对你想要生成的某个密码进行具体说明的短语。你可以在salt中指明你的密码长度和类型。 salt不需要像key那样高度保密。所有的salt都可以存储在此app里并备份到你的笔记本中。
+根据我们的算法，使用一个key（和多个salt）来产生多个密码是安全的。 这样，你仅仅需要记住一个复杂的句子（key）就可以管理你的所有密码。
+详细的指南已经被放置在app的适当位置。当然，你也可以通过点击下面的链接来查看：
+主指南
+Key指南
+Salts表格指南
+Salt指南
+For Nerds
+The password generation algorithm has been open-sourced. A Python3 version is already put in Github. The repository link is https://github.com/leikdga/keysalt-algorithm.
+About the key verification functionality in iOS app, when the user decides to update stored keyhash, the app will generate a string contains 100 random characters. The app will then store the random string and first 6 hex digits of sha256(key + random_string). When user types key next time, to verify whether typed sentence is the right key, the app just needs to compare first 6 hex digits of sha256(input + random_string) and the stored hex digits.
+If you have any questions about this program or find a bug, please contact with me. My email is leizhanghello AT gmail.com.
+Thanks（感谢）
+Thank my friends for offering help and tolerating my endless questions.
+The iOS app icon is from https://pixabay.com/en/background-brushstroke-color-1366924/.
+感谢我的朋友们为我提供帮助并忍受我无穷无尽的问题。
+iOS app图标来源于https://pixabay.com/en/background-brushstroke-color-1366924/。
+Pay for this program（为本项目付费）
+If you do think this is a great program, please spend some time sharing it with your friends. We do not have any plan to charge now.
+如果你真的认为这是一个好的项目，请花一点时间把它分享给你的朋友们。 目前我们没有任何收费计划。
+Disclaimer（免责声明）
+User agrees that all risks related to the use of this software will be undertaken entirely by the user. The author (Lei Zhang) is not responsible for any loss that may occur. Here "this software" includes iOS app (any version), python code and web version.
+用户同意其使用本软件所存在的风险将完全由用户本人承担。 作者（章雷）对可能发生的损失不承担任何责任。这里所说的“本软件”包括iOS app（任意版本），python代码，网页版本。

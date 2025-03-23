@@ -1,0 +1,1625 @@
+Blink
+Last Upda
+ted:
+28.10.2024
+At
+Vestai Tech Ltd
+(“Company,” “we,” “us,” or “our”), we are committed to safeguarding your personal information. This Privacy Policy explains how we collect, use, and share data through our
+Coin Check
+mobile app and website,
+Coincheckapp.com
+(together, the “Application”). By using our Application, you agree to
+this Privacy Policy and our Terms of Use.
+Company Information:
+Vestai Tech Ltd
+Office 408, Screenworks 22 Highbury Grove, London, United Kingdom, N5 2ER
+Contact Email:
+s@vestai.tech
+I. Information We Collect
+We collect necessary data, such as:
+•
+User profile details
+(e.g., email, username) for account management.
+•
+Device and Internet usage data
+to optimize the app.
+•
+Cookies
+for analyzing usage and enhancing your experience.
+We also use third-party services for data processing and analytics:
+•
+Firebase
+for app data management (
+Firebase Privacy Policy
+)
+•
+AppsFlyer
+for analytics and attribution (
+AppsFlyer Privacy Policy
+)
+•
+Adapty
+for subscription management (
+Adapty Privacy Policy
+)
+Financial transactions are handled through Apple and Google, so
+Vestai Tech Ltd
+does not access your payment details.
+II. How We Use Your Information
+We use collected data to:
+•
+Provide and personalize the Application experience.
+•
+Improve services through analytics.
+•
+Respond to user requests and support inquiries.
+Your data may be shared with our service providers in compliance with applicable regulations.
+III. Data Retention and Your Rights
+We retain your personal information only as long as necessary. You have the right to access, update, delete, or object to our use of your data. For requests, contact
+s@vestai.tech
+.
+IV. Security
+We employ reasonable measures, such as encryption and firewalls, to protect your data, though absolute security cannot be guaranteed.
+V. Children’s Privacy
+We do not knowingly collect data from children under 16; such data is deleted if discovered.
+VI. Changes to This Privacy Policy
+This policy may change, with updates posted at this link.
+For questions, please contact us at
+s@vestai.tech
+.
+© 361. 2024
+Sub-section Policy: 
+Sub-policy 0
+https://firebase.google.com/support/privacy:
+Skip to main content
+firebase.google.com uses cookies from Google to deliver and enhance the quality of its services and to analyze traffic.
+Learn more
+.
+OK, got it
+Build
+More
+Run
+More
+Solutions
+Pricing
+Docs
+More
+Community
+More
+Support
+Go to console
+Developer Support
+Contact Support
+Scope of no-cost support
+Support Guides
+Overview
+FAQ
+Security checklist
+Launch checklist
+Firebase-related service accounts
+Troubleshoot initialization options
+Enable the AdSupport framework
+Dynamic Links deprecation
+Deprecation FAQ
+Export Dynamic Links metadata
+Migrate to App Links & Universal Links
+Migrate from Parse
+Android
+iOS+
+Cloud Audit Logs
+Firebase Management
+Cloud Storage for Firebase
+Firebase Cloud Messaging
+Firebase App Check
+Firebase Security Rules
+Firebase Realtime Database
+Android Device Streaming
+Recent Changes and Updates
+Release Notes
+iOS Release Notes
+Android Release Notes
+JavaScript Release Notes
+Flutter Release Notes
+C++ Release Notes
+Unity Release Notes
+Admin Node.
+js Release Notes
+Admin Java Release Notes
+Admin Python Release Notes
+Admin Go Release Notes
+Admin .
+NET Release Notes
+Security Rules Release Notes
+Firebase CLI Release Notes
+Policies for changes and versioning
+Overview
+Introducing and communicating changes
+Versioning and maintenance
+Legal Information
+Terms of Service
+Paid Services Terms
+Data Processing and Security Terms
+Firebase: Standard Contractual Clauses
+Service Level Agreement for Hosting and Realtime Database
+Cloud Storage for Firebase Service Level Agreement
+Firebase App Indexing User Data Policy
+Crashlytics and App Distribution Terms
+Firebase Subprocessors
+Privacy and Security Information
+Privacy and Security in Firebase
+Designate Data Protection Officers and EU Representatives
+Firebase Data Privacy Inquiries
+Manage Instance ID data
+Clear and export users' data
+Storing privacy settings with Firebase
+Build
+Go to Build
+Build Products
+App Check
+App Hosting
+Authentication
+Cloud Functions
+Cloud Storage
+Data Connect
+Extensions
+Firebase ML
+Firestore
+Genkit
+Hosting
+Realtime Database
+Vertex AI in Firebase
+Generative AI
+Run
+Go to Run
+Run Products
+A/B Testing
+App Distribution
+Cloud Messaging
+Crashlytics
+Google Analytics
+In-App Messaging
+Performance Monitoring
+Remote Config
+Test Lab
+Overview
+Fundamentals
+Build
+Run
+Reference
+Samples
+Learn
+Events
+Stories
+Firebase
+Support
+Send feedback
+Privacy and Security in Firebase
+bookmark_border
+bookmark
+Stay organized with collections
+Save and categorize content based on your preferences.
+On this page
+Data protection
+Firebase support for GDPR and CCPA
+Firebase Data Processing and Security Terms
+Firebase is certified under major privacy and security standards
+Data processing information
+Examples of end-user data processed by Firebase
+Guides for enabling opt-in for end-user data processing
+Data storage and processing locations
+Security information
+Data encryption
+Security practices
+Firebase Service Data
+Examples of how Firebase Service Data is processed by Firebase
+Firebase Service Data use by non-Firebase Google services
+This page outlines Firebase's key security and privacy information. Whether
+you're looking to kick off a new project with Firebase, or curious about how
+Firebase works with your existing project, read on to see how Firebase can help
+protect you and your users.
+Last modified: February 20, 2025
+Data protection
+Firebase support for GDPR and CCPA
+On May 25th, 2018, the EU General Data Protection Regulation (GDPR) replaced the
+1995 EU Data Protection Directive. On January 1, 2020, the California Consumer
+Privacy Act (CCPA) took effect. On January 1, 2023, the California Privacy
+Rights Act (CPRA), which is a data privacy law that amends and expands upon the
+CCPA, took effect. Google is committed to helping our customers succeed under
+these privacy regulations, whether they are large software companies or
+independent developers.
+The GDPR imposes obligations on data controllers and data processors, and the
+CCPA/CPRA imposes obligations on businesses and their service providers.
+Firebase customers typically act as the "data controller" (GDPR) or "business"
+(CCPA/CPRA) for any personal data or information about their end-users they
+provide to Google in connection with their use of Firebase, and Google generally
+operates as a "data processor" (GDPR) or "service provider" (CCPA/CPRA).
+This means that data is under the customer's control. Customers are
+responsible for obligations like fulfilling an individual's rights with respect
+to their personal data or information.
+Firebase Data Processing and Security Terms
+When customers use Firebase, Google is generally a data processor under GDPR and
+processes personal data on their behalf. Similarly, when customers use Firebase,
+Google generally operates as a service provider under the CCPA/CPRA handling
+personal information on their behalf. Firebase terms include
+Data Processing
+and Security Terms
+detailing these
+responsibilities.
+Certain Firebase services governed by the
+Google Cloud Platform (GCP) Terms of Service
+are already covered by associated data processing terms, the
+Cloud Data Processing Addendum
+.
+A complete list of Firebase services currently governed by the GCP Terms of
+Service is available in the
+Terms of Service for Firebase Services
+.
+Google Analytics is a separate service that can be used together with Firebase,
+and is subject to separate
+terms
+.
+Firebase is certified under major privacy and security standards
+ISO and SOC compliance
+All Firebase services (aside from App Indexing) have successfully completed the
+ISO
+27001
+and
+SOC
+1
+,
+SOC
+2
+,
+and
+SOC 3
+evaluation
+process, and some have also completed the
+ISO
+27017
+and
+ISO
+27018
+certification
+process. Compliance reports and certificates for Firebase services governed by
+the GCP Terms of Service may be requested via the
+Compliance Reports
+Manager
+.
+Service name
+ISO 27001
+ISO 27017
+ISO 27018
+SOC 1
+SOC 2
+SOC 3
+Cloud Firestore
+check
+check
+check
+check
+check
+check
+Cloud Functions for Firebase
+check
+check
+check
+check
+check
+check
+Cloud Storage for Firebase
+check
+check
+check
+check
+check
+check
+Firebase A/B Testing
+check
+check
+check
+check
+Firebase App Check
+check
+check
+check
+check
+Firebase App Distribution
+check
+check
+check
+check
+Firebase Authentication
+check
+check
+check
+check
+check
+check
+Firebase Cloud Messaging
+check
+check
+check
+check
+Firebase Crashlytics
+check
+check
+check
+check
+Firebase Dynamic Links
+check
+check
+check
+check
+Firebase Hosting
+check
+check
+check
+check
+Firebase In-App Messaging
+check
+check
+check
+check
+Firebase ML
+check
+check
+check
+check
+Firebase Performance Monitoring
+check
+check
+check
+check
+Firebase Platform
+check
+check
+check
+check
+Firebase Realtime Database
+check
+check
+check
+check
+Firebase Remote Config
+check
+check
+check
+check
+Firebase Test Lab
+check
+check
+check
+check
+check
+check
+Gemini in Firebase
+check
+check
+check
+check
+Vertex AI in Firebase
+check
+check
+check
+check
+International Data Transfers
+As described in our
+Data Privacy Framework
+certification
+,
+we comply with the EU-U.S. and Swiss-U.S. Data Privacy Frameworks (DPF) and the
+UK Extension to the EU-U.S. DPF as set forth by the US Department of Commerce
+regarding the collection, use and retention of personal information from the
+EEA, Switzerland and the UK, respectively. Google LLC (and its wholly-owned US
+subsidiaries unless explicitly excluded) has certified that it adheres to the
+DPF Principles. Google remains responsible for any of your personal information
+that is shared under the Onward Transfer Principle with third parties for
+external processing on our behalf, as described in the
+"Sharing your
+information" section of our Privacy
+Policy
+. To learn more about
+the DPF, and to view Google's certification, please visit the
+DPF
+website
+.
+If you have an inquiry regarding our privacy practices in relation to our DPF
+certification, we encourage you to
+contact
+us
+. Google is
+subject to the investigatory and enforcement powers of the US Federal Trade
+Commission. You may also refer a complaint to your local data protection
+authority and we will work with them to resolve your concern. In certain
+circumstances, the DPF provides the right to invoke binding arbitration to
+resolve complaints not resolved by other means, as described in
+Annex I to the
+DPF
+Principles
+.
+Data processing information
+Examples of end-user data processed by Firebase
+Some Firebase services process your end users' data to provide their service.
+The chart below has examples of how various Firebase services use and handle
+end-user data that may potentially be identifying. In addition, many Firebase
+services offer the ability to request deletion of specific data or control how
+data is handled.
+Firebase service
+End-user data
+How data helps provide the service
+Cloud Functions for Firebase
+IP addresses
+How it helps:
+Cloud Functions uses IP addresses to
+            execute event-handling functions and HTTP functions based on end-user actions.
+Retention:
+Cloud functions only saves IP addresses temporarily, to
+            provide the service.
+Firebase App Check
+Attestation material from supported attestation providers
+App Check tokens from successful attestations
+How it helps:
+Firebase App Check uses attestation
+            material required by the corresponding attestation provider and
+            received from end-user's devices to help establish the integrity of
+            the device and/or the app. Attestation materials are sent to the
+            corresponding attestation provider for validation based on the
+            developer's configuration. App Check tokens obtained from successful
+            attestations are sent with every request to supported Firebase
+            services to access resources protected by App Check.
+Retention:
+Attestation material is not retained by
+            App Check, but when it is sent to attestation providers, it is
+            subject to the terms of those attestation providers. App Check
+            tokens returned from successful attestations are valid throughout
+            their TTL duration, which cannot be longer than 7 days. For
+            developers who use replay protection features, App Check stores the
+            App Check tokens used with these features for at most 30 days. Other
+            App Check tokens not used with replay protection features are not
+            retained by Firebase services.
+Firebase App Distribution
+Users' names
+Email addresses
+iOS UDIDs
+Secure Android IDs
+Firebase
+installation IDs
+Tester feedback (screenshots and text)
+How it helps:
+Firebase App Distribution uses the data to distribute
+            app builds to testers, monitor tester activity, enable tester features like in-app
+            feedback, and associate data with tester devices.
+Retention:
+Firebase App Distribution retains user information
+            until the Firebase customer requests its deletion, after which data is removed from live
+            and backup systems within 180 days.
+Firebase Authentication
+Passwords
+Email addresses
+Phone numbers
+User agents
+IP addresses
+How it helps:
+Firebase Authentication uses the data to enable end-user
+            authentication, and facilitate end-user account management. It also uses user-agent
+            strings and IP addresses to provide added security and prevent abuse during sign-up and
+            authentication.
+Retention:
+Firebase Authentication keeps logged IP addresses for a few
+            weeks. It retains other authentication information until the Firebase customer initiates
+            deletion of the associated user, after which data is removed from live and backup
+            systems within 180 days.
+Firebase Cloud Messaging
+Firebase
+installation IDs
+How it helps:
+Firebase Cloud Messaging uses
+Firebase
+installation IDs to determine which devices to deliver messages to.
+Retention:
+Firebase retains
+Firebase
+installation IDs
+            until the Firebase customer
+            makes an API call to delete the ID. After the call, data is removed from live and backup
+            systems within 180 days.
+Firebase Crashlytics
+Crashlytics Installation UUIDs
+Firebase installations ID
+Crash traces
+Breakpad minidump formatted data
+(NDK crashes only)
+How it helps:
+Firebase Crashlytics uses crash stack
+            traces to associate crashes with a project, send email alerts to
+            project members and display them in the Firebase Console, and help
+            Firebase customers debug crashes. It uses Crashlytics Installation
+            UUIDs to measure the number of users impacted by a crash and
+            minidump data to process NDK crashes. The minidump data is stored
+            while the crash session is being processed and then discarded. The
+            Firebase installation ID enables upcoming features that will enhance
+            crash reporting and crash management services. Refer to
+Examples of stored device information
+for more detail on the types of user information gathered.
+Retention:
+Firebase Crashlytics keeps crash stack traces,
+            extracted minidump data, and associated identifiers (including
+            Crashlytics Installation UUIDs and Firebase installation IDs) for 90 days before
+            starting the process of removing it from live and backup systems.
+Note:
+Firebase Crashlytics stores minidump data only temporarily in order to
+            process NDK crashes.
+Firebase Dynamic Links
+Device specs (iOS)
+IP Addresses (iOS)
+How it helps:
+Dynamic Links uses device specs and IP addresses on iOS to open
+            newly-installed apps to a specific page or context.
+Retention:
+Dynamic Links only stores device specs and IP addresses temporarily, to
+            provide the service.
+Firebase Hosting
+IP addresses
+How it helps:
+Hosting uses IP addresses of incoming requests to detect
+            abuse and provide customers with detailed analysis of usage data.
+Retention:
+Hosting retains IP data for a few months.
+Firebase In-App Messaging
+Firebase
+installation IDs
+How it helps:
+Firebase In-App Messaging
+uses
+Firebase
+installation IDs to determine which devices to deliver messages to.
+Retention:
+Firebase retains
+Firebase
+installation IDs
+            until the Firebase customer
+            makes an API call to delete the ID. After the call, data is removed from live and backup
+            systems within 180 days.
+Firebase ML
+Uploaded Images
+installation auth tokens
+How it helps:
+The Cloud based APIs store uploaded images temporarily,
+            to process and return the analysis to you. Stored images are typically deleted within a
+            few hours. See the Cloud Vision
+Data Usage FAQ
+for more
+            information.
+installation auth tokens
+are used by
+Firebase ML
+for device authentication when interacting with app
+            instances, for example, to distribute developer models to app instances.
+Retention:
+installation auth tokens remain valid until their
+            expiration date. The default token lifetime is one week.
+Firebase Performance Monitoring
+Firebase
+installation IDs
+IP addresses
+How it helps:
+Performance Monitoring
+uses
+Firebase
+installation IDs
+            to calculate the number of unique Firebase installations that access network resources,
+            to ensure that access patterns are sufficiently anonymous. It also uses
+Firebase
+installation IDs with
+Firebase Remote Config
+to manage the rate of performance event reporting. Additionally, it uses IP
+            addresses to map performance events to the countries they originate from. For more
+            information, see
+Data collection
+.
+Retention:
+Performance Monitoring
+keeps IP-associated
+            events for 30 days, and it keeps installation-associated and de-identified performance
+            data for 60 days before starting the process of removing it from live and backup
+            systems.
+Firebase Realtime Database
+IP addresses
+User agents
+How it helps:
+Realtime Database uses IP addresses and user agents to
+            enable the
+profiler
+            tool
+, which helps Firebase customers understand usage trends and platform
+            breakdowns.
+Retention:
+Realtime Database keeps IP addresses and user agent
+            information for a few days, unless a customer chooses to save it for longer.
+Firebase Remote Config
+Firebase
+installation IDs
+How it helps:
+Remote Config
+uses
+Firebase
+installation IDs
+            to select configuration
+            values to return to end-user devices.
+Retention:
+Firebase retains
+Firebase
+installation IDs until the Firebase customer makes an API call to delete the
+          ID. After the call, data is removed from live and backup systems within 180 days.
+Vertex AI in Firebase
+Customer's inputs and outputs data sent and received from the AI model
+How it helps:
+Vertex AI in Firebase
+uses Vertex AI's Generative AI
+            API to predict content.
+Retention:
+During prediction, Google doesn't log Customer Data to
+            generate a customer's output or train foundation models. By default, Google caches a
+            customer's inputs and outputs for the Gemini models to accelerate responses to
+            subsequent prompts from the customer.
+See more details at
+Generative
+              AI and Data Governance | Generative AI on Vertex AI | Google Cloud
+.
+Examples of information collected by Crashlytics
+An RFC-4122 UUID which permits us to deduplicate crashes
+The Crashlytics Installation UUID
+The Firebase installations ID (FID)
+The Firebase session ID, which is a random UUID generated to tag events
+      with a session
+The timestamp of when the crash occurred
+The app's bundle identifier and full version number
+The device's operating system name and version number
+A boolean indicating whether the device was jailbroken/rooted
+The device's model name, CPU architecture, amount of RAM and disk
+      space
+The uint64 instruction pointer of every frame of every currently running
+      thread
+If available in the runtime, the plain-text method or function name
+      containing each instruction pointer.
+If an exception was thrown, the plain-text class name and message value
+      of the exception
+If a fatal signal was raised, its name and integer code
+For each binary image loaded into the application, its name, UUID, byte
+      size, and the uint64 base address at which it was loaded into RAM
+A boolean indicating whether or not the app was in the background at the
+      time it crashed
+An integer value indicating the rotation of the screen at the time of
+      crash
+A boolean indicating whether the device's proximity sensor was
+      triggered
+The contents of
+version-control-info.textproto
+(only for Android apps
+configured
+        to use the version control system (VCS) integration
+)
+Examples of information collected by Performance Monitoring
+The Firebase installations ID (FID)
+The Firebase session ID, which is a random UUID generated to tag events
+      with a session
+General device information, such as model, OS, and orientation
+RAM and disk size
+CPU usage
+Carrier (based on Mobile Country and Network Code)
+Radio/Network information (for example, WiFi, LTE, 3G)
+Country (based on IP address)
+Locale/language
+App version
+App foreground or background state
+App package name
+Firebase
+installation IDs
+Duration times for automated traces
+Network URLs (not including URL parameters or payload content)
+      and the following corresponding information:
+Response codes (for example, 403, 200)
+Payload size in bytes
+Response times
+See a
+full list
+of the
+    automatic traces collected by
+Performance Monitoring
+.
+Note:
+For more info on deleting data associated with installations, see
+Delete a Firebase installation
+.
+Guides for enabling opt-in for end-user data processing
+Services in the table above need some amount of end-user data to function. As a
+result, it's not possible to entirely disable data collection while using those
+services.
+If you're a customer who would like to offer users a chance to opt-in to a
+service, and the data collection that comes with it, in most cases that just
+requires adding a dialog or settings toggle before using the service.
+Some services, however, start up automatically when included in an app. To give
+users a chance to opt-in before using those services, you can choose to disable
+auto-initialization for each service, and manually initialize them at run time
+instead. To find out how, read the guides below:
+Cloud Messaging
+:
+Prevent Auto-initialization (Android)
+or
+Prevent Auto-initialization (iOS+)
+Crashlytics
+:
+Enable Opt-in Reporting (iOS+)
+or
+Enable Opt-in Reporting (Android)
+Performance Monitoring
+:
+Enable Opt-in Monitoring
+If you integrate Firebase with Google Analytics, learn how to
+configure Analytics data collection
+.
+Data storage and processing locations
+Unless a service or feature offers data location selection, Firebase may process
+and store your data anywhere Google or its agents maintain facilities. Potential
+facility locations vary by service.
+US-only services
+The
+Firebase Authentication
+service is run only from US data centers. As a result,
+Firebase Authentication
+processes data exclusively in the United States.
+Global services
+The majority of Firebase services run on global Google infrastructure.
+They could process data at any of the
+Google Cloud Platform locations
+or
+Google data center locations
+.
+For some services, you can make a specific data location selection, which
+restricts processing to that location (for more information, see the
+service specific terms
+of the Google Cloud Platform Terms of Service).
+Cloud Firestore
+Firebase Crashlytics
+Firebase ML
+Cloud Functions for Firebase
+Firebase Dynamic Links
+Firebase Performance Monitoring
+Cloud Storage for Firebase
+Firebase Hosting
+Firebase Remote Config
+Firebase App Check
+Firebase App Distribution
+Firebase In-App Messaging
+Firebase Test Lab
+Firebase Cloud Messaging
+Security information
+Data encryption
+Firebase services encrypt data in transit using HTTPS and logically isolate
+customer data.
+In addition, several Firebase services also encrypt their data at rest:
+Cloud Firestore
+Firebase Authentication
+Firebase Performance Monitoring
+Cloud Functions for Firebase
+Firebase Cloud Messaging
+Firebase Realtime Database
+Cloud Storage for Firebase
+Firebase Crashlytics
+Firebase Test Lab
+Firebase App Check
+Firebase App Distribution
+Security practices
+To keep personal data safe, Firebase employs extensive security measures to
+minimize access:
+Firebase restricts access to a select employees who have a business purpose to access personal data.
+Firebase logs employee access to systems that contain personal data.
+Firebase only permits access to personal data by employees who sign in with Google Sign-In and
+2-factor authentication
+.
+Firebase Service Data
+Firebase Service Data is personal information that Google collects and generates
+during the provision and administration of the Firebase services
+*
+,
+excluding Customer Data
+**
+as defined in our customer agreements
+covering Firebase services and
+Google Cloud Service Data
+.
+Examples of Firebase Service Data include information about service usage,
+resource identifiers like application IDs and package name/bundle IDs, technical
+and operational details of usage such as IP addresses, and direct communications
+with developers from feedback and support related conversations.
+*Services covered include Firebase A/B Testing, Firebase App Distribution,
+  Firebase Cloud Messaging, Firebase Crashlytics, Firebase Dynamic Links,
+  Firebase Hosting, Firebase In-App Messaging, Firebase ML,
+  Firebase Performance Monitoring, Firebase Realtime Database,
+  Firebase Remote Config, and Firebase User Segmentation Storage.
+**For more information about how we process Customer Data, see our
+Firebase Data Processing and Security
+  Terms
+.
+Examples of how Firebase Service Data is processed by Firebase
+Google uses Firebase Service Data in accordance with our
+privacy policy
+and applicable terms.
+Firebase Service Data is used, for example, to:
+Provide Firebase services you request
+Make recommendations to optimize use of Firebase services
+Maintain and improve Firebase services
+Provide and improve other services you request
+Understand your use of Firebase and other Google services
+Provide better support to and communicate with you
+Protect you, our users, the public and Google
+Comply with legal obligations
+Firebase Service Data use by non-Firebase Google services
+You can control whether your Firebase Service Data may be used by Google to
+provide more in depth analysis, insights, and recommendations about
+non-Firebase
+Google services and improve
+non-Firebase
+Google services.
+You can configure this in your Firebase data privacy settings page.
+If this control is disabled, Firebase Service Data will continue to be used
+for other purposes, such as those mentioned above, in accordance with our
+privacy policy
+and applicable terms, including
+to make recommendations about and improve
+Firebase
+services, and to deliver
+and improve other services you request, such as Google products you link to your
+Firebase project.
+Still have questions? Contact us
+For any privacy-related questions you have that aren't covered here,
+reach out to Firebase Support
+. If you're a Firebase developer, include your Firebase App ID. Find your Firebase App ID in the
+Your apps
+card of your
+settings
+Project
+settings
+.
+Send feedback
+Except as otherwise noted, the content of this page is licensed under the
+Creative Commons Attribution 4.0 License
+, and code samples are licensed under the
+Apache 2.0 License
+. For details, see the
+Google Developers Site Policies
+. Java is a registered trademark of Oracle and/or its affiliates.
+Last updated 2025-03-04 UTC.
+Info
+Chat
+Sub-policy 1
+https://www.appsflyer.com/legal/privacy-policy/:
+Platform
+Measure
+Measurement suite
+Measure every action on mobile, web and CTV
+ROI measurement
+Understand your true mobile marketing ROI
+Creative Optimization
+Unlock creative performance with the power of AI
+Analyze
+Marketing analytics
+Turn insights on campaign performance into action
+Incrementality
+Prove the real value of your marketing campaigns
+Engage
+CX & deep linking
+Boost revenue with exceptional customer experience
+Audience segmentation
+Create meaningful conversations with your customers
+Protect
+Fraud protection
+Protect your marketing budget from mobile ad fraud
+Collaborate
+Privacy Cloud
+Collaborate with your partners in a privacy-centric way
+AppsFlyer Data Collaboration Platform
+First-party data monetization that fuels retail media growth
+Partner marketplace
+Connect to over 10,000 tech and media partners
+Interactive product tours
+iOS 14+ solutions
+Data feeds & APIs
+Solutions
+Team
+Marketing
+Product
+Data & Analytics
+R&D
+Goal
+Regain iOS visibility
+Kickstart app growth
+Scale user acquisition
+Increase engagement & LTV
+Maximize ROAS
+Industry
+Gaming
+Shopping
+Finance
+Food & drink
+Health & fitness
+Travel
+Platform
+iOS
+Android
+PC & console
+CTV & OTT
+Web
+Mobile
+Web3
+Partnerships
+Tech and media partners
+Agency partners
+Partner Program
+Interactive product tours
+Customer stories
+The AppsFlyer difference
+Learn
+Resources
+Stay informed with industry insights, the latest trends, original content, and all things AppsFlyer
+Ecosystem
+Blog
+Reports & guides
+Events & webinars
+Tools & templates
+Industry benchmarks
+Videos
+Podcasts
+Glossary
+Metrics comparison
+Customers
+Customer stories
+Product news
+Use cases
+Help center
+Developer Hub
+AppsFlyer Learning
+Come to MAMA
+Company
+Who we are
+Find out more about our history, our team, what we stand for, and why we do what we do
+About us
+Newsroom
+CEO blog spot
+Trust hub
+Careers
+Social impact
+Contact
+From our CEO
+The future of our ecosystem and web
+On privacy and user experience
+Aggregated advanced privacy
+Pricing
+Login
+Sign up free
+Contact sales
+Legal hub
+MSA
+Site Terms
+Website Privacy Policy
+Cookie Policy
+DPA
+Opt Out
+Processing Customer Data
+Supplier Portal
+Subprocessors
+Modern Slavery Statement
+Documentation
+MSA
+Site Terms
+Website Privacy Policy
+Cookie Policy
+DPA
+Opt Out
+Processing Customer Data
+Supplier Portal
+Subprocessors
+Modern Slavery Statement
+Website Privacy Policy
+Last updated May 28, 2024
+This Privacy Policy applies to: (i) use of the AppsFlyer owned and operated Websites (appsflyer.com, onelink.me and their subdomains); (ii) our marketing activities including, registrations as part of webinars, conference events, emails etc.; and (iii) any other product or activity that links to, or otherwise references, this privacy policy (collectively, the “Marketing Platforms“). We respect your privacy rights and value your trust. This Privacy Policy describes how we collect, receive, use, store, share, transfer, and process your personal information, as well as your rights in determining what we do with the information that we collect or hold about you.
+This Privacy Policy does not apply to information collected through use by customers of the AppsFlyer service, which is described under our
+Services Privacy Policy
+.
+Information We Collect
+When using or interacting with our Marketing Platforms, we may collect or receive the following types of information (collectively, “Information”).
+“Personal Information” such as name, email, contact details or any other personal content that you provide to us whether through a form or field on our website or any other communication (e.g. email, phone, post etc.).
+“Technical Information” such as browser type, operating system, device type, IP address and other similar technical information typically received from a browser or device automatically when visiting or interacting with our Marketing Platforms. This may include the referring URL that led you to our website.
+“Usage Information” such as the pages you visited on our website, where you clicked, searches performed on our website and other similar information related to how you have used our website. It may also include information related to whether you receive, opened or clicked on any links in an email sent to you.
+We understand that certain Technical information or Usage Information may, either alone or when combined with other data, be deemed personal data under various laws and jurisdictions and we are committed to treating such data in compliance with applicable laws.
+The Methods We Use to Collect and Receive Information
+Depending on the type of Information, we may collect or receive Information in the following ways:
+When you voluntarily share Information with us. For example, when you register to one of our events, request that we contact you through our online forms, submit your CV, or when you request to receive certain content that we may make available (e.g. research and white papers).
+Through use of cookies and other similar technologies (e.g. HTML5 Local Storage, LSO, web beacons, JavaScript, etc.). These technologies help us to analyze how our Marketing Platforms are used and to tailor content that is relevant to you. It also helps us to deliver more relevant advertisements to you on our own or third party sites. For more information on such technologies, including how to manage your cookie preferences please see our
+Cookie Policy
+.
+Information obtained from third party sources. This includes Information received through the various business support tools and services that we use (e.g. marketing platforms, analytics services etc.) and public sources such as social media sites. We may combine the Information received through these sources with other Information we have in order to ensure our records are up to date and so that we are able to provide you with relevant content.
+You have choices in how we collect and use Information. See the “
+Your Choices
+” section below for more information.
+The Purposes
+We use Information for the following purposes:
+To process your inquiries and to respond to your requests. For example, when you contact us to learn more about our products or services or when you request to receive certain materials from us (e.g. white papers, research papers, product and services information). Additionally, if you submit your CV to us, we use it to evaluate your candidacy (including by assessing your qualifications and skills).
+To send you information related to our services and products that we believe may interest you, such as newsletters or product and service updates. Such communications will be sent to you when you have chosen to receive such communication or when we have a legitimate interest to market our products and services. In any event, you will always be able to opt-out of receiving such communications. Opting out may be done either directly in the communication received or through the ways described in the instructions in the “
+Your Choices
+” section below.
+To understand how you have used our Marketing Platforms and to customize them in accordance with your interests and past actions and choices. We do this based on our legitimate interest to operate our Marketing Platforms, diagnose any problems with the Marketing Platforms and to improve the Marketing Platforms and your experience when navigating through them.
+In our legitimate interest to prevent fraud or harm to us or to any third party, and ensure the security of our network and services.
+Where it is necessary for AppsFlyer to comply with its legal obligations and to exercise and enforce its legal rights.
+We may use certain third-party marketing and advertising networks to help us market our products on our own website and on third party websites (e.g. remarketing ads across the Internet by Google).
+Who We Share Information With
+In order to conduct our business and operate our Marketing Platforms, we may share Information with various third parties, such as:
+Our subsidiary companies and global branches.
+Third parties that help us operate our Marketing Platforms (e.g. hosting company, recruitment platforms and agencies, payment processors, business management and email distribution service providers and other similar service providers). These companies are authorized to use your personal information only as necessary to provide these services to us.
+When required by law, such as to comply with court orders, search warrants, regulatory orders, subpoenas, and other lawful requests by public authorities, including to meet national security or law enforcement requirements;
+Legal authorities, consultants, advisors or service providers when required to investigate, respond to, or prevent, fraud; or when required to ensure the security of our network and services and protect the safety of AppsFlyer or the public.
+As part of any merger or acquisition of AppsFlyer, Information may be transferred to the merging or acquiring company, as well as to any advisors representing a party during discussions of such merger or acquisition.
+AppsFlyer resellers, agents, partners or service providers acting on our behalf in connection with the offering of AppsFlyer’s products or services.
+Third-party marketing and advertising networks to help us market our products on our own website and on third party websites (e.g. remarketing ads across the Internet by Google).
+Without derogating from the foregoing, AppsFlyer may publish general aggregate and unidentifiable information (e.g. statistical information) relating to use of its Marketing Platforms.
+Cross Border Data Transfers and Mechanisms
+We may need to transfer Information to countries where we and/or our service providers operate. Such countries may be different from the country in which the data originated and where data protection laws may not be equivalent to, or offer the same protection as, those in your country. By using our Marketing Platforms, you agree to any such transfers. In any event, where appropriate given the nature of services, we will put in place agreements with our service providers to ensure a level of privacy consistent with the terms of this policy.
+With regards to the collection, use, and retention of personal information transferred from the European Economic Area to the United States, please be assured that AppsFlyer continues to comply with all applicable laws in respect of such transfers and any data transfers to the United States will be governed by the Standard Contractual Clauses as set forth in our DPA with the relevant service provider.
+AppsFlyer Inc. complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. AppsFlyer Inc. has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF, as well as to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this Privacy Policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the DPF Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, and to view AppsFlyer’s certification, please visit
+Data Privacy Framework website
+.
+The Federal Trade Commission has jurisdiction over AppsFlyer Inc.’s compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF, and in case of onward transfer of data to third parties, AppsFlyer maintains liability.
+In compliance with the DPF Principles, AppsFlyer is committed to resolving any complaints arising regarding our processing of your personal data. You may direct your queries to privacy@appsflyer.com and, in compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF, we are committed to referring unresolved complaints concerning our handling of personal data received in reliance on the DPF to Truste, an alternative dispute resolution provider based in the United States. If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit
+https://trustarc.com/dispute-resolution/
+for more information or to file a complaint. The services of Truste are provided at no cost to you and allow for binding arbitration.
+Protecting Your Information
+We strive to meet the highest standards of security measures across our business units. We have implemented appropriate technical and organizational measures based on industry-leading standards. Such measures are designed to protect against unauthorized access or unlawful processing of Personal Information and against accidental loss, destruction or damage of Personal Information. As part of such measures, we have established various policies and procedures that guide us, including in respect of asset management, access management, physical security, people security, product security, cloud and network infrastructure security, third-party security, vulnerability management, security monitoring, and incident response.
+Information Storage and Retention
+We may store Information on our own servers as well as those operated by third party data hosting providers. As specified in Section 5 above (Cross Border Transfers), such servers may be located worldwide. We will only retain your Personal Information for as long as necessary to pursue the purpose of the collection. We may also retain your Personal Information for such time needed to pursue our legitimate business interests, in connection with any legal claims and compliance with legal obligations. When we use your information for direct marketing purposes, we will retain your data until you opt-out from receiving the marketing materials; provided that we will need to retain certain information to maintain a record of your request.
+Modifications to This Policy
+AppsFlyer may amend this Privacy Policy at any time, provided that in the event of a material change we shall provide notice on this page and/or a note near the link to this page. The updates shall apply immediately for new Information collected or provided as of the day of the update and following thirty (30) days for any Information collected or provided to AppsFlyer prior to the update date. If you do not agree to the terms of the new policy you are requested to contact the Legal Department using the contact details listed in Section 11 below. We encourage you to periodically review this page for any updates.
+Your Choices
+We provide you with various choices on how we may use Information in connection with: (i) our marketing activities; and (ii) our use of cookies and similar technologies to serve your interest-based advertisements and to analyze usage of our Marketing Platforms.
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page, or you can contact us at
+https://www.appsflyer.com/company/contact/
+. You can manage your preferences related to our use of cookies and similar technologies that we use, among other things, to provide you with targeted interest-based advertisements and to analyze your use of our Marketing Platforms – please see our
+Cookie Policy
+for instructions. Additionally, certain advertisers (including Google) we work with may be members of NAI and/or the Digital Advertising Alliance. You may opt-out from such advertisers’ services here or at the following link:
+https://youradchoices.com/
+In addition, the laws of some jurisdictions may provide you with various rights in connection with our processing of certain Information. Such rights may include:
+The right to withdraw any previously provided consent;
+The right to access certain information about you that we process;
+The right to have us correct or update any Personal Information;
+The right to have certain Information erased;
+The right to have us temporarily block our processing of certain Information;
+The right to have Information exported into common machine-readable format;
+The right to object to our processing of Information in cases of direct marketing, or when we rely on legitimate interests as our lawful basis to process your information; and
+The right to lodge a complaint with the appropriate data protection authority.
+We will respond to your requests within a reasonable timeframe. Please note these rights may be limited in certain circumstances as provided by applicable law. For any additional information regarding such rights or to exercise any such rights please contact AppsFlyer at: privacy@appsflyer.com
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at
+https://feedback-form.truste.com/watchdog/request
+.
+Social Media and Third Party Services
+Our website may offer a blog with ‘comments’ section and various social media features, such as a ‘share’ button or links to third party websites and services, including Twitter, LinkedIn, Google+ and Facebook. When using any such features, certain information may be collected by such third parties, including your IP address or which page you are visiting on our website, and such third parties may set a cookie to enable the feature to function properly. Any data collected by such third parties is governed by such third party’s privacy policy. You are encouraged to carefully review such third party privacy policies.
+Children’s Privacy
+AppsFlyer does not knowingly collect or process personal data from or with respect to children under the age of 16, and you must be 16 years of age or older in order to establish an account for AppsFlyer’s Services. If you are a parent or legal guardian and believe that your child under the age of 16 has submitted his or her personal data or other data without your consent, permission, or authorization – please let us know immediately, and we will promptly act to remove your child’s data from our database, cease the use of such data and inform any other party we suspect to have access to such data to do the same.
+California Privacy Rights
+We may collect personal information about California residents who are afforded additional rights under the California Consumer Privacy Act, Cal. Civ. Code §§ 1798.100 et seq. (the “CCPA“). If you are a California resident, you can see more details about the types of personal information we have collected from you in the past 12 months and may collect from you in Section 1 above (
+Information We Collect
+) and how we collect such personal information in Section 2 above (
+The Methods We Use to Collect and Receive Information
+). The purposes for which we collect your personal information are further described in Section 3 above (
+The Purpose
+). We do not share your personal information with any third party except as further described in Section 4 above (
+Who We Share Information With
+). Please refer to the other terms of this Privacy Policy to see further rights afforded to you and how we use your personal information.
+We do not “Sell” (as defined in the CCPA) your personal information which we have collected or may collect and in the event we will Sell your personal information, we will notify you by updating this Privacy Policy in accordance with Section 8 above (
+Modifications to this Policy
+) and we will provide you with the option of opting out of such “sale”.
+You, as a California resident, have certain rights regarding your personal information pursuant to the CCPA, subject to certain restrictions under applicable laws, including the rights to access your personal information, to delete your personal information, and to opt out of the “sale” of your personal data. You may request any of these by contacting us via email at
+privacy@appsflyer.com
+or by physical mail to: AppsFlyer Ltd. (Attn: Legal Dept.) 14 Maskit St., Herzliya, Israel. Upon your request, we will verify that you are the person making this request and in order to do so, we may request identification documents from you.
+Contacting Us
+If you have any questions or concerns about this Website Privacy Policy, the information we collect, the practices of AppsFlyer, or your dealings with the Marketing Platforms, please contact us or our Data Protection Officer by sending an email to:
+privacy@appsflyer.com
+or by physical mail to: AppsFlyer Ltd. (Attn: Legal Dept.) 14 Maskit St., Herzliya, Israel. For the purposes of Article 27 of the General Data Protection Regulation, the representative within the EU of AppsFlyer is AppsFlyer Germany Schönhauser Allee 180, 10119 Berlin, Germany (contact
+privacy@appsflyer.com
+; +49 30 166373500).
+Our Cookies Policy
+AppsFlyer respects your privacy as our website user. We use cookies to improve your user experience and for remarketing. Some of this data may be shared with select partners. See our
+cookies policy
+for more information.
+Reject all cookies
+Accept all cookies
+Customize
+Cookie Preference Center
+AppsFlyer uses Cookies to provide, maintain, and improve our websites, to optimize our offerings and marketing activities, and to provide our visitors and users with a better experience, for example, in order to maintain your preferences, to better secure our websites, to identify technical issues, and to monitor and improve the overall performance of our websites.
+More information
+Allow All
+Please select which Cookies you approve, you may choose all options.
+Always Active
+Necessary Cookies are enabled for the assurance and function of a properly run website, and they cannot be disabled. They are usually only set in response to actions permitted by you, such as, enabling functions like navigation and access to secure areas of the website. These Cookies do not store personal information that will be used for other purposes.
+Performance Cookies
+These Cookies provide us with aggregated (anonymous) insights into website enhancement and performance improvement. These cookies allow us to measure and improve the performance of our Sites. They help us know which pages are the most and least popular and see how visitors move around the website.
+Marketing Cookies
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+Functional Cookies
+These Cookies enable us to provide enhanced functionality and personalization through our Sites and allow for a better user experience. These may be set by us (first-party Cookies) or by third-party providers who work with us (third-party Cookies).
+Back Button
+Cookie List
+Search Icon
+Filter Icon
+Clear
+checkbox label
+label
+Apply
+Cancel
+Consent
+Leg.Interest
+checkbox label
+label
+checkbox label
+label
+checkbox label
+label
+Sub-policy 2
+https://adapty.io/privacy-policy:
+Adapty privacy policy
+This Privacy Policy explains what personal data is collected when you visit or use the website located at:
+https://adapty.io/
+(the “Website”), the services and products provided through it (together with the Website, the “Service”), how such personal data will be processed.
+1. Personal data controller
+2. Categories of personal data we collect
+3. For what purposes we process your personal data
+4. Under what legal bases we process your personal data
+5. With whom we share your personal data
+6. How you can exercise your privacy rights
+7. Age limitation
+8. International data transfers
+9. Data Privacy Frameworks
+10. Changes to this privacy policy
+11. California’s privacy rights
+12. Data retention
+13. How "do not track" requests are handled
+14. Contact us
+1. Personal data controller
+Adapty Tech Inc.
+, a company registered under the laws of the state of Delaware, having its registered office at 2093 Philadelphia Pike #9181 Claymont, DE 19703, USA will be the controller of your personal data.
+2. Categories of personal data we collect
+We collect data you give us voluntarily (for example, email address, payment details, contact details, such as phone number, country, company name, and your position). We also collect data automatically (for example, your IP address, information about your device, and unique identifiers of your device such as IDFA, AAID, IDFV, UUID).
+See more...
+2.1. Data you give us
+If you decide to register a personal account on the website, we will ask you to provide an email address, that will be used for signing in to your personal account and informing you about our services, as well as your name, and company/app name. If you decide to register online to participate in the events or get a consultation (for example, to schedule a demo call with our team or sign up for the webinar organized by our team), we will additionally ask for your country, phone number, and position. We will also ask you to provide your payment details to enable you to create payment orders via your personal account.
+2.2. Data we collect automatically:
+We collect data about your referring app or URL (that is, the app or place on the Web where you were when you tapped/clicked on our ad).
+2.2.2. Device and Location data
+.
+We collect data from your device. Examples of such data include: language settings, IP address, time zone, type and model of a device, device settings, device memory, operating system.
+2.2.3. Advertising IDs
+.
+We collect your Universally Unique Identifier (“UUID”), Apple Identifier for Advertising (“IDFA”), Identifier for Vendor (“IDFV”) or Google Advertising ID (“AAID”) (depending on the operating system of your device) when you access the Website from a mobile device. You can typically reset these numbers through the settings of your device’s operating system (but we do not control this).
+2.2.4. Transaction data
+.
+When you make payments through the Service, you need to provide financial account data, such as your credit card number, to our third-party service providers. We do not collect or store full credit card number data, though we may receive credit card-related data, data about the transaction, including: date, time and amount of the transaction, the type of payment method used.
+2.2.5. Cookies
+.
+A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. Cookies can be either session cookies or persistent cookies. A session cookie expires when you close your browser and is used to make it easier for you to navigate our Service. A persistent cookie remains on your hard drive for an extended period of time. We also use tracking pixels that set cookies to assist with delivering online advertising. Cookies are used, in particular, to automatically recognize you the next time you visit our website. As a result, the information, which you have earlier entered in certain fields on the website may automatically appear the next time when you use our Service. Cookie data will be stored on your device and most of the times only for a limited time period.
+3. For what purposes we process your personal data
+We process your personal data:
+3.1. To provide our Service
+This includes enabling you to use the Website and Service in a seamless manner and preventing or addressing Service errors or technical issues.
+See more...
+To host personal data and enable our Service to operate and be distributed we use
+Amazon Web Services
+, which is a hosting and backend service provided by Amazon. Read more about Amazon’s approach to privacy in its
+Privacy Policy
+. To host personal data and enable our Service to operate and be distributed, we use
+OVHcloud
+, which is a hosting and backend service provided by OVH US LLC. Read more about OVH’s approach to privacy in its
+Privacy Policy
+.
+3.2. To provide you with customer support
+We process your personal data to respond to your requests for technical support, Service information, or to any other communication you initiate. For this purpose, we may send you, for example, notifications or emails about, the performance of our Service, security, payment transactions, notices regarding our Terms of Service, or this Privacy Policy.
+3.3. To communicate with you regarding your use of our Service
+We communicate with you, for example, by push notifications or by email. These may include reminders or other information about the Service. As a result, you will, for example, receive a push notification that a new feature has been deployed in the Service. To opt out of receiving push notifications, you need to change the settings on your device. To opt out of receiving emails, you should click the unsubscribe link in the footer of each email.
+See more...
+The services that we use for these purposes may collect data concerning the date and time when the message was viewed by our Service’s users, as well as when they interacted with it, such as by tapping/clicking on links included in the message.
+Intercom
+provides us with message and customer service tools, which enable us to communicate with you within the Service. Intercom uses your data to provide and fulfill its services (as set forth in their terms of service). Read more about Intercom’s approach to privacy in its
+Privacy Policy
+.
+3.4. To research and analyze your use of the Service
+This helps us to better understand our business, analyze our operations, maintain, improve, innovate, plan, design, and develop the Service and our new products. We also use such data for statistical analysis purposes, to test and improve our offers. This enables us to better understand what categories of users use our Services. As a consequence, we often decide how to improve the Service based on the results obtained from this processing.
+See more...
+We use
+Facebook Analytics
+, which is a service provided by Facebook that allows us to use different analytical tools. On Facebook Analytics we get, in particular, aggregated demographics and insights on how many people visit our Service, how often users make purchases, and other interactions. Learn more about Facebook’s approach to data from its
+Privacy Policy
+. To analyze how visitors use our Website and to measure effectiveness of some ads we use
+Google Analytics
+, a web analysis program of Google. In order to provide us with analytics, Google Analytics places cookies on your device. On Google Analytics we get, in particular, aggregated information on the data you enter on our Website and users’ interactions within the Website. Along with Google Analytics we use
+Google Tag Manager
+. You can read more about how Google Tag Manager deals with data privacy and security
+here
+. Google allows you to influence the collection and processing of information generated by the Google, in particular, by installing a browser plug-in, available here. You can read more about how Google uses information
+here
+. On our Service, we also use
+Yandex Metrica
+, a web analytics service provided by Yandex. Yandex Metrica uses cookies to help us analyze how visitors use the Website. Yandex will use your data for the purpose of evaluating your use of the Website, compiling reports on Website activity for website operators and providing other services relating to the Website activity. In order to deactivate the data collection on the part of Yandex Metrica, you can use the browser add-on developed by Yandex. Learn more about how Yandex uses data in its
+Privacy Policy
+.
+3.5. To send you marketing communications
+We process your personal data for our marketing campaigns. As a result, you will receive information about our products, such as, for example, special offers or new features and products available on the Service. We may show you advertisements on our Service, and send you emails for marketing purposes. If you do not want to receive marketing emails from us, you can unsubscribe by following the instructions in the footer of the marketing emails.
+3.6. To personalize our ads
+We and our partners use your personal data to tailor ads and possibly even show them to you at the relevant time. For example, if you visited our Website, you might see ads of our products in your Facebook feed.
+How to opt out or influence personalized advertising
+iOS:
+On your iPhone or iPad, go to Settings > Privacy > Apple Advertising and deselect Personalized Ads.
+Android:
+To opt out of ads on an Android device, go to Settings > Privacy > Ads and enable Opt out of Ads personalization. In addition, you can reset your advertising identifier in the same section (this also may help you to see less of personalized ads). To learn even more about how to affect advertising choices on various devices, please look at the information available
+here
+.
+macOS:
+On your MacBook, you can disable personalized ads: go to System Preferences > Security & Privacy > Privacy, select Apple Advertising, and deselect Personalized Ads.
+Windows:
+On your laptop running Windows 10, you shall select Start > Settings > Privacy and then turn off the setting for Let apps use advertising ID to make ads more interesting to you based on your app activity. If you have other Windows versions, please follow the steps
+here
+To learn even more about how to affect advertising choices on various devices, please look at the information available
+here
+.
+In addition, you may get useful information and opt out of some interest-based advertising, by visiting the following links:
+Network Advertising Initiative –
+http://optout.networkadvertising.org
+;
+Digital Advertising Alliance –
+http://optout.aboutads.info
+;
+Digital Advertising Alliance (Canada) –
+http://youradchoices.ca/choices
+;
+Digital Advertising Alliance (EU) –
+http://www.youronlinechoices.com
+;
+DAA AppChoices page –
+http://www.aboutads.info/appchoices
+.
+Browsers:
+It is also may be possible to stop your browser from accepting cookies altogether by changing your browser’s cookie settings. You can usually find these settings in the “options” or “preferences” menu of your browser. The following links may be helpful, or you can use the “Help” option in your browser.
+Cookie settings in Internet Explorer
+;
+Cookie settings in Firefox
+;
+Cookie settings in Chrome
+;
+Cookie settings in Safari web
+and
+iOS
+.
+Google allows its users to
+opt out of Google’s personalized ads
+and to
+prevent their data from being used by Google Analytics
+.
+See more...
+We value your right to influence the ads that you see, thus we are letting you know what service providers we use for this purpose and how some of them allow you to control your ad preferences. We use
+Facebook pixel
+on the Service. Facebook pixel is a code placed on the Service collecting data that helps us track conversions from Facebook ads, build targeted audience and remarket to people who have taken some action on the Service (for example, made a purchase). We use
+Facebook Advance Matching
+to you optimize our Facebook ads to drive better results. We use
+Facebook Ads Manager
+together with
+Facebook Custom Audience
+,
+which allows us to choose audiences that will see our ads on Facebook or other Facebook’s products (for example, Instagram). Through Facebook Custom Audience we may create a list of users with certain sets of data, such as an IDFA, choose users that have completed certain actions in the Service (for example, visited certain sections of the Service). As a result, we may ask Facebook to show some ads to a particular list of users. Because of that more of our ads may show up while you are using Facebook or other Facebook’s products (for example, Instagram). You may learn how to opt out of advertising provided to you through Facebook Custom Audience
+here
+. Facebook also allows its users to influence the types of ads they see on Facebook. To find how to control the ads you see on Facebook, please go
+here
+or adjust your ads settings on
+Facebook
+.
+Google Ads
+is an ad delivery service provided by Google that can deliver ads to users. In particular, Google allows us to tailor the ads in a way that they will appear, for example, only to users that have conducted certain actions with our Service (for example, show our ads to users who have made a purchase). Some other examples of events that may be used for tailoring ads include, in particular, visiting our Website. Google allows its users to
+opt out of Google’s personalized ads
+and to
+prevent their data from being used by Google Analytics
+. We use
+Twitter Ads
+provided by Twitter to deliver advertising. Twitter Ads allows us to choose specific audiences based on geographic areas or user’s interests. As a result, we may ask Twitter to deliver our ads to a certain list of users. Twitter allows you
+to opt-out its internet-based advertising
+. Please also see the
+Privacy Policy
+of Twitter. We use
+AdRoll Ads
+to deliver advertising. AdRoll Ads allows us to choose specific audiences based on geographic areas or user’s interests.  Please also see the
+Privacy Policy
+of
+AdRoll
+.
+3.7. To process your payments
+We provide paid products and/or services within the Service. For this purpose, we use third-party services for payment processing (for example, payment processors). As a result of this processing, you will be able to make a payment and we will be notified that the payment has been made.
+We will not store or collect your payment card details ourselves. This information will be provided directly to our third-party payment processors.
+To enable the purchase and to process your payments we use
+Stripe
+, the payment processing provider. To understand how Stripe deals with your data please read their
+Privacy Policy
+.
+3.8. To enforce our Terms and Conditions of Use and to prevent and combat fraud
+We use personal data to enforce our agreements and contractual commitments, to detect, prevent, and combat fraud. As a result of such processing, we may share your information with others, including law enforcement agencies (in particular, if a dispute arises in connection with our Terms of Service).
+3.9. To comply with legal obligations
+We may process, use, or share your data when the law requires it, in particular, if a law enforcement agency requests your data by available legal means.
+4. Under what legal bases we process your personal data
+In this section, we are letting you know what legal basis we use for each particular purpose of processing. For more information on a particular purpose, please refer to Section 3. This section applies only to EEA-based users.
+We process your personal data under the following legal bases:
+4.1. Your consent;
+Under this legal basis, we will send you marketing communications and use cookies. You have the right to withdraw your consent any time by using the unsubscribe link in the footer of our emails. We will also send you push notifications if you allow us to. You can disable notifications any time in the settings of your device.
+4.2. To perform our contract with you;
+Under this legal basis, we:
+Provide our Service (in accordance with our Terms of Service);
+Customize your experience;
+Provide you with customer support;
+Communicate with you regarding your use of our Service;
+Process your payments.
+4.3. For our (or others’) legitimate interests, unless those interests are overridden by your interests or fundamental rights and freedoms that require protection of personal data;
+We rely on legitimate interests:
+to communicate with you regarding your use of our Service
+This includes, for example, sending you an email or push notification to notify you that we have released a new product or reminding to finish a purchase. The legitimate interest we rely on for this purpose is our interest to encourage you to use our Service more often.
+to research and analyze your use of the Service
+Our legitimate interest for this purpose is our interest in improving our Service so that we understand users’ preferences and are able to provide you with a better experience (for example, to make the use of the Service easier and more enjoyable, or to introduce and test new features).
+to send you marketing communications
+The legitimate interest we rely on for this processing is our interest to promote our Service, including new products and special offers, in a measured and appropriate way.
+to personalize our ads
+The legitimate interest we rely on for this processing is our interest to promote our Service in a reasonably targeted way.
+to enforce our
+Terms of Service
+and to prevent and combat fraud
+Our legitimate interests for this purpose are enforcing our legal rights, preventing and addressing fraud and unauthorized use of the Service, and non-compliance with our Terms of Service.
+4.4. To comply with legal obligations.
+5. With whom we share your personal data
+We share information with third parties that help us operate, provide, improve, integrate, customize, support, and market our Service. We may share some sets of personal data, in particular, for purposes and with parties indicated in
+section 3 of this Privacy Policy
+. The types of third parties we share information with include, in particular:
+5.1. Service provider
+We share personal data with third parties that we hire to provide services or perform business functions on our behalf, based on our instructions. We may share your personal information with the following types of service providers:
+cloud storage providers (Amazon, Google, OVH);
+data analytics providers (Facebook, Google);
+communication service providers (Intercom);
+marketing partners (in particular, social media networks, marketing agencies; Facebook, Google, Twitter, AdRoll);
+payment service providers (Stripe).
+5.2. Law enforcement agencies and other public authorities
+We may use and disclose personal data to enforce our Terms of Service, to protect our rights, privacy, safety, or property, and/or that of our affiliates, you, or others, and to respond to requests from courts, law enforcement agencies, regulatory agencies, and other public and government authorities, or in other cases provided for by law.
+5.3. Third parties as part of a merger or acquisition
+As we develop our business, we may buy or sell assets or business offerings. Customers’ information is generally one of the transferred business assets in these types of transactions. We may also share such information with any affiliated entity (e.g., parent company or subsidiary) and may transfer such information in the course of a corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy.
+6. How you can exercise your privacy rights
+To be in control of your personal data, you have the following rights:
+Accessing/reviewing/updating/correcting your personal data.
+You may review, edit, or change the personal data that you had previously provided on the Website by sending us an email at
+support@adapty.io
+.
+You may also request a copy of your personal data collected during your use of the Website at
+support@adapty.io
+.
+Deleting your personal data.
+You can request the erasure of your personal data as permitted by law by sending us an email at
+support@adapty.io
+.
+When you request the deletion of your personal data, we will use reasonable efforts to honor your request. In some cases, we may be legally required to keep some of the data for a certain time; in such an event, we will fulfill your request after we have complied with our obligations.
+Objecting to or restricting the use of your personal data.
+You can ask us to stop using all or some of your personal data or limit our use thereof by sending a request to
+support@adapty.io
+.
+Additional information for EEA-based users:
+If you are based in the EEA, you have the following rights in addition to the above:
+The right to lodge a complaint with a supervisory authority.
+We would love you to contact us directly at
+support@adapty.io
+, so we could address your concerns. Nevertheless, you have the right to lodge a complaint with a competent data protection supervisory authority, in particular in the EU Member State where you reside, work, or where the alleged infringement has taken place.
+The right to data portability.
+If you wish to receive your personal data in a machine-readable format, you can send a respective request to us at
+support@adapty.io
+.
+7. Age limitation
+We do not knowingly process personal data from persons under 18 years of age. If you learn that anyone younger than 18 has provided us with personal data, please contact us at
+support@adapty.io
+.
+8. International data transfers
+We may transfer personal data to countries other than the country in which the data was originally collected in order to provide the Service set forth in the Terms of Service and for purposes indicated in this Privacy Policy. If these countries do not have the same data protection laws as the country in which you initially provided the information, we deploy special safeguards.
+In particular, if we transfer personal data originating from the EEA to countries with not adequate level of data protection, we use one of the following legal bases: (i) Standard Contractual Clauses approved by the European Commission (details available
+here)
+, or (ii) the European Commission adequacy decisions about certain countries (details available
+here
+).
+9. Data Privacy Frameworks
+Adapty Tech Inc. (“Adapty”) employs various legal instruments for the legitimate transfer of personal data from the European Union, the United Kingdom, and Switzerland to jurisdictions beyond these territories. Adapty complies with the EU-U.S. Data Privacy Framework (“EU-U.S. DPF”), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (“Swiss-U.S. DPF”) as set forth by the U.S. Department of Commerce. Adapty has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. DPF Principles with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF. Adapty has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. DPF Principles with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF.
+If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit
+https://www.dataprivacyframework.gov/
+.
+Under each Data Privacy Framework, the U.S. Federal Trade Commission has the power to enforce rules on Adapty. In certain situations, Adapty might have to share personal data if asked by government authorities, especially for reasons related to national security or law enforcement.
+Adapty is responsible for the processing of personal data it receives or subsequently transfers to a third party acting as an agent on its behalf unless Adapty proves that it is not responsible for the event giving rise to the damage. Adapty complies with onward transfer liability provisions in the Data Privacy Framework Principles.
+Individuals may exercise their right to request access, review, correction, updating, or deletion of their personal data under our stewardship via email
+support@adapty.io
+.
+In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, Adapty commits to resolve DPF Principles-related complaints about our collection and use of your personal information. EU and UK individuals and Swiss individuals with inquiries or complaints regarding our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF should first contact Adapty at:
+data-protection@adapty.io
+.
+If we do not resolve your complaint, Adapty cooperates with panels established by the European Union data protection authorities (“DPAs”), the United Kingdom Information Commissioner’s Office (“ICO”), and the Swiss Federal Data Protection and Information Commissioner (“FDPIC”), who will hear such complaints. You may also have a right to invoke binding arbitration for unresolved complaints.
+10. Changes to this privacy policy
+We may modify this Privacy Policy from time to time. If we decide to make material changes to this Privacy Policy, you will be notified by available means such as email and will have an opportunity to review the revised Privacy Policy. By continuing to access or use the Service after those changes become effective, you agree to be bound by the revised Privacy Policy.
+11. California’s privacy rights
+California’s Shine the Light law gives California residents the right to ask companies once a year what personal information they share with third parties for those third parties’ direct marketing purposes. Learn more about what is considered to be
+personal information under the statute
+.
+To obtain this information from us, please send an email message to
+support@adapty.io
+which includes “Request for California Privacy Information” in the subject line and your state of residence and email address in the body of your message. If you are a California resident, we will provide the requested information to you at your email address in response.
+12. Data retention
+We will store your personal data for as long as it is reasonably necessary for achieving the purposes set forth in this Privacy Policy (including providing the Service to you). We will also retain and use your personal data as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+13. How "do not track" requests are handled
+Except as otherwise stipulated in this Privacy Policy, this Service does not support “Do Not Track” requests. To determine whether any of the third-party services it uses honor the “Do Not Track” requests, please read their privacy policies.
+14. Contact us
+You may contact us at any time for details regarding this Privacy Policy and its previous versions. For any questions concerning your account or your personal data please contact us at
+support@adapty.io
+.
+Effective as of April 17, 2024.
+Company
+Why Adapty?
+About us
+Contact us
+Careers
+Terms
+Privacy policy
+Data protection
+System status
+SOC 2 compliance
+Become a partner
+Product
+Adapty Life
+Product changelog
+System status
+Comparisons
+Tech
+Subscriptions SDK
+Subscribers sync
+Fallback paywalls
+Refund Saver
+Analytics
+Revenue analytics
+LTV analytics
+AI LTV and revenue predictions
+Paywalls
+No-code Builder
+A/B testing
+Targeting
+Localizations
+Remote config
+Resources
+Learn
+Learn
+Blog
+Podcasts
+Glossary
+Ebooks
+new
+Connect
+Connect
+Community
+Webinars
+Events
+Discover
+Discover
+Documentation
+Paywall A/B testing guide
+Subscription calculator
+Apple receipt validation
+LTV prediction model
+Paywall library
+Paywall newsletter
+Apple fiscal calendar 2025
+Comparing alternatives
+Ebooks
+Ebooks
+Scale your app from $1K to $10K MRR
+Design a mobile paywall to boost subs
+View all ebooks
+Research
+Research
+2024 holiday insights for subscription apps
+State of in-app subscriptions 2024
+State of in-app subscriptions in the US 2023
+State of Android in-app subscriptions 2022
+State of iOS in-app subscriptions 2021
+Compare
+Compare
+RevenueCat
+Purchasely
+Qonversion
+In-house development
+View all comparisons
+Solution
+By Role
+For developers
+For marketers
+For app owners
+By Stage
+Indie
+Startups
+Publishers
+Enterprise
+By Case
+Integrate IAP/subscriptions
+Grow subscription revenue
+Analyze revenue performance
+Integrations
+Adjust
+Airbridge
+Amazon S3
+Amplitude
+AppMetrica
+Apple Search Ads
+AppsFlyer
+Asapty
+Branch
+Braze
+Facebook Ads
+Firebase
+Google Cloud Storage
+Google Analytics
+Mixpanel
+OneSignal
+PostHog
+Pushwoosh
+SplitMetrics
+Stripe
+Tenjin
+Webhook
+View all integrations
+Case Studies
+View all case studies
+Pepapp
+How to make Adapty for free
+Fotorama
+How to decrease the refund rate with Adapty
+Wave
+From $0 to $4M ARR in 8 months
+Impala
+Migrated to Adapty from a competitor
+ABBYY
++58.5% to the annual subscription revenue
+Moonly
+Scale an app to 6-figure MRR
+Prosto
++30% revenue from an A/B test
+Union Apps
+Leading apps to millions of dollars
+SocialKit
+Doubled MRR with A/B testing
+Avatarify
+№1 app that was built as a joke
+SDK
+iOS
+Android
+React Native
+Unity
+Flutter
+FlutterFlow
+Web
+Stripe
+Docs
+Documentation
+Quick start
+Migrate to Adapty
+Platform status page
+Support Center
+All docs
+Mobile SDK
+iOS
+Android
+Flutter
+React Native
+Unity
+Web SDK
+Stripe
+FlutterFlow
+API
+Web API
+Pricing
+Blog

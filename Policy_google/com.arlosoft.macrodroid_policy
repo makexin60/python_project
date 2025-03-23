@@ -1,0 +1,28 @@
+MacroDroid Privacy Policy
+MacroDroid requests permission to access location data in the background and uses this location data for the purpose of the location/geofence triggers to determine when you enter and exit a geographical area. The share location action will also use location data to update your current location before sharing it. MacroDroid will also request location permission for the following functionality (which require this permission to function): Identifying cell tower ids, Identifying wifi access point SSIDs.
+​
+MacroDroid fully respects your privacy and does not collect or store your current location or location history.
+​
+​
+MacroDroid will log crash and basic anonymous analytics data. This data is used solely for resolving issues within and making improvements to the app, it will never be used for any other purpose.
+​
+MacroDroid will access your list of installed applications when configuring the Application Launched trigger, the Launch Application action and the Active Application constraint. This list of installed apps is used only to present a user interface to allow app selection for the purpose of these features. The list of installed apps will never be persisted/stored or shared in any way.
+​
+MacroDroid will access your contact list when using the Call/SMS based triggers and actions. The list of contacts is used only for the purpose of these features and contact data will never be persisted/stored or shared in any way.
+​
+MacroDroid offers users the chance to 'sign up' to the template store. This allows an optional profile picture to be uploaded to be stored along with the users email address, username and (optional) description text. All data is held securely in MacroDroid's back end and may be removed at any time by deleting the user profile within the app. This data is used solely for the purpose of showing profile information within the template store. It is not and will not ever be used for any other purpose or sold/distributed in any way.
+​
+MacroDroid Pro users may submit template macros at thier discretion. These template macros will be associated with the users Google account, email or password (as selected) and stored securely on MacroDroid's cloud services. This data is used solely for the displaying of templates in MacroDroid and will never be used for any other purpose.
+​
+MacroDroid makes use of Google services within the Android eco-system (e.g. Activity Recognition).
+​
+MacroDroid has no control over what data Google may collect when using these services.
+​
+MacroDroid can make use of your Google Gmail account (if granted access) to send emails on your behalf via the send email action. MacroDroid will never use this access to send emails other than those configured by the user (using the send email action). Aside from the usage described, MacroDroid will not access, store or share any Google user data or account information.
+​
+No user data or any other data related to MacroDroid will ever be sold or made available to third parties except where explicitly authorized by the user (on an opt-in basis), no such data sharing is currently enabled in the app. In such cases where a user explicitly grants use of their data to be made available to third parties, all data will be completely anonymous and in no way identify an individual user or device. Any data sharing service that has been enabled may be revoked at any time by the user. Upgrading to the pro version of the app will automatically disable any data sharing service that has previously been enabled.
+​
+​
+​
+​
+This app uses the Device Administrator permission (BIND_DEVICE_ADMIN). This permission is used solely for the purpose of implementing the failed login trigger and no other functionality. To use this feature you must give MacroDroid device administration access when prompted. This is entirely optional and done at the user's discretion.

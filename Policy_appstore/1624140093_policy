@@ -1,0 +1,132 @@
+Lottie
+is a powerful library that parses
+After Effects
+animations and makes mobile (and web) apps more user friendly, enhancing them with beautiful animations and interactions.
+It’s common for Android projects to fail during build due to incompatible versions of Lottie, or any other library, used by different dependencies.
+Developers often resort to solutions such as:
+1
+2
+3
+4
+5
+configurations.all {
+resolutionStrategy {
+force(
+"com.airbnb.android:lottie:your-desired-version"
+)
+}
+}
+Or removing transitive dependencies
+1
+2
+3
+implementation(
+"your.library:dependency"
+) {
+exclude(group =
+"com.airbnb.android"
+, module =
+"lottie"
+)
+}
+However, these solutions can lead to runtime issues, including
+crashes
+.
+Using a resolution strategy that forces a version in a conflict can lead to runtime error.
+A more robust way to handle this issue is through
+Dependency Shadowing
+.
+Dependency Shadowing involves taking a dependency and renaming its package to avoid conflicts.
+You might think about forking the repository and changing the package name, but there’s a more efficient approach that doesn’t require maintaining a fork.
+There is a well-known
+Java plugin
+that does this shadowing but doesn’t work quite well will Android projects. So in order to have a better experience in Android development, a Gradle plugin should be created.
+Dependency Shadowing
+Gradle comes to our rescue
+We’ll create a Gradle plugin that enables us to easily shadow dependencies like this:
+1
+add(
+"shadowAARImplementation"
+,
+"com.airbnb.android:lottie:6.1.0"
+)
+Here, shadowAARImplementation is a configuration that processes the dependency, shadows it, and adds it to your project. In order to create our plugin. let’s create a
+buildSrc
+folder inside your Android project, and inside the folder a structure like the one showed below.
+The content of the AddShadowedAARDependenciesPlugin.kt can be found at
+my public gist
+.
+And the content of the build.gradle.kts file is
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+plugins {
+`kotlin-dsl`
+}
+repositories {
+gradlePluginPortal()
+}
+dependencies {
+implementation(
+"com.github.johnrengelman:shadow:8.1.1"
+)
+//
+https://github.com/GradleUp/shadow
+}
+Using the AddShadowedARRDependencies Plugin
+In your project’s build.gradle.kts file add the import to the plugin
+1
+2
+import
+com.eaceto.android.plugins.shadow.AddShadowedAARDependenciesPlugin
+import
+com.eaceto.android.plugins.shadow.AddShadowedAARDependenciesPluginExtension
+Then in the
+dependencies
+block add your dependency with
+1
+add("shadowAARImplementation", "com.airbnb.android:lottie:6.1.0")
+Once that is done, add a configuration block in order to rename the package of (Lottie) dependency, with a custom one. I will use for this example
+com.eaceto.shadowed.lottie
+1
+2
+3
+4
+5
+6
+7
+extensions.getByType(AddShadowedAARDependenciesPluginExtension::
+class
+.java).apply {
+relocations.set(
+mutableListOf(
+listOf(
+"com.airbnb.lottie"
+,
+"com.my.package.shadow.lottie"
+),
+),
+)
+}
+If you
+sync & build
+your Android project you will find a lot of error related to missing
+com.airbnb.lottie
+. This is because now you will find all the Lottie classes under
+com.eaceto.shadowed.lottie
+.
+Adopting Lottie Compose
+The above solution works great for Lottie and other libraries but the GradleUp/Shadow plugin has a few problems with top-level functions. The Lottie-Compose package is full of these functions, so the workaround is:
+Copy all the
+Lottie Compose
+functions to a package in your code
+Modify the imports to match the shadowed package
+Add @SuppressLint(“RestrictedApi”) where needed

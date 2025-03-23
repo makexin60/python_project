@@ -1,0 +1,511 @@
+Antonio Ferraioli Privacy Policy & GDPR and CCPA Compliance
+General information
+Your privacy is very important to Antonio Ferraioli. This Privacy Policy
+        was authored to inform you about how any data personally related to you
+        (“Personal Information”) are collected, used and stored by Antonio
+        Ferraioli. If you have any questions or concerns, please let us know
+        writing to
+privacy@onmadesoft.com
+.
+This Privacy Policy covers Antonio Ferraioli’s apps, as well as the
+        website and web services. Any information, personal or not, that is
+        collected serves the purpose of providing and improving these services as
+        well as providing support. Antonio Ferraioli will only collect, use, and
+        store your Personal Information in a secure manner in order to ensure
+        confidentiality. Your Personal Information will never be shared with other
+        parties without your prior consent, and unless it is required in order to
+        provide these services to you. We may also be liable to share your
+        Personal Information to comply with the law or protect our rights.
+Furthermore, you have the right to be informed, upon request, about the
+        Personal Information that have been collected from you and stored, as well
+        as its source, and the purpose of its storage. In addition, you have the
+        right to have such Personal Information amended or deleted; in the latter
+        case, however, We may have to cancel the services, if they are connected
+        to that piece of information.
+Definitions
+Personal Information
+is data which relates to a specific
+        identifiable person.
+Non-personal Information
+is data that does not relate to a
+        specific person.
+Combined personal and non-personal information
+is information that
+        will be treated as
+Personal Information
+for as long as it remains
+        combined.
+Service Partners
+are entities other than Antonio Ferraioli that
+        provide services to Antonio Ferraioli that contribute to the operation and
+        improvement of Antonio Ferraioli's apps, website and web services.
+Game Database
+is the server database that stores the information
+        needed to Antonio Ferraioli''s app to work, and to provide leaderboards
+        and online games (data stored on this database is private, encrypted and
+        never shared with anyone).
+Antonio Ferraioli’s website
+Our website
+www.onmadesoft.com
+contains the landing pages introducing Antonio Ferraioli's apps.
+Our website does not track information at all—no cookies, no analytics,
+        no personal or non-personal information are collected there.
+The website is hosted by a
+Service Partner
+named
+Heroku
+(see the
+Service Partners
+section for details about
+Heroku
+).
+Antonio Ferraioli's apps – Scala40, Ramino, Machiavelli, Pinnacola
+(and all future card games developed by Antonio Ferraioli)
+Upon activation of the apps, as a technical requirement to run the
+        service, the following Non-personal Information will be collected:
+model and version of the device used
+iOS version
+app version
+language used
+date and time of activation
+This information is collected using the
+Firebase
+Service Provider
+        (see the
+Service Partners
+section for details about
+Firebase
+).
+When playing the app web services (hosted on onmadesoft.com), the
+        following are collected:
+your Apple Game Center Player ID and alias (nickname)
+your iOS Vendor ID (an Apple identifier used to allow us to uniquely
+                identify your device when used with our apps)
+the type of played game (score or single)
+the mode of played game (online or offline)
+the start/end date and time of the game
+the Apple Game Center Player IDs of players involved in an online game
+the played game results (won/lost/exited)
+the points collected or lost at the end of the game (those are
+                collected to update the game leaderboards)
+when playing an online game, the full game model and the points earned
+                or lost at the end of the game (which are collected to update the game
+                leaderboards)
+when showing your Geo Leaderboards (only if you agreed in sharing your current location) we collect your latitude and longitude, this information will never shared and it is only used to build the Geo Leaderboards database
+This information is collected in our database (none allows us to know
+        your identity or your geographical location), and is stored on a secured
+Game
+            Database
+. Upon request, we can provide an export (and even remove)
+        your information from this
+Game Database
+(just write to
+privacy@onmadesoft.com)
+When using the free version of the apps, advertisements will be shown to
+        you. Advertisements are displayed using the AdMob Mediation Services
+        provided by Google.
+(See the
+Service Partner
+section for more details about Google
+        AdMob.) Your Personal Information aren't shared with Google (or other
+        Mediated Ad providers), but we just ask them to provide ads without
+        passing additional information.
+By contacting us directly from the app
+or by using the Feedback/Contact Us feature from the Help menu
+or by sending a crash report after an app crash occurs
+you will send us an email, which contains your email address, any
+        personal information you will directly add to the email (i.e. your name
+        and family name), and a few attachments:
+a file containing your app settings
+a file containing the model of the latest played game
+a file containing the model of the current game in progress
+a file containing a screenshot of the current game in progress
+a file containing any completed game that has not yet been published
+                on the leaderboards
+From this email attachment we will be able to know your Apple Game Center
+        Player ID and your Apple Game Center Alias (included in the setting
+        attachment). With this information, we will be able to export and even
+        delete your information from the
+Game Database.
+All emails and attachments are stored on our office (secured) computer
+        and kept just for two months, after which they are deleted. On some cases,
+        if your support request requires longer processing times, We will have to
+        keep you emails and attachments for longer. You can always ask us to
+        delete all your emails and to provide a copy of all emails you sent, and
+        we’ll delete or provide a copy if we still have one.
+Remember
+!
+By asking to delete your information
+            from the Game Database, you will no longer be able to see you
+            leaderboards and play online games.
+In case you purchased the apps, or digital goods, or services directly
+        from the apps, you will use the Apple App Store payment system, and all
+        your personal data, credit cards and transaction information will be known
+        by Apple only. Our server and Game Database neither receive nor track any
+        information about your purchases, transactions, credit cards or any other
+        payment system provided by the Apple App Store. (See the
+Service
+            Partners
+section for details about Apple.)
+List of our Service Partners
+Our service partners maintain physical, technical and administrative
+        safeguards too.
+All Service Partners are GDPR and CCPA compliant
+For further information, please have a look at:
+Firebase
+https://firebase.google.com
+https://firebase.google.com/support/privacy
+Heroku
+heroku.com
+https://devcenter.heroku.com/articles/gdpr
+Heroku
+uses a logging system that keeps track of URL requests
+        received from web browsers and apps. Those logs are just kept for a few
+        minutes and do not contain personal information.
+The following is an example of a log row collected by
+Heroku
+2018-08-15T16:15:52.254724+00:00 heroku[router]: at=info method=GET
+            path="/" host=www.onmadesoft.com
+            request_id=dc175598-b089-44b5-9cdc-1d737dc69a2c fwd="81.53.214.222”
+            dyno=web.2 connect=1ms service=8ms status=200 bytes=4690 protocol=http
+In this case, a web browser requested to see the URL of the home page of
+www.onmadesoft.com
+. As you can see,
+        the only non-personal information is the IP address of the URL requester (in
+        this example, the fwd field containing the 81.53.214.222 IP address)
+Google AdMob
+https://www.google.com/admob/
+https://support.google.com/admob/answer/7666519
+Apple
+https://apple.com
+https://privacy.apple.com (GDPR)
+Data Protection Officer
+The data protection officer for Antonio Ferraioli's apps, website and
+        web-services, is Antonio Ferraioli himself. You can contact him writing to
+        privacy@onmadesoft.com or to Antonio Ferraioli, via Bertodano 10, 13900
+        Biella, Italy
+Policy changes
+This Privacy Policy may be updated from time to time, in which case a
+        notice will be posted on our website. It is your responsibility to make
+        yourself familiar with the latest version of this policy.
+Last updated: April 22th, 2019
+Sub-section Policy: 
+Sub-policy 0
+https://firebase.google.com/support/privac:
+Skip to main content
+firebase.google.com uses cookies from Google to deliver and enhance the quality of its services and to analyze traffic.
+Learn more
+.
+OK, got it
+Build
+More
+Run
+More
+Solutions
+Pricing
+Docs
+More
+Community
+More
+Support
+Go to console
+Build
+Go to Build
+Build Products
+App Check
+App Hosting
+Authentication
+Cloud Functions
+Cloud Storage
+Data Connect
+Extensions
+Firebase ML
+Firestore
+Genkit
+Hosting
+Realtime Database
+Vertex AI in Firebase
+Generative AI
+Run
+Go to Run
+Run Products
+A/B Testing
+App Distribution
+Cloud Messaging
+Crashlytics
+Google Analytics
+In-App Messaging
+Performance Monitoring
+Remote Config
+Test Lab
+Overview
+Fundamentals
+Build
+Run
+Reference
+Samples
+Learn
+Events
+Stories
+Firebase
+Support
+Send feedback
+Firebase is healthy!
+View status
+Visit the
+Firebase Status Dashboard
+for detailed Firebase service status information.
+arrow_back
+Pick a category
+Ask Gemini for help
+Enable Gemini in the Firebase console
+Bugs and Features
+File Bug Reports and Feature Requests here.
+report
+Accounts & projects
+Trouble accessing an account or project
+access
+Billing
+I have a billing question
+billing
+Push Notification issues
+Firebase Cloud Messaging
+fcm
+Analytics help
+Google Analytics for Firebase
+analytics
+Database issues
+Cloud Firestore, Data Connect, or Realtime Database issues
+databases
+Information
+View the Firebase ToS, FAQ, & other information
+information
+Pick a different product
+My issue is with a specific Firebase product.
+products
+GCP support
+I have a GCP support plan.
+cloud
+Report spam, malware, or phishing
+I would like to report spam, malware, or phishing
+spam
+Stack Overflow
+Example: "How do I cancel a file upload?"
+StackOverflow
+is the best place to get help with using Firebase APIs in your code. Make sure you know
+how to ask a good question
+to help get a quick response.
+Mailing List
+Example: "Will this database structure work?"
+Our
+Google Group
+is the best place to have a longer conversation with our team via email.
+Slack
+Example: "Is anyone using Firebase with PHP?"
+The
+Firebase Slack
+is the best place to reach out to the Firebase community for a quick chat.
+Info
+Chat
+Sub-policy 1
+https://privacy.apple.com/:
+Apple
+Store
+Shop the Latest
+Mac
+iPad
+iPhone
+Apple Watch
+Apple Vision Pro
+Accessories
+Find a Store
+Order Status
+Apple Trade In
+Financing
+Personal Setup
+Certified Refurbished
+Education
+Business
+Veterans and Military
+Government
+Mac
+Explore All Mac
+MacBook Air
+MacBook Pro
+iMac
+Mac mini
+Mac Studio
+Mac Pro
+Displays
+Compare Mac
+Switch from PC to Mac
+Shop Mac
+Help Me Choose
+Mac Accessories
+Apple Trade In
+Financing
+Mac Support
+AppleCare+ for Mac
+macOS Sequoia
+Apple Intelligence
+Apps by Apple
+Continuity
+iCloud+
+Mac for Business
+Education
+iPad
+Explore All iPad
+iPad Pro
+iPad Air
+iPad
+iPad mini
+Apple Pencil
+Keyboards
+Compare iPad
+Why iPad
+Shop iPad
+iPad Accessories
+Apple Trade In
+Financing
+iPad Support
+AppleCare+ for iPad
+iPadOS 18
+Apple Intelligence
+Apps by Apple
+iCloud+
+Education
+iPhone
+Explore All iPhone
+iPhone 16 Pro
+iPhone 16
+iPhone 16e
+iPhone 15
+Compare iPhone
+Switch from Android
+Shop iPhone
+iPhone Accessories
+Apple Trade In
+Carrier Deals at Apple
+Financing
+iPhone Support
+AppleCare+ for iPhone
+iOS 18
+Apple Intelligence
+Apps by Apple
+iPhone Privacy
+iCloud+
+Wallet, Pay, Card
+Siri
+Watch
+Explore All Apple Watch
+Apple Watch Series 10
+Apple Watch Ultra 2
+Apple Watch SE
+Apple Watch Nike
+Apple Watch Hermès
+Compare Watch
+Why Apple Watch
+Shop Apple Watch
+Apple Watch Studio
+Apple Watch Bands
+Apple Watch Accessories
+Apple Trade In
+Financing
+Apple Watch Support
+AppleCare+
+watchOS 11
+Apple Watch For Your Kids
+Apps by Apple
+Apple Fitness+
+Vision
+Explore Apple Vision Pro
+Guided Tour
+Tech Specs
+Shop Apple Vision Pro
+Apple Vision Pro Accessories
+Book a Demo
+Financing
+Apple Vision Pro Support
+AppleCare+
+visionOS 2
+AirPods
+Explore All AirPods
+AirPods 4
+AirPods Pro 2
+AirPods Max
+Compare AirPods
+Shop AirPods
+AirPods Accessories
+AirPods Support
+AppleCare+ for Headphones
+Hearing Health
+Apple Music
+TV & Home
+Explore TV & Home
+Apple TV 4K
+HomePod
+HomePod mini
+Shop Apple TV 4K
+Shop HomePod
+Shop HomePod mini
+Shop Siri Remote
+TV & Home Accessories
+Apple TV Support
+HomePod Support
+AppleCare+
+Apple TV app
+Apple TV+
+Home app
+Apple Music
+Siri
+AirPlay
+Entertainment
+Explore Entertainment
+Apple One
+Apple TV+
+Apple Music
+Apple Arcade
+Apple Fitness+
+Apple News+
+Apple Podcasts
+Apple Books
+App Store
+Apple TV+ Support
+Apple Music Support
+Accessories
+Shop All Accessories
+Mac
+iPad
+iPhone
+Apple Watch
+Apple Vision Pro
+AirPods
+TV & Home
+Made by Apple
+Beats by Dr. Dre
+AirTag
+Support
+iPhone
+Mac
+iPad
+Watch
+Apple Vision Pro
+AirPods
+Music
+TV
+Explore Support
+Community
+Check Coverage
+Repair
+Get AppleCare+
+Apple Account and Password
+Billing & Subscriptions
+Accessibility
+0
++
+Data and Privacy
+Sign In
+Sign In
+Data and Privacy
+Sign In
+Sign In

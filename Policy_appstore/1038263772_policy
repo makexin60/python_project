@@ -1,0 +1,82 @@
+Millisecond Security Statement
+Millisecond is dedicated to protecting all customer data using industry best standards. This Security Statement is intended to provide a transparent look at our security infrastructure and practices to help assure that your data are sufficiently protected.
+Millisecond's highest priority is the protection and reliability of customer data. Our servers are protected by high-end firewall systems, and scans are performed regularly to ensure that any vulnerabilities are quickly found and patched. All services have quick failover points and redundant hardware, with complete backups performed nightly. Data are stored redundantly across data centers for resiliency and availability during disasters.
+Millisecond provides each customer a unique user name and enforces strong passwords that must be entered each time a customer logs on. The user remains authenticated only for the duration of the session and is automatically logged off after 30 minutes of inactivity. This system ensures that customer data can only be accessed by authenticated and authorized users. Millisecond uses AWS Cognito to manage authentication and does not store user passwords locally. For additional account security, Millisecond customers can enable multi-factor authentication with a one-time password sent via SMS.
+Customer data are processed and stored in world-class data center facilities in Oregon, USA, Ireland, EU, and Tokyo, Japan. Data are not moved around to other locations. The data centers are housed in nondescript facilities. Physical access is strictly controlled both at the perimeter and at building ingress points by professional security staff utilizing video surveillance, intrusion detection systems, and other electronic means. Authorized staff must pass two-factor authentication a minimum of two times to access data center floors. All visitors and contractors are required to present identification and are signed in and continually escorted by authorized staff.
+Facilities are equipped with fire detection and suppression equipment, multiple backup power systems, and climate and temperature control. Servers are decommissioned and disposed using processes that prevent unauthorized access to data.
+The servers reside behind high-availability firewalls and are monitored using state of the art systems for detection and prevention of various threats including denial of service, man in the middle, IP spoofing, port scanning, and packet sniffing. Automated network security audits using the industry standard SSAE-16 method are conducted to the standards and requirements of the SANS/FBI security test, the U.S. Department of Homeland Security's published recommendations and the Payment Card Industry Data Security Standard.
+Millisecond encrypts all data in transit by enforcing the latest versions of Transport Layer Security (TLS) encryption (also known as HTTPS). Millisecond encrypts all data at rest using the industry standard AES-256 cypher.
+Millisecond deploys the general requirements set forth by many Federal Acts, including the FISMA Act of 2002. We meet or exceed the minimum requirements as outlined in FIPS Publication 200. We also comply with FERPA for protecting student privacy.
+Since our subscribers control their users and their data, it is important for the users to practice sound security practices by using strong account passwords and restricting access to their accounts to authorized persons. For added protection, Millisecond supports multi-factor authentication for logging into user accounts.
+Regarding HIPAA, HITECH, and specific data types: Millisecond provides general research software and other services where all data are processed equally, without regard to how a customer might classify their data. As such, Millisecond cannot declare or represent any data entered into its services. Any processing of specific data types are purely incidental, and not required to use the services.
+HITECH (Health Information Technology for Economic and Clinical Health Act) updated HIPAA rules to ensure that data are properly protected and best security practices followed. Millisecond safeguards all customer data, and uses secure data centers to ensure the highest protection as per HITECH requirements.
+Questions?
+If you have questions about Millisecond security, please email us at inquisit@millisecond.com.
+This website uses cookies
+This website uses cookies to improve user experience. By using our website you consent to all cookies in accordance with our Cookie Policy.
+Read more
+Save & Close
+Accept all
+Decline all
+Show details
+Hide details
+Strictly necessary
+Performance
+Targeting
+Functionality
+Cookie declaration
+About cookies
+Strictly necessary
+Performance
+Targeting
+Functionality
+Strictly necessary cookies allow core website functionality such as user login and account management. The website cannot be used properly without strictly necessary cookies.
+Cookie report
+Name
+Provider / Domain
+Expiration
+Description
+CookieScriptConsent
+CookieScript
+.millisecond.com
+2 months
+This cookie is used by Cookie-Script.com service to remember visitor cookie consent preferences. It is necessary for Cookie-Script.com cookie banner to work properly.
+.AspNetCore.Antiforgery.QZn0NowJiSk
+www.millisecond.com
+Session
+Used by Millisecond to prevents cross-site request forgery attacks
+Performance cookies are used to see how visitors use the website, eg. analytics cookies. Those cookies cannot be used to directly identify a certain visitor.
+Targeting cookies are used to identify visitors between different websites, eg. content partners, banner networks. Those cookies may be used by companies to build a profile of visitor interests or show relevant ads on other websites.
+Cookie report
+Name
+Provider / Domain
+Expiration
+Description
+_ga_8MQYWQDYPV
+.millisecond.com
+1 year 1 month
+This cookie is used by Google Analytics to persist session state.
+IDE
+Google LLC
+.doubleclick.net
+1 year
+This cookie is set by Doubleclick and carries out information about how the end user uses the website and any advertising that the end user may have seen before visiting the said website.
+_gcl_au
+Google LLC
+.millisecond.com
+3 months
+Used by Google AdSense for experimenting with advertisement efficiency across websites using their services
+_ga
+Google LLC
+.millisecond.com
+1 year 1 month
+This cookie name is associated with Google Universal Analytics - which is a significant update to Google's more commonly used analytics service. This cookie is used to distinguish unique users by assigning a randomly generated number as a client identifier. It is included in each page request in a site and used to calculate visitor, session and campaign data for the sites analytics reports.
+Functionality cookies are used to remember visitor information on the website, eg. language, timezone, enhanced content.
+Cookies are small text files that are placed on your computer by websites that you visit. Websites use cookies to help users navigate efficiently and perform certain functions. Cookies that are required for the website to operate properly are allowed to be set without your permission. All other cookies need to be approved before they can be set in the browser.
+You can change your consent to cookie usage at any time on our Privacy Policy page.
+Cookies consent ID
+:
+Cookie
+report
+created by
+CookieScript

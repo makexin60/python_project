@@ -1,0 +1,217 @@
+Android – system operacyjny firmy Google dla urządzeń mobilnych.
+App Store – platforma firmy Apple, której Użytkownik może pobrać eDO App dla systemu iOS.
+Certyfikat Identyfikacji i Uwierzytelnienia – certyfikat przypisany posiadaczowi e-dowodu, umieszczony w warstwie elektronicznej e-dowodu, wymagający podania 4-cyfrowego kodu PIN w celu wykonania operacji kryptograficznej z jego udziałem.
+Certyfikat Obecności – certyfikat przypisany posiadaczowi e-dowodu, umieszczony w warstwie elektronicznej e-dowodu, nie wymagający podania kodu PIN w celu wykonania operacji kryptograficznej z jego udziałem.
+Certyfikat Podpisu Zaawansowanego (Podpisu Osobistego) – certyfikat przypisany posiadaczowi e-dowodu, umieszczony w warstwie elektronicznej e-dowodu, wymagający podania 6-cyfrowego kodu PIN w celu wykonania operacji kryptograficznej z jego udziałem.
+Certyfikat Podpisu Kwalifikowanego – certyfikat lub certyfikaty umieszczone w warstwie elektronicznej e-dowodu lub Karty Sigillum, wymagający podania 8-cyfrowego kodu PIN w celu wykonania operacji kryptograficznej z jego udziałem.
+Dane dostępowe do struktur ICAO – dane widoczne na innym e-dokumencie, które chronią e-dokument przed niepowołanym odczytem bezprzewodowym i ich podanie jest wymagane w celu uzyskania dostępu do warstwy elektronicznej e-dokumentu. Te dane to numer seryjny e-dokumentu, data urodzenia posiadacza e-dokumentu i data ważności e-dokumentu.
+Dowód osobisty – polski dowód osobisty.
+eDO App – aplikacja mobilna wyprodukowana przez PWPW która oferuje Usługi, umożliwiające wykorzystanie funkcji warstwy elektronicznej e-dowodu.
+e-dowód – polski dowód osobisty z warstwą elektroniczną.
+Google Play – platforma firmy Google, której Użytkownik może pobrać eDO App dla systemu Android.
+Huawei App Gallery – platforma firmy Google, której Użytkownik może pobrać eDO App dla systemu Android na telefonie Huawei.
+Inny e-dokument – paszport lub inny dokument z warstwą elektroniczną, zawierający struktury ICAO.
+iOS – system operacyjny firmy Apple dla urządzeń mobilnych.
+Karta Sigillum – karta kryptograficzna personalizowana przez PWPW, umożliwiająca złożenie podpisu elektronicznego z użyciem NFC.
+Kod połączenia – 6-znakowy kod, który służy do wpisania w eDO App w celu skorzystania z Usługi.
+Kod QR – kod obrazkowy, zawierający kod połączenia, który służy do sfotografowania za pomocą eDO App w celu skorzystania z Usług.
+Kod PIN – kod, którego użycie umożliwia wykonanie operacji potwierdzenia tożsamości (kod 4-cyfrowy – PIN1) lub złożenia podpisu osobistego (kod 6-cyfrowy – PIN2 za pomocą e-dowodu lub złożenia podpisu kwalifikowanego (kod 8-cyfrowy dla e-dowodu lub kod 6-8 cyfrowy dla Karty Sigillum – PIN3). Kody PIN są blokowane po 3 błędnych próbach użycia ich.
+Kod PUK – kod, który umożliwia odblokowanie kodów PIN. Kod PUK jest blokowany po 3 próbach użycia go. Odblokowanie kodu PUK nie jest możliwe.
+MRZ (ang. Machine Readable Zone) – obszar warstwy graficznej dokumentu tożsamości do odczytu maszynowego, zawierający m.in. dane dostępowe do warstwy elektronicznej.
+NFC (ang. Near-Field Communication) – standard bezprzewodowej komunikacji radiowej, używany w urządzeniach mobilnych np. do płatności zbliżeniowych.
+Numer CAN – 6-cyfrowy numer widoczny na e-dowodzie lub Karcie Sigillum, który chroni e-dowód przed niepowołanym odczytem bezprzewodowym.
+OCSP (ang. Online Certificate Status Protocol) – publiczna usługa on-line wystawcy certyfikatów, zawierająca informacje o unieważnionych lub zawieszonych certyfikatach.
+RODO – Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/ WE.
+Rozporządzenie eIDAS – Rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 910/2014 z dnia 23 lipca 2014 r. w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym oraz uchylające dyrektywę 1999/93/WE.
+Usługi – usługi dostępne w aplikacji eDO App, które umożliwiają zdalnie wykonywanie operacji z użyciem e-dowodu lub innych e-dokumentów.
+Usługodawca lub PWPW – Polska Wytwórnia Papierów Wartościowych S.A. z siedzibą w Warszawie przy ul. R. Sanguszki 1, 00-222 Warszawa, zarejestrowana w rejestrze przedsiębiorców pod numerem KRS 0000062594 przez Sąd Rejonowy dla m.st. Warszawy, XII Wydział Gospodarczy Krajowego Rejestru Sądowego, NIP 525-000-10-90, REGON: 011836796, kapitał zakładowy 130 650 380,00 zł wpłacony w całości.
+Struktury ICAO (ang. International Civil Aviation Organization) – pliki w e-dowodzie lub innym e-dokumencie zawierające dokument podróży zgodny z wymogami Organizacji Międzynarodowego Lotnictwa Cywilnego.
+Partner – podmiot, który zawarł z PWPW umowę, w oparciu o którą na żądanie Użytkownika przekazywane są Partnerowi dane lub informacje w ramach Usług realizowanych w eDO App. Partnerem może być w szczególności organ administracji publicznej, oferujący usługę online, do której dostęp możliwy jest przy użyciu eDO App.
+Użytkownik – osoba fizyczna, która zaakceptowała Regulamin, pobrała i zainstalowała eDO App i korzysta z Usług przy użyciu eDO App.
+Użytkownik Niezidentyfikowany – osoba fizyczna, która zaakceptowała Regulamin, pobrała i zainstalowała eDO App, jednak nie korzysta z funkcji eDO App opartych o e-dowód, Inny e-dokument lub Kartę Sigillum.
+Zdjęcie referencyjne – obraz twarzy Użytkownika odczytany z e-dowodu, innego e-dokumentu lub przekazany przez Partnera.
+Zespół Reklamacyjny – komórka w PWPW zajmująca się obsługą zgłoszeń reklamacyjnych Użytkowników eDO App.
+Niniejszy Regulamin określa zasady, zakres i warunki korzystania przez Użytkowników z Usług świadczonych przez Usługodawcę za pośrednictwem eDO App.
+Pobranie i korzystanie z eDO App przez Użytkownika jest nieodpłatne.
+Korzystanie przez Użytkownika z usług transmisji danych lub połączeń głosowych w związku z pobraniem lub korzystaniem z eDO App może wiązać się z opłatami naliczanymi przez operatora telekomunikacyjnego, świadczącego Użytkownikowi usługi telekomunikacyjne.
+Do korzystania z eDO App uprawniony jest Użytkownik, który ukończył 18 lat.
+Posługiwanie się eDO App jest dobrowolne. Usługodawca informuje, że posiadanie eDO App i posługiwanie się nią nie jest prawnym obowiązkiem obywateli Rzeczypospolitej Polskiej lub jakichkolwiek osób przebywających na terytorium Rzeczypospolitej Polskiej.
+Zabronione jest korzystanie z eDO App w sposób sprzeczny z obowiązującym prawem, w tym dostarczanie przez Użytkownika treści bezprawnych.
+eDO App dostępna jest do pobrania:
+a) w Google Play – dla urządzeń mobilnych kompatybilnych z systemem operacyjnym Android oraz posiadających preinstalowane usługi Google oraz
+b) w App Store – dla urządzeń mobilnych kompatybilnych z systemem operacyjnym iOS oraz
+c) w Huawei App Gallery – dla urządzeń mobilnych Huawei kompatybilnych z systemem operacyjnym Android.
+Pobranie i instalacja eDO App są możliwe wyłącznie na urządzeniu mobilnym spełniającym wymagania techniczne wskazanych w § 12.
+Korzystanie z określonych Usług jest możliwe jedynie przez Użytkowników będących posiadaczami e-dowodów, którzy aktywowali warstwę elektroniczną e-dowodu i ustalili nr PIN1 i PIN2, zgodnie z ustawą z dnia 6 sierpnia 2010 r. o dowodach osobistych.
+Umowa o świadczenie usług eDO App zawierana jest po pierwszym uruchomieniu pobranej i zainstalowanej eDO App oraz zaznaczeniu informacji o zapoznaniu się z Regulaminem. Poszczególne Usługi realizowane są każdorazowo po zatwierdzeniu przez Użytkownika zlecenia zrealizowania Usługi poprzez akcję w eDO App i użycie e-dowodu.
+Korzystanie z Usług wymaga podania nr CAN lub danych dostępowych do struktur ICAO, a także – w zależności od wybranej Usługi – może wymagać podania kodu PIN1, PIN2 lub PIN3. Przekroczenie liczby błędnych wprowadzeń kodu PIN lub brak ustawionego kodu PIN uniemożliwiają realizację Usługi. PWPW S.A. w takiej sytuacji nie ponosi odpowiedzialności za brak możliwości realizacji Usługi. Kody PIN1 i PIN2 po raz pierwszy ustala Użytkownik osobiście, zgodnie z przepisami ustawy o dowodach osobistych we właściwym urzędzie obsługującym sprawy obywatelskie.
+eDO App oferuje następujące Usługi:
+1.1. weryfikacja oryginalności i ważności e-dowodu;
+1.2. potwierdzenie tożsamości Użytkownika Zidentyfikowanego;
+1.3. odczyt danych z e-dowodu lub innego e-dokumentu;
+1.4. umożliwienie złożenia podpisu osobistego lub kwalifikowanego na dokumencie elektronicznym za pomocą e-dowodu lub Karty Sigillum.
+W celu umożliwienia skorzystania z Usługi, eDO App umożliwia:
+2.1. sfotografowanie kodu QR, służącego do rozpoczęcia realizacji Usługi lub przepisanie kodu  połączenia, służącego do rozpoczęcia realizacji Usługi;
+2.2. otwarcie eDO App za pomocą odnośnika z innej aplikacji w celu rozpoczęcia realizacji Usługi.
+Na żądanie Użytkownika, eDO App przekazuje określone dane, w tym wynik dokonanej weryfikacji, wskazanemu przez Użytkownika Partnerowi.
+eDO App umożliwia ponadto:
+4.1. zmianę kodu PIN1 do Certyfikatu Identyfikacji i Uwierzytelnienia;
+4.2. zmianę kodu PIN2 do Certyfikatu Podpisu Zaawansowanego;
+4.3. zmianę kodu PIN3 do Certyfikatu Podpisu Kwalifikowanego;
+4.4. odblokowanie kodu PIN1 do Certyfikatu Identyfikacji i Uwierzytelnienia za pomocą kodu PUK;
+4.5. odblokowanie kodu PIN2 do Certyfikatu Podpisu Zaawansowanego za pomocą kodu PUK;
+4.6. odblokowanie kodu PIN3 do Certyfikatu Podpisu Kwalifikowanego za pomocą kodu PUK;
+4.7. aktywację Karty Sigillum i ustawienie kodu PIN3 na karcie Sigillum;
+4.8. zapamiętanie na urządzeniu mobilnym Użytkownika numeru CAN;
+4.9. dostęp do sekcji pomocy;
+4.10. wyświetlenie treści regulaminu;
+4.11. wyświetlenie informacji o aplikacji;
+4.12. wyświetlenie informacji o usługach PWPW.
+W zakresie, w jakim Usługi eDO App obejmują weryfikację certyfikatu podpisu osobistego lub kwalifikowanego, stanowią one usługi zaufania w rozumieniu Rozporządzenia eIDAS.
+Weryfikacja ważności i oryginalności e-dowodu polega na automatycznej kryptograficznej weryfikacji wybranego certyfikatu umieszczonego w warstwie elektronicznej e-dowodu przez Usługodawcę, umożliwiającą stwierdzenie, z wysokim poziomem prawdopodobieństwa, czy e-dowód jest oryginalny i ważny. Weryfikacja certyfikatu dokonywana jest przy wykorzystaniu publicznej usługi OCSP wystawcy danego certyfikatu.
+W zależności od żądania Partnera, Weryfikacja może także obejmować dane znajdujące się w strukturach ICAO ulokowanych w e-dowodzie lub innym e-dokumencie.
+Użytkownik jest informowany, który Certyfikat zostanie użyty w celu Weryfikacji.
+W przypadku Usług, których istotą jest przekazanie danych do Partnera, jeżeli do Weryfikacji wymagany jest szerszy zakres danych niż dane oczekiwane przez Partnera, to dane, których Partner nie oczekuje nie zostaną do niego przekazane i pozostaną po stronie PWPW.
+W ramach Weryfikacji PWPW weryfikuje status ważności i zawieszenia odpowiedniego dla Usługi lub funkcji Certyfikatu w publicznej usłudze OCSP wystawcy Certyfikatu.
+W ramach Weryfikacji PWPW przetwarza następujące dane:
+6.1. w przypadku Weryfikacji z użyciem Certyfikatu Obecności: imię, drugie imię, nazwisko, numer PESEL, numer certyfikatu, daty początku i końca ważności certyfikatu, dane techniczne certyfikatu, adres IP i dane techniczne urządzenia mobilnego;
+6.2. w przypadku Weryfikacji z użyciem Certyfikatu Identyfikacji i Uwierzytelnienia: imię, drugie imię, nazwisko, numer PESEL, data urodzenia, miejsce urodzenia, numer certyfikatu, daty początku i końca ważności certyfikatu, dane techniczne certyfikatu, adres IP i dane techniczne urządzenia mobilnego;
+6.3. w przypadku Weryfikacji z użyciem Certyfikatu Podpisu Zaawansowanego: imię, drugie imię, nazwisko, numer PESEL, numer certyfikatu, daty początku i końca ważności certyfikatu, dane techniczne certyfikatu, adres IP i dane techniczne urządzenia mobilnego;
+6.4. w przypadku Weryfikacji z użyciem Certyfikatu Podpisu Kwalifikowanego: imię, drugie imię, nazwisko, numer PESEL, numer certyfikatu, daty początku i końca ważności certyfikatu, dane techniczne certyfikatu, dane niestandardowe umieszczanego w certyfikacie przez wystawcę certyfikatu, adres IP i dane techniczne urządzenia mobilnego;
+6.5. w przypadku Weryfikacji z użyciem danych ze struktur ICAO: imię, drugie imię, nazwisko, numer PESEL, data urodzenia, płeć, obywatelstwo, zdjęcie, nazwisko rodowe, imię matki, imię ojca, numer e-dowodu, daty wydania i ważności e-dowodu, organ i kraj wydający e-dowód, adres IP i dane techniczne urządzenia mobilnego.
+eDO App zwraca następujące wyniki Weryfikacji:
+7.1. weryfikacja pozytywna – e-dowód, Inny e-dokument, Dowód osobisty lub Certyfikat Podpisu Kwalifikowanego jest oryginalny i ważny;
+7.2. weryfikacja negatywna – e-dowód, Inny e-dokument, Dowód osobisty lub Certyfikat Podpisu Kwalifikowanego nie jest oryginalny lub został unieważniony lub został zawieszony;
+7.3. błąd techniczny – brak informacji o oryginalności i ważności e-dowodu, Innego e-dokumentu, Dowodu osobistego lub Certyfikatu Podpisu Kwalifikowanego.
+Przekazanie danych do Partnera w ramach Usług wymagających Weryfikacji jest możliwe tylko przy zwróceniu przez eDO App pozytywnego wyniku Weryfikacji, pod warunkiem zatwierdzenia woli przekazania danych do Partnera przez Użytkownika. Wraz z przekazaniem danych o wyniku Weryfikacji, przekazana zostaje Partnerowi także informacja o numerze dokumentu.
+PWPW nie ponosi odpowiedzialności za szkody, w szczególności brak możliwości skorzystania z usługi Partnera, z powodu negatywnego wyniku Weryfikacji lub błędu technicznego.
+W przypadku negatywnego wyniku weryfikacji organem właściwym do wyjaśnienia przyczyn nieważności e-dowodu jest organ obsługujący sprawy obywatelskie właściwy dla posiadacza e-dowodu.
+Usługa odczytu danych obejmuje automatyczne odczytanie danych zapisanych w warstwie elektronicznej e-dowodu lub innego e-dokumentu, w warstwie graficznej Dowodu Osobistego oraz, w zależności od decyzji Użytkownika:
+1.1. prezentację na ekranie urządzenia danych odczytanych z warstwy elektronicznej;
+1.2. automatyczne przekazanie danych do systemu informatycznego Partnera – o ile Użytkownik wyraźnie potwierdzi takie zlecenie w eDO App.
+eDO App przekazuje do Partnera dane objęte odczytem wyłącznie pod warunkiem zatwierdzenia przez Użytkownika w eDO App Partnera, któremu dane mają zostać przekazane oraz zakresu przekazywanych danych. Użytkownik potwierdza zlecenie przekazania danych za pomocą wykonania akcji w eDO App oraz użycia e-dowodu lub Innego e-dokumentu.
+W razie nieprawidłowości lub braków w zapisie danych w warstwie elektronicznej e-dowodu, nie zostaną one odczytane. W razie nieprawidłowości w odczycie danych z warstwy graficznej Dowodu osobistego nie zostaną one odczytane lub zostaną odczytane częściowo.
+Przy realizacji usługi odczytu, jednocześnie realizowana jest Weryfikacja e-dowodu lub innego e-dokumentu na zasadach opisanych w § 6. Weryfikacji podlega Certyfikat Obecności (tylko przy użyciu e-dowodu), a jeżeli Partner oczekuje przekazania danych ze struktur ICAO, to następuje również weryfikacja z użyciem tych danych.
+Przy braku pozytywnej weryfikacji oryginalności i ważności e-dowodu Użytkownik i Partner otrzymują komunikat o statusie operacji.
+Usługa potwierdzenia tożsamości obejmuje weryfikację poprawności użycia przez Użytkownika kodu PIN1 do Certyfikatu Identyfikacji i Uwierzytelnienia osadzonego w e-dowodzie lub weryfikację zgodności wizerunku twarzy Użytkownika ze Zdjęciem referencyjnym i przekazanie informacji o wyniku weryfikacji Użytkownikowi, a na jego żądanie – także wybranemu Partnerowi.
+eDO App przed potwierdzeniem tożsamości na rzecz Partnera informuje Użytkownika o wykonywanej operacji, a Użytkownik potwierdza chęć potwierdzenia tożsamości za pomocą wykonania akcji w eDO App oraz użycia e-dowodu.
+Potwierdzenie tożsamości wymaga podania przez Użytkownika kodu PIN1 do Certyfikatu Identyfikacji i Uwierzytelnienia lub zobrazowania wizerunku twarzy Użytkownika za pomocą eDO App.
+Przekazanie wyniku potwierdzenia tożsamości do Partnera następuje pod warunkiem wyraźnego potwierdzenia takiego zlecenia przez Użytkownika. Przekazanie wyniku potwierdzenia tożsamości następuje wraz z numerem PESEL Użytkownika. Weryfikacja wizerunku twarzy następuje po udzieleniu zgody przez Użytkownika na weryfikację wizerunku i przetwarzanie danych biometrycznych twarzy w celu tej weryfikacji.
+Przy realizacji usługi odczytu, jednocześnie realizowana jest Weryfikacja e-dowodu na zasadach opisanych w § 6. Weryfikacji podlega Certyfikat Identyfikacji i Uwierzytelnienia lub Certyfikat Obecności
+.
+Przy braku pozytywnej weryfikacji oryginalności i ważności e-dowodu Użytkownik i Partner otrzymują komunikat o statusie operacji.
+Usługa umożliwiająca składanie podpisu osobistego lub kwalifikowanego obejmuje weryfikację poprawności użycia przez Użytkownika kodu PIN2 lub PIN3 oraz osadzenie podpisu osobistego lub kwalifikowanego w dokumencie elektronicznym Partnera. Usługodawca nie ponosi odpowiedzialność za treść podpisywanego dokumentu elektronicznego. Dokument ten dostarczony jest przez Partnera i do niego należy kierować ewentualne pytania lub wątpliwości dotyczące dokumentu.
+eDO App przed realizacją Usługi umożliwiającej złożenie podpisu osobistego lub kwalifikowanego na dokumencie informuje Użytkownika o wykonywanej operacji, umożliwia pobranie podpisywanego dokumentu na urządzenie mobilne, a Użytkownik potwierdza chęć złożenia podpisu za pomocą wykonania akcji w eDO App oraz użycia e-dowodu lub Karty Sigillum.
+Realizacja Usługi wymaga podania przez Użytkownika kodu PIN2 do Certyfikatu Podpisu Zaawansowanego lub kodu PIN3 do Certyfikatu Podpisu Kwalifikowanego.
+Podpisany dokument wraz z Certyfikatem Podpisu Zaawansowanego lub Certyfikatem Podpisu Kwalifikowanego użytym do podpisu tego dokumentu zostaje przekazany do Partnera.
+Usługodawca nie przechowuje trwale podpisywanych dokumentów elektronicznych. Użytkownik nie ma możliwości pobrania podpisanego dokumentu na urządzenie mobilne. W celu uzyskania dostępu do podpisanego dokumentu, Użytkownik powinien skontaktować się z Partnerem.
+Przy realizacji usługi odczytu, jednocześnie realizowana jest Weryfikacja e-dowodu na zasadach opisanych w § 6. Weryfikacji podlega Certyfikat Podpisu Zaawansowanego lub Certyfikat Podpisu Kwalifikowanego.
+Usługa umożliwiająca składanie podpisu osobistego lub kwalifikowanego obejmuje weryfikację poprawności użycia przez Użytkownika kodu PIN2 lub PIN3 oraz osadzenie podpisu osobistego lub kwalifikowanego w dokumencie elektronicznym pochodzącym od Użytkownika.
+eDO App, przed realizacją Usługi umożliwiającej złożenie podpisu osobistego lub kwalifikowanego na dokumencie, informuje Użytkownika o wykonywanej operacji i umożliwia pobranie podpisywanego dokumentu na urządzenie mobilne w celu jego przeczytania przez Użytkownika, a Użytkownik potwierdza chęć złożenia podpisu za pomocą wykonania akcji w eDO App oraz użycia e-dowodu lub Karty Sigillum.
+Realizacja Usługi wymaga podania przez Użytkownika kodu PIN2 do Certyfikatu Podpisu Zaawansowanego lub kodu PIN3 do Certyfikatu Podpisu Kwalifikowanego.
+W ramach Usługi podpisany dokument wraz z Certyfikatem Podpisu Zaawansowanego lub Certyfikatem Podpisu Kwalifikowanego użytym do podpisu tego dokumentu zostaje przekazany na urządzenie mobilne Użytkownika.
+Usługodawca nie przechowuje trwale podpisywanych plików. Użytkownik nie ma możliwości ponownego pobrania podpisanego dokumentu po opuszczeniu operacji podpisu.
+Przy realizacji usługi odczytu, jednocześnie realizowana jest Weryfikacja e-dowodu na zasadach opisanych w § 6. Weryfikacji podlega Certyfikat Podpisu Zaawansowanego lub Certyfikat Podpisu Kwalifikowanego.
+Przy braku pozytywnej weryfikacji oryginalności i ważności e-dowodu Użytkownik otrzymuje komunikat o statusie operacji.
+Na urządzeniu mobilnym Użytkownika w eDO App nie są przechowywane dane odczytane z e-dowodu. Usługodawca nie przechowuje Kodów PIN ani kodów PUK wprowadzanych przez Użytkownika.
+Pliki pobrane za pomocą eDO App są zapisywane w urządzeniu mobilnym Użytkownika, w domyślnym dla urządzenia folderze zapisu.
+Użytkownik ma możliwość zapisania numeru CAN lub danych dostępowych do struktur ICAO w eDO App lokalnie na urządzeniu mobilnym Użytkownika. Nr CAN oraz dane dostępowe do struktur ICAO służą jedynie do nawiązania bezpiecznego połączenia między urządzeniem mobilnym, a e-dowodem lub innym e-dokumentem. Użytkownik może w dowolnym momencie usunąć zapisany numer CAN lub dane dostępowe do struktur ICAO w eDO App lub zapisać inny numer lub inne dane.
+Usługodawca dokłada należytej staranności w celu zapewnienia odpowiedniego poziomu bezpieczeństwa teleinformatycznego eDO App i danych Użytkowników.
+W celu przeprowadzenia weryfikacji danych, złożenia podpisów oraz potwierdzenia tożsamości przy pomocy aplikacji eDO App, dane są przekazywane w postaci zaszyfrowanej do PWPW, a następnie wynik zrealizowanej operacji zostaje zwrócony na urządzenie mobilne lub przekazane do systemu informatycznego Partnera. Dane są przetwarzane zgodnie z
+informacją o przetwarzaniu danych osobowych
+.
+Z uwagi na specyfikę technologii informatycznych w przyszłości może zostać ujawniona podatność eDO App na określone zagrożenia, z tego względu Usługodawca rekomenduje dokonywanie aktualizacji eDO App do najnowszej dostępnej w sklepie Google lub Apple wersji oraz informuje, że może wydawać w przyszłości zalecenia dotyczące zasad bezpieczeństwa związanych z korzystaniem z eDO App.
+Korzystanie z eDO App możliwe jest przy pomocy urządzenia mobilnego typu smartfon z systemem operacyjnym Android w wersji 7.0 lub wyższej albo iOS w wersji 15 lub wyższej, kompatybilnym z e-dowodem. Usługodawca dołożył należytych starań, aby korzystanie z eDO App było możliwe dla jak największej liczby rodzajów urządzeń mobilnych. Jednakże producenci urządzeń nie udostępniają informacji o kompatybilności urządzeń z e-dowodem, zatem możliwa jest sytuacja, w której urządzenie mobilne Użytkownika będzie spełniać wymagania techniczne, ale będzie niekompatybilne z e-dowodem. W takiej sytuacji PWPW nie ponosi odpowiedzialności za brak możliwości korzystania z eDO App.
+Urządzenie mobilne, o którym mowa w ust 1 powinno spełniać następujące warunki techniczne:
+2.1. zainstalowana aktualna wersja eDO App;
+2.2. przynajmniej 100 MB przestrzeni w pamięci urządzenia mobilnego;
+2.3. dostęp do Internetu;
+2.4. dostęp do identyfikatora urządzenia;
+2.5. dostęp do NFC;
+2.6. dostęp do plików na urządzeniu i karcie pamięci – dla Usług podpisywania dokumentów;
+2.7. włączona komunikacji NFC;
+2.8. sprawna antena NFC, włączona komunikacja NFC i brak przeszkód blokujących komunikację radiową między anteną NFC, a e-dowodem;
+2.9 sprawna kamera przednia oraz udzielone uprawnienie dostępu do niej dla eDO App – dla weryfikacji wizerunku lub dla odczytu z warstwy graficznej danych dostępowych dostruktur ICAO z MRZ.
+eDO App nie działa na urządzeniu mobilnym pozbawionym zabezpieczeń producenta za pomocą tzw. uprawnień „root” w systemie operacyjnym Android lub za pomocą tzw. techniki „jailbreak” w systemie operacyjnym iOS.
+Użytkownik jest zobowiązany korzystać z e-dowodu, Innych e-dokumentów lub Kart Sigillum zgodnie z obowiązującymi przepisami prawa.
+E-dowód oraz Karta Sigillum są kartami kryptograficznymi chronionymi szeregiem zabezpieczeń przed niepowołanym użyciem. Próba przełamania tych zabezpieczeń może skutkować ograniczeniem lub czasowym ograniczeniem funkcjonalności e-dowodu lub Karty Sigillum. eDO App wymaga użycia sprawnego e-dowodu, Innego e-dokumentu lub Karty Sigillum do korzystania z Usług. W przypadku użycia niesprawnego lub częściowo niesprawnego e-dowodu, Innego e-dokumentu lub Karty Sigillum dostęp do Usług może nie być możliwy.
+Wielokrotne błędne podanie numeru CAN, danych dostępowych do struktur ICAO lub numeru PIN ogranicza sprawność e-dowodu, Innego e-dokumentu lub Karty Sigillum i Użytkownik powinien unikać takich czynności.
+eDO App umożliwia odblokowanie lub zresetowanie kodów PIN do Certyfikatu Identyfikacji i Uwierzytelnienia oraz Certyfikatu Podpisu Zaawansowanego oraz Certyfikatu Podpisu Kwalifikowanego za pomocą odpowiednich kodów PUK. Trzykrotne błędne podanie kodu PUK skutkuje nieodwracalnym zablokowaniem mozliwości odblokowania odpowiedniego Certyfikatu bez możliwości dalszego korzystania z jego funkcji, jeżeli certyfikat jest zablokowany.
+Stosowanie przez Użytkownika osłon, etui lub tym podobnych akcesoriów do urządzenia mobilnego lub e-dowodu może pogarszać jakość sygnału NFC, utrudniając lub uniemożliwiając korzystanie z eDO App.
+Nie należy poruszać e-dowodem, Innym e-dokumentem lub Kartą Sigillum w trakcie nawiązywania z nimi połączenia przez urządzenie mobilne oraz w trakcie odczytu ich przez urządzenie mobilne. Przesunięcie e-dowodu, Innego e-dokumentu lub Karty Sigillum względem anteny NFC może skutkować przerwaniem komunikacji NFC. W takiej sytuacji Użytkownik powinien odsunąć i przyłożyć e-dowód, Inny e-dokument lub Kartę Sigillum ponownie do urządzenia mobilnego. eDO App informuje komunikatem o zakończeniu operacji z użyciem e-dowodu.
+Korzystanie z Usług wiąże się z przetwarzaniem danych osobowych. Usługodawca jest administratorem danych osobowych w rozumieniu RODO. Szczegółowe informacje dotyczące przetwarzania danych osobowych, w tym uprawnieniach przysługujących w związku z ich przetwarzaniem zawarte są w
+informacji o przetwarzaniu danych osobowych
+.
+Z chwilą instalacji eDO App PWPW udziela Użytkownikowi niewyłącznej licencji na korzystanie z eDO App w zakresie niezbędnym do korzystania z eDO App w granicach określonych jej funkcjonalnościami.
+Udzielona licencja jest niewyłączna, nieprzenoszalna oraz nie uprawnia do udzielania dalszych licencji (sublicencji).
+Licencja jest udzielana na czas instalacji eDO App i bez ograniczeń terytorialnych.
+Na podstawie udzielonej licencji Użytkownik jest uprawniony do zwielokrotniania aplikacji w zakresie niezbędnym do jej zainstalowania i używania na posiadanych przez niego urządzeniach mobilnych, jeżeli czynności te są podejmowane dla celów korzystania z eDO App zgodnie z niniejszym Regulaminem. Z zastrzeżeniem niniejszego punktu oraz wyjątków wynikających z przepisów bezwzględnie obowiązującego prawa, Użytkownik nie jest uprawniony do zwielokrotniania eDO App w jakikolwiek inny sposób lub tłumaczenia, przystosowywania, zmiany układu lub wprowadzania jakichkolwiek innych zmian w eDO App.
+Poszczególne usługi mają charakter jednorazowy i są realizowane każdorazowo na żądanie Użytkownika potwierdzone w sposób określony w Regulaminie.
+Użytkownik w każdej chwili może wypowiedzieć umowę o świadczenie usług drogą elektroniczną przez odinstalowanie aplikacji eDO App ze swojego urządzenia mobilnego.
+Niezależnie od powyżej wskazanych uprawnień, Użytkownik będący konsumentem lub osobą fizyczną zawierającą umowę bezpośrednio związaną z jej działalnością gospodarczą, gdy z treści tej umowy wynika, że nie ma ona dla tej osoby charakteru zawodowego zgodnie z obowiązującymi przepisami ma prawo odstąpienia od umowy o świadczenie usług eDO App bez podania jakiejkolwiek przyczyny. Termin do odstąpienia wygasa po upływie 30 dni od dnia zawarcia umowy zgodnie z § 4 ust. 4 Regulaminu. W celu skorzystania z prawa odstąpienia, Użytkownik powinien poinformować PWPW o swojej decyzji w drodze jednoznacznego oświadczenia (np. przesłanego pocztą tradycyjną lub drogą elektroniczną). W przypadku złożenia oświadczenia o odstąpieniu drogą elektroniczną (np. e-mailowo), PWPW niezwłocznie potwierdzi na trwałym nośniku otrzymanie takiego oświadczenia. Użytkownik może skorzystać ze wzoru formularza odstąpienia od umowy załączonego na stronie https://www.edoapp.pl/regulamin, jednak nie jest to obowiązkowe. Do zachowania terminu do odstąpienia od umowy wystarczy wysłanie oświadczenia przed upływem 30-dniowego terminu. Użytkownik odstępujący od umowy nie jest zobowiązany do dokonywania jakichkolwiek płatności na rzecz Usługodawcy lub zwrotu kosztów świadczonych Usług.
+Wypowiedzenie lub odstąpienie od umowy o świadczenie usług eDO App nie wpływa na ważność i skuteczność operacji wykonanych przez pomocy eDO App przed odstąpieniem lub wypowiedzeniem Umowy, w szczególności na ważność i skuteczność oświadczeń złożonych przez Użytkownika względem Partnera lub innego podmiotu przy pomocy eDO App.
+Usługodawca dokłada należytych starań w celu zapewnienia dostępności i prawidłowego funkcjonowania eDO App. Usługodawca nie gwarantuje jednak nieprzerwanej dostępności Usług i zastrzega sobie prawo do wprowadzenia przerw technicznych w działaniu eDO App, niezbędnych do utrzymania prawidłowego funkcjonowania eDO App.
+Usługodawca informuje, że udostępnienie przez Użytkownika kodów PUK lub kodów PIN do Certyfikatów osadzonych na e-dowodzie lub na Karcie Sigillum osobom trzecim stwarza zagrożenie dla prywatności Użytkownika i może sprzyjać kradzieży tożsamości Użytkownika.
+Użytkownik ponosi pełną odpowiedzialność za naruszenie prawa bądź szkodę wyrządzoną poprzez działania Użytkownika związane z korzystaniem przez niego z eDO App, zwłaszcza posłużeniem się lub podaniem do publicznej wiadomości danych innych Użytkowników, uzyskanych za pomocą funkcji oferowanych przez eDO App, w tym naruszenie ich dóbr osobistych, prywatności lub zasad przetwarzania danych osobowych.
+W sekcji pomocy eDO App znajdują się:
+1.1. instrukcja użycia głównych funkcji eDO App;
+1.2. rozwiązania najczęściej napotykanych problemów w korzystaniu z aplikacji.
+Kontakt z Usługodawcą jest możliwy za pomocą poczty e-mail na adres
+pomoc@edoapp.pl
+lub telefonu na numer +48 22 235 20 00. Aktualne Dane kontaktowe Usługodawcy znajdują się również w opisie eDO App w sklepach Google Play oraz App Store.
+Użytkownikom przysługuje prawo do złożenia reklamacji.
+Zgłoszenia reklamacyjne można składać za pomocą formularza kontaktowego na stronie
+www.edoapp.pl
+z dopiskiem „Reklamacja” lub pisemnie na adres siedziby Usługodawcy z dopiskiem „Reklamacja”.
+Zgłoszenie reklamacyjne jest rejestrowane w systemie dedykowanym obsłudze reklamacji pod przypisanym numerem zgłoszenia, a potwierdzenie przyjęcia zgłoszenia wraz z przypisanym numerem jest wysyłany na podany w zgłoszeniu adres e-mail lub adres korespondencyjny, w razie braku podania e-mail.
+Reklamacja powinna zawierać:
+6.1. informacje niezbędne do jej rozpatrzenia, obejmujące:
+− imię i nazwisko;
+− dane kontaktowe;
+− opis reklamacji;
+− treść żądania Użytkownika;
+6.2. w przypadku problemów z użyciem e-dowodu, Innego e-dokumentu lub Karty Sigillum w eDO App:
+− rodzaj niezrealizowanej usługi;
+− przybliżoną datę i godzinę próby skorzystania z usługi;
+− nazwę Partnera, jeżeli ma zastosowanie;
+− nazwę marki i modelu telefonu, na którym zainstalowana jest eDO App;
+− numer wersji systemu operacyjnego telefonu, na którym zainstalowana jest eDO App;
+− numer wersji aplikacji eDO App.
+Reklamacja rozpatrywana jest w terminie 14 dni. W trakcie rozpatrywania reklamacji Zespół Reklamacji może zwracać się do Użytkownika mailowo lub telefonicznie o udzielenie dodatkowych informacji niezbędnych do jej rozpatrzenia.
+Użytkownik jest informowany e-mailowo lub pisemnie przez Zespół Reklamacji o wyniku rozpatrzenia reklamacji.
+W przypadku nieustosunkowania się przez Zespół Reklamacji do reklamacji zgłoszonej przez Użytkownika będącego konsumentem lub osobą fizyczną zawierającą umowę bezpośrednio związaną z jej działalnością gospodarczą, gdy z treści tej umowy wynika, że nie ma ona dla tej osoby charakteru zawodowego w terminie wskazanym w ust. 7 powyżej uważa się, że została uznana zgodnie z żądaniem zgłaszającego.
+W przypadku następujących problemów z działaniem e-dowodu Użytkownik powinien skontaktować się z organem właściwym do obsługi spraw obywatelskich związanych z e-dowodem:
+10.1. brak ustawionego kodu PIN do Certyfikatu Identyfikacji i Uwierzytelnienia;
+10.2. brak ustawionego kodu PIN do Certyfikatu Podpisu Zaawansowanego;
+10.3. brak Certyfikatu Podpisu Zaawansowanego;
+10.4. zablokowany kod PUK do Certyfikatu Identyfikacji i Uwierzytelnienia;
+10.5. zablokowany kod PUK do Certyfikatu Podpisu Zaawansowanego;
+10.6. brak działania lub nieprawidłowe działanie warstwy elektronicznej e-dowodu;
+10.7. zmiana danych osobowych posiadacza e-dowodu znajdujących się w warstwie elektronicznej, np. nazwiska posiadacza e-dowodu.
+Regulamin może być zmieniony przez Usługodawcę w przypadku:
+1.1. potrzeby dostosowania postanowień Regulaminu do powszechnie obowiązujących przepisów prawa;
+1.2. potrzeby dostosowania Regulaminu do zaleceń, nakazów, orzeczeń, postanowień, interpretacji, wytycznych lub decyzji uprawnionych władz publicznych, w tym organów nadzoru;
+1.3. rozbudowy lub zmiany funkcjonalności Usług, w tym wprowadzenia nowych Usług lub zmiany istniejących funkcjonalności Usług, jeśli będą miały wpływ na zasady świadczenia Usług na podstawie Regulaminu;
+1.4. zmiany warunków technicznych świadczenia Usług, mających wpływ na zasady świadczenia Usług na podstawie Regulaminu;
+1.5. potrzeby usunięcia niejasności, błędów lub omyłek pisarskich, które ewentualnie wystąpiłyby w Regulaminie;
+1.6. zmiany danych teleadresowych, nazw, numerów identyfikacyjnych, adresów elektronicznych lub linków zamieszczonych w Regulaminie.
+Zmiana Regulaminu wchodzi w życie po upływie 30 dni od jej publikacji na stronie
+https://edoapp.pl/regulamin
+. Termin ten nie obowiązuje w przypadku zmian Regulaminu polegających na dodaniu nowych Usług lub funkcjonalności, pozostających bez wpływu na dotychczasowe Usługi lub funkcjonalności, zmian, których wprowadzenie w krótszym terminie wymagane jest przez przepisy prawa oraz w przypadku zmian wskazanych w pkt 1.5 i 1.6.
+Niniejszy Regulamin jest dostępny do wglądu Użytkownika oraz do pobrania w formacie PDF na stronie
+https://www.edoapp.pl/regulamin
+.
+Zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) Nr 524/2013 z dnia 21 maja 2013 r. w sprawie internetowego systemu rozstrzygania sporów konsumenckich oraz zmiany rozporządzenia (WE) nr 2006/2004 i dyrektywy 2009/22/WE (rozporządzenie w sprawie ODR w sporach konsumenckich), Usługodawca informuje, że pod adresem:
+http://ec.europa.eu/consumers/odr
+jest dostępna internetowa platforma ODR, służąca do pozasądowego rozstrzygania sporów pomiędzy konsumentami mieszkającymi w Unii Europejskiej a przedsiębiorcami mającymi siedzibę w Unii Europejskiej, chcącymi korzystać z pozasądowych metod rozstrzygania sporów dotyczących zobowiązań umownych wynikających z internetowych umów sprzedaży lub umów o świadczenie usług.
+Usługodawca informuje, że o ile taki obowiązek nie wynika z bezwzględnie obowiązujących przepisów prawa, Usługodawca nie korzysta z pozasądowych sposobów dochodzenia roszczeń (pozasądowego rozwiązywania sporów). Ponadto Usługodawca nie zobowiązuje się do korzystania z platformy ODR, o której mowa w ust. 1 powyżej.
+W przypadku sporu z Usługodawcą Uczestnik może zwrócić się o pomoc i poradę do miejskiego lub powiatowego rzecznika konsumentów lub do organizacji konsumenckich, takich jak Federacja Konsumentów, Stowarzyszenie Konsumentów Polskich oraz Europejskie Centrum Konsumenckie. Więcej informacji można znaleźć na stronach internetowych tych podmiotów.
+Regulamin eDO App obowiązujący od 01.02.2023 do 24.05.2023 (287 KB, PDF)
+Regulamin eDO App obowiązujący od 16.02.2021 do 31.01.2023 (999 KB, PDF)
+Regulamin eDO App obowiązujący od 02.11.2020 do 15.02.2021 (992 KB, PDF)
+Regulamin eDO App obowiązujący do 01.11.2020 (917 KB, PDF)
+Regulamin eDO App obowiązujący od 25.05.2023 do 20.12.2024 (961 KB, PDF)
+Regulamin eDO App obowiązujący od 21.12.2024 (241 KB, PDF)
+Pobierz regulamin
+Pobierz formularz odstąpienia
+Informacja o przetwarzaniu danych osobowych w eDO App

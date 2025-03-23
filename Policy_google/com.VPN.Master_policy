@@ -1,0 +1,383 @@
+Get link
+Facebook
+X
+Pinterest
+Email
+Other Apps
+Privacy Policy for Android Apps
+Google Play has made it a basic requirement to make certain privacy related disclosures to users, in accordance with applicable law. These disclosures are typically made available to users via a privacy notice that is easily accessible from within the app. Here’s what Google had to say in their Developer Policy Center’s
+User Data guidelines
+:
+You must be transparent in how you handle user data (e.g., information provided by a user, collected about a user, and collected about a user’s use of the app or device), including by disclosing the collection, use, and sharing of the data, and you must limit use of the data to the description in the disclosure. If your app handles personal or sensitive user data, there are additional requirements described below. This policy establishes Google Play’s minimum privacy requirements; you or your app may need to comply with additional restrictions or procedures if required by an applicable law.
+Now, Google Play only
+explicitly
+requires
+that a link to a privacy policy be visible on your app’s store listing page and within your app in cases where:
+Your app handles personal or sensitive user data
+, as defined in the
+user data policies
+(including personally identifiable information, financial and payment information, authentication information, phonebook or contact data, microphone and camera sensor data, and sensitive device data).
+Your app is in the “Designed for Families” program
+(regardless of access to sensitive permissions or data).
+However, it is critical to note here that, platform requirements aside,
+under the vast majority of legislations, and particularly under the GDPR, privacy notices are legally required
+.
+Platform requirements aside, under the vast majority of legislations, and particularly under the GDPR, privacy notices are legally required.
+Generally, failure to adhere to these laws can result in hefty fines, sanctions, audits and/or leave you open to litigation.
+Privacy policy requirements for Android apps
+A lot of people ask for sample privacy policies for apps. The exact required contents of a privacy policy depends upon the law applicable to you and may even need to address requirements across geographical boundaries and legal jurisdictions.
+For this reason, it’s always advisable that you approach your (legally mandated) privacy policy with the strictest applicable regulations in mind. You can read more about
+determining your law of reference here
+or read our in-depth
+Legal Overview Guide here
+.
+Let’s start with the legal minimum requirements. These are the most basic elements that a privacy policy should have:
+Who is the
+app owner
+?
+What data is being collected? How is that data being collected?
+What is the
+Legal basis
+for the collection? (e.g consent, necessary for your service, legal obligation etc.)
+– This is more specifically related to the GDPR and EU Law, however, even if you fall outside of GDPR obligations, under most countries’ legislations, you’ll still need to say why you’re processing the personal data of users
+.
+For which specific purposes are the data collected? Analytics? Email Marketing?
+Which third parties will have access to the information? Will any third party collect data through widgets (e.g. social buttons) and integrations (e.g. Facebook Connect)?
+What rights do users have? Can they request to see the data you have on them, can they request to rectify, erase or block their data? (under
+European regulations
+most of this is mandatory)
+Description of process for notifying users and visitors of changes or updates to the privacy policy
+Effective date of the privacy policy
+Sensitive permissions
+In addition to this, you need to make sure that you disclose your use of any of the following
+“dangerous” permission groups
+(
+personal or sensitive user data
+mentioned earlier) in your privacy policy:
+CALENDAR
+CAMERA
+CONTACTS
+LOCATION
+MICROPHONE
+PHONE
+SENSORS
+SMS
+STORAGE
+You have 2 options
+:
+remove
+all
+requests for user data or sensitive permissions (you will not need to add a privacy policy if you remove these requests); or
+add a valid privacy policy in two places: your app’s Store listing page and within your app.
+More on
+How to Add Android and iOS Mobile Permissions for Device Data
+.
+Prominent disclosures
+If your app processes the personal data of users for reasons unrelated to the functionality of your app, you’re required to make additional, easily visible disclosures about this usage and collect user consent where required. Here’s what
+Google states
+about
+prominent disclosures
+:
+If your app collects and transmits personal or sensitive user data
+unrelated
+to functionality described prominently in the app’s listing on Google Play or in the app interface, then
+prior to the collection and transmission
+, it must prominently highlight how the user data will be used and have the user provide affirmative consent for such use.
+Your in-app disclosure:
+Must be within the app itself, not only in the Play listing or a website;
+Must be displayed in the normal usage of the app and not require the user to navigate into a menu or settings;
+Must describe the type of data being collected;
+Must explain how the data will be used;
+Cannot only be placed in a privacy policy or terms of service; and
+Cannot be included with other disclosures unrelated to personal or sensitive data collection.
+Your app’s request for consent:
+Must present the consent dialog in a clear and unambiguous way;
+Must require affirmative user action (e.g. tap to accept, tick a check-box, a verbal command, etc.) in order to accept;
+Must not begin personal or sensitive data collection prior to obtaining affirmative consent;
+Must not consider navigation away from the disclosure (including tapping away or pressing the back or home button) as consent; and
+Must not utilize auto-dismissing or expiring messages.
+It’s worth noting that it seems that Google considers any data collection activity that isn’t made obvious from your app page or from within your interface to be covered by this prominent disclosure policy.
+Therefore a separate user notice is required
+in addition to
+your privacy policy – which your notice should ultimately link – to for a full explanation of the data processed. Again, the data
+must
+not be processed until you have affirmative consent by your user.
+Furthermore, under regulations like the GDPR, you are
+legally
+required to obtain informed, explicit consent before processing any personal data of users specifically where it falls outside the what’s required for the functioning of your service.
+So with this in mind,
+you have 2 options
+when it comes to dealing with this kind of data processing. You can either:
+remove this type of data collection; or
+properly inform via in-app disclosures, link that notice to the respective privacy policy and collect valid consent.
+Note
+If you fall within the
+scope of the GDPR
+, you’ll likely also need to maintain valid
+records of consent
+.
+How to add a privacy policy to your Android app
+iubenda makes solving this issue easy
+: with hundreds of available clauses, our privacy policies contain all elements commonly required across many regions and services, while
+applying the strictest standards by default – giving you the option to fully customize as needed
+.
+Our policies are created by lawyers, monitored by our lawyers and hosted on our servers to ensure that they are
+always up-to-date with the latest legal changes and third-party requirements
+.
+The process is straightforward and intuitive, simply:
+click to add your services;
+fill out your web/app owner and contact details;
+embed.
+Click here
+to read the full guide on how to generate a Privacy Policy.
+1. Add your services
+If you use Twitter or other auth (=OAuth) services for user management, then
+add the respective service
+by clicking “Add a service” then start typing the name of the service you’d like to add. Remember to include all services processing personal information. If you handle user registration yourself, don’t forget to add the “Direct Registration” service.
+Select each applicable service from the list of suggestions that show up and customize by simply adding the specific types of personal data you collect. Our lawyer-crafted clauses automatically include the relevant user-rights disclosures and service definitions based on your input here.
+Add our service called “
+Device permissions for Personal Data access
+” if your app requests
+sensitive permissions
+(e.g. camera, microphone, accounts, contacts, or phone) or user data:
+If you’d like to
+add a custom service clause
+, simply click the “Create custom service” button and fill out the built-in form.
+2. Fill out your app owner and contact details
+Enter:
+name and full address;
+email address.
+Congratulations! Your policy has been created. Simply check that all the details are correct, then embed.
+3. Embed
+As we said above, you have to include a link to your privacy policy within the app
+and
+in the Google Play Store app listing (and – potentially – on the marketing site you operate for it).
+Within the app
+For apps, the
+direct link
+or
+direct text
+embedding methods are best. If your app processes user data while offline, be sure to provide users with an
+in-app offline method
+of accessing the privacy policy in order to be legally compliant.
+Whichever embed method you choose, remember that you’re required to choose a
+location
+that is
+easily accessible and visible
+to users. Here’s an example by Instagram:
+Google Play Store listing
+When your app is ready, in addition to the app’s internal link, you’ll have to include a link to your privacy policy on the Google Play Store. Here’s how to meet this requirement:
+Go to your
+Google Play Console
+Select an app
+Select “Store presence > Store listing”
+Under “Privacy Policy”, enter the
+iubenda direct link
+(since we host your policy, you won’t get the “You are not allowed that domain for a privacy policy URL” error)
+Save your changes
+This will make sure that you have your privacy policy linked under “Additional information > Developer” on the
+Google Play Store
+like so:
+Get link
+Facebook
+X
+Pinterest
+Email
+Other Apps
+Comments
+Blocked the app from my play store and Google and my gmail please
+Reply
+Delete
+Replies
+Plzzzzzz app
+Delete
+Replies
+Reply
+D4u5min89
+Delete
+Replies
+Reply
+Www.feetpics.com
+Delete
+Replies
+Reply
+Reply
+This comment has been removed by the author.
+Reply
+Delete
+Replies
+24May 1998
+Delete
+Replies
+Reply
+This comment has been removed by the author.
+Delete
+Replies
+Reply
+hol
+Delete
+Replies
+Reply
+Reply
+Hello
+United States
+Reply
+Delete
+Replies
+Reply
+Gulab kushwaha
+Reply
+Delete
+Replies
+Reply
+VPN
+Reply
+Delete
+Replies
+PUBLISH
+Delete
+Replies
+Reply
+Reply
+Exitoso
+Reply
+Delete
+Replies
+Hos
+Delete
+Replies
+Reply
+Reply
+Good apps
+Reply
+Delete
+Replies
+Reply
+Nice
+Reply
+Delete
+Replies
+Reply
+Big problem
+Reply
+Delete
+Replies
+Reply
+Mantap
+Reply
+Delete
+Replies
+Reply
+Extra!
+Reply
+Delete
+Replies
+Reply
+Masuk
+Reply
+Delete
+Replies
+Reply
+Mantap
+Reply
+Delete
+Replies
+Reply
+xi
+Reply
+Delete
+Replies
+Reply
+Nice
+Reply
+Delete
+Replies
+Reply
+Host 4g
+Reply
+Delete
+Replies
+Reply
+1de31-a649-47b8-a7f8-64129db4318
+Reply
+Delete
+Replies
+Reply
+ho
+Reply
+Delete
+Replies
+Reply
+good application
+Reply
+Delete
+Replies
+Reply
+This comment has been removed by the author.
+Reply
+Delete
+Replies
+Reply
+This comment has been removed by the author.
+Reply
+Delete
+Replies
+Reply
+alidarvakh02@gmail.com
+Reply
+Delete
+Replies
+Reply
+Sangat baik
+Reply
+Delete
+Replies
+Reply
+This comment has been removed by the author.
+Reply
+Delete
+Replies
+Reply
+borey4664@gmail.com
+Reply
+Delete
+Replies
+Reply
+Hi
+Reply
+Delete
+Replies
+Reply
+Kristian Bold
+Reply
+Delete
+Replies
+Reply
+MaHtoo
+Reply
+Delete
+Replies
+Reply
+Hi
+Reply
+Delete
+Replies
+Reply
+Hot
+Reply
+Delete
+Replies
+Reply
+My favourite
+Reply
+Delete
+Replies
+Reply
+reachry09
+Reply
+Delete
+Replies
+Reply
+Add comment
+Load more...
+Post a Comment

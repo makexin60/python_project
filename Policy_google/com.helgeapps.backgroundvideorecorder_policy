@@ -1,0 +1,524 @@
+HelgeApps Privacy Policy
+Last updated December 12, 2023
+This privacy policy covers the use of the ‘K-POP YouTube - Popular & Recent’, ‘Background Video Recorder’ (apps for Android).
+Information Collection:
+We (HelgeApps) personally DO NOT collect any personal information to our own servers (which we also don’t even have) from our users except the information which is collected by third-party libraries of Google (Admob/Firebase) we use in our apps - please check the following info about it:
+Our apps use some Google third-party libraries (AdMob to show ads, In App Billing for purchases, Firebase services) which can collect some information from you. You can check their Private Policy at:
+Google Admob
+https://support.google.com/admob/answer/6128543
+,
+https://policies.google.com/technologies/ads
+,
+https://developers.google.com/admob/android/privacy/play-data-disclosure#data_collected_and_shared_automatically
+Google Firebase Service (Analytics, Cloud Messaging, In App Messaging, Remote Config, Crashlytics)
+https://firebase.google.com/docs/android/play-data-disclosure
+,
+https://firebase.google.com/support/privacy/dpo
+,
+https://marketingplatform.google.com/about/analytics/terms/us/
+Google Play’s billing -
+https://support.google.com/googleplay/android-developer/answer/10281818
+You can also check Data Safety section for each app at Google Play to find out what exactly third-party libraries collect.
+Apps permissions:
+‘Background Video Recorder’ Permissions
+CAMERA, AUDIO (for video recording)
+STORAGE for Android 12 and lower (for saving video recordings to shared ‘DCIM’ folder, and for video recordings deletion option) in case your device doesn’t support the Storage Access Framework. For all other devices you can choose any folder without this permission by using the Storage Access Framework instead
+INTERNET (ads)
+Background Foreground Service - The app will continue to run in the background (the foreground service that appears in the notification bar) if you start a new recording and return to the home screen, switch to another app or lock your phone to be able to continue recording.
+‘Voice Recorder in Background’ Permissions
+AUDIO / MIC (for audio recording)
+STORAGE for Android 10 and lower (for saving voice recordings to shared ‘MUSIC’ folder, and for voice recordings deletion option) in case your device doesn’t support the Storage Access Framework. For all other devices you can choose any folder without this permission by using the Storage Access Framework instead
+INTERNET (ads)
+Background Foreground Service - The app will continue to run in the background (the foreground service that appears in the notification bar) if you start a new voice recording and return to the home screen, switch to another app or lock your phone to be able to continue recording.
+‘K-POP YouTube - Popular & Recent’ Permissions
+INTERNET (playing videos, ads)
+Changes to This Privacy Policy:
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+Support or Contact
+Having any questions?
+Сontact support
+and we will answer you.
+Sub-section Policy: 
+Sub-policy 0
+https://developers.google.com/admob/android/privacy/play-data-disclosure#data_collected_and_shared_automatically:
+Skip to main content
+developers.google.com uses cookies from Google to deliver and enhance the quality of its services and to analyze traffic.
+Learn more
+.
+OK, got it
+Guides
+Reference
+SDK
+Samples
+Support
+Get started
+Deprecation and sunset
+SDK migration
+Enable test ads
+Optimize initialization and ad loading
+Ad formats
+App open
+Banner
+Get started
+Inline adaptive
+Collapsible
+Fixed size
+Smart
+Interstitial
+Native
+Load an ad
+Display an ad
+Small and medium-sized ads
+Full screen ads
+Native templates
+Native Validator
+Native ad options
+Native video ads
+Rewarded
+Rewarded interstitial
+Mediation
+Get started
+Choose networks
+Integrate partner networks
+Ad
+Colony
+Ad
+Falcon
+App
+Lovin
+Chartboost
+DT Exchange (previously Fyber)
+Flurry
+i-mobile
+In
+Mobi
+iron
+Source
+Leadbolt
+Liftoff Monetize (previously Vungle)
+LINE Ads Network
+LG U+AD
+maio
+Meta Audience Network (previously Facebook)
+Mintegral
+Mob
+Fox
+my
+Target
+nend
+Pangle
+Tapjoy
+Tencent
+Unity Ads
+Vpon
+Yahoo (previously Verizon Media)
+Zucks
+Troubleshoot bidding
+Create custom events (optional)
+Setup
+Banner
+Interstitial
+Native
+Rewarded
+Tools and debugging
+Ad inspector
+Test creative types
+Ad load errors
+Response info
+Logging ad response ID
+Charles proxy
+Network tracing
+Open Measurement
+Get started
+In-app browsers
+Overview
+Optimize Custom Tabs (Beta)
+Optimize Web
+Views
+Set up Web
+View
+Integrate the Web
+View API for ads
+Optimize click behavior
+Privacy
+Strategies
+Ad serving modes
+Google Play data disclosure
+Precise location data policy
+Privacy Sandbox
+U.
+S.
+states privacy laws
+User Messaging Platform (UMP)
+Get started
+IAB support
+GDPR IAB support
+US IAB support
+Release notes
+Reference
+com.
+google.
+android.
+ump
+Overview
+Interfaces
+Consent
+Form
+Consent
+Form.
+On
+Consent
+Form
+Dismissed
+Listener
+Consent
+Information
+Consent
+Information.
+On
+Consent
+Info
+Update
+Failure
+Listener
+Consent
+Information.
+On
+Consent
+Info
+Update
+Success
+Listener
+User
+Messaging
+Platform.
+On
+Consent
+Form
+Load
+Failure
+Listener
+User
+Messaging
+Platform.
+On
+Consent
+Form
+Load
+Success
+Listener
+Classes
+Consent
+Debug
+Settings
+Consent
+Debug
+Settings.
+Builder
+Consent
+Request
+Parameters
+Consent
+Request
+Parameters.
+Builder
+Form
+Error
+User
+Messaging
+Platform
+Enums
+Consent
+Information.
+Privacy
+Options
+Requirement
+Status
+Annotations
+Consent
+Debug
+Settings.
+Debug
+Geography
+Consent
+Information.
+Consent
+Status
+Form
+Error.
+Error
+Code
+Advanced topics
+Authorized Sellers for Apps
+Global settings
+Impression-level ad revenue
+Reporting
+Server-side verification
+Targeting
+On this page
+How to use the information on this page
+Data collected and shared automatically
+Data handling
+Data collected and shared depending on your usage
+Other helpful resources
+Home
+Products
+AdMob
+Mobile Ads SDK (Android)
+Google Play's data disclosure requirements
+bookmark_border
+bookmark
+Stay organized with collections
+Save and categorize content based on your preferences.
+On this page
+How to use the information on this page
+Data collected and shared automatically
+Data handling
+Data collected and shared depending on your usage
+Other helpful resources
+In May 2021, Google Play
+announced the new Data safety
+section
+,
+which is a developer-provided disclosure for an app's data collection, sharing,
+and security practices.
+This page can help you complete the requirements for this data disclosure in
+regards to your usage of the Google Mobile Ads SDK. On this page, you can find
+information on whether and how our SDK handles end-user data, including any
+applicable settings or configurations you can control as the app developer.
+We aim to be as transparent as possible in supporting you; however, as the app
+developer, you are solely responsible for deciding how to respond to Google
+Play's Data safety section form regarding your app's end-user data collection,
+sharing, and security practices.
+How to use the information on this page
+This page lists the end-user data collected by only the latest version
+
+(version
+24.1.0
+) of the
+Google Mobile Ads SDK.
+If you are using a prior version of the Google Mobile Ads SDK, consider
+updating to the latest version to ensure your app's disclosures are accurate.
+The Google Mobile Ads SDK will continue to be updated over time. This page
+reflects these changes, so make sure to check back and update your disclosures
+as necessary.
+To complete your data disclosure, you can use Android's
+guide about data
+types
+to help you
+determine which
+data
+types
+and
+purposes
+best describe the collected data. In your data disclosure, make sure to also
+account for how your specific app shares and uses the collected data.
+Data collected and shared automatically
+The Google Mobile Ads SDK collects and shares the following data types
+automatically
+for
+
+advertising, analytics, and fraud prevention purposes.
+Data
+By default, the Google Mobile Ads SDK...
+IP address
+Collects device's IP address, which may be used to estimate the general
+    location of a device.
+User product interactions
+Collects user product interactions and interaction information, including
+    app launch, taps, and video views.
+Diagnostic information
+Collects information related to the performance of your app and the SDK,
+    including
+     
+     crash logs,
+     
+     app launch time, hang rate, and energy usage.
+Device and Account identifiers
+Collects
+Android
+    advertising (ad) ID
+,
+app set ID
+,
+    and, if applicable, other identifiers related to signed-in accounts on the
+    device.
+All of the user data collected by Google Mobile Ads SDK is encrypted in
+transit using the Transport Layer Security (TLS) protocol.
+Data handling
+Android ad ID collection is optional. The ad ID can be reset or deleted by users
+using ad ID controls in the Android settings menu. As the app developer, you can
+prevent the collection of ad IDs by
+updating the app's manifest
+file
+.
+Certain other features in the Google Mobile Ads SDK, such as the
+Limited Ads
+feature, may also disable transmission of the ad ID and other data.
+Data collected and shared depending on your usage
+If you are using any optional product features that involve additional data
+(such as advance reporting) or participating in any tests of new product
+features that involve additional data, be sure to check if those features or
+tests require additional data disclosures.
+Other helpful resources
+Blog
+post
+announcing the Data safety form in Google Play Console.
+The Play Console's Data safety form is available on the
+App
+content
+page.
+Except as otherwise noted, the content of this page is licensed under the
+Creative Commons Attribution 4.0 License
+, and code samples are licensed under the
+Apache 2.0 License
+. For details, see the
+Google Developers Site Policies
+. Java is a registered trademark of Oracle and/or its affiliates.
+Last updated 2025-03-13 UTC.
+Sub-policy 1
+https://firebase.google.com/support/privacy/dpo:
+Skip to main content
+Build
+More
+Run
+More
+Solutions
+Pricing
+Docs
+More
+Community
+More
+Support
+Go to console
+Developer Support
+Contact Support
+Scope of no-cost support
+Support Guides
+Overview
+FAQ
+Security checklist
+Launch checklist
+Firebase-related service accounts
+Troubleshoot initialization options
+Enable the AdSupport framework
+Dynamic Links deprecation
+Deprecation FAQ
+Export Dynamic Links metadata
+Migrate to App Links & Universal Links
+Migrate from Parse
+Android
+iOS+
+Cloud Audit Logs
+Firebase Management
+Cloud Storage for Firebase
+Firebase Cloud Messaging
+Firebase App Check
+Firebase Security Rules
+Firebase Realtime Database
+Android Device Streaming
+Recent Changes and Updates
+Release Notes
+iOS Release Notes
+Android Release Notes
+JavaScript Release Notes
+Flutter Release Notes
+C++ Release Notes
+Unity Release Notes
+Admin Node.js Release Notes
+Admin Java Release Notes
+Admin Python Release Notes
+Admin Go Release Notes
+Admin .NET Release Notes
+Security Rules Release Notes
+Firebase CLI Release Notes
+Policies for changes and versioning
+Overview
+Introducing and communicating changes
+Versioning and maintenance
+Legal Information
+Terms of Service
+Paid Services Terms
+Data Processing and Security Terms
+Firebase: Standard Contractual Clauses
+Service Level Agreement for Hosting and Realtime Database
+Cloud Storage for Firebase Service Level Agreement
+Firebase App Indexing User Data Policy
+Crashlytics and App Distribution Terms
+Firebase Subprocessors
+Privacy and Security Information
+Privacy and Security in Firebase
+Designate Data Protection Officers and EU Representatives
+Firebase Data Privacy Inquiries
+Manage Instance ID data
+Clear and export users' data
+Storing privacy settings with Firebase
+Build
+Go to Build
+Build Products
+App Check
+App Hosting
+Authentication
+Cloud Functions
+Cloud Storage
+Data Connect
+Extensions
+Firebase ML
+Firestore
+Genkit
+Hosting
+Realtime Database
+Vertex AI in Firebase
+Generative AI
+Run
+Go to Run
+Run Products
+A/B Testing
+App Distribution
+Cloud Messaging
+Crashlytics
+Google Analytics
+In-App Messaging
+Performance Monitoring
+Remote Config
+Test Lab
+Overview
+Fundamentals
+Build
+Run
+Reference
+Samples
+Learn
+Events
+Stories
+Firebase
+Support
+Send feedback
+Firebase Data Privacy Inquiries
+Stay organized with collections
+Save and categorize content based on your preferences.
+Before reaching out, you might find answers to your questions in one of the
+Firebase privacy articles:
+Privacy and Security in Firebase
+Terms of Service for Firebase Services
+Firebase Data Processing and Security Terms
+Crashlytics and App Distribution Data Processing and Security Terms
+If you still have questions after that,
+reach out to Firebase Support
+.
+If you're a Firebase developer, include your Firebase App ID. Find your Firebase App ID in the
+Your apps
+card of your
+settings
+Project
+settings
+.
+Send feedback
+Except as otherwise noted, the content of this page is licensed under the
+Creative Commons Attribution 4.0 License
+, and code samples are licensed under the
+Apache 2.0 License
+. For details, see the
+Google Developers Site Policies
+. Java is a registered trademark of Oracle and/or its affiliates.
+Last updated 2025-03-04 UTC.

@@ -1,0 +1,75 @@
+Topo da Página
+xWIND
+HOW IT WORKS
+PRIVACY STATEMENT
+Disclaimer
+CONTACT
+Cygnus xWind
+​
+xWind
+Wind components and limits calculator
+The xWind app has been designed with the aim to provide pilots with a simple tool to assist in quickly assessing cross, head and tailwind components with respect to their limits, requiring minimal user interaction during high workload phases off flight.
+​
+​
+Once setup, xWind provides both display and editing of all necessary information in one single screen:
+​
+Reference wind, runway orientation, as well as wind limits, can all be adjusted on the main screen by either dragging the wind arrow, course rose or wind limit lines.
+A settings button at the bottom provides access to a popup screen where default wind limit values can be entered.
+xWIND
+​
+​
+Reference wind direction and speed
+Runway orientation
+Cross and head or tailwind components
+Currently applied wind limits (blue lines)
+'Forbidden' wind angles based on the current wind speed (red arc)
+Maximum wind speed table based on current wind limits
+​
+Version 1.3
+Supporting both Kts and Mps
+HOW IT WORKS
+How it works
+The main screen
+All relevant information is presented, and can be adjusted, in one single screen:
+​
+Wind direction and speed with cross and head or tailwind component relative to the runway orientation (7). Components exceeding current limits (5), will be displayed in red.
+Maximum winds within current limits (5) at 10 degree intervals from 30 degrees left, to 30 degrees right of current wind (1). These winds are displayed in their respective quadrant relative to the runway orientation (7).
+Course rose with the present runway orientation (7) facing up. Dragging the course rose sets runway orientation (7).
+Wind arrow presented relative to runway orientation. Dragging the wind arrow along the course rose sets wind direction (1), while wind speed (1) can be set between calm and 99 kts by dragging to or from the center. When current wind limits (5) are exceeded, the arrow will be displayed in red.
+Wind limit lines, presented at a corresponding distance from the runway symbol. Wind limits can be adjusted by dragging their respective blue line to or from the runway symbol. No headwind limit line will be shown when the headwind limit is set to 'None' (see below). However, when necessary, a headwind limit can be set by dragging its limit line into view.
+Wind angles that would result in a wind component exceeding its current limit at the present wind speed (1),  are represented by a red arc along the inside of the course rose.
+General wind speed units used throughout the xWind app as set in the settings screen (below).
+Runway orientation can be modified by rotating the course rose.
+Settings button, providing access to screen for setting default wind limits (see below).
+Additionally, double tapping the wind readout (1) at the top of the screen will toggle the units to another unit than the one set in the general app settings. However, in this case, the units used for wind limits will remain unchanged. Indicators will appear below the wind readout as well as the wind limits display to remind the user that both are using different units.
+Settings
+Pushing the setup button at the bottom of the main screen will popup a second screen where default wind limit values can be entered:
+​
+Wind speed units setting. Sets units used for all wind speeds and wind limits used throughout the xWind app.
+Headwind limit: Valid entries are 0..50Kts/0..25Mps.
+Setting a headwind limit of 0 equates to 'no limitation', resulting in the fields' display reverting to 'None'.
+Crosswind limit: Valid entries are 1..50Kts/1..25Mps.
+Tailwind limit: Valid entries are 1..50Kts/1..25Mps.
+The 'Reset limits on start-up' switch lets you specify if you want the current limits on the main screen to reset automatically to the defaults each time the xWind app launches.
+Shows the disclaimer text.
+Presents xWind version info, contact details, and instructions for use screen.
+​
+When pressing the 'Done' button, the entered default values are accepted and the current wind limits on the main screen will be modified accordingly.
+​
+Pushing the setup button and pressing the 'Done' button without any changes also serves as a quick way to reset the wind limits on the main screen to their defaults.
+Split View
+The main screen
+xWind fully supports Split View mode on iPads, enabling it for example to share the screen with your approach plates.
+PRIVACY STATEMENT
+Privacy Statement
+xWind is the product of both my interest in programming and my profession as a pilot. In that light, I have no interest whatsoever in your personal data. The xWind app does not request, collect, store or transmit any personal information related to the user. The app was build exclusively using standard components as provided through the Apple iOS SDK and does not use any other third party frameworks.
+Disclaimer
+Disclaimer
+Although a lot of effort has been put in designing and testing xWind in order to make sure it presents accurate results, it can never be guaranteed that the results will always be correct in every possible combination of circumstances.
+Results must always be checked for being reasonable and final responsibility for accepting the presented data as being accurate always rests with the user. Using the presented data for decision making is done at the users own risk and both company and aircraft procedures and limitations shall always prevail and be respected.
+Additionally, the user must understand that the primary goal of this application is to present wind components in relation to their limits. In order to timely present exceedance warnings, all calculated wind components are rounded up to the next higher integer number. As a consequence, when using a headwind component value for take-off or landing performance calculations, the presented value will be too optimistic and should be reduced accordingly.
+CONTACT
+Contact
+Do you want to report an error or do you have a feature request or other suggestion? Please send me a message:
+Submit
+Thanks for submitting your message!

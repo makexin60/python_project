@@ -1,0 +1,166 @@
+Skip to main content
+Home
+/
+About WHO
+/
+Cybersecurity
+Beware of criminals pretending to be WHO
+Hackers and cyber scammers are taking advantage of the coronavirus disease (COVID-19) pandemic by sending fraudulent email and WhatsApp messages that attempt to trick you into clicking on malicious links or opening attachments.
+These actions can reveal your user name and password, which can be used to steal money or sensitive information.
+If you are contacted by a person or organization that appears to be WHO, verify their authenticity before responding.
+The World Health Organization will:
+never
+ask for your username or password to access safety information
+never
+email attachments you didn’t ask for
+never
+charge money to apply for a job, register for a conference, or reserve a hotel
+never
+conduct lotteries or offer prizes, grants, certificates or funding through email.
+Be on alert when you receive an email with any link or attachments containing any reference to WHO. It might be a cyberattack.
+The only call for donations WHO has issued is the COVID-19 Solidarity Response Fund, which is linked to below.  Any other appeal for funding or donations that appears to be from WHO is a scam.
+COVID-19 Solidarity Response Fund
+There have been some cases reported of people fraudulently presenting themselves as WHO or the COVID-19 Solidarity Response Fund, and/or sending
+    invoices requesting payment on behalf of the Fund. WHO, the UN Foundation, or the Swiss Philanthropy Foundation will never contact you for your credit card or banking details. Please see
+our FAQ
+to learn more about the ways you can legitimately give to the Fund. You may also report scams
+here
+.
+Beware that criminals use email, websites, phone calls, text messages, and even fax messages for their scams. You can verify if communication is legit by contacting WHO directly.
+Contact WHO
+Let’s flatten the infodemic curve
+We are all being exposed to a huge amount of COVID-19 information on a daily basis, and not all of it is reliable. Here are some tips for telling the difference and stopping the spread of misinformation.
+Phishing: malicious emails and messages appearing to be from WHO
+WHO is aware of suspicious email messages attempting to take advantage of the COVID-19 emergency. This fraudulent action is called phishing.
+These “Phishing” emails appear to be from WHO, and will ask you to:
+give sensitive information, such as usernames or passwords
+click a malicious link
+open a malicious attachment.
+Using this method, criminals can install malware or steal sensitive information.
+How to prevent phishing:
+Check their email address
+Make sure the sender has an email address such as ‘person@who.int’
+If there is anything other than ‘who.int’ after the ‘@’ symbol, this sender
+        is not from WHO.  For example, WHO does not send email from addresses ending in ‘@who.com’ , ‘@who.org’ or ‘@who-safety.org’
+Beware, however, that even an email address with the correct
+        domain name may not be from WHO.  Criminals can forge the "From" address on email messages to make them appear to be from ‘@who.int’. Please follow the steps from 2 to 6 below to prevent phishing.
+WHO has implemented a
+        new email security control called Domain-based Message Authentication, Reporting, and Conformance (DMARC) to significantly diminish this type of impersonation.
+Check the link before you click
+Make sure the link starts with ‘https://www.who.int’.  Better still, navigate to the WHO website directly, by typing ‘https://www.who.int’ into your browser.
+Be careful when providing personal information
+Always consider why someone wants your information and if it is appropriate. There is no reason someone would need your username & password to access public information.
+Do not rush or feel under pressure
+Cybercriminals use emergencies such as the coronavirus disease (COVID-19) pandemic to get people to make decisions quickly. Always take time to think about a request for your personal
+        information, and whether the request is appropriate.
+If you gave sensitive information, don’t panic
+If you believe you have given data such as your username or passwords to cybercriminals, immediately change your credentials on each site where you have used them.
+If you see a scam, report it
+How to report misinformation online
+If you see content online that you believe to be false or misleading, you can report it to the hosting social media platform.
+Vulnerability Hall of Fame
+WHO is committed to protecting the privacy and security of its people, processes, and IT solutions. Our Vulnerability Hall of Fame is intended to minimize the risk and impact of cybersecurity vulnerabilities that hackers seek to exploit for malicious purposes.
+Questions and answers
+Disinformation and public health
+Disinformation and public health
+Cyber-attacks on critical health infrastructure
+Cyber-attacks on critical health infrastructure
+News
+6 February 2024
+Departmental update
+WHO reports outline responses to cyber-attacks on health care and the rise of disinformati...
+23 April 2020
+News release
+WHO reports fivefold increase in cyber attacks, urges vigilance
+Sub-section Policy: 
+Sub-policy 0
+https://www.who.int/about/cybersecurity/vulnerability-hall-of-fame:
+Skip to main content
+Home
+/
+About WHO
+/
+Cybersecurity
+/
+Vulnerability Hall of Fame
+Vulnerability Hall of Fame
+WHO is committed to protecting the privacy and security of its people, processes, and IT solutions. Our Vulnerability Hall of Fame is intended to minimize the risk and impact of cybersecurity vulnerabilities that hackers seek to exploit for malicious purposes.
+WHO responsible disclosure and reporter acknowledgment policy
+To continuously improve the protection of information technology and digital assets, we encourage the public to assist our efforts by disclosing cybersecurity vulnerabilities in WHO publicly accessible information systems.
+What to report to WHO (qualifying vulnerabilities)
+Technical details of cybersecurity vulnerabilities associated with publicly accessible WHO digital assets. We are open to accepting any valid in-scope vulnerability, but we are especially interested in the following vulnerabilities:
+OS Shell Execution (Remote Code Execution, Code Injection, OS Command Injection);
+SQL Injection (Inband SQLi, Blind SQLi);
+Server-Side Request Forgery (Unrestricted SSRF), Content-Restricted SSRF, Error-based SSRF (true/false), Blind SSRF;
+Insecure direct object references (IDOR) (Horizontal Privilege Escalation, Vertical Privilege Escalation)  ̶  limited to web applications only using non-WHO accounts;
+Improper Restriction of XML External Entity Reference (XXE);
+Uncontrolled Format String (Insecure Deserialisation);
+Inconsistent interpretation of HTTP Requests (HTTP Request Smuggling);
+Inclusion of Functionality from Untrusted Control Sphere (Server Side Includes Injection, Local File Inclusion, Directory Traversal);
+Missing Authentication for Critical Function (Exposed Administrative Interface);
+Information Exposure (Exposure of PII, Credentials on GitHub, Confidential Information Exposure);
+Incorrect Authorization (Authorization Bypass, Account Takeover);
+Cross-Site Scripting (Stored, Reflected, DOM);
+Cross-Site Request Forgery (State-Changing CSRF, Non-State-Changing CSRF); and
+CRLF Injection.
+What NOT to report to WHO (non-qualifying vulnerabilities)
+Vulnerabilities considered out of scope:
+User account enumeration;
+Cookie Not Marked as
+HttpOnly
+;
+Cookie Not Marked as Secure;
+Missing HTTP security headers;
+Software version disclosure/banner identification;
+Missing best practices in SSL/TLS configuration;
+Open redirect: the actual security impact must be demonstrated
+Cross-Site Request Forgery (CSRF) on unauthenticated forms or forms with no sensitive actions;
+Any activity that could lead to the disruption of service (DoS);
+xmlrpc.php with no admin page exposed to the Internet;
+Missing email best practices (invalid, incomplete, or missing SPF/DKIM/DMARC records etc);
+Missing rate limits, unless it can lead to account takeover;
+Use of a known vulnerable library (without evidence of exploitability);
+Social engineering attacks; and
+Reports from automated tools or scans.
+Vulnerability reporting rules
+WHO will accept disclosures of vulnerabilities under the conditions noted below:
+the vulnerability has not already been publicly disclosed;
+the vulnerability should be reported to WHO as quickly as possible after its discovery;
+the vulnerability findings must remain confidential for at least 90 days following the report to WHO or until public disclosure of the vulnerability has been made on this website;
+WHO assesses the severity of a vulnerability finding at its discretion;
+the name and contact information of the reporter may be disclosed to the affected technology vendor(s) unless otherwise requested by the reporter;
+WHO reserves the right to accept or reject any cybersecurity vulnerability disclosure report;
+you must be the “first reporter”. Please understand that we have an active cybersecurity team that does regular internal vulnerability testing. If they happen to file the same issue before you, they will count as the “first reporter” and your report will be considered a duplicate;
+do not DDoS or otherwise attack us in a way that would disrupt service for the public, and
+do not attempt to access private data or user accounts.
+Individuals or entities who wish to report vulnerabilities should follow the steps below:
+vulnerability findings, technical reports, and contact details must be sent to
+vulnerability@who.int
+;
+the findings should be communicated using PGP encrypted messages using the public key (PGP Fingerprint:
+495F0D75595840ADF81D8ED8ECF53C5C3A0F8BC6
+) available on this website;
+as much technical information regarding the vulnerability should be communicated to WHO to enable us to reproduce and verify the vulnerability so remediation actions can be taken; and
+the vulnerability findings must remain confidential for at least 90 days following the report to WHO or until public disclosure of the vulnerability has been made on this website.
+If more information is required regarding a reported vulnerability, WHO may contact the reporter; therefore, it is essential to provide valid contact details, including an email address and telephone number. If the conditions listed above are satisfied, WHO will verify the existence of the vulnerability, notify affected parties, and implement actions to remediate the vulnerability.
+Once the vulnerability has been remediated, the reporter will be
+acknowledged
+, unless they wish to remain anonymous, and listed (at their discretion) on this website with a brief description of the vulnerability reported and a link to either their LinkedIn or Twitter profile.
+By reporting vulnerability findings to WHO, the reporter acknowledges that such reporting is provided
+pro bono
+without expectation of financial or other compensation.
+The reporter also affirms that neither they nor any entity that they represent is complicit in human rights abuses, tolerates forced or compulsory labour or use of child labour, is involved in the sale or manufacture of anti-personnel mines or their components, or does not meet the purposes and principles of the United Nations and WHO.
+Note: The content of this web page is inspired by the UN Hall of Fame — see links below.
+https://unite.un.org/content/hall-fame
+https://unite.un.org/content/hall-fame/list
+Ethical hacker list
+Acknowledgment and information on reported cybersecurity vulnerabilities in WHO publicly accessible information systems.
+Cybersecurity
+Beware of criminals pretending to be WHO.
+News
+6 February 2024
+Departmental update
+WHO reports outline responses to cyber-attacks on health care and the rise of disinformati...
+23 April 2020
+News release
+WHO reports fivefold increase in cyber attacks, urges vigilance

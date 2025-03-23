@@ -1,0 +1,193 @@
+Things You Should Know
+Mozilla account information.
+These services require a Mozilla account, which sends Mozilla your email address, locale, and IP address. Learn more about
+Mozilla Account data practices
+.
+Payment information.
+When you subscribe to services that require a paid subscription, you will send payment through one of our third-party payment providers: Stripe, Apple, PayPal, or Google Pay. Mozilla receives a record of your account (including your billing address and the last four digits of your payment method) and the status of your account’s subscription. Mozilla does not store your full payment details.
+Mozilla VPN
+Interaction data.
+Interaction data collection is disabled by default. If you opt in, Mozilla will receive data about your interactions with Mozilla VPN. For example, we would be able to know things like if you’ve excluded any Apps from protection (but not which ones), in how many devices you are using your Mozilla VPN Subscription, and whether or not you’ve enabled the ads blocking feature. For a full review of our telemetry, you can learn more in
+VPN interaction data
+. We use interaction data to improve performance and stability for our users, and to measure the services’ performance.
+In addition, to help understand the effectiveness of our marketing campaigns, Mozilla may receive your IP address in addition to campaign data and referral data like what ad campaigns you engaged with and your operating system, device type, device identifiers, and operating system version. Mozilla shares this with Adjust, but we do not share or store your IP address. Read the
+Adjust documentation
+.
+Technical data.
+Across the services, your IP address is temporarily collected as part of our server logs for 90 days. For VPN, Mozilla also receives information about the installed version of your Mozilla VPN client software, and the devices they are installed on, including their operating systems and hardware configuration. We use technical data to improve performance and stability for our users, and to measure the services’ performance.
+In addition, if you have provided consent to data collection within the application, our partner Sentry.io will receive technical data for error and performance monitoring purposes. Learn more at
+Sentry.io’s Privacy Policy
+.
+Location data.
+Mozilla receives your IP address when you sign up for and use the service(s) and it is collected as part of our servers logs for 90 days; we use the IP address in order to approximate your location because Mozilla Subscription Services availability, pricing and offers may depend on your country. We also use it for fraud and abuse prevention purposes across our products.
+Network data.
+When you activate Mozilla VPN, it will encrypt your internet traffic and send it to Mullvad. No logs of your network activity are maintained by either Mozilla nor our partner Mullvad when you’re using the Mozilla VPN service in any circumstance. Learn more at
+Mullvad’s Privacy Policy
+.
+Mozilla Monitor
+Interaction data.
+Mozilla receives data about your interactions with the services. For instance, when you log in and out and the preferences you set; learn more about
+Monitor interaction data
+. More generally, Mozilla may also use cookies, device information, and IP addresses, along with clear GIFs, cookies and third party services to help us understand in the aggregate how users engage with our products, services, communications, websites, online campaigns, snippets, devices, and other platforms. We use:
+HaveIbeenpwned.
+HaveIbeenpwned receives a hashed version of your email address in order to perform a scan of where your personal data may have been compromised. HaveIbeenpwned keeps this personal data to continuously scan for new breaches; you can request removal of your email address from HaveIbeenpwned via their
+opt-out mechanism
+.
+OneRep.
+If you are located in the United States and have a Monitor Plus subscription, OneRep receives your first and last name, email address, phone number, physical address and date of birth in order to scan data broker sites to find your personal data and request its removal. OneRep keeps your personal data until you end your Monitor subscription in order to check whether your information shows up on additional sites, or has reappeared on the sites you’ve already been removed from.
+Amazon Web Services (AWS).
+Mozilla Monitor uses AWS so as to be able to email you in connection with the Mozilla Monitor Service, which includes Full Reports, Breach Alerts, and Safety Tips. This data will be deleted when you unsubscribe from your Monitor subscription.
+Formstack.
+Mozilla Monitor uses Formstack to capture feedback optionally provided by users. For information on Formstack’s privacy practices, see the
+Formstack Privacy Policy
+.
+Google Analytics.
+Mozilla Monitor uses Google Analytics to obtain metrics on how users engage with our websites. This helps us to improve site content. For more information about how Google uses your personal information, please visit
+Google Analytics’ Privacy & Security
+. You can install the
+Google Analytics Opt-out Browser Add-on
+to prevent data collection about your visits to the Service and prohibit data transmission to Google Analytics.
+Firefox Relay
+Interaction data.
+Mozilla receives data about your interactions with Firefox Relay, for instance, when you log in and out and the preferences you set. Learn more about
+Relay interaction data
+; you can opt out of this collection by turning on the
+Do Not Track (DNT)
+feature in your browser.
+More generally, Mozilla may also use cookies, device information, and IP addresses, along with cookies and third party services to help us understand in the aggregate how users engage with our products, services, communications, websites, online campaigns, snippets, devices, and other platforms. We use:
+Google Analytics, which places a cookie on your device, to obtain metrics on how users engage with our websites. This helps us to improve site content. To prevent Google Analytics from collecting data about your use of Mozilla Monitor, you can install the
+Google Analytics Opt-out Browser Add-on
+.
+Technical data.
+Mozilla receives basic information about the installed version of your Relay Add-on software, and the device they are installed on, including the operating system and hardware configuration. Across the services, your IP address is temporarily collected as part of our server logs for 90 days. We use technical data to improve performance and stability for our users, and to measure the services’ performance.
+Location data.
+Mozilla receives your IP address when you sign up for and use the service(s). We use the IP address in order to approximate your location because Mozilla Subscription Services availability, pricing and offers may depend on your country. We also use your IP address for fraud and abuse prevention purposes across our products.
+Firefox Relay email messages.
+To send and forward your email messages from your masked email address(es) to your primary email address, Firefox Relay processes your email messages. We do not read or store the content of any of your messages. In the event that an email cannot be delivered to you, we will keep it on our servers and delete it after it has been delivered (in no event will we hold onto it for more than three days). If you use the feature to block promotional emails, the service will check email headers to determine whether the email should be blocked.
+Firefox Relay masks (and where you use them).
+Mozilla maintains a copy of your account information to provide the service, in particular to associate your primary email address with your masked email address(es). If you create a custom mask, Mozilla stores it in order to forward emails to it. Mozilla stores the site where you created the mask, sites where you subsequently use the mask, and any labels associated with the mask in order to ensure that your masks are easily findable when you’re ready to use them. Learn how to
+enable and disable these features
+.
+Firefox Relay phone calls and text messages.
+To send and forward your phone calls and text messages, Firefox Relay processes your phone number and text messages. We store a log of the phone numbers you’ve contacted through Relay in order to show your call and text logs, send text replies and block phone numbers. We do not monitor or store the content of phone calls you make through Firefox Relay. Learn how to
+enable and disable these features
+.
+Information we share.
+Firefox Relay shares information with third parties to provide the service to you. Mozilla has contracted with these companies requiring them to protect your information. Here’s who we use to support Firefox Relay:
+Amazon Web Services.
+Amazon Web Services (AWS) is a cloud-computing platform. Firefox Relay uses AWS to receive emails sent to your masked email address(es) and to forward them to the primary email address associated with your Mozilla account. Only Mozilla knows the association between your primary email address and your masked email address(es).
+Twilio.
+Twilio receives your phone number, your phone mask, and the phone numbers that you exchange phone calls and text messages with. Twilio also receives the content of text messages you send and receive through Firefox Relay and Mozilla has set the Twilio service to delete its records of the text messages you send and receive through Firefox Relay after 7 days.
+Other Information You Should Know
+You can learn more about
+managing your data
+and how to
+enable or disable sync
+. Also, much of the information that we store about our Mozilla account users is easily accessible by
+signing in
+to your account, where you can also update your
+data sharing settings
+. To make requests regarding your personal data, please contact us through our
+Data Subject Access Request Portal
+.
+If you have any other questions regarding personal data or our privacy practices, please contact us at compliance@mozilla.com.
+We respond to all requests we receive from individuals wishing to exercise their data protection rights regardless of where the individual lives. We will honor your request unless a legal requirement prevents us from doing so or a legal exception applies.
+Please visit our
+forums
+for general support help.
+Sub-section Policy: 
+Sub-policy 0
+https://www.mozilla.org/en-US/privacy/:
+Help us improve your Mozilla experience
+In addition to Cookies necessary for this site to function, we’d like your permission to set some additional Cookies to better understand your browsing needs and improve your experience. Rest assured — we value your privacy.
+Accept All Additional Cookies
+Reject All Additional Cookies
+Cookie settings
+Menu
+Firefox browsers
+Close Firefox browsers menu
+Firefox for Desktop
+Firefox for iOS
+Firefox for Android
+Firefox Focus
+Firefox blog
+Products
+Close Products menu
+Mozilla VPN
+Mozilla Monitor
+Firefox Relay
+Pocket
+MDN Plus
+Fakespot
+Thunderbird
+All products
+About us
+Close About us menu
+Our Mission
+About Mozilla
+The Mozilla Manifesto
+Get Involved
+Innovation Projects
+Blog
+Our Work
+Mozilla Foundation
+Mozilla.ai
+Mozilla Ventures
+Mozilla Advertising
+Mozilla Builders
+What do we mean by "personal information?"
+For us, "personal information" means information which either directly identifies you (like your name, email address, or billing information) or can be reasonably linked or combined to identify you (like an account identification number or IP address). We’ll always tell you what personal information we’re collecting from you. See each product’s Privacy Notice for specific details.
+Any information that falls outside of this is "non-personal information."
+If we store your personal information with information that is non-personal, we will consider the combination as personal information. If we remove all personal information from a set of data then the remaining is non-personal information.
+How do we learn information about you?
+We learn information about you when:
+you give it to us directly (e.g., when you choose to send us crash reports);
+we collect it automatically through our products and services (e.g., when your Firefox browser checks with us to see if it is up to date);
+someone else tells us information about you (e.g., when Thunderbird works with your email providers to set up your account); or
+when we try and understand more about you based on information you've given to us (e.g., when we use your IP address to customize language for some of our services).
+What do we do with your information once we have it?
+When you give us information, we will use it in the ways for which you've given us permission. Generally, we use your information to help us provide and improve our products and services for you.
+For users in the EU, EEA, Switzerland, and California: see
+here
+for more information.
+When do we share your information with others?
+When we have asked and received your permission to share it.
+For processing or providing products and services to you, but only if those entities receiving your information are contractually obligated to handle the data in ways that are approved by Mozilla.
+When we are fulfilling our
+mission of being open
+. We sometimes release information to make our products better and foster an open web, but when we do so, we will remove your personal information and try to disclose it in a way that minimizes the risk of you being re-identified.
+When the law requires it. We follow the law whenever we receive requests about you from a government or related to a lawsuit. We'll notify you when we're asked to hand over your personal information in this way unless we're legally prohibited from doing so. When we receive requests like this, we'll only release your personal information if we have a good faith belief that the law requires us to do so. Nothing in this policy is intended to limit any legal defenses or objections that you may have to a third party's request to disclose your information.
+When we believe it is necessary to prevent harm to you or someone else. We will only share your information in this way if we have a good faith belief that it is reasonably necessary to protect the rights, property or safety of you, our other users, Mozilla or the public.
+If our organizational structure or status changes (if we undergo a restructuring, are acquired, or go bankrupt) we may pass your information to a successor or affiliate.
+How do we store and protect your personal information?
+We are committed to protecting your personal information once we have it. We implement physical, business and technical security measures. Despite our efforts, if we learn of a security breach, we'll notify you so that you can take appropriate protective steps.
+We also don't want your personal information for any longer than we need it, so we only keep it long enough to do what we collected it for. Once we don't need it, we take steps to destroy it unless we are required by law to keep it longer.
+What if we change this privacy policy or any of our privacy notices?
+We may need to change this policy and our notices.  The updates will be posted online. If the changes are substantive, we will announce the update through Mozilla's usual channels for such announcements such as blog posts and forums. Your continued use of the product or service after the effective date of such changes constitutes your acceptance of such changes. To make your review more convenient, we will post an effective date at the top of the page.
+Menu
+Mozilla Privacy
+Mozilla Privacy
+Mozilla Websites, Communications & Cookies
+Mozilla Accounts
+Mozilla Subscription Services
+Firefox Browser
+Firefox Focus
+Thunderbird
+MDN Plus
+Data Privacy Principles
+Mozilla’s
+Data Privacy Principles
+inspire our practices that respect and protect people who use the internet. Learn how these principles shape Firefox and all of our products in this
+FAQ
+Transparency Report
+As an open source project, transparency and openness are an essential part of Mozilla’s founding principles. Our codebases are open and auditable. Our development work is open. Our bi-annual
+Transparency Report
+also demonstrates our commitment to these principles.
+Get Involved
+To review and comment on proposed changes to our privacy policies,
+subscribe to Mozilla’s governance group
+.
+Read more about our ongoing privacy and security public policy work on
+Mozilla’s Open Policy and Advocacy Blog
+.
+Outdated Policies

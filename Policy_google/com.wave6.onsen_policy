@@ -1,0 +1,348 @@
+Privacy Policy
+Effective:
+28 September 2024
+Introduction
+At Onsen, we value your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, share, and protect your data when you use our app and services.
+Our mission at Onsen is to enhance your mental and emotional wellbeing with AI-powered guidance. To provide you with a highly personalized and meaningful experience, we need to collect and process certain information about you. We take your privacy seriously and strive to handle your data with the utmost care and transparency.
+By using Onsen, you agree to the collection and use of your information in accordance with this Privacy Policy. We encourage you to read this policy carefully to understand our practices regarding your personal data and how we treat it.
+If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at
+privacy@onsenapp.com
+.
+What Data We Collect
+At Onsen, we collect various types of information to provide and enhance our personalized AI mental wellbeing services. This section explains what data we collect, how we collect it, and why we need it.
+Types of Data Collected
+Personal Information
+We collect personal information that you provide to us during the authentication process. This includes:
+First name
+Last name
+Email address
+We need your name and email to create your account and help you sign in.
+Chat Data
+When you use Onsen to engage in AI chats, we collect the content you provide.
+This may include:
+Chat conversations
+Journal entries
+Other user content
+When you share your thoughts and experiences with Onsen, we save this information to personalize your AI experience.
+Voice Recordings
+Voice recordings are transcribed using OpenAI’s Whisper model. These recordings are not stored after transcription.
+If you use voice input, we turn your voice into text and then delete the recording right away.
+Metadata
+We collect metadata related to your use of Onsen, which includes:
+Time stamps of your interactions
+Basic device information (e.g., device type, operating system)
+We track when and how you use Onsen to help improve the app and understand how it's being used.
+Location Data
+Currently, we do not collect precise location data. However, during onboarding, you might share general information about your location.
+Right now, we don't track your location, but you might tell us where you live when you set up your account.
+Third-Party Services
+Our app leverages several advanced third-party tools and services to deliver a seamless and highly personalized journaling experience. Below is a detailed overview of the key third-party services we utilize and how they integrate with Onsen's infrastructure:
+Amazon Web Services (AWS)
+We rely on AWS for robust cloud storage and computing solutions, ensuring high availability, scalability, and security. Our infrastructure within AWS includes several services. This is a non-exhaustive list of the main services we use to power Onsen:
+Amazon Aurora (PostgreSQL)
+: Utilized for our primary relational database to store user data, including chat conversations and journal entries. Amazon Aurora offers high performance and availability, which is critical for handling the dynamic needs of our application.
+AWS Lambda
+: Employed for our serverless backend, which processes requests efficiently and scales automatically with user demand.
+AWS CloudFront
+: Provides a Content Delivery Network (CDN) to deliver content to users with low latency and high transfer speeds.
+AWS Cognito
+: Manages user authentication and authorization. We use Cognito to generate and validate JSON Web Tokens (JWT), ensuring secure user sessions and API calls.
+Amazon S3
+: Used for storing AI-generated images and other non-relational data, offering durability and scalability.
+OpenAI
+We integrate with OpenAI’s suite of advanced models to power our AI-driven features. These models include the following amongst others:
+GPT-4o
+and
+GPT-4o-mini
+: Utilized for generating personalized and context-aware responses in chat interactions. These models help create a conversational experience that adapts to the user’s journaling history and current inputs.
+Whisper
+: Used for transcribing voice recordings to text in real-time. The recordings are ephemeral and are discarded immediately after transcription, ensuring user privacy.
+Text-to-Speech (TTS)
+: Provides natural and soothing AI voices for users who prefer voice conversations, enhancing accessibility and user engagement.
+DALL·E 3
+: Employed to generate AI art that visualizes users’ thoughts and emotions, adding a creative dimension to their journaling experience.
+We use OpenAI services to directly enable Onsen's AI capabilities.
+Amplitude
+For user engagement and analytics, we use Amplitude. This service allows us to:
+Track user interactions and events within the app to gather insights into user behavior and app performance.
+Segment users based on their activity to deliver targeted communications and personalized content.
+Analyze engagement data to optimize features and improve the overall user experience.
+We use Amplitude to analyze usage of our products and improve them.
+Mailchimp
+We use Mailchimp to manage and send personalized marketing and transactional emails to our users. Mailchimp helps us communicate important updates, newsletters, promotional offers, and information about new features and content available on Onsen.
+By leveraging Mailchimp, we can ensure that our communications are timely, relevant, and tailored to your interests, enhancing your overall experience with our services.
+We use Mailchimp to keep you updated about new features and content that might interest you through personalized emails.
+OneSignal
+We use OneSignal to send personalized push notifications to your device. These notifications include updates about your account, reminders to engage with Onsen, announcements of new features, and promotional offers.
+OneSignal allows us to deliver these notifications efficiently and ensures that you receive timely information to help you stay connected and make the most out of your Onsen experience.
+We’ll send you personalized push notifications to keep you informed and engaged with Onsen.
+Security and Data Transmission
+All communications between Onsen and these third-party services are encrypted using HTTPS to ensure data integrity and confidentiality. We employ JSON Web Tokens (JWT) as bearer tokens to maintain secure and authenticated communication channels.
+This approach ensures that all data exchanges between our application and third-party services are not only encrypted but also authenticated, mitigating risks associated with unauthorized access. This setup provides a robust security framework, protecting user data from unauthorized access and ensuring secure data exchanges.
+We partner with industry-leading services like AWS and OpenAI to power Onsen. We take extra steps to ensure your data is always safe and secure when it moves between these services.
+How We Use Your Data
+We use the data we collect to provide, personalize, and improve our services. This section explains how we use your data, the role of AI in processing your data, and the legal basis for these activities.
+Personalization
+We use the data you generate in Onsen, including chat conversations and journal entries, to create a highly personalized experience. Our AI-driven features remember what you share and use this information to provide relevant responses and insights in future interactions.
+We remember what you tell us to make your experience more personalized and meaningful.
+AI Processing
+Our AI, powered by OpenAI models, processes your data to generate contextually relevant responses. This includes engaging in personal chat sessions, offering advice, providing coaching, and supporting your mental and emotional wellbeing. We use techniques like Retrieval-Augmented Generation (RAG) to pull in relevant context from your past journal entries and memories, ensuring the AI's responses are personalized and helpful.
+Our AI uses what you share to give you better advice and support, making your experience more tailored to your needs.
+Guided Experiences
+Onsen offers structured, interactive sessions called "Experiences," based on popular coaching, journaling and mindfulness frameworks. These experiences use your data to provide step-by-step guidance, personalized for your specific situation.
+We guide you through personalized experiences to help with your mental wellness, using the information you've shared.
+Analytics and Improvements
+We use aggregated and anonymized data for product analytics and to understand usage patterns. This helps us improve Onsen and optimize its features.
+We analyze how you use Onsen to make it better and ensure it meets your needs.
+Why We Need Your Data
+The legal basis for processing your personal data explains why and how we are allowed to use your information under applicable data protection laws. Depending on the type of data and the specific purpose for which it is used, we rely on different legal grounds, including contractual necessity, legitimate interest, consent, and compliance with legal obligations.
+This ensures that our data processing practices are lawful, transparent, and respect your privacy rights. Below, we explain each of these legal bases in more detail to help you understand our approach to handling your personal data.
+Contractual Necessity
+This legal basis applies when we need to process your personal data to fulfill the terms of service agreement you enter into with us when you use Onsen. For instance, when you create an account on Onsen, we process your name and email address to authenticate your account and provide you access to our services. Without this data, we wouldn't be able to offer you the core functionalities of the Onsen app.
+We need some of your information to create and manage your Onsen account. Without this information, we can't provide you with our services.
+Legitimate Interest
+We process certain data under the basis of legitimate interest, which means we use your data in ways that you would reasonably expect and that have a minimal impact on your privacy. For example, we use data from your chat conversations and journal entries to personalize your experience and improve our app's functionality. This processing is necessary for us to provide a tailored and efficient service, enhancing your overall experience with Onsen.
+We use your information to make your experience with Onsen better and more personalized. This is something you would expect from our service.
+Consent
+In some cases, we rely on your consent to process your personal data. This means we ask for your explicit permission before collecting or using your information for specific purposes, such as sending you marketing communications or using your voice recordings for transcription. You have the right to withdraw your consent at any time, which means we will stop processing your data for those purposes.
+We ask for your permission before we use your information for certain things, like sending you updates or using your voice recordings. You can change your mind anytime.
+Compliance with Legal Obligations
+Although not listed in your original purposes, this legal basis applies when we need to process your personal data to comply with a legal obligation. For example, we may need to retain certain data to comply with tax laws or respond to lawful requests from public authorities. This ensures that we operate within the boundaries of the law and maintain necessary records.
+Sometimes, we need to keep and use your information to follow the law, like keeping records for tax purposes or responding to government requests.
+We rely on several legal bases for processing your personal data, depending on the type of data and the purpose of processing. The table below summarizes these bases:
+Category of Personal Data
+Purpose of Processing
+Legal Basis
+Name and Email
+Account creation and authentication
+Contractual necessity
+Chat and Journal Data
+Personalization and AI-driven insights
+Legitimate interest, Consent
+Device Metadata
+Analytics and app improvement
+Legitimate interest
+Voice Recordings
+Transcription and personalization
+Legitimate interest, Consent
+General Location (optional)
+Personalization of interactions
+Legitimate interest, Consent
+Marketing Data (Name, Email)
+Newsletters and promotional materials
+Consent
+We process your data for different reasons, such as creating your account, personalizing your experience, and improving our app. We always make sure we have a valid legal reason to do so.
+Sharing Your Data
+We share your data with trusted third-party service providers to enhance your experience with Onsen. This section explains who we share your data with, why we share it, and how we ensure its protection during transfers.
+Third-Party Sharing
+To provide and improve Onsen's services, we share your data with the following third-party service providers:
+Amazon Web Services (AWS)
+We use AWS for our cloud infrastructure, which includes computing resources and secure storage solutions like Amazon Aurora (PostgreSQL database). AWS ensures high availability and reliability for your data.
+OpenAI
+Our AI-driven features rely on OpenAI's models, including
+GPT-4o
+and
+GPT-4o-mini
+for text generation and language processing,
+Whisper
+for transcription,
+DALL·E 3
+for image generation, and
+TTS
+for text-to-speech. Your data is processed by these models to provide personalized insights and responses. We have a data processing addendum in place with OpenAI to ensure the protection of your data.
+Amplitude
+We use Amplitude for detailed analytics and user engagement tracking. This helps us understand usage patterns and improve the app's functionality.
+Mailchimp
+We use Mailchimp to send personalized marketing and transactional emails to you. This includes updates, newsletters, and promotional materials about new features and content available on Onsen. To achieve this, we share the following information with Mailchimp:
+First and Last Name
+Email Address
+App activity and preferences
+(for personalized content)
+Mailchimp helps us ensure that our communications are relevant and tailored to your interests, keeping you informed and engaged with our app.
+We share your name, email, and activity with Mailchimp to keep you informed about important updates and features.
+OneSignal
+We use OneSignal to deliver personalized push notifications to your device. These notifications include important updates, reminders, and promotional offers related to your use of Onsen. For this, we share the following information with OneSignal:
+Device Identifiers
+First and Last Name
+App activity and preferences
+(for personalized notifications)
+General location data
+(if applicable for targeting)
+OneSignal enables us to communicate with you effectively, ensuring you receive timely information that enhances your experience with our services.
+We share device information, your name, and activity data with OneSignal to send you timely and relevant notifications.
+All interactions with these third-party services are secured via HTTPS and authenticated using AWS Cognito with JWT bearer tokens. This ensures that your data is protected during transmission and processing.
+We work with trusted partners like AWS and OpenAI to power Onsen. Your data is securely handled to ensure a smooth and personalized experience.
+Data Transfer
+We operate globally and may transfer your personal data to other countries for processing. Specifically, data is transferred internationally to the United States for AI processing by OpenAI. We ensure that any data transfers comply with applicable data protection laws to protect your privacy.
+AWS Infrastructure
+Our primary data storage is located in the AWS
+eu-west-1
+region (Ireland). This includes our application database and other storage services.
+OpenAI Processing
+The AI services provided by OpenAI are currently hosted in the United States. To ensure compliance with GDPR and other international data protection regulations, we have implemented standard contractual clauses (SCCs) and data processing addenda with OpenAI.
+We take measures to ensure that these transfers are conducted securely and in compliance with international data protection regulations. This includes implementing appropriate technical and organizational measures, such as encryption and secure authentication protocols.
+Your data might be processed in different countries, like the U.S., to provide you with the best possible service. We make sure these transfers are safe and comply with privacy laws.
+Keeping Your Data Safe
+We take the security of your data seriously. This section explains where your data is stored, the measures we take to protect it, and how we ensure the security of data during transmission.
+Storage Locations
+Your data is primarily stored in the AWS (Amazon Web Services) cloud infrastructure, specifically in the AWS
+eu-west-1
+region (Ireland). This includes our application database and other storage services. By using AWS, we leverage their robust security features and high availability to ensure your data is safe and accessible.
+We store your data in secure data centers in Ireland, using Amazon's top-notch cloud services to keep it safe.
+Security Measures
+We implement a variety of security measures to protect your personal data:
+Encryption
+All data stored on our servers and transmitted between your device and our servers is encrypted using industry-standard encryption protocols (e.g., HTTPS, TLS).
+Access Controls
+We use strict access control mechanisms to ensure that only authorized personnel can access your data. This includes role-based access controls and regular audits of access logs.
+Authentication
+Our authentication process is managed via AWS Cognito, which employs JSON Web Tokens (JWT) for secure and authenticated communication channels. This ensures that all data exchanges are protected from unauthorized access.
+Regular Security Audits
+We conduct regular security audits and vulnerability assessments to identify and address potential security risks.
+We use strong encryption, strict access controls, and regular security checks to keep your data safe.
+Data During Transmission
+All data transmitted between your device and our servers is secured using HTTPS, ensuring that your information is encrypted during transfer. This helps protect your data from interception or unauthorized access while it is being transmitted over the internet.
+We use secure connections to protect your data when it's sent between your device and our servers.
+Internal Data Access
+We respect your privacy and ensure that your personal data and content are not accessed by our internal team without your explicit consent. Any access to user data for support purposes is conducted only with the user's permission and solely to resolve specific issues.
+We never look at your personal data or journal entries without your permission. If you need help, we'll ask for your consent before accessing your information.
+Additional Security Practices
+Two-Factor Authentication (2FA)
+We plan to implement two-factor authentication (2FA) to add an extra layer of security to your account.
+Security Training
+Our team undergoes regular security training to stay updated on best practices and emerging threats.
+We're constantly improving our security measures to make sure your data stays safe, including training our team and adding extra security steps like two-factor authentication.
+Your Privacy Rights
+As a user of Onsen, you have specific rights regarding your personal data. This section outlines your rights, what they mean, and how you can exercise them easily through the Onsen app.
+Right to Access
+You have the right to request access to the personal data we hold about you. This includes the right to ask for copies of your personal data.
+You can ask us what personal data we have about you and request a copy of it.
+How to Exercise:
+You can access your data using the "Export Data" option in the Data & Privacy section of the Settings page in the app. Alternatively, you can contact us at
+privacy@onsenapp.com
+. We will respond to your request within 30 days.
+Right to Rectification
+If you believe that any of your personal data is inaccurate or incomplete, you have the right to request that we correct or update it.
+If something is wrong with your personal data, you can ask us to fix it.
+How to Exercise:
+To request a correction, please contact us at
+privacy@onsenapp.com
+with details of the data that needs to be corrected. We will make the necessary updates as soon as possible.
+Right to Erasure (Right to be Forgotten)
+You have the right to request the deletion of your personal data under certain circumstances, such as when the data is no longer needed for the purposes it was collected.
+You can ask us to delete your personal data if you no longer want us to have it.
+How to Exercise:
+You can delete your data by using the "Delete Account" option in the Data & Privacy section of the Settings page in the app. This will permanently delete your account and all associated data. Alternatively, you can email us at
+privacy@onsenapp.com
+. We will delete your data within 30 days, unless we are required by law to keep it.
+Right to Restrict Processing
+You can request that we restrict the processing of your personal data in certain situations, such as when you contest the accuracy of the data.
+You can ask us to stop using your data in certain ways.
+How to Exercise:
+Restricting processing can be achieved by using the "Delete Account" option in the Data & Privacy section of the Settings page in the app. Alternatively, contact us at
+privacy@onsenapp.com
+specifying the reason for your request.
+Right to Data Portability
+You have the right to receive the personal data you have provided to us in a structured, commonly used, and machine-readable format. You also have the right to request that we transfer this data to another service provider.
+You can get your data from us in a format that you can use elsewhere or ask us to send it to another service.
+How to Exercise:
+You can request your data in a portable format using the "Export Data" option in the Data & Privacy section of the Settings page in the app. Alternatively, email us at
+privacy@onsenapp.com
+. We will provide the data within 30 days.
+Right to Object
+You have the right to object to the processing of your personal data in certain circumstances, such as when it is used for direct marketing purposes.
+You can tell us to stop using your data for things like marketing.
+How to Exercise:
+To object to specific types of processing, you can update your preferences in the Data & Privacy section of the Settings page in the app. For instance, you can opt out of receiving marketing communications directly through the app. Alternatively, you can contact us at
+privacy@onsenapp.com
+with details of your objection. We will review your request and cease the relevant processing unless we have compelling legitimate grounds to continue.
+Right to Withdraw Consent
+If we are processing your personal data based on your consent, you have the right to withdraw your consent at any time.
+You can change your mind about the permissions you have given us.
+How to Exercise:
+To withdraw your consent, you can update your preferences in the app or email us at
+privacy@onsenapp.com
+. We will stop processing your data for the purposes you previously consented to.
+Right to Lodge a Complaint
+If you believe that we have violated your privacy rights, you have the right to lodge a complaint with the relevant supervisory authority.
+If you think we haven't handled your data properly, you can complain to the data protection authority.
+How to Exercise:
+To lodge a complaint, contact your local data protection authority. In the UK, this is the Information Commissioner’s Office (ICO).
+We respect your privacy and are here to help you with any questions or concerns about your data. Feel free to contact us anytime!"
+Cookies and Tracking
+Onsen uses tracking technologies to analyze app usage and improve our services. This section explains what tracking technologies we use, how we use them, and how you can manage your preferences.
+What Are Cookies and Tracking Technologies?
+Cookies are small text files that are stored on your device by websites or apps you visit. Tracking technologies include cookies, web beacons, pixels, and mobile identifiers, which help us understand how you interact with our app and website.
+Cookies and tracking tools help us understand how you use Onsen and improve your experience.
+How We Use Cookies and Tracking Technologies
+We use the following tracking technologies:
+Amplitude
+In the Onsen app, we use Amplitude to track user ID and event metadata to provide essential app functionality and gather analytics. This helps us understand how you interact with Onsen and allows us to improve the app.
+On our website, we use Amplitude to understand user interactions and improve our services. This helps us collect website usage patterns, which informs our development and marketing strategies.
+We use Amplitude to understand how you use Onsen and make it better.
+Managing Your Preferences
+You have the right to choose whether or not to accept cookies.
+In-App Settings
+Currently, the Onsen app does not use cookies, but we track user IDs and event metadata for essential functionality and analytics.
+Website Settings
+For our website, you can manage your preferences for cookies and tracking technologies. We will implement a Consent Management Platform (CMP) to help you manage these preferences easily.
+Browser Settings
+You can also adjust your browser settings to manage cookies for our web services. Each browser is different, so check the Help menu of your browser to learn how to change your cookie preferences.
+You can control how cookies are used on our website through your browser settings or our website settings.
+Consent for Cookies
+For our website, we will ask for your consent before using cookies to ensure compliance with data protection regulations and to respect your preferences.
+We'll ask for your permission before using cookies on our website to make sure we follow the rules and respect your choices.
+Children’s Privacy
+Onsen is designed for users who are 16 years old and above. We do not knowingly collect personal data from children under the age of 16. This section outlines our policies regarding children's privacy and the steps we take to protect young users.
+No Data Collection from Children
+Onsen does not target or knowingly collect personal data from children under the age of 16. If we become aware that we have inadvertently collected data from a child under 16, we will take steps to delete this information promptly.
+Onsen is for adults. If we find out that we’ve collected data from someone under 16, we’ll delete it right away.
+Steps Taken to Protect Children’s Privacy
+Age Verification
+During the onboarding process, we ask users to confirm their age to ensure they meet the minimum age requirement.
+We ask you to confirm your age when you sign up to make sure you're old enough to use Onsen.
+Parental Consent
+If we ever offer services to children under 16, we will obtain verifiable parental consent in accordance with applicable laws.
+If we ever allow kids under 16 to use Onsen, we’ll get permission from their parents first.
+Reporting Mechanism
+If you believe that we have mistakenly collected data from a child under 16, please contact us immediately at
+privacy@onsenapp.com
+. We will take appropriate steps to investigate and delete the information.
+If you think we’ve collected data from someone under 16 by mistake, please let us know so we can fix it.
+Future Considerations
+If we decide to expand Onsen to include users under 16, we will update this privacy policy to reflect the necessary changes and ensure compliance with relevant child privacy laws, such as the Children’s Online Privacy Protection Act (COPPA) in the United States or similar regulations in other jurisdictions.
+If we ever let younger people use Onsen, we’ll update our policies to make sure we follow all the rules to protect their privacy.
+Updates to Our Policy
+We may update this Privacy Policy from time to time to reflect changes in our practices, technology, legal requirements, and other factors. This section explains how we will notify you of significant changes and your options.
+How We Notify You
+If we make any significant changes to this Privacy Policy, we will notify you through the following methods:
+In-App Notification
+We will display a prominent notice within the Onsen app.
+Email
+We will send an email to the address associated with your account.
+If we make important changes to this policy, we'll let you know through the app and by email.
+Reviewing and Accepting Changes
+We encourage you to review this Privacy Policy periodically to stay informed about how we are protecting your data. Your continued use of the Onsen app after any changes to this Privacy Policy constitutes your acceptance of the updated policy.
+It's a good idea to check this policy now and then. By continuing to use Onsen, you agree to any updates.
+Contact Us
+If you have any questions, concerns, or requests regarding this Privacy Policy or your personal data, please contact us. This section provides our contact details for privacy-related inquiries.
+How to Contact Us
+If you need to get in touch with us regarding your privacy or data protection, you can reach us through the following methods:
+Email
+For privacy-related questions or concerns, please email us at
+privacy@onsenapp.com
+.
+Mail
+You can also contact us by mail at the following address:
+Onsen AI Limited
+71-75, Shelton Street
+Covent Garden
+London, WC2H 9JQ
+United Kingdom
+If you have any questions or concerns about your privacy or how we handle your data, you can email us at
+privacy@onsenapp.com
+or send us a letter at our office address.
+Response Time
+We strive to respond to all privacy-related inquiries within 30 days. Your concerns are important to us, and we are committed to addressing them promptly and thoroughly.
+Supervisory Authority
+If you are not satisfied with our response, you have the right to lodge a complaint with your local data protection authority. In the UK, this is the Information Commissioner's Office (ICO).

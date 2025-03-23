@@ -1,0 +1,38 @@
+Secure ShellFish
+is designed to keep your information private. 
+        It does this by collecting very little information, using as few third party services 
+        as possible and end-to-end encrypting data when possible.
+The servers your configure are shared between your different devices using iCloud if 
+        you have
+iCloud Keychain
+enabled. Files and directories you tag or mark as favourite are 
+        shared between your devices if you are logged into iCloud. Snippets are stored in iCloud 
+        in encrypted form with the key stored in  iCloud Keychain.
+The app collects usage data to determine the popularity of features and to detect user 
+        interactions causing confusion. This is done without recording personal information and 
+        without any details from your servers. We collect that you started a server terminal and 
+        whether it succeeded or failed without collecting server information or error details.
+Usage data is recorded using
+TelemetryDeck
+. 
+	    When
+Location Persistence
+is enabled location data is collected while 
+	    using the terminal. Location data never leaves the device.
+This website will log requests to the server, the document requested and the
+IP address
+excluding
+            the last number. No
+cookies
+are used to track or remember website visits.
+The
+notify
+and
+widget
+commands use this server and Apple push notification 
+	    servers to deliver payload to devices running Secure ShellFish. Payload is encrypted with a 
+	    secret key known only by
+notify
+and
+widget
+commands and your app installation.

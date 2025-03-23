@@ -1,0 +1,462 @@
+skip to content
+LM CLASSIC KNOWLEDGE BASE
+User Tools
+Admin
+Log In
+Site Tools
+Search
+Tools
+Show pagesource
+Old revisions
+Add to book
+Export to PDF
+Backlinks
+Recent Changes
+Media Manager
+Sitemap
+Log In
+>
+Recent Changes
+Media Manager
+Sitemap
+−
+Sidebar
+Select Language
+Abkhaz
+Acehnese
+Acholi
+Afar
+Afrikaans
+Albanian
+Alur
+Amharic
+Arabic
+Armenian
+Assamese
+Avar
+Awadhi
+Aymara
+Azerbaijani
+Balinese
+Baluchi
+Bambara
+Baoulé
+Bashkir
+Basque
+Batak Karo
+Batak Simalungun
+Batak Toba
+Belarusian
+Bemba
+Bengali
+Betawi
+Bhojpuri
+Bikol
+Bosnian
+Breton
+Bulgarian
+Buryat
+Cantonese
+Catalan
+Cebuano
+Chamorro
+Chechen
+Chichewa
+Chinese (Simplified)
+Chinese (Traditional)
+Chuukese
+Chuvash
+Corsican
+Crimean Tatar (Cyrillic)
+Crimean Tatar (Latin)
+Croatian
+Czech
+Danish
+Dari
+Dhivehi
+Dinka
+Dogri
+Dombe
+Dutch
+Dyula
+Dzongkha
+Esperanto
+Estonian
+Ewe
+Faroese
+Fijian
+Filipino
+Finnish
+Fon
+French
+French (Canada)
+Frisian
+Friulian
+Fulani
+Ga
+Galician
+Georgian
+German
+Greek
+Guarani
+Gujarati
+Haitian Creole
+Hakha Chin
+Hausa
+Hawaiian
+Hebrew
+Hiligaynon
+Hindi
+Hmong
+Hungarian
+Hunsrik
+Iban
+Icelandic
+Igbo
+Ilocano
+Indonesian
+Inuktut (Latin)
+Inuktut (Syllabics)
+Irish Gaelic
+Italian
+Jamaican Patois
+Japanese
+Javanese
+Jingpo
+Kalaallisut
+Kannada
+Kanuri
+Kapampangan
+Kazakh
+Khasi
+Khmer
+Kiga
+Kikongo
+Kinyarwanda
+Kituba
+Kokborok
+Komi
+Konkani
+Korean
+Krio
+Kurdish (Kurmanji)
+Kurdish (Sorani)
+Kyrgyz
+Lao
+Latgalian
+Latin
+Latvian
+Ligurian
+Limburgish
+Lingala
+Lithuanian
+Lombard
+Luganda
+Luo
+Luxembourgish
+Macedonian
+Madurese
+Maithili
+Makassar
+Malagasy
+Malay
+Malay (Jawi)
+Malayalam
+Maltese
+Mam
+Manx
+Maori
+Marathi
+Marshallese
+Marwadi
+Mauritian Creole
+Meadow Mari
+Meiteilon (Manipuri)
+Minang
+Mizo
+Mongolian
+Myanmar (Burmese)
+N'Ko
+Nahuatl (Eastern Huasteca)
+Ndau
+Ndebele (South)
+Nepal Bhasa (Newari)
+Nepali
+Norwegian
+Nuer
+Occitan
+Odia (Oriya)
+Oromo
+Ossetian
+Pangasinan
+Papiamento
+Pashto
+Persian
+Polish
+Portuguese (Brazil)
+Portuguese (Portugal)
+Punjabi (Gurmukhi)
+Punjabi (Shahmukhi)
+Quechua
+Qʼeqchiʼ
+Romani
+Romanian
+Rundi
+Russian
+Sami (North)
+Samoan
+Sango
+Sanskrit
+Santali (Latin)
+Santali (Ol Chiki)
+Scots Gaelic
+Sepedi
+Serbian
+Sesotho
+Seychellois Creole
+Shan
+Shona
+Sicilian
+Silesian
+Sindhi
+Sinhala
+Slovak
+Slovenian
+Somali
+Spanish
+Sundanese
+Susu
+Swahili
+Swati
+Swedish
+Tahitian
+Tajik
+Tamazight
+Tamazight (Tifinagh)
+Tamil
+Tatar
+Telugu
+Tetum
+Thai
+Tibetan
+Tigrinya
+Tiv
+Tok Pisin
+Tongan
+Tshiluba
+Tsonga
+Tswana
+Tulu
+Tumbuka
+Turkish
+Turkmen
+Tuvan
+Twi
+Udmurt
+Ukrainian
+Urdu
+Uyghur
+Uzbek
+Venda
+Venetian
+Vietnamese
+Waray
+Welsh
+Wolof
+Xhosa
+Yakut
+Yiddish
+Yoruba
+Yucatec Maya
+Zapotec
+Zulu
+Powered by
+Translate
+Translations by
+gtranslate.io
+Main menu
+Basics
+FAQ
+User guide
+Main Screen
+Maps
+Tracks&Routes
+Points
+Geocaching
+Map Items
+Locus Store
+Functions
+Tools
+Add-ons, Co-apps
+Settings
+Advanced
+Advanced Map Tools
+Advanced Data Tools
+Customization
+Locus API
+About Locus Map
+Useful Links
+manual:about:permissions
+You are here:
+main
+»
+manual
+»
+about
+»
+permissions
+Book Creator
+Add this page to your book
+Book Creator
+Remove this page from your book
+Manage book(
+0
+page(s))
+Help
+−
+Table of Contents
+Android Permissions
+Basic permissions
+Google stuff
+ANT+ support
+Locus Add-Ons
+Locus Augmented Reality Add-On
+Locus Contacts Add-On
+Android Permissions
+Locus Map
+is growing. Over the years of development, it contains more and more features that require permission from the Android Operation System. The same it is with apps related to it or built upon its base -
+Locus GIS, Map4Trip and KiMaps
+. The main reason for it is, of course, your protection as the user.
+A list of all available permissions for Android platform is
+here
+- as you can see bellow, Locus Map group of apps uses only a few of them.
+A complete list of all the permissions and their explanation:
+Basic permissions
+android.permission.ACCESS_COARSE_LOCATION
+allows
+access to Wi-Fi, network location
+android.permission.ACCESS_FINE_LOCATION
+allows to
+acquire GPS location
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+allows
+disabling the A-GPS data status and forcing system to load new
+android.permission.ACCESS_MOCK_LOCATION
+allows
+creating and receiving simulated locations
+android.permission.ACCESS_NETWORK_STATE
+allows
+testing if internet connection is available
+android.permission.ACCESS_WIFI_STATE
+allows to
+check Wi-Fi network state
+(connected/disconnected)
+android.permission.BIND_DEVICE_ADMIN
+allows to
+control screen on/off depending on various events
+like near-point alerts, direction changes during navigation, etc.
+enables to
+control your screen with hardware buttons
+of your device or with external controllers (e.g. Bluetooth)
+android.permission.BLUETOOTH
+allows to
+work with (connect to) a Bluetooth device
+android.permission.BLUETOOTH_ADMIN
+allows to
+search for and pair Bluetooth devices
+android.permission.GET_ACCOUNTS
+allows reading the list of
+available Google accounts
+(for the possibility to enter
+Locus Store
+or launch
+Live tracking
+). Unfortunately, this permission is a part of a group
+Contacts
+which triggers a warning about the possibility of the app reading user's contacts -
+none of it is allowed!
+android.permission.MANAGE_ACCOUNTS
+allows
+restoring expired access to a logged in account
+. Each account has its validity time and when this expires a request for re-login has to be made.
+android.permission.USE_CREDENTIALS
+allows to
+request auth_tokens from the AccountManager
+. This means that Locus Map may request you to login to your account without writing any username/password information into the app.
+android.permission.INTERNET
+allows
+downloading map tiles, address search
+and more tools
+android.permission.KILL_BACKGROUND_PROCESSES
+allows to
+restart the app and also kill it after exit
+. Thanks to this Locus Map (and related apps) is removed from the system memory when closed
+android.permission.RECEIVE_BOOT_COMPLETED
+required for
+automatic backup feature
+android.permission.VIBRATE
+allows to
+control the device's vibrator for notifications
+android.permission.WAKE_LOCK
+allows to
+keep Locus Map (and related apps) awake if required by user
+for some demanding tasks like track recording etc.
+android.permission.WRITE_EXTERNAL_STORAGE
+-
+limited in Android 4.4.2 and later
+allows
+handling the external storage card
+- for reading external maps, storing vector maps, backup and SRTM data
+allows also
+accessing your photos and videos
+so that they are available as attachments to points
+android.permission.RECORD_AUDIO
+allows
+access to microphone
+for the recording of audio as an attachment to points
+Google stuff
+com.android.vending.CHECK_LICENSE
+used to
+verify your purchased license
+com.android.vending.BILLING
+allows to
+provide in-app billing
+com.google.android.providers.gsf.permission.READ_GSERVICES
+allows
+access to Google services
+(for Locus Store, Google Analytics, planned Cloud to device messaging, etc.)
+ANT+ support
+com.dsi.ant.permission.ANT
+com.dsi.ant.permission.ANT_ADMIN
+allows to
+connect and manage the connection to ANT+ sensors
+Locus Add-Ons
+Locus Augmented Reality Add-On
+android.permission.CAMERA
+- this add-on enables
+displaying selected points
+according to their GPS coordinates on the
+background recorded by the camera
+. No image data are recorded nor shared.
+See more >>
+Locus Contacts Add-On
+android.permission.READ_CONTACTS
+- this add-on enables
+viewing your contacts' addresses on the map
+. No contacts data are stored or shared.
+See more >>
+manual/about/permissions.txt
+· Last modified: 2021/02/19 15:04 by
+mstupka
+Page Tools
+Show pagesource
+Old revisions
+Backlinks
+Add to book
+Export to PDF
+Back to top
+Except where otherwise noted, content on this wiki is licensed under the following license:
+CC Attribution-Share Alike 4.0 International
+Original text
+Rate this translation
+Your feedback will be used to help improve Google Translate

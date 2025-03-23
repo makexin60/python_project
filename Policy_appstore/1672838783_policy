@@ -1,0 +1,69 @@
+Privacy Policy (App)
+Nautik aims to be a delightful, accessible way of working with Kubernetes.
+Any data the application stores serves the sole purpose of letting users authenticate with their Kubernetes clusters and is stored securely either on the device's local keychain or the user's iCloud Keychain, at the user's choice. Kubernetes credentials are never stored nor shared with any third party, other than Apple when opting into using iCloud Keychain, which then happens in an end-to-end encrypted fashion. The privacy policy of iCloud Keychain can be found
+here
+.
+We aren't operating any backend the app could be communicating with. The only outgoing network connections the application is actively making are fetching data from the user's Kubernetes API endpoints and, if opting into using a cloud provider integration (see below), securely obtaining and renewing Kubernetes credentials with the cloud provider.
+The data the application retrieves from Kubernetes API endpoints is only processed on the user's device the application is running on for the purpose of being displayed to the user and never stored nor shared with any third party.
+If you enroll to testing the app on TestFlight, Apple might collect analytical metadata like crash information, a session count, or the feedback you're explicitly providing, and share that data with us. We only use that data for the internal debugging purposes it's meant for and never store it long-term nor share it with any third party. The terms of service for TestFlight can be found
+here
+.
+Cloud Provider Integrations
+As an alternative to entering static Kubernetes credentials, Nautik provides users with the option to authenticate with certain cloud providers and import Kubernetes clusters from those cloud providers. Nautik then automatically handles obtaining and renewing ephemeral, dynamic Kubernetes credentials via the APIs offered by the cloud providers.
+Google Cloud Platform
+If choosing to use the integration with Google Cloud Platform, users sign in with a Google Account using the OAuth2 flow implemented by Google in the
+GoogleSignIn-iOS
+library.
+The application requests the
+https://www.googleapis.com/auth/cloud-platform
+OAuth scope, additionally to the standard scopes the library might request.
+With the access token returned from a successful OAuth flow, the application then uses Google's API to list all Google Cloud Platform projects the authenticated user has access to and then lists all GKE Kubernetes clusters inside of those projects and presents them to the user on the UI, grouped by project, each with a separate import button, to provide the user with the choice to import each of them into the application separately. The account information provided by the user and the project and cluster data returned from the API are only cached in memory for the length of an application session and obviously not shared with any party other than the user via the UI.
+Additionally to the project and cluster information described above, the application uses the authenticated Google account's name, email and profile picture URL to present the user with a visual hint about which account they used to authenticate.
+If the user chooses to import a GKE cluster listed in the step described above into the app with its import button, the corresponding
+GIDGoogleUser
+object is stored on the keychain together with the cluster's ID, name, GCP location, GCP zone, self-link, endpoint and master auth object, in order to obtain and renew access tokens to provide the user with access to their cluster's Kubernetes API endpoint.
+Access tokens stored are having a lifetime of 60 minutes and are renewed earliest 15 minutes before they expire, using the
+refreshTokensIfNeeded
+method implemented by Google in the
+GoogleSignIn-iOS
+library.
+Nautik's use and transfer to any other app of information received from Google APIs will adhere to
+Google API Services User Data Policy
+, including the Limited Use requirements.
+A user can choose to delete a cluster from the app at any time. If the user chooses to delete a cluster, all corresponding information described above is immediately permanently deleted from the keychain it is stored on.
+Amazon Web Services
+If choosing to use the integration with Amazon Web Services, users provide the
+AWS_ACCESS_KEY_ID
+and
+AWS_SECRET_ACCESS_KEY
+variables for an AWS IAM account.
+The application uses AWS STS to derive a temprorary security credential pair with a lifetime of 900 seconds from the provided IAM account to access further APIs with.
+With that temprorary security credential pair, the application then uses the AWS EKS API to list EKS Kubernetes clusters from all regions the authenticated IAM user has access to and presents them to the user on the UI, grouped by region, each with a separate import button, to provide the user with the choice to import each of them into the application separately. The account credentials provided by the user and the cluster data returned from the API are only cached in memory for the length of an application session and obviously not shared with any party other than the user via the UI.
+If the user chooses to import an EKS cluster listed in the step described above into the app with its import button, the
+AWS_ACCESS_KEY_ID
+and
+AWS_SECRET_ACCESS_KEY
+variables for the corresponding AWS IAM account provided by the user are stored on the keychain together with the cluster's region, ID, ARN, name, endpoint and timestamp of the last access token refresh, in order to obtain and renew access tokens to provide the user with access to their cluster's Kubernetes API endpoint.
+Access tokens stored are having a lifetime of 15 minutes and are renewed earliest 8 minutes before they expire.
+A user can choose to delete a cluster from the app at any time. If the user chooses to delete a cluster, all corresponding information described above is immediately permanently deleted from the keychain it is stored on.
+Microsoft Azure
+If choosing to use the integration with Microsoft Azure, users sign in with an Azure AD account using the OAuth2 flow implemented by Microsoft in the
+Microsoft Authentication Library for iOS and macOS
+.
+The application requests the
+https://management.azure.com/user_impersonation
+OAuth scope, additionally to the standard scopes the library might request.
+With the access token returned from a successful OAuth flow, the application then uses Azure's API to list all Azure subscriptions the authenticated user has access to and then lists all AKS Kubernetes clusters inside of those subscriptions as well as the admin and user credentials available for those clusters and presents them to the user on the UI, grouped by subscription, each with a separate import button, to provide the user with the choice to import each of them into the application separately. The account information provided by the user and the subscription and cluster data returned from the API are only cached in memory for the length of an application session and obviously not shared with any party other than the user via the UI.
+If the user chooses to import an AKS cluster listed in the step described above into the app with its import button, the corresponding account's identifier is stored on the keychain together with the cluster's subscription ID, resource group name, ID, name, Azure location, credential name and credential expiration date, in order to obtain and renew access tokens to provide the user with access to their cluster's Kubernetes API endpoint.
+Access credentials stored are usually having a lifetime of 75 minutes and are renewed earliest 15 minutes before they expire, using the
+acquireTokenSilent
+method implemented by Microsoft in the
+Microsoft Authentication Library for iOS and macOS
+.
+A user can choose to delete a cluster from the app at any time. If the user chooses to delete a cluster, all corresponding information described above is immediately permanently deleted from the keychain it is stored on.
+DigitalOcean
+If choosing to use the integration with DigitalOcean, users provide an API token for a DigitalOcean account.
+With that API token, the application uses the DigitalOcean API to list all Kubernetes clusters the account owning the token has access to and presents them to the user on the UI, each with a separate import button, to provide the user with the choice to import each of them into the application separately. The API token provided by the user and the cluster data returned from the API are only cached in memory for the length of an application session and obviously not shared with any party other than the user via the UI.
+If the user chooses to import a Kubernetes cluster listed in the step described above into the app with its import button, the corresponding API token provided by the user is stored on the keychain together with the cluster's ID, name, region, endpoint and timestamp of the last access credential refresh, in order to obtain and renew access credentials to provide the user with access to their cluster's Kubernetes API endpoint.
+Access credentials stored are having a lifetime of 60 minutes and are renewed earliest 15 minutes before they expire.
+A user can choose to delete a cluster from the app at any time. If the user chooses to delete a cluster, all corresponding information described above is immediately permanently deleted from the keychain it is stored on.

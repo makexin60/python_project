@@ -1,0 +1,108 @@
+Updated: November 23, 2020
+QuakeFeed v4.5 and later
+QuakeFeed (the “app”) is owned, operated, and maintained by Artisan
+Global LLC (“us”, “we”, “our”). We respect your right to privacy and share your
+concern about the privacy and security of any data that may be accessed by QuakeFeed.
+We’ve made our best effort to describe our privacy policy in clear, simple language. If you have any questions or concerns, our contact information is listed at the bottom of this page. Thank you!
+Nearby Alerts
+For clarity, we would first like to explain what Nearby Alerts
+are and how they work:
+Nearby Alerts are push notifications sent via Apple’s Push Notification Service. They inform you when an earthquake has occurred within a 50, 100, or 150-mile radius of your last known location.
+To protect your privacy, your device location is aggregated to a 0.1 degree grid cell. One grid cell is approximately 10km x 10km at the equator. This calculation happens on your device.
+Raw latitude / longitude coordinates are
+discarded
+. We only send the
+10km grid cell identifier
+to our servers.
+The 10km grid cell is only used for sending Nearby Alerts.
+We think this approach strikes the right balance between location privacy and location accuracy for Nearby Alerts.
+Use of Location Information
+TLDR: We do not share your location information with any third-parties.
+QuakeFeed allows you to choose between four levels of location information usage: Never, Once, While Using the App, and Always
+When the app is granted “Once” or “While Using” permission, QuakeFeed uses your
+foreground
+device location to provide the following functionality:
+Display the distance from your current location to each earthquake in the list.
+Sort the earthquake list by distance.
+Display your current location on the map (i.e. – the blue dot).
+Center the map on your current location when you tap the GPS or Full Extent button.
+If subscribed to Nearby Alerts, update our push notification service with the aggregated 10km grid cell for sending Nearby Alerts.
+When the app is granted “Always” permission, QuakeFeed uses your
+background
+device location to provide the following functionality:
+If subscribed to Nearby Alerts, update our push notification service with changes to the aggregated 10km grid cell for sending Nearby Alerts.
+For iOS 14 and higher: Precise Location must be enabled in order to use
+background location
+to update the 10km grid cell for Nearby Alerts.
+Raw latitude / longitude coordinates are
+discarded
+. We only send the
+10km grid cell identifier
+to our servers.
+QuakeFeed is designed to minimize battery usage when “Always”
+permission is enabled, by adhering to the following principles:
+Background location updates are only enabled if you are subscribed to Nearby Alerts and have “Always” permission. For iOS 14 and higher, Precise Location must also be enabled.
+Background location updates only use Apple’s Significant Change API, which is the least granular and most battery efficient method available.
+Background location updates do not use Continuous GPS or Bluetooth Beacons.
+A network request to update the push notification service is only sent if the aggregated 10km grid cell actually changed as a result of the Significant Change update.
+Collection and Use of Device Information
+QuakeFeed may collect anonymous device and usage data that is not tied to any personally identifiable information, which may include:
+Device make, model, operating system, locale, time zone, country code, location, and similar device information.
+Information about your use of features, functions, or notifications on the device.
+Device and usage information collected by QuakeFeed is only used to send you earthquake alerts and/or improve the app. We may use the information collected in various ways, such as:
+Send you information related to the use of the app, which may include      notifications or in-app messages.
+Calculate aggregate, anonymous usage metrics and analytics to improve the app and prioritize new features.
+Monitor and analyze trends, usage and activities within the app.
+Troubleshoot support requests.
+Advertising
+QuakeFeed uses Google’s AdMob advertising service for non-personalized ads displayed in the app. QuakeFeed does not share location information or advertising identifiers with Google AdMob.
+The AdMob privacy policy is available at:
+https://policies.google.com/privacy
+Analytics
+QuakeFeed uses the following third-party Analytics Services to analyze app performance and improve the app: Fabric and Firebase.
+These analytics services are owned and operated by Google. Anonymous device information and usage data is sent to these services and stored on their servers in accordance with Google’s privacy policy:
+https://policies.google.com/privacy
+Microsoft Azure
+The QuakeFeed push notification service runs on Microsoft Azure servers located in the United States. We use Azure Analytics for analysis and improvement of server-side performance. Azure servers and the analytics service may capture user IP Addresses and other technical data related to API requests. We do not share this data or the IP Addresses with any third parties, nor are they used for any purpose other than to improve the server components of the app.
+External Websites
+QuakeFeed may contain links to other third-party websites which are outside of our control and are not covered by this privacy policy. These may include usgs.gov, tsunami.gov and various news sites. We encourage you to review the privacy policies of any third-party web sites.
+Privacy Options
+You can control QuakeFeed’s access to location information by using the iOS Settings app as follows:
+Open the iOS Settings app
+Tap on Privacy
+Tap on Location Services
+Find QuakeFeed in the list of apps and tap on it
+Choose your desired level of location access: Never, Ask Next Time, While Using the App, or Always
+For iOS 14 and higher: Turn Precise Location on if you want your Nearby Alert settings to update while QuakeFeed is in the background.
+Be advised that turning off Location Services will disable some functionality of the QuakeFeed app.
+Email and Support Requests
+If you send an email support request via the Support feature in QuakeFeed, we will only use your email address to reply to your request. We do not maintain an email list.
+To help troubleshoot the problems you may be experiencing with QuakeFeed, the following information about your device and app usage may be appended to the bottom of the email message:
+Device (iPhone, iPad, or iPod)
+iOS Version
+QuakeFeed Build Number
+Push Token (enables us to troubleshoot your settings on our server)
+Unique anonymous installation ID (enables us to troubleshoot your settings on our server)
+Application state information (which data feed you have selected, if you have any filters applied, etc)
+If you prefer not to share this information, then you can delete the information from the body of the email before sending.
+Children’s Online Privacy Protection Act Compliance
+We do not knowingly collect information from children under the age of 13 and we do not target our app to children under 13.
+We encourage parents and legal guardians to monitor their children’s Internet usage and to instruct their children to never provide any personal data to any app or website without their permission.
+California Online Privacy Protection Act Compliance
+QuakeFeed complies with the California Online Privacy Protection Act.
+GDPR Notice for Customers in the European Union
+By using QuakeFeed, you authorize us to collect, use, and store your device data, usage data, and push notification settings on servers located outside of the European Union.
+International Transfers of Information
+Information may be processed, stored, and used outside of the country in which you are located. Data privacy laws vary across jurisdictions, and different laws may be applicable to your data depending on where it is processed, stored, or used.
+Subscription Terms of Service
+If you choose to buy an annual QuakeFeed Premium
+Subscription via in-app purchase using your iTunes account, you will
+immediately be charged for the transaction after you tap to buy a QuakeFeed
+Premium Subscription.
+Subscription cost will be billed automatically to your iTunes account at the start of the annual period and will auto-renew until your subscription is canceled. The renewal subscription cost will be the same as the initial cost unless you are otherwise notified in advance. We reserve the right to increase subscription cost at any time upon reasonable notice posted in advance. ALL PURCHASES ARE FINAL AND NO REFUND WILL BE GIVEN FOR UNUSED PORTIONS OF YOUR INITIAL OR ANY SUBSCRIPTION PERIOD.
+Subscriptions made on iOS devices can be managed and auto-renewal turned off in Account Settings in iTunes after purchase. The cancellation of a subscription will go into effect at the end of your current billing cycle, and you will have the same level of access to the subscription through the remainder of such billing cycle. When your QuakeFeed Premium Subscription ends, the QuakeFeed App will revert to advertising supported free mode.
+Your Consent
+By using our site or apps, you consent to our privacy policy and terms of service.
+Contact Us
+If you have any questions or concerns that aren’t answered here, please contact us via:
+https://www.quakefeed.com/contact/

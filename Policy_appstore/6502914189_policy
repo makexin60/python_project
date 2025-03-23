@@ -1,0 +1,25 @@
+We don't store
+any
+user-identifiable data
+anywhere
+outside your device, period.
+And for non-user-identifiable data, we use two carefully chosen, privacy-respecting services: In
+one
+service we analyze the app usage fully anonymously. We do this to improve the user experience for all of our users which we can only do if we know how they are using our app. In
+another
+service we store the country, date, and price for users making a purchase within our app. We do this solely to ensure we can reliably apply usage limits across devices for the same user and to get live sales data.
+Any personally identifiable information – even any user-provided names or paths for content in the app – never leaves your device, without having been previously made unrecognizable.
+Data Transmitted
+Any data that is transmitted to the analytics server consists of the following:
+An anonymized device identifier. The identifier is constant for each app install but cannot be traced back to any personally identifiable information.
+An action taken, such as "App Launched" or "Settings Opened". These actions help us understand how people use our app.
+A timestamp when the action was taken.
+Device metadata, namely platform, system version, app version, build number, and the device model type (e.g. iPhone 14, iPad Air, or MacBook Air 2020).
+Additional metadata that provides more context to some of the actions, such as your selected options in a dialog, the configuration of the current screen, or your app settings.
+IP addresses are never stored on any servers, neither in databases nor in any log files or other places. Also, transmitted metadata never includes sensitive information such as user-provided authentication information.
+ℹ️
+Please note that there still could be other vendors involved who collect some data
+without our assistance
+. Any system features you have enabled on your devices (like app usage tracking or crash reporting) may apply. Also, the store providers you download our app from (Apple/Google) collect some data like download statistics. Additionally, if you are using any device backup solution (like iCloud/Google Backup), a copy of your app's data may also be stored on their servers.
+We have no influence on the collection of these data.
+The privacy policies of the providers of these services apply.

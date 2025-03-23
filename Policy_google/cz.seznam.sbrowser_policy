@@ -1,0 +1,73 @@
+Aplikace Seznam.cz
+Získávané informace
+Způsob využití a sdílení získaných údajů
+Kontaktní údaje a správa uložených údajů
+V rámci aplikace Seznam.cz nás zajímají některé údaje. Před sebou máte stručný popis toho, o jaká data se konkrétně jedná a z jakého důvodu je shromažďujeme. Ve vztahu k vašim uživatelským údajům ctíme následující zásady.
+Respektujeme vaše soukromí. Této oblasti věnujeme velkou pozornost a podnikáme všechny příslušné kroky k tomu, abychom vaše údaje řádně zabezpečili a ochránili je před zneužitím
+Dodržujeme platné právní předpisy týkající se ochrany osobních údajů
+Údaje shromažďujeme a využíváme kvůli vylepšování našich služeb
+Shromážděná data jsou anonymní, nelze je tedy spojit s konkrétní osobou
+Získávané informace
+Informace získávané automaticky při používání aplikace
+Společnost Seznam.cz shromažďuje statistické údaje o způsobu a četnosti využívání aplikace a jejich jednotlivých funkcí, navštívených stránkách a hledaných výrazech. Díky těmto údajům můžeme pracovat na neustálém zlepšování našich služeb. Dále nás zajímají technické údaje o tom, jaké používáte zařízení a operační systém, a to zejména z důvodu správného zobrazení grafických prvků a bezproblémového fungování aplikace pro koncové zařízení, na kterém si jako uživatel službu prohlížíte. Takto shromážděné údaje následně používáme pro interní analytické účely. Uchováváme je v anonymizované podobě, ve které není možné je propojit s konkrétní osobou.
+Informace poskytnuté uživatelem
+V základním režimu (bez přihlášení) je možné aplikaci Seznam.cz využívat bez poskytnutí dalších osobních údajů. Informace o historii procházení, uložených stránkách a datech formulářů se ukládají pouze lokálně na zařízení a společnost Seznam.cz k nim nemá přístup. V případě používání aplikace v režimu s přihlášením jsou nám pro účely identifikace konkrétního uživatele známé přihlašovací údaje do Seznam Účtu. Informace jako historie procházení, uložené stránky, hesla a data formulářů se po přihlášení ukládají k příslušnému účtu na servery společnosti Seznam.cz, kde se uchovávají v anonymizované podobě a zpracují se pro interní analytické účely a další rozvoj služeb. Tyto údaje nesdílíme s žádnou třetí stranou.
+Informace, které vyžadují povolení
+Pro plné fungování může aplikace Seznam.cz vyžadovat následující oprávnění. Tato oprávnění jí můžete a nemusíte udělit, případně můžete svou volbu kdykoliv změnit v nastavení systému. Bez příslušných oprávnění nemusí být některé funkce dostupné.
+Přístup k úložišti
+Přístup k fotoaparátu
+Přístup k mikrofonu
+Přístup k poloze
+Přístup k poloze na pozadí
+Přístup ke kontaktům
+Pokud aplikaci příslušná oprávnění udělíte, můžeme získat informace o vaší poloze, o hlasově zadaných výrazech do vyhledávání a o používání funkce Hlasový asistent. Bližší informace o způsobu jejich využití popisujeme v sekci Způsob využití a sdílení získaných údajů.
+Způsob využití a sdílení získaných údajů
+Polohové služby
+Aplikace vás během používání může požádat o přístup k vaší poloze, kterou může nadále sdílet s těmi webovými stránkami, kterým získání vaší polohy povolíte. Na toto povolení se vás aplikace zeptá pro každou webovou stránku zvlášť. Svou polohu tedy můžete sdílet jen s určitými webovými stránkami.
+Pokud používáte widget Počasí na ploše telefonu, aplikace vás požádá o přístup k poloze vašeho zařízení na pozadí, tedy i v případě, kdy aplikaci zrovna nepoužíváte. Toto oprávnění slouží k tomu, aby vám widget mohl vždy ukázat aktuální předpověď pro oblast, kde se právě nacházíte, aniž by bylo třeba spouštět aplikaci nebo polohu manuálně aktualizovat.
+Tato data se využívají pouze k určení vaší polohy v případě používání funkce widget Počasí. Tyto údaje neuchováváme a nesdílíme s žádnou třetí stranou. Oprávnění pro sběr polohy i sběr polohy na pozadí můžete a nemusíte aplikaci udělit, případně ho můžete v nastavení systému kdykoliv odvolat.
+Informace pro provozovatele webových stránek
+Weby, které v aplikaci Seznam.cz navštívíte, automaticky obdrží standardní informace protokolu, včetně IP adresy vašeho systému a dat ze souborů cookies nebo podobných technologií.
+Hlasové příkazy pro službu Seznam asistent
+Pokud si přejete využívat službu Seznam hlasový asistent, je potřeba ji zapnout v nastavení aplikace a udělit jí přístup k mikrofonu vašeho zařízení.
+Po úspěšném zapnutí mikrofon snímá zvuky z okolí vašeho mobilního zařízení a vyhodnocuje, zda jste vyslovili klíčové slovo pro aktivaci služby, a to i když není spuštěná aplikace Seznam.cz. Vyhodnocení klíčového slova probíhá lokálně na zařízení. Z této fáze nevznikají žádné záznamy a žádné informace se neukládají a neodesílají.
+V okamžiku, kdy aplikace zachytí klíčové slovo „Sezname“, aktivuje se nahrávání, které zaznamená nejbližší promluvu. Tu odešle prostřednictvím Google Cloud Speech API k vyhodnocení na servery společnosti Google, kde proběhne přepis záznamu do textové podoby. Výsledný text aplikace vyhodnotí a na základě obsahu sdělení zareaguje provedením požadované funkce. Pokud se jedná o příkaz pro prvky chytré domácnosti, odešle aplikace tento příkaz v textové podobě třetí straně, která chytrou domácnost provozuje.
+Zpracování hlasového záznamu společností Google se řídí podmínkami pro platformu Google Cloud.
+O četnosti a způsobu využívání služby Hlasový asistent si za účelem dalšího zlepšování a rozvoje uchováváme anonymizovaná textová data, která jsou zaznamenaná v takové podobě, ve které není možné spojit je s konkrétní osobou.
+Statistiky využití a zprávy o selhání
+Do společnosti Seznam.cz můžete odesílat statistiky využití a zprávy o selhání. Pomůžete nám tak vylepšovat naše služby. V Seznam Prohlížeči je odesílání statistik využití a zpráv o selhání ve výchozím nastavení zapnuté. Statistiky využití obsahují informace, jako jsou předvolby, kliknutí na tlačítka, využití paměti nebo adresy webových stránek. Zprávy o selhání obsahují informace o systému v době selhání a mohou zahrnovat adresy webových stránek nebo identifikaci uživatele (e-mailovou adresu, přes kterou jste do prohlížeče přihlášeni) a identifikátory v Seznam prohlížeči. Souhrnné, neosobní informace ze zpráv o selhání můžeme sdílet se třetími stranami.
+Cookies
+Využíváme cookies – cookie je krátký textový soubor, který navštívená webová stránka odešle do prohlížeče. Umožňuje webu zaznamenat informace o vaší návštěvě, preferovaný jazyk a další nastavení. Příští návštěva stránek pro vás tak může být snazší a produktivnější. Cookies slouží k celé řadě účelů. Používáme je například k ukládání vašich nastavení bezpečného vyhledávání, k výběru relevantních reklam, ke sledování počtu návštěvníků na stránce, k usnadnění registrace nových služeb a k ochraně vašich dat.
+Kontaktní údaje a správa uložených údajů
+Tyto zásady ochrany soukromí platí pro zpracování údajů vývojáře mobilní aplikace Seznam.cz pro operační systémy Android a iOS, kterým je společnost Seznam.cz.
+Historii prohlížení, data stránek, soubory cookies, uložená hesla a data formulářů můžete smazat pomocí příslušné funkce v nastavení aplikace.
+Žádost o smazání vašeho uživatelského profilu a vymazání všech souvisejících osobních údajů můžete odeslat prostřednictvím formuláře. Pokud máte dotaz týkající se ochrany údajů, použijte prosím e-mailovou adresu ochranaudaju@firma.seznam.cz.
+Ochrana osobních údajů
+Aplikace Classic Praha
+Aplikace Expres FM
+Aplikace TV program
+Email
+Firmy.cz
+Kupi.cz
+Médium.cz
+Mapy.cz
+Novinky.cz
+Sauto.cz
+Sbazar.cz
+Sdovolená.cz
+Seznam Účet
+Seznam Diskuze
+Seznam Doporučuje
+Seznam Výzkumník
+Seznam Zprávy
+Seznam.cz
+Aplikace
+Prohlížeč
+Sklik.cz
+Sport.cz
+Sreality.cz
+Stream.cz
+Uchazeč o zaměstnání
+Volná místa
+Vyhledávání
+Zboží.cz

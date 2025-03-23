@@ -1,0 +1,99 @@
+Datenschutz
+Datenschutzerklärung für oesterreich.gv.at und die
+App
+"Digitales Amt"
+Zweck der Datenschutzerklärung
+Das Bundeskanzleramt (BKA) steht zu seiner Verpflichtung, Ihre persönlichen Daten zu schützen. In dieser Erklärung erläutern wir, welche Daten im Zuge der Benutzung von oesterreich.gv.at wie erhoben werden und wofür wir diese Daten verwenden.
+Das
+BKA
+ist Verantwortlicher gemäß Artikel 24
+ff
+Datenschutzgrundverordnung (DSGVO) betreffend der bei Ihnen erhobenen Daten.
+Wofür gilt diese Erklärung?
+Diese Erklärung gilt für die Website oesterreich.gv.at, alle Unterseiten und die App "Digitales Amt".
+Erfassung von Daten
+Ihre Daten werden für die folgenden Zwecke
+bzw.
+durch die folgenden Datenverarbeitungsvorgänge erfasst.
+Cookies
+Cookies sind kleine Textdateien, die auf dem Gerät der Anfragenden gespeichert werden, um diese wiederzuerkennen. So dienen die in den Cookies enthaltenen Informationen der Sitzungssteuerung oder diese stellen technisch unbedingt benötigte Informationen für die jeweilige Funktionalität dar.
+www.oesterreich.gv.at: diese Domäne repräsentiert den nicht-angemeldeten Bereich von oesterreich.gv.at und verwendet keine Cookies
+www.help.gv.at: diese Domäne wird für die Behördensuche und Formularsuche verwendet und benötigt die technisch notwendigen Cookies "gemeindecode" und "JSESSIONID"
+eid.oesterreich.gv.at: diese Domäne wird für die Anmeldeprozedur verwendet und benötigt dafür die technisch notwendigen Cookies "UNIQUE_ID" und "JSESSIONID"
+secure.oesterreich.gv.at: diese Domäne repräsentiert den angemeldeten Bereich von oesterreich.gv.at und verwendet für die Sitzungssteuerung das Cookie "_shibsession_xxxxxxxxxx", wobei "xxxxxxxxxxx" ein generierter hexadezimaler Wert ist
+Log-Daten
+Jeder Ihrer Zugriffe wird in einer Protokolldatei (Serverlog) für einen Zeitraum von 6 Monaten mit folgenden Log-Daten gespeichert:
+IP
+-Adresse der/des Anfragenden
+Aufrufmethode (GET, HEAD, PUT)
+Zieladresse ohne HOST
+Protokoll mit Version (
+z.B.
+HTTP/1.1)
+Name der abgerufenen Datei und übertragene Datenmenge
+Datum und Uhrzeit des Abrufs
+Meldung, ob der Abruf erfolgreich war
+Bearbeitungsdauer des Requests in Mikrosekunden
+Verwendeter Useragent
+Verwendete SSL-Version
+Referrer
+Diese Daten dienen der Überprüfung der Systemsicherheit, Fehleranalyse und statistischen Zwecken.
+Wir behalten uns vor, bei Angriffen auf die Internetinfrastruktur des
+BKA
+eine personenbezogene Auswertung oder Profilbildung vorzunehmen.
+Analyse-Tool Matomo
+Die Website und die App nutzen das Open-Source-Tool Matomo für statistische Zwecke, dazu werden die Log-Daten in das Tool Matomo geladen und dabei anonymisiert. Mit Matomo werden keine Daten an Server übermittelt, die außerhalb der Kontrolle des Bundeskanzleramts (BKA) liegen.
+Chatbot
+Um eine stetige Verbesserung des Antwortverhaltens zu gewährleisten, werden mittels User-Anfragen generierte Dialoge/Daten zur Steigerung der Service-Qualität verarbeitet.
+Automatisiert über die ID Austria oder Signaturkarte
+Für die Verwendung bestimmter Services im angemeldeten Bereich ist eine ID Austria oder Signaturkarte notwendig.
+Folgende Daten werden bei Verwendung Ihrer ID Austria oder Signaturkarte auf der Website oder in der App verarbeitet:
+Vorname
+Familienname
+Geburtsdatum
+bereichsspezifisches Personenkennzeichen sowie abhängig vom jeweiligen Verfahren weitere den Verfahrensbereichen entsprechende verschlüsselte bereichsspezifische Personenkennzeichen, das/die mit Hilfe der ID Austria oder Signaturkarte gebildet werden
+txID (Identifikationsnummer), die bei der Anmeldung mit der ID Austria vom System vergeben wird und bis zum Ausstieg erhalten bleibt
+Signatur-Service der A-Trust in der App
+Die Verwendung personenbezogener Daten durch
+A-Trust
+erfolgt gemäß den einschlägigen datenschutzrechtlichen Bestimmungen, insbesondere den Vorgaben der Datenschutz-Grundverordnung (DSGVO). Die Verwendung von Daten erfolgt ausschließlich zum Zweck der Vertragserfüllung oder auf gesetzlicher Grundlage. Die Kundin/der Kunde nimmt zustimmend zur Kenntnis, dass folgende Datenarten für die Erbringung der vertragsgegenständlichen Services erforderlich sind und verarbeitet werden:
+Name (Vorname/Vornamen, Familienname/Familiennamen), Telefonnummer, Zertifikatsseriennummer, Zertifikatsgültigkeitsdauer, Zeitpunkte der Signaturvorgänge, Domain der Signaturempfänger, Unique ID, Push ID, zu signierendes Dokument, Vertragsdatum.
+Feedback-Funktion
+Um auf Basis der Rückmeldung von Nutzerinnen/Nutzern die Plattform oesterreich.gv.at und die App "Digitales Amt" kontinuierlich zu verbessern, besteht die Möglichkeit, Feedback abzugeben. Dabei kann allgemein oder bezogen auf ein bestimmtes digitales Amtsservice eine Bewertung und ein offener Kommentar abgegeben werden, letzterer wird im Klartext gespeichert. Die Feedbackabgabe ist anonym, es werden keine Informationen zur bewertenden Person gespeichert (außer die Person gibt selbst personenbezogene Daten in das Kommentarfeld ein).
+Push-Nachrichten in der App
+Push-Nachrichten (Notifications) des "Digitalen Amts" werden über Firebase Cloud Messaging (FCM) versendet. Bei der Verwendung von iOS erfolgt der Versand zusätzlich über das Apple Push Notification Service (APNs). Dabei ist die Option, Google Analytics zu verwenden, deaktiviert.
+Damit die Nachrichten an den jeweiligen Adressaten verschickt werden können, wird eine nicht personenbezogene ID für die App generiert und in FCM – bei iOS zusätzlich in APNs – sowie im Push Notification Service der App verarbeitet.
+Um die Funktion Push-Nachrichten benutzen zu können, müssen Sie dies der App erlauben.
+Dazu öffnet die App einen Betriebssystem-Dialog nachdem Sie die Nutzungsbedingungen akzeptiert haben. Sie können in den System-Einstellungen jederzeit Ihre Auswahl ändern, müssen jedoch zum Wirksamwerden in die App zurückwechseln.
+Speicherung der Daten
+Die Daten werden in der Bundesrechenzentrum
+GmbH
+(BRZ GmbH), dem
+IT
+-Dienstleister der Österreichischen Bundesverwaltung, gespeichert. Kopien gibt es ausschließlich für den zentralen Backup-Prozess der Bundesrechenzentrum
+GmbH
+(BRZ GmbH). Zugriff auf die Daten haben die Systemadministratorinnen/Systemadministratoren der
+BRZ
+GmbH
+, die für den technischen Betrieb zuständig sind. Der Zugriff auf diese Daten erfolgt entsprechend der
+DSGVO
+, dem Datenschutzgesetz (DSG) und dieser Datenschutzerklärung, ausschließlich im Einzelfall.
+Eine Weitergabe erfolgt nicht.
+Betroffenenrechte
+Sie haben das Recht auf Auskunft über die Sie betreffenden personenbezogenen Daten sowie auf Berichtigung oder Löschung oder auf Einschränkung der Verarbeitung oder eines Widerspruchsrechts gegen die Verarbeitung sowie das Recht auf Datenübertragbarkeit.
+Wenn Sie der Auffassung sind, dass Ihren Rechten nicht oder nicht ausreichend nachgekommen wird, haben Sie die Möglichkeit einer Beschwerde bei der Datenschutzbehörde.
+Kontaktdaten
+Verantwortliche Abteilung: Bundeskanzleramt Österreich
+Sektion VII Digitalisierung und E-Government
+Abteilung VII/4  – E-Government Bürger
+Ballhausplatz 2
+A-1010 Wien
+Datenschutzbeauftragte des Bundeskanzleramtes:
+Bundeskanzleramt Österreich,
+Datenschutzbeauftragte
+Ballhausplatz 2, 1010 Wien
+E-Mail:
+datenschutz@bka.gv.at
+Letzte Aktualisierung: 2. Mai 2024
+Für den Inhalt verantwortlich:
+Bundeskanzleramt

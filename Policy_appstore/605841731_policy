@@ -1,0 +1,957 @@
+Privacy supplement for Skype for Business for iOS
+Last updated: October 2015
+Contents
+Privacy supplement for Skype for Business for iOS
+Call Delegation (Call Forwarding/Simultaneous Ring)
+Client-side Logging
+Contact Card
+Conversation History
+Customer Experience Improvement Program (CEIP)
+Desktop and Application Sharing
+Emergency Services
+Location Sharing
+Personal Picture
+PowerPoint Collaboration
+Presence and Contact Information
+Privacy Mode
+Send As Email
+Send Logs
+Sign-in Error Reporting
+Unified Contact Store
+Voice Quality Improvements
+Privacy supplement for Skype for Business for iOS
+This is a supplement to the
+Privacy Statement for Microsoft Lync 2013 Products
+
+. In order to understand the data collection and use practices relevant for a particular Microsoft Lync product or service, you should read both the Privacy statement for Microsoft Lync products and this supplement.
+This privacy supplement addresses the deployment and use of Microsoft Lync 2013 for iPhone on your enterprise’s mobile devices. If you’re using Microsoft Lync Server communications software as a service (in other words, if a third party [for example, Microsoft] is hosting the servers on which the software runs), information will be transmitted to that third party. To learn more about the use of data that is transmitted from your enterprise to that third party, check with your enterprise administrator or your service provider.
+Top of Page
+Call Delegation (Call Forwarding/Simultaneous Ring)
+What This Feature Does
+: Call delegation lets users assign one or more delegate(s) that can make or answer calls, and set up and join Lync Meetings on your behalf. Users can also choose to automatically forward calls to voice mail, another number or delegate, or simultaneously ring both their primary number and an alternate number such as a mobile device, delegate, or call-group.
+Information Collected, Processed, or Transmitted
+: When assigning delegates, delegate contact information must be provided by the user during the configuration process. Users who are set up as delegates receive a notification informing them that someone in their organization has designated them as a delegate. When delegate(s) answer a call on behalf of the person who has assigned them as a delegate, that person receives an email notification informing them about this event. No information is sent to Microsoft.
+Use of Information
+: Lync uses the delegate’s contact information to allow them to make or receive calls and schedule or join meetings on behalf of the person to whom they are a delegate.
+Choice/Control
+: By default, call delegation is off and it can be enabled or disabled as follows:
+In Lync for iPhone, on the
+My Info
+tab, tap
+Call Forwarding
+.
+Tap your current call forwarding setting and, from the list of options that appears, select
+Delegates
+.
+Note:
+Only previously defined delegates are available on the mobile device. Delegates must be configured from the Lync desktop client.
+Top of Page
+Client-side Logging
+What This Feature Does
+: Client-side logging enables you to log your Lync for iPhone usage information. The information can be used for troubleshooting any issues you might experience with the Lync for iPhone.
+Information Collected, Processed, or Transmitted
+: When client-side logging is enabled, information such as your device ID, user alias and domain, presence data, message details, logon history, Contacts list, and client configuration data are stored locally on your device. The contents of your Lync conversations are not stored. No information is sent to Microsoft.
+Use of Information
+: The information collected in the client-side logs can be used by your enterprise’s customer support, or can be sent to Microsoft to help troubleshoot issues (see the Send Logs section).
+Choice/Control
+: By default, client-side logging is off and it can be enabled or disabled as follows:
+In Lync for iPhone, on the
+My Info
+tab, tap
+Options
+.
+Select
+Logging
+from the list of options.
+On the
+Logging
+options page, slide the
+Logging
+toggle to
+On
+.
+Top of Page
+Contact Card
+What This Feature Does
+: The contact card displays contact, presence, and location information about you and the people within your enterprise. The contact card also provides one-step to communicate using instant messaging, email, or phone.
+Information Collected, Processed, or Transmitted
+: Contact card information is collected from several locations. Static information such as your name, building, and office number are collected from the enterprise’s corporate directory (such as Active Directory Domain Services). Dynamic information such as calendar free/busy information is retrieved from Microsoft Exchange Server and location information is retrieved in several ways (see the Location section). Phone numbers can be retrieved from the corporate directory or entered manually by the user. Presence information is managed by Lync using the Outlook calendar (if enabled by the user), or entered manually by the user. No information is sent to Microsoft.
+Use of Information
+: Contact card information is shared with the people in your organization by Lync Server.
+Choice/Control
+: Contacts are managed from the Lync desktop client.
+Top of Page
+Conversation History
+What This Feature Does
+: Conversation History stores your instant message conversations in secure storage on your device.
+Information Collected, Processed, or Transmitted
+: Conversation History stores the content of your instant-message conversations and statistics about your voice conversations such as date, time, duration, and caller details locally on your device. Instant message conversation history created by Lync for iPhone is not stored in your Outlook Conversation History folder. No information is sent to Microsoft.
+Use of Information
+: Lync displays this information on the Chats tab in the main user interface, which enables users to view and continue their past conversations.
+Choice/Control
+: Conversation History is enabled and disabled by your enterprise administrator. Conversation History can be deleted as follows:
+From the
+Chats
+tab, tap
+Edit
+.
+Select the conversation(s) you want to delete, tap
+Delete
+.
+Top of Page
+Customer Experience Improvement Program (CEIP)
+What This Feature Does
+: If you choose to participate, the Customer Experience Improvement Program (CEIP) collects basic information about how you use your programs, your computer or device, and connected devices. We also collect information about how each is set up and performing. These reports are sent to Microsoft to help improve the features our customers use most often and to create solutions to common problems. CEIP also collects the type and number of errors you encounter, software and hardware performance, and the speed of services. Microsoft does not collect your name, address, or other contact information.
+Information Collected, Processed, or Transmitted
+: CEIP information is automatically sent to Microsoft when the feature is turned on. For more information about the Information Collected, Processed, or Transmitted by CEIP, see the
+Privacy Statement for the Microsoft Customer Experience Improvement Program
+
+.
+Use of Information
+: Microsoft uses this information to improve the quality, reliability, and performance of Microsoft software and services.
+Choice/Control
+: CEIP is off by default. The enterprise administrator can enable or disable CEIP for their organization. If the enterprise administrator has not configured CEIP for the organization, the user will be given the opportunity to sign up during the initial installation process. If the enterprise administrator has not disabled the CEIP control, users can change their CEIP choice at any time using the following steps:
+In Lync for iPhone, on the
+My Info
+tab, tap
+Options
+.
+On the
+Options
+page, select
+Help us improve Lync
+.
+On the
+Help us improve Lync
+page, slide the toggle to
+On
+or
+Off
+.
+Note:
+If the administrator changes the setting to enable or disable CEIP while the user is already using Lync, the new setting will take effect only after the user exits Lync and signs back in.
+Top of Page
+Desktop and Application Sharing
+What This Feature Does
+: Desktop and Application Sharing lets users collaborate over video chat while also sharing their desktop or selected application with everyone in the meeting. This enables them to share and edit files as if they were in the same room as their colleagues. Users can also deliver Microsoft PowerPoint presentations (see the PowerPoint Collaboration section) and collaborate with others on a virtual whiteboard, which is a fresh page for notes and drawings that everyone in the meeting can use together. When a user initially shares their desktop or an application, they are the only one in control. If the user chooses, they can allow other users to take control of their shared desktop or application, navigate, and make changes using their own mouse and keyboard.
+Information Collected, Processed, or Transmitted
+: If sharing is initiated by another meeting participant, iPhone users can see the shared desktop or application on their screen. No information is sent to Microsoft.
+Use of Information
+: The information shared is used by meeting participants to collaborate over video.
+Choice/Control
+: Lync for iPhone users can only view the desktop or application that is shared by another meeting participant. They cannot take control of or interact with the shared desktop or application, nor can they share the desktop or applications running on iPhone with other meeting participants.
+Top of Page
+Emergency Services
+Important:
+We recommend that you
+DO NOT
+use Lync for iPhone to contact an emergency services provider, such as 911 in the United States. Lync for iPhone
+DOES NOT
+have the ability to determine your actual physical location. Therefore, if you use Lync for iPhone to contact emergency services providers, the providers will not be able to determine your location. To contact emergency services providers from your device, close Lync for iPhone, and use your device’s dial pad.
+Top of Page
+Location Sharing
+What This Feature Does
+: Location Sharing shares your time zone with others by using the presence functionality of the contact card when Privacy Mode is enabled (see the Privacy Mode section).
+Important:
+Your actual physical location cannot be determined by Lync for iPhone. DO NOT use Lync for iPhone to dial an emergency service provider, such as 911. Use your device’s dial pad.
+Information Collected, Processed, or Transmitted
+: Your time zone is retrieved from the mobile device’s operating system and shared with your Lync contacts. No information is sent to Microsoft.
+Use of Information
+: Location sharing displays your location to your contacts and the people within your organization in the contact card. Be aware that no other information—such as your geographic location, formatted address, or civic address—is shared through presence.
+Choice/Control
+: Location Sharing is enabled and disabled by your enterprise administrator and can be managed from the Lync desktop client.
+Top of Page
+Personal Picture
+What This Feature Does
+: Personal picture displays your picture to your contacts and the people within your organization in the contact card.
+Information Collected, Processed, or Transmitted
+: Your personal picture can be uploaded by your organization’s administrator or yourself (if enabled) and stored in your organization’s directory (such as Active Directory). It is retrieved by Lync for sharing with your contacts and other users within your organization. No information is sent to Microsoft.
+Use of Information:
+The personal picture is used to customize your experience and to share your picture with others.
+Choice/Control
+: Personal picture settings are managed from the Lync desktop client.
+Top of Page
+PowerPoint Collaboration
+What This Feature Does
+: PowerPoint Collaboration lets users show, view, and annotate PowerPoint presentations during an online conversation or meeting.
+Information Collected, Processed, or Transmitted
+: If a PowerPoint presentation is being shared by another meeting participant, Lync for iPhone users can view the presentation on their device. They won’t be able to take control of or interact with the presentation. No information is sent to Microsoft.
+Use of Information
+: The information shared is used by meeting participants to collaborate over video.
+Choice/Control
+: iPhone users can only view a PowerPoint presentation being shared by another meeting participant. They cannot upload, annotate, or share PowerPoint presentations from their device.
+Top of Page
+Presence and Contact Information
+What This Feature Does
+: Presence and contact information lets users view presence and contact information of other members of their organization as well as their personal contacts (both inside and outside the organization). Your administrator can also configure integration with Outlook and Exchange Server in order to display out-of-office messages, and other status information (for example, when you have a meeting scheduled in your Outlook calendar).
+Information Collected, Processed, or Transmitted
+: You use your sign-in address and a password to connect to Lync Server. You and your administrator can publish information about your presence status and contact information that is associated with your sign-in address. No information is sent to Microsoft.
+Use of Information
+: Other Lync users and programs can access your presence and contact information to determine your published status and information to better communicate with you.
+Choice/Control
+: Presence and contact information settings are managed from the Lync desktop client.
+Top of Page
+Privacy Mode
+What This Feature Does
+: Privacy Mode is a setting that allows users to determine how much of their presence information (such as Available, Busy, Do Not Disturb, and so on) they will share with contacts listed in their Contacts list.
+Information Collected, Processed, or Transmitted
+: Enabling Privacy Mode causes Lync to enter a mode in which a user can adjust user settings so that their presence information is shared only with contacts in your Contacts list. No information is sent to Microsoft.
+Use of Information
+: The setting allows the user to determine how their presence data is shared.
+Choice/Control
+: Privacy Mode is off by default, can be enabled and disabled by your enterprise administrator and is managed from the Lync desktop client.
+Top of Page
+Send As Email
+What This Feature Does
+: Send as Email allows the user to send their Lync for iPhone conversation history as an attachment to a user-designated email address.
+Information Collected, Processed, or Transmitted
+: The 50 most recent incoming and outgoing conversations are stored locally on the device in isolated storage indefinitely unless: 1) the user deletes the conversation, 2) the user uninstalls the application, or 3) a new user signs in on the same device. Instant message history sent using the Send as Email feature is delivered in the form of an email message to the email address designated by the user. No information is sent to Microsoft.
+Use of Information
+: Users can send their conversation history as an email attachment to their designated email address, making conversations available outside the device for purposes such as archiving or sharing.
+Choice/Control
+: To use Send As Email the user must have email enabled on their device. For information about how to enable and configure email, see the device’s user guide.
+Instant message conversation history is sent as follows:
+From the
+Chats Window
+tap the
+Actions
+button in the navigation bar.
+Select
+Send as Email
+from the menu.
+Enter the destination email address to send the history to anyone other than yourself.
+Tap
+Send
+.
+Top of Page
+Send Logs
+What This Feature Does
+: Send Logs allows the user to send the client-side logs to Microsoft to help investigate any audio or connectivity issues that might be encountered (see the Client-side Logging section).
+Information Collected, Processed, or Transmitted
+: If client-side logging is enabled, only the information that client-side logging collects is sent. Client-side logs aren’t automatically sent from your device. Instead, logs are sent only when logging has been enabled on your device (see the Client-side Logging section).
+Use of Information
+: The information collected from your device is used to help troubleshoot the problem that you encountered, and to help improve Lync.
+Choice/Control
+: To use Send Logs the user must have email enabled on their device. For information about how to enable and configure email, see the device’s user guide.
+Client-side logs can be sent as follows:
+In Lync for iPhone, on the
+My Info
+tab, tap
+Options
+.
+Select
+Logging
+from the list of options.
+On the
+Logging
+options page, tap
+Send Log Files
+.
+In the email form that opens with the logs attached, type the destination email address, and then tap
+Send
+.
+Top of Page
+Sign-in Error Reporting
+What This Feature Does
+: The Sign-in Error Reporting feature automatically generates an error report when a user unsuccessfully tries to sign in to Lync. The user then will be given the option to send the error report to Microsoft.
+Information Collected, Processed, or Transmitted
+: The information collected in the error report contains information such as the quality of the user’s Internet connection and any error codes or exception data generated as a result of the failed sign-in attempts. The report may also contain personally identifiable information such as the user’s IP address and Session Initiation Protocol Uniform Resource Identifier (SIP URI). This information may be sent to Microsoft.
+Use of Information
+: The data contained in the Sign-in Error Report is used by Microsoft to help troubleshoot logon issues. It will also be used by Microsoft to identify common logon issues, and trends to help improve the Lync logon experience.
+Choice/Control
+: By default, this feature is off and can be managed by the enterprise administrator. The administrator can choose to always send or never send the sign-in error report to Microsoft, or to allow the user to decide.
+The user can change their preferences as follows:
+In Lync for iPhone, on the
+My Info
+tab, tap
+Options
+.
+Select
+Logging
+from the list of options.
+On the
+Logging
+options page, tap “
+Upload Sign-in Errors.
+”
+Select the setting you want─ “Always”, “Never”, or “Ask Me.”
+Top of Page
+Unified Contact Store
+What This Feature Does
+: The Unified Contact Store consists of three main features. The following are available in Lync for iPhone:
+Search Merge
+–Merges your Global Address List (GAL) with your personal Outlook contacts so that when you search for a contact, there will be only a single entry in the search results.
+Contact Merge
+– Aggregates contact information between Outlook and GAL entries using matching email and/or sign-in identifiers. Once a match is determined, Lync aggregates data from three data sources (Outlook, GAL, and presence). This aggregated data is displayed in various user interface components, including search results, your Contacts list, and a contact card.
+Information
+Collected, Processed, or Transmitted
+: Lync for iPhone aggregates contact information from Outlook, Active Directory Domain Services, presence, and iPhone. This information is used internally by Lync for iPhone.
+Use of Information
+: Contact information from Outlook, Active Directory Domain Services, presence, and iPhone is shown in the Lync for iPhone UI.
+Choice/Control
+: Unified Contact Store settings are managed from the Lync desktop client.
+Top of Page
+Voice Quality Improvements
+What This Feature Does
+: Lync sends information to remote parties if it detects device or network issues during a call, to indicate that you may have poor voice quality.
+Information Collected, Processed, or Transmitted
+: If you have a device setup that is adding poor audio in a call (for example, echo or noise), Lync also inform others in the call that the quality of the call is being degraded because of the device setup at your end. Others are only shown a notification that you are using a device that is causing poor audio quality. They don't know what device you’re using. No information is sent to Microsoft.
+Use of Information
+: The information sent to others in the call helps them improve the quality of the call. For example, presenters can mute your line if you’re just listening in on the call.
+Choice/Control
+: Lync doesn’t allow you to turn off call quality notifications.
+Top of Page
+Read article in browser
+Was this helpful?
+Yes
+No
+Sub-section Policy: 
+Sub-policy 0
+https://support.office.com/f1/article/988a2e6b-ccfb-4406-9aad-a5c76207261e?authtype=unknown&isentrypoint=false&locale=en-us&ns=LYMOBIPH15&version=15#__toc299026304:
+Privacy supplement for Skype for Business for iOS
+Last updated: October 2015
+Contents
+Privacy supplement for Skype for Business for iOS
+Call Delegation (Call Forwarding/Simultaneous Ring)
+Client-side Logging
+Contact Card
+Conversation History
+Customer Experience Improvement Program (CEIP)
+Desktop and Application Sharing
+Emergency Services
+Location Sharing
+Personal Picture
+PowerPoint Collaboration
+Presence and Contact Information
+Privacy Mode
+Send As Email
+Send Logs
+Sign-in Error Reporting
+Unified Contact Store
+Voice Quality Improvements
+Privacy supplement for Skype for Business for iOS
+This is a supplement to the
+Privacy Statement for Microsoft Lync 2013 Products
+
+. In order to understand the data collection and use practices relevant for a particular Microsoft Lync product or service, you should read both the Privacy statement for Microsoft Lync products and this supplement.
+This privacy supplement addresses the deployment and use of Microsoft Lync 2013 for iPhone on your enterprise’s mobile devices. If you’re using Microsoft Lync Server communications software as a service (in other words, if a third party [for example, Microsoft] is hosting the servers on which the software runs), information will be transmitted to that third party. To learn more about the use of data that is transmitted from your enterprise to that third party, check with your enterprise administrator or your service provider.
+Top of Page
+Call Delegation (Call Forwarding/Simultaneous Ring)
+What This Feature Does
+: Call delegation lets users assign one or more delegate(s) that can make or answer calls, and set up and join Lync Meetings on your behalf. Users can also choose to automatically forward calls to voice mail, another number or delegate, or simultaneously ring both their primary number and an alternate number such as a mobile device, delegate, or call-group.
+Information Collected, Processed, or Transmitted
+: When assigning delegates, delegate contact information must be provided by the user during the configuration process. Users who are set up as delegates receive a notification informing them that someone in their organization has designated them as a delegate. When delegate(s) answer a call on behalf of the person who has assigned them as a delegate, that person receives an email notification informing them about this event. No information is sent to Microsoft.
+Use of Information
+: Lync uses the delegate’s contact information to allow them to make or receive calls and schedule or join meetings on behalf of the person to whom they are a delegate.
+Choice/Control
+: By default, call delegation is off and it can be enabled or disabled as follows:
+In Lync for iPhone, on the
+My Info
+tab, tap
+Call Forwarding
+.
+Tap your current call forwarding setting and, from the list of options that appears, select
+Delegates
+.
+Note:
+Only previously defined delegates are available on the mobile device. Delegates must be configured from the Lync desktop client.
+Top of Page
+Client-side Logging
+What This Feature Does
+: Client-side logging enables you to log your Lync for iPhone usage information. The information can be used for troubleshooting any issues you might experience with the Lync for iPhone.
+Information Collected, Processed, or Transmitted
+: When client-side logging is enabled, information such as your device ID, user alias and domain, presence data, message details, logon history, Contacts list, and client configuration data are stored locally on your device. The contents of your Lync conversations are not stored. No information is sent to Microsoft.
+Use of Information
+: The information collected in the client-side logs can be used by your enterprise’s customer support, or can be sent to Microsoft to help troubleshoot issues (see the Send Logs section).
+Choice/Control
+: By default, client-side logging is off and it can be enabled or disabled as follows:
+In Lync for iPhone, on the
+My Info
+tab, tap
+Options
+.
+Select
+Logging
+from the list of options.
+On the
+Logging
+options page, slide the
+Logging
+toggle to
+On
+.
+Top of Page
+Contact Card
+What This Feature Does
+: The contact card displays contact, presence, and location information about you and the people within your enterprise. The contact card also provides one-step to communicate using instant messaging, email, or phone.
+Information Collected, Processed, or Transmitted
+: Contact card information is collected from several locations. Static information such as your name, building, and office number are collected from the enterprise’s corporate directory (such as Active Directory Domain Services). Dynamic information such as calendar free/busy information is retrieved from Microsoft Exchange Server and location information is retrieved in several ways (see the Location section). Phone numbers can be retrieved from the corporate directory or entered manually by the user. Presence information is managed by Lync using the Outlook calendar (if enabled by the user), or entered manually by the user. No information is sent to Microsoft.
+Use of Information
+: Contact card information is shared with the people in your organization by Lync Server.
+Choice/Control
+: Contacts are managed from the Lync desktop client.
+Top of Page
+Conversation History
+What This Feature Does
+: Conversation History stores your instant message conversations in secure storage on your device.
+Information Collected, Processed, or Transmitted
+: Conversation History stores the content of your instant-message conversations and statistics about your voice conversations such as date, time, duration, and caller details locally on your device. Instant message conversation history created by Lync for iPhone is not stored in your Outlook Conversation History folder. No information is sent to Microsoft.
+Use of Information
+: Lync displays this information on the Chats tab in the main user interface, which enables users to view and continue their past conversations.
+Choice/Control
+: Conversation History is enabled and disabled by your enterprise administrator. Conversation History can be deleted as follows:
+From the
+Chats
+tab, tap
+Edit
+.
+Select the conversation(s) you want to delete, tap
+Delete
+.
+Top of Page
+Customer Experience Improvement Program (CEIP)
+What This Feature Does
+: If you choose to participate, the Customer Experience Improvement Program (CEIP) collects basic information about how you use your programs, your computer or device, and connected devices. We also collect information about how each is set up and performing. These reports are sent to Microsoft to help improve the features our customers use most often and to create solutions to common problems. CEIP also collects the type and number of errors you encounter, software and hardware performance, and the speed of services. Microsoft does not collect your name, address, or other contact information.
+Information Collected, Processed, or Transmitted
+: CEIP information is automatically sent to Microsoft when the feature is turned on. For more information about the Information Collected, Processed, or Transmitted by CEIP, see the
+Privacy Statement for the Microsoft Customer Experience Improvement Program
+
+.
+Use of Information
+: Microsoft uses this information to improve the quality, reliability, and performance of Microsoft software and services.
+Choice/Control
+: CEIP is off by default. The enterprise administrator can enable or disable CEIP for their organization. If the enterprise administrator has not configured CEIP for the organization, the user will be given the opportunity to sign up during the initial installation process. If the enterprise administrator has not disabled the CEIP control, users can change their CEIP choice at any time using the following steps:
+In Lync for iPhone, on the
+My Info
+tab, tap
+Options
+.
+On the
+Options
+page, select
+Help us improve Lync
+.
+On the
+Help us improve Lync
+page, slide the toggle to
+On
+or
+Off
+.
+Note:
+If the administrator changes the setting to enable or disable CEIP while the user is already using Lync, the new setting will take effect only after the user exits Lync and signs back in.
+Top of Page
+Desktop and Application Sharing
+What This Feature Does
+: Desktop and Application Sharing lets users collaborate over video chat while also sharing their desktop or selected application with everyone in the meeting. This enables them to share and edit files as if they were in the same room as their colleagues. Users can also deliver Microsoft PowerPoint presentations (see the PowerPoint Collaboration section) and collaborate with others on a virtual whiteboard, which is a fresh page for notes and drawings that everyone in the meeting can use together. When a user initially shares their desktop or an application, they are the only one in control. If the user chooses, they can allow other users to take control of their shared desktop or application, navigate, and make changes using their own mouse and keyboard.
+Information Collected, Processed, or Transmitted
+: If sharing is initiated by another meeting participant, iPhone users can see the shared desktop or application on their screen. No information is sent to Microsoft.
+Use of Information
+: The information shared is used by meeting participants to collaborate over video.
+Choice/Control
+: Lync for iPhone users can only view the desktop or application that is shared by another meeting participant. They cannot take control of or interact with the shared desktop or application, nor can they share the desktop or applications running on iPhone with other meeting participants.
+Top of Page
+Emergency Services
+Important:
+We recommend that you
+DO NOT
+use Lync for iPhone to contact an emergency services provider, such as 911 in the United States. Lync for iPhone
+DOES NOT
+have the ability to determine your actual physical location. Therefore, if you use Lync for iPhone to contact emergency services providers, the providers will not be able to determine your location. To contact emergency services providers from your device, close Lync for iPhone, and use your device’s dial pad.
+Top of Page
+Location Sharing
+What This Feature Does
+: Location Sharing shares your time zone with others by using the presence functionality of the contact card when Privacy Mode is enabled (see the Privacy Mode section).
+Important:
+Your actual physical location cannot be determined by Lync for iPhone. DO NOT use Lync for iPhone to dial an emergency service provider, such as 911. Use your device’s dial pad.
+Information Collected, Processed, or Transmitted
+: Your time zone is retrieved from the mobile device’s operating system and shared with your Lync contacts. No information is sent to Microsoft.
+Use of Information
+: Location sharing displays your location to your contacts and the people within your organization in the contact card. Be aware that no other information—such as your geographic location, formatted address, or civic address—is shared through presence.
+Choice/Control
+: Location Sharing is enabled and disabled by your enterprise administrator and can be managed from the Lync desktop client.
+Top of Page
+Personal Picture
+What This Feature Does
+: Personal picture displays your picture to your contacts and the people within your organization in the contact card.
+Information Collected, Processed, or Transmitted
+: Your personal picture can be uploaded by your organization’s administrator or yourself (if enabled) and stored in your organization’s directory (such as Active Directory). It is retrieved by Lync for sharing with your contacts and other users within your organization. No information is sent to Microsoft.
+Use of Information:
+The personal picture is used to customize your experience and to share your picture with others.
+Choice/Control
+: Personal picture settings are managed from the Lync desktop client.
+Top of Page
+PowerPoint Collaboration
+What This Feature Does
+: PowerPoint Collaboration lets users show, view, and annotate PowerPoint presentations during an online conversation or meeting.
+Information Collected, Processed, or Transmitted
+: If a PowerPoint presentation is being shared by another meeting participant, Lync for iPhone users can view the presentation on their device. They won’t be able to take control of or interact with the presentation. No information is sent to Microsoft.
+Use of Information
+: The information shared is used by meeting participants to collaborate over video.
+Choice/Control
+: iPhone users can only view a PowerPoint presentation being shared by another meeting participant. They cannot upload, annotate, or share PowerPoint presentations from their device.
+Top of Page
+Presence and Contact Information
+What This Feature Does
+: Presence and contact information lets users view presence and contact information of other members of their organization as well as their personal contacts (both inside and outside the organization). Your administrator can also configure integration with Outlook and Exchange Server in order to display out-of-office messages, and other status information (for example, when you have a meeting scheduled in your Outlook calendar).
+Information Collected, Processed, or Transmitted
+: You use your sign-in address and a password to connect to Lync Server. You and your administrator can publish information about your presence status and contact information that is associated with your sign-in address. No information is sent to Microsoft.
+Use of Information
+: Other Lync users and programs can access your presence and contact information to determine your published status and information to better communicate with you.
+Choice/Control
+: Presence and contact information settings are managed from the Lync desktop client.
+Top of Page
+Privacy Mode
+What This Feature Does
+: Privacy Mode is a setting that allows users to determine how much of their presence information (such as Available, Busy, Do Not Disturb, and so on) they will share with contacts listed in their Contacts list.
+Information Collected, Processed, or Transmitted
+: Enabling Privacy Mode causes Lync to enter a mode in which a user can adjust user settings so that their presence information is shared only with contacts in your Contacts list. No information is sent to Microsoft.
+Use of Information
+: The setting allows the user to determine how their presence data is shared.
+Choice/Control
+: Privacy Mode is off by default, can be enabled and disabled by your enterprise administrator and is managed from the Lync desktop client.
+Top of Page
+Send As Email
+What This Feature Does
+: Send as Email allows the user to send their Lync for iPhone conversation history as an attachment to a user-designated email address.
+Information Collected, Processed, or Transmitted
+: The 50 most recent incoming and outgoing conversations are stored locally on the device in isolated storage indefinitely unless: 1) the user deletes the conversation, 2) the user uninstalls the application, or 3) a new user signs in on the same device. Instant message history sent using the Send as Email feature is delivered in the form of an email message to the email address designated by the user. No information is sent to Microsoft.
+Use of Information
+: Users can send their conversation history as an email attachment to their designated email address, making conversations available outside the device for purposes such as archiving or sharing.
+Choice/Control
+: To use Send As Email the user must have email enabled on their device. For information about how to enable and configure email, see the device’s user guide.
+Instant message conversation history is sent as follows:
+From the
+Chats Window
+tap the
+Actions
+button in the navigation bar.
+Select
+Send as Email
+from the menu.
+Enter the destination email address to send the history to anyone other than yourself.
+Tap
+Send
+.
+Top of Page
+Send Logs
+What This Feature Does
+: Send Logs allows the user to send the client-side logs to Microsoft to help investigate any audio or connectivity issues that might be encountered (see the Client-side Logging section).
+Information Collected, Processed, or Transmitted
+: If client-side logging is enabled, only the information that client-side logging collects is sent. Client-side logs aren’t automatically sent from your device. Instead, logs are sent only when logging has been enabled on your device (see the Client-side Logging section).
+Use of Information
+: The information collected from your device is used to help troubleshoot the problem that you encountered, and to help improve Lync.
+Choice/Control
+: To use Send Logs the user must have email enabled on their device. For information about how to enable and configure email, see the device’s user guide.
+Client-side logs can be sent as follows:
+In Lync for iPhone, on the
+My Info
+tab, tap
+Options
+.
+Select
+Logging
+from the list of options.
+On the
+Logging
+options page, tap
+Send Log Files
+.
+In the email form that opens with the logs attached, type the destination email address, and then tap
+Send
+.
+Top of Page
+Sign-in Error Reporting
+What This Feature Does
+: The Sign-in Error Reporting feature automatically generates an error report when a user unsuccessfully tries to sign in to Lync. The user then will be given the option to send the error report to Microsoft.
+Information Collected, Processed, or Transmitted
+: The information collected in the error report contains information such as the quality of the user’s Internet connection and any error codes or exception data generated as a result of the failed sign-in attempts. The report may also contain personally identifiable information such as the user’s IP address and Session Initiation Protocol Uniform Resource Identifier (SIP URI). This information may be sent to Microsoft.
+Use of Information
+: The data contained in the Sign-in Error Report is used by Microsoft to help troubleshoot logon issues. It will also be used by Microsoft to identify common logon issues, and trends to help improve the Lync logon experience.
+Choice/Control
+: By default, this feature is off and can be managed by the enterprise administrator. The administrator can choose to always send or never send the sign-in error report to Microsoft, or to allow the user to decide.
+The user can change their preferences as follows:
+In Lync for iPhone, on the
+My Info
+tab, tap
+Options
+.
+Select
+Logging
+from the list of options.
+On the
+Logging
+options page, tap “
+Upload Sign-in Errors.
+”
+Select the setting you want─ “Always”, “Never”, or “Ask Me.”
+Top of Page
+Unified Contact Store
+What This Feature Does
+: The Unified Contact Store consists of three main features. The following are available in Lync for iPhone:
+Search Merge
+–Merges your Global Address List (GAL) with your personal Outlook contacts so that when you search for a contact, there will be only a single entry in the search results.
+Contact Merge
+– Aggregates contact information between Outlook and GAL entries using matching email and/or sign-in identifiers. Once a match is determined, Lync aggregates data from three data sources (Outlook, GAL, and presence). This aggregated data is displayed in various user interface components, including search results, your Contacts list, and a contact card.
+Information
+Collected, Processed, or Transmitted
+: Lync for iPhone aggregates contact information from Outlook, Active Directory Domain Services, presence, and iPhone. This information is used internally by Lync for iPhone.
+Use of Information
+: Contact information from Outlook, Active Directory Domain Services, presence, and iPhone is shown in the Lync for iPhone UI.
+Choice/Control
+: Unified Contact Store settings are managed from the Lync desktop client.
+Top of Page
+Voice Quality Improvements
+What This Feature Does
+: Lync sends information to remote parties if it detects device or network issues during a call, to indicate that you may have poor voice quality.
+Information Collected, Processed, or Transmitted
+: If you have a device setup that is adding poor audio in a call (for example, echo or noise), Lync also inform others in the call that the quality of the call is being degraded because of the device setup at your end. Others are only shown a notification that you are using a device that is causing poor audio quality. They don't know what device you’re using. No information is sent to Microsoft.
+Use of Information
+: The information sent to others in the call helps them improve the quality of the call. For example, presenters can mute your line if you’re just listening in on the call.
+Choice/Control
+: Lync doesn’t allow you to turn off call quality notifications.
+Top of Page
+Read article in browser
+Was this helpful?
+Yes
+No
+Sub-policy 1
+http://office.microsoft.com/en-us/support/privacy-statement-for-microsoft-lync-2013-products-ha102762331.aspx:
+Trace Id is missing
+Get the power of AI with Copilot and Designer now in Microsoft 365 Personal and Family.
+Learn more
+How it works
+How it works
+Featured news
+What’s included
+Plans
+Customer stories
+See plans and pricing
+Try for free
+See plans and pricing
+Try for free
+​Reimagine what’s possible with AI-powered features
+1
+in Microsoft 365. Edit photos and videos like a pro, turn simple ideas into stunning designs, and overcome writer’s block with confidence and ease.
+Safeguard your photos, documents, phones, tablets, and computers with security tools and features designed to help keep your digital life secure.
+Elevate your expectations with AI-powered features
+1
+in Microsoft 365. Get started seamlessly, focus on tasks, and stay on track with apps and cloud storage across your devices.
+Learn more about Microsoft 365 for home
+Copilot
+Microsoft 365 Personal and Family now includes AI
+The Microsoft 365 you know and love is better than ever before, with new AI-powered features.
+1
+Read the blog
+Designer
+Unleash your creativity with Microsoft Designer
+Powered by AI, the Designer app is now generally available.
+Read the blog
+Copilot
+Copilot
+Copilot, your AI companion, is ready to support you whenever and wherever you need it.
+Try Copilot
+Copilot
+Get priority access
+Enjoy priority access during peak times, get higher usage limits, and use Copilot in your favorite apps, like Word, Excel, PowerPoint, and Outlook.
+Explore Copilot Pro
+Explore all apps
+Top picks
+More apps
+Previous
+Next
+Apps to manage your everyday
+Get the apps, security, and cloud storage you need to accomplish your goals.
+Word
+Elevate your writing and create beautiful documents—anywhere, anytime.
+Learn more
+Designer
+Create, design, and edit anything you can imagine in seconds with AI.
+2
+Learn more
+Outlook
+Manage your email, calendar, tasks, and contacts in one location.
+Learn more
+Microsoft 365 Copilot app
+Find your apps and tools in one place with access to AI-powered features.
+Learn more
+Microsoft Defender
+Safeguard your personal data and devices with an easy-to-use app. Requires a Microsoft 365 Personal or Family plan.
+Learn more
+OneDrive
+Save and share your files and photos, wherever you go.
+Learn more
+Apps to elevate your everyday
+Get the apps, security, and cloud storage you need to accomplish your goals.
+PowerPoint
+Turn your inspiration into stunning presentations.
+Learn more
+Microsoft Editor
+Elevate your writing with real-time, intelligent writing assistance.
+Learn more
+Clipchamp
+Create beautiful videos with ease.
+Learn more
+OneNote
+Store all of your ideas in one place.
+Learn more
+Excel
+Turn data into insights and simplify complex data into easy-to-read spreadsheets.
+Learn more
+Microsoft Teams
+Not just for work or school—connect and collaborate with anyone, anytime.​
+Learn more
+Back to tabs
+Designer
+Microsoft 365
+Microsoft Defender
+Previous
+Next
+Design and edit anything you can imagine with AI
+2
+Designer
+Better than ever before
+Get advanced security, more cloud storage, and premium apps with AI
+1
+designed to help you achieve the extraordinary.
+Everyday online security and protection
+Microsoft Defender
+Back to tabs
+Yearly
+Monthly
+Previous
+Next
+Showing 1-2 of 4 slides
+Previous Slide
+Next Slide
+Microsoft 365 Family
+€129.00
+/year
+Subscription automatically renews unless canceled in Microsoft account.
+See terms
+.
+Learn more
+See plans and pricing
+For up to six people
+Sign in to five devices at once
+Use on PCs, Macs, phones, and tablets
+5
+Up to 6 TB of secure cloud storage (1 TB per person)
+Word, Excel,
+3
+PowerPoint, Outlook,
+4
+and OneNote desktop apps with Microsoft Copilot
+2
+Data and device security
+Ad-free secure email
+Designer AI-powered image creator and editor
+2
+Word - Elevate your writing with helpful editing assistance and easy collaboration tools.
+Excel - Simplify complex data and create easy-to-read spreadsheets.​
+PowerPoint - Easily create polished presentations that stand out.​
+Outlook - Manage your email, calendar, tasks, and contacts together in one place.​
+OneNote - Revise notes with text, highlighting, or ink annotations across all your devices.​
+OneDrive - Save, access, edit, and share files and photos wherever you are.​
+Microsoft Defender - Get advanced security for your personal data and devices.
+Designer - Create, design, and edit anything you can imagine in seconds with AI.
+Clipchamp - Create and edit professional-looking videos quickly and easily.<br>
+Microsoft 365 Personal
+€99.00
+/year
+Subscription automatically renews unless canceled in Microsoft account.
+See terms
+.
+Learn more
+See plans and pricing
+For one person
+Sign in to five devices at once
+Use on PCs, Macs, phones, and tablets
+5
+1 TB of secure cloud storage
+Word, Excel,
+3
+PowerPoint, Outlook,
+4
+and OneNote desktop apps with Microsoft Copilot
+2
+Data and device security
+Ad-free secure email
+Designer AI-powered image creator and editor
+2
+Word - Elevate your writing with helpful editing assistance and easy collaboration tools.
+Excel - Simplify complex data and create easy-to-read spreadsheets.
+PowerPoint - Easily create polished presentations that stand out.
+Outlook - Manage your email, calendar, tasks, and contacts together in one place.
+OneNote - Revise notes with text, highlighting, or ink annotations across all your devices.​
+OneDrive - Save, access, edit, and share files and photos wherever you are.​
+Microsoft Defender - Get advanced security for your personal data and devices.
+Designer - Create, design, and edit anything you can imagine in seconds with AI.
+Clipchamp - Create and edit professional-looking videos quickly and easily.​
+Microsoft 365 Basic
+€20.00
+/year
+Subscription automatically renews unless canceled in Microsoft account.
+See terms
+.
+Learn more
+See plans and pricing
+For one person
+Use on multiple devices at the same time
+Works on web, iOS, and Android
+5
+100 GB of secure cloud storage
+Ransomware protection for photos and files in OneDrive
+Ad-free secure Outlook web and mobile email and calendar
+5
+Contact support experts to get help when you need it
+Outlook - Manage your email, calendar, tasks, and contacts together in one place.​
+OneDrive - Save, access, edit, and share files and photos wherever you are.​
+Microsoft 365
+Free
+Create a free account
+For one person
+5 GB cloud storage
+Works on web, iOS, and Android
+5
+Web and mobile versions of Word, Excel, PowerPoint, OneNote, OneDrive, and more apps
+5
+Ad-supported Outlook email and calendar
+Back to carousel navigation controls
+Showing 1-4 of 4 slides
+Previous Slide
+Next Slide
+Microsoft 365 Family
+€13.00
+/month
+Subscription automatically renews unless canceled in Microsoft account.
+See terms
+.
+Learn more
+See plans and pricing
+For up to six people
+Sign in to five devices at once
+Use on PCs, Macs, phones, and tablets
+5
+Up to 6 TB of secure cloud storage (1 TB per person)
+Word, Excel,
+3
+PowerPoint, Outlook,
+4
+and OneNote desktop apps with Microsoft Copilot
+2
+Data and device security
+Ad-free secure email
+Designer AI-powered image creator and editor
+2
+Word - Elevate your writing with helpful editing assistance and easy collaboration tools.
+Excel - Simplify complex data and create easy-to-read spreadsheets.​
+PowerPoint - Easily create polished presentations that stand out.​
+Outlook - Manage your email, calendar, tasks, and contacts together in one place.​
+OneNote - Revise notes with text, highlighting, or ink annotations across all your devices.​
+OneDrive - Save, access, edit, and share files and photos wherever you are.​
+Microsoft Defender - Get advanced security for your personal data and devices.
+Designer - Create, design, and edit anything you can imagine in seconds with AI.
+Clipchamp - Create and edit professional-looking videos quickly and easily.
+Microsoft 365 Personal
+€10.00
+/month
+Subscription automatically renews unless canceled in Microsoft account.
+See terms
+.
+Learn more
+See plans and pricing
+For one person
+Sign in to five devices at once
+Use on PCs, Macs, phones, and tablets
+5
+1 TB of secure cloud storage
+Word, Excel,
+3
+PowerPoint, Outlook,
+4
+and OneNote desktop apps with Microsoft Copilot
+2
+Data and device security
+Ad-free secure email
+Designer AI-powered image creator and editor
+2
+Word - Elevate your writing with helpful editing assistance and easy collaboration tools.
+Excel - Simplify complex data and create easy-to-read spreadsheets.​
+PowerPoint - Easily create polished presentations that stand out.​
+Outlook - Manage your email, calendar, tasks, and contacts together in one place.​
+OneNote - Revise notes with text, highlighting, or ink annotations across all your devices.​
+OneDrive - Save, access, edit, and share files and photos wherever you are.​
+Microsoft Defender - Get advanced security for your personal data and devices.
+Designer - Create, design, and edit anything you can imagine in seconds with AI.
+Clipchamp - Create and edit professional-looking videos quickly and easily.​
+Microsoft 365 Basic
+€2.00
+/month
+Subscription automatically renews unless canceled in Microsoft account.
+See terms
+.
+Learn more
+See plans and pricing
+For one person
+Use on multiple devices at the same time
+Works on web, iOS, and Android
+5
+100 GB of secure cloud storage
+Ransomware protection for photos and files in OneDrive
+Ad-free secure Outlook web and mobile email and calendar
+5
+Contact support experts to get help when you need it
+Outlook - Manage your email, calendar, tasks, and contacts together in one place.​
+OneDrive - Save, access, edit, and share files and photos wherever you are.​
+Microsoft 365
+Free
+Create a free account
+For one person
+5 GB cloud storage
+Works on web, iOS, and Android
+5
+Web and mobile versions of Word, Excel, PowerPoint, OneNote, OneDrive, and more apps
+5
+Ad-supported Outlook email and calendar
+Back to carousel navigation controls
+Back to tabs
+Previous Slide
+Next Slide
+"I work with data, so I understand [its] importance for very large, organized [projects]. So having that toolset […] available for my kids is just incredibly powerful.”
+—Abid Hussain, father
+“Microsoft 365 allows my family to do professional-level work at home.”
+—Bruce Walton, father
+"Microsoft 365 helps us spend more time together as a family to make the most of our 365 by keeping us connected as a busy family with growing kids and hectic schedules."
+—Kristan Kenney, father
+“I’ve been able to grow with Word, where I’ve been using it for creative purposes but also … for my academic purposes.”
+—Sabiha Shaik, student
+”Having the ability to create, collaborate, and communicate in a very seamless way makes our family’s day to day more efficient.”
+—Terrell and Jarius Joseph, parents and social media influencers
+Back to CUSTOMER STORIES section
+Get started
+Choose your plan
+Create, share, and collaborate with your favorite apps—all in one place.
+See plans and pricing
+Try for free
+App availability varies by device/language. Features vary by platform.
+[1]
+Microsoft 365 Personal or Family subscription required; AI features only available to subscription owner and cannot be shared; usage limits apply.
+Learn more
+.
+[2]
+AI usage limits apply; AI features only available to subscription owner and cannot be shared.
+Learn more
+.
+[3]
+Copilot in Excel requires AutoSave to be enabled, meaning the file must be saved to OneDrive; it doesn't function with unsaved files.
+[4]
+Copilot features in Outlook apply to accounts with @outlook.com, @hotmail.com, @live.com, or @msn.com email addresses and are available in Outlook.com, Outlook built into Windows, Outlook on Mac, and iOS and Android apps.
+[5]
+Availability of mobile apps varies by country/region.
+Follow Microsoft 365
+Sub-policy 2
+http://www.microsoft.com/products/ceip/en-us/privacypolicy.mspx:
+Thank you for your patience
+We are currently experiencing high demand. Please wait and try again later.
+ID: 18.ed9ad817.1741523203.51db0bca

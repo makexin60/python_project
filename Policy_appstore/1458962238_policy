@@ -1,0 +1,19 @@
+Gear Browser
+Privacy Policy
+# How Gear Protects User Data
+Gear Browser prioritizes user privacy by storing sensitive data locally on the device. This includes browsing history, bookmarks, download lists, and top site data, all stored securely in the device's database.
+When browsing websites, Gear respects privacy settings but acknowledges that websites may use cookies, web databases, and session data for various purposes. Users are encouraged to review the privacy policies of visited websites to understand how such data is utilized.
+Additionally, cookies, web databases, session data, and auto-fill passwords are managed locally by WKWebView, an integral part of the iOS operating system. Gear does not share, upload, modify, or record any user data to external servers or third-party entities.
+For user convenience, Gear provides options to clear bookmarks, browsing history, and download lists via the Lists. Furthermore, users can clear cookies, web databases, and session data through the Settings menu, ensuring complete control over personal data management.
+Customization scripts and style data, available with Gear Pro, are stored locally and are cleared upon uninstallation, enhancing user privacy and security.
+# Ads Blocking
+Gear's ad-blocking feature enhances browsing speed and user experience by blocking advertising scripts and hiding ad elements during page loading. However, it's important to note that some advertising tracking scripts may evade detection. Users are advised to familiarize themselves with the privacy policies of visited websites to understand potential tracking practices.
+# Private Mode
+In private mode, Gear automatically resets browsing history, cookies, web databases, and session data with each new session. This ensures that no traces of browsing activity are retained after the window is closed, maintaining user privacy and anonymity.
+# Analytics
+Gear utilizes Firebase Analytics, powered by Google, to analyze user interaction and usage patterns, helping us improve the application's overall experience. Rest assured, Gear does not share any user data with Google or any third-party companies.
+# Third-party Services
+Gear utilizes the following third-party services:
+Firebase
+RevenueCat
+These services adhere to strict privacy standards and are committed to safeguarding user data.

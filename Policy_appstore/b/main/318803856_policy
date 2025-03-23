@@ -1,0 +1,58 @@
+Email
+headspace@flatblackfilms.com
+if you need help.
+Privacy Policy:  We do not collect any information from our users.  The full version of Headspace uses Dropbox to allow backup and sharing between your devices, but nothing of your information is ever sent back to Flat Black Films.  If you have any questions please email
+headspace@flatblackfilms.com
+.
+Check the
+Headspace Blog
+for more info about the app.
+Here’s a link to the somewhat outdated, unprofessional
+YouTube demonstration
+.
+Here’s a link to a newer but less instructive
+video
+with annoying music.
+Update Version Information
+2.3.1    A year or so later ... the below-mentioned VGA out does not prevent the newer devices from streaming to Airplay anymore.  iOS6 / iPhone 5 support.
+.
+.
+the string of updates between 1.87 and 3.31 added the Dropbox ability, font-color changing, new linkball-UI, flick-gestures, file search, regular search ...
+.
+.
+1.87:  due to popular demand, added video/VGA out.  View Headspace on TV!  (with attached video cable at iOS 3.2 or later)
+1.86:  Added PDF export.  Output 2D approximations of your maps as vector PDF files!
+FAQ: Frequently Asked Questions
+Q: I downloaded Freemind but my Headspace files don’t appear when I open them.
+Freemind is currently stuck between an old ‘stable’ version 0.8.1 from 2008 and an eternal ‘beta’ 0.9.0.  Because the beta has more features, we went with its file format, not knowing that it would still be beta in 2010!  So you need to download a 0.9.0 version of Freemind to use Headspace files.  You can find it at the bottom of the Freemind download page, or here:
+http://sourceforge.net/projects/freemind/files/freemind-unstable/
+Q: I can’t understand or see what the last 3 options of the preferences menu in the lite version do. Can you explain please?  Thanks.
+Auto-Orient' -- this refers to how Headspace behaves when you tilt the device.  With the setting off, then tilting the phone simply tilts the model in space accordingly.  If you tilt it slightly, the model will rotate slightly and stay there.  With the setting on, then the app automatically 'corrects' itself as you tilt the phone slightly.  It will temporarily rotate, but then will drift back into its default rotation.
+'2D orthographic view' -- this was added for people who did not like the 3D perspective.  In this mode, the 3D perspective transformation is not applied, so things do not get smaller as they recede into the distance.  If you are looking at the model from the front, then the model appears to be flat, in 2D.
+'Indent Items' -- This was added mostly for people who are using the 2D mode.  It causes children of items to appear indented (shifted slightly to the right), like in an outline for a paper.  Normally, child items appear a little smaller because they are further back in depth.  But in 2D orthographic mode, that does not happen and so you can't really tell parents from children items.  The indention allows you to see the hierarchy.
+Q: There needs to be some kind of ‘home view’.  I spend too much time manipulating the view.
+One thing you can do is use the nothing button menu.  If you use that to travel to a group, it should return you to the last view you used of that particular group.
+Also the red ‘target’ button will always recenter the whole space within your view.
+Q: Why can’t I enter items in Japanese/Russian/Korean etc?
+With version 1.5, you should be able to do this!  Let me know if it does not work for you.
+Q: The autorotation is too sensitive, it gets annoying!
+Sorry -- I am going to see about some way to dampen it or restrict it.  It has never bothered me personally, so that’s why it’s the way it is.
+For now, you can turn off the accelerometer in the preferences -- then just use two fingers to rotate around.
+Q: The ‘.hs’ file from Headspace Lite doesn’t work in Freemind.
+If you are using Headspace Lite, you can export your ‘space’ and import it into the full version.  However this ‘.hs’ file is not usable in Freemind.  It is only for getting your data into the full version of Headspace.  Once you are using Headspace proper, that’s when it exports and imports Freemind compatible (.mm) files.
+Q:  I get the export email and enter the import URL in Safari, but it doesn’t work.
+A couple of people are receiving the export email attachments *on their phone* and are trying to use the import function from there.  This will not work.  You have to do that with a laptop or desktop on the same wireless network as the phone.  (This is because file storage on a touch/phone doesn’t work like a regular desktop.  You can’t save files to the phone hard drive and load them back at will from other apps. )
+Q: I’m having trouble with the export/import.
+So, when Headspace/HeadspaceLite exports a file, you need to
+1) Receive that email from Headspace on a regular computer.
+1)
+Save the attachment to the desktop or somewhere on the computer’s hard drive.
+2)
+Launch a browser on your regular computer and go to the URL shown on Headspace’s import screen.  Usually there are three addresses shown.  I have always used the one that looks like http://192.157.362.217:58004 (ie, an IP address.  I’m not sure myself what those other addresses are for.)
+3)
+Hopefully that address takes you to a simple page where you can choose the file from wherever you saved it on your machine, click ‘Submit’, and it will br transferred into Headspace.
+4)
+Yeah, it is a clunky procedure.  But because Apple is so protective about files going into/out of the phone, this was pretty much the only way to do it for now.
+Q:  How do you load an old file after you have started a new one?
+One person emailed me and said that they didn’t realize how to load a previously saved file once they started on a new one.  I will make this clearer in the documentation.  Basically, though, you use the menu button at the bottom center of the screen (the “nothing” button).  Hold that and you see where it says “file menu” on the left?   Slide your finger onto that and you will see a popup of all your files.
+copyright 2010 Flat Black Films, Inc.

@@ -1,0 +1,252 @@
+MAME4droid (0.139u1): Privacy policy
+Welcome to the MAME4droid (0.139u1) Emulator app for Android!
+This is an open source Android app developed by Seleuco (D.Valdeita). The source code is available on GitHub; the app is also available on Google Play.
+As an avid Android user myself, I take privacy very seriously.
+I know how irritating it is when apps collect your data without your knowledge.
+I hereby state, to the best of my knowledge and belief, that
+I have not programmed this app to collect any personally identifiable information
+. All data created by the you (the user) is stored on your device only, and can be simply erased by clearing the app's data or uninstalling it.
+Explanation of permissions requested in the app
+The list of permissions required by the app can be found in the
+AndroidManifest.xml
+file:
+Permission
+Why it is required
+android.permission.VIBRATE
+Required to vibrate the device when touch control is used. Permission automatically granted by the system; can't be revoked by user.
+android.permission.INTERNET
+Required to retrieve network address to host netplay games. Permission automatically granted by the system; can't be revoked by user.
+android.permission.READ_EXTERNAL_STORAGE
+The only two sensitive permission that the app requests, and can be revoked by the system or the user at any time. This is required to write ROMS data on external storage.
+android.permission.READ_EXTERNAL_STORAGE
+The only two sensitive permission that the app requests, and can be revoked by the system or the user at any time. This is required to read ROMS on external storage.
+If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protectes your privacy, please send me an email or post a discussion on GitHub, and I will surely try to fix it/help you.
+Yours sincerely,
+Seleuco.
+seleuco.nicator@gmail.comMAME4droid (0.139u1): Privacy policy
+Welcome to the MAME4droid (0.139u1) Emulator app for Android!
+This is an open source Android app developed by Seleuco (D.Valdeita). The source code is available on GitHub; the app is also available on Google Play.
+As an avid Android user myself, I take privacy very seriously.
+I know how irritating it is when apps collect your data without your knowledge.
+I hereby state, to the best of my knowledge and belief, that
+I have not programmed this app to collect any personally identifiable information
+. All data created by the you (the user) is stored on your device only, and can be simply erased by clearing the app's data or uninstalling it.
+Explanation of permissions requested in the app
+The list of permissions required by the app can be found in the
+AndroidManifest.xml
+file:
+Permission
+Why it is required
+android.permission.VIBRATE
+Required to vibrate the device when touch control is used. Permission automatically granted by the system; can't be revoked by user.
+android.permission.INTERNET
+Required to retrieve network address to host netplay games. Permission automatically granted by the system; can't be revoked by user.
+android.permission.READ_EXTERNAL_STORAGE
+The only two sensitive permission that the app requests, and can be revoked by the system or the user at any time. This is required to write ROMS data on external storage.
+android.permission.READ_EXTERNAL_STORAGE
+The only two sensitive permission that the app requests, and can be revoked by the system or the user at any time. This is required to read ROMS on external storage.
+If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protectes your privacy, please send me an email or post a discussion on GitHub, and I will surely try to fix it/help you.
+Yours sincerely,
+Seleuco.
+seleuco.nicator@gmail.com
+Sub-section Policy: 
+Sub-policy 0
+https://github.com/seleuco/MAME4droid-0.139u1-/commit/13b5a2407210f50e2eaf3772f40697f0ebf57243:
+seleuco
+/
+MAME4droid-0.139u1-
+Public
+Notifications
+You must be signed in to change notification settings
+Fork
+29
+Star
+81
+Code
+Issues
+11
+Pull requests
+0
+Actions
+Projects
+0
+Security
+Insights
+Additional navigation options
+Code
+Issues
+Pull requests
+Actions
+Projects
+Security
+Insights
+File tree
+1
+file
+changed
++
+32
+-
+0
+lines changed
+Top
+PRIVACY_POLICY.md
+1 file changed
++32
+-0
+lines changed
+Original file line number
+Diff line number
+Diff line change
+@@ -0,0 +1,32 @@
+1
++
+##
+MAME4droid (0.139u1): Privacy policy
+2
++
+3
++
+Welcome to the MAME4droid (0.139u1) Emulator app for Android!
+4
++
+5
++
+This is an open source Android app developed by Seleuco (D.Valdeita). The source code is available on GitHub; the app is also available on Google Play.
+6
++
+7
++
+As an avid Android user myself, I take privacy very seriously.
+8
++
+I know how irritating it is when apps collect your data without your knowledge.
+9
++
+10
++
+I hereby state, to the best of my knowledge and belief, that <
+b
+>I have not programmed this app to collect any personally identifiable information</
+b
+>. All data created by the you (the user) is stored on your device only, and can be simply erased by clearing the app's data or uninstalling it.
+11
++
+12
++
+###
+Explanation of permissions requested in the app
+13
++
+14
++
+The list of permissions required by the app can be found in the
+`
+AndroidManifest.xml
+`
+file:
+15
++
+16
++
+<
+br
+/>
+17
++
+18
++
+|
+Permission
+|
+Why it is required
+|
+19
++
+|
+:---:
+|
+---
+|
+20
++
+|
+`
+android.permission.VIBRATE
+`
+|
+Required to vibrate the device when touch control is used. Permission automatically granted by the system; can't be revoked by user.
+|
+21
++
+|
+`
+android.permission.INTERNET
+`
+|
+Required to retrieve network address to host netplay games. Permission automatically granted by the system; can't be revoked by user.
+|
+22
++
+|
+`
+android.permission.READ_EXTERNAL_STORAGE
+`
+|
+The only two sensitive permission that the app requests, and can be revoked by the system or the user at any time. This is required to write ROMS data on external storage.
+|
+23
++
+|
+`
+android.permission.READ_EXTERNAL_STORAGE
+`
+|
+The only two sensitive permission that the app requests, and can be revoked by the system or the user at any time. This is required to read ROMS on external storage.
+|
+24
++
+25
++
+26
++
+<
+hr
+style
+=
+"
+border
+:
+1
+px
+solid
+gray
+"
+>
+27
++
+28
++
+If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protectes your privacy, please send me an email or post a discussion on GitHub, and I will surely try to fix it/help you.
+29
++
+30
++
+Yours sincerely,
+31
++
+Seleuco.
+32
++
+seleuco.nicator@gmail.com
+0
+commit comments
+Comments
+0
+(
+0
+)
+Please
+sign in
+to comment.
+You can’t perform that action at this time.

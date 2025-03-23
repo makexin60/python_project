@@ -1,0 +1,17 @@
+This privacy policy applies to the apps titled “Contacts Sync” and “Contacts Sync Pro”.
+Overview
+As a client-side only app, this app syncs your contacts directly from your iPhone, iPad, or Mac, rather than a server in the cloud like many other apps.  The app only stores your contacts on your device and optionally in your existing accounts, such as Google, iCloud, and Outlook. The app does not store your contacts elsewhere, as the app respects your privacy.
+All traffic between this app and Apple, Google, or Microsoft runs over SSL/HTTPS (secured communication).  This app uses OAuth2, the latest security standard for authentication.
+After the app prompts you to log into Google or Microsoft, and the login succeeds, the app will receive a token from Google or Microsoft, rather than your password.  The app will then store this token along with your username.
+Your Apple, Google, and Microsoft passwords are not visible to this app.
+In order to sync your contacts, the app will request access to your Apple, Google, and Outlook contacts.  The app does not access your emails or calendars.
+Your contact data is accessed strictly for the purpose of syncing contacts between accounts.  It is not accessible to anyone, nor is it shared with anyone.
+With the optional “Location Assisted Sync” setting enabled, the app will request access to your location so as to trigger automatic syncs in the background.  The app does not use or store your location.
+Google User Data
+Contacts Sync uses the Google APIs for the following purposes:
+The app uses Google’s OAuth APIs for authentication
+The app uses Google’s People API in order to fetch and modify your contacts, so as to keep them in sync with another account, such as iCloud
+The app only stores your Google contacts on your device and optionally in your existing accounts, such as Google, iCloud, and Outlook.
+Your Google contacts are accessed strictly for the purpose of syncing contacts between accounts.  Your data is not accessible to anyone, nor is it shared with anyone.
+Changes to Privacy Policy
+We reserve the right to make changes to this Privacy Policy.

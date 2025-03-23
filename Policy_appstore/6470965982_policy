@@ -1,0 +1,31 @@
+Your Privacy with DNS Inspector
+We take extreme care & great pride in enshrining your privacy. This document describes what information you share when you use the app and how that information is used.
+Key Takeaways
+We do not track you or collect information about you.
+DNS Inspector does not require you to create an account or for you to provide us with your personal information to use the app.
+We do not use privacy-invading tracking software.
+DNS Inspector does not contain any 3rd party tracking software that invades your privacy. We do not collect any information about your device or how you use the app.
+We do not know anything about your queries.
+All information about the resources you query for are stored on your device and are never shared with us without your explicit consent.
+Policy Details
+This policy applies to the DNS Inspector software ("the app"). DNS Inspector is a tool designed for network and systems administrators to test & validate DNS configurations quickly and easily.
+We take extreme care & great pride in enshrining your privacy, this document describes what information is provided when you use the app and how the app uses that information.
+Information You Provide the App
+DNS Query & Server
+When you use the app, you provide a DNS query to perform. This query includes a DNS record type and DNS name. The app will then connect to the target DNS server to perform the query and collect the results. Like all internet connections, this will include the IP address of your device or your network, which can also infer an approximate geographical location.
+Important
+It's important that you use a DNS server that you trust and have reviewed their privacy policy. Some DNS Servers are configured to keep records of queries sent to them; a practice known as “logging”. This is outside of what DNS Inspector can control.
+Recent Queries
+By default, the app will store the last 5 queries on your device. This list is saved locally to your device and is not synchronized with any internet service. You can remove individual hosts from this list or disable this feature entirely from within the app.
+Application Logs
+The app records information related to the operation of the app in text files, known as "logs", on your device. During normal operation of the app, these logs only contain information about errors. Details about your DNS queries are not recorded. If you are experiencing problems using DNS Inspector, we may ask that you increase the verbosity of these logs by turning on "Debug Logging". When this setting is enabled, detailed information about your DNS queries are recorded. These log files are stored locally on your device and are never shared with anybody without your explicit action & consent.
+Information You Provide Us
+In normal use of the app, you do not provide any information to us. You may choose to contact the DNS Inspector team using E-Mail through links provided in the app or on this website. This is entirely optional and is subject to the normal privacy expectations with sending E-Mail messages.
+Questions or Comments
+You may email us with any questions or concerns at hello@dns-inspector.com.
+Policy version v1.0. Last updated
+2023-11-01
+. Effective
+immediately
+.
+View past policies.

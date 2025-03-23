@@ -1,0 +1,822 @@
+Last updated: Jan 18 2022
+Punch Through Design LLC (“Punch Through”, “the company”, “we” or “us”) built the LightBlue® app (“the app”, “the Service”) for Apple’s iOS and Google’s Android platforms as a free app. This Service is provided by Punch Through at no cost and is intended for use as is.
+This page is used to inform app users regarding our policies with the collection, use, and disclosure of Personal Information if anyone decides to use our Service.
+If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
+Information Collection and Use
+For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to Email Address. The information that we request will be retained by us and used as described in this privacy policy.
+The app does use third-party services that may collect information used to identify you. Link to the privacy policies of third-party service providers used by the app:
+Google Play Services:
+https://www.google.com/policies/privacy/
+Firebase Analytics:
+https://firebase.google.com/policies/analytics/
+Crashlytics:
+https://try.crashlytics.com/terms/privacy-policy.pdf
+Heap:
+https://heapanalytics.com/privacy
+Location Data (Android-only)
+The Android LightBlue® app requires high-precision location access for BLE scans to work. This is a platform limitation—your location data is never used directly by LightBlue®.
+Starting from Android 6.0, the Android operating system
+requires
+apps to be granted location access in order to scan for BLE devices. Starting from Android 10, this requirement
+became stricter
+—high-precision location access is now required for BLE scans. Android 12 and newer versions of Android let developers use a different set of Bluetooth permissions, but by omitting the location permission,
+some BLE beacons may not show up
+, so we have decided to keep location access as a required permission to use the app.
+Log Data
+In case of an error while using the Service, we may collect data and information (through third-party products) on your device, collectively known as Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics that may help us debug and investigate the error.
+Cookies
+Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your device internal memory.
+This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and to improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse these cookies, you may not be able to use some portions of this Service.
+Service Providers
+We employ the services of third-party companies and/or individuals due to the following reasons:
+To facilitate our Service;
+To provide the Service on our behalf;
+To perform Service-related services;
+To assist us in analyzing performance and stability of the Service; or
+To assist us in analyzing how our Service is used so that we may improve on it.
+These third-parties do have access to your Personal Information in order to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purposes, subject to provisions listed in their own Privacy Policies.
+Security
+We value your trust in providing us with your Personal Information, and we strive to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+Links to Other Sites
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+Children’s Privacy
+This Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. In the case if we discover that a child under 13 has provided us with personally identifiable information, we will take immediate action to delete that data from our servers. If you are a parent or guardian and you are aware that your child has provided us with personally identifiable information, please contact us at
+info@punchthrough.com
+so that we are able to assist with deletion of said data.
+Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+Contact Us
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at
+info@punchthrough.com
+.
+Sub-section Policy: 
+Sub-policy 0
+https://www.google.com/policies/privacy/:
+Privacy & Terms
+Overview
+Privacy Policy
+Terms of Service
+Technologies
+FAQ
+Google Account
+Privacy Policy
+Introduction
+Information Google collects
+Why Google collects data
+Your privacy controls
+Sharing your information
+Keeping your information secure
+Exporting & deleting your information
+Retaining your information
+Compliance & cooperation with regulators
+European requirements
+About this policy
+Related privacy practices
+Data transfer frameworks
+Key terms
+Partners
+Updates
+Google Privacy Policy
+When you use our services, you’re trusting us with your information. We understand this is a big responsibility and work hard to protect your information and put you in control.
+This Privacy Policy is meant to help you understand what information we collect, why we collect it, and how you can update, manage, export, and delete your information.
+If European Union or United Kingdom data protection law applies to the processing of your information, you can review the
+European requirements section
+below to learn more about your rights and Google’s compliance with these laws.
+Privacy Checkup
+Looking to change your privacy settings?
+Take the Privacy Checkup
+Effective September 16, 2024
+|
+Archived versions
+|
+Download PDF
+Contents
+Introduction
+Information Google collects
+Why Google collects data
+Your privacy controls
+Sharing your information
+Keeping your information secure
+Exporting & deleting your information
+Retaining your information
+Compliance & cooperation with regulators
+European requirements
+About this policy
+Related privacy practices
+We build a range of services that help millions of people daily to explore and interact with the world in new ways. Our services include:
+Google apps, sites, and devices, like Search, YouTube, and Google Home
+Platforms like the Chrome browser and Android operating system
+Products that are integrated into third-party apps and sites, like ads, analytics, and embedded Google Maps
+You can use our services in a variety of ways to manage your privacy. For example, you can sign up for a Google Account if you want to create and manage content like emails and photos, or see more relevant search results. And you can use many Google services when you’re signed out or without creating an account at all, like searching on Google or watching YouTube videos. You can also choose to browse the web in a private mode, like
+Chrome Incognito
+mode, which helps keep your browsing private from other people who use your device. And across our services, you can adjust your privacy settings to control whether we collect some types of data and how we use it.
+To help explain things as clearly as possible, we’ve added examples, explanatory videos, and definitions for
+key terms
+. And if you have any questions about this Privacy Policy, you can
+contact us
+.
+Information Google collects
+We want you to understand the types of information we collect as you use our services
+We collect information to provide better services to all our users — from figuring out basic stuff like which language you speak, to more complex things like which
+ads you’ll find most useful
+,
+the people who matter most to you online
+, or which YouTube videos you might like. The information Google collects, and how that information is used, depends on how you use our services and how you manage your privacy controls.
+When you’re not signed in to a Google Account, we store the information we collect with
+unique identifiers
+tied to the browser, application, or
+device
+you’re using. This allows us to do things like maintain your preferences across browsing sessions, such as your preferred language or whether to show you more relevant search results or ads based on your activity.
+When you’re signed in, we also collect information that we store with your Google Account, which we treat as
+personal information
+.
+Things you create or provide to us
+When you create a Google Account, you provide us with
+personal information
+that includes your name and a password. You can also choose to add a
+phone number
+or
+payment information
+to your account. Even if you aren’t signed in to a Google Account, you might choose to provide us with information — like an email address to communicate with Google or receive updates about our services.
+We also collect the content you create, upload, or receive from others when using our services.  This includes things like email you write and receive, photos and videos you save, docs and spreadsheets you create, and comments you make on YouTube videos.
+Information we collect as you use our services
+Your apps, browsers & devices
+We collect information about the apps, browsers, and
+devices
+you use to access Google services, which helps us provide features like automatic product updates and dimming your screen if your battery runs low.
+The information we collect includes
+unique identifiers
+, browser type and settings, device type and settings, operating system, mobile network information including carrier name and phone number, and application version number. We also collect information about the interaction of your apps, browsers, and devices with our services, including
+IP address
+, crash reports, system activity, and the date, time, and
+referrer URL
+of your request.
+We collect this information when a Google service on your device contacts our servers — for example, when you install an app from the Play Store or when a service checks for automatic updates. If you’re using an
+Android device with Google apps
+, your device periodically contacts Google servers to provide information about your device and connection to our services. This information includes things like your
+device type and carrier name
+, crash reports, which apps you've installed, and, depending on your device settings,
+other information about how you’re using your Android device
+.
+Your activity
+We collect information about your activity in our services, which we use to do things like recommend a YouTube video you might like. The activity information we collect may include:
+Terms you search for
+Videos you watch
+Views and interactions with content and ads
+Voice and audio information
+Purchase activity
+People with whom you communicate or share content
+Activity on third-party sites and apps that use our services
+Chrome browsing history you’ve
+synced with your Google Account
+If you use our
+services to make and receive calls or send and receive messages
+, we may collect call and message log information like your phone number, calling-party number, receiving-party number, forwarding numbers, sender and recipient email address, time and date of calls and messages, duration of calls, routing information, and types and volumes of calls and messages.
+You can visit your Google Account to find and manage activity information that’s saved in your account.
+Go to Google Account
+Your location information
+We collect location information when you use our services, which helps us offer features like driving directions, search results for things near you, and ads based on your location.
+Depending on the products you’re using and settings you choose, Google may use different types of location information to help make some services and products you use more helpful. These include:
+GPS and other
+sensor data from your device
+IP address
+Activity on Google services
+, such as from your searches or
+places you label like home or work
+Information about things near your device
+, such as Wi-Fi access points, cell towers, and Bluetooth-enabled devices
+The types of location data we collect and how long we store it depend in part on your device and account settings. For example, you can
+turn your Android device’s location on or off
+using the device’s settings app. You can also turn on
+Location History
+if you want to create a private map of where you go with your signed-in devices. And if your Web & App Activity setting is enabled, your searches and other activity from Google services, which may also include location information, is saved to your Google Account. Learn more about
+how we use location information
+.
+In some circumstances, Google also collects information about you from
+publicly accessible sources
+. For example, if your name appears in your local newspaper, Google’s Search engine may index that article and display it to other people if they search for your name. We may also collect information about you from trusted partners, such as directory services who provide us with business information to be displayed on Google’s services, marketing partners who provide us with information about potential customers of our business services, and security partners who provide us with information to
+protect against abuse
+. We also receive information from partners to provide
+advertising and research services on their behalf
+.
+We use various technologies to collect and store information, including
+cookies
+,
+pixel tags
+, local storage, such as
+browser web storage
+or
+application data caches
+, databases, and
+server logs
+.
+Why Google collects data
+We use data to build better services
+We use the information we collect from all our services for the following purposes:
+Provide our services
+We use your information to
+deliver our services
+, like processing the terms you search for in order to return results or helping you share content by suggesting recipients from your contacts.
+Maintain & improve our services
+We also use your information to
+ensure our services are working as intended
+, such as tracking outages or troubleshooting issues that you report to us. And we use your information to
+make improvements
+to our services — for example, understanding which search terms are most frequently misspelled helps us improve spell-check features used across our services.
+Develop new services
+We use the information we collect in existing services to help us develop new ones. For example, understanding how people organized their photos in Picasa, Google’s first photos app, helped us design and launch Google Photos.
+Provide personalized services, including content and ads
+We use the information we collect to customize our services for you, including providing recommendations, personalized content, and
+customized search results
+. For example,
+Security Checkup
+provides security tips adapted to how you use Google products. And, depending on your available settings, Google Play could use information like apps you’ve already installed and videos you’ve watched on YouTube to suggest new apps you might like.
+Depending on your settings, we may also show you
+personalized ads
+based on your interests and activity across Google services. For example, if you search for “mountain bikes,” you may see ads for sports equipment on YouTube. You can control what information we use to show you ads by visiting your ad settings in
+My Ad Center
+.
+We don’t show you personalized ads based on
+sensitive categories
+, such as race, religion, sexual orientation, or health.
+We don’t show you personalized ads based on your content from Drive, Gmail, or Photos.
+We don’t share information that personally identifies you with advertisers, such as your name or email, unless you ask us to. For example, if you see an ad for a nearby flower shop and select the “tap to call” button, we’ll connect your call and may share your phone number with the flower shop.
+Go to My Ad Center
+Measure performance
+We use data for analytics and measurement to understand how our services are used. For example, we analyze data about your visits to our sites to do things like optimize product design. And we also use data about the ads you interact with, including your related Google Search activity, to help advertisers understand the performance of their ad campaigns. We use a variety of tools to do this, including Google Analytics. When you visit sites or use apps that use Google Analytics, a Google Analytics customer may choose to enable Google to
+link information
+about your activity from that site or app with activity from other sites or apps that use our ad services.
+Communicate with you
+We use information we collect, like your email address, to interact with you directly. For example, we may send you a notification if we detect suspicious activity, like an attempt to sign in to your Google Account from an unusual location. Or we may let you know about upcoming changes or improvements to our services. And if you contact Google, we’ll keep a record of your request in order to help solve any issues you might be facing.
+Protect Google, our users, and the public
+We use information to help improve the
+safety and reliability
+of our services. This includes detecting, preventing, and responding to fraud, abuse, security risks, and technical issues that could harm Google, our users, or
+the public
+.
+We use different technologies to process your information for these purposes. We use automated systems that analyze your content to provide you with things like customized search results, personalized ads, or other features tailored to how you use our services. And we analyze your content to help us
+detect abuse
+such as spam, malware, and illegal content. We also use
+algorithms
+to recognize patterns in data. For example, Google Translate helps people communicate across languages by detecting common language patterns in phrases you ask it to translate.
+We may
+use the information we collect
+across our services and across your devices for the purposes described above. For example, depending on your available settings, if you watch videos of guitar players on YouTube, you might see an ad for guitar lessons on a site that uses our ad products. Depending on your account settings,
+your activity on other sites and apps
+may be associated with your personal information in order to improve Google’s services and the ads delivered by Google.
+If other users already have your email address or other information that identifies you, we may show them your publicly visible Google Account information, such as your name and photo. This helps people identify an email coming from you, for example.
+We’ll ask for your consent before using your information for a purpose that isn’t covered in this Privacy Policy.
+Sub-policy 1
+https://try.crashlytics.com/terms/privacy-policy.pdf:
+404.
+That’s an error.
+The requested URL
+/media/try.crashlytics.com/en//terms/privacy-policy.pdf
+was not found on this server.
+That’s all we know.
+Sub-policy 2
+https://heapanalytics.com/privacy:
+skip to content
+Over 10,000 businesses trust Heap to power their analytics. Maintaining that trust is our paramount concern.
+This page gives you access to relevant information regarding our approach to privacy, security, and compliance.
+Categories
+Trust Portal
+Sub-Processors List
+Privacy Policy
+Cookie Policy
+Data Subjet Request
+Sample Cookie Description
+Heap's Status
+Heap Privacy Policy
+Last Updated: September, 2024
+Global Privacy Policy
+European Privacy Policy
+Data Privacy Framework Notice
+California Privacy Notice
+HEAP GLOBAL PRIVACY POLICY
+Welcome and thank you for your interest in Heap Inc., a member of the Contentsquare Group of companies, who are listed
+at this link
+, (“
+Heap
+”, “
+we
+”, “
+our
+” or “
+us
+”).
+Heap is a SaaS  product analytics platform. We allow our customers to collect and analyze data about how their visitors are interacting with their website and mobile application to optimize performance of product usage, diagnose problems in our customer’s visitor experience, and correlate our customer’s visitor activity with long-term value. Heap does this by collecting data on what visitors are doing, including but not limited to what webpages they visit, what visitors click on, where those visitors are located, what browser or platform those visitors are using, and other  types of behavioral data.
+When we use the term “
+personal information
+” in this Privacy Policy, we mean information relating to an identified or identifiable natural person.
+This Privacy Policy explains how information about you is collected, used and disclosed by Heap when you visit our website
+https://heap.io/
+(the “
+Site
+”), and/or use our SaaS product and related services (collectively, the “
+Service
+”).
+Heap as a Data Controller:
+For purposes of data protection laws, Heap Inc., a company duly incorporated and organized under the laws of United States of America, having its registered address at 225 Bush St. 2nd Floor, San Francisco, CA 94104, is the “data controller” and is generally responsible for and controls the processing of your personal information collected through your use of our Service. This Privacy Policy applies only to instances where Heaps acts as a data controller.
+Heap as a Data Processor:
+Wherever our customers use our Service to submit, manage, or otherwise use content relating to our customers’ end users during the provision of our Service, we act as a “data processor” and have contractually committed ourselves, including by signing data processing agreements, to only process such information on behalf and under the instruction of the respective customer, who is the data controller, and as provided for under the contractual agreements we sign with them. As such, this Privacy Policy does not apply to such processing.
+GLOBAL APPLICABILITY AND REGION-SPECIFIC DISCLOSURES
+This Privacy Policy is designed to apply to our Site visitors, users of our Service and other companies and users on a global basis. We may choose or be required by law to provide additional disclosures relating to the processing of personal information in certain countries, regions or states. Please refer below for disclosures that may be applicable to you:
+California:
+If you are a California resident, please see the
+Privacy Disclosures for California Residents
+section below for additional California-specific privacy disclosures, including the categories of personal information we process, our “sale” / “sharing” disclosures, and your rights under California law.
+Nevada:
+Chapter 603A of the Nevada Revised Statutes permits a Nevada resident to opt out of future sales of certain covered information that a website operator has collected or will collect about the resident. Note we do not sell your personal information within the meaning of Chapter 603A. However, if you would still like to submit such a request, please submit a request via our
+Data Subject Request Webform
+.
+European Economic Area, United Kingdom or Switzerland:
+If you are located in the European Economic Area (“
+EEA
+”), United Kingdom or Switzerland, or otherwise engage with Heap’s European operations, please see the
+Privacy Disclosures for the European Economic Area, United Kingdom and Switzerland
+section below for additional European-specific privacy disclosures, including what constitutes your personal data, the lawful bases we rely on to process your personal data, and your rights in respect of your personal data.
+1. INFORMATION WE COLLECT AND OUR USE
+We collect personal information in connection with your visits to and use of our Site and Service. This collection includes information that you provide to us, information from third parties, and information that is collected automatically such as through the use of cookies and other technologies.
+Information That You Provide
+We collect personal information from you. The categories of information we collect can include:
+Service Inquiries, Free Trial, or Demo Requests.
+We may collect personal information that you provide when you inquire about our Service or request a free trial or demo. This information may include your business information, including your first name, last name, email, phone number, company, company size, industry type, and any other information you provide, including your interests in relation to our Service or applicable business information. We use this information to communicate with you about your inquiry or interests, provide the free trial or demo, or schedule an information call to discuss our Service.
+Registration information.
+We collect personal and/or business information that you provide when you register for an account to use our Service. This information may include your name, email, and password. We use this information to administer your account, provide you with the relevant services and information, communicate with you regarding your account, the Service, and for customer support purposes.
+Payment information.
+If you sign up for our Service, we collect the information provided in connection with your payment. Please note that we use third party payment processors to process payments made to us. As such, we do not retain any personally identifiable financial information such as credit card numbers. Rather, all such information is provided directly by you to our third-party processor. The payment processor’s use of your personal information is governed by their Privacy Policy.
+Marketing Emails and Blog Subscription.
+If you consent to receive marketing emails from us, or subscribe to our blog, we collect your personal information, and applicable interests and communication preferences in order to send you regular updates about the Service and other information about Heap. We use this information to manage our communications with you and send you information about products and services we think may be of interest to you. To unsubscribe from marketing emails, please follow the instructions within our messages and review the
+Control Over Your Information
+section below. Note that you cannot unsubscribe from certain services-related email communications (e.g., account verification, confirmations of transactions, technical or legal notices).
+Communications.
+If you communicate with us through any paper or electronic form, we may collect your name, email address, mailing address, phone number, or any other personal information you choose to provide to us. We use this information to investigate and respond to your inquiries, and to communicate with you, to enhance the services we offer to our users and to manage and grow our organization.
+Events, Surveys, and Promotions.
+If you fill out any forms relating to Heap events, surveys, contests, sweepstakes, or other promotional events, we collect your contact and demographic information, and any other information requested on the form or at sign up. We use this information to fulfill the purpose of the form or sign up, facilitate the event, survey, contest, sweepstakes, and promotion, and, if you consent, to inform you about future programs that may be of interest to you.
+Employment Applications.
+If you apply for employment, we collect your contact and demographic information, educational and work history, employment interests, information obtained during interviews and any other information you choose to provide. We use the information provided to evaluate your candidacy for employment, to communicate with you during the application process, to facilitate the onboarding process, and, if you consent, to consider your application for alternative positions.
+You are free to choose which personal information you want to provide to us or whether you want to provide us with personal information at all. However, some information, such as your name, address, payment transaction information, and information on your requested services may be necessary for the performance of our contractual obligations.
+Automatic Data Collection
+We and our third-party providers and partners collect certain personal information automatically when you visit or interact with our Site and Service:
+Log
+Data
+: Including your internet protocol (IP) address, operating system, browser type, browser ID, the URL you entered and the referring page/campaign, date/time of your visit, the time you spent on our Service and any errors that may occur during your visit. Please note that our systems may also record personal information that you type into our websites and Service even if you do not choose to submit it.
+Analytics
+Data
+: Including the electronic path you take to our Service, through and when exiting our Service, as well as your usage and activity on our Service, such as the links, objects, products and benefits you view, click or otherwise interact with (also known as “
+Clickstream Data
+”). Our emails may also contain tracking pixels that identify if and when you have opened an email that we have sent you, how many times you have read it and whether you have clicked on any links in that email. This helps us measure the effectiveness of our marketing email campaigns, make the emails we send to you more relevant to your interests and to understand if you have opened and read any important administrative emails we might send you.
+Location
+Data
+: Including your general geographic location based on the Log Data we collect.
+Application
+Data
+: Some of our services offer mobile or browser applications to allow you to take advantage of our service offerings on the go and/or when visiting third-party websites and other online services. Certain of these applications also allow us to access more precise Location Data about you and collect information about your use and interactions with third-party websites and online services (including the products or services you are interested in or purchase) to better serve you.
+For information about our, and our third-party providers and partners’, use of cookies and related technologies to collect information automatically on our online services, and the choices you may have in relation to those practices, please visit our Cookies Policy
+here
+.
+Information from Third Party Sources
+We may receive personal information about you from our business partners and service providers and combine this information with other data we collect from you. The third parties may include website and service operators, payment processors, marketing partners, and shipping providers. The information may include contact information, demographic information, information about your communications and related activities, and information about your purchase orders. We may use this information to administer and facilitate our Service, your subscriptions, and our marketing activities.
+Account Creation / Single Sign-On.
+We may use single sign-on ("
+SSO
+") to allow a user to authenticate their account through their work email. We do this by using OAuth authentication (similar methods), a secure mechanism to give Heap access to your account data without letting us know your password. We will have access to certain information from those third parties in accordance with the authorization procedures determined by those third parties, including, for example, your username, password, name, email address, and profile picture. We use this information to operate, maintain, and provide to you the features and functionality of the Service. We may also send you service-related emails or messages (e.g., account verification, purchase confirmation, customer support, changes, or updates to features of the App, technical and security notices).
+Social Media.
+When you interact with our Site through various social media (LinkedIn, X, Facebook, YouTube), such as when you click on the social media icon on the Site, follow us on a social media site, or post a comment to one of our pages, we may receive information from the social network such as your profile information, profile picture, gender, username, user ID associated with your social media account, age range, language, country, and any other information you permit the social network to share with third parties. We use this information to provide you with interactive functionalities between our Site and social media networks, as well as to communicate directly with you, such as to send you email messages about the Service that may be of interest to you. For more information on how the social media networks process your personal information when you use their network, please refer to their respective privacy policies:
+LinkedIn:
+LinkedIn Corporation, 1000 W. Maude Ave. Sunnyvale, CA 94085, USA;
+Privacy Policy
+,
+Cookie Policy
+.
+X:
+X Corp., 1355 Market St, Suite 900, San Francisco, CA 94103, USA;
+Privacy Policy
+,
+Cookie Policy
+.
+Facebook:
+Meta Platforms, Inc., 1601 Willow Road, Menlo Park, CA 94025, USA;
+Privacy Policy
+,
+Cookie Policy
+.
+YouTube:
+Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA, 94043, USA;
+Privacy Policy
+,
+Cookie Policy
+.
+Information from Other Sources.
+We may obtain information from other sources, including through third-party information providers, customers, public sources, or through transactions such as mergers and acquisitions. We may combine this information with other information we collect from or about you. In these cases, our Privacy Policy governs the handling of the combined personal information. We use this information to operate, maintain, and provide to you the features and functionality of the Service, as well as to communicate directly with you, such as to send you email messages about products and services that may be of interest to you.
+Other Uses of Personal Information
+In addition to the uses described above, we may collect and use personal information for the following purposes:
+For our business activities, including to operate the Service and to provide you with the features and functionality of the Service;
+To communicate with you and respond to your requests, such as to respond to your questions, contact you about changes to the Service, and communicate about account related matters;
+For marketing and advertising purposes, such as to market to you or offer you with information and updates on our Service we think that you may be interested in. While we may use your personal information in this manner, please note that we do not use user content to serve you ads, and we will never share user content with any third parties for marketing or advertising purposes, unless you have explicitly submitted it to us for that purpose;
+For analytics, development, and research purposes to improve, develop, and optimize the use, function, and performance of the Site and Service;
+To enforce our
+Master Services Agreement
+, to resolve disputes, to carry out our obligations and enforce our rights, and to protect our business interests and the interests and rights of Heap, you, or third parties;
+To comply with contractual and legal obligations and requirements, including to respond to privacy requests or requests/communications from regulators, law enforcement authorities, or other governmental officials;
+To fulfill any other purpose for which you provide personal information; and
+For any other lawful purpose, or other purpose that you consent to.
+2. HOW AND TO WHOM WE SHARE PERSONAL INFORMATION
+We may also share, transmit, disclose, grant access to, make available, and provide personal information with and to third parties, as described below.
+Service Providers.
+We share personal information with third party contractors and service providers who perform services on our behalf, which are subject to reasonable confidentiality terms, and which may include processing payments, providing web hosting services, technology support providers, email communications providers, analytics providers, data storage providers, and web and video hosting providers and developers.
+Business Partners.
+We may disclose personal information to our business partners for transactional and marketing purposes, including to promote their products or services if you consent. We may also share your personal information with other third parties who may have products or services we think you may enjoy.
+Online Advertising Partners.
+We also share personal information with advertising networks or permit these partners to collect information from you directly on our websites to facilitate online advertising, such as search engines and social network advertising providers to serve targeted ads to you or to groups of other users who share similar traits, such as likely commercial interests and demographics, on third-party platforms. For more information, including how to opt out of interest-based advertising, please see our Cookie Policy
+here
+.
+Contentsquare Group.
+We may share, disclose and transfer your personal information with Contentsquare Group for all purposes mentioned above.
+Corporate Transaction.
+We may transfer to third-parties any information we collect in the event we sell or transfer all or a portion of our business or assets (including any shares in the company) or any portion or combination of our products, services, businesses and/or assets. Should such a transaction occur (whether a divestiture, merger, acquisition, bankruptcy, dissolution, reorganization, liquidation, or similar transaction or proceeding), we will use reasonable efforts to ensure that any transferred information is treated in a manner consistent with this Privacy Policy.
+Legal Requirements.
+We may share your information with third parties, including government authorities or public authorities, courts, intergovernmental or supranational bodies, as required by law or subpoena or if we reasonably believe that such action is necessary to (a) comply with the law and the reasonable requests of law enforcement; (b) to enforce our
+Master Services Agreement
+or other agreements or to protect the security or integrity of the Heap services, including to prevent harm or financial loss, or in connection with preventing fraud or illegal activity; and/or (c) to exercise or protect the rights, property, or personal safety of Heap, our Customers, visitors, or others.
+With Your Consent.
+We may disclose your information publicly or with another third party with your prior authorization.
+3. HOW LONG WILL WE STORE YOUR INFORMATION
+We will usually keep the personal information we collect about you for no longer than necessary for the purposes set out in Section 1, in accordance with our legal obligations and legitimate business interests.
+The criteria used to determine the period for which personal information about you will be retained varies depending on the legal basis under which we process the personal information:
+Legitimate Interests.
+Where we are processing personal information based on our legitimate interests, we generally will retain such information for a reasonable period of time based on the particular interest, taking into account the fundamental interests and the rights and freedoms of data subjects.
+Consent.
+Where we are processing personal information based on your consent, we generally will retain the information until you withdraw your consent, or otherwise for the period of time necessary to fulfill the underlying agreement with you or provide you with the applicable service for which we process that personal information.
+Contract.
+Where we are processing personal information based on contract, we generally will retain the information for the duration of the contract plus some additional limited period of time that is necessary to comply with law or that represents the statute of limitations for legal claims that could arise from the contractual relationship.
+Legal Obligation.
+Where we are processing personal information based on a legal obligation, we generally will retain the information for the period of time necessary to fulfill the legal obligation.
+Legal Claim.
+We may need to apply a “legal hold” that retains information beyond our typical retention period where we face a threat of legal claim.  In that case, we will retain the information until the hold is removed, which typically means the claim or threat of claim has been resolved.
+In all cases, in addition to the purposes and legal bases, we consider the amount, nature and sensitivity of the personal information, as well as the potential risk of harm from unauthorised use or disclosure of your personal information.
+4. CONTROL OVER YOUR INFORMATION
+Email Communications.
+From time to time, we may send you emails regarding updates to our Service, products or services, notices about our organization, or information about products/services we offer (or promotional offers from third parties) that we think may be of interest to you. If you wish to unsubscribe from such emails, simply click the “unsubscribe link” provided at the bottom of the email communication. Note that you cannot unsubscribe from certain services-related email communications (e.g., account verification, confirmations of transactions, technical or legal notices).
+Modifying Account Information.
+If you have an online account with us, you have the ability to modify certain information in your account (e.g., your contact information) through the [“profile,” “account,” “settings,” or “preferences”] options provided on the Site. If you would like to request access to, or correction or deletion of personal information, you may send your request to us at the email provided below. .
+How to Control Push Notifications.
+You can stop receiving push notifications from us by changing your preferences in the iOS or Android notifications settings menu.
+5.
+LINKS TO THIRD-PARTY WEBSITES AND SERVICES
+For your convenience, our Service may provide links to third-party websites or services that we do not own or operate. We are not responsible for the practices employed by any websites or services linked to or from our Service, including the information or content contained within them. Your browsing and interaction on any other website or service are subject to the applicable third party’s rules and policies, not ours. If you are using a third-party website or service, you do so at your own risk. We encourage you to review the privacy policies of any site or service before providing any personal information.
+6. CHILDREN’S PRIVACY
+Our services are not intended for children under the age of 16. We do not knowingly solicit or collect personal information from children under the age of 16. If we learn that any personal information has been collected inadvertently from a child under 16, we will delete the information as soon as possible. If you believe that we might have collected information from a child under 16, please contact us via our Data Subject Request Form
+here
+.
+7. CHANGES TO PRIVACY POLICY
+We reserve the right to change this Privacy Policy from time to time in our sole discretion. We will notify you about material changes in the way we treat personal information by sending a notice to the primary email address specified in your account, by placing a prominent notice on our Site, or through other appropriate communication channels. It is your responsibility to review this Privacy Policy periodically. All changes shall be effective from the date of publication unless otherwise provided.
+8. CONTACT US
+For additional inquiries about this Privacy Policy, please send us an email at
+privacy@contentsquare.com
+or contact us at:
+Heap, Inc.
+53 Beach St, 6th Floor,
+New York, NY 10013
+Data Protection Officer:
+Nicole Mazanitis
+privacy@contentsquare.com
+PRIVACY POLICY FOR THE EUROPEAN ECONOMIC AREA, UNITED KINGDOM AND SWITZERLAND
+This Privacy Policy governs how Heap processes personal data of individuals located in the European Economic Area (“
+EEA
+”), United Kingdom (“
+UK
+”) and Switzerland (collectively, “
+Europe
+”) that are visiting our Site or use our Service in accordance with data protection laws in Europe (hereafter “
+European Privacy Policy
+”).
+When we use the term “personal data” in this section, we mean information relating to an identified or identifiable natural person.
+Capitalized terms that are not defined in this European Privacy Policy have the meaning given them in our Global Privacy Policy above including any relevant agreement, policy, or addendum incorporated therein and any amendments or modifications thereto.
+In the event of a conflict between the Global Privacy Policy and this European Privacy Policy, this Policy supersedes the Global Privacy Policy.
+1. OUR RELATIONSHIP TO YOU
+Heap, Inc., a member of the Contentsquare Group of companies, who are listed
+at this link
+, (“
+Heap
+”, “
+we
+”, “
+our
+” or “
+us
+”), is a company duly incorporated and organized under the laws of United States of America, having its registered address at
+53 Beach St, 6th Floor, New York, NY 10013
+. Heap’s Data Protection Office (“
+DPO
+”) may be contacted at
+privacy@contentsquare.com
+.
+In order for you to understand Heap’s obligations and your rights to your personal data under this Policy, it is important to identify the relationship you have with Heap:
+A “Visitor” is an individual providing personal data to us via our Site. Heap acts as a data controller in this relationship.
+A “Customer” is a prospect, lead, potential customer, customer or customer’s employee, agent or independent contractor providing personal data to us in connection with our Service and communications with Heap. Heap acts as a data controller in this relationship.
+A “User” is a customer’s employee, agent or independent contractor providing personal data to us in connection with our Service. Depending on the purpose of processing (see Section 3 below), Heap acts as either a data controller or data processor in this relationship.
+A “Customer’s Visitor” is an individual that provides personal data to our Customer when using our Service. Heap does not have a direct relationship with the Customer’s Visitor. Depending on the purpose of processing (see Section 3 below), Heap acts as either a data controller or data processor in this relationship. For more information about how personal data is handled by our Customer as a data controller, please review our Customer’s privacy policy and contact them directly.
+Hereinafter we may refer to Visitor, Customer and User collectively as “you.”
+2. NOTICE
+Heap provides notice to you through posted privacy policies and may provide additional “just-in-time” disclosures about the data collection, use, and sharing practices of specific Service. The Global Privacy Policy generally describes our privacy practices, while this Policy is specific to Visitors and Customers located in Europe.
+As a data processor, Heap is not able to provide notice to or obtain consent from Customer’s Visitor. To the extent required by law, Heap supports Customers’ data-protection compliance efforts, but it is up to Customer to ensure the appropriate data protection safeguards are in place before processing personal data from Customer’s Visitor.
+3. TYPES OF PERSONAL DATA COLLECTED AND PURPOSES OF PROCESSING
+3.1 PERSONAL DATA WE COLLECT DIRECTLY FROM YOU
+We collect the categories of personal data that you voluntarily submit directly to us when you use the Service, as set forth in our Global Privacy Policy under the Section 1
+Information We Collect and Our Use
+.
+The table below sets out in detail the categories of personal data we collect about you and how we use that information when you use the Service, as well as the legal basis which we rely on to process the personal data.
+Category of Personal Data
+Purpose of Processing
+Legal Bases for Processing
+Business contact information
+, such as first name, last name, job title, email address and password, company, company size, industry type, any other information you provide.
+We may use this information to set up and authenticate your account on the Service as a data controller, and provide support and maintenance of the Service as a data processor.
+The processing of account management is necessary for the performance of a contract with you and to take steps prior to entering into a contract with you, namely our Master Services Agreement.
+The processing of support and maintenance of the Service is determined by our Customer as a data controller.
+We may use this information to communicate with you regarding our Service, including those communications described in this Global Privacy Policy, such as about your account, alert you of relevant security issues or updates regarding our Service, or provide other Service-related communications.
+The processing is necessary for the performance of a contract with you, namely our Master Services Agreement, and our compliance with a legal obligation.
+We may use this information to provide our customer service and deal with enquiries, requests, feedback, and complaints made by or about you relating to the Service.
+The processing is necessary for our legitimate interest, namely administering the Service, for communicating with you effectively to respond to your enquiries, requests, or complaints.
+We may use this information in connection with providing you with marketing communications in accordance with your preferences.
+We will only use your personal data in this way to the extent you have given us consent to do so.
+We may use this information to organize, manage, and facilitate access to our events.
+This processing is necessary for our legitimate interests, namely the administration and execution of our events, and for the performance of a contract.
+We may use this information to respond to privacy requests, or to requests or communications from regulators, law enforcement authorities, other government officials request or your data subject requests, and to resolve disputes and defend a legal claim.
+This processing is necessary for our compliance with a legal obligation
+We may use this information to analyze, develop, improve and optimize the use, function, and performance of the Site and Service.
+This processing is necessary for our legitimate interests (to develop and improve our Service).
+Payment transaction information.
+When you subscribe to our services, we may collect information such as your billing address and other information such as date and time of your transaction.
+We may use this information to process your orders through the Service.
+The processing is necessary for the performance of a contract; compliance with a legal obligation.
+We may use this information to verify your identity in connection with the detection and prevention of fraud or financial crime.
+The processing is necessary for our and third parties' legitimate interests, namely the detection and prevention of fraud and financial crime.
+Communications and feedback.
+When you contact us directly, e.g. by email or phone we will record your comments and opinions.
+We may use this information to address your questions, issues and concerns.
+The processing is necessary for our legitimate interests, namely communicating with you and responding to queries, complaints and concerns.
+We may use this information to analyze, develop, improve, and optimize the use, function, and performance of the Site and Service.
+The processing is based on either your consent, or as necessary for our legitimate interests (to develop and improve our Service).
+Professional or Employment-related information
+. When you you apply for employment at Heap on our Site, we may collect your contact and demographic information, educational and work history, employment interests, background check data, and any other information you choose to provide, such as during interviews
+We may use this information to evaluate your candidacy for employment, to communicate with you during the application process, to facilitate the onboarding process, and, if you consent, to consider your unsuccessful application for future positions.
+The processing is based on either your consent, as necessary for our legitimate interests, or to comply with a legal obligation or perform a contract.
+3.2 PERSONAL DATA WE COLLECT ABOUT YOU AUTOMATICALLY
+We also automatically collect personal data indirectly about how you access and use the Service, and information about the device you use to access the Service. The table below sets out further information about the categories of personal data we collect about you automatically and how we use that information. The table also lists the legal basis which we rely on to process the personal data.
+We may link or combine the personal data we collect about you and the information we collect automatically for the purposes described above.
+We may anonymise, de-identify and aggregate any of the personal data we collect about you (so that it does not identify or permit the identification of any individual (“
+anonymized data
+”). We may use anonymized data for purposes that include testing our IT systems, research, data analysis, improving our Service. We may also share such anonymized data with third-parties, including our customers, partners and service providers for various purposes such as to help us better understand your needs and improve our Service
+Category of personal data
+Purpose of Processing
+Legal basis for the processing
+Online unique identifiers:
+IP address, cookie ID, device ID, web beacons, pixels, and other similar technologies (as described in our “
+Cookies Policy
+”)
+We may use this information for technical support and maintenance, and for internal development of our Service.
+This data collected for support and maintenance is necessary for the performance of the contract signed with our customers.
+For our processing of this data for internal development, this processing is based on consent or is necessary for our legitimate interests, namely to improve, test, research, machine learning, benchmark, and analyze our Service.
+We may use this information to tailor how the Service is displayed to you (such as the language in which it is provided to you).
+The processing is necessary for our legitimate interest, namely tailoring our Service so that it is more relevant to our Visitors and Users.
+We may use this information to ensure our network and information security of our Site and Service, such as enhance the security of our Site and Service, combat spam or other malware or security risks, detect fraudulent  or suspicious activity in relation to our Site or Service, monitor and verify identify or service access.
+The processing is necessary for our legitimate interests, namely to protect our Site, Service and your account from fraud and other illegal activities.
+Information about your device (“device and technical data”).
+We also collect information about the type of operating system, type of device and type of browser you use to connect to the Service. This information can include details about the type of device, operating systems, browsers and applications connected to the Service through the device, your mobile network.
+We may use this information for technical support and maintenance, and for internal development of our Service.
+The data collected for support and maintenance is necessary for the performance of the contract signed with our Customers.
+For our processing of this data for internal development, this processing is based on consent or is necessary for our legitimate interests, namely to improve, test, research, machine learning, benchmark, and analyze our Service.
+We may use information about how you use and connect to the Service to present the Service to you on your device.
+The processing is necessary for our legitimate interests, namely to tailor the Service to the User.
+We may use this information to monitor and improve the Service and business, resolve issues and to inform the development of new products and services.
+The processing is based on consent or is necessary for our legitimate interests,  namely to monitor and resolve issues with the Service and to improve the Service generally.
+We may use this information to ensure our network and information security of our Site and Service, such as enhance the security of our Site and Service, combat spam or other malware or security risks, detect fraudulent  or suspicious activity in relation to our Site or Service, monitor and verify identify or service access.
+The processing is necessary for our legitimate interests, namely to protect our Site, Service and your account from fraud and other illegal activities.
+Information about how you use the Service (“usage data”).
+For example, how frequently you access the Service, the time you access the Service and how long you use it for, the approximate location that you access the Service from, the site from which you came and the site to which you are going when you leave our website, the website pages you visit, the links you click, whether you open emails or click the links contained in emails, whether you access the Service from multiple devices, and other actions you take on the Service.
+We may use this information for technical support and maintenance, and for internal development of our Service.
+The data collected for support and maintenance is necessary for the performance of the contract signed with our Customers.
+For our processing of this data for internal development, this processing is based on consent or is necessary for our legitimate interests, namely to improve, test, research, machine learning, benchmark, and analyze our Service.
+We may use information about how you use and connect to the Service to present the Service to you on your device.
+The processing is necessary for our legitimate interests, namely to tailor the Service to the user.
+We may use this information to determine products and services that may be of interest to you for marketing purposes.
+The processing is necessary for our legitimate interests, namely to inform our direct marketing.
+We may use this information to ensure our network and information security of our Site and Service, such as enhance the security of our Site and Service, combat spam or other malware or security risks, detect fraudulent  or suspicious activity in relation to our Site or Service, monitor and verify identify or service access.
+The processing is necessary for our legitimate interests, namely to protect our Site, Service and your account from fraud and other illegal activities.
+3.3 PERSONAL DATA WE RECEIVE FROM THIRD PARTIES
+If you interact with us through a social network, we may receive information from the social network such as your name, profile information, and any other information you permit the social network to share with third parties. This processing is necessary for our legitimate interests to develop our Service and inform our marketing strategy.
+We also use single sign-on ("
+SSO
+") to allow users to authenticate their account using one set of login information. The data we receive is dependent on your privacy settings with the social network. We may use this information to reshare content created through the use of the Service, to authenticate you and allow you to access the Service. The processing is necessary for the performance of a contract with you.
+3.4 PERSONAL DATA WE COLLECT ABOUT YOUR VISITORS WHEN YOU USE OUR SERVICE
+When using our Service, we collect personal data about your visitors on your behalf (online unique identifiers, device and technical data, usage data and any additional personal data you decide to capture under the Master Service Agreement signed with us) for the provision of our Service, including support and maintenance, product usage analytics (i.e. understand how your visitors engage with your product) in order for you to improve their experience with your product. As a data controller, it is up to you to determine the legal basis of this processing. We share your Visitor’s personal data with our sub-processors listed
+here
+, only for the provision of the Service.
+4.
+HOW LONG WILL WE STORE YOUR PERSONAL DATA
+We will usually keep the personal data we collect about you for no longer than necessary for the purposes set out in Section 3.1 and 3.2, in accordance with our legal obligations and legitimate business interests.
+The criteria used to determine the period for which personal data about you will be retained varies depending on the legal basis under which we process the personal data:
+Legitimate Interests.
+Where we are processing personal data based on our legitimate interests, we generally will retain such data for a reasonable period of time based on the particular interest, taking into account the fundamental interests and the rights and freedoms of data subjects.
+Consent.
+Where we are processing personal data based on your consent, we generally will retain the data until you withdraw your consent, or otherwise for the period of time necessary to fulfill the underlying agreement with you or provide you with the applicable service for which we process that personal information.
+Contract.
+Where we are processing personal data based on contract, we generally will retain the data for the duration of the contract plus some additional limited period of time that is necessary to comply with law or that represents the statute of limitations for legal claims that could arise from the contractual relationship.
+Legal Obligation.
+Where we are processing personal data based on a legal obligation, we generally will retain the data for the period of time necessary to fulfill the legal obligation.
+Legal Claim.
+We may need to apply a “legal hold” that retains information beyond our typical retention period where we face a threat of legal claim.  In that case, we will retain the data until the hold is removed, which typically means the claim or threat of claim has been resolved.
+In all cases, in addition to the purposes and legal bases, we consider the amount, nature and sensitivity of the personal data, as well as the potential risk of harm from unauthorised use or disclosure of your personal data.
+5. RECIPIENTS OF YOUR PERSONAL DATA
+We may share your personal data with the following recipients (as required in accordance with the uses set out in Annexes 1 and 2):
+Service providers and advisors
+: we may share your personal information with third party vendors and other service providers that perform services for us or on our behalf, which may include providing professional services, such as legal and accounting services, mailing, email or chat services, payment services, IT and security services, customer support services, cloud storage, or marketing and analytics services.
+Affiliates
+. Other companies owned by or under common ownership as Heap, including our subsidiaries (i.e., any organisation we own or control) and our ultimate holding company (i.e., any organisation that owns or controls us) and any subsidiaries it owns, listed
+here
+.
+Integrations and enrichment providers:
+our Service allows customers to integrate third-party tools to send or receive personal data to and from the Service. Our customers remain responsible for any such personal data transmissions between these integration tools and our Service.
+Purchasers and third parties in connection with a business transaction
+: your personal data may be disclosed to third parties in connection with a transaction, such as a merger, sale of assets or shares, reorganisation, financing, change of control or acquisition of all or a portion of our business.
+Law enforcement, regulators and other parties for legal reasons
+: we may share your personal data with third parties as required by law or if we reasonably believe that such action is necessary to (i) comply with the law and the reasonable requests of law enforcement; (ii) detect and investigate illegal activities and breaches of agreements, including our Master Services Agreement; and/or (iii) exercise or protect the rights, property, or personal safety of Heap, its users or others.
+6.
+MARKETING AND PROFILING
+From time to time we may contact you with information about our services, including sending you marketing messages and asking for your feedback on our services. Most marketing messages we send will be by email. For some marketing messages, we may use personal information we collect about you to help us determine the most relevant marketing information to share with you.
+Where we rely on consent to send you marketing communications, we will only send you such messages if you have given us your consent to do so. You can withdraw your consent at a later date by clicking on the unsubscribe link at the bottom of our marketing emails or by updating your preferences via your account on the Site.
+We may analyze personal data we have collected about you to create a profile of your interests and preferences so that we can contact you with information that is relevant to you. We may make use of additional information about you when it is available from external sources to help us effectively send product updates. We may also use personal data about you to detect and reduce fraud and credit risk.
+7. SECURITY
+We implement appropriate technical and organizational measures to protect your personal data against accidental or unlawful destruction, loss, change or damage. All personal data we collect will be stored by our cloud hosting provider on secure servers.
+8. INTERNATIONAL TRANSFERS
+The personal data we collect may be transferred to and stored in countries outside of the jurisdiction you are in where we and our third-party service providers have operations. If you are located in the EEA, United Kingdom or Switzerland, your personal data may be processed outside of those regions, including in the United States.
+In the event of such a transfer, we ensure that: (i) the personal data is transferred to countries recognized as offering an equivalent level of protection; or (ii) the transfer is made pursuant to appropriate safeguards, such as Standard Contractual Clauses adopted by the European Commission.
+Heap transfers personal data to the United States pursuant to the Data Privacy Framework (please see above).
+If you wish to enquire further about these safeguards used, please contact us using the details set out at the end of this European Privacy Policy.
+9. YOUR RIGHTS IN RESPECT OF YOUR PERSONAL DATA
+In accordance with applicable privacy laws in Europe, you have the following rights in respect of your personal data that we hold:
+Right of access
+. You have the right to obtain:
+confirmation of whether, and where, we are processing your personal information;
+information about the categories of personal information we are processing, the purposes for which we process your personal information and information as to how we determine applicable retention periods;
+information about the categories of recipients with whom we may share your personal information; and
+a copy of the personal information we hold about you.
+Right of portability
+. You have the right, in certain circumstances, to receive a copy of the personal information you have provided to us in a structured, commonly used, machine-readable format that supports re-use, or to request the transfer of your personal data to another person.
+Right to rectification
+. You have the right to obtain rectification of any inaccurate or incomplete personal information we hold about you without undue delay.
+Right to erasure
+. You have the right, in some circumstances, to require us to erase your personal information without undue delay if the continued processing of that personal information is not justified.
+Right to restriction
+. You have the right, in some circumstances, to require us to limit the purposes for which we process your personal information if the continued processing of the personal information in this way is not justified, such as where the accuracy of the personal information is contested by you.
+Right to withdraw consent
+. There are certain circumstances where we require your consent to process your personal information. In these instances, and if you have provided consent, you have the right to withdraw your consent. If you withdraw your consent, this will not affect the lawfulness of our use of your personal information before your withdrawal.
+Right to object to processing.
+You have the right to object to any processing based on our legitimate interests where there are grounds relating to your particular situation. There may be compelling reasons for continuing to process your personal data, and we will assess and inform you if that is the case. You can also object to marketing activities for any reason.
+You also have the right to lodge a complaint to your local data protection authority. If you are based in the European Union, information about how to contact your local data protection authority is available
+here
+. If you are based in the UK or Switzerland, your local data protection authorities are the UK Information Commissioner's Office (
+https://ico.org.uk/global/contact-us/
+) and the Swiss Federal Data Protection and Information Commissioner (
+https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/contact/address.html
+).
+If you wish to exercise one of these rights, please contact us using the contact details at the end of these Privacy Disclosures, or you can use our
+Data Subject Rights Request Form
+.
+Due to the confidential nature of data processing we may ask you to provide proof of identity when exercising the above rights.
+PRIVACY DISCLOSURES FOR TRANS-ATLANTIC DATA PRIVACY FRAMEWORK
+Heap Inc., along with its affiliates based in the United States of America (Content Square, Inc., and Clicktale Inc., (together “
+the US CS entities
+”)), has self-certified with the EU-U.S. Data Privacy Framework, the UK Extension to the EU-U.S. Data Privacy Framework, and the Swiss-U.S. Data Privacy Framework (together, the “
+Data Privacy Framework
+”), where such participation is listed
+at this link
+, with respect to the personal data of individuals residing in the EU, United Kingdom, and Switzerland that the US CS entities process for the purposes identified above in this policy, including any such data processed on behalf of any of their affiliated companies of the Contentsquare group of companies.
+The US CS entities commit to process personal data received from the EU, United Kingdom, and Switzerland in accordance with the Data Privacy Framework Principles, including the Supplemental Principles (collectively, the “
+Principles
+”) as set forth by the US Department of Commerce concerning the processing of personal data.
+If there is any conflict between this Heap Privacy Policy and the Principles, the Principles shall govern. To learn more about the Data Privacy Framework, please visit
+this webpage
+.
+Independent Dispute Resolution
+To address inquiries or resolve complaints about our processing of personal data, residents of the EU, United Kingdom, or Switzerland should first contact Heap via e-mail to
+privacy@contentsquare.com
+.
+The US CS entities have further committed to refer unresolved privacy complaints under the Data Privacy Framework to the American Arbitration Association’s International Centre for Dispute Resolution (“ICDR-AAA”), a non-profit alternative dispute resolution provider located in the United States to assist with the complaint resolution process. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit
+https://go.adr.org/dpf_irm.html
+for more information and to file a complaint. The services of ICDR-AAA are provided at no cost to you.
+Enforcement
+The US CS entities are subject to the investigatory and enforcement powers of the Federal Trade Commission (the “
+FTC
+”) to ensure our compliance with the Data Privacy Framework as outlined in this Privacy Policy.
+Arbitration
+You may be entitled, under certain conditions as described in the Principles, to invoke binding arbitration when other dispute resolution procedures have been exhausted.
+Lawful Access Requests
+The US CS entities may be required to disclose personal data in response to lawful access requests from public authorities, or to comply with national security or law enforcement requirements. Any such disclosure is made in accordance with our Public Authorities Access Request Policy, available
+at this link
+.
+Onward Transfers of Personal Data
+The US CS entities remain responsible to you, as well as potentially liable to you under the conditions set forth in the Principles, for the processing of personal data received under the Data Privacy Framework and subsequently transferred to the third parties identified above.
+PRIVACY NOTICE FOR CALIFORNIA RESIDENTS
+This Privacy Policy supplements our Global Privacy Policy and provides additional details about the personal information we collect, use, and disclose about residents of the State of California, and the rights afforded to them under the California Consumer Privacy Act, as amended (the “CCPA”), and includes our Notice at Collection and Notice of Right to Opt-out of Sale/Sharing under the CCPA.
+Your rights under the CCPA:
+Right to delete
+. You have the right to request that we delete your personal information that we’ve collected from you.
+Right to correct
+. You have the right to request that we correct inaccurate personal information that we maintain about you, subject to applicable legal exceptions.
+Right to know/access
+. You have the right to request that we disclose to you the personal information we process about you, why we use it, where it came from, and who it is disclosed to.
+Right to opt out of sale/sharing
+. You have the right to request that we do not “sell” your personal information or “share” your personal information for cross-context behavioral advertising purposes (as such terms are defined under the CCPA). Please see the dedicated “ “Sale”/“Sharing” of personal information” section below for more information.
+Right to restrict the use and disclosure of your sensitive information
+. You have the right to request that we limit our use and disclosure of your sensitive personal information.
+Right to nondiscrimination
+. You have the right not to receive discriminatory treatment because you’ve exercised any of your rights under the CCPA.
+Categories of personal information collected
+In the last 12 months, we have collected the following categories of personal information, from the following sources:
+When you provide such personal information directly to us
+We collect the following categories of personal information about you in connection with your visits to and use of our Site and Service, such as when you register for an account to use our Service, request information, contact us, subscribe to our blog or to receive marketing emails from us, or apply for employment:
+Category of personal information
+Examples of personal information
+Identifiers
+First and last name, email address, and telephone number
+Professional or employment-related information
+Job position, company, company size, and industry
+For employment applications only: you also provide demographic information, educational and work history, employment interests, and interview information
+Any other personal information you voluntarily choose to provide
+Personal information in request or feedback you send us
+When you provide such personal information indirectly to us
+We may collect personal information about you with the help of third parties. For more information about this processing, please refer to Section 1 above in this Global Privacy Policy.
+When you use our Sites and such personal information is collected automatically
+When you visit or interact with our Site and Service, we may collect or generate through cookies the following categories of personal information about you:
+Category of personal information
+Examples of personal information
+Identifiers and contact information
+IP address, cookie IDs, device IDs, web beacons, pixels, and other similar technologies (as described in our “
+Cookies Policy
+”)
+Internet or other electronic network activity information
+Device and technical data
+Type of device/operating system/browser used to access the Site and Service, session logging, referring or exit pages; and date and time of your visit.
+Internet or other electronic network activity information
+Behavioral data
+Web page interactions (clicks, browsing, zooms and other interactions), referring web page/source through which you accessed the Site and Service, and statistics associated with the interaction between device or browser and the Site.
+Geolocation data
+City, state, or country.
+Professional or employment-related information
+Job position, workplace, and industry
+Inferences drawn from the above information
+Whether you may be interested in our services, and aggregated metrics.
+Purposes for which personal information is collected
+We collect and use these categories of personal information for the business and commercial purposes described in Section 1 above in this Global Privacy Policy.
+Categories of third parties to whom personal information is disclosed
+In connection with one or more of the purposes described above, we disclose the identified personal information to the categories of third parties identified in Section 2 above in this Global Privacy Policy
+“Sale” / “Sharing” of personal information
+We “sold” or “shared” (as such terms are defined under applicable law) certain data elements within the following categories of personal information in the last 12 months: identifiers, demographic information, Internet or other electronic network activity information, approximate geolocation, and inferences drawn from the above. We “sold” or “shared” each category to or with entities who provide advertising, marketing, or audience measurement; and social networks. The business or commercial purposes of “selling” or “sharing” personal information is to assist us with advertising, marketing, audience measurement, and other functionality on our digital properties. We do not “sell” or “share” any personal information of consumers under 16 years of age.
+Retention
+We retain the categories of personal information identified above for the lengths of time identified in Section 3 above in this Global Privacy Policy.
+Opt-out preference signal
+To exercise and signal to us your preference to opt-out of the sale or sharing (as such terms are defined under CCPA) of your personal information within our Site’s consent banner, you can toggle the switch into the grey “off” position (in contrast to the bright blue “on” position) or vice versa by clicking on the switch.
+Required disclosures
+Below is a list of each type of request we have received during the previous calendar year from all individuals (meaning, requests received from
+anywhere in the world
+, not only California-residents), the outcome of such request, and the mean number of days to respond to the request:
+Type of request
+Number received
+Number complied with
+Number denied*
+Mean number of days to comply
+Request to delete
+0
+0
+0
+This feature is not included
+Request to correct
+0
+0
+0
+This feature is not included
+Request to know
+1
+1
+0
+44
+Request to opt out of sale/sharing
+0
+This feature is not included
+This feature is not included
+This feature is not included
+Request to limit
+0
+This feature is not included
+This feature is not included
+This feature is not included
+Request to opt out of marketing communications
+1
+1
+0
+27
+*Requests may be denied due to various factors including where the request was not verifiable or made multiple times.

@@ -1,0 +1,109 @@
+darrellroot
+/
+CIDR-Trainer
+Public
+Notifications
+You must be signed in to change notification settings
+Fork
+0
+Star
+1
+Code
+Issues
+0
+Pull requests
+0
+Actions
+Projects
+0
+Security
+Insights
+Additional navigation options
+Code
+Issues
+Pull requests
+Actions
+Projects
+Security
+Insights
+Files
+main
+CIDR Trainer.xcodeproj
+CIDR TrainerTests
+Shared
+macOS
+.gitignore
+CIDR Trainer (iOS).entitlements
+CIDR-Trainer--iOS--Info.plist
+CIDR-Trainer--macOS--Info.plist
+LICENSE
+PRIVACY
+README
+Breadcrumbs
+CIDR-Trainer
+/
+PRIVACY
+Copy path
+Latest commit
+darrellroot
+Create PRIVACY
+Sep 27, 2024
+20cbd3f
+·
+Sep 27, 2024
+History
+History
+21 lines (13 loc) · 1.25 KB
+The authors of CIDR-Trainer do not want your private information and do not collect your private information via CIDR Trainer
+
+CIDR Trainer only makes network connections for the following purposes:
+
+CIDR Trainer uses Apple iCloud/Core Data APIs to sync your progress in the app between your devices. This may include background
+updates via Apple push notification infrastructure.
+
+CIDR Trainer uses Apple in-app-purchasing APIs to unlock full functionality. This requires periodic network connections to
+Apple infrastructure.
+
+CIDR Trainer may ask if you want to review the app. If you agree, your review would use the network to connect to Apple.
+
+A future version of CIDR Trainer may use Apple Game Center APIs to enable "achievements" and "leaderboards" as you progress
+through the app. This would only be enabled if you choose to sign into Game Center. The leaderboards would show your Game Center alias.
+
+CIDR trainer does not include any 3rd-party advertisement or metric APIs. The only app usage metrics are collected by Apple
+(see Settings->Privacy->Share iPad Analytics). An anonymized statistical summary of aggregate app usage is shared with the authors
+via Apple App Store Infrastructure.
+
+If you have any questions feel free to email "networkmom AT proton.me"
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+The authors of CIDR-Trainer do not want your private information and do not collect your private information via CIDR Trainer
+CIDR Trainer only makes network connections for the following purposes:
+CIDR Trainer uses Apple iCloud/Core Data APIs to sync your progress in the app between your devices. This may include background
+updates via Apple push notification infrastructure.
+CIDR Trainer uses Apple in-app-purchasing APIs to unlock full functionality. This requires periodic network connections to
+Apple infrastructure.
+CIDR Trainer may ask if you want to review the app. If you agree, your review would use the network to connect to Apple.
+A future version of CIDR Trainer may use Apple Game Center APIs to enable "achievements" and "leaderboards" as you progress
+through the app. This would only be enabled if you choose to sign into Game Center. The leaderboards would show your Game Center alias.
+CIDR trainer does not include any 3rd-party advertisement or metric APIs. The only app usage metrics are collected by Apple
+(see Settings->Privacy->Share iPad Analytics). An anonymized statistical summary of aggregate app usage is shared with the authors
+via Apple App Store Infrastructure.
+If you have any questions feel free to email "networkmom AT proton.me"

@@ -1,0 +1,182 @@
+Introductie Concepteurs
+Visie
+1. Systeemoverzicht
+1.1 Cloud-implementatiemodel
+1.2 Cloud-servicemodel
+1.3 Bewaar klantgegevens fysiek
+1.4 Jurisdictie
+1.5 Toegankelijkheid cloud-oplossing
+2. Beveiligingsadministratie
+2.1 Beveiligingsbeleid
+2.2 Beveiligingsbewustzijn
+2.3 Audits en monitoring
+2.4 Detectie en afhandeling van beveiligingsincidenten
+2.5 Identiteits- en toegangsbeheer medewerkers
+2.6 Identiteits- en toegangsbeheer klanten
+2.7 Versleuteling
+2.8 Identiteits- en toegangsbeheer aangeboden aan de cloudklant
+2.9 Asset Management
+3 Logische beveiliging
+3.1 Systeembeveiligingsprocedures
+3.2 Applicatiebeveiligingsprocedures
+3.3 Netwerkbeveiligingsprocedures
+4. Operationele beveiliging
+4.1 Antivirusmechanismen
+4.2 Back-up en herstel
+4.3 Software Assurance
+5 Overdraagbaarheid van gegevens en services
+5.1 Eigendom van gegevens
+5.2 Gegevens- en serviceportabiliteit
+6 Beveiliging van externe organisaties (onderaannemers)
+7. Fysieke beveiliging
+7.1 Omgevingsmaatregelen
+7.2 Bedieningselementen datacenter
+8. Beheer van bedrijfscontinuïteit
+9. Privacy
+10. Beëindiging van de diensten / einde van het contract
+Inleiding Concepteurs
+Laten we ons eerst even voorstellen: Wij zijn Concepteurs. Concepteurs BV is de eigenaar van de BouwApp en alle daarvan afgeleide Whitelabel Applicaties. Concepteurs is een productontwikkelings- en verkooporganisatie.
+Visie
+Privacy staat bij ons hoog in het vaandel. Lang voordat de EU plannen maakte voor strengere wetgeving (AVG) rondom persoonsgegevens, hebben we Privacy als speerpunt gesteld. Vanaf versie 1.0 in 2013 is de BouwApp een sociaal medium dat voor iedereen toegankelijk is. In totaal hebben we dit platform nu al 7 jaar verder doorontwikkeld zonder onze belangrijkste pijlers uit het oog te verliezen:
+geen login
+niet verplicht om een naam achter te laten
+alleen noodzakelijke informatie die nodig is voor het downloaden van de app
+We gebruiken de informatie die we verzamelen (inclusief GPS) alleen voor het optimaal laten functioneren van de App. We gebruiken informatie niet voor commerciële doeleinden. Ons verdienmodel is duidelijk: opdrachtgevers of aannemers in Bouw & Infra nemen bij ons een abonnement af. Data is alleen toegankelijk voor Concepteurs en haar klanten en niet inzichtelijk voor derden.
+Ook de beveiliging is bij ons heel goed geregeld. We hebben meerdere ontwikkelaars in dienst die potentiële problemen (bijv. Datalek) snel kunnen oplossen. Gelukkig hebben we dit nog nooit meegemaakt. Hieronder beschrijven we onze werkwijze voor privacy en veiligheid om u ervan te overtuigen dat we er alles aan doen om mogelijke problemen in de toekomst te voorkomen.
+1. Systeemoverzicht
+1.1. Cloud-implementatiemodel
+Alle applicaties die Concepteurs implementeert en onderhoudt worden gehost op het Microsoft Azure Cloud-platform. Met schaalbare infrastructuurplatforms zoals Kubernetes en beheerde databases van Microsoft Azure is een stabiel en flexibel platform gegarandeerd. Elk project heeft zijn eigen namespace binnen het cluster, met informatie over de implementaties van dat project. Informatie is niet uitwisselbaar tussen namespaces.
+1.2. Cloud-servicemodel
+Op het moment van schrijven maken de meeste Concepteurs-klanten gebruik van het Microsoft Azure-infrastructuurmodel. Alle klanten worden gescheiden door de naamruimten die in de vorige sectie zijn beschreven. Dit geldt zowel voor webserverimplementaties als voor database-implementaties. De meeste projecten hebben verschillende applicatieomgevingen: test, staging en productie; elk voor verschillende doeleinden.
+1.3. Bewaar klantgegevens fysiek
+Omdat Concepteurs gebruik maakt van het Microsoft Azure cloud platform, worden alle data opgeslagen in hun datacenters. Concreet worden de gegevens opgeslagen in het datacenter van West-Europa, gevestigd in Nederland. De exacte fysieke locatie wordt niet bekendgemaakt door Microsoft.
+1.4. Jurisdictie
+Concepteurs en Concepteurs zijn volledig gevestigd in Nederland en zijn gebonden aan de jurisdictie van Nederland.
+1.5. Toegankelijkheid cloud-oplossing
+Alle applicaties die Concepteurs bouwt en onderhoudt, zijn vanuit elk land toegankelijk.
+2. Beveiligingsadministratie
+2.1. Beveiligingsbeleid
+Concepteurs heeft beleidslijnen en procedures voor informatie-integriteit.
+2.2 Beveiligingsbewustzijn
+Elke medewerker van Concepteurs dient via een webplatform verschillende cursussen informatie-integriteit te volgen, die eindigt met een test die moet worden gehaald.
+2.3 Audits en monitoring
+Voor monitoring vertrouwt Concepteurs voornamelijk op de Microsoft Azure-platforms, die de fysieke toestand van servers en hardware bewaken. Deze informatie is beschikbaar via de statuspagina van het Microsoft Azure-platform. Daarnaast worden alle applicaties elke minuut op beschikbaarheid gecontroleerd. Als een applicatie offline blijkt te zijn, worden de verantwoordelijke personen automatisch op de hoogte gesteld. Ook is er foutmonitoring. Alle fouten van de herkenningsapplicaties worden automatisch verzameld, waardoor fouten snel en betrouwbaar kunnen worden opgespoord.
+Herken serversysteemlogboeken omvatten (maar zijn mogelijk niet beperkt tot) het volgende:
+Toepassingsspecifieke uitzonderingen en context
+Informatie over storing van de webserver
+URL’s die zijn geopend
+Informatie over de toepassingsstatus
+Klanten kunnen systeemgebeurtenissen en bijbehorende informatie (d.w.z. gebruikers-ID, datum, tijd, geraadpleegde informatie, bijbehorende terminal / poort / netwerk) niet volgen.
+Regelmatige en administratieve fouten bij het inloggen van klanten door klanten worden geregistreerd. Na 5 mislukte inlogpogingen wordt de gebruiker 30 minuten geblokkeerd.
+Concepteurs heeft bescherming tegen ongeautoriseerde toegang. Dus niet elke medewerker heeft het toegangsniveau om systeemlogboeken in te zien. Slechts een klein deel van de medewerkers van Concepteurs heeft toegang tot de deployment services en kan van daaruit toegang krijgen tot de logs. Administratieve toegang tot onderliggende netwerk- en opslagtechnologieën is beperkt tot een zo klein mogelijke groep personeel, dus de toegang tot klantgegevens is voor de meeste systeembeheerders beperkt tot de klanten waarmee ze werken. Concepteurs onderhoudt ook een gecentraliseerde opslagplaats voor gebruikersgegevens en accountinformatie, wat betekent dat gebruikersnaaminformatie zeer gedetailleerd wordt beperkt en alle toegang en autorisatie voor toegang tot die informatie wordt gecontroleerd en geregistreerd. Concepteurs gebruikt een detectiesysteem voor kwaadaardig netwerkverkeer. Schadelijk verkeer wordt geblokkeerd.
+2.4. Detectie en afhandeling van beveiligingsincidenten
+Concepteurs maakt gebruik van een geautomatiseerd inbraakdetectiesysteem dat het volledige netwerk dekt in het hoofdkantoor in Almelo, Nederland. De output wordt dagelijks geanalyseerd.
+Het Intrusion Detection System (IDS) stuurt een e-mail naar de systeembeheerder, ook buiten kantooruren. Ook kunnen beheerders gebeurtenissen classificeren als beveiligingsincident na analyse van de output.
+Concepteurs maakt gebruik van een Beveiligingsincidentenregister. We hebben een beleid opgesteld hoe een incident moet worden gemeld, hoe het moet worden geclassificeerd en hoe te handelen, afhankelijk van de classificatie.
+Afhankelijk van de classificatie van het incident zullen passende maatregelen in gang worden gezet. Incidenten met de hoogste classificatie dienen direct gemeld te worden bij moederorganisatie Volker Wessels, zij zullen beslissen of het incident gemeld moet worden bij de autoriteiten. In alle gevallen wordt de beheerder geïnformeerd. Het incident wordt geregistreerd in het Register Beveiligingsincidenten. Beveiligingsincidenten worden gerapporteerd aan getroffen klanten zodra dit praktisch mogelijk is en in overeenstemming met het beleid voor het rapporteren van beveiligingsincidenten.
+Concepteurs werkt samen met klanten om klantspecifieke gegevens over inbreuk op de beveiliging te verstrekken. Gegevens worden overgedragen nadat de identiteit van de persoon aan wie de gegevens worden overgedragen, is geverifieerd.
+2.5 Identiteits- en toegangsbeheer medewerkers
+Er zijn medewerkers binnen Concepteurs die systeembrede rechten hebben voor het gehele cloudsysteem. Ze hebben de mogelijkheid en machtigingen om elk cloudsysteem te wijzigen. Dit kan alleen als ze overschakelen naar een bepaald project. Deze medewerkers worden geverifieerd op basis van de gebruikerslijst van Concepteurs met behulp van LDAPS en worden beheerd door het Concepteurs Infrastructure Team. Om dit toegangsniveau te krijgen, moet een account zijn ingeschakeld door het Concepteurs Infrastructure Team EN geautoriseerd door Concepteurs IT-Management.
+Kritieke beslissingen voor Concepteurs-applicaties worden geautoriseerd door de technisch directeur Concepteurs, in combinatie met de teamleider van het team dat verantwoordelijk is voor de specifieke cloudapplicatie. Wijzigingen die van invloed zijn op het gehele cloudsysteem worden met alle teamleiders besproken. Vanwege de omvang van het Concepteurs-team hebben sommige personeelsleden meerdere rollen met hoge bevoegdheden gekregen. Om dit risico te verkleinen, worden alle wijzigingen gelogd en beoordeeld door een breed scala aan systeembeheerders.
+Conform het Concepteurs Information Security Policy gebruikt Concepteurs een op rollen gebaseerd toegangsbeleid (RBAC). Het principe van de minste rechten wordt gevolgd, hoewel Concepteurs enkele beperkingen erkent voor de scheiding van taken die het momenteel heeft kunnen implementeren (zie hierboven).
+Concepteurs heeft een proces voor het ongedaan maken van de registratie van inloggegevens. Voor het herkennen van beheerdersreferenties omvat het proces voor beëindiging van het dienstverband stappen om die werknemer te verwijderen uit het gebruikersadresboek van Concepteurs, waardoor hun toegang tot de gecentraliseerde systemen van Concepteurs wordt opgeheven. Voor personeel van Concepteurs Hosting worden aanvullende stappen genomen door de Concepteurs Hosting Manager om systeemspecifieke toegang te verwijderen die afzonderlijk wordt verstrekt aan teamleden van Concepteurs Hosting. Het proces voor het ongedaan maken van de provisioning van gebruikersaccounts binnen de Concepteurs-systeeminstantie wordt gedefinieerd als onderdeel van het implementatieproject per klant en wordt meestal beheerd door de klant.
+2.6 Identiteits- en toegangsbeheer klanten
+Beheerdersrollen kunnen aan klanten worden gegeven zodat ze accounts kunnen maken / wijzigen / verwijderen binnen hun Concepteurs-webtoepassingsinstantie. Houd er rekening mee dat deze toegang geen manier biedt voor toegang tot of wijziging van de informatie of diensten van een andere klant of tot de onderliggende hostingomgeving.
+Gebruikersaccounts op het herkenningssysteem worden aangevraagd en geautoriseerd door geautoriseerde klantcontacten. Als het systeem is geïntegreerd met externe authenticatiediensten, is het aanmaken en beheren van accounts binnen dat externe systeem de verantwoordelijkheid van de klant.
+Voor het bezoeken van de Concepteurs webapplicatie wordt een geschikte wachtwoordlengte bepaald. De informatie wordt opgeslagen in een bedrijfsbrede sleutelkluis, maar gebruikers en medewerkers hebben alleen toegang tot de informatie die ze mogen zien. Alle sleutels worden veilig opgeslagen in de sleutelkluis van het cloudsysteem. Als er een kans bestaat dat een sleutel wordt gecompromitteerd, wordt de verantwoordelijke op de hoogte gesteld en wordt een nieuwe sleutel gegenereerd.
+2.7 Versleuteling
+De virtuele machines die worden gebruikt om Concepteurs-applicaties uit te voeren, zijn niet versleuteld, maar data wel. Voor databases maakt Concepteurs gebruik van Microsoft Azure data at rest-versleuteling, wat betekent dat inactieve gegevens automatisch worden versleuteld.
+Concepteurs dwingt het gebruik van HTTPS af op alle applicaties, wat betekent dat alle webpagina’s versleuteld zijn (data in transit).
+Voor databases worden de gegevens at rest automatisch versleuteld met behulp van het Microsoft Azure-platform.
+Voor de versleuteling van databasegegevens heeft Microsoft Azure toegang tot de sleutels voor ontsleuteling, die zijn opgeslagen in de Azure Key Vault. Voor HTTPS wordt bij elk verzoek onderhandeld over een nieuwe gedeelde sleutel. Deze sleutel is zowel beschikbaar voor de clientbrowser als voor Concepteurs.
+Voor de beschikbaarheid van coderings- en decoderingssleutels vertrouwt Concepteurs op platforms van Microsoft Azure en LastPass. Als de informatie niet meer beschikbaar is, heeft Concepteurs de mogelijkheid om het probleem te escaleren naar een probleem met hoge prioriteit bij de corresponderende externe provider.
+Als onderdeel van ons informatiebeveiligingsbeheersysteem wordt een beleid gedefinieerd welke informatie moet worden versleuteld en welke niet. Het beheersysteem is in het Nederlands. Op verzoek kunnen wij een kopie toesturen.
+2.8 Identiteits- en toegangsbeheer aangeboden aan de cloudklant
+Gebruikers in Concepteurs-applicaties, en De BouwApp in het bijzonder, hebben verschillende rollen:
+Alleen weergeven: voor klanten die alleen gegevens kunnen zien
+Bewerken: voor klanten die gegevens voor specifieke projecten kunnen bewerken
+Manager: Voor klanten die gegevens kunnen bewerken voor alle projecten van één klant. Ze kunnen ook toestemming geven aan andere medewerkers van dezelfde klant.
+Beheerder: Medewerkers van product owner van de BouwApp (Concepteurs) en medewerkers van Concepteurs die aan de BouwApp werken.
+Klanten hebben geen toegang tot het Admin panel of andere projecten van andere klanten. Toegang tot het admin panel van De BouwApp wordt slechts aan zeer weinig mensen verleend.
+Admin-gebruikers (eigenaren van De BouwApp) kunnen het toegangsniveau voor meerdere gebruikers wijzigen. Gebruikers met bewerkingsrechten voor een project, kunnen toegang verlenen aan andere gebruikers voor dat specifieke project.
+2.9 Asset management
+Assets worden geclassificeerd op basis van gevoeligheid en kriticiteit. Concepteurs gebruikt de OTAP-strategie voor het scheiden van systemen. OTAP staat voor Development, Testing, Acceptance, Production. Ontwikkelings-, test- en acceptatiefasen gebruiken anonieme testgegevens voor ontwikkeling en testen. Als een enkele klant meerdere systemen heeft die worden gehost met Concepteurs die verschillende niveaus van gegevensclassificatie vereisen, worden die systemen op dezelfde manier gescheiden als verschillende klanten.
+3 Logische beveiliging
+3.1 Systeembeveiligingsprocedures
+Bij wijzigingen in de systeembeveiliging op de volgende gebieden, neemt het managementteam van Concepteurs beslissingen op basis van de wijziging:
+Informatiebeveiliging
+Privacy
+Wijze van verwerking van (bijzondere) persoonsgegevens
+Bij een grote projectwijziging wordt een plan aan het voorstel toegevoegd.
+Ontwikkelaars hebben geen toegang tot productiesystemen en gegevens, tenzij ze beheerdersrechten hebben op productiehostingsystemen. Er zijn geen voorwaarden om ontwikkelaars toegang te verlenen tot de productiesystemen en data.
+Telkens wanneer werknemers worden toegevoegd, verwijderd of van rol veranderen binnen de organisatie, wordt bovendien de gebruikersdatabase beoordeeld op geschiktheid om toegang te krijgen tot vertrouwelijke informatie, elk kwartaal afhankelijk van het systeem dat aan herziening toe is.
+De technisch manager autoriseert de toegang tot systemen die klantinformatie bevatten. De Technisch & Functioneel Beheerder voert het verlenen van de toegang uit.
+3.2 Applicatiebeveiligingsprocedures
+Concepteurs heeft een formeel gedocumenteerd beveiligingsbeheerproces om ervoor te zorgen dat alle toegang tot de applicatie wordt goedgekeurd. Concepteurs maakt gebruik van een systeem waarin toegang tot applicaties formeel moet worden aangevraagd. Toegang kan alleen worden verleend na goedkeuring.
+De gecentraliseerde beveiligingsbeheerfunctie maakt periodieke beoordelingen van gebruikerstoegang door het management van de bedrijfseenheid mogelijk om ervoor te zorgen dat de toegang in de loop van de tijd in overeenstemming blijft met de functieverantwoordelijkheden. Deze reviews worden meestal uitgevoerd door de Technisch & Functioneel Beheerder.
+De technisch en functioneel beheerder beoordeelt elke 3 maanden de directe gegevenstoegang (d.w.z. de toegang tot de databasebeheerder) om ervoor te zorgen dat de toegang in overeenstemming blijft met de functieverantwoordelijkheden.
+Gebruikers-ID’s en wachtwoorden zijn privé (niet gedeeld). Onder welke omstandigheden? Alleen kennis hebben van beheerderswachtwoorden. Ze kunnen inloggen als projectgebruiker (een andere gebruiker), hiervoor is geen wachtwoord nodig.
+Klantgegevens zijn alleen toegankelijk voor klantgebruikers. De zekerheid voor de juiste controle van klantgegevens berust op het feit dat Concepteurs procedures en beleidslijnen voor informatiescheiding heeft gedocumenteerd en gebruikt. Dit beleid is vereist door de ISO27001-norm.
+3.3 Netwerkbeveiligingsprocedures
+Concepteurs houdt een up-to-date diagram bij dat het netwerk beschrijft dat de klantensystemen bevat. Azure-netwerktopologie genereert diagrammen in realtime.
+Alle gebruikersgegevens in databases die zijn opgeslagen op het Microsoft Azure-platform zijn beveiligd met IP-whitelisting (naast sterke gebruikers- en wachtwoordcombinaties). In het hoofdkantoor in Almelo is het netwerk beveiligd met een netwerkbrede firewall en een inbraakdetectiesysteem.
+Onze firewalls zijn op maat gemaakt om zo min mogelijk verkeer door te laten.
+Onze firewalls worden regelmatig beoordeeld op geschiktheid. In ieder geval bij elke update van de routersoftware die minimaal 4 keer per jaar is.
+Concepteurs monitort potentiële beveiligingsbedreigingen voor het interne netwerk. We hebben een inbraakdetectiesysteem. Het systeem waarschuwt de beheerder bij verdachte acties en wordt bijna dagelijks beoordeeld.
+Toegang op afstand wordt verleend aan alle medewerkers, maar gebaseerd en gecontroleerd door een centraal authenticatiesysteem, een radiusserver. Zelfs nadat externe toegang is verleend, moeten gebruikers zich nog steeds authenticeren bij individuele systemen om toegang te krijgen.
+Het netwerk waarop de klantinformatie zich bevindt, is gescheiden van het netwerk waarmee onze medewerkers zijn verbonden. Er is een apart netwerk dat gehost wordt op het Microsoft Azure cloud platform.
+Alle draadloze toegangspunten bevinden zich achter stateful firewalls. Er is een apart gastnetwerk gemaakt van waaruit gasten geen toegang hebben tot interne bronnen.
+4. Operationele beveiliging
+4.1. Antivirusmechanismen
+Alle servers en werkstations maken gebruik van een antivirusoplossing. Zodra updates beschikbaar zijn en bewezen stabiel zijn, worden de handtekeningen en engines bijgewerkt.
+4.2. Back-up en herstel
+Van databaseverschillen wordt ongeveer elke 12 uur een back-up gemaakt door het Microsoft Azure-platform, terwijl elke week een volledige back-up wordt gemaakt. Van alle hostinggerelateerde bestanden wordt eenmaal per week een back-up gemaakt, waardoor servers en applicaties snel opnieuw kunnen worden geïmplementeerd.
+De backups worden bewaard bij Microsoft Azure, in West-Europa. De back-ups van databases zijn versleuteld.
+4.3 Software Assurance
+Alle code voor Concepteurs (De BouwApp en White Labels) is geschreven door Concepteurs. Voorafgaand aan de implementatie wordt elke applicatie gecontroleerd op een lijst met beveiligingsprotocollen die voortdurend wordt bijgewerkt op basis van pentestresultaten van projecten binnen het bedrijf. Externe afhankelijkheden worden ook gecontroleerd op bekende kwetsbaarheden.
+We valideren alle nieuwe releases om er zeker van te zijn dat ze geschikt zijn voor het beoogde doel en geen risico’s inhouden. De meeste door Concepteurs gebouwde projecten bevatten functionele en / of unit tests om een werkend systeem te valideren. Nadat een ontwikkelaar een functie heeft gebouwd of een ander soort code heeft geschreven, is het altijd vereist om deze code te laten valideren door ten minste één mede-ontwikkelaar om ongewenste bugs of beveiligingsproblemen te voorkomen.
+Concepteurs volgt de best practices uit de branche voor het vermijden van webkwetsbaarheden om de applicaties veilig te houden, inclusief (maar niet beperkt tot):
+SQL-abstractie via een objectmanager om SQL-injectie-aanvallen te voorkomen
+Geen directe toegang tot de opdrachtregel om opdrachtinjectie te voorkomen
+Automatisch strippen van HTML om XSS-aanvallen te voorkomen
+Beveiligingschecklist bij implementatie
+Pen testen van applicaties
+5 Overdraagbaarheid van gegevens en services
+5.1 Eigendom van gegevens:
+Alle gegevens in de cloud – behalve het eigen onderliggende cloudsysteem en technologieën van Concepteurs – blijven eigendom van de Klant. Dit omvat, maar is niet beperkt tot, informatie die het resultaat is van enige verwerking van klantgegevens die plaatsvindt in het cloudsysteem, klantspecifieke logbestanden, klantspecifieke toegangsreferenties en alle invoer en uitvoer van het cloudsysteem van de klant.
+5.2 Gegevens- en serviceportabiliteit
+Een subset van de gegevens kan via de webinterface uit de BouwApp-applicaties worden geëxporteerd. Als er nog meer gegevens worden gevraagd, kunnen deze gegevens handmatig door Concepteurs worden verstrekt. De gegevens worden geëxporteerd in een spreadsheetbestand (Excel of een door komma’s gescheiden bestand).
+Gegevens kunnen naar een andere cloud worden geëxporteerd, zolang de andere cloudprovider voldoet aan de door Concepteurs gestelde beveiligingsnormen, de applicatie zou op een ander platform moeten kunnen draaien. De code is niet geschreven om vast te houden aan een specifiek platform.
+De cliënt kan zijn eigen gegevensextractie niet uitvoeren. Deze actie kan alleen worden uitgevoerd door Concepteurs.
+6. Beveiliging van externe organisaties (onderaannemers)
+Het grootste deel van de cloudinfrastructuur van Concepteurs wordt uitbesteed aan Microsoft Azure:
+Hostinginfrastructuur (Kubernetes op Azure Kubernetes)
+Database (Microsoft Azure-databases)
+Grote bestandsopslag (Microsoft Azure Blob Storage)
+Microsoft Azure is ISO27001-compatibel en gecertificeerd. Bron: https://docs.microsoft.com/en-us/microsoft-365/compliance/offering-iso-27001?view=o365-worldwide
+7. Fysieke beveiliging
+7.1 Omgevingsmaatregelen
+Fysiek zijn de Microsoft Azure-datacenters die we gebruiken Tier IV (4).
+Het Microsoft Azure-datacenter faciliteert brandbestrijding en back-up in de regio om de systemen te beschermen die klantinformatie opslaan
+7.2 Bedieningselementen datacenter
+Het datacenter van Microsoft Azure faciliteert:
+Toegangsverzoek en goedkeuring
+Fysieke beveiligingsbeoordelingen
+Gegevensdragende apparaten
+Verwijdering van apparatuur
+Alleen medewerkers die geautoriseerd zijn door Microsoft Azure hebben toegang tot de fysieke locatie van de data. Toegang wordt gecontroleerd door beveiligingsmedewerkers. Daarnaast wordt er, om door het datacenter te kunnen bewegen, gebruik gemaakt van biometrische authenticatie.
+Autorisaties voor het Microsoft Azure datacenter zijn slechts voor een korte periode geldig en vervallen daarna.
+Meer informatie over toegang tot datacenters is te vinden op: https://docs.microsoft.com/nl-nl/azure/security/fundamentals/physical-security
+8. Beheer van bedrijfscontinuïteit
+Concepteurs hanteert een gedocumenteerde methode die de impact van een verstoring gedetailleerd beschrijft. Er wordt een servicepagina bijgehouden waarop details kunnen worden bekeken van welke services worden beïnvloed en in welke delen van de wereld.
+In geval van een storing zal Concepteurs en Concepteurs zo snel mogelijk communiceren met klanten en eindgebruikers in geval van een onderbreking van de service. Afhankelijk van de storing; we gebruiken communicatiekanalen zoals e-mail, websites en de applicatie zelf.
+Veel failover-bewerkingen zijn automatisch en serviceherstel wordt voor alle klanten tegelijkertijd uitgevoerd. Voor handmatige failover-bewerkingen (zoals het promoten van een secundaire site om de primaire site te worden) is de volgorde waarin klanten worden hersteld niet gedefinieerd en is ter beoordeling van Concepteurs en de Concepteurs Hosting Manager. In dat geval worden prioriteiten gesteld in een issue lijst door Concepteurs.
+9. Privacy
+Alle gegevens worden opgeslagen in West-Europa en zijn onderhevig aan de AVG-wetten van de EU.
+We informeren klanten en eindgebruikers over de persoonlijke informatie die wordt verzameld. Het privacybeleid is beschikbaar wanneer de eindgebruikers de BouwApp downloaden. Het privacybeleid stelt duidelijk dat Concepteurs en Concepteurs persoonlijke informatie alleen verzamelt voor de officiële bedrijfsvoering en dat het geen persoonlijke of persoonlijk identificeerbare informatie zal gebruiken voor andere doeleinden dan die doeleinden die vereist zijn bij het leveren van de service aan de klant.
+Ons privacybeleid is beschikbaar op https://www.debouwapp.nl/privacy-statement/
+10. Beëindiging van de diensten / einde van het contract
+Bij beëindiging van het Contract kan Concepteurs alle gegevens verkrijgen via een back-up en deze aan de Klant overhandigen. Tijdschema’s en methode zijn in onderling overleg.
+Alle klantgegevens worden bij beëindiging van het contract veilig vernietigd. Alle gegevens worden opgeslagen op het Azure-platform. Wanneer klanten gegevens verwijderen of Azure verlaten, volgt Microsoft strikte normen voor het overschrijven van opslagbronnen voordat ze opnieuw worden gebruikt, evenals de fysieke vernietiging van buiten gebruik gestelde hardware. Microsoft voert een volledige verwijdering van gegevens uit op verzoek van de klant en bij beëindiging van het contract ”. In het geval dat gegevens op lokale schijven worden opgeslagen, worden alle klantgegevens veilig van schijfstations gewist met behulp van een zevenvoudig overschrijfproces. Bij het buiten bedrijf stellen van harde schijven worden schijven bovendien gedemagnetiseerd voordat ze worden afgevoerd. Waar gegevens worden opgeslagen op SSD-schijven, worden leverancierspecifieke veilige verwijderingsprocedures gebruikt – minimaal 7 overschrijvingen zijn gegarandeerd voor alle klantgegevens. Concepteurs anonimiseert of bewaart uw gegevens niet: Alle klantgegevens worden verwijderd. Concepteurs zal alle klantgegevens vernietigen na verificatie met de klant dat de gegevens vernietigd kunnen worden, maar uiterlijk 1 maand na beëindiging van het contract, tenzij de klant anders beslist.
+In geval van faillissement zal de cloudprovider de klant voorzien om informatie over te dragen van de servers van de provider.
+Wanneer de cloudprovider wordt overgenomen door een ander bedrijf, zal Concepteurs onderzoeken of de nieuwe eigenaar dezelfde service en beveiliging gaat leveren, of beter, als de vorige eigenaar. Is dat niet het geval, dan gaat Concepteurs op zoek naar een alternatieve aanbieder die aan de daarvoor gestelde normen voldoet.

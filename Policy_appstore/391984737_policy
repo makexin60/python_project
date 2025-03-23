@@ -1,0 +1,136 @@
+Sign in
+Sign up
+News
+My area
+Journey planner
+Photomap
+Mobile
+About
+Help
+Feedback
+About
+Features
+Get involved!
+Promote
+Funding and donations
+Help
+BETA status
+Contacts
+Feedback
+Privacy / usage policy
+Last updated: August 2024
+These terms apply to use of our website or third-party use via our API.
+If you have any questions on use of personal data, please do not hesitate to contact us via the
+feedback
+facility.
+About our site
+CycleStreets enables you to plan cycle routes, contribute photos of transport infrastructure, and view/contribute transport-related data for cycling advocacy purposes.
+We aim at all times to operate a privacy-aware site that protects your rights.
+This website is operated by CycleStreets Ltd, a not-for-profit social enterprise (company no. 06948959) working to increase cycling (and active travel more generally), based in Cambridge. You can read more about us at:
+https://www.cyclestreets.org/about/
+.
+Data processing
+Data is solely processed on servers in the UK.
+No intrusive user tracking cookie technologies such as Google Analytics, third party cookies, or browser canvas fingerprinting are in use.
+The server logs have standard default logging enabled for the purposes only of generating generalised usage analytics (using a locally-installed log analyser) and for site security. These are checked manually only retrospectively in the event of a security issue requiring investigation. Log files are anonymised after 6 months by stripping out IP addresses. Log data is not shared with any third party.
+All our services use HTTPS, which ensures that, where a username and password are entered in order to save/retrieve account details, these are sent encrypted to the server.
+User accounts
+A user account is not required to plan journeys using the site or view other resources.
+Some parts of the site invite you to submit crowdsourced data, e.g. the Photomap. These require an account to be created, for the purposes of ensuring material is correctly credited and preventing abuse.
+An account requires your e-mail address and a display name. The display name is used to credit your submissions, but your e-mail is not shown.
+Passwords are stored hashed using a standard strong encryption mechanism.
+If an account is requested to be deleted, this is fully deleted rather than deactivated.
+Journey planning
+The location points (start, finish, any waypoints) of your journey are initially sent our system in order that a route can be planned. We receive no indication whether this relates to your current physical location.
+No location tracking data is sent to our servers while following a route.
+Journey itineraries can be retrieved at any time by entering the route number in apps which support this. Viewing of itineraries are segregated by application (API key), i.e. a route planned in one app/website is not viewable from a different published app/website. Implementations using our API v2 can disable itinerary storage.
+No personal data is ever displayed in route listings.
+If you have a user account and plan a route while signed in, the route is stored in your user account.
+We retain waypoint data so as to create an aggregated origin-destination dataset that may be used to improve the future performance of the planner, or for research / transport planning purposes (e.g. network accessibility analysis, determining cycling rates in different areas, or modelling the safety effect of hypothetically removing one-way street restrictions). Any such uses are not connected to user IDs (nor IP addresses).
+We will not intentionally make available any publicly-accessible index of journeys planned.
+CycleStreets apps that request access to the user's address book have this functionality purely so that the user can do 'route to contact' on demand. Apps do not, and are unable to, upload any such data to the CycleStreets server. This can be independently verified by viewing the
+source code
+of our apps, and the APIs do not support such upload.
+User photo/other submissions
+While it is not our intention to moderate postings or prevent dissenting views, overtly anti-cycling postings will be subject to removal, as they will be considered off-topic.
+Postings that are defamatory or abusive will also be subject to removal. Any such postings can be reported via the feedback facility.
+Generative AI scraping/usage
+Permission is not granted to scrape (or retrieve via our API) any content on the site for generative AI purposes without express permission. Doing so is a breach of our database right, and scraping of large amounts of content uses significant server resources.
+Our robots.txt file refers to use for traditional search engine results, not generative AI. It must not be treated as implicit permission for generative AI purposes.
+This usage policy is linked to from all pages, and so content scrapers can be regarded as having been informed.
+If you wish to discuss potential use for AI, please
+contact us
+.
+Anyone using a generative AI model that has learnt from content on this site without permission should consider their usage tainted by copyrights not licensed to them. We reserve the right to seek legal redress.
+X
+Give feedback
+We welcome your feedback, especially to report bugs or give us route feedback.
+My comments relate to: *
+Route problem/feedback
+Other Journey Planner problem
+Photomap
+Mobile app feedback
+Bug report
+Report abuse
+Other, general feedback
+Your comments: *
+URL of page: *
+https://www.cyclestreets.net/privacy/
+How did you find out about CycleStreets?:
+Your name:
+Your e-mail address:
+Our ref:
+Please leave blank - anti-spam measure
+*
+Items marked with an asterisk [*] are required fields and must be fully completed.
+Twitter
+Facebook
+Instagram
+Short link:
+https://cycle.st/privacy/
+Hosting kindly helped by
+Mythic Beasts
+CycleStreets
+St John's Innovation Centre
+Cowley Road
+Cambridge CB4 0WS
+United Kingdom
+About
+🚲
+About CycleStreets
+Privacy / usage policy
+How it works
+Features
+Help
+Credits
+Feedback
+Contact us
+Local Authorities
+🚲
+White label sites
+Brochure
+Example site
+Embedding methods
+Link to CycleStreets
+Link to us
+🚲
+Customised link
+Per-area sites
+Banners and logos
+Developers
+🚲
+API
+Github
+Support us
+🚲
+Donate
+Commission us
+Get involved
+Promote
+OpenStreetMap
+Fix/add map data
+Mobile
+🚲
+Mobile website
+iPhone app
+Android app

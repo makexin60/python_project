@@ -1,0 +1,37 @@
+**Grapes Android Service**
+
+Grapes service can be found at https://play.google.com/store/apps/details?id=com.renault.car.grapes
+
+**Grapes Usage and Scope:**
+ 
+Grapes is an automotive production application. 
+
+Its goal is to improve driver experience with Renault SAS products by:
+- enabling better maps to be created for automotive usages
+- improving radar software performances
+
+While Grapes application is running onboard, on selected specific roads, it captures data from the front radar as well as location information and aggregate theses information to provide it offboard.
+
+To that extent Grapes can exchange and collect:
+- Front radar raw data (road echoes)
+- Front radar technical data (operating errors)
+- Front radar part Identification
+- Vehicle location is collected when the car has moved out of a 2 km radius of its starting location
+- Vehicle location is NOT collected within a 2 km radius of the car end of trip.
+
+Data collected by Grapes application are shared as crowd mapping data source with Robert Bosch GmbH.
+
+In no case these data can be linked to some personal information outside of Renault SAS.
+
+As a driver you should be aware and agree with the followings informations:
+- Renault SAS collects these data through the consent you gave in the privacy settings of the car Infotainment System.
+- You may withdraw your consent at any time. In addition, your data is stored only during the necessary time to carry out analysis. The data retention policy is 7-days, after that, the data is deleted.
+- Please note that some processing operations may involve transfers of personal data to countries outside the European Economic Area. In this respect, a legal mechanism provides a framework for this transfer in accordance with the applicable regulations on personal data protection, in particular the signature of Standard Contractual Clauses approved by the European Commission and, if necessary, accompanied by appropriate additional measures. 
+
+- In accordance with the applicable regulations, you have the right to access, rectify, erase, limit the processing of, and object to the processing of their data, as well as the right to data portability under the conditions provided for under the applicable regulations on personal data protection.
+- You can exercise your rights, as well as contact the Data Protection Officer, in the following ways:
+    - by e-mail to dpo@renault.com
+    - by post to Renault SAS, Direction juridique – Délégué à la protection des données, 122-122 bis avenue du Général Leclerc 92100 Boulogne-Billancourt
+
+- In the absence of a reply or satisfactory response from Renault SAS, you have the right to fill a complaint with the Commission Nationale de l'Informatique et des Libertés (CNIL), the supervisory authority in charge of compliance with personal data obligations in France. 
+- Further information can be found @ https://www.renault.fr/donnees-personnelles.html

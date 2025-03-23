@@ -1,0 +1,1752 @@
+When do we collect your information?
+What information do we collect?
+How do we collect your information?
+How do we use personal information?
+Exceptions
+Other Privacy Considerations
+Revisions
+California Residents Privacy Notice
+Malwarebytes Privacy Policy
+Last Updated: January 14, 2025
+We believe you have the right to a malware-free existence. We also believe just as strongly that you have the right to privacy and control over your information. This fundamental belief shapes our Privacy Policy.
+We will be clear about the data we collect and why. We do not and will not sell your data to third parties. Our primary purpose in collecting your data is to be able to equip you with effective products and services that provide a more agile, dynamic response to new and unknown threats.
+This Privacy Policy applies to Malwarebytes websites and products and describes how Malwarebytes collects, uses, shares and secures your personal information. It also describes your choices regarding use, access and correction of your personal information.
+Please, if you have any questions or suggestions, don’t hesitate to contact us at
+privacy@malwarebytes.com
+.
+Caution: Legalese ahead.
+When do we collect your information?
+We may collect your information: (1) when you license and use our software (“Software Collection”); (2) when you interact with certain portions of our website, such as our forums, blogs, and support center (“Website Collection”); (3) when you communicate or interact with us by email, chat, or otherwise (“Dialogue Collection”); and (4) when you apply to work for us (“Job Applicant Collection”)
+Simply
+We collect your information when you use our software, website, or otherwise communicate with us.
+What information do we collect?
+We may collect both personal information and non-personal information. personal information is information that is either expressly provided by you, such as your name, or information that can be used either alone or in combination with other information to personally identify you, such as your email address, phone number, and user name.
+We may collect the following personal information from you: Contact Information (such as name, email address, mailing address, or phone number); Unique Identifiers (such as username and password used for authenticating your Malwarebytes accounts and products) and machine identification numbers, Internet protocol (IP) addresses,; Information about your business (such as company name, company size, business type) and; Information related to your usage of our products as described in the next section, below.
+Our service providers may collect billing information (credit card number and billing address) on our behalf to process orders.
+Non-personal information is all information that is not personal information or is information that was personal information but which we modify and/or aggregate with other data in order to make it Non-personal information. As is true of most websites, we gather certain information automatically. This information may include browser type, Internet service provider (ISP), referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, clickstream data to analyze trends in the aggregate, and/or other metadata associated with your machine and usage activities and anonymously generated device identifiers and administer the site.
+Simply
+There are two types of information we collect: personal and non-personal.
+Software Collection – information collected when using our security software
+User-Agent String
+Each API communication coming from any of our client software identifies itself with a string that includes information about the software itself:
+The program and build which is sending the      request
+The current license state (as identified by the product)
+The version of the software as well as any subcomponents (currently, databases) that it uses
+Why?
+So we can manage your Malwarebytes product and ensure that it is up to date.
+GeoIP Data
+When we collect data from our client systems, we do not store IP address from which the request originates. . However, we do use it to gather geographic information on the system calling in:
+A location item indicating the continent, country, city, and approximate latitude/ longitude of the user based on your IP address
+The type of connection (dialup/broadband/satellite/mobile)
+The ISP through which the connection is made
+The organization to which the IP address is licensed, if any
+Why?
+So our malware intelligence team can track malware and potentially unwanted program (“PUP”) outbreaks and patterns.
+Functional Data
+We collect data that is necessary for the functionality of the software or for our performance of providing the software to you. For example, we may need to collect system processes and behaviors in order to perform system rollback and recovery operations.
+Why?
+So our products are able to function as intended, including being able to detect and remediate malware and PUPs, and provide rollback and recovery operations.
+Client Data
+In addition to functional data, we collect client data from each program that describe the client environment (i.e., our software and the computer system it is running on). In this, we collect:
+The operating system the program is installed on
+The system language in use on that system
+The processor architecture (i.e., 32- or 64-bit)
+The file system in use (i.e., FAT32)
+Information from the Windows Security/Action Center, including security settings and programs installed or in use
+Information about other Malwarebytes program settings and how they are configured
+Information about how you use our software or services (“Log Data”) including use of integrations with our products
+Why?
+So we can gather performance data around our products and how they operate in relation to different hardware and software environments. By having this data, we can improve our products as well as optimize them for the various system configurations that our users are using.
+Machine Identification Data
+We identify each system by assigning each system with a Malwarebytes-generated distinct identifier that is created at install time.
+Why?
+So we are able to get an accurate count of our install base. We are also able to identify changes to an individual system over time, allowing us to recognize trends which are used for improving our products.
+License Data
+We collect data from products corresponding to the products’ applicable license state. These data also use a unique identifier. In this, we collect:
+The key or keys used to license the current product
+The type of license being used
+If it represents a console system, the number of seats being managed by that installation of the console
+Endpoint and network domain information
+Why?
+So we can remind you when your Malwarebytes subscription is about to expire or to determine the correct license type. We may use such license data in conjunction with other software collection to assist you in resolving licensing issues.
+Malware and PUP Data
+We collect data about the malware and PUPs that are detected by our products. We collect:
+The vendor name of the malware or PUP removed
+An encrypted description of which database rule was used to remove the malware or PUP in question
+Artifacts detected as malware, PUPs, or suspicious files
+Information related to detected artifacts
+Why?
+So our malware intelligence team can track malware and PUP outbreaks and improve the efficacy of Malwarebytes products.
+Trial Data
+When a client attempts to start a trial, we track it remotely in order to validate that the trial is allowed. For this information we use another unique system identifier. We collect:
+The client’s request for a trial
+The start date and duration of the trial provided
+Any attempted conversion/purchase generated by clicking an in-app link, so that it can be correlated with a trial
+Why?
+So we can update your Malwarebytes products accurately and when they need it.
+Exploit Data
+In Malwarebytes Anti-Exploit products we collect a complex data object for any exploit process which is blocked by the software. In this data we collect:
+Process ID of the exploit process
+File path of exploit process
+MD5 hash of the exploit payload, if any
+Command-line arguments passed to the exploit
+A list of URLs potentially associated with the exploit, including redirect jumps if any
+Exploit payload files
+Exploit file-format (doc, pdf, xls, etc…)
+(Potentially) a copy of the exploit executable itself
+Why?
+So our malware intelligence team can track exploit outbreaks and deepen its understanding of new exploit techniques.
+Operating System User Account Name and Domain
+In certain Malwarebytes business products providing brute-force attack protection, we collect user account names and domain information.
+Why?
+So that you (as the customer) can see what credentials are being targeted during brute-force attacks.
+Port number(s) used for incoming connections.
+In certain Malwarebytes business products providing brute-force attack protection, we collect user account names and domain information associated with connections to network port numbers, including, but not limited to, those associated with: remote desktop protocol, FTP, SQL, IMAP, POP3, SMTP.
+Why?
+So that you (as the customer) can see what ports are being used for connections by different protocols, and improve our products.
+Mobile Application Data
+When you download and use our Services, we automatically collect information on the type of device you use, operating system version, and the unique device identifier.
+We send you push notifications from time-to-time in order to update you about any events or promotions that we may be running. If you no longer wish to receive these types of communications, you may turn them off at the device level. To ensure you receive proper notifications, we will need to collect certain information about your device such as operating system and user identification information.
+We do not ask for, access or track any location-based information from your mobile device at any time while downloading or using our Mobile Apps or Services.
+We use mobile analytics software to allow us to better understand the functionality of our Mobile Software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personal information you submit within the mobile application.
+As part of our text message filtering functionality, our Mobile Software also collects text messages from senders who are not in your contacts, and analyzes these text messages to determine whether they are malicious. We only receive the sender information and the body of the message which is analyzed to determine if they contain malicious URLs or come from malicious senders; no information is provided about the recipient. Text messages that are malicious are retained for analysis by our researchers, however, all other text messages are discarded. To learn more please visit our
+knowledgebase article here
+Simply
+We collect information that allows us to fight against malware and PUPs on your device and contact you if you allow us to send push notifications.
+Malwarebytes Cloud Storage Scanner (“CSS”)
+See above “Software Collection – information collected when using our security software” for details regarding data collection.
+Where you use CSS:
+You provide Malwarebytes with access to data contained in the applicable cloud repositor(ies) you share with Malwarebytes.
+You control what files in those repositories are subject to scanning and access by Malwarebytes.
+You are responsible for any requirements or necessary consents for providing such files to Malwarebytes.
+In order to perform the scan, Malwarebytes may transfer the files to Malwarebytes controlled servers in the United States. Such files are promptly deleted after the completion of the scan. Malwarebytes does not retain any copies of such files.
+Why?
+So that our products are able to function and perform your instructions.
+Software Collection – information collected when using our Malwarebytes Privacy VPN software
+License Data
+As part of installation and activation of your Malwarebytes Privacy VPN application, we:
+Collect the key used to license the product; and
+Generate a unique identifier.
+Why?
+So that we can activate your license, validate your account, and assist you in resolving licensing issues.
+Software Version
+We identify what version of the Malwarebytes Privacy VPN application you are running.
+Why?
+So that we can provide you with updates to the Malwarebytes Privacy VPN product.
+Malwarebytes Privacy VPN’s WireGuard public key
+Your Malwarebytes Privacy VPN application generates a cryptographic public/private key pair.
+We only receive the public key which is used to validate and establish a VPN connection.
+Your public/private key pair is periodically changed for increased security.
+Why?
+So that your Malwarebytes Privacy VPN application is able to connect to the VPN service as allowed under the applicable device limit associated with your purchase.
+The Malwarebytes Privacy VPN application does not collect or retain the following:
+Details about the websites or IP addresses browsed on your device;
+DNS requests made by you;
+Bandwidth usage on your device;
+Network details of your device, including IP address;
+Telemetry data from the Malwarebytes Privacy VPN application, including telemetry on functionality and on system environment; OR
+Local Malwarebytes Privacy VPN application logs. These logs are only available on your device and can be helpful for diagnostic purposes if you experience connectivity issues. If you have an issue with the application you can choose to submit a copy of the log to our support team, but we do not automatically receive it.
+Website and Dialogue Collection
+As part of our Website Collection and Dialogue Collection we collect and we ask you to provide information about yourself including but not limited to:
+Contact details, including but not limited to your name, address, e-mail address;
+User ID and password, if you establish a Malwarebytes account;
+Chat and video conference information, you provide when interacting with our teams;
+Information about your device, including browser type and web traffic information
+Why?
+Providing your data is optional, but it may be necessary for certain services, accessing content, such as whitepapers, news letters, webinars, or to receive customer support services. In such cases, if you do not provide your information, we may not be able to provide you with the requested services. You may agree to receive newsletters or promotional content when you opt to provide your information. You can unsubscribe at any time.
+Job Applicant Collection
+When you apply for a position at Malwarebytes, we ask you to provide information about yourself including, but not limited to:
+Contact details, including but not limited to your name, address, e-mail address;
+Your past education and job history, and other customary details you include on your resume or curriculum vitae; and
+Voluntary EEO or similar data required to comply with applicable laws, including equal Employment Opportunity record keeping, reporting, and other legal requirements.
+Simply
+We collect your information when you give it to us as part of a job application.
+How do we collect your information?
+Directly
+Some information you (or someone acting on your behalf) provide to us directly. For example, when you post comments, ask questions in our blog, fill out a user profile, apply for a job, or voluntarily decide to grant us remote access to provide you with technical support. Also, we may collect and store all posted forum and blog information and user profiles and make them available for public viewing.
+Simply
+We collect your information when you give it to us or post in forums or blogs.
+Cookies
+Malwarebytes and its service providers collect information through the use of first-party and third-party “cookies” and other similar tracking technologies to analyze trends, administer the website, track users’ movements around the website, to market our products, and to gather demographic and regional information about our user base as a whole.
+Cookies are text files saved by your browser when you log into our software or services. We may use both session cookies and persistent cookies to identify that you have logged in, to tell us how and when you interact with our software or services, and to check aggregate usage and web traffic. Unlike persistent cookies, session cookies are deleted when you log off and close your browser.
+If you prefer, you can always change your browser options to stop accepting cookies or to prompt you before accepting cookies. However, if you do not accept cookies you may not be able to access the entirety of our software and services.
+Simply
+We also collect your information using “cookies” and other similar tracking technologies when you visit our website. You can prevent this method of information collection if you like.
+Account Registration
+If you create an account with us through a third party like Facebook or Twitter (“SNS Accounts”) you may have to provide us with your user name or user ID so that we can authenticate your identity.
+Simply
+We collect your information when you create an account.
+Software Functionality
+Our software collects information about your use of the software as well as transfers of information between your computers that run the software and our servers. This is necessary to ensure our software is operating correctly and to confirm the status of your license of our software.
+Simply
+We collect information about your Malwarebytes license.
+From Third Parties
+From time to time, We may receive personal information about you, including your name, e-mail address, and other information from third party sources such as, distributors and resellers who sell our products and services to you, payment processors who process payments you make for purchasing our products and services, marketing partners, and public sources.. These third parties have indicated that they have your consent or are otherwise legally permitted to disclose your personal information to us.
+Simply
+We collect information about your Malwarebytes purchases where you make them through third-parties.
+How do we use personal information
+We use personal information for the following purposes: providing you with information, products or services; providing support to you and responding to your requests; providing information about our products, services, events, or news, including newsletters and promotional messages; performing and enforcing any contract(s) between yourself and Malwarebytes, including billing and collections; to improve our products and services, including malware research, as well as our websites and present content to you; to market new and existing products to you; and as otherwise described to you when collecting your personal information or as otherwise allowed by applicable law.
+We will not use the personal information we collected for materially different, unrelated, or incompatible purposes without providing you notice.
+Other than with respect to the exceptions below, we do not share personal information with third parties
+Simply
+We use your information for providing you with our services. In certain situations, described below, we may share your personal information with a third party.
+Exceptions
+Website Analytics
+Our servers automatically record Log Data information about how a user interacts with our software and services on our websites, including but not limited to our public website and our web-based management consoles. Log Data may include a user’s Internet Protocol (IP) address, browser type, operating system, web page that the user was visiting before accessing our server, search terms, and the pages or features of our software or services accessed by the user and the time spent there. Google Analytics provides us with the analysis of such data. Google’s privacy policy is available at
+http://www.google.com/policies/privacy
+.
+Simply
+Exception #1: We receive your website interaction information from Google for analytical purposes.
+Service Providers
+We may engage service providers to administer and provide our services. We may provide personal information to such service providers only for the purpose of performing services on our behalf, such as fulfilling orders and delivering updates, payment processing, providing customer service, sending marketing communications, conducting research and analysis, and providing cloud computing infrastructure. We require such service providers to agree not to disclose your personal information or use your personal information for any other purpose.
+For our cloud-based Software, we utilize Amazon Web Services for our infrastructure. With such infrastructure, you are able to benefit from Amazon Web Services Cloud Compliance security and privacy measures, including but not limited to ISO and SOC certifications. For more information on Amazon Web Services Cloud Compliance please visit
+https://aws.amazon.com/compliance/
+.
+Simply
+Exception #2: If we give your information to a service provider company, they won’t use your information outside of our business relationship.
+Business Transactions
+Information that we collect from users, including personal information, is considered a business asset. Accordingly, if we go out of business or enter bankruptcy, or if we are acquired, e.g., as a result of a transaction such as a merger, acquisition, or asset sale, your personal information may be disclosed or transferred to the third-party acquirer in connection with the transaction. You will be notified via email and/or a prominent notice on our website, of any change in ownership, uses of your personal information, and choice you may have regarding your personal information.
+Simply
+Exception #3: If someone buys us or we go bankrupt, your information may be transferred to someone else.
+Governmental; Law Enforcement
+We may disclose personal information to government agencies, law enforcement officials, and private parties as we, in our sole discretion, believe necessary: (1) to satisfy or comply with any applicable law, regulation or legal process; (2) to respond to lawful requests, including subpoenas, warrants or court orders; (3) to protect our property, rights and safety and the rights, property and safety of third parties or the public in general; and (4) to prevent or stop activity we consider to be illegal or unethical.
+In certain situations, Malwarebytes may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+Simply
+Exception #4: If the government asks for your information, we may comply.
+Consent
+We may share your personal information with third-party sites or platforms, such as social networking sites, but only if you have expressly requested that we do so.
+Similarly, by posting profile, content, or other information, including personal information to a forum or blog, you indicate your consent to its public use. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. We will list you in our publicly accessible member directory on the forum website.
+We also display testimonials of satisfied customers on our websites in addition to other endorsements. With your consent, we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at
+privacy@malwarebytes.com
+.
+Simply
+Exception #5: If you post your information in one of our forums or on the blog, well, that’s public
+Other Privacy Considerations
+The Legal Bases for Using Personal Information
+The General Data Protection Regulation (EU) 2016/679 (“GDPR”) effective May 25, 2018. The GDPR requires that a valid legal basis be used to process personal data. In certain countries, there are different legal bases that we rely on to use your personal information, namely:
+Performance of a contract
+The use of your personal information may be necessary to perform the agreement you have with us. For example, to complete your purchase of your product, to register and maintain your account and to make sure that your product performs its functions in a secure way or to respond to your requests.
+Legitimate interests
+We may use your personal information for our legitimate interests. For example, we rely on our legitimate interest to analyze and improve our products and the content on our websites, to send you notifications about software updates or information about products or to use your personal information for administrative, fraud detection or legal purposes.
+Legal obligation
+We may use your personal information to comply with legal requirements, as further described in Exception 4, above.
+Consent
+We may at times, request your consent to conduct certain actions with your personal information. When requesting your consent, we are transparent in ensuring you know what you are consenting to.
+Simply
+These are the legal bases we use for processing data subject to the GDPR.
+California Residents
+If you are California resident, you can find more information about your rights on our
+California Residents Privacy Notice Supplement.
+Simply
+California residents can learn more about their rights on our
+California Residents Privacy Notice Supplement.
+Choice
+We partner with a third-party service provider to display advertising on our website or to manage our advertising on other sites. Our third-party service provider may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising go to
+https://optout.networkadvertising.org/?c=1
+[or if located in the European Union go to
+click https://www.youronlinechoices.eu/
+]. Please note you will continue to receive generic ads.
+You may sign-up to receive email or newsletter or other communications from us. By interacting with us, such as attending a webinar, attending our sponsored events or downloading content from our website, you may be added to our mailing list. If you would like to discontinue receiving this information, you may update your email preferences by using the “Unsubscribe” link found in emails we send to you or at your member profile on our website or by contacting us at privacy@malwarebytes.com.
+You may have the right to limit the use and disclosure of your personal information as required by the EU, UK, and Swiss Data Privacy Framework Principles , such as whether your personal information is disclosed to a third party or used for purposes materially different from the purpose for which the personal information was originally collected or subsequently authorized by you. If you wish to limit the use and disclosure of personal information in accordance with the EU, UK, and Swiss Data Privacy Framework Principles, please contact us using our
+online request form.
+Usage and Threat Statistics
+You may opt out of usage and threat statistics collection in certain Malwarebytes products within the settings. Threat statistics collection includes detection samples and their corresponding statistics. Usage statistics includes behavior usage tracking. Do it in just a couple of clicks. To opt out please follow the instructions below.
+Using Malwarebytes for Home on Windows:
+From the Navigation menu select Settings
+Scroll down to “Usage and Threat Statistics”
+Untick the box that reads “Anonymously help fight malware by providing usage and threat statistics”
+Usage and threat statistics collection will be disabled
+Using Malwarebytes for Android
+From the Navigation menu select Settings
+Scroll down to the General section
+Untick the box that reads “Help us Anonymously”
+Usage and threat statistics collection will be disabled
+Using Malwarebytes for Mac:
+Open Malwarebytes and click Settings
+Uncheck “Help fight malware by providing usage and threat statistics”
+Usage and threat statistics collection will be disabled
+Using Malwarebytes for iOS:
+Open Malwarebytes and tap Settings
+Turn off “Share anonymous telemetry”
+Whitelisted phone number and URL collection will be disabled
+You may change your preferences at any time following the same steps.
+Simply
+We want to give you control to manage your data.
+Security
+We take commercially reasonable measures to protect personal information from unauthorized access, use, and disclosure. However, no method of transmitting information over the Internet or storing information is completely secure. Accordingly, we can’t guarantee the absolute security of your personal information.
+Simply
+We do what we reasonably can to protect your information
+Retention
+We will retain your personal information as needed to fulfill the purposes for which it was collected. We will retain and use your personal information as necessary to comply with our business requirements, legal obligations, resolve disputes, protect our assets, and enforce our agreements. Because these needs can vary for different data types in the context of different products or services, actual retention periods can vary significantly.
+Simply
+Our retention periods differ for each type of personal information, but we only retain such information to fulfill the purposes for which it was collected.
+Links
+Our website may contain links to other websites and services. Any information that you provide on or to a third-party website or service is provided directly to the owner of the website or service and is subject to that party’s privacy policy. Our Privacy Policy does not apply to such websites or services and we are not responsible for the content, privacy, or security practices and policies of those websites or services.
+Simply
+Our privacy policy doesn’t apply when you visit sites we link to.
+Update or Delete your personal information
+Upon request, Malwarebytes will provide you with information about whether we hold any of your personal information. You may access or modify the personal information associated with your use of our services at any time by updating your “My Account” information by navigating to my.malwarebytes.com, signing into your account and updated your personal information. Similarly, you may delete your My Account itself by logging into my.malwarebytes.com.
+Alternatively, you may submit a
+data subject access request
+to access, modify, or delete (subject to applicable law) the personal information associated with your use of our services. If you want us to delete your personal information, your forum account, or your support account, please contact us at privacy@malwarebytes.com with your request. We will respond to your requests within a reasonable timeframe.
+We will delete your information as soon as possible; however, some information may remain in archived/backup copies for our records or as otherwise required by law. We may retain your information for as long as your account is active or as needed to provide you services, comply with our legal obligations, resolve disputes and enforce our agreements.
+For our Partnerbytes Platform only:
+Malwarebytes acknowledges that you have the right to access your personal information. Malwarebytes has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct their query to the Malwarebytes’ Client (the data controller). If requested to remove data we will respond within a reasonable timeframe. In certain circumstances we may be required by law to retain your personal information or may need to retain your personal information in order to continue providing a service.
+Simply
+Subject to applicable laws, we’ll delete or modify your information if you ask.
+International: EU – U.S. Data Privacy Framework, UK Extension to the EU – U.S. Data Framework, and Swiss – U.S. Data Privacy Framework
+Your personal information may be transferred to, and maintained on, country, or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide your personal information to us, we may transfer your personal information to the United States and process it there.
+If we transfer personal information which originates in the European Economic Area, Switzerland, and/or the United Kingdom to a country that has not been found to provide an adequate level of protection under applicable data protection laws, one of the safeguards we may use to support such transfer is the
+EU Standard Contractual Clauses
+.
+Malwarebytes complies with the EU-U.S. Data Privacy Framework (“EU-U.S. DPF”), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (“Swiss-U.S. DPF”) as set for by the U.S. Department of Commerce.
+As part of this process, Malwarebytes has certified to the U.S. Department of Commerce that, for transfers of personal information to the U.S., we will adhere to: (i) the EU-U.S. Data Privacy Framework Principles with regards to the processing of personal information received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF, and (ii) the Swiss-U.S. DPF with regards to the processing of personal information received from Switzerland in reliance on the Swiss-U.S. DPF (collectively, the “DPF Principles” or the “EU, UK, and Swiss Data Privacy Framework Principles”).
+Malwarebytes Inc. and its US subsidiary Malwarebytes Corporate Holdco Inc. adhere to the DPF Principles.
+The Federal Trade Commission has jurisdiction over our compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF (collectively, the “DPF”). To learn more about the DPF and to view our certification, please visit the
+Data Privacy Framework Program’s website
+.
+If we receive personal information in the United States that is subject to the DPF Principles and subsequently transfer that personal information to a third party acting as an agent, we will remain liable under the DPF Principles if our agent processes such personal information in a manner inconsistent with the DPF Principles, unless we prove that we are not responsible for the event giving rise to the damage.
+Please note that we may be required to disclose your personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+In compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF, we will commit to resolve DPF Principles-related complaints about our collection and use of your personal information. EU, UK, and Swiss individuals with inquiries or complaints regarding our handling of personal information received in reliance on the DPF should first contact us using the contact Malwarebytes at
+Attn: Privacy (Legal), Malwarebytes,
+2445 Augustine Drive, Suite 550, Santa Clara, CA 95054 USA.
+In compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF, we will further commit to refer unresolved complaints concerning our handling of personal information received in reliance on the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF to JAMS Data Privacy Dispute Resolution Program, an independent dispute resolution provider located in the U.S.
+If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit the
+JAMS EU-U.S. Data Privacy Framework website
+for more information or to file a complaint.  The services of JAMS are provided at no cost to you.
+Under certain conditions, as more fully described
+in Pre-Arbitration Requirements of Annex I of the DPF Principles
+, you may invoke binding arbitration for complaints regarding DPF compliance not resolved by any of the other DPF mechanisms.
+Simply
+If you’re not in the U.S., we may transfer your information to the U.S. We participate in the EU-U.S. Data Privacy Framework, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework as set forth by the U.S. Department of Commerce.
+Children
+Our services are not directed to children under eighteen, and we do not knowingly collect personal information from children under thirteen. If we learn that we have collected personal information of a child under thirteen we will delete such information from our files as soon as possible, provided, however, that some information may remain in archived/backup copies for our records or as otherwise required by law.
+Simply
+We don’t knowingly collect information on children, and delete it if we inadvertently do collect it.
+Revisions
+We may modify and revise this Privacy Policy from time to time. If we make any material changes to this Privacy Policy, we will notify you of such changes by posting them on our website or by sending you an email or other notification prior to the change becoming effective.
+Simply
+We’ll let you know if we revise our privacy policy. If we make a material change, we will let you know before the change takes place.
+California Residents Privacy Notice
+California Residents Privacy Notice Supplement
+Questions? Please contact us at 2445 Augustine Drive, Suite 550, Santa Clara, CA 95054 or via email at privacy@malwarebytes.com if you have any questions about our Privacy Policy
+Sub-section Policy: 
+Sub-policy 0
+https://www.google.com/policies/privacy:
+Privacy & Terms
+Overview
+Privacy Policy
+Terms of Service
+Technologies
+FAQ
+Google Account
+Privacy Policy
+Introduction
+Information Google collects
+Why Google collects data
+Your privacy controls
+Sharing your information
+Keeping your information secure
+Exporting & deleting your information
+Retaining your information
+Compliance & cooperation with regulators
+European requirements
+About this policy
+Related privacy practices
+Data transfer frameworks
+Key terms
+Partners
+Updates
+Google Privacy Policy
+When you use our services, you’re trusting us with your information. We understand this is a big responsibility and work hard to protect your information and put you in control.
+This Privacy Policy is meant to help you understand what information we collect, why we collect it, and how you can update, manage, export, and delete your information.
+If European Union or United Kingdom data protection law applies to the processing of your information, you can review the
+European requirements section
+below to learn more about your rights and Google’s compliance with these laws.
+Privacy Checkup
+Looking to change your privacy settings?
+Take the Privacy Checkup
+Effective September 16, 2024
+|
+Archived versions
+|
+Download PDF
+Contents
+Introduction
+Information Google collects
+Why Google collects data
+Your privacy controls
+Sharing your information
+Keeping your information secure
+Exporting & deleting your information
+Retaining your information
+Compliance & cooperation with regulators
+European requirements
+About this policy
+Related privacy practices
+We build a range of services that help millions of people daily to explore and interact with the world in new ways. Our services include:
+Google apps, sites, and devices, like Search, YouTube, and Google Home
+Platforms like the Chrome browser and Android operating system
+Products that are integrated into third-party apps and sites, like ads, analytics, and embedded Google Maps
+You can use our services in a variety of ways to manage your privacy. For example, you can sign up for a Google Account if you want to create and manage content like emails and photos, or see more relevant search results. And you can use many Google services when you’re signed out or without creating an account at all, like searching on Google or watching YouTube videos. You can also choose to browse the web in a private mode, like
+Chrome Incognito
+mode, which helps keep your browsing private from other people who use your device. And across our services, you can adjust your privacy settings to control whether we collect some types of data and how we use it.
+To help explain things as clearly as possible, we’ve added examples, explanatory videos, and definitions for
+key terms
+. And if you have any questions about this Privacy Policy, you can
+contact us
+.
+Information Google collects
+We want you to understand the types of information we collect as you use our services
+We collect information to provide better services to all our users — from figuring out basic stuff like which language you speak, to more complex things like which
+ads you’ll find most useful
+,
+the people who matter most to you online
+, or which YouTube videos you might like. The information Google collects, and how that information is used, depends on how you use our services and how you manage your privacy controls.
+When you’re not signed in to a Google Account, we store the information we collect with
+unique identifiers
+tied to the browser, application, or
+device
+you’re using. This allows us to do things like maintain your preferences across browsing sessions, such as your preferred language or whether to show you more relevant search results or ads based on your activity.
+When you’re signed in, we also collect information that we store with your Google Account, which we treat as
+personal information
+.
+Things you create or provide to us
+When you create a Google Account, you provide us with
+personal information
+that includes your name and a password. You can also choose to add a
+phone number
+or
+payment information
+to your account. Even if you aren’t signed in to a Google Account, you might choose to provide us with information — like an email address to communicate with Google or receive updates about our services.
+We also collect the content you create, upload, or receive from others when using our services.  This includes things like email you write and receive, photos and videos you save, docs and spreadsheets you create, and comments you make on YouTube videos.
+Information we collect as you use our services
+Your apps, browsers & devices
+We collect information about the apps, browsers, and
+devices
+you use to access Google services, which helps us provide features like automatic product updates and dimming your screen if your battery runs low.
+The information we collect includes
+unique identifiers
+, browser type and settings, device type and settings, operating system, mobile network information including carrier name and phone number, and application version number. We also collect information about the interaction of your apps, browsers, and devices with our services, including
+IP address
+, crash reports, system activity, and the date, time, and
+referrer URL
+of your request.
+We collect this information when a Google service on your device contacts our servers — for example, when you install an app from the Play Store or when a service checks for automatic updates. If you’re using an
+Android device with Google apps
+, your device periodically contacts Google servers to provide information about your device and connection to our services. This information includes things like your
+device type and carrier name
+, crash reports, which apps you've installed, and, depending on your device settings,
+other information about how you’re using your Android device
+.
+Your activity
+We collect information about your activity in our services, which we use to do things like recommend a YouTube video you might like. The activity information we collect may include:
+Terms you search for
+Videos you watch
+Views and interactions with content and ads
+Voice and audio information
+Purchase activity
+People with whom you communicate or share content
+Activity on third-party sites and apps that use our services
+Chrome browsing history you’ve
+synced with your Google Account
+If you use our
+services to make and receive calls or send and receive messages
+, we may collect call and message log information like your phone number, calling-party number, receiving-party number, forwarding numbers, sender and recipient email address, time and date of calls and messages, duration of calls, routing information, and types and volumes of calls and messages.
+You can visit your Google Account to find and manage activity information that’s saved in your account.
+Go to Google Account
+Your location information
+We collect location information when you use our services, which helps us offer features like driving directions, search results for things near you, and ads based on your location.
+Depending on the products you’re using and settings you choose, Google may use different types of location information to help make some services and products you use more helpful. These include:
+GPS and other
+sensor data from your device
+IP address
+Activity on Google services
+, such as from your searches or
+places you label like home or work
+Information about things near your device
+, such as Wi-Fi access points, cell towers, and Bluetooth-enabled devices
+The types of location data we collect and how long we store it depend in part on your device and account settings. For example, you can
+turn your Android device’s location on or off
+using the device’s settings app. You can also turn on
+Location History
+if you want to create a private map of where you go with your signed-in devices. And if your Web & App Activity setting is enabled, your searches and other activity from Google services, which may also include location information, is saved to your Google Account. Learn more about
+how we use location information
+.
+In some circumstances, Google also collects information about you from
+publicly accessible sources
+. For example, if your name appears in your local newspaper, Google’s Search engine may index that article and display it to other people if they search for your name. We may also collect information about you from trusted partners, such as directory services who provide us with business information to be displayed on Google’s services, marketing partners who provide us with information about potential customers of our business services, and security partners who provide us with information to
+protect against abuse
+. We also receive information from partners to provide
+advertising and research services on their behalf
+.
+We use various technologies to collect and store information, including
+cookies
+,
+pixel tags
+, local storage, such as
+browser web storage
+or
+application data caches
+, databases, and
+server logs
+.
+Why Google collects data
+We use data to build better services
+We use the information we collect from all our services for the following purposes:
+Provide our services
+We use your information to
+deliver our services
+, like processing the terms you search for in order to return results or helping you share content by suggesting recipients from your contacts.
+Maintain & improve our services
+We also use your information to
+ensure our services are working as intended
+, such as tracking outages or troubleshooting issues that you report to us. And we use your information to
+make improvements
+to our services — for example, understanding which search terms are most frequently misspelled helps us improve spell-check features used across our services.
+Develop new services
+We use the information we collect in existing services to help us develop new ones. For example, understanding how people organized their photos in Picasa, Google’s first photos app, helped us design and launch Google Photos.
+Provide personalized services, including content and ads
+We use the information we collect to customize our services for you, including providing recommendations, personalized content, and
+customized search results
+. For example,
+Security Checkup
+provides security tips adapted to how you use Google products. And, depending on your available settings, Google Play could use information like apps you’ve already installed and videos you’ve watched on YouTube to suggest new apps you might like.
+Depending on your settings, we may also show you
+personalized ads
+based on your interests and activity across Google services. For example, if you search for “mountain bikes,” you may see ads for sports equipment on YouTube. You can control what information we use to show you ads by visiting your ad settings in
+My Ad Center
+.
+We don’t show you personalized ads based on
+sensitive categories
+, such as race, religion, sexual orientation, or health.
+We don’t show you personalized ads based on your content from Drive, Gmail, or Photos.
+We don’t share information that personally identifies you with advertisers, such as your name or email, unless you ask us to. For example, if you see an ad for a nearby flower shop and select the “tap to call” button, we’ll connect your call and may share your phone number with the flower shop.
+Go to My Ad Center
+Measure performance
+We use data for analytics and measurement to understand how our services are used. For example, we analyze data about your visits to our sites to do things like optimize product design. And we also use data about the ads you interact with, including your related Google Search activity, to help advertisers understand the performance of their ad campaigns. We use a variety of tools to do this, including Google Analytics. When you visit sites or use apps that use Google Analytics, a Google Analytics customer may choose to enable Google to
+link information
+about your activity from that site or app with activity from other sites or apps that use our ad services.
+Communicate with you
+We use information we collect, like your email address, to interact with you directly. For example, we may send you a notification if we detect suspicious activity, like an attempt to sign in to your Google Account from an unusual location. Or we may let you know about upcoming changes or improvements to our services. And if you contact Google, we’ll keep a record of your request in order to help solve any issues you might be facing.
+Protect Google, our users, and the public
+We use information to help improve the
+safety and reliability
+of our services. This includes detecting, preventing, and responding to fraud, abuse, security risks, and technical issues that could harm Google, our users, or
+the public
+.
+We use different technologies to process your information for these purposes. We use automated systems that analyze your content to provide you with things like customized search results, personalized ads, or other features tailored to how you use our services. And we analyze your content to help us
+detect abuse
+such as spam, malware, and illegal content. We also use
+algorithms
+to recognize patterns in data. For example, Google Translate helps people communicate across languages by detecting common language patterns in phrases you ask it to translate.
+We may
+use the information we collect
+across our services and across your devices for the purposes described above. For example, depending on your available settings, if you watch videos of guitar players on YouTube, you might see an ad for guitar lessons on a site that uses our ad products. Depending on your account settings,
+your activity on other sites and apps
+may be associated with your personal information in order to improve Google’s services and the ads delivered by Google.
+If other users already have your email address or other information that identifies you, we may show them your publicly visible Google Account information, such as your name and photo. This helps people identify an email coming from you, for example.
+We’ll ask for your consent before using your information for a purpose that isn’t covered in this Privacy Policy.
+Your privacy controls
+You have choices regarding the information we collect and how it's used
+This section describes key controls for managing your privacy across our services. You can also visit the
+Privacy Checkup
+, which provides an opportunity to review and adjust important privacy settings. In addition to these tools, we also offer specific privacy settings in our products — you can learn more in our
+Product Privacy Guide
+.
+Go to Privacy Checkup
+Managing, reviewing, and updating your information
+When you’re signed in, you can always review and update information by visiting the services you use. For example, Photos and Drive are both designed to help you manage specific types of content you’ve saved with Google.
+We also built a place for you to review and control information saved in your Google Account. Your
+Google Account
+includes:
+Privacy controls
+Activity Controls
+Decide what types of activity you’d like saved in your account. For example, if you have YouTube History turned on, the videos you watch and the things you search for are saved in your account so you can get better recommendations and remember where you left off. And if you have Web & App Activity turned on, your searches and activity from other Google services are saved in your account so you can get more personalized experiences like faster searches and more helpful app and content recommendations. Web & App Activity also has a subsetting that lets you control whether
+information about your activity on other sites, apps, and devices that use Google services
+, such as apps you install and use on Android, is saved in your Google Account and used to improve Google services.
+Go to Activity Controls
+Ad settings
+Manage your preferences about the ads shown to you on Google and on sites and apps that
+partner with Google
+to show ads. You can modify your interests, choose whether your personal information is used to make ads more relevant to you, and turn on or off certain advertising services.
+Go to My Ad Center
+About you
+Manage personal info in your Google Account and control who can see it across Google services.
+Go to About You
+Shared endorsements
+Choose whether your name and photo appear next to your activity, like reviews and recommendations, that appear in ads.
+Go to Shared Endorsements
+Sites and apps that use Google services
+Manage information that websites and apps using Google services, like Google Analytics, may share with Google when you visit or interact with their services.
+Go to How Google uses information from sites or apps that use our services
+Ways to review & update your information
+My Activity
+My Activity allows you to review and control data that’s saved to your Google Account when you’re signed in and using Google services, like searches you’ve done or your visits to Google Play. You can browse by date and by topic, and delete part or all of your activity.
+Go to My Activity
+Google Dashboard
+Google Dashboard allows you to manage information associated with specific products.
+Go to Dashboard
+Your personal information
+Manage your contact information, such as your name, email, and phone number.
+Go to Personal Info
+When you’re signed out, you can manage information associated with your browser or device, including:
+Signed-out search personalization:
+Choose
+whether your search activity is used to offer you more relevant results and recommendations.
+YouTube settings: Pause and delete your
+YouTube Search History
+and your
+YouTube Watch History
+.
+Ad Settings:
+Manage
+your preferences about the ads shown to you on Google and on sites and apps that partner with Google to show ads.
+Exporting, removing & deleting your information
+You can export a copy of content in your Google Account if you want to back it up or use it with a service outside of Google.
+Export your data
+To delete your information, you can:
+Delete your content from
+specific Google services
+Search for and then delete specific items from your account using
+My Activity
+Delete specific Google products
+, including your information associated with those products
+Delete your entire Google Account
+Delete your information
+Inactive Account Manager
+allows you to give someone else access to parts of your Google Account in case you’re unexpectedly unable to use your account.
+And finally, you can also
+request to remove content
+from specific Google services based on applicable law and our policies.
+There are other ways to control the information Google collects whether or not you’re signed in to a Google Account, including:
+Browser settings: For example, you can configure your browser to indicate when Google has set a
+cookie
+in your browser. You can also configure your browser to block all cookies from a specific domain or all domains. But remember that our services
+rely on cookies to function properly
+, for things like remembering your language preferences.
+Device-level settings: Your device may have controls that determine what information we collect. For example, you can
+modify location settings
+on your Android device.
+Sharing your information
+When you share your information
+Many of our services let you share information with other people, and you have control over how you share. For example, you can share videos on YouTube publicly or you can decide to keep your videos private. Remember, when you share information publicly, your content may become accessible through search engines, including Google Search.
+When you’re signed in and interact with some Google services, like leaving comments on a YouTube video or reviewing an app in Play, your name and photo appear next to your activity. We may also display this information in
+ads depending on your Shared endorsements setting
+.
+When Google shares your information
+We do not share your personal information with companies, organizations, or individuals outside of Google except in the following cases:
+With your consent
+We’ll share personal information outside of Google when we have your consent. For example, if you
+use Google Home to make a reservation
+through a booking service, we’ll get your permission before sharing your name or phone number with the restaurant. We also provide you with controls to
+review and manage third party apps and sites
+you have given access to data in your Google Account. We’ll ask for your explicit consent to share any
+sensitive personal information
+.
+With domain administrators
+If you’re a student or work for an organization that uses Google services, your
+domain administrator
+and resellers who manage your account will have access to your Google Account. They may be able to:
+Access and retain information stored in your account, like your email
+View statistics regarding your account, like how many apps you install
+Change your account password
+Suspend or terminate your account access
+Receive your account information in order to satisfy applicable law, regulation, legal process, or enforceable governmental request
+Restrict your ability to delete or edit your information or your privacy settings
+For external processing
+We provide personal information to our
+affiliates
+and other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures. For example, we use service providers to help operate our data centers, deliver our products and services, improve our internal business processes, and offer additional support to customers and users. We also use service providers to help review YouTube video content for public safety and analyze and listen to samples of saved user audio to help improve Google’s audio recognition technologies.
+For legal reasons
+We will share personal information outside of Google if we have a good-faith belief that disclosure of the information is reasonably necessary to:
+Respond to any applicable law, regulation,
+legal process, or enforceable governmental request
+. We share information about the number and type of requests we receive from governments in our
+Transparency Report
+.
+Enforce applicable Terms of Service, including investigation of potential violations.
+Detect, prevent, or otherwise address fraud, security, or technical issues.
+Protect against harm to the rights, property or safety of Google, our
+users
+, or the public.
+We may share
+non-personally identifiable information
+publicly and with our partners — like publishers, advertisers, developers, or rights holders. For example, we share information publicly to
+show trends
+about the general use of our services. We also allow
+specific partners
+to collect information from your browser or device for advertising and measurement purposes using their own cookies or similar technologies.
+If Google is involved in a merger, acquisition, or sale of assets, we’ll continue to ensure the confidentiality of your personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy.
+Keeping your information secure
+We build security into our services to protect your information
+All Google products are built with strong security features that continuously protect your information. The insights we gain from maintaining our services help us detect and automatically block security threats from ever reaching you. And if we do detect something risky that we think you should know about, we’ll notify you and help guide you through steps to stay better protected.
+We work hard to protect you and Google from unauthorized access, alteration, disclosure, or destruction of information we hold, including:
+We use encryption to keep your data private while in transit
+We offer a range of security features, like
+Safe Browsing
+, Security Checkup, and
+2 Step Verification
+to help you protect your account
+We review our information collection, storage, and processing practices, including physical security measures, to prevent unauthorized access to our systems
+We restrict access to personal information to Google employees, contractors, and agents who need that information in order to process it. Anyone with this access is subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.
+Exporting & deleting your information
+You can export a copy of your information or delete it from your Google Account at any time
+You can export a copy of content in your Google Account if you want to back it up or use it with a service outside of Google.
+Export your data
+To delete your information, you can:
+Delete your content from
+specific Google services
+Search for and then delete specific items from your account using
+My Activity
+Delete specific Google products
+, including your information associated with those products
+Delete your entire Google Account
+Delete your information
+Retaining your information
+We retain the data we collect for different periods of time depending on what it is, how we use it, and how you configure your settings:
+Some data you can delete whenever you like, such as your
+personal info
+or the content you create or upload, like
+photos
+and
+documents
+. You can also delete
+activity information
+saved in your account, or
+choose to have it deleted automatically
+after a set period of time. We’ll keep this data in your Google Account until you remove it or choose to have it removed.
+Other data is deleted or anonymized automatically after a set period of time, such as
+advertising data
+in server logs.
+We keep some data until you delete your Google Account, such as information about how often you use our services.
+And some data we retain for longer periods of time when necessary for legitimate business or legal purposes, such as security, fraud and abuse prevention, or financial record-keeping.
+When you delete data, we follow a deletion process to make sure that your data is safely and completely removed from our servers or retained only in anonymized form. We try to ensure that our services protect information from accidental or malicious deletion. Because of this, there may be delays between when you delete something and when copies are deleted from our active and backup systems.
+You can read more about Google’s
+data retention periods
+, including how long it takes us to delete your information.
+Compliance & cooperation with regulators
+We regularly review this Privacy Policy and make sure that we process your information in ways that comply with it.
+Data transfers
+We maintain
+servers around the world
+and your information may be processed on servers located outside of the country where you live. Data protection laws vary among countries, with some providing more protection than others. Regardless of where your information is processed, we apply the same protections described in this policy. We also comply with certain
+legal frameworks
+relating to the transfer of data.
+When we receive formal written complaints, we respond by contacting the person who made the complaint. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of your data that we cannot resolve with you directly.
+European requirements
+How to exercise your rights and contact Google
+If European Union (EU) or United Kingdom (UK) data protection law applies to the processing of your information, we provide the
+controls
+described in this policy so you can exercise your rights to request access to, update,
+remove
+, and restrict the processing of your information. You also have the right to object to the processing of your information or export your information to another service.
+If you have additional questions or requests related to your rights,
+you can contact Google and our data protection office
+. And you can contact your local data protection authority if you have concerns regarding your rights under local law.
+Data controller
+Unless otherwise stated in a service-specific privacy notice, the
+data controller responsible for processing your information
+depends on where you are based:
+Google Ireland Limited for users of Google services based in the European Economic Area or Switzerland, located at Gordon House, Barrow Street, Dublin 4, Ireland.
+Google LLC for users of Google services based in the United Kingdom, located at 1600 Amphitheatre Parkway, Mountain View, California 94043, USA.
+Google LLC is the data controller responsible for processing information indexed and displayed in services like
+Google Search
+and Google Maps regardless of your location. Google Ireland Limited is the data controller responsible for processing information to train Google’s AI models for the purpose of deploying them in services provided by Google Ireland Limited in the European Economic Area or Switzerland.
+Legal bases of processing
+We process your information for the
+purposes
+described in this policy, based on the following legal grounds:
+We process your data in order to provide a service you’ve asked for under a contract.
+We process your data for our legitimate interests and those of
+third parties
+while applying
+appropriate safeguards
+that protect your privacy.
+We process your data when necessary to protect the vital interests of you or another person.
+We process your data when we have a legal obligation to do so.
+We ask for your consent to process your data for specific purposes and you have the right to withdraw your consent at any time.
+How you use Google services and your privacy settings will determine what data is processed, the purposes for which this data is processed, and the legal bases for processing data. The table below explains these processing purposes, the kinds of data processed, and the legal grounds for processing this data, in more detail.
+Why and how we process data
+What data is processed
+Legal grounds
+To provide Google services, products, and features
+Examples of processing activities:
+We process the terms you search for in order to return results.
+We use the IP address assigned to your device to send you the data you requested, such as loading a YouTube video.
+We use unique identifiers stored in cookies on your device to help us authenticate you as the person who should have access to your Google Account.
+Photos and videos you upload to Google Photos are used to help you create albums, collages, and other creations that you can share.
+When you purchase services or physical goods from us, we use your shipping address or delivery instructions for things like processing, fulfilling, and delivering your order, and to provide support in connection with the product or service you purchase.
+We process your payment information when you buy extra storage for Google Drive.
+We can use contact info (like names and email addresses) of people you interact with in Google products to make it easier to find who you’re looking for when you want to share and communicate with these people in other Google services like Gmail, Photos and Assistant.
+A flight confirmation email you receive may be used to create a “check-in” button that appears in your Gmail.
+Google also collects information about you from publicly accessible sources. For example, if your name appears in your local newspaper, Google’s Search engine may index that article and display it to other people if they search for your name. Or, if your business’s information appears on a website, we may index and display it on Google services.
+We can help you share your location using
+Google Location Sharing
+, so that others can find you on a map, or know your estimated time of arrival.
+As described in the
+Sharing your information
+section, we’ll share personal information outside of Google when we have your consent, and provide you with controls to
+review and manage third party apps and sites
+you have given access to data in your Google Account.
+The information processed will depend on how you use Google services and your settings but could include the following:
+Things you create or provide to us
+:
+Content you create, upload, or receive (like photos, videos, emails, docs and spreadsheets).
+Google Dashboard
+allows you to manage information associated with specific products.
+Personal information that you provide us when you create a Google Account (like your
+name
+and password,
+phone number
+, date of birth, or
+payment information
+).
+Information that we collect as you use our services
+:
+Information about your apps, browsers & devices
+, such as
+unique identifiers
+tied to the browser, application, or device you’re using; and information about the interaction of your apps, browsers, and devices with our services, (like IP address, crash reports, and system activity).
+Information about your activity in our services
+, such as your search terms, Chrome browsing history you’ve synced with your Google Account, your views and interactions with content and ads, and your activity on third-party sites and apps that use our services. You can review and control activity data stored in your Google Account in
+My Activity
+.
+Location information
+, such as may be determined by GPS, IP address, and other data from sensors on or around your device, depending in part on your device and account settings.
+Information from publicly accessible sources
+, such as information that’s publicly available online (like if your name appears in a local newspaper article) or from other public sources.
+Information from our trusted partners
+, such as from directory services who provide us with business information to be displayed on Google’s services, or security partners who provide us with information to protect against abuse.
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following:
+To
+perform a contract
+with you, such as loading a YouTube video, or processing, fulfilling, and delivering your order when you purchase services or physical goods from us.
+When necessary for our
+legitimate interests
+and those of third parties, including to:
+Provide, maintain, and improve services to meet the needs of our users
+. For example, using contact info (like names and email addresses) of people you interact with in Google products to make it easier to find who you’re looking for when you want to share and communicate with these people in other Google services like Gmail, Photos and Assistant.
+With your
+consent
+, such as when you choose to share your location with Google Location Sharing.
+To maintain and improve Google services, products, and features
+To maintain the service so it works as intended, such as debugging the service, tracking issues or troubleshooting issues.
+Examples of processing activities:
+We continuously monitor our systems to look for problems. And if we find something wrong with a specific feature, reviewing activity information collected before the problem started allows us to fix things more quickly.
+We log users’ interactions with buttons on apps like Google Maps and Search to help understand if they are functioning as intended.
+To make improvements to Google services and to help improve the safety and reliability of these services, such as to detect, prevent, and respond to fraud, abuse, security risks, and technical issues that could harm the service or users.
+Examples of processing activities:
+We analyze data about your interactions with our services to help us build better products. For example, it may help us discover that it’s taking people too long to complete a certain task or that they have trouble finishing steps at all. We can then redesign that feature and improve the product for everyone.
+We analyze which search terms are most frequently misspelled to help us improve spell-check features used across our services.
+We analyze usage of Google Translate to improve translation quality and increase the availability of Translate in more languages.
+We analyze queries on Google Shopping in order to determine which products, merchants, and brands are relevant to different kinds of queries.
+Google Chrome’s Safe Browsing feature can send information about suspicious websites between a user’s browser and Google's servers to help protect against phishing, malware, malicious ads, and more.
+The information processed will depend on how you use Google services and your settings but could include the following:
+Things you create or provide to us
+:
+Content you create, upload, or receive (like photos, videos, emails, docs and spreadsheets).
+Google Dashboard
+allows you to manage information associated with specific products.
+Personal information that you provide us when you create a Google Account (like your
+name
+and password,
+phone number
+, date of birth, or
+payment information
+).
+Information that we collect as you use our services
+:
+Information about your apps, browsers & devices
+, such as
+unique identifiers
+tied to the browser, application, or device you’re using; and information about the interaction of your apps, browsers, and devices with our services, (like IP address, crash reports, and system activity).
+Information about your activity in our services
+, such as your search terms, Chrome browsing history you’ve synced with your Google Account, your views and interactions with content and ads, and your activity on third-party sites and apps that use our services. You can review and control activity data stored in your Google Account in
+My Activity
+.
+Location information
+, such as may be determined by GPS, IP address, and other data from sensors on or around your device, depending in part on your device and account settings.
+Information from publicly accessible sources
+, such as information that’s publicly available online (like if your name appears in a local newspaper article) or from other public sources.
+Information from our trusted partners
+, such as from directory services who provide us with business information to be displayed on Google’s services, or security partners who provide us with information to protect against abuse.
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following:
+To
+perform a contract
+with you, such as using logs of interactions with Google apps to ensure they are working as intended.
+When necessary for our
+legitimate interests
+and those of third parties, including to:
+Provide, maintain, and improve services to meet the needs of our users.
+For example, analyzing which search terms are most frequently misspelled to help us improve spell-check features used across our services.
+Understand how people use our services to ensure and improve the performance of our services.
+For example, analyzing usage of Google Translate to improve translation quality and increase the availability of Translate in more languages.
+Perform research that improves our services for our users and benefits the public.
+For example, improving Google Translate’s translation quality and increasing the availability of Translate in more languages.
+To develop new Google services, products and features
+Examples of processing activities:
+Understanding how people organized their photos in Picasa, Google’s first photos app, helped us design and launch Google Photos.
+Understanding how users view and creators generate short-form content helped Google develop new YouTube services.
+Depending on your settings, we can save audio recordings of voice interactions with services like Google Search, Assistant, Maps, and Gboard to develop and improve Google audio technologies.
+We use publicly available information online or from other public sources to help train new machine learning models and build foundational technologies that power various Google products such as Google Translate, Gemini Apps, and Cloud AI capabilities.
+We use your interactions with AI models and technologies like Gemini Apps to develop, train, fine-tune, and improve these models to better handle your requests, and update their classifiers and filters including for safety, language understanding, and factuality.
+The information processed will depend on how you use Google services and your settings but could include the following:
+Things you create or provide to us
+:
+Content you create, upload, or receive (like photos, videos, emails, docs and spreadsheets).
+Google Dashboard
+allows you to manage information associated with specific products.
+Personal information that you provide us when you create a Google Account (like your
+name
+and password,
+phone number
+, date of birth, or
+payment information
+).
+Information that we collect as you use our services
+:
+Information about your apps, browsers & devices
+, such as
+unique identifiers
+tied to the browser, application, or device you’re using; and information about the interaction of your apps, browsers, and devices with our services, (like IP address, crash reports, and system activity).
+Information about your activity in our services
+, such as your search terms, Chrome browsing history you’ve synced with your Google Account, your views and interactions with content and ads, and your activity on third-party sites and apps that use our services. You can review and control activity data stored in your Google Account in
+My Activity
+.
+Location information
+, such as may be determined by GPS, IP address, and other data from sensors on or around your device, depending in part on your device and account settings.
+Information from publicly accessible sources
+, such as information that’s publicly available online (like if your name appears in a local newspaper article) or from other public sources.
+Information from our trusted partners
+, such as from directory services who provide us with business information to be displayed on Google’s services, or security partners who provide us with information to protect against abuse.
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following:
+When necessary for our
+legitimate interests
+and those of third parties, including to:
+Develop new products and features that are useful for our users.
+For example, understanding how people used photos in Picasa, Google’s first photos app, helped us design and launch Google Photos. Or using information that’s publicly available online or from other public sources to help train Google’s AI models and build products and features using these foundational technologies, like Google Translate, Gemini Apps, and Cloud AI capabilities.
+Provide, maintain, and improve services to meet the needs of our users.
+For example, using information about your activity in our services, like your interactions with Gemini Apps, to train and improve machine learning models, and update their language understanding capabilities, safety classifiers and filters.
+With your
+consent
+, such as saving audio recordings of voice interactions with Google Search, Assistant, Maps, and Gboard to develop and improve Google audio technologies.
+To provide personalized services, including content and ads
+To customize our services for you, including providing recommendations, personalized content, and customized search results.
+Examples of processing activities:
+Google’s Security Checkup feature provides security tips adapted to how you use Google products.
+Google News may provide you with local news results based on your approximate location.
+Google Search may provide you with results based on your approximate location.
+Google Assistant can use your contacts to send a message at your request, like “Send a text to John Smith.”
+Google Play uses information like apps you’ve already installed and videos you’ve watched on YouTube to suggest new apps you might like.
+We may display a Google Doodle on the Search homepage to celebrate an event specific to your country.
+Google can show you ads based on the context of the site you’re visiting, like ads for gardening equipment on a page about gardening tips.
+When you’re signed in to your Google Account and have the Web & App Activity control enabled, you can get more relevant search results that are based on your previous searches and activity from other Google services.
+Depending on your settings, to show you personalized ads based on your interests.
+Examples of processing activities:
+If you search for “mountain bikes” or watch videos of mountain biking, you may see an ad for sports equipment in your search results or on YouTube.
+If you watch videos about baking on YouTube, you may see more ads that relate to baking as you browse the web.
+You may also see personalized ads based on information from the advertiser. If you shopped on an advertiser's website, for example, they can use that visit information to show you ads.
+The information processed will depend on how you use Google services and your settings but could include the following:
+Things you create or provide to us
+:
+Content you create, upload, or receive (like photos, videos, emails, docs and spreadsheets).
+Google Dashboard
+allows you to manage information associated with specific products.
+Personal information that you provide us when you create a Google Account (like your
+name
+and password,
+phone number
+, date of birth, or
+payment information
+).
+Information that we collect as you use our services
+:
+Information about your apps, browsers & devices
+, such as
+unique identifiers
+tied to the browser, application, or device you’re using; and information about the interaction of your apps, browsers, and devices with our services, (like IP address, crash reports, and system activity).
+Information about your activity in our services
+, such as your search terms, Chrome browsing history you’ve synced with your Google Account, your views and interactions with content and ads, and your activity on third-party sites and apps that use our services. You can review and control activity data stored in your Google Account in
+My Activity
+.
+Location information
+, such as may be determined by GPS, IP address, and other data from sensors on or around your device, depending in part on your device and account settings.
+Information from publicly accessible sources
+, such as information that’s publicly available online (like if your name appears in a local newspaper article) or from other public sources.
+Information from our trusted partners
+, such as from directory services who provide us with business information to be displayed on Google’s services, or security partners who provide us with information to protect against abuse.
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following:
+To
+perform a contract
+with you, such as when Google Assistant uses your contacts to send a message at your request, like “Send a text to John Smith.”
+When necessary for our
+legitimate interests
+and those of third parties, including to:
+Customize our services to provide you with a better user experience.
+For example, displaying a Google Doodle on the Search homepage to celebrate an event specific to your country, providing security tips adapted to how you use Google products, or tailoring the experience to be age-appropriate, if relevant.
+Provide advertising, which allows us to offer many of our services without a fee.
+For example, showing you ads based on the context of the site you’re visiting, like ads for gardening equipment on a page about gardening tips. (And when ads are personalized, we ask for your consent.)
+With your
+consent
+, such as recommending apps on Google Play based on videos you’ve watched on YouTube, or showing you personalized ads based on your interests, like ads that relate to baking as you browse the web after watching videos about baking on YouTube.
+To measure performance - We use data for analytics and measurement to understand how our services are used.
+Examples of processing activities:
+We analyze data about your visits to our sites to do things like optimize product design.
+We use data about the ads you interact with to help advertisers understand the performance of their ad campaigns.
+We use data about which places users click most on Google Earth to understand which features are popular and to identify bugs.
+Google Search measures the number of times a particular query has been made, and how users perceive the quality of their search results, to make Search more useful.
+Google Translate analyzes data on the number of translations made and the number of times a translation is marked as poor quality, in order to identify potential new features and address issues that users are experiencing on the service.
+We may share non-personally identifiable information with our partners like content licensors to accompany royalty payments.
+The information processed will depend on how you use Google services and your settings but could include the following:
+Things you create or provide to us
+:
+Content you create, upload, or receive (like photos, videos, emails, docs and spreadsheets).
+Google Dashboard
+allows you to manage information associated with specific products.
+Personal information that you provide us when you create a Google Account (like your
+name
+and password,
+phone number
+, date of birth, or
+payment information
+).
+Information that we collect as you use our services
+:
+Information about your apps, browsers & devices
+, such as
+unique identifiers
+tied to the browser, application, or device you’re using; and information about the interaction of your apps, browsers, and devices with our services, (like IP address, crash reports, and system activity).
+Information about your activity in our services
+, such as your search terms, Chrome browsing history you’ve synced with your Google Account, your views and interactions with content and ads, and your activity on third-party sites and apps that use our services. You can review and control activity data stored in your Google Account in
+My Activity
+.
+Location information
+, such as may be determined by GPS, IP address, and other data from sensors on or around your device, depending in part on your device and account settings.
+Information from publicly accessible sources
+, such as information that’s publicly available online (like if your name appears in a local newspaper article) or from other public sources.
+Information from our trusted partners
+, such as from directory services who provide us with business information to be displayed on Google’s services, or security partners who provide us with information to protect against abuse.
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following:
+When necessary for our
+legitimate interests
+and those of third parties, including to:
+Understand how people use our services to ensure and improve the performance of our services.
+For example, analyzing usage of Google Translate to improve translation quality and increase the availability of Translate in more languages.
+Detect, prevent, or otherwise address fraud, abuse, security, or technical issues with our services.
+For example, monitoring usage patterns on Google Earth to identify bugs.
+Provide, maintain, and improve services to meet the needs of our users.
+For example, analyzing the number of times a translation is marked as poor quality on Google Translate in order to address issues that users are experiencing on the service.
+Develop new products and features that are useful for our users.
+For example, analyzing data on the number of translations made on Google Translate to identify potential new features.
+Fulfill obligations to our partners like developers and rights holders.
+For example, providing reporting to content licensors to accompany royalty payments.
+To communicate with you - We use information we collect, like your email address, to interact with you directly.
+Examples of processing activities:
+We may send you a notification if we detect suspicious activity, like an attempt to sign in to your Google Account from an unusual location.
+We may let you know about upcoming changes or improvements to our services.
+If you contact Google, we’ll keep a record of your request in order to help solve any issues you might be facing.
+Google services like Photos may send you marketing communications about its product offerings like printing promotions, depending on your settings.
+Google services like YouTube Premium and YouTube Music Premium may notify you about upcoming changes to your subscription.
+The information processed will depend on how you use Google services and your settings but could include the following:
+Things you create or provide to us
+:
+Content you create, upload, or receive (like photos, videos, emails, docs and spreadsheets).
+Google Dashboard
+allows you to manage information associated with specific products.
+Personal information that you provide us when you create a Google Account (like your
+name
+and password,
+phone number
+, date of birth, or
+payment information
+).
+Information that we collect as you use our services
+:
+Information about your apps, browsers & devices
+, such as
+unique identifiers
+tied to the browser, application, or device you’re using; and information about the interaction of your apps, browsers, and devices with our services, (like IP address, crash reports, and system activity).
+Information about your activity in our services
+, such as your search terms, Chrome browsing history you’ve synced with your Google Account, your views and interactions with content and ads, and your activity on third-party sites and apps that use our services. You can review and control activity data stored in your Google Account in
+My Activity
+.
+Location information
+, such as may be determined by GPS, IP address, and other data from sensors on or around your device, depending in part on your device and account settings.
+Information from publicly accessible sources
+, such as information that’s publicly available online (like if your name appears in a local newspaper article) or from other public sources.
+Information from our trusted partners
+, such as from directory services who provide us with business information to be displayed on Google’s services, or security partners who provide us with information to protect against abuse.
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following:
+To
+perform a contract
+with you, such as when you contact Google for support or sign up for communications about product updates.
+When necessary for our
+legitimate interests
+and those of third parties, including to:
+Provide, maintain, and improve services to meet the needs of our users.
+For example, informing you about our services, such as to let you know about upcoming changes or improvements to our services.
+Marketing to inform users about our services.
+For example, emailing users of Photos about a printing promotion.
+To protect Google, our users, and the public
+To help improve the safety and reliability of our services, including detecting, preventing, and responding to fraud, abuse, security risks, and technical issues that could harm Google, our users, or the public.
+Examples of processing activities:
+We collect and analyze IP addresses and cookie data to protect against automated abuse. This abuse takes many forms, such as sending spam to Gmail users, stealing money from advertisers by fraudulently clicking on ads, or censoring content by launching a Distributed Denial of Service (DDoS) attack.
+The “last account activity” feature in Gmail can help you find out if and when someone accessed your email without your knowledge. This feature shows you information about recent activity in Gmail, such as the IP addresses that accessed your mail, the associated location, and the date and time of access.
+We analyze your content to help us
+detect abuse
+such as spam, malware, and illegal content.
+We process information about requests to remove content from our services under Google's content removal policies or applicable law to assess the request, and to ensure transparency, improve accountability and prevent abuse and fraud in these practices.
+To meet any applicable law, regulation, legal process or enforceable governmental request.
+Examples of processing activities:
+Like other technology and communications companies, Google regularly receives requests from governments and courts around the world to disclose user data. Respect for the privacy and security of data you store with Google underpins our approach to complying with these legal requests. Our legal team reviews each and every request, regardless of type, and we frequently push back when a request appears to be overly broad or doesn’t follow the correct process.
+Legal obligations sometimes require us to retain certain information for purposes like financial record-keeping, such as information about a payment you’ve made to Google for tax or accounting purposes.
+Various laws and regulations require us to put in place measures to confirm that our users are old enough to use our services. To help determine your age, we process the date of birth you provide. We also process information about your activity in our services, both when you’re signed in to a Google Account or signed out, and use machine learning technology to determine if you are likely over 18. In certain cases, if we cannot confirm that you are old enough to use our services by other means, we can request other information to verify your age, like your government ID, credit card, a photo of you, or your phone number.
+The information processed will depend on how you use Google services and your settings but could include the following:
+Things you create or provide to us
+:
+Content you create, upload, or receive (like photos, videos, emails, docs and spreadsheets).
+Google Dashboard
+allows you to manage information associated with specific products.
+Personal information that you provide us when you create a Google Account (like your
+name
+and password,
+phone number
+, date of birth, or
+payment information
+).
+Information that we collect as you use our services
+:
+Information about your apps, browsers & devices
+, such as
+unique identifiers
+tied to the browser, application, or device you’re using; and information about the interaction of your apps, browsers, and devices with our services, (like IP address, crash reports, and system activity).
+Information about your activity in our services
+, such as your search terms, Chrome browsing history you’ve synced with your Google Account, your views and interactions with content and ads, and your activity on third-party sites and apps that use our services. You can review and control activity data stored in your Google Account in
+My Activity
+.
+Location information
+, such as may be determined by GPS, IP address, and other data from sensors on or around your device, depending in part on your device and account settings.
+Information from publicly accessible sources
+, such as information that’s publicly available online (like if your name appears in a local newspaper article) or from other public sources.
+Information from our trusted partners
+, such as from directory services who provide us with business information to be displayed on Google’s services, or security partners who provide us with information to protect against abuse.
+The legal grounds for processing this information will depend on how you use Google services and your settings but could include the following:
+When necessary for our
+legitimate interests
+and those of third parties, including to:
+Enforce legal claims, including investigation of potential violations of applicable Terms of Service.
+For example, analyzing content to help us detect abuse such as spam, malware, and illegal content.
+Detect, prevent, or otherwise address fraud, abuse, security, or technical issues with our services.
+For example, collecting and analyzing IP addresses and cookie data to protect against automated abuse.
+Protect against harm to the rights, property or safety of Google, our users, or the public, including disclosing information to government authorities.
+For example, responding to legal process or enforceable requests from governments and courts to disclose data, after carefully reviewing each request to make sure it satisfies applicable laws.
+Perform research that improves our services for our users and benefits the public.
+For example, processing information about
+requests to remove content
+from our services to educate the public, facilitate research, and provide transparency about these requests.
+When necessary to protect the
+vital interests
+of you or another person. For example, processing data to detect and combat online child sexual abuse.
+When we have a
+legal obligation
+to do so, such as retaining certain information for purposes like financial record-keeping, or processing and retaining information to help ensure that users are old enough to use our services.
+Linking your Google services
+If you’re a user in the EU, we offer you the choice to keep certain Google services linked. You can learn more about your linked services and how to manage your choices at
+About DMA & Your Linked Services
+.
+About this policy
+When this policy applies
+This Privacy Policy applies to all of the services offered by Google LLC and its
+affiliates
+, including YouTube, Android, and services offered on third-party sites, such as advertising services. This Privacy Policy doesn’t apply to services that have separate privacy policies that do not incorporate this Privacy Policy.
+This Privacy Policy doesn’t apply to:
+The information practices of other companies and organizations that advertise our services
+Services offered by other companies or individuals, including products or sites they offer that may include Google services to which the policy applies, or products or sites displayed to you in search results, or linked from our services
+Changes to this policy
+We change this Privacy Policy from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We always indicate the date the last changes were published and we offer access to
+archived versions
+for your review. If changes are significant, we’ll provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes).
+Related privacy practices
+Specific Google services
+The following privacy notices provide additional information about some Google services:
+Payments
+Fiber
+Gemini Apps
+Google Fi
+Google Workspace for Education
+Read Along
+YouTube Kids
+Google Accounts Managed with Family Link, for Children under 13 (or applicable age in your country)
+Family Link privacy guide for children & teens
+Voice and Audio Collection from Children’s Features on the Google Assistant
+If you’re a member of an organization that uses Google Workspace or Google Cloud Platform, learn how these services collect and use your personal information in the
+Google Cloud Privacy Notice
+.
+Other useful resources
+The following links highlight useful resources for you to learn more about our practices and privacy settings.
+Your Google Account
+is home to many of the settings you can use to manage your account
+Privacy Checkup
+guides you through key privacy settings for your Google Account
+Google’s safety center
+helps you learn more about our built-in security, privacy controls, and tools to help set digital ground rules for your family online
+Google’s Teen Privacy Guide
+provides answers to some of the top questions we get asked about privacy
+Privacy & Terms
+provides more context regarding this Privacy Policy and our Terms of Service
+Technologies
+includes more information about:
+How Google uses cookies
+Technologies used for
+Advertising
+How Google uses information from sites or apps that use our services
+Key terms
+Affiliates
+An affiliate is an entity that belongs to the Google group of companies, including the following companies that provide consumer services in the EU: Google Ireland Limited, Google Commerce Ltd, Google Payment Corp, and Google Dialer Inc. Learn more about the
+companies providing business services in the EU
+.
+Algorithm
+A process or set of rules followed by a computer in performing problem-solving operations.
+Application data cache
+An application data cache is a data repository on a device. It can, for example, enable a web application to run without an internet connection and improve the performance of the application by enabling faster loading of content.
+Browser web storage
+Browser web storage enables websites to store data in a browser on a device. When used in "local storage" mode, it enables data to be stored across sessions. This makes data retrievable even after a browser has been closed and reopened. One technology that facilitates web storage is HTML 5.
+Cookies
+A cookie is a small file containing a string of characters that is sent to your computer when you visit a website. When you visit the site again, the cookie allows that site to recognize your browser. Cookies may store user preferences and other information. You can configure your browser to refuse all cookies or to indicate when a cookie is being sent. However, some website features or services may not function properly without cookies. Learn more about
+how Google uses cookies
+and how Google uses data, including cookies,
+when you use our partners' sites or apps
+.
+Device
+A device is a computer that can be used to access Google services. For example, desktop computers, tablets, smart speakers, and smartphones are all considered devices.
+Google Account
+You may access some of our services by signing up for a
+Google Account
+and providing us with some personal information (typically your name, email address, and a password). This account information is used to authenticate you when you access Google services and protect your account from unauthorized access by others. You can edit or delete your account at any time through your Google Account settings.
+IP address
+Every device connected to the Internet is assigned a number known as an Internet protocol (IP) address. These numbers are usually assigned in geographic blocks. An IP address can often be used to identify the location from which a device is connecting to the Internet. Learn more about
+how we use location information.
+Non-personally identifiable information
+This is information that is recorded about users so that it no longer reflects or references an individually-identifiable user.
+Personal information
+This is information that you provide to us which personally identifies you, such as your name, email address, or billing information, or other data that can be reasonably linked to such information by Google, such as information we associate with your Google Account.
+Pixel tag
+A pixel tag is a type of technology placed on a website or within the body of an email for the purpose of tracking certain activity, such as views of a website or when an email is opened. Pixel tags are often used in combination with cookies.
+Referrer URL
+A Referrer URL (Uniform Resource Locator) is information transmitted to a destination webpage by a web browser, typically when you click a link to that page. The Referrer URL contains the URL of the last webpage the browser visited.
+Sensitive personal information
+This is a particular category of personal information relating to topics such as confidential medical facts, racial or ethnic origins, political or religious beliefs, or sexuality.
+Server logs
+Like most websites, our servers automatically record the page requests made when you visit our sites. These “server logs” typically include your web request, Internet Protocol address, browser type, browser language, the date and time of your request, and one or more cookies that may uniquely identify your browser.
+A typical log entry for a search for “cars” looks like this:
+123.45.67.89 - 25/Mar/2003 10:15:32 -
+http://www.google.com/search?q=cars -
+Chrome 112; OS X 10.15.7 -
+740674ce2123e969
+123.45.67.89
+is the Internet Protocol address assigned to the user by the user’s ISP. Depending on the user’s service, a different address may be assigned to the user by their service provider each time they connect to the Internet.
+25/Mar/2003 10:15:32
+is the date and time of the query.
+http://www.google.com/search?q=cars
+is the requested URL, including the search query.
+Chrome 112; OS X 10.15.7
+is the browser and operating system being used.
+740674ce2123a969
+is the unique cookie ID assigned to this particular computer the first time it visited Google. (Cookies can be deleted by users. If the user has deleted the cookie from the computer since the last time they’ve visited Google, then it will be the unique cookie ID assigned to their device the next time they visit Google from that particular device).
+Unique identifiers
+A unique identifier is a string of characters that can be used to uniquely identify a browser, app, or device. Different identifiers vary in how permanent they are, whether they can be reset by users, and how they can be accessed.
+Unique identifiers can be used for various purposes, including security and fraud detection, syncing services such as your email inbox, remembering your preferences, and providing personalized advertising. For example, unique identifiers stored in cookies help sites display content in your browser in your preferred language. You can configure your browser to refuse all cookies or to indicate when a cookie is being sent. Learn more about
+how Google uses cookies
+.
+On other platforms besides browsers, unique identifiers are used to recognize a specific device or app on that device. For example, a unique identifier such as the Advertising ID is used to provide relevant advertising on Android devices, and can be
+managed
+in your device’s settings. Unique identifiers may also be incorporated into a device by its manufacturer (sometimes called a universally unique ID or UUID), such as the IMEI-number of a mobile phone. For example, a device’s unique identifier can be used to customize our service to your device or analyze device issues related to our services.
+Additional Context
+Activity on Google Services
+If you’re signed in to your Google Account and have Web & App Activity turned on, your activity data on Google sites, apps, and services may be saved in your account’s Web & App Activity. Some activity may include information about the general area you were in when using the Google service. When you search for something using a general area, your search will use an area of at least 3 sq km, or expand until the area represents the locations of at least 1,000 people. This helps protect your privacy.
+In some cases, areas that you have searched from in the past may be used to estimate a relevant location for your search. For example, if you search for coffee shops while in Chelsea, Google might show results for Chelsea in future searches.
+You can view and control your Web & App Activity at
+My Activity
+.
+activity on third-party sites and apps that use our services
+Websites and apps that integrate Google services like ads and analytics share information with us.
+This information is collected regardless of which browser or browser mode you use. For example, although Incognito mode in Chrome can help keep your browsing private from other people who use your device, third party sites and apps that integrate our services may still share information with Google when you visit them.
+You can
+learn more
+about some of the ways you can control the information that is shared when you visit or interact with sites and apps that use Google services.
+ads you’ll find most useful
+For example, if you watch videos about baking on YouTube, you may see more ads that relate to baking as you browse the web. We also may use your IP address to determine your approximate location, so that we can serve you ads for a nearby pizza delivery service if you search for “pizza.” Learn more
+about Google ads
+and
+why you may see particular ads
+.
+advertising and research services on their behalf
+For example, merchants may upload data from their loyalty-card programs so that they can include loyalty information in search or shopping results, or better understand the performance of their ad campaigns. We only provide aggregated reports to advertisers that don’t reveal information about individual people.
+Android device with Google apps
+Android devices with Google apps include devices sold by Google or one of our partners and include phones, cameras, vehicles, wearables, and televisions. These devices use Google Play Services and other pre-installed apps that include services like Gmail, Maps, your phone’s camera and phone dialer, text-to-speech conversion, keyboard input, and security features. Learn more about
+Google Play Services
+.
+appropriate safeguards
+For example, we may anonymize data, or encrypt data to ensure it can’t be linked to other information about you.
+Learn more
+benefits the public
+For example, we process information about
+requests to remove content
+from our services to educate the public, facilitate research, and provide transparency about these requests.
+customized search results
+For example, when you’re signed in to your Google Account and have the Web & App Activity control enabled, you can get more relevant search results that are based on your previous searches and activity from other Google services. You can
+learn more here
+. You may also get customized search results even when you’re signed out. If you don’t want this level of search customization, you can
+search and browse privately
+or turn off
+signed-out search personalization
+.
+Customizing our services
+For example, we may display a Google Doodle on the Search homepage to celebrate an event specific to your country.
+data controller responsible for processing your information
+This means the Google affiliate that is responsible for processing your information and for complying with applicable privacy laws.
+deliver our services
+Examples of how we use your information to deliver our services include:
+We use the IP address assigned to your device to send you the data you requested, such as loading a YouTube video
+We use unique identifiers stored in cookies on your device to help us authenticate you as the person who should have access to your Google Account
+Photos and videos you upload to Google Photos are used to help you create albums, collages, and other creations that you can share.
+Learn more
+A flight confirmation email you receive may be used to create a “check-in” button that appears in your Gmail
+When you purchase services or physical goods from us, you may provide us information like your shipping address or delivery instructions. We use this information for things like processing, fulfilling, and delivering your order, and to provide support in connection with the product or service you purchase.
+detect abuse
+When we detect spam, malware, illegal content (including
+child sexual abuse and exploitation material
+), and other forms of abuse on our systems in violation of our policies, we may disable your account or take other appropriate action. In certain circumstances, we may also report the violation to appropriate authorities.
+devices
+For example, we can use information from your devices to help you decide which device you’d like to use to install an app or view a movie you buy from Google Play. We also use this information to help protect your account.
+ensure and improve
+For example, we analyze how people interact with advertising to improve the performance of our ads.
+ensure our services are working as intended
+For example, we continuously monitor our systems to look for problems. And if we find something wrong with a specific feature, reviewing activity information collected before the problem started allows us to fix things more quickly.
+Information about things near your device
+If you use Google’s Location services on Android, we can improve the performance of apps that rely on your location, like Google Maps. If you use Google’s Location services, your device sends information to Google about its location, sensors (like accelerometer), and nearby cell towers and Wi-Fi access points (like MAC address and signal strength). All these things help to determine your location. You can use your device settings to enable Google Location services.
+Learn more
+legal process, or enforceable governmental request
+Like other technology and communications companies, Google regularly receives requests from governments and courts around the world to disclose user data. Respect for the privacy and security of data you store with Google underpins our approach to complying with these legal requests. Our legal team reviews each and every request, regardless of type, and we frequently push back when a request appears to be overly broad or doesn’t follow the correct process. Learn more in our
+Transparency Report
+.
+make improvements
+For example, we use cookies to analyze how people interact with our services. And that analysis can help us build better products. For example, it may help us discover that it’s taking people too long to complete a certain task or that they have trouble finishing steps at all. We can then redesign that feature and improve the product for everyone.
+may link information
+Google Analytics relies on first-party cookies, which means the cookies are set by the Google Analytics customer. Using our systems, data generated through Google Analytics can be linked by the Google Analytics customer and by Google to third-party cookies that are related to visits to other websites. For example, an advertiser may want to use its Google Analytics data to create more relevant ads, or to further analyze its traffic.
+Learn more
+our users
+For example, to prevent abuse and increase transparency and accountability over our online content moderation practices, Google shares data about requests for removal of content from our services with Lumen, which collects and analyzes these requests to facilitate research to help Internet users understand their rights.
+Learn more
+.
+partner with Google
+There are over 2 million non-Google websites and apps that partner with Google to show ads.
+Learn more
+payment information
+For example, if you add a credit card or other payment method to your Google Account, you can use it to buy things across our services, like apps in the Play Store. We may also ask for other information, like a business tax ID, to help process your payment. In some cases, we may also need to verify your identity and may ask you for information to do this.
+We may also use payment information to verify that you meet age requirements, if, for example, you enter an incorrect birthday indicating you’re not old enough to have a Google Account.
+Learn more
+personalized ads
+You may also see personalized ads based on information from the advertiser. If you shopped on an advertiser's website, for example, they can use that visit information to show you ads.
+Learn more
+phone number
+If you add your phone number to your account, it can be used for different purposes across Google services, depending on your settings. For example, your phone number can be used to help you access your account if you forget your password, help people find and connect with you, and make the ads you see more relevant to you.
+Learn more
+Places you label like home and work
+You might choose to save places to your Google Account that are important to you, such as your home or your work. If you set your home or work addresses, they can be used to help you do things more easily, such as getting directions or finding results closer to your home or work, and for more useful ads.
+You can edit or delete your home or work addresses anytime in your
+Google Account.
+protect against abuse
+For example, information about security threats can help us notify you if we think your account has been compromised (at which point we can help you take steps to protect your account).
+publicly accessible sources
+For example, we may collect information that’s publicly available online or from other public sources to help train Google’s AI models and build products and features like Google Translate, Gemini Apps, and Cloud AI capabilities. Or, if your business’s information appears on a website, we may index and display it on Google services.
+rely on cookies to function properly
+For example, we use a cookie called ‘lbcs’ that makes it possible for you to open many Google Docs in one browser. Blocking this cookie would prevent Google Docs from working as expected.
+Learn more
+remove
+For example, as described above, you can
+request to remove content
+, including content that may contain your information, from specific Google services, based on applicable law (including data protection law) and our policies.
+safety and reliability
+Some examples of how we use your information to help keep our services safe and reliable include:
+Collecting and analyzing IP addresses and cookie data to protect against automated abuse. This abuse takes many forms, such as sending spam to Gmail users, stealing money from advertisers by fraudulently clicking on ads, or censoring content by launching a Distributed Denial of Service (DDoS) attack.
+The “last account activity” feature in Gmail can help you find out if and when someone accessed your email without your knowledge. This feature shows you information about recent activity in Gmail, such as the IP addresses that accessed your mail, the associated location, and the date and time of access.
+Learn more
+sensitive categories
+When showing you personalized ads, we use topics that we think might be of interest to you based on your activity. For example, you may see ads for things like "Cooking and Recipes" or "Air Travel.” We don’t use topics or show personalized ads based on sensitive categories like race, religion, sexual orientation, or health. And we
+require the same from advertisers
+that use our services.
+Sensor data from your device
+Your device may have sensors that can be used to better understand your location and movement. For example, an accelerometer can be used to determine your speed and a gyroscope to figure out your direction of travel. Learn more about
+how we use location information.
+servers around the world
+For example, we operate data centers located
+around the world
+to help keep our products continuously available for users.
+services to make and receive calls or send and receive messages
+Examples of these services include:
+Google Voice, for making and receiving calls, sending text messages, and managing voicemail
+Google Meet, for making and receiving video calls
+Gmail, for sending and receiving emails
+Google Chat, for sending and receiving messages
+Google Duo, for making and receiving video calls and sending and receiving messages
+Google Fi, for a phone plan
+show trends
+When lots of people start searching for something, it can provide useful information about particular trends at that time. Google Trends samples Google web searches to estimate the popularity of searches over a certain period of time and shares those results publicly in aggregated terms.
+Learn more
+similar information related to your physical or mental health
+If you use fitness products and apps we offer, such as Fitbit, Pixel Watch, Nest or Google Fit, we collect data you provide, like your height and weight. We also collect information from these apps and devices, such as your sleep patterns, heart rate, skin temperature, calories burned, and steps taken.
+specific Google services
+For example, you can delete
+your blog
+from Blogger or
+a Google Site you own
+from Google Sites. You can also delete
+reviews
+you’ve left on apps, games, and other content in the Play Store.
+specific partners
+For example, we allow YouTube creators and advertisers to work with measurement companies to learn about the audience of their YouTube videos or ads, using cookies or similar technologies. Another example is merchants on our shopping pages, who use cookies to understand how many different people see their product listings.
+Learn more
+about these partners and how they use your information.
+synced with your Google Account
+Your Chrome browsing history is only saved to your account if you’ve enabled Chrome synchronization with your Google Account.
+Learn more
+the people who matter most to you online
+For example, when you type an address in the To, Cc, or Bcc field of an email you're composing, Gmail will suggest addresses based on the people you
+contact most frequently
+.
+the public
+For example, we process information about
+requests to remove content
+from our services under Google's content removal policies or applicable law to assess the request, and to ensure transparency, improve accountability and prevent abuse and fraud in these practices.
+third parties
+For example, we process your information to report use statistics to rights holders about how their content was used in our services. We may also process your information if people search for your name and we display search results for sites containing publicly available information about you.
+use the information we collect across our services
+Depending on your available settings, some examples of how we use the information we collect across our services include:
+When you’re signed in to your Google Account and search on Google, you can see search results from the public web, along with relevant information from the content you have in other Google products, like Gmail or Google Calendar. This can include things like the status of your upcoming flights, restaurant, and hotel reservations, or your photos.
+Learn more
+If you have communicated with someone via Gmail and want to add them to a Google Doc or an event in Google Calendar, Google makes it easy to do so by autocompleting their email address when you start to type in their name. This feature makes it easier to share things with people you know.
+Learn more
+The Google app can use data that you have stored in other Google products to show you personalized content, depending on your settings. For example, if you have searches stored in your Web & App Activity, the Google app can show you news articles and other information about your interests, like sports scores, based on your activity.
+If you connect your Google Account to your Google Home, you can manage your information and get things done through the Google Assistant. For example, you can add events to your Google Calendar or get your schedule for the day, ask for status updates on your upcoming flight, or send information like driving directions to your phone.
+Learn more
+If you’re a user in the EU, the decisions you make on linking services will affect how certain Google services can use the data across our services.
+Views and interactions with content and ads
+For example, we collect information about views and interactions with ads so we can provide aggregated reports to advertisers, like telling them whether we served their ad on a page and whether the ad was likely seen by a viewer. We may also measure other interactions, such as how you move your mouse over an ad or if you interact with the page on which the ad appears.
+Voice and audio information
+For example, you can choose whether you want Google to save an audio recording to your Google Account when you interact with Google Search, Assistant, and Maps. When your device detects an audio activation command, like “Hey Google,” Google records your voice and audio plus a few seconds before the activation.
+Learn more
+your activity on other sites and apps
+This activity might come from your use of Google services, like from syncing your account with Chrome or your visits to sites and apps that partner with Google. Many websites and apps partner with Google to improve their content and services. For example, a website might use our advertising services (like AdSense) or analytics tools (like Google Analytics), or it might embed other content (such as videos from YouTube). These services may share information about your activity with Google and, depending on your
+account settings
+and the products in use (for instance, when a partner uses Google Analytics in conjunction with our advertising services), this data may be associated with your personal information.
+Learn more
+about how Google uses data when you use our partners' sites or apps.
+Google
+About Google
+Privacy
+Terms
+Transparency Center
+A drop down list to change the language of the site. Each option is a language name. There are 65 language options.
+Afrikaans
+Bahasa Indonesia
+Bahasa Melayu
+Català
+Čeština
+Dansk
+Deutsch
+Eesti
+English
+English (India)
+English (United Kingdom)
+Español
+Español (Latinoamérica)
+Euskara
+Filipino
+Français
+Français (Canada)
+Gaeilge
+Galego
+Hrvatski
+Isizulu
+Íslenska
+Italiano
+Kiswahili
+Latviešu
+Lietuvių
+Magyar
+Malti
+Nederlands
+Norsk
+Polski
+Português (Brasil)
+Português (Portugal)
+Română
+Slovenčina
+Slovenščina
+Srpski
+Suomi
+Svenska
+Tiếng Việt
+Türkçe
+অসমীয়া
+Ελληνικά
+Български
+ଓଡିଆ
+Русский
+Српски
+Українська
+‫עברית‬
+‫اردو‬
+‫العربية‬
+‫فارسی‬
+አማርኛ
+मराठी
+हिन्दी
+বাংলা
+ગુજરાતી
+தமிழ்
+తెలుగు
+ಕನ್ನಡ
+മലയാളം
+ไทย
+한국어
+中文 (香港)
+中文（简体中文）
+中文（繁體中文）
+日本語
+Sub-policy 1
+https://www.malwarebytes.com/privacy/ccpa:
+Skip to content
+[Download/Print]
+CALIFORNIA RESIDENTS
+PRIVACY NOTICE SUPPLEMENT
+Effective Date
+: January 15, 2025
+Last Reviewed on
+: January 15, 2025
+We are committed to your right to privacy and respecting your ability to control your information.
+This supplement (“Supplement”) applies to visitors, users, and others who reside in the State of California (“consumers” or “you”). It is designed to supplement the
+Malwarebytes Privacy Policy
+(“Privacy Policy”) to comply with the California Consumer Privacy Act of 2018 (“CCPA”) and other California privacy laws. Any terms defined in the CCPA have the same meaning when used in this notice.
+I.
+IMPORTANT INFORMATION ABOUT THE PERSONAL DATA WE COLLECT ABOUT YOU
+We collect and use your personal information for business purposes described in the Privacy Policy.In the past twelve (12) months, we’ve collected the categories of personal information as shown in the table below:
+Simply
+In the past twelve (12) months, we’ve collected the types of personal information as shown in the table below:
+Category
+Examples
+Categories of Sources
+Business or Commercial Purposes
+A. Identifiers.
+Name, alias, postal address, unique personal identifier, online identifier, Internet Protocol address, email address, account name, or other similar identifiers.
+From you, from someone authorized to act on your behalf, when you submit information to inquire about our products.
+From your mobile device (phone), computer, or internet browser when you use license and use our software (“Software Collection”).
+To manage your account with us, verify that you have a valid license to use our products or services. To administer and manage our website.
+B. Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e)).
+Name, address, telephone number, education, employment, employment history. Some personal information included in this category may overlap with other categories.
+From you, from someone authorized to act on your behalf, or when you submit information to inquire about our products.
+To provide you services that you request of us.
+C. Protected classification characteristics under California or federal law.
+Age (40 years or older), race, color, ancestry, national origin, citizenship, religion or creed, marital status, medical condition, disability (mental and physical including HIV/AIDS, cancer, and genetic characteristics), sex (including gender, gender identity, gender expression, pregnancy or childbirth and related medical conditions), sexual orientation, veteran or military status, genetic information (including familial genetic information).
+From you when you complete an application for employment with us.
+To comply with applicable employment laws or to fulfill our compliance obligations.
+D. Commercial information.
+Records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies.
+From you when you use our products or services.
+To provide products or services to you as you have requested.
+E. Internet or other similar network activity.
+Browsing history, search history, information on a consumer’s interaction with a website, application, or advertisement.
+From your internet browser when you visit our website.
+For running our website.
+F. Geolocation data.
+Continent, country, city, approximate latitude or longitude of your Internet Protocol (“IP”) address.
+From your internet browser when you visit our website.
+So our malware intelligence team can track malware and potentially unwanted program (“PUP”) outbreaks and patterns.
+G. Sensory data.
+Physical location or movements.
+From you when you speak with us on the phone after we have provided notice that the call is recorded.
+H. Professional or employment-related information.
+Current or past job history or performance evaluations.
+YES, where appropriate for job applicants.
+I. Non-public education information (per the Family Educational Rights and Privacy Act (20 U.S.C. Section 1232g, 34 C.F.R. Part 99)).
+Education records directly related to a student maintained by an educational institution or party acting on its behalf, such as grades, transcripts, class lists, student schedules, student identification codes, student financial information, or student disciplinary records.
+II.
+DO WE SELL YOUR PERSONAL INFORMATION?
+We do
+not
+sell your personal data. In the last twelve (12) months, we have not sold any personal information.
+Simply
+We do
+NOT
+sell your personal data.
+III.
+WHAT PERSONAL INFORMATION DO WE SHARE?
+In the preceding twelve (12) months, we have disclosed the following categories of personal information for business purposes, described in the Privacy Policy, to our affiliates, services providers, and third parties who you (or an agent on your behalf ) has authorized us, for a business purpose:
+Simply
+We share limited personal data to third parties where there is a business purpose.
+IV.
+WE DO NOT DISCRIMINATE AGAINST YOU FOR EXERCISING YOUR RIGHTS
+We will not discriminate against you for exercising any of your CCPA rights. Unless permitted by the CCPA, we will not:Deny you goods or services.Charge you different prices or rates for goods or services.Provide you a different level or quality of goods or services.Suggest that any of the foregoing may occur.
+Simply
+We won’t discriminate against (or punish) you for exercising your rights.
+We may offer certain financial incentives permitted by the CCPA that can result in different prices, rates, or quality levels. Any CCPA-permitted financial incentive we offer will reasonably relate to your personal information’s value and contain written terms that describe the program’s material aspects. Participation in a financial incentive program requires your prior opt-in consent, which you may revoke at any time.
+V. YOUR RIGHTS AND CHOICES
+California residents have the following rights under the CCPA:
+1.
+Personal Information Request
+You have the right to request we tell you what personal information we’ve collected about you and how we’ve used it over the past 12 months.
+Once we receive and verify your request, we will provide you a report showing:
+– The categories and specific personal information we’ve collected.
+– The categories of sources for the personal information we collected about you.
+– Our business purpose for collecting that personal information.
+– The categories of third parties with whom we share that personal information.
+– If we sold or disclosed your personal information for a business purpose, two separate lists disclosing:
+– Sales – identifying the personal information categories that each category of recipient purchased; and
+– Disclosures for a business purpose – identifying the personal information categories that each category of recipient obtained.
+Simply
+If you submit a request, we will show you what personal information we have of yours.
+2.
+Deletion Rights
+You have the right to request we delete any of your personal information that we collected from you and retained, subject to certain exceptions.
+Once we receive and verify your request, we will delete (and direct our service providers to delete) your personal information from our records.
+We may deny your deletion request if retaining the information is necessary for us or our service providers to:
+– Complete the transaction for which we collected the personal information, provide a good or service that you requested, take actions reasonably anticipated within the context of our ongoing business relationship with you, or otherwise perform our contract with you.
+– Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity, or prosecute those responsible for such activities.
+– Debug products to identify and repair errors that impair existing intended functionality.
+– Exercise free speech, ensure the right of another consumer to exercise their free speech rights, or exercise another right provided for by law.
+– Comply with the California Electronic Communications Privacy Act (Cal. Penal Code § 1546
+seq.
+).
+– Engage in public or peer-reviewed scientific, historical, or statistical research in the public interest that adheres to all other applicable ethics and privacy laws, when the information’s deletion may likely render impossible or seriously impair the research’s achievement, if you previously provided informed consent.
+– Enable solely internal uses that are reasonably aligned with consumer expectations based on your relationship with us.
+– Comply with a legal obligation.
+– Make other internal and lawful uses of that information that are compatible with the context in which you provided it.
+Simply
+We will delete your personal information where you tell us to.
+In very limited circumstances we may deny your request where continuing to process such personal information is necessary.
+3.
+How California Residents Can Submit Requests under the CCPA.
+–
+Online form
+– via email to us at:
+ccpa@malwarebytes.com
+Only you, or your authorized agent acting on your behalf, may make a request related to your personal information under the CCPA.
+Our services are not directed to children under 18 and we do not knowingly collect information about children under 13. That being said, you may also make a request on behalf of your minor child.
+You may only make a personal information request twice within a 12-month period.
+Your request must:
+– Provide sufficient information that allows us to reasonably verify you are the person about whom we collected personal information or an authorized representative.
+– Describe your request with sufficient detail that allows us to properly understand, evaluate, and respond to it.
+We cannot respond to your request or provide you with personal information if we cannot verify your identity or authority to make the request and confirm the personal information relates to you. Making a request does
+not
+require you to create an account with us. We will only use personal information provided in such a request to verify your identity or authority to make the request.
+Simply:
+Submit your requests online by either:
+1.
+completing a form online
+or
+2. via email to
+ccpa@malwarebytes.com
+4.
+Response Timing and Format
+We will do our best to fulfil your request within 45 days of submission using the methods described above in Section 3. If we need additional time to fulfil the request, we will let you know in writing why we need more time and how much more time is being requested. The disclosures we provide only cover the 12-month period preceding receipt of your request. Where we are unable to comply with your request, we will explain why we cannot comply.
+For personal information requests, we will select a format to provide your personal information that is readily useable and should allow you to transmit the information from one entity to another entity.
+We will not charge you for responding to your request unless it is excessive, repetitive, or clearly inappropriate. If we determine that the request warrants a fee, we will tell you why we made that decision and provide you with a cost estimate before completing your request.
+Simply:
+We will do our best to fulfil your request within 45 days of submission. If we need additional time, we will let you know.
+5.
+Note about Malwarebytes Free
+If you only use our free Malwarebytes product(s) and have not set up a MyAccount, then we do not have your personal information. For such users we have no personal information to provide you with, and we have no personal information to delete.
+VI. CHANGES TO THIS CALIFORNIA SUPPLEMENT
+We reserve the right to amend this Supplement at our discretion and at any time. When we make changes to this Supplement, we will notify you by email or through a notice on our website homepage.
+Simply:
+We’ll let you know if we revise this Supplement.
+VII. DISABILITIES
+We are committed to ensuring that our website, including this Supplement, is accessible to people with disabilities.
+This Supplement is available as a searchable PDF by clicking the “print” link at the top of the page allowing you to either print the document or download it as a PDF. If you are disabled and need additional assistance with this policy or have feedback about our website generally, please contact us at:
+accessibility@malwarebytes.com
+VIII. CONTACT INFORMATION
+If you have any questions or comments about this Supplement, our Privacy Notice, the ways in which we collect and use your personal information, your choices and rights regarding such use, or wish to exercise your rights under California law, please do not hesitate to contact us at:
+CCPA@malwarebytes.com
+Attn: CCPA – Legal
+Malwarebytes
+2445 Augustine Drive, Suite 550
+Santa Clara, CA 95054
+Sub-policy 2
+https://www.dataprivacyframework.gov/:
+You need to enable JavaScript to run this app.
+Please wait while application initialize...
+;
+Sub-policy 3
+https://www.jamsadr.com/dpf-dispute-resolution:
+Skip to main content
+JAMS Data Privacy Framework (DPF) Dispute Resolution
+JAMS Data Privacy Framework (DPF) Dispute Resolution
+Print Page
+Print Page
+Download page as PDF
+Download page as PDF
+Data Privacy Framework (DPF) Dispute Resolution
+Next:
+Data Privacy Framework (DPF) Dispute Resolution
+JAMS Data Privacy Framework (DPF) Dispute Resolution
+The EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. Data Privacy Framework (UK Extension to the EU-U.S. DPF), and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) were respectively developed in furtherance of transatlantic commerce by the U.S. Department of Commerce and the European Commission, the UK Government, and the Swiss Federal Administration to provide U.S. organizations with reliable mechanisms for personal data transfers to the United States from the European Union / European Economic Area, the United Kingdom (and Gibraltar), and Switzerland while ensuring data protection that is consistent with EU, UK, and Swiss law.
+The effective date of the EU-U.S. DPF Principles, including the Supplemental Principles and Annex I of the Principles is July 10, 2023, which is the date of entry into force of the European Commission’s adequacy decision for the EU-U.S. DPF. The adequacy decision enables the transfer of EU personal data to participating organizations consistent with EU law.
+Effective as of July 17, 2023, eligible organizations in the United States that wish to self-certify their compliance pursuant to the UK Extension to the EU-U.S. DPF may do so; however, personal data cannot be received from the United Kingdom and Gibraltar in reliance on the UK Extension to the EU-U.S. DPF before the date that the adequacy regulations implementing the data bridge for the UK Extension to the EU-U.S. DPF enter into force. The data bridge will enable the transfer of UK and Gibraltar personal data to participating organizations consistent with UK law.
+The effective date of the Swiss-U.S. DPF Principles, including the Supplemental Principles and Annex I of the Principles is July 17, 2023; however, personal data cannot be received from Switzerland in reliance on the Swiss-U.S. DPF until the date of entry into force of Switzerland’s recognition of adequacy for the Swiss-U.S. DPF. The recognition of adequacy will enable the transfer of Swiss personal data to participating organizations consistent with Swiss law.
+The Data Privacy Framework (DPF) Program, which is administered by the International Trade Administration (ITA) within the U.S. Department of Commerce, enables eligible U.S.-based organizations to self-certify their compliance pursuant to the EU-U.S. DPF and, as applicable, the UK Extension to the EU-U.S. DPF, and/or the Swiss-U.S. DPF. To participate in the DPF Program, a U.S.-based organization is required to self-certify to the ITA via the Department's DPF Program website (www.dataprivacyframework.gov) and publicly commit to comply with the DPF Principles. While the decision by an eligible U.S.-based organization to self-certify its compliance pursuant to and participate in the relevant part(s) of the DPF Program is voluntary, effective compliance upon self-certification is compulsory. Once such an organization self-certifies to the ITA and publicly declares its commitment to adhere to the DPF Principles that commitment is enforceable under U.S. law. All organizations interested in self-certifying their compliance pursuant to the EU-U.S. DPF and, as applicable, the UK Extension to the EU-U.S. DPF, and/or the Swiss-U.S. DPF should review the requirements in their entirety. The Department’s DPF Program website provides useful information regarding the benefits and requirements of participation in the relevant parts of that program.
+U.S.-based organizations that self-certify their compliance pursuant to the relevant part(s) of the DPF Program must, amongst other things, provide readily available recourse mechanisms available to investigate unresolved complaints, including a system of alternative dispute resolution (ADR) by an independent third party. The independent recourse mechanisms must be in place prior to self-certification, and must be available at no cost to the individual. Although organizations self-certifying their compliance pursuant to the relevant part(s) of the DPF Program may utilize private sector developed dispute resolution programs for most categories of personal data covered under their self-certifications, those organizations covering human resources data (i.e., personal information about employees, past or present, collected in the context of the employment relationship) transferred from the European Union, the United Kingdom, or Switzerland must agree to cooperate and comply with the EU data protection authorities (DPAs), the UK Information Commissioner’s Office (ICO), and the Swiss Federal Data Protection and Information Commissioner (FDPIC) respectively with regard to such data.
+JAMS is available to serve as your organization’s designated ADR provider and to assist in resolving disputes brought under the DPF Principles, up to the point of any final arbitration invoked in accordance with the procedures and conditions set forth in the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles. With a panel of over 400 neutrals around the world, JAMS specializes in resolving disputes of all sizes and levels of complexity and our neutrals have significant experience resolving issues involving privacy.
+Mediation Rules
+Mediations will be conducted pursuant to JAMS International Mediation Rules unless the parties have specified a different set of Rules or Procedures.
+Download the JAMS International Mediation Rules
+Fees
+JAMS DOES NOT charge any fees for an organization to name it as an ADR provider. If an organization names JAMS as its ADR provider under the EU-U.S. DPF and, as applicable, the UK Extension to the EU-U.S. DPF, and/or the Swiss-U.S. DPF, we request that you notify JAMS
+by registering here
+.
+When a consumer initiates a mediation or an arbitration against an organization (whether under JAMS Rules or another set of rules) all fees for the mediation, including the JAMS Case Management Fee, must be borne by the Organization. The fee arrangement is common to all DPF Dispute Resolution cases for the European Union / European Economic Area, the United Kingdom (and Gibralter), and Switzerland. For any other matters, standard JAMS policies apply.
+Name JAMS as Your Dispute Resolution Provider
+If you wish to name JAMS as your Dispute Resolution provider under the EU-U.S. DPF and, as applicable, the UK Extension to the EU-U.S. DPF, and/or the Swiss-U.S. DPF, please register using the link below:
+JAMS Data Privacy Framework (DPF) Dispute Resolution Registration
+Customer URL
+If you do name JAMS as your Dispute Resolution provider under the EU-U.S. DPF and, as applicable, the UK Extension to the EU-U.S. DPF, and/or the Swiss-U.S. DPF, the URL that you will need to provide in your customer-facing privacy policy/ies through which your customers could find information on how to open an EU-U.S. DPF and, as applicable, UK Extension to the EU-U.S. DPF, and/or Swiss-U.S. DPF Dispute Resolution case is:
+https://www.jamsadr.com/DPF-Dispute-Resolution
+File a DPF Dispute Resolution Claim
+If you are a consumer and wish to open an EU-U.S. DPF and, as applicable, UK Extension to the EU-U.S. DPF, and/or a Swiss-U.S. DPF Dispute Resolution case, please file a claim using the link below:
+File a Data Privacy Framework (DPF) Claim
+Additional Resources
+Questions/Contact
+If you have any additional questions you may contact our DPF coordinator via email
+.
+Mara Satterthwaite,
+msatterthwaite@jamsadr.com
+JAMS DPF Dispute Resolution Fee Schedule
+PROFESSIONAL FEES
+There is no fee associated with listing JAMS as the ADR provider in a self-certification submission under the DPF Program. Fees apply only if a DPF matter is brought to JAMS.
+Hourly and daily rates vary depending on neutral. Neutrals are independent contractors and set their own Professional Fees.
+In compliance with the EU, UK, and Swiss data protection initiatives, 100% of ADR fees associated with a DPF matter brought by a consumer will be the responsibility of the respondent company; consumers will not be responsible for any portion of these fees.
+For non-consumer matters, hearing fees are divided equally among all parties.
+Professional Fees include time spent for hearings, pre- and post-hearing reading and research, and award preparation.
+MEDIATION FEES
+Initial non-refundable fee of $300 per party, applies to first 10 hours of professional time
+Time in excess of initial 10 hours is billed at 13% of Professional Fees
+The Case Management Fee includes access to an exclusive nationwide panel of judges, attorneys, and other ADR experts, dedicated services including all administration through the duration of the case, document handling, and use of JAMS conference facilities including after hours and on-site business support. Weekends and holidays are subject to additional charges.
+Click here for a PDF of this fee schedule
+JAMS agreement to render services is with the attorney, the party, and/or other representatives of the party.
+www.jamsadr.com • Updated 08/30/2023
+Contact Information
+msatterthwaite@jamsadr.com
+Mara E. Satterthwaite, Esq.
+7160 Rafael Rivera Way Suite #400 Las Vegas, NV 89113
+Scroll to top
+Scroll to top
+JAMS uses cookies to give users like yourself the best possible content and experience while visiting our website.  By choosing "Accept and close", you agree to the use of all cookies on our website.  To learn more about how JAMS protects your personal information, please visit our
+Privacy Policy
+.  Please note, by blocking certain types of cookies, you may impact your experience of the site.
+You are able to manage your personal cookie preferences at any time by visiting our
+Cookie Consent Tool
+.
+Decline
+Accept and Close
+Options

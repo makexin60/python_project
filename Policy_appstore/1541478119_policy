@@ -1,0 +1,20 @@
+Privacy Policy of Henry Solutions 16 Relay Controller
+This application does not collect personal information from its users.
+This document can be printed for reference by using the print command in the settings of any browser.
+Owner and Data Controller
+Henry Solutions
+United States
+Types of Data Collected
+The 16 relay controller does not collect any personal data.
+The 16 Relay controller connects to an IOT device via web service calls.  The webservice endpoints you connect to is determined by the application settings.  The default IP address of the webservice for the relay controller is set to a non-routable IP address of 192.168.4.2.  The app only uses http and not https so it is only suitable for controlling IOT devices in a closed environment.
+The 16 Relay controller is limited to sending only the following URL request to the IP address you enter in the settings:
+http://[ip-address]/status
+http://[ip-address]/status/[relay-number]
+http://[ip-address]/on/[relay-number]
+http://[ip-address]/off/[relay-number]
+http://[ip-address]/allon
+http://[ip-address]/alloff
+http://[ip-address]/hb
+No other URL/URI's can be sent.
+The rights of Users
+Removal of the application removes the settings.

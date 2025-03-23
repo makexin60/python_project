@@ -1,0 +1,883 @@
+Language:
+EN
+DE
+FR
+ES
+IT
+PT
+RU
+Preamble:
+We are aiming to make this policy as transparent and easy to understand as possible. If you have any questions regarding our policies or if you feel there is any missing information, feel free to contact us.
+General:
+Everyone can download the game and play it for free. To earn money, we use in-app purchases and advertisements. Ads are an important part of our income.
+We use analytics to recognize things that need to be improved and to validate that our own marketing efforts are profitable.
+Without ads and analytics, we couldn't run and sustain this game as a service. Therefore, your Advertising id is processed. You can disable the id in the privacy settings of your phone, if you don't want this.
+Data Usage:
+The collected data is used for analytics, the game's functionality, product personalization and advertising & marketing (including third-party advertising).
+Data Sensitivity:
+We don't process or have access to sensitive data (e.g. credit card numbers or your address). All the personal data we process is used to identify something: Your savegame, you as a player, you as a recipient of consumer information, the game installation on your phone or an in-app purchase.
+You can opt-in to use your email address to bind your account. The email address is only used for the purpose of account management.
+Data Security:
+We use an encrypted connection (https) to transfer personal data to our servers or to third-party processors. Some of the third-party processors are located in countries outside the EU, but all off them comply with the GDPR. Access to our own game databases is protected and limited to authorized employees.
+Risk Assessment:
+We did a risk assessment to identify the potential damage of a data breach. The worst-case scenario would be that someone has access to all the data processed by us. This person could manipulate your savegame, see how you play the game or send you game notification. All this is a local damage that only affects this game and your progress in this game.
+With our data alone, you cannot be identified as a person unless in combination with sensitive personal data from different sources.
+If you opt-in to use your email address to bind your account, the worst case scenario of a data breach means, that someone can use this email address to send you spam. But it's not possible to figure out the password you used.
+Policy Changes:
+We reserve the right to make changes to this privacy policy at any time in the future. We recommended to check this page regularly, especially the date of the last modification at the bottom. If you object to the changes, you can stop using the application and delete your account and/or ask us to remove your personal data. A changed privacy policy will apply to all personal data we have about users.
+We are processing the following kind of personal data:
+Savegame Identifiers:
+The game automatically connects to our server to create an online savegame (cloud save). We generate an UserId and AuthToken to access and authenticate for this savegame. The game also creates a BlingHubId, which contains a pointer to your UserId. In general, it's the same concept as the UserId, but it allows you to authenticate with Google Play Games, Game Center and other services, so that you won't lose your progress after a re-install.
+We store your progress as well as all premium transactions in our database.
+In-App Purchases:
+We store the order ids of in-app purchases to be able to support payers and for fraud detection. Please recognize that we don't have access to your payment information or your name, address etc. when you make a purchase.
+Server Logs:
+We log server requests in our server logs. The server logs contains the UserId, which allows us to debug and fix errors.
+Ad Measurement:
+We use the Advertising Identifier (Android) or IDFA (iOS). The Id is used to identify you as a user across multiple apps. It also helps us track the success of our own marketing campaigns.
+If you don't like this, you can globally disable the id in the privacy settings of your operating system.
+Tailored Ads:
+If you have agreed to tailored ads, we and our partners will collect data and use the advertising id for ad personalization.
+You can change your choice at any time in the options menu. You have to restart the game to fully apply the change.
+Please note that some of our advertising partners provide their own privacy settings and/or adjust them based on the privacy laws of your country.
+Auth Tokens:
+Use an authentication method like Google Play Games, Game Center or Facebook to bind your account. If you do this, we request an authentication token that allows us to identity you as a user independently of your current local progress. The token is just something that we can use to confirm that you are the owner of that account. This way we can restore an old savegame after a re-install or if you are using a different device.
+The auth tokens are generated for this specific app. We can't use the token to authenticate for other apps.
+Email Sign In:
+You can opt-in to use your email address as an authentication method. This allows you to play the same game on multiple platforms like Android and iOS. The email address is stored within an additional security layer and we don't store or transfer your original passwords of course.
+IP Addresses:
+We don't store or process IP addresses ourselves, but some of our third-party processors process IP addresses.
+Android Id:
+The Android Id is for Android version 8.0 and above a unique id based on the combination of our app-signing key, a user, and a device. This means that this id can be used by us and our third-party processors to identify you as a user, but can't be connected to the usage data of apps or services from other developers. If you are running an Android version lower than 8.0 on your device, the Android id is the same for all developers, which means a data breach is more relevant here. Please consider to upgrade your Android OS.
+Instance Identifier:
+The Instance Id is used to identify the current app installation on your phone. The id becomes invalid if you uninstall the app. If you re-install the app, you get a new id.
+Other Data:
+Additionally to the personal data and identifiers mentioned above, we or our third-party processors do also process the following data:
+Game progression data, session starts and durations, usage of premium items or advertisements, the hardware model & manufacturer, operating system version, crash logs, display screen size & orientation, audio volume, battery, system language or locale settings, the type of internet connection, the mobile carrier, your time zone, free space available on your device, IP based location data and segmentation and attribution data.
+Support:
+If you contact our support, we will process your contact data like your email address and other information provided to handle your request.
+We will store the information provided for up to 12 months to be able to handle follow up requests. We don't forward your contact data to third-party processors. Only our authorized employees can access your contact data.
+We need to forward parts of the data to the following services:
+AWS:
+We use Amazon Web Services for our scalable backend infrastructure. Amazon guarantees not to access or process any personal data. The only exception is the processing for data security reasons or to comply with the law. Only our authorized employees can access the game data or order ids. The data can be stored outside of the EU.
+Show details...
+Firebase:
+We use multiple services from Firebase by Google. The services process Advertising Ids, Instance Ids and app usage data. The data is deleted automatically 14 months after the last session. The processing can happen outside of the EU.
+Show details...
+Google Analytics:
+Google Analytics identifies users with Advertising Ids and Instance Ids. It collects data about your progress and play behavior. The data is deleted automatically 14 months after the last session. The processing can happen outside of the EU.
+Show details...
+Facebook Analytics:
+Facebook Analytics identifies users with Advertising Ids and Instance Ids. It collects data about your progress and play behavior. The processing can happen outside of the EU.
+Show details...
+FacebookSignIn:
+You can sign in with your existing Facebook account to bind your game to Facebook. We use only the authentication service and will only access your user name from your Facebook profile. The user name is not sent to our server or any third party services. We don't post any content on your Facebook profile.
+Unity Ads & Analytics:
+Unity Ads and Unity Analytics identifies users with Advertising Ids and Instance Ids. It collects data about your progress and play behavior. The processing happens mostly in the EU, but can happen outside of the EU.
+Show details...
+Tenjin:
+Tenjin is an attribution tracking service, which helps us to determine where new users are coming from. It processes your Advertising Id, IP addresses and other data about your progress, play behavior and specification of your phone. The processing happens mostly in the EU, but can happen outside of the EU.
+Show details...
+AppsFlyer:
+AppsFlyer is an attribution tracking service, which helps us to determine where new users are coming from. It processes your Advertising Id, IP addresses and other data about your progress, play behavior and specification of your phone. The processing can happen outside of the EU.
+Show details...
+Iron Source:
+Iron Source is an advertisement network and mediation service. It processes your Advertising Id and usage data. The processing can happen outside of the EU.
+Show details...
+Google AdMob:
+Google AdMob is an advertisement network. It processes your Advertising Id and usage data. The processing can happen outside of the EU.
+Show details...
+Ad tech providers:
+Google AdMob shares data with ad technology providers. We are using the commonly used set of ad technology providers listed on their website.
+Show details...
+Facebook Ads:
+Facebook Audience Network is an advertisement network. It processes your Advertising Id and usage data. The processing can happen outside of the EU.
+Show details...
+AppLovin:
+AppLovin is an advertisement network. It processes your Advertising Id and usage data. The processing can happen outside of the EU.
+Show details...
+AdColony:
+AdColony is an advertisement network. It processes your Advertising Id and usage data. The processing can happen outside of the EU.
+Show details...
+Tapjoy:
+Tapjoy is an advertisement network. It processes your Advertising Id and usage data. The processing can happen outside of the EU.
+Vungle:
+Vungle is an advertisement network. It processes your Advertising Id and usage data. The processing can happen outside of the EU.
+Snapchat:
+Snapchat is an advertisement network. It processes your Advertising Id and usage data. The processing can happen outside of the EU.
+InMobi:
+InMobi is an advertisement network. It processes your Advertising Id and usage data. The processing can happen outside of the EU.
+HyprMX:
+HyprMX is an advertisement network. It processes your Advertising Id and usage data. The processing can happen outside of the EU.
+MyTarget:
+MyTarget is an advertisement network. It processes your Advertising Id and usage data. The processing can happen outside of the EU.
+Chartboost:
+Chartboost is an advertisement network. It processes your Advertising Id and usage data. The processing can happen outside of the EU.
+Zendesk:
+We use services from Zendesk, Inc. to handle customer requests via Email or Social Media. The processing can happen outside of the EU.
+Show details...
+You have the following rights as a data subject:
+Data Access:
+You have the right to access the personal data processed by us. Please contact us to request your data.
+Data Erasure:
+You can delete all savegames and stored account data by using the delete account button in the Bling Hub menu. All Instance Ids are invalidated if you uninstall the app. You can request a new Advertising Id / IDFA in the privacy settings of your operating system. Please contact us if you want us to delete other personal data (e.g. data from support requests).
+Complaints:
+You have the right to lodge a complaint with a supervisory authority.
+Show details...
+Owner and Data Controller:
+Bling Bling Games GmbH
+Mozartstraße 13
+76133 Karlsruhe
+Germany
+privacy@blingblinggames.com
+Last Updated: October 16, 2021
+Präambel:
+Unser Ziel ist es, diese Bestimmungen so transparent und verständlich wie möglich zu gestalten. Falls du Fragen bezüglich unserer Bestimmungen hast oder falls du denkst, dass wichtige Informationen fehlen, kannst du uns gerne kontaktieren.
+Allgemein:
+Jeder kann das Spiel herunterladen und kostenlos spielen. Um Geld zu verdienen, verwenden wir In-App Käufe und Werbung. Werbung ist ein wichtiger Teil unseres Einkommens.
+Wir verwenden Analysetools, um herauszufinden, was wir verbessern können und um sicherzustellen, dass unsere Werbemaßnahmen profitabel sind.
+Ohne Werbung und Analysetools könnten wir dieses Spiel nicht weiterbetreiben. Daher verarbeiten wir die Werbe-ID des Telefons. Du kannst diese Werbe-ID in den Privatsphäre-Einstellungen deines Telefons deaktivieren, falls du das nicht möchtest.
+Datannutzung:
+Die gesammelten Daten werden für Analysen, die Funktionalität des Spiels, Produktpersonalisierungen und Marketing bzw. Werbung (inklusive von Drittanbietern) verwendet.
+Datensensibilität:
+Weder haben wir Zugriff, noch verarbeiten wir sensible Daten wie Kreditkarteninformationen oder deine Anschrift. Alle personenbezogenen Daten, die wir verarbeiten, werden verwendet, um etwas zu identifizieren: Deinen Spielstand, dich als Spieler, dich als Empfänger von Verbraucherinformationen, das Spiel auf deinem Telefon oder In-App-Käufe.
+Du hast die Option, deinen Account mit deiner E-Mail-Adresse zu verknüpfen. Die E-Mail-Adresse wird ausschließlich zur Account-Verwaltung verwendet.
+Datensicherheit:
+Wir verwenden verschlüsselte Verbindungen (https), wenn wir personenbezogene Daten zu unseren Servern oder an Dritte senden. Daten werden auch außerhalb der EU verarbeitet, wobei sich alle Auftragsverarbeiter, die uns bei der Datenverarbeitung unterstützen, an die DSGVO halten. Der Zugriff auf unsere eigene Spieldatenbank ist geschützt und nur autorisierten Mitarbeitern möglich.
+Risikoanalyse:
+Wir haben eine Risikoanalyse durchgeführt, um den potentiellen Schaden einer Datenpanne zu identifizieren. Das schlimmste vorstellbare Szenario wäre, wenn jemand Zugang zu allen Daten hätten, die wir verarbeiten. Diese Person könnte in dem Fall deinen Spielstand manipulieren, einsehen, wie du das Spiel spielst oder dir Spielbenachrichtigungen schicken. Dies wäre ein lokaler Schaden, der nur das Spiel und deinen Fortschritt darin betrifft.
+Mit unseren Daten allein kannst du nicht als Person identifiziert werden; dies ist nur in Kombination mit sensiblen Daten aus anderen Quellen.
+Falls du dich entscheidest, deine E-Mail-Adresse mit deinem Account zu verknüpfen, könnte im schlimmstmöglichen Fall einer Datenpanne jemand Spam an diese E-Mail-Adresse senden. Es ist allerdings nicht möglich, dadurch an dein Passwort zu gelangen.
+Änderungen:
+Wir behalten uns das Recht vor, in der Zukunft Änderungen an dieser Datenschutzerklärung vorzunehmen. Wir empfehlen daher, diese Seite regelmäßig zu überprüfen, insbesondere das Datum der letzten Änderung am Ende der Erklärung. Falls du einer Änderung nicht zustimmst, kannst du aufhören, diese App zu benutzen und deinen Account löschen und/oder uns bitten, deine personenbezogenen Daten zu löschen. Eine Änderung der Datenschutzbestimmungen wirkt sich auf alle personenbezogenen Daten aus, die wir von Benutzern haben.
+Wir verarbeiten folgende personenbezogenen Daten:
+Spielstand Ids:
+Das Spiel verbindet sich automatisch mit unseren Servern, um einen Online-Spielstand (cloud save) anzulegen. Wir generieren eine UserId und einen AuthToken, welche verwendet werden, um auf deinen Spielstand zuzugreifen. Das Spiel erzeugt außerdem eine BlingHubId, welche einen Verweis auf deine UserId enthält. Im Prinzip ist dies das selbe Konzept wie die UserId, aber es erlaubt dir, dich mit Google Play Spiele, Game Center oder anderen Diensten zu authentifizieren, so dass du deinen Spielstand nach einer Neuinstallation nicht verlierst.
+Wir speichern deinen Spielfortschritt sowie alle Premiumtransaktionen.
+In-App Käufe:
+Wir speichern Bestellnummern von In-App-Käufen, um Bezahlkunden einen besseren Kundendienst zu ermöglichen und um Betrug vorzubeugen. Bitte beachte hierbei, dass wir keinen Zugriff auf Zahlungsinformationen oder persönliche Daten wie Namen, Anschrift usw. haben.
+Server Logs:
+Wir speichern Server-Anfragen in unseren Server Logs. Die Server Logs enthalten die UserId, die es uns ermöglicht, Fehler zu identifizieren und zu beheben.
+Werbemessung:
+Wir benutzen die Werbe-ID (Android) bzw. Ad-ID (iOS). Diese ID wird verwendet, um dich als Nutzer verschiedener Apps zu identifizieren. Sie hilft uns außerdem, den Erfolg unserer eigenen Werbekampagnen zu bewerten.
+Falls du dies nicht möchtest, kannst du diese ID global in den Privatsphäre-Einstellungen deines Betriebssystems deaktivieren.
+Pers. Werbung:
+Falls du personalisierter Werbung zugestimmt hast, werden wir und unsere Partner Daten sammeln und deine Werbe-ID verwenden, um für dich relevantere Werbung anzeigen zu können.
+Du kannst deine Wahl jederzeit in den Optionen ändern. Damit die Änderung vollständig wirksam wird, musst du das Spiel ggf. neu starten.
+Bitte beachte, dass einige unserer Werbepartner eigene Privatsphäre-Einstellungen anbieten und/oder die Einstellungen an die Datenschutzgesetze deines Landes anpassen.
+Authentifizierungs-Tokens:
+Nutze eine Authentifizierungsmethode wie Google Play Spiele, Game Center oder Facebook, um deinen Account damit zu verbinden. Falls du dies zulässt, können wir einen Authentifizierungs-Token abrufen, der es uns ermöglicht, dich als Nutzer unabhängig von deinen lokalen Daten zu identifizieren. Dieser Token wird nur verwendet, um zu überprüfen, ob du wirklich der Inhaber des Accounts bist. Auf diese Weise ist es möglich, einen alten Spielstand nach einer Neuinstallation oder einem Telefonwechsel wiederherzustellen.
+Diese Tokens werden explizit für diese App erstellt. Wir können sie nicht benutzen, um uns für andere Apps zu authentifizieren.
+E-Mail-Anmeldung:
+Du kannst zustimmen, deine E-Mail-Adresse als Authentifizierungsmethode zu nutzen. Das ermöglicht dir, das selbe Spiel auf mehreren Plattformen, wie Android und iOS, zu spielen. Die E-Mail-Adresse wird auf eriner zusätzlichen Sicherheitsebene gespeichert. Deine ursprünglichen Passwörter werden von uns selbstverständlich weder gespeichert noch transferiert.
+IP Adressen:
+Wir selbst speichern oder verarbeiten keine IP-Adressen, aber einige unserer Auftragsverarbeiter verarbeiten IP-Adressen.
+Android ID:
+Die Android ID ist ab Android Version 8.0 und höher eine einmalige ID, basierend auf einer Kombination aus unserem App-Signaturschlüssel, einem Benutzer, und einem Gerät. Dies bedeutet, dass die ID von uns und Auftragsverarbeitern verwendet werden kann, um Benutzer zu identifizieren, aber nicht mit anderen Apps oder Diensten verknüpft werden kann. Falls du eine Android-Version unter 8.0 auf deinem Telefon hast, ist die Android ID für alle Entwickler identisch. Bitte ziehe in diesem Fall in Erwägung, ein Update durchzuführen.
+Instanz Ids:
+Die Instanz-ID wird verwendet, um die Installation einer App auf einem Telefon zu identifizieren. Die ID wird nutzlos, sobald du die App deinstallierst. Bei einer Neuinstallation wird eine neue ID generiert.
+Andere Daten:
+Zusätzlich zu den oben erwähnten personenbezogenen Daten und IDs verarbeiten wir oder unsere Auftragsverarbeiter auch folgende Daten:
+Daten zum Spielfortschritt, Sitzungsdaten und -dauer, Verwendung von Premiumgegenständen und Werbung, Gerätetyp und -hersteller, Betriebssystemversion, Absturzberichte, Displaygröße und -orientierung, Lautstärke, Akkustärke, Sprach- und Ländereinstellungen, die Art der Internetverbindung, den Mobilfunkanbieter, deine Zeitzone, verfügbarer Platz auf dem Gerät, IP basierte Positionsdaten und Segmentierungs- und Zuordnungsdaten für Werbekampagnen.
+Kundendienst:
+Wenn du unseren Support kontaktierst, werden wir deine Kontaktdaten, wie deine E-Mail-Adresse sowie andere Daten, die du uns sendest, verarbeiten, um dein Anliegen zu bearbeiten.
+Wir speichern diese Informationen bis zu 12 Monate, um eventuelle Nachfolgeanfragen zuordnen zu können. Deine Kontaktdaten werden nicht an Dritte weitergegeben. Nur unsere autorisierten Mitarbeiter haben Zugriff auf deine Kontaktdaten.
+Wir leiten teile der Daten an folgende Dienste weiter:
+AWS:
+Wir verwenden Amazon Web Services für unsere skalierbare Serverinfrastruktur. Amazon garantiert, auf keine personenbezogenen Daten zuzugreifen oder diese zu verarbeiten. Die einzige Ausnahme ist die Verarbeitung von Daten zur Sicherstellung der Datensicherheit bzw. der Angriffsabwehr, sowie die Verarbeitung von Daten aufgrund von Gesetzen. Nur unsere autorisierten Mitarbeiter können auf Spieldaten oder Bestellnummern zugreifen. Die Daten können auch außerhalb der EU gespeichert werden.
+Details anzeigen...
+Firebase:
+Wir verwenden mehrere Dienste von Google Firebase. Diese Dienste verarbeiten Werbe-IDs, Instanz-IDs und App-Nutzungsdaten. Die Daten werden automatisch 14 Monate nach der letzten Sitzung gelöscht. Die Verarbeitung findet zum Teil außerhalb der EU statt.
+Details anzeigen...
+Google Analytics:
+Google Analytics ist ein Analysedienst. Er verwendet Werbe-IDs und Instanz-IDs und verarbeitet Daten über App-Nutzung und Spielverhalten. Die Daten werden automatisch 14 Monate nach der letzten Session gelöscht. Die Verarbeitung findet zum Teil außerhalb der EU statt.
+Details anzeigen...
+Facebook Analytics:
+Facebook Analytics ist ein Analysedienst. Er verwendet Werbe-IDs und Instanz-IDs und verarbeitet Daten über App-Nutzung und Spielverhalten. Die Verarbeitung findet zum Teil außerhalb der EU statt.
+Details anzeigen...
+FacebookSignIn:
+Du kannst dich mit deinem bestehenden Facebook-Account anmelden, um das Spiel mit Facebook zu verknüpfen. Wir nutzen ausschließlich den Authentifizierungsdienst und werden nur auf den Benutzernamen deines Facebook-Profils zugreifen. Der Benutzername wird weder an unseren Server noch an irgendwelche Drittparteien übermittelt. Wir posten keine Inhalte auf deinem Facebook-Profil.
+Unity Ads & Analytics:
+Unity Ads und Unity Analytics verwenden Werbe-IDs und Instanz-IDs und verarbeiten Daten über App-Nutzung und Spielverhalten. Die Verarbeitung findet zum Teil außerhalb der EU statt.
+Details anzeigen...
+Tenjin:
+Tenjin ist ein Attribution Tracking Dienst, der uns dabei hilft herauszufinden woher neue Benutzer kommen. Der Dienst verarbeitet die Werbe-ID, IP Adressen und weitere Daten über App-Nutzung, Spielverhalten und Spezifikationen des Telefons. Die Verarbeitung findet zum Teil außerhalb der EU statt.
+Details anzeigen...
+AppsFlyer:
+AppsFlyer ist ein Attribution Tracking Dienst, der uns dabei hilft herauszufinden woher neue Benutzer kommen. Der Dienst verarbeitet die Werbe-ID, IP Adressen und weitere Daten über App-Nutzung, Spielverhalten und Spezifikationen des Telefons. Die Verarbeitung findet zum Teil außerhalb der EU statt.
+Details anzeigen...
+Iron Source:
+Iron Source ist ein Werbenetzwerk und Vermittlungsdienst. Der Dienst verarbeitet die Werbe-ID und Nutzungsdaten. Die Verarbeitung findet zum Teil außerhalb der EU statt.
+Details anzeigen...
+Google AdMob:
+Google AdMob ist ein Werbenetzwerk. Der Dienst verarbeitet die Werbe-ID und Nutzungsdaten. Die Verarbeitung findet zum Teil außerhalb der EU statt.
+Details anzeigen...
+Werbedienste:
+Google AdMob arbeitet mit diversen Werbetechnologiediensten zusammen. Wir verwenden die Standarddienste (commonly used set), die auf ihrer Webseite aufgeführt sind.
+Details anzeigen...
+Facebook Ads:
+Facebook Audience Network ist ein Werbenetzwerk. Der Dienst verarbeitet die Werbe-ID und Nutzungsdaten. Die Verarbeitung findet zum Teil außerhalb der EU statt.
+Details anzeigen...
+AppLovin:
+AppLovin ist ein Werbenetzwerk. Der Dienst verarbeitet die Werbe Id und Nutzungsdaten. Die Verarbeitung findet zum Teil außerhalb der EU statt.
+Details anzeigen...
+AdColony:
+AdColony ist ein Werbenetzwerk. Der Dienst verarbeitet die Werbe Id und Nutzungsdaten. Die Verarbeitung findet zum Teil außerhalb der EU statt.
+Details anzeigen...
+Tapjoy:
+Tapjoy ist ein Werbenetzwerk. Der Dienst verarbeitet die Werbe Id und Nutzungsdaten. Die Verarbeitung findet zum Teil außerhalb der EU statt.
+Vungle:
+Vungle ist ein Werbenetzwerk. Der Dienst verarbeitet die Werbe Id und Nutzungsdaten. Die Verarbeitung findet zum Teil außerhalb der EU statt.
+Snapchat:
+Snapchat ist ein Werbenetzwerk. Der Dienst verarbeitet die Werbe Id und Nutzungsdaten. Die Verarbeitung findet zum Teil außerhalb der EU statt.
+InMobi:
+InMobi ist ein Werbenetzwerk. Der Dienst verarbeitet die Werbe Id und Nutzungsdaten. Die Verarbeitung findet zum Teil außerhalb der EU statt.
+HyprMX:
+HyprMX ist ein Werbenetzwerk. Der Dienst verarbeitet die Werbe Id und Nutzungsdaten. Die Verarbeitung findet zum Teil außerhalb der EU statt.
+MyTarget:
+MyTarget ist ein Werbenetzwerk. Der Dienst verarbeitet die Werbe Id und Nutzungsdaten. Die Verarbeitung findet zum Teil außerhalb der EU statt.
+Chartboost:
+Chartboost ist ein Werbenetzwerk. Der Dienst verarbeitet die Werbe-ID und Nutzungsdaten. Die Verarbeitung findet zum Teil außerhalb der EU statt.
+Zendesk:
+Wir verwenden Dienste von Zendesk, Inc., um Kundenanfragen per Email oder Soziale Medien zu bearbeiten. Die Verarbeitung findet zum Teil außerhalb der EU statt.
+Details anzeigen...
+Du hast folgende Rechte als betroffene Person:
+Auskunftsrecht:
+Du hast das Recht, alle deine von uns verarbeiteten personenbezogenen Daten einzusehen. Bitte kontaktiere uns, um deine Daten anzufordern.
+Recht auf Löschung:
+Du kannst all deine Spielstände und gespeicherten Account-Daten löschen, indem du den "Account Löschen"-Button im BlingHub-Menü verwendest. Alle Instanz-IDs werden unbenutzbar, sobald du die App deinstallierst. Du kannst eine neue Werbe-ID in den Privatsphäre-Einstellungen deines Telefons anfordern. Bitte kontaktiere uns, falls wir weitere bzw. sämtliche personenbezogenen Daten von dir löschen sollen (z.B. Daten von Supportanfragen).
+Beschwerderecht:
+Du hast das Recht auf eine Beschwerde bei einer Aufsichtsbehörde.
+Details anzeigen...
+Verantwortlicher und Daten Verarbeiter:
+Bling Bling Games GmbH
+Mozartstraße 13
+76133 Karlsruhe
+Germany
+privacy@blingblinggames.com
+Letzte Änderung: 16. Oktober 2021
+Préambule:
+Nous souhaitons rendre cette politique aussi transparente et facile à comprendre que possible. Si vous avez des questions concernant nos politiques ou si vous pensez qu’il manque des informations, n’hésitez pas à nous contacter.
+Général:
+Notre jeu peut être téléchargé gratuitement. Nous sommes uniquement rémunérés par les achats in-app et, en grande partie, par la publicité.
+Nous analysons vos données pour savoir ce que nous devons améliorer dans notre jeu et vérifier que notre travail est rentable.
+Sans publicité, sans analyses de données, il serait impossible de financer ce jeu. Voilà pourquoi votre identifiant de publicité est utilisé. Vous pouvez désactiver l'ID dans les paramètres de confidentialité de votre téléphone, si vous n'êtes pas d'accord avec cela.
+Usage des données:
+Les données sont collectées à des fins d'analyse pour les fonctionnalités du jeu, la personnalisation du produit ainsi que la publicité et le marketing (y compris la publicité de tierces parties).
+Sensibilité des données:
+Nous ne traitons pas et n'avons pas accès aux données sensibles (votre numéro de carte de crédit ou votre adresse, par exemple). L'ensemble des données personnelles que nous utilisons nous permet d'identifier : vos sauvegardes, vous en tant que joueur, vous en tant que destinataire de communication informative adressée aux consommateurs, l'installation du jeu sur votre téléphone ou un achat réalisé dans l'application.
+Vous pouvez choisir d'associer votre adresse e-mail à votre compte. Celle-ci est alors uniquement utilisée dans le cadre de la gestion de votre compte.
+Sécurité des données:
+Nous utilisons une connexion cryptée (https) pour transférer des données personnelles sur nos serveurs ou vers ceux de nos sous-traitants. Certains de ses sous-traitants sont situés dans des pays extérieurs à l'UE, mais ils respectent tous le RGPD. L'accès à nos propres bases de données de jeu est protégé et limité aux employés autorisés.
+Évaluation des risques:
+Nous avons fait une évaluation des risques pour identifier les dommages potentiels d'une violation de données. Le pire scénario serait que quelqu'un ait accès à toutes les données que nous traitons. Cette personne pourrait accéder à vos sauvegardes, voir comment vous jouez ou vous envoyer une notification de jeu. Tout cela est un dommage local qui ne touche que le jeu et votre progression dans le jeu.
+Avec nos seules données, vous ne pouvez pas être identifié en tant que personne, sauf si celles-ci sont combinées avec des données personnelles sensibles provenant de différentes sources.
+Si vous choisissez d'associer votre adresse e-mail à votre compte et qu'une violation de données a lieu, celle-ci devient alors susceptible d'être utilisée par des campagnes de pourriels. Il reste toutefois impossible de déchiffrer votre mot de passe, même avec votre adresse.
+Modifications de la politique:
+Nous nous réservons le droit d'apporter des modifications à cette politique de confidentialité à tout moment dans le futur. Nous vous recommandons de consulter cette page régulièrement, en particulier la date de la dernière modification en bas. Si vous vous opposez aux modifications, vous pouvez cesser d'utiliser l'application et supprimer votre compte et/ou nous demander de supprimer vos données personnelles. Une politique de confidentialité modifiée s'appliquera à toutes les données personnelles que nous avons sur les utilisateurs.
+Nous traitons les données personnelles suivantes :
+Identifiants de sauvegarde:
+Le jeu se connecte automatiquement à notre serveur pour créer une sauvegarde de jeu en ligne (sauvegarde cloud). Nous générons une ID utilisateur et un token d'auth pour cette sauvegarde. Le jeu crée également une ID Bling Hub liée à votre ID utilisateur : c'est le même concept que l'ID utilisateur et elle vous permet de vous authentifier à Google Play Games ou au Game Center, de sorte que vous ne perdrez pas votre progression après une nouvelle installation.
+Nous enregistrons votre progression, ainsi que toutes les transactions premium dans notre base de données.
+Achat In-App:
+Nous enregistrons les numéros de commande des achats réalisés dans l’application pour gérer le suivi avec les acheteurs et pour détecter les fraudes. Nous n’avons pas accès à vos données de paiement ou votre nom, adresse, etc. lorsque vous effectuez un achat.
+Journaux du serveur:
+Nous enregistrons des demandes de serveur dans nos journaux de serveur. Ceux-ci contiennent votre ID utilisateur, qui nous permet de corriger les divers bugs et erreurs qui peuvent survenir.
+Ajouter des mesures:
+Nous utilisons l'identifiant publicitaire (Android) ou IDFA (iOS). Cet ID est utilisé pour vous identifier en tant qu'utilisateur sur plusieurs applications. Il nous aide également à suivre l'évolution de nos campagnes marketing.
+Si cela ne vous convient pas, vous pouvez désactiver cet ID dans les paramètres de confidentialité de votre système d'exploitation.
+Pubs ciblées:
+Si vous acceptez de recevoir des publicités ciblées, nous et nos partenaires pourrons recueillir vos données et utiliser un identifiant publicitaire pour personnaliser les publicités.
+Vous pouvez revenir sur votre décision à tout moment dans le menu des options. Vous devez redémarrer le jeu pour que ses changements s’appliquent.
+Veuillez noter que certains de nos partenaires publicitaires ont leurs propres paramètres de confidentialité et que ceux-ci sont adaptés aux lois sur la confidentialité des données de votre pays.
+Tokens d'auth.:
+Vous êtes invité à vous connecter à Google Play Games ou au Game Center. Si vous ne le faites pas, nous demandons un token d'authentification qui nous permet de vous identifier en tant qu'utilisateur indépendamment de votre progression locale actuelle. Nous pouvons envoyer ce token à Google/Apple pour qu'ils nous confirment que vous êtes le propriétaire de ce compte. De cette façon, nous pouvons restaurer une ancienne sauvegarde après une nouvelle installation ou si vous utilisez un autre appareil.
+Ces tokens d'auth. sont générés pour cette application en particulier et nous ne pouvons pas utiliser ce token pour vous authentifier sur d'autres applications.
+Connexion via e-mail:
+Vous pouvez choisir d'utiliser votre adresse e-mail comme méthode d'authentification. Ceci vous permet de jouer à la même partie sur plusieurs plateformes comme Android ou iOS. L'adresse e-mail est stockée dans un environnement sécurisé et vos mots de passe ne sont évidemment ni stockés ni transférés.
+Adresses IP:
+Nous ne stockons pas et nous n'utilisons pas les adresses IP nous-mêmes, mais certains de nos sous-traitants le font.
+Id Android:
+L'ID Android est utilisé pour la version Android 8.0 et les versions ultérieures. Il s'agit d'un identifiant unique basé sur la combinaison de notre clé de connexion, utilisateur et dispositif. Cela signifie que cet identifiant peut être utilisé par nous et nos processeurs tiers pour vous identifier en tant qu'utilisateur, mais il ne peut pas être relié aux données d'utilisation des applications ou services d'autres développeurs. Si vous utilisez une version Android inférieure à 8.0 sur votre appareil, l'identifiant Android est le même pour tous les développeurs, ce qui signifie qu'une violation de données est plus probable. Dans ce cas, nous vous conseillons de mettre à jour votre système d'exploitation Android.
+Identifiant d'instance:
+L'ID d'instance est utilisée pour identifier l'installation de l'application sur votre téléphone. L'ID devient invalide si vous désinstallez l'application. Si vous réinstallez l'application, vous obtiendrez une nouvelle ID.
+Autre données:
+En plus des données personnelles et des identifiants mentionnés précédemment, nous et nos sous-traitants utilisons également les données suivantes :
+données de progression dans le jeu, début de session et durée de session, l’utilisation des articles premium ou des publicités, le modèle et la marque de votre dispositif, votre système d’exploitation, les journaux d’incidents, la taille de votre écran et son orientation, le volume audio, la batterie, la langue du système ou les paramètres régionaux, votre connexion Internet, l’opérateur mobile, votre fuseau horaire, l’espace libre disponible sur votre appareil, les données de localisation en fonction de votre IP, votre segmentation et vos données d’attribution.
+Assistance:
+Si vous communiquez avec notre centre d’assistance, nous utiliserons vos coordonnées comme votre adresse e-mail, mais aussi d’autres données nécessaires pour traiter votre demande.
+Nous stockons ses données pendant une période maximum de 12 mois afin d’être en mesure de gérer le suivi de vos demandes. Nous ne partagerons pas vos données avec un sous-traitant. Seuls nos employés sont autorisés à accéder à vos données.
+Nous devons rediriger une partie des données vers les services suivants :
+AWS:
+Nous utilisons les services d'Amazon Web pour notre infrastructure Cloud. Amazon garantit ne pas accéder ou traiter les données personnelles. Vos données ne pourront être utilisées que pour des raisons de sécurité ou pour se conformer à la loi. Seuls nos employés autorisés peuvent accéder aux données de jeu ou aux IDs de commande. Ces données peuvent être stockées en dehors de l'UE.
+Afficher les informations...
+Firebase:
+Nous utilisons plusieurs services de Firebase by Google. Ces derniers gèrent les ID de publicité, les ID d'instance et les données d'utilisation de l'application. Ces données sont supprimées automatiquement 14 mois après la dernière session. Le traitement de vos données peut être réalisé en dehors de l'UE.
+Afficher les informations...
+Google Analytics:
+Google Analytics identifie les utilisateurs avec des IDs de publicité et des IDs d’instance. Ils recueillent des données sur votre évolution et votre comportement de jeu. Les données seront supprimées automatiquement 14 mois après la dernière session. Le traitement de vos données pourra être réalisé en dehors de l’UE.
+Afficher les informations...
+Facebook Analytics:
+Facebook Analytics identifie les utilisateurs avec des IDs de publicité et des IDs d’instance. Ils recueillent des données sur votre évolution et votre comportement de jeu. Le traitement de vos données pourra être réalisé en dehors de l’UE.
+Afficher les informations...
+FacebookSignIn:
+Vous pouvez vous connecter à l'aide de votre compte Facebook afin d'associer votre jeu au réseau social. Nous n'utilisons que le service d'authentification et nous accédons uniquement à votre nom d'utilisateur issu de votre compte Facebook. Le nom d'utilisateur n'est pas transmis à notre serveur ni à aucun tiers et nous ne publions aucun contenu sur votre profil Facebook.
+Unity Ads & Analytics:
+Unity Ads et Unity Analytics identifient les utilisateurs avec des ID publicitaires et avec des IDs d'instance. Ils collectent des données sur votre évolution et votre comportement de jeu. Ce traitement de vos données est principalement réalisé dans l'UE, mais il est possible que vos données soient traitées en dehors de l'UE.
+Afficher les informations...
+Tenjin:
+Tenjin est un service de suivi d’attribution, il nous permet de déterminer d’où viennent les nouveaux utilisateurs. Il traite votre identifiant publicitaire, les adresses IP et d’autres données comme votre évolution et votre comportement dans le jeu, mais aussi les caractéristiques de votre téléphone. Le traitement de vos données est principalement réalisé dans l’UE, mais il est possible qu’il soit occasionnellement réalisé en dehors de l’UE.
+Afficher les informations...
+AppsFlyer:
+AppsFlyer est un service de suivi d’attribution, il nous permet de déterminer d’où viennent les nouveaux utilisateurs. Il traite votre identifiant publicitaire, les adresses IP et d’autres données comme votre évolution et votre comportement dans le jeu, mais aussi les caractéristiques de votre téléphone. Le traitement peut se faire en dehors de l'UE.
+Afficher les informations...
+Iron Source:
+Iron Source est un réseau publicitaire et un service de médiation. Il traite votre identifiant publicitaire et vos données d'utilisation. Le traitement de vos données pourra être réalisé en dehors de l’UE.
+Afficher les informations...
+Google AdMob:
+Google AdMob est un réseau publicitaire. Il traite votre identifiant publicitaire et vos données d'utilisation. Le traitement de vos données pourra être réalisé en dehors de l’UE.
+Afficher les informations...
+Fournisseurs de tech publicitaire:
+Google AdMob partage vos données avec les fournisseurs de technologie publicitaire. Nous utilisons les technologies publicitaires figurant sur leur site web.
+Afficher les informations...
+Facebook Ads:
+Facebook réseau public est un réseau publicitaire. Il traite votre identifiant publicitaire et les données d'utilisation. Le traitement peut se faire en dehors de l'UE.
+Afficher les informations...
+AppLovin:
+AppLovin est un réseau publicitaire. Il traite votre identifiant publicitaire et les données d'utilisation. Le traitement peut se faire en dehors de l'UE.
+Afficher les informations...
+AdColony:
+AdColony est un réseau de publicité. Il traite votre identifiant publicitaire et vos données d'utilisation. Le traitement peut se faire en dehors de l'UE.
+Afficher les informations...
+Tapjoy:
+Tapjoy est un réseau de publicité. Il traite votre identifiant publicitaire et vos données d'utilisation. Le traitement peut se faire en dehors de l'UE.
+Vungle:
+Vungle est un réseau de publicité. Il traite votre identifiant publicitaire et vos données d'utilisation. Le traitement peut se faire en dehors de l'UE.
+Snapchat:
+Snapchat est un réseau de publicité. Il traite votre identifiant publicitaire et vos données d'utilisation. Le traitement peut se faire en dehors de l'UE.
+InMobi:
+InMobi est un réseau de publicité. Il traite votre identifiant publicitaire et vos données d'utilisation. Le traitement peut se faire en dehors de l'UE.
+HyprMX:
+HyprMX est un réseau de publicité. Il traite votre identifiant publicitaire et vos données d'utilisation. Le traitement peut se faire en dehors de l'UE.
+MyTarget:
+MyTarget est un réseau de publicité. Il traite votre identifiant publicitaire et vos données d'utilisation. Le traitement peut se faire en dehors de l'UE.
+Chartboost:
+Chartboost est un réseau publicitaire. Il traite votre identifiant publicitaire et vos données d'utilisation. Le traitement peut se faire en dehors de l'UE.
+Zendesk:
+Nous utilisons les services de Zendesk, Inc. pour traiter les demandes de nos clients par e-mail ou via les réseaux sociaux. Ce traitement peut avoir lieu en dehors de l'UE.
+Afficher les informations...
+En tant que personne concernée, vous disposez des droits suivants :
+Accès aux données:
+Vous avez le droit d'accéder aux données personnelles que nous traitons. Veuillez nous contacter pour les obtenir.
+Suppression des données:
+Vous pouvez supprimer l'ensemble de vos sauvegardes, achats et données en utilisant le bouton « Supprimer compte » du menu Bling Hub. Toutes les ID d'instances seront invalidées si vous désinstallez l'application. Vous pouvez demander une nouvelle ID publicitaire/IDFA dans les paramètres de confidentialité de votre système d'exploitation. Veuillez nous contacter si vous souhaitez supprimer d'autres données personnelles (par exemple des données provenant de vos demandes au centre d'assistance).
+Plaintes:
+Vous avez le droit de déposer une plainte auprès d'une autorité de surveillance.
+Afficher les informations...
+Propriétaire et Contrôleur de données :
+Bling Bling Games GmbH
+Mozartstraße 13
+76133 Karlsruhe
+Germany
+privacy@blingblinggames.com
+Dernière mise à jour effectuée le 16 octobre 2021
+Preámbulo:
+Nuestro objetivo es hacer que esta política sea lo más transparente y fácil de entender como sea posible. Si tienes alguna pregunta sobre nuestras políticas o si crees que falta alguna información, no dudes en comunicarte con nosotros.
+General:
+Todo el mundo puede descargar el juego y jugar de forma gratuita. Para ganar dinero, usamos compras y anuncios dentro de la aplicación. Los anuncios son una parte importante de nuestros ingresos.
+Utilizamos análisis para reconocer los aspectos que se deben mejorar y para validar que nuestros esfuerzos de marketing sean rentables.
+Sin anuncios y análisis, no podríamos ofrecer y mantener este juego como un servicio. Por lo tanto, se procesa tu ID de publicidad. Puedes desactivar el ID en los ajustes de privacidad de tu teléfono, si no quieres esto.
+Uso de datos:
+Los datos recolectados se usan para análisis, la funcionalidad del juego, personalización de productos, anuncios y mercadotecnia (que incluye anuncios de terceros).
+Confidencialidad de datos:
+No procesamos ni accedemos a datos confidenciales (por ejemplo, números de tarjetas de crédito o tu dirección). Todos los datos personales que procesamos se utilizan para identificar algo: tu partida guardada, a ti como jugador, a ti como receptor de información para el consumidor, la instalación del juego en tu teléfono o una compra dentro de la aplicación.
+Puedes optar por usar tu dirección de correo electrónico para vincular tu cuenta. La dirección de correo electrónico solo se usa con el propósito de administrar la cuenta.
+Seguridad de datos:
+Utilizamos una conexión cifrada (https) para transferir datos personales a nuestros servidores o para procesadores de terceros. Algunos de los procesadores de terceros se encuentran en países fuera de la UE, pero todos ellos cumplen con el RGPD. El acceso a nuestras bases de datos de juego está protegido y limitado a los empleados autorizados.
+Evaluación de riesgos:
+Hicimos una evaluación de riesgos para identificar el daño potencial de una fuga de datos. El peor de los casos sería que alguien tuviera acceso a todos los datos que procesamos. Esta persona podría manipular tu partida guardada, saber cómo juegas el juego o enviarte una notificación de juego. Todo esto representa un daño local que sólo afecta a este juego y tu progreso en él.
+Solo con nuestros datos, no es posible identificarte como persona a menos que estos se usen en combinación con datos personales confidenciales de diferentes fuentes.
+Si optas por usar tu dirección de correo electrónico para vincular tu cuenta, el peor de los casos en una fuga de datos implicaría que alguien usara esta dirección de correo electrónico para enviarte correo no deseado. Pero no sería posible descifrar la contraseña que utilizaste.
+Cambios en la política:
+Nos reservamos el derecho de realizar cambios en esta política de privacidad en cualquier momento en el futuro. Te recomendamos consultar esta página regularmente, especialmente la fecha de la última modificación en la parte inferior. Si te opones a los cambios, puedes dejar de usar la aplicación y eliminar tu cuenta y/o solicitarnos que eliminemos tus datos personales. La política de privacidad modificada se aplicará a todos los datos personales que tenemos sobre los usuarios.
+Procesamos los siguientes tipos de datos personales:
+Identificadores de juegos:
+El juego se conecta automáticamente a nuestro servidor para crear una partida guardada en línea (partida en la nube). Generamos un ID de usuario y un token de autenticación para autenticar dicha partida guardada y acceder a ella. El juego también crea un ID de BlingHub que contiene un indicador para tu ID de usuario. En general, es el mismo concepto que el del ID de usuario, pero te permite autenticarte con Google Play Games, Game Center y otros servicios para que no pierdas tu progreso después de una reinstalación.
+Almacenamos tu progreso, así como también todas las transacciones prémium en nuestra base de datos.
+Compras en la aplicación:
+Almacenamos el ID de los pedidos de compras dentro de la aplicación para poder brindar asistencia a los compradores y para la detección de fraudes. Por favor, ten en cuenta que no accedemos a tu información de pago ni a tu nombre, dirección, etc., cuando realizas una compra.
+Registros del servidor:
+Registramos las solicitudes al servidor en nuestros registros del servidor. Estos contienen el ID de usuario, lo que nos permite eliminar fallos y corregir errores.
+Medición de anuncios:
+Utilizamos el identificador de publicidad (Android) o IDFA (iOS). El ID se utiliza para identificarte como usuario en varias aplicaciones. También nos ayuda a hacer un seguimiento del éxito de nuestras campañas de marketing.
+Si no te gusta esto, puedes desactivar globalmente el ID en los ajustes de privacidad de tu sistema operativo.
+Anuncios personalizados:
+Si has aceptado la personalización de anuncios, nosotros y nuestros socios recopilaremos datos y utilizaremos el ID de publicidad para la personalización de anuncios.
+Puedes cambiar tu elección en cualquier momento en el menú de opciones. Debes reiniciar el juego para aplicar plenamente el cambio.
+Por favor, ten en cuenta que algunos de nuestros socios publicitarios proporcionan sus propios ajustes de privacidad y/o los ajustan en función de las leyes de privacidad de tu país.
+Tokens de autenticación:
+Usa un método de autenticación como Google Play Games, Game Center o Facebook para vincular tu cuenta. Si lo haces, solicitamos un token de autenticación que nos permite identificarte como usuario independientemente de tu progreso local actual. El token es solo algo que podemos usar para confirmar que eres el propietario de dicha cuenta. De esta manera, puedes restaurar una partida guardada antigua tras una reinstalación o si utilizas un dispositivo diferente.
+Los tokens de autenticación se generan para esta aplicación específica. No podemos utilizar el token de autenticación para otras aplicaciones.
+Inicio de sesión con correo electrónico:
+Puedes optar por usar tu dirección de correo electrónico como método de autenticación. Esto permite jugar la misma partida en múltiples plataformas, como Android y iOS. La dirección de correo electrónico se almacena bajo una capa de seguridad adicional y, por supuesto, no almacenamos ni transferimos tus contraseñas originales.
+Direcciones IP:
+No almacenamos ni procesamos direcciones IP, pero algunos de nuestros procesadores de terceros sí procesan direcciones IP.
+ID de Android:
+El ID de Android es para la versión Android 8.0 y superior, un identificador único basado en la combinación de la clave de acceso a nuestra aplicación, un usuario y un dispositivo. Esto significa que este ID puede ser usado por nosotros y nuestros procesadores de terceros para identificarte como usuario, pero no se puede conectar a los datos de uso de aplicaciones o servicios de otros desarrolladores. Si estás ejecutando una versión de Android inferior a 8.0 en tu dispositivo, el ID de Android es el mismo para todos los desarrolladores, lo que significa que una violación de datos es más probable. Por favor, considera actualizar tu sistema operativo Android.
+Identificador de instancia:
+El ID de instancia se utiliza para identificar la instalación de la aplicación actual en tu teléfono. El ID deja de ser válido si desinstalas la aplicación. Si vuelves a instalar la aplicación, obtienes un nuevo ID.
+Otros datos:
+Adicionalmente a los datos personales y los identificadores mencionados anteriormente, nosotros o nuestros procesadores de terceros también procesan los siguientes datos:
+datos de progreso del juego, inicios y duración de las sesiones, el uso de artículos Premium o anuncios, el modelo y fabricante de hardware, versión del sistema operativo, registros de errores, tamaño y orientación de la pantalla de visualización, volumen de audio, batería, idioma del sistema o ajustes locales, tipo de conexión a Internet, operador de telefonía móvil, zona horaria, espacio libre disponible en tu dispositivo, datos de localización basados en IP y datos de segmentación y atribución.
+Asistencia:
+Si te comunicas con nuestro servicio de asistencia, procesaremos tus datos de contacto, como tu dirección de correo electrónico y otra información proporcionada para gestionar tu solicitud.
+Almacenaremos la información proporcionada por hasta 12 meses para poder hacer el seguimiento de las solicitudes. No enviamos tus datos de contacto a procesadores de terceros. Sólo nuestros empleados autorizados pueden acceder a tus datos de contacto.
+Tenemos que enviar partes de los datos a los siguientes servicios:
+AWS:
+Utilizamos Amazon Web Services para nuestra infraestructura de backend escalable. Amazon garantiza no acceder a, ni procesar ningún dato personal. La única excepción es el procesamiento de datos por motivos de seguridad o para cumplir con la ley. Sólo nuestros empleados autorizados pueden acceder a los datos del juego o ID de pedidos. Los datos pueden ser almacenados fuera de la UE.
+Mostrar detalles...
+Firebase:
+Utilizamos varios servicios de Firebase de Google. Los servicios procesan ID de publicidad, ID de instancia y datos de uso de aplicaciones. Los datos se eliminan automáticamente después de 14 meses de la última sesión. El procesamiento puede ocurrir fuera de la UE.
+Mostrar detalles...
+Google Analytics:
+Google Analytics identifica a los usuarios con ID de publicidad e ID de instancia. Recopila datos acerca de tu progreso y comportamiento de juego. Los datos se eliminan automáticamente después de 14 meses de la última sesión. El procesamiento puede ocurrir fuera de la UE.
+Mostrar detalles...
+Facebook Analytics:
+Facebook Analytics identifica a los usuarios con ID de publicidad e ID de instancia. Recopila datos acerca de tu progreso y comportamiento de juego. El procesamiento puede ocurrir fuera de la UE.
+Mostrar detalles...
+FacebookSignIn:
+Puedes iniciar sesión con tu cuenta de Facebook actual para vincular tu partida con Facebook. Usamos solo el servicio de autenticación y solo accederemos al nombre de usuario de tu perfil de Facebook. El nombre de usuario no se envía a nuestro servidor ni a servicios de terceros. No publicamos nada de contenido en tu perfil de Facebook.
+Unity Ads & Analytics:
+Unity Ads y Unity Analytics identifican a los usuarios con ID de publicidad e ID de instancia. Recopilan datos acerca de tu progreso y comportamiento de juego. El procesamiento ocurre principalmente en la UE, pero puede ocurrir fuera de la UE.
+Mostrar detalles...
+Tenjin:
+Tenjin es un servicio de rastreo de atribución, que nos ayuda a determinar de dónde provienen los nuevos usuarios. Procesa tu ID de publicidad, direcciones IP y otros datos sobre tu progreso, comportamiento de juego y las especificaciones de tu teléfono. El procesamiento ocurre principalmente en la UE, pero puede ocurrir fuera de la UE.
+Mostrar detalles...
+AppsFlyer:
+AppsFlyer es un servicio de rastreo de atribución, que nos ayuda a determinar de dónde provienen los nuevos usuarios. Procesa tu ID de publicidad, direcciones IP y otros datos sobre tu progreso, comportamiento de juego y las especificaciones de tu teléfono. El procesamiento puede ocurrir fuera de la UE.
+Mostrar detalles...
+Iron Source:
+Iron Source es una red de publicidad y servicio de mediación. Procesa tu ID de publicidad y datos de uso. El procesamiento puede ocurrir fuera de la UE.
+Mostrar detalles...
+Google AdMob:
+Google AdMob es una red de publicidad. Procesa tu ID de publicidad y datos de uso. El procesamiento puede ocurrir fuera de la UE.
+Mostrar detalles...
+Proveedores de tecnología:
+Google AdMob comparte datos con proveedores de tecnología publicitaria. Utilizamos el conjunto de proveedores de tecnología publicitaria comúnmente utilizado que aparecen en su página web.
+Mostrar detalles...
+Facebook Ads:
+Facebook Audience Network es una red de publicidad. Procesa tu ID de publicidad y datos de uso. El procesamiento puede ocurrir fuera de la UE.
+Mostrar detalles...
+AppLovin:
+AppLovin es una red de publicidad. Procesa tu ID de publicidad y datos de uso. El procesamiento puede ocurrir fuera de la UE.
+Mostrar detalles...
+AdColony:
+AdColony es una red de publicidad. Procesa tu ID publicitario y datos de uso. El procesamiento puede ocurrir fuera de la UE.
+Mostrar detalles...
+Tapjoy:
+Tapjoy es una red de publicidad. Procesa tu ID publicitario y datos de uso. El procesamiento puede ocurrir fuera de la UE.
+Vungle:
+Vungle es una red de publicidad. Procesa tu ID publicitario y datos de uso. El procesamiento puede ocurrir fuera de la UE.
+Snapchat:
+Snapchat es una red de publicidad. Procesa tu ID publicitario y datos de uso. El procesamiento puede ocurrir fuera de la UE.
+InMobi:
+InMobi es una red de publicidad. Procesa tu ID publicitario y datos de uso. El procesamiento puede ocurrir fuera de la UE.
+HyprMX:
+HyprMX es una red de publicidad. Procesa tu ID publicitario y datos de uso. El procesamiento puede ocurrir fuera de la UE.
+MyTarget:
+MyTarget es una red de publicidad. Procesa tu ID publicitario y datos de uso. El procesamiento puede ocurrir fuera de la UE.
+Chartboost:
+Chartboost es una red de publicidad. Procesa tu ID de publicidad y datos de uso. El procesamiento puede ocurrir fuera de la UE.
+Zendesk:
+Utilizamos los servicios de Zendesk, Inc. para manejar las solicitudes de los clientes por correo electrónico o redes sociales. El procesamiento puede ocurrir fuera de la UE.
+Mostrar detalles...
+Tienes los siguientes derechos como propietario de datos:
+Acceso a los datos:
+Tienes derecho a acceder a los datos personales que procesamos. Por favor, comunícate con nosotros para solicitar tus datos.
+Eliminación de datos:
+Puedes eliminar todas las partidas guardadas y la información almacenada de la cuenta con el botón de eliminación de cuenta del menú de Bling Hub. Todas las ID de instancia se invalidan si desinstalas la aplicación. Puedes solicitar un nuevo ID de publicidad o IDFA en los ajustes de privacidad de tu sistema operativo. Comunícate con nosotros si quieres que eliminemos otros datos personales (por ejemplo, datos de solicitudes de asistencia).
+Quejas:
+Tienes derecho a presentar una reclamación ante una autoridad supervisora.
+Mostrar detalles...
+Propietario y controlador de datos:
+Bling Bling Games GmbH
+Mozartstraße 13
+76133 Karlsruhe
+Germany
+privacy@blingblinggames.com
+Última actualización: 16 de octubre de 2021
+Preambolo:
+Puntiamo a rendere questa politica il più trasparente e facile da capire possibile. Se avete domande riguardanti le nostre politiche o se ritenete che ci siano delle informazioni mancanti, non esitate a contattarci.
+Generale:
+Tutti possono scaricare il gioco e giocare gratuitamente. Per guadagnare soldi, utilizziamo acquisti in-app e pubblicità. Gli annunci sono una parte importante del nostro reddito.
+Utilizziamo l'analisi per riconoscere le cose che devono essere migliorate e per comprovare la redditività dei nostri sforzi di marketing
+Senza pubblicità e analisi, non potremmo correre e sostenere questo gioco come un servizio. Pertanto, il tuo ID pubblicità viene elaborato. Puoi disabilitare l'ID nelle impostazioni di privacy del tuo telefono, se non lo desideri.
+Utilizzo dei dati:
+I dati raccolti vengono utilizzati per analisi, funzionalità del gioco, personalizzazione del prodotto e per pubblicità e marketing (inclusi gli annunci pubblicitari di terze parti).
+Sensibilità dei dati:
+Non elaboriamo né abbiamo accesso a dati sensibili (es. numeri di carta di credito o indirizzo di casa). Tutti i dati personali che elaboriamo vengono utilizzati per identificare qualcosa: i salvataggi, l'utente come giocatore, l'utente in quanto destinatario di informazioni per consumatori, l'installazione del gioco sul telefono o gli acquisti in-app.
+Puoi scegliere di utilizzare il tuo indirizzo e-mail per associare l'account. L'indirizzo e-mail viene utilizzato solo a scopo di gestione dell'account.
+Sicurezza dei dati:
+Utilizziamo una connessione crittografata (https) per trasferire i dati personali ai nostri server o ai processori di terze parti. Alcuni processori di terze parti si trovano in paesi al di fuori dell'UE, ma tutti sono conformi al GDPR. L'accesso ai nostri database di gioco è protetto e limitato ai dipendenti autorizzati.
+Valutazione del rischio:
+Abbiamo eseguito una valutazione dei rischi per identificare i danni potenziali di una violazione dei dati. Lo scenario peggiore sarebbe quello in cui un individuo potrebbe avere accesso a tutti i dati elaborati da noi. Questa persona potrebbe manipolare i salvataggi, vedere come giochi o inviarti notifiche di gioco. Tutto questo rappresenta un danno locale che interessa solo questo gioco e i tuoi progressi.
+I nostri dati, da soli, non sono sufficienti per identificare il giocatore come persona, se non in combinazione con dati personali sensibili provenienti da fonti diverse.
+Se si sceglie di utilizzare il proprio indirizzo e-mail per associare il proprio account, lo scenario peggiore di una violazione dei dati significherebbe che qualcuno potrebbe utilizzare questo indirizzo e-mail per inviare spam. Ma non sarebbe possibile individuare la password utilizzata.
+Cambiamenti di politica:
+Ci riserviamo il diritto di apportare modifiche alla presente informativa sulla privacy in qualsiasi momento in futuro. Si consiglia di controllare questa pagina regolarmente, in particolare la data dell'ultima modifica in fondo. Se ci si oppone alle modifiche, è possibile interrompere l'utilizzo dell'applicazione e cancellare il proprio account e / o chiedere di rimuovere i propri dati personali. Una politica sulla privacy modificata si applicherà a tutti i dati personali che abbiamo sugli utenti.
+Stiamo elaborando il seguente tipo di dati personali:
+Identificatori del gioco:
+Il gioco si collega automaticamente al nostro server per creare un salvataggio online (salvataggio su cloud). Generiamo UserId (ID utente) e AuthToken (token di autorizzazione) per l'accesso e l'autenticazione per questo salvataggio. Il gioco crea anche un BlingHubId, che contiene un puntatore al tuo UserId. In generale, è lo stesso concetto di UserId, ma ti consente di autenticarti con Google Play Giochi, Game Center e altri servizi, in modo da non perdere i progressi dopo una reinstallazione.
+Memorizziamo i tuoi progressi e tutte le transazioni premium nel nostro database.
+Acquisti in-app:
+Archiviamo gli ID ordine degli acquisti in-app per poter supportare i pagamenti e il rilevamento delle frodi. Si prega di riconoscere che noi non abbiamo accesso ai dati di pagamento o il tuo nome, indirizzo, ecc quando effettui un acquisto.
+Log del server:
+Registriamo le richieste del server nei nostri registri di server. I registri di server contengono lo UserId, che ci consente di eseguire il debug e correggere gli errori.
+Misura degli annunci:
+Utilizziamo l'identificatore pubblicitario (Android) o IDFA (iOS). L'ID viene utilizzato per identificarti come utente su più app. Ci aiuta anche a monitorare il successo delle nostre campagne di marketing
+Se non ti piace, puoi disabilitare globalmente l'ID nelle impostazioni per la privacy del tuo sistema operativo.
+Annunci personalizzati:
+Se hai accettato di creare annunci personalizzati, noi e i nostri partner raccogliamo dati e utilizziamo l'ID pubblicità per la personalizzazione degli annunci.
+Puoi cambiare la tua scelta in qualsiasi momento nel menu delle opzioni. Devi riavviare il gioco per applicare completamente la modifica.
+Ti preghiamo di notare che alcuni dei nostri partner pubblicitari forniscono le proprie impostazioni sulla privacy e/o le regolano in base alle leggi sulla privacy del proprio paese.
+Token di autenticità:
+Usa un metodo di autenticazione come Google Play Giochi, Game Center o Facebook per associare il tuo account. In tal caso, richiediamo un token di autenticazione che ci consente di identificarti come utente a prescindere dai tuoi progressi locali attuali. Il token possiamo usarlo solo per confermare che sei il proprietario di quell'account. In questo modo siamo in grado di ripristinare un vecchio salvataggio dopo una reinstallazione o se utilizzi un dispositivo diverso.
+I token di autenticazione vengono generati per questa app specifica. Non possiamo usare il token di autenticazione per altre app.
+Accesso tramite e-mail:
+Puoi scegliere di utilizzare il tuo indirizzo e-mail come metodo di autenticazione, per poter giocare allo stesso gioco su più piattaforme come Android e iOS. L'indirizzo e-mail viene memorizzato a un ulteriore livello di sicurezza e ovviamente non memorizziamo né trasferiamo le tue password originali.
+Indirizzi IP:
+Non memorizziamo o elaboriamo noi stessi gli indirizzi IP, ma alcuni dei nostri processori di terze parti elaborano gli indirizzi IP.
+ID Android:
+L'ID Android è per la versione Android 8.0 e superiore un ID univoco basato sulla combinazione della nostra chiave di firma app, un utente e un dispositivo. Ciò significa che questo ID può essere utilizzato da noi e dai nostri processori di terze parti per identificarti come utente, ma non può essere collegato ai dati di utilizzo di app o servizi di altri sviluppatori. Se stai utilizzando una versione Android inferiore a 8.0 sul tuo dispositivo, l'ID Android è lo stesso per tutti gli sviluppatori, il che significa che una violazione dei dati è più rilevante qui. Ti consigliamo di aggiornare il tuo sistema operativo Android.
+Identificatore di istanza:
+L'ID istanza viene utilizzato per identificare l'installazione corrente dell'app sul telefono. L'ID non è più valido se si disinstalla l'app. Se installi di nuovo l'app, ottieni un nuovo ID.
+Altri dati:
+Oltre ai dati personali e agli identificatori sopra menzionati, noi o i nostri processori di terze parti elaboriamo anche i seguenti dati:
+Dati di progressione del gioco, inizio e durata della sessione, utilizzo di oggetti o pubblicità premium, modello hardware e produttore, versione del sistema operativo, registri degli arresti anomali, dimensioni e orientamento dello schermo, volume audio, batteria, lingua di sistema o impostazioni locali, il tipo di connessione internet, il gestore di telefonia mobile, il fuso orario, lo spazio disponibile sul dispositivo, i dati sulla posizione basati su IP e i dati di segmentazione e attribuzione.
+Supporto:
+Se contatti il nostro supporto, elaboreremo i tuoi dati di contatto come il tuo indirizzo email e altre informazioni fornite per gestire la tua richiesta.
+Conserveremo le informazioni fornite per un massimo di 12 mesi per essere in grado di gestire le richieste di follow-up. Non inoltriamo i tuoi dati di contatto a processori di terze parti. Solo i nostri dipendenti autorizzati possono accedere ai tuoi dati di contatto.
+Dobbiamo inoltrare parti dei dati ai seguenti servizi:
+AWS:
+Utilizziamo Amazon Web Services per la nostra infrastruttura di back-end scalabile. Amazon garantisce di non accedere o elaborare alcun dato personale. L'unica eccezione è l'elaborazione per motivi di sicurezza dei dati o per rispettare la legge. Solo i nostri dipendenti autorizzati possono accedere ai dati di gioco o agli ID degli ordini. I dati possono essere memorizzati al di fuori dell'UE.
+Mostra dettagli...
+Firebase:
+Utilizziamo diversi servizi di Firebase di Google. I servizi elaborano Id di pubblicità, ID di istanza e dati di utilizzo dell'app. I dati vengono cancellati automaticamente 14 mesi dopo l'ultima sessione. Il trattamento può avvenire al di fuori dell'UE.
+Mostra dettagli...
+Google Analytics:
+Google Analytics identifica gli utenti con ID pubblicità e ID istanza. Raccoglie dati sui tuoi progressi e sul comportamento di gioco. I dati vengono cancellati automaticamente 14 mesi dopo l'ultima sessione. Il trattamento può avvenire al di fuori dell'UE.
+Mostra dettagli...
+Facebook Analytics:
+Facebook Analytics identifica gli utenti con ID pubblicità e ID istanza. Raccoglie dati sui tuoi progressi e sul comportamento di gioco. Il trattamento può avvenire al di fuori dell'UE.
+Mostra dettagli...
+FacebookSignIn:
+Puoi eseguire l'accesso con il tuo account Facebook esistente e associarvi il tuo gioco. Utilizziamo solo il servizio di autenticazione e accederemo solo al tuo nome utente dal tuo profilo di Facebook. Il nome utente non viene inviato al nostro server né ad alcun servizio di terze parti. Non pubblichiamo nessun contenuto sul tuo profilo di Facebook.
+Unity Ads & Analytics:
+Unity Ads e Unity Analytics identificano gli utenti con ID pubblicità e ID istanza. Raccolgono dati sui tuoi progressi e sul comportamento di gioco. Il trattamento avviene principalmente nell'UE, ma può avvenire al di fuori dell'UE.
+Mostra dettagli...
+Tenjin:
+Tenjin è un servizio di tracciamento delle attribuzioni, che ci aiuta a determinare da dove provengono i nuovi utenti. Elabora il tuo ID pubblicitario, gli indirizzi IP e altri dati relativi ai tuoi progressi, al tuo comportamento e alle specifiche del tuo telefono. Il trattamento avviene principalmente nell'UE, ma può avvenire al di fuori dell'UE.
+Mostra dettagli...
+AppsFlyer:
+AppsFlyer è un servizio di tracciamento delle attribuzioni, che ci aiuta a determinare da dove provengono i nuovi utenti. Elabora il tuo ID pubblicitario, gli indirizzi IP e altri dati relativi ai tuoi progressi, al tuo comportamento e alle specifiche del tuo telefono. Il trattamento può avvenire al di fuori dell'UE.
+Mostra dettagli...
+Iron Source:
+Iron Source è una rete pubblicitaria e un servizio di mediazione. Elabora il tuo ID pubblicità e i dati di utilizzo. Il trattamento può avvenire al di fuori dell'UE.
+Mostra dettagli...
+Google AdMob:
+Google AdMob è una rete pubblicitaria. Elabora il tuo ID pubblicità e i dati di utilizzo. Il trattamento può avvenire al di fuori dell'UE.
+Mostra dettagli...
+Fornitori di tecnologia:
+Google AdMob condivide i dati con i fornitori di tecnologie pubblicitarie. Stiamo utilizzando il set di fornitori di tecnologia pubblicitaria comunemente utilizzato sul loro sito web.
+Mostra dettagli...
+Facebook Ads:
+Facebook Audience Network è una rete pubblicitaria. Elabora il tuo ID pubblicità e i dati di utilizzo. Il trattamento può avvenire al di fuori dell'UE.
+Mostra dettagli...
+AppLovin:
+AppLovin è una rete pubblicitaria. Elabora il tuo ID pubblicità e i dati di utilizzo. Il trattamento può avvenire al di fuori dell'UE.
+Mostra dettagli...
+AdColony:
+AdColony è una rete pubblicitaria. Elabora il tuo ID pubblicità e i dati di utilizzo. Il trattamento può avvenire al di fuori dell'UE.
+Mostra dettagli...
+Tapjoy:
+Tapjoy è una rete pubblicitaria. Elabora il tuo ID pubblicità e i dati di utilizzo. Il trattamento può avvenire al di fuori dell'UE.
+Vungle:
+Vungle è una rete pubblicitaria. Elabora il tuo ID pubblicità e i dati di utilizzo. Il trattamento può avvenire al di fuori dell'UE.
+Snapchat:
+Snapchat è una rete pubblicitaria. Elabora il tuo ID pubblicità e i dati di utilizzo. Il trattamento può avvenire al di fuori dell'UE.
+InMobi:
+InMobi è una rete pubblicitaria. Elabora il tuo ID pubblicità e i dati di utilizzo. Il trattamento può avvenire al di fuori dell'UE.
+HyprMX:
+HyprMX è una rete pubblicitaria. Elabora il tuo ID pubblicità e i dati di utilizzo. Il trattamento può avvenire al di fuori dell'UE.
+MyTarget:
+MyTarget è una rete pubblicitaria. Elabora il tuo ID pubblicità e i dati di utilizzo. Il trattamento può avvenire al di fuori dell'UE.
+Chartboost:
+Chartboost è una rete pubblicitaria. Elabora il tuo ID pubblicità e i dati di utilizzo. Il trattamento può avvenire al di fuori dell'UE.
+Zendesk:
+Utilizziamo i servizi di Zendesk, Inc. per gestire le richieste dei clienti tramite email o social media. L'elaborazione può avvenire al di fuori dell'UE.
+Mostra dettagli...
+Hai i seguenti diritti come soggetto dei dati:
+Accesso ai dati:
+Hai il diritto di accedere ai dati personali trattati da noi. Ti preghiamo di contattarci per richiedere i tuoi dati.
+Cancellazione dei dati:
+Puoi eliminare tutti i salvataggi e i dati dell'account memorizzati utilizzando il pulsante Elimina account nel menu BlingHub. Tutti gli ID delle istanze vengono resi non validi quando si disinstalla l'app. Puoi richiedere un nuovo ID annunci/IDFA dalle impostazioni sulla privacy del tuo sistema operativo. Contattaci se desideri cancellare altri dati personali (es. i dati sulle richieste di supporto).
+Reclami:
+Avete il diritto di sporgere denuncia presso un'autorità di vigilanza.
+Mostra dettagli...
+Proprietario e controllore dei dati:
+Bling Bling Games GmbH
+Mozartstraße 13
+76133 Karlsruhe
+Germany
+privacy@blingblinggames.com
+Ultimo aggiornamento: 16 ottobre 2021
+Preâmbulo:
+Estamos tentando ao máximo tornar essa Política de Privacidade transparente e fácil de entender. Se tiver dúvidas sobre nossa Política, ou se achar que faltam informações, fique à vontade para entrar em contato conosco.
+Geral:
+Todos podem baixar e jogar esse game gratuitamente. Para ganhar dinheiro, utilizamos compras no app e anúncios. Os anúncios são uma parte importante da nossa receita.
+Utilizamos analytics para identificar pontos de melhoria e validar que nossos próprios esforços de marketing são lucrativos.
+Sem anúncios e analytics, não seria possível a longo prazo oferecer esse jogo como um serviço. Por isso, sua ID de publicidade é processada. Você pode desabilitá-la nas configurações de privacidade do seu celular, se desejar.
+Uso de dados:
+Os dados coletados são usados para fins analíticos, funcionalidade do jogo, personalização de produtos, anúncios e marketing (incluindo anúncios de terceiros).
+Confidencialidade de dados:
+Não processamos ou obtemos acesso a dados confidenciais, como números de cartões de crédito ou o seu endereço. Todos os dados pessoais que processamos são utilizados para identificar o seu jogo salvo, você como jogador, você como receptor de informações de consumo, a instalação do jogo no seu celular ou as compras no app.
+Você pode optar por usar o seu endereço de e-mail e vincular a sua conta a ele. O endereço de e-mail só é usado com o objetivo de gerenciar a sua conta.
+Segurança de dados:
+Utilizamos uma conexão criptografada (https) para transferir dados pessoais para os nossos servidores ou processadores de terceiros. Alguns desses processadores estão localizados em países fora da UE, mas todos eles estão em conformidade com a GDPR. O acesso aos nossos próprios bancos de dado do jogo é protegido e restrito a funcionários autorizados.
+Avaliação de risco:
+Fizemos uma avaliação de risco para identificar o dano potencial de uma violação de dados. O pior cenário seria se alguém tivesse acesso a todos os dados processados por nós. Essa pessoa poderia manipular o seu jogo salvo, ver como você joga ou enviar a você notificações do jogo. Tudo isso seria um dano local que só afetaria esse jogo e o seu progresso nesse jogo.
+Apenas com os nossos dados, não é possível identificar você como uma pessoa, somente combinando dados pessoais confidenciais de diferentes fontes.
+Se você optar por usar o seu endereço de e-mail para vincular a sua conta a ele, em caso de violação de dados, o pior cenário seria alguém usar o seu endereço de e-mail para enviar spam. Não é possível descobrir a senha que você usou.
+Alterações na Política:
+Reservamos o direito de fazer alterações nesta política de privacidade a qualquer momento futuro. Recomendamos que você verifique essa página regularmente, especialmente a data da última modificação na parte inferior. Se você se opuser às alterações, você pode parar de usar o aplicativo e excluir sua conta ou nos pedir para remover os seus dados pessoais. Uma política de privacidade alterada será aplicada a todos os dados pessoais dos usuários.
+Estamos processando os seguintes tipos de dados pessoais:
+Identificadores de jogos:
+O jogo se conecta automaticamente ao nosso servidor para criar um jogo salvo (armazenamento em nuvem). Geramos um ID de usuário e um token de autenticação para acessar e autenticar esse jogo salvo. O jogo também cria um ID BlingHub, que contém um direcionador para o seu ID de usuário. Em geral, esse é o mesmo conceito do ID de usuário, mas que também permite que você autentique a sua conexão com o Google Play Games e outros serviços, para que você não perca o seu progresso após reinstalar o app.
+Armazenamos o seu progresso e todas as transações premium em nosso banco de dados.
+Compras no app:
+Armazenamos a ordem dos IDs de compras no app para podermos dar suporte a clientes pagantes e detectar fraudes. Observe que não temos acesso às suas informações de pagamento ou seu nome, endereço e outros dados pessoais quando você faz uma compra.
+Registros do servidor:
+Armazenamos as solicitações de servidor em nossos registros de servidor. Os registros de servidor contêm o ID do usuário, o que nos permite analisar e corrigir os erros.
+Mensuração de anúncios:
+Utilizamos o Identificador de Publicidade (Android) ou IDFA (iOS). O ID é utilizado para identificar você como usuário em diferentes apps. Ele também nos permite monitorar o sucesso de nossas próprias campanhas de marketing.
+Se você não quer isso, você pode desabilitar a ID nas configurações de privacidade do seu sistema operacional.
+Anúncios personalizados:
+Se você concordou em utilizar os anúncios personalizados, nós e nossos parceiros coletaremos dados e utilizaremos a ID de publicidade para personalizá-los.
+Você pode alterar essa opção a qualquer momento no menu de opções. Será necessário reinicializar o jogo para aplicar as alterações.
+Observe que alguns dos anunciantes parceiros fornecem suas próprias configurações de privacidade e/ou as ajustam com base nas leis de privacidade do seu país.
+Tokens de autenticação:
+Use um método de autenticação como Google Play Games, Game Center ou Facebook para vincular a sua conta. Se fizer isso, solicitamos um token de autenticação que nos permite identificá-lo como um usuário, independentemente do seu progresso local atual. O token serve apenas para confirmar que você é o dono da conta. Dessa forma, podemos restaurar um jogo salvo antigo após uma reinstalação ou caso você esteja usando um dispositivo diferente.
+Os tokens de autenticação são gerados especificamente para este app. Não podemos usar o token para fazer autenticações em outros apps.
+Entrar com e-mail:
+Você pode optar por usar o seu endereço de e-mail como método de autenticação. Isso lhe permite jogar o mesmo jogo em diversas plataformas, como Android e iOS. O endereço de e-mail é armazenado dentro de uma camada adicional de segurança. Obviamente, não armazenamos ou transferimos as suas senhas originais.
+Endereços IP:
+Não armazenamos ou processamos endereços IP, mas alguns de nossos processadores terceiros fazem isso.
+ID Android:
+A ID Android é para versões 8.0 ou superior. É um identificador único baseado na combinação de nossa chave de login de app, o usuário e o dispositivo. Isso significa que essa ID pode ser utilizada por nós e processadores terceiros para identificar você como usuário, mas não pode ser conectada a dados de uso de apps ou serviços de outros desenvolvedores. Se você está utilizando uma versão Android mais antiga que a 8.0 em seu dispositivo, a ID é a mesma para todos os desenvolvedores, o que significa que violações de dados são ainda mais relevantes. Considere atualizar seu SO Android.
+Identificador de Instância:
+A ID de instância é utilizada para identificar a instalação atual do app em seu celular. A ID se torna inválida se você desinstalar o app. Se você reinstalá-lo, receberá uma nova ID.
+Outros dados:
+Além dos dados pessoais e identificadores mencionados acima, nós ou nossos processadores de terceiros também processam os seguintes dados:
+Dados de progressão de jogo, início e duração de sessões, uso de itens Premium ou anúncios, modelo e fabricante do celular, versão do sistema operacional, registros de travamentos, orientação e tamanho da tela, volume de áudio, bateria, idioma do sistema, configurações de localização, tipo de conexão de internet, operadora de dados móveis, seu fuso horário, espaço livre disponível em seu dispositivo, dados de localização com base em IP e dados de atribuição e segmentação.
+Suporte:
+Se você entrar em contato com o nosso suporte, processaremos seus dados de contato como o seu endereço de e-mail e outras informações fornecidas para atender à sua solicitação.
+Armazenaremos essas informações por até 12 meses para podermos atender às solicitações seguintes. Não encaminhamos seus dados de contato para processadores de terceiros. Somente nossos funcionários autorizados têm acesso a esses dados.
+É necessário encaminhar parte dos dados para os serviços a seguir:
+AWS:
+Utilizamos a Amazon Web Services para a escalabilidade da nossa infraestrutura de backend. A Amazon garante não acessar ou processar nenhum dado pessoal. A única exceção é o processamento por razões de segurança de dados ou para obedecer à lei. Somente nossos funcionários autorizados podem acessar os dados de jogo ou IDs de pedidos. Os dados podem ser armazenados fora da UE.
+Exibir detalhes...
+Firebase:
+Utilizamos diversos serviços do Firebase da Google. Esses serviços processam IDs de publicidade, IDs de instância e dados de uso do app. Os dados são excluídos automaticamente 14 meses após a última sessão. O processamento pode ocorrer fora da UE.
+Exibir detalhes...
+Google Analytics:
+O Google Analytics identifica os usuários com IDs de publicidade e de instância. Ele coleta dados sobre o seu progresso e comportamento no jogo. Os dados são Excluídos automaticamente 14 meses após a última sessão. O processamento pode ocorrer fora da UE.
+Exibir detalhes...
+Facebook Analytics:
+O Facebook Analytics identifica os usuários com IDs de publicidade e de instância. Ele coleta dados sobre o seu progresso e comportamento no jogo. O processamento pode ocorrer fora da UE.
+Exibir detalhes...
+FacebookSignIn:
+Você pode entrar com a sua conta existente do Facebook para vincular o seu jogo ao Facebook. Usamos apenas o serviço de autenticação e só acessaremos o seu nome de usuário a partir do seu perfil do Facebook. O nome de usuário não é enviado ao nosso servidor ou a nenhum outro serviço terceirizado. Não postamos nenhum conteúdo no seu perfil do Facebook.
+Unity Ads & Analytics:
+O Unity Ads e o Unity Analytics identificam os usuários com IDs de publicidade e instância. Ele coleta dados sobre o seu progresso e comportamento no jogo. O processamento ocorre em sua maior parte na UE, mas pode ocorrer fora da UE.
+Exibir detalhes...
+Tenjin:
+O Tenjin é um serviço de rastreamento de atribuição, que nos a ajuda a determinar de onde os novos usuários estão vindo. Ele processa sua ID de publicidade, Endereço IP e outros dados sobre seu progresso, comportamento de jogo e as especificações do seu celular. O processamento ocorre em sua maior parte na UE, mas pode ocorrer fora da UE.
+Exibir detalhes...
+AppsFlyer:
+O AppsFlyer é um serviço de rastreamento de atribuição, que nos a ajuda a determinar de onde os novos usuários estão vindo. Ele processa sua ID de publicidade, Endereço IP e outros dados sobre seu progresso, comportamento de jogo e as especificações do seu celular. O processamento pode acontecer fora da UE.
+Exibir detalhes...
+Iron Source:
+A Iron Source é um serviço de mediação e redes de anúncios. Ele processa sua ID de publicidade e dados de uso. O processamento pode ocorrer fora da UE.
+Exibir detalhes...
+Google AdMob:
+O Google AdMob é um serviço de redes de anúncios. Ele processa sua ID de publicidade e dados de uso. O processamento pode ocorrer fora da UE.
+Exibir detalhes...
+Fornecedores de tecnologia:
+O Google AdMob compartilha dados com fornecedores de tecnologias de anúncios. Utilizamos os fornecedores mais comuns, listados em seu website.
+Exibir detalhes...
+Facebook Ads:
+O Facebook Audience Network é um serviço de redes de anúncios. Ele processa sua ID de publicidade e dados de uso. O processamento pode ocorrer fora da UE.
+Exibir detalhes...
+AppLovin:
+O AppLovin é um serviço de redes de anúncios. Ele processa sua ID de publicidade e dados de uso. O processamento pode ocorrer fora da UE.
+Exibir detalhes...
+AdColony:
+O AdColony é uma rede de publicidade. Ele processa os seus dados de identificação e usa para a publicidade. O processamento pode acontecer fora da UE.
+Exibir detalhes...
+Tapjoy:
+O Tapjoy é uma rede de publicidade. Ele processa os seus dados de identificação e usa para a publicidade. O processamento pode acontecer fora da UE.
+Vungle:
+O Vungle é uma rede de publicidade. Ele processa os seus dados de identificação e usa para a publicidade. O processamento pode acontecer fora da UE.
+Snapchat:
+O Snapchat é uma rede de publicidade. Ele processa os seus dados de identificação e usa para a publicidade. O processamento pode acontecer fora da UE.
+InMobi:
+O InMobi é uma rede de publicidade. Ele processa os seus dados de identificação e usa para a publicidade. O processamento pode acontecer fora da UE.
+HyprMX:
+O HyprMX é uma rede de publicidade. Ele processa os seus dados de identificação e usa para a publicidade. O processamento pode acontecer fora da UE.
+MyTarget:
+O MyTarget é uma rede de publicidade. Ele processa os seus dados de identificação e usa para a publicidade. O processamento pode acontecer fora da UE.
+Chartboost:
+O Chartboost é um serviço de redes de anúncios. Ele processa sua ID de publicidade e dados de uso. O processamento pode ocorrer fora da UE.
+Zendesk:
+Utilizamos os serviços da Zendesk, Inc. para lidar com solicitações de clientes via e-mail ou mídia social. O processamento pode acontecer fora da União Européia.
+Exibir detalhes...
+Como titular dos dados, você possui os seguintes direitos:
+Acesso aos dados:
+Temos o direito de acessar os dados pessoais processados por nós. Entre em contato conosco para solicitar seus dados.
+Remoção de dados:
+Você pode deletar todos os jogos salvos e dados de conta armazenados usando o botão “Deletar Conta”, no menu do Bling Hub. Todos os IDs de instância são invalidados caso você desinstale o app. Você pode solicitar um novo ID de Anúncios / IDFA nas configurações de privacidade do seu sistema operacional. Entre em contato conosco se você quiser que apaguemos outros dados pessoais (como dados de solicitação de suporte, por exemplo).
+Reclamações:
+Você tem o direito de oficializar uma reclamação junto a uma autoridade de supervisão.
+Exibir detalhes...
+Propriedade e controle de dados:
+Bling Bling Games GmbH
+Mozartstraße 13
+76133 Karlsruhe
+Germany
+privacy@blingblinggames.com
+Última atualização: 16 de outubro de 2021
+Преамбула:
+Мы стремимся сделать политику как можно более прозрачной и простой для понимания. Если у вас возникают вопросы, касающиеся наших политик, или вы считаете, что в них не хватает какой-либо информации, пожалуйста, свяжитесь с нами.
+Общее:
+Любой человек может скачать игру и играть в нее бесплатно. Для того чтобы зарабатывать, мы используем покупки в приложении и рекламные объявления. Реклама является очень важной частью нашего дохода.
+Мы используем аналитику, чтобы выявить возможности для потенциальных улучшений и для того, чтобы убедиться, что наши маркетинговые мероприятия приносят прибыль.
+Без рекламы и аналитики мы не могли бы поддерживать эту игру. Для этого мы обрабатываем ваш рекламный индентификатор. Если вы не хотите этого, вы можете отключить идентификатор в настройках конфиденциальности вашего телефона.
+Использование данных:
+Данные собираются для аналитики, работы игры, персонализации продуктов, рекламы и маркетинга (в том числе рекламы сторонних поставщиков).
+Конфиденциальность данных:
+Мы не обрабатываем и не получаем доступ к конфиденциальным данным (например, номерам кредитных карт или вашим адресам). Все обрабатываемые личные данные используются для идентификации: сохранений игры, вас в качестве игрока, вас в качестве получателя персонализированной информации, установки игры на вашем телефоне или покупок в приложении.
+Вы можете использовать адрес электронной почты для привязки учетной записи. Адрес электронной почты используется только для управления учетной записью.
+Безопасность данных:
+Для передачи личных данных на наши или сторонние серверы мы используем зашифрованное соединение (https). Некоторые сторонние серверы обработки личной информации расположены за пределами стран Европейского Союза, но все они соответствуют правилам GDPR. Доступ к нашим собственным базам данных игры защищен и разрешен только авторизованным сотрудникам.
+Оценка риска:
+Мы провели оценку угроз для идентификации потенциального ущерба от утечки данных. Самый худший сценарий: получение кем-либо доступа ко всем обработанным нами данным. Это лицо могло бы управлять сохраненными играми, наблюдать за тем, как вы играете, или отправлять вам уведомления в игре. Все это относится к локальному ущербу и влияет только на эту игру и на то, как вы проходите ее.
+Используя эти данные, невозможно идентифицировать вас. Такое возможно только при совместном использовании конфиденциальных данных из разных источников.
+Если решите использовать адрес электронной почты для привязки учетной записи, то в худшем случае утечки данных злоумышленники смогут отправлять спам на ваш адрес электронной почты, однако они не смогут получить используемый вами пароль.
+Изменения:
+Мы оставляем за собой право вносить изменения в эту политику конфиденциальности в любое время. Мы рекомендуем регулярно посещать эту страницу и перечитывать условия, обращая внимание на дату последнего изменения ниже. Если вы не согласны с изменениями, то можете прекратить пользоваться приложением и удалить свою учетную запись и/или попросить нас удалить ваши личные данные. Измененная политика конфиденциальности будет применяться ко всем имеющимся у нас личным данным пользователей.
+Мы обрабатываем следующие типы личных данных:
+Идентификаторы игр:
+Игра автоматически подключается к нашим серверам и сохраняет прогресс в облаке. Для доступа к информации о прохождении игры мы генерируем идентификатор пользователя и токен авторизации. Игра также создает идентификатор BlingHubId, содержащий указание на ваш идентификатор пользователя. В общем и целом, это тот же принцип, что и у идентификатора пользователя, но он позволяет выполнять аутентификацию через Google Play Games, Game Center и другие службы, благодаря чему вы не теряете прогресс игры после переустановки.
+Мы храним прохождение и все премиум-транзакции в нашей базе данных.
+Покупки в приложении:
+Мы храним идентификаторы заказов покупок в приложении для оказания поддержки игрокам и для обнаружения мошенничества. Мы подчеркиваем, что у нас нет доступа к платежной информации или вашему имени и фамилии, адресам и т.д., которые вы указываете при совершении покупки.
+Журналы сервера:
+Мы записываем запросы сервера в журналы сервера. В этих журналах содержатся идентификаторы пользователя, необходимые для отладки игры и исправления ошибок.
+Метрики рекламы:
+Мы используем рекламный идентификатор (Android) или IDFA (iOS). Идентификатор используется для идентификации вас в качестве пользователя в нескольких приложениях. Он также позволяет отслеживать успешность наших маркетинговых кампаний.
+Если вы не согласны с этим, вы можете полностью отключить идентификатор в настройках конфиденциальности вашей операционной системы.
+Индивидуальная реклама:
+Если вы дали согласие на получение индивидуальной рекламы, нами и нашими партнерами будет выполняться сбор данных и использование рекламного идентификатора для персонализации рекламы.
+Вы можете в любой момент поменять настройки в меню опций. Чтобы полностью применить изменения, нужно перезапустить игру.
+Обращаем ваше внимание, что некоторые из наших рекламных партнеров используют собственные настройки конфиденциальности и/или корректируют их в зависимости от законов о защите конфиденциальности вашей страны.
+Токены авторизации:
+Используйте подходящий способ аутентификации (Google Play Games, Game Center или Facebook), чтобы привязать свою учетную запись. Если вы сделаете это, мы запросим токен аутентификации, который позволяет нам идентифицировать вас в качестве пользователя независимо от текущего локального прохождения игры. Данный токен позволяет нам подтвердить, что вы являетесь владельцем этой учетной записи. Благодаря этому мы можем восстановить сохраненную игру после переустановки или если вы используете другое устройство.
+Токены аутентификации генерируются для этого конкретного приложения. Мы не можем использовать токен для аутентификации в других приложениях.
+Эл. почта для входа:
+Для аутентификации можно также использовать адрес электронной почты. Это позволяет играть в игру на нескольких платформах, например, на Android и iOS. Адрес электронной почты хранится на дополнительном уровне безопасности, и мы не храним и не передаем ваши оригинальные пароли.
+IP-адреса:
+Мы не храним и не обрабатываем IP-адреса самостоятельно, однако некоторые из наших сторонних операторов обрабатывают IP-адреса.
+Идентификатор Android:
+Идентификатор Android, предназначенный для Android 8.0 и выше, представляет собой уникальный идентификатор, основанный на комбинации нашего ключа подписи приложения, пользователя и устройства. Это означает, что идентификатор может использоваться нами и нашими сторонними операторами для идентификации вас в качестве пользователя, но не может быть подключен к использованию данных приложений или услуг от других разработчиков. Если на вашем устройстве установлена ОС Android версии ниже 8.0, используется идентификатор Android, одинаковый для всех разработчиков, что повышает вероятность утечки данных. Мы рекомендуем перейти на более позднюю версию операционной системы Android.
+Идентификатор экземпляра:
+Идентификатор экземпляра используется для идентификации текущей установки приложения на вашем телефоне. Идентификатор становится недействительным при деинсталляции приложения. При переустановке приложения вы получаете новый идентификатор.
+Другие данные:
+Помимо указанных выше личных данных и идентификаторов, нами или нашим сторонним оператором данных также выполняется обработка следующих данных:
+данные о прохождении игры, начало и длительность сеанса, использование премиальных товаров или акций, модель и производитель устройства, версия операционной системы, журналы сбоев, ориентация и размер экрана, громкость звука, аккумулятор, язык системы или локальные настройки, тип интернет-соединения, оператор мобильной связи, ваш часовой пояс, свободное место на устройстве, данные о местоположении на базе IP, а также данные сегментации и атрибуции.
+Поддержка:
+В случае обращения в нашу службу поддержки мы обрабатываем ваши контактные данные, такие как адрес электронной почты и другую информацию, предоставленную для обработки запроса.
+Мы храним предоставленную информацию в течение 12 месяцев. Это необходимо для отслеживания обработки запросов. Мы не передаем контактные данные сторонним операторами обработки данных. Доступ к контактным данным есть только у авторизованных сотрудников.
+Нам нужно передать часть этих данных в перечисленные службы:
+AWS:
+Мы используем веб-службы Amazon для нашей масштабируемой внутренней инфраструктуры. Amazon дает гарантию невозможности доступа или обработки любых индивидуальных данных. Единственное исключение - это обработка из соображений обеспечения безопасности данных или соответствия требованиям закона. Доступ к данным игры и идентификаторам заказов имеют только наши авторизованные сотрудники. Данные могут храниться за пределами Еропейского Союза.
+Показать подробную информацию...
+Firebase:
+Мы используем несколько служб Firebase компании Google. Службы обрабатывают рекламные идентификаторы, идентификаторы Ids и данные об использовании приложения. Данные автоматически удаляются через 14 месяцев после последнего сеанса. Обработка данных может выполняться за пределами Европейского Союза.
+Показать подробную информацию...
+Google Analytics:
+Google Analytics идентифицирует пользователей по рекламными идентификаторам и идентификаторам экземпляров. Google Analytics собирает данные о прохождении игры и поведении в игре. Данные удаляются автоматически через 14 месяцев после последнего сеанса. Обработка может выполняться за пределами Европейского Союза.
+Показать подробную информацию...
+Facebook Analytics:
+Facebook Analytics идентифицирует пользователей по рекламными идентификаторам и идентификаторам экземпляров. Google Analytics собирает данные о прохождении игры и поведении в игре. Обработка может выполняться за пределами Европейского Союза.
+Показать подробную информацию...
+FacebookSignIn:
+Вы можете войти в игру с помощью своей учетной записи Facebook и привязать игру к Facebook. Мы получим доступ только к вашему имени и будем использовать Facebook только для аутентификации. Мы не отправляем имена пользователей на наши сервера или сторонним службам. Мы не будем ничего публиковать на вашей странице в Facebook.
+Unity Ads & Analytics:
+Unity Ads и Unity Analytics идентифицирует пользователей по рекламным идентификаторам и идентификаторам экземпляров. Служба собирает данные о прохождении игры и вашем поведении в игре. Обработка выполняется в основном в Европейском союзе, но также может выполняться и за его пределами.
+Показать подробную информацию...
+Tenjin:
+Tenjin - служба отслеживания атрибуции, помогающая нам определить, откуда приходят новые пользователи. Служба обрабатывает ваш рекламный идентификатор, IP-адреса и другие данные о прохождении игры, поведении в игре и характеристики вашего телефона. Обработка в основном выполняется в Европейском союзе, но также может выполняться и за его пределами.
+Показать подробную информацию...
+AppsFlyer:
+AppsFlyer - служба отслеживания атрибуции, помогающая нам определить, откуда приходят новые пользователи. Служба обрабатывает ваш рекламный идентификатор, IP-адреса и другие данные о прохождении игры, поведении в игре и характеристики вашего телефона. Обработка может происходить за пределами Европейского союза.
+Показать подробную информацию...
+Iron Source:
+Iron Source - рекламная сеть и служба преобразования. Служба обрабатывает ваш рекламный идентификатор и данные об использовании. Обработка может выполняться за пределами Европейского союза.
+Показать подробную информацию...
+Google AdMob:
+Google AdMob - рекламная сеть. Обрабатывает ваш рекламный идентификатор и данные об использовании. Обработка может выполняться за пределами Европейского союза.
+Показать подробную информацию...
+Поставщики технологий:
+Google AdMob передает данные другим поставщикам рекламных технологий. Мы используем общераспространенный набор поставщиков рекламных технологий, указанный на их веб-сайте.
+Показать подробную информацию...
+Facebook Ads:
+Facebook Audience Network - рекламная сеть. Использует ваш рекламный идентификатор и данные об использовании. Обработка может выполняться за пределами Европейского союза.
+Показать подробную информацию...
+AppLovin:
+AppLovin - рекламная сеть. Обрабатывает ваш рекламный идентификатор и данные об использовании. Обработка может выполняться за пределами Европейского союза.
+Показать подробную информацию...
+AdColony:
+AdColony - это рекламная сеть. Она использует ваш рекламный идентификатор и данные об использовании. Обработка может происходить за пределами Европейского союза.
+Показать подробную информацию...
+Tapjoy:
+Tapjoy - это рекламная сеть. Она использует ваш рекламный идентификатор и данные об использовании. Обработка может происходить за пределами Европейского союза.
+Vungle:
+Vungle - это рекламная сеть. Она использует ваш рекламный идентификатор и данные об использовании. Обработка может происходить за пределами Европейского союза.
+Snapchat:
+Snapchat - это рекламная сеть. Она использует ваш рекламный идентификатор и данные об использовании. Обработка может происходить за пределами Европейского союза.
+InMobi:
+InMobi - это рекламная сеть. Она использует ваш рекламный идентификатор и данные об использовании. Обработка может происходить за пределами Европейского союза.
+HyprMX:
+HyprMX - это рекламная сеть. Она использует ваш рекламный идентификатор и данные об использовании. Обработка может происходить за пределами Европейского союза.
+MyTarget:
+MyTarget - это рекламная сеть. Она использует ваш рекламный идентификатор и данные об использовании. Обработка может происходить за пределами Европейского союза.
+Chartboost:
+Chartboost - рекламная сеть. Обрабатывает ваш рекламный идентификатор и данные об использовании. Обработка может выполняться за пределами Европейского союза.
+Zendesk:
+Мы пользуемся услугами Zendesk, Inc. для обработки запросов клиентов по электронной почте или в социальных сетях. Обработка может происходить за пределами Европейского союза.
+Показать подробную информацию...
+У вас нет указанных прав на субъект данных:
+Доступ к данным:
+У вас есть право на доступ к личным данным, которые вы обработали. Обратитесь, пожалуйста, к нам, чтобы запросить ваши данные.
+Удаление данных:
+Вы можете удалить все сохранения игры и данные учетной записи, нажав кнопку удаления учетной записи в меню Bling Hub. При удалении приложения все идентификаторы экземпляров становятся недействительными. Вы можете запросить новый рекламный идентификатор/IDFA в настройках конфиденциальности вашей операционной системы. Если вы хотите удалить другие личные данные (например, данные запросов на поддержку), пожалуйста, обратитесь к нам.
+Рекламации:
+Вы имеете право подать жалобу в надзорный орган.
+Показать подробную информацию...
+Владелец и and оператор персональных данных:
+Bling Bling Games GmbH
+Mozartstraße 13
+76133 Karlsruhe
+Germany
+privacy@blingblinggames.com
+Дата последнего изменения: 16 oктябрь 2021 г.

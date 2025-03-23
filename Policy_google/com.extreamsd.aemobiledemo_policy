@@ -1,0 +1,10 @@
+Audio Evolution Mobile privacy policy
+Audio Evolution Mobile Studio verifies your in-app purchases through the Google License Verification servers. In order to prevent fraud, it sends your device's Firebase ID and the in-app purchase information in an encrypted way. None of this information is shared with other parties, neither can we link Firebase ID's to individuals. No other information is collected.
+The WRITE_EXTERNAL_STORAGE permission is used to store projects in the AudioEvolution folder on your device.
+The RECORD_AUDIO permission is used to record audio.
+The INTERNET permission is used to verify your license and to connect to Google Drive.
+The data safety form states that we collect your email address. This is not true. We do not send your email address off your device ourselves. It is however done by the Google Drive API to the Google servers IF you give access to your Google Drive account when selecting 'Cloud Sync', but is solely used to select the right account and log in.
+Google Drive
+After selecting an account and giving permission to use Google Drive, the app will only access the AudioEvolution folder on your Google Drive. It is used for synchronizing and backing up Audio Evolution Mobile projects and their data. None of your data is used or sent to someone else like the developers. This means that we DO NOT keep a copy of your data! You are responsible for your own back-ups.
+Should you have any questions or concerns, please contact us at
+info@extreamsd.com

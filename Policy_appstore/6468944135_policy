@@ -1,0 +1,70 @@
+define-private-public
+/
+PSRayTracing
+Public
+Notifications
+You must be signed in to change notification settings
+Fork
+9
+Star
+279
+Code
+Issues
+0
+Pull requests
+0
+Actions
+Projects
+0
+Security
+Insights
+Additional navigation options
+Code
+Issues
+Pull requests
+Actions
+Projects
+Security
+Insights
+Files
+master
+assets
+cli_runner
+experiments
+images
+qt_ui
+render_library
+third_party
+.gitignore
+APP_PRIVACY.txt
+CMakeLists.txt
+LICENSE.txt
+README.rst
+dev_tools.sh
+large_test_cases.csv
+multi_build.py
+run_verification_tests.py
+small_test_cases.csv
+Breadcrumbs
+PSRayTracing
+/
+APP_PRIVACY.txt
+Copy path
+Latest commit
+define-private-public
+Add note about application privacy
+Jan 17, 2022
+17fb771
+·
+Jan 17, 2022
+History
+History
+4 lines (3 loc) · 296 Bytes
+The mobile/tablet app version of PSRayTracing (that is available in the Google Play or Apple App stores) does not
+collect any data about the user or their actions in the app.  Renders/images may be temporarly saved onto the device.
+
+Google Play does report what kind of device installs this app.
+1
+2
+3
+4

@@ -1,0 +1,49 @@
+All our applications on the Google Play is Free application about Photo and Video editor.
+We’re do not store any user information such as Cookies, email, passwords, user-data ….
+Explain permissions in our Applications:
+Access Internet
+<uses-permission android:name=”android.permission.INTERNET” />
+<uses-permission android:name=”android.permission.ACCESS_NETWORK_STATE” />
+<uses-permission android:name=”android.permission.ACCESS_WIFI_STATE” />
+These permissions can help us get resources from our server such as: photo effects, photo frame; check network connection …
+Access Storage (Sdcard)
+<uses-permission android:name=”android.permission.WRITE_EXTERNAL_STORAGE” />
+<uses-permission android:name=”android.permission.READ_EXTERNAL_STORAGE”/>
+<uses-permission android:name=”android.permission.READ_MEDIA_IMAGES” />
+<uses-permission android:name=”android.permission.READ_MEDIA_VIDEO” />
+<uses-permission android:name=”android.permission.READ_MEDIA_AUDIO” />
+<uses-permission android:name=”android.permission.MANAGE_EXTERNAL_STORAGE” />
+These permissions can help us access your storage for save photo and video files edited, then for share to all your friends.
+Set Live Wallpaper
+<uses-permission android:name=”android.permission.SET_WALLPAPER” />
+This permission use in Photo Editor application for set beauty live wallpaper with photo edited.
+Access Camera
+<uses-permission android:name=”android.permission.CAMERA” />
+This permission help us to get an image from your Camera (take picture from Camera) for photo edit.
+Check Network is available?
+<uses-permission android:name=”android.permission.READ_PHONE_STATE” />
+This permission help us check network is available to show message to request turn on network for download resources from our server.
+Screen Overlay:
+<uses-permission android:name=”android.permission.SYSTEM_OVERLAY_WINDOW” />
+<uses-permission android:name=”android.permission.SYSTEM_ALERT_WINDOW” />
+<uses-permission android:name=”android.permission.ACTION_MANAGE_OVERLAY_PERMISSION” />
+Post Notification:
+<uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+
+Android 13 (API level 33) and higher supports a runtime permission for sending non-exempt (including Foreground Services (FGS)) notifications from an app: POST_NOTIFICATIONS. This change helps users focus on the notifications that are most important to them.
+FOREGROUND SERVICE:
+Foreground services show a status bar notification, to make users aware that your app is performing a task in the foreground and is consuming system resources.
+
+Devices that run Android 12 (API level 31) or higher provide a streamlined experience for short-running foreground services. On these devices, the system waits 10 seconds before showing the notification associated with a foreground service. There are a few exceptions, as several types of services always display a notification immediately.
+USER AD ID
+:
+<uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+
+- The advertising ID is a unique, user-resettable ID for advertising, provided by Google Play services. It gives users better controls and provides developers with a simple, standard system to continue to monetize their apps. It enables users to reset their identifier or opt-out of personalized ads (formerly known as interest-based ads) within Google Play apps.
+Important: We respect the confidentiality of information, and we are committed do not store, collect any user information on your device.
+Thanks for support!
+Chia sẻ:
+Twitter
+Facebook
+Thích
+Đang tải...

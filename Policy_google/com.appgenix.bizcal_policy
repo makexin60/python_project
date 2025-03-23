@@ -1,0 +1,121 @@
+Privacy Policy
+Last update: March 12, 2024.
+This is the privacy policy of the Android application Business Calendar 2 (“Business Calendar 2”, “the application”, “the app”) that explains how we, Appgenix Software UG (“Appgenix”, “we”, “our” or “us”) use, store and process the information that we collect from the end users (“you”) through the application and its services. We as a company are committed to transparency and to protecting the privacy of your personal data. We recommend you to read this privacy policy thoroughly and contact us if you have any questions.
+Our privacy policy may be altered or updated in time. Should the privacy policy change, we will update this page.
+1. Email support
+When you send an email to the Business Calendar 2 support, we keep the record of our communication. This includes your email, name and the conversation history.
+This helps us develop, deliver, protect and improve our products, services, content and customer communication.
+2. Third-party services
+Based on legitimate interests (in the sense of Art.
+6
+lit. f. GDPR) Business Calendar 2 uses the third-party services provided by Google LLC ("Google") to collect and store data.
+This data is used to
+continuously
+improve and maintain Business Calendar 2. This data is transferred to, stored and processed in the United States and other countries where the listed services operate. Google is certified under both the
+EU-U.S. and Swiss-U.S. Privacy Shield frameworks.
+2.1.1 Google Analytics 4
+This service collects:
+device-specific information (like model and operating system version)
+anonymized IP addresses
+Android ID
+usage data
+The data collected by Google Analytics 4 will be stored for a period of 14 months. After this period, the data will be deleted and only aggregated statistics will be kept.
+You can withdraw your consent and stop the tracking by Google Analytics 4 at any time by disabling the settings in the Business Calendar 2 application under: Settings → Privacy.
+2.2.1 Firebase Crashlytics
+This service collects:
+device-specific information (like model and operating system version)
+installation UUID
+crash traces
+Crash traces and their associated identifiers are kept for 90 days.
+You can withdraw your consent and disable sending crash data to Firebase Crashlytics at any time in the Business Calendar 2 application under: Settings → Privacy.
+2.3 Google Cloud Platform
+This service is used for:
+caching locations for the weather forecast feature
+using the Google Places API for the location auto-completion feature
+using the Google Tasks API for the synchronization with Google Tasks
+using the Google Calendar API for creating and deleting Google calendars
+2.3.1 Weather forecast
+The location you provided (either by giving us the permission to use the coarse location of the device or by manually entering the location) will be sent to a Google App Engine server together with an Oauth2 access token.
+The Google App Engine server caches the locations for that Business Calendar 2 needs a weather forecast and periodically queries the Dark Sky API to update the forecast for the next 7 days.
+No personal or pseudonymized data is transmitted to the Dark Sky API in this process.
+The app gets the weather report from the Google App Engine server.
+You can disable the weather forecast in the settings of the corresponding view where the weather is displayed (day, month, agenda) and in the settings of the Day Pro widget.
+2.3.2 Google Places API
+see 2.4
+2.3.3 Google Tasks API
+Business Calendar 2 uses the Google Tasks API to synchronize your tasks with Google Tasks when you have added an account in Business Calendar 2
+in
+Calendar & Task lists → Task lists.
+2.3.4 Google Calendar API
+Business Calendar 2 uses the Google Calendar API to:
+create new Google calendars or delete existing Google calendars in Calendar & Task lists → Calendars.
+attach Google Drive files to an event.
+2.4 Google Places API and TomTom Online Search API
+As part of the pro features, the app provides location suggestions when you enter a location while adding or editing an event or task. Your input therefore will be send to the Google Places API or TomTom Online Search API to get the appropriate suggestions.
+You can disable the location auto-completion service in the app under Settings → Create & Edit.
+2.5 Further details
+Detailed information on the terms and policies of the used services can be found in
+the
+Google partners privacy policy,
+the
+Firebase Data Processing and Security terms
+,
+in the
+Google Cloud Platform Terms of Service
+, in addition to
+their
+Data Processing and Security Terms
+and
+TomTom Privacy Police
+EU Model Contract Clauses
+.
+3. Advertising
+Business Calendar 2 is using Fyber (provided by Fyber N.V.) to show you personalized advertisements to help support and maintain our service.
+The app also uses Fyber FairBid Mediation to include personalized ads from Facebook Audience Network (provided by Facebook Inc.).
+You can opt out from personalized ads on your Android device by performing the following steps:
+Open the settings of your Android device
+Tap on “Google” / “Google Settings”
+Select the option for “Ads”
+Check the box “Opt out of Ads Personalization”
+Furthermore, Facebook offers you different options to adjust your ad experience here:
+https://www.facebook.com/privacy
+.
+For more information on how Fyber uses the collected data, visit the
+Privacy Policy of Fyber
+.
+For more information on how Facebook uses the collected data, have a look at the page
+https://www.facebook.com/privacy/explanation
+.
+4. Calendar and Contacts data
+Business Calendar 2 operates on the Android Calendar Database and on the Android Contacts Database. The app never transfers your calendar or contacts data to Appgenix Software or third parties. Please be aware that calendar and contacts data can be read by any app on your device with the appropriate permissions as these are standard Android interfaces. If you use cloud calendars to sync your calendar data, please read the privacy policies of your cloud services.
+4.1 Privately Link Contact
+If you use the feature labeled "Privately link contact" to link a contact to an event or task the contact information (like the name, email, phone and address of the contact, a link to the contact image and your account email) will be inserted into the description of the event or task. If the event or task is synchronized with a cloud service, this means that the contact information in the description will also be synchronized to the cloud service.
+5. Files and Images data
+If you use the feature labeled “Add Attachment”, “Pick Image”, “Capture Photo” or “Record Audio” to attach a file, an image, a photo or an audio to an event or task, the file information (like the file name, your account email and a link to the file, image, photo or audio) are added to the event or task.
+5.1 Events
+If you attach a file from Google Drive to an event or you upload a file to Google Drive and the event is part of a Google Calendar, then the file is directly attached to the event by using the Google Calendar API. Because the event is synchronized to a cloud service, the file is also synchronized to the cloud service.
+If you attach a file from Google Drive to an event or you upload a file to Google Drive and the event is not part of a Google Calendar, the file information will be inserted into the description of the event. If the event is synchronized with a cloud service, this means that the file information in the description will also be synchronized to the cloud service.
+If you attach a file from Dropbox to an event or you upload a file to Dropbox the file information will be inserted into the description of the event. If the event is synchronized with a cloud service, this means that the file information in the description will also be synchronized to the cloud service.
+If you attach a local file to an event the file information will be inserted into the description of the event. If the event is synchronized with a cloud service, this means that the file information in the description will also be synchronized to the cloud service.
+5.2 Tasks
+If you attach a file to a task the file information will be inserted into the description of the task. If the task is synchronized with a cloud service, this means that the file information in the description will also be synchronized to the cloud service.
+6. Permissions
+Business Calendar 2 requires certain permissions. The app only requests permissions that are needed to provide its feature set. Which permissions exactly are requested and what are they used for will be explained in detail in the following article:
+https://appgenix.uservoice.com/knowledgebase/articles/597639-why-does-business-calendar-2-need-all-the-differen
+7. Contact
+If you have any questions, concerns or feedback regarding this privacy policy please contact us by email at
+privacy@appgenix-software.com
+or postal mail at:
+APPGENIX SOFTWARE UG
+Schönhauser Allee 48
+10437 Berlin, Germany
+Sub-section Policy: 
+Sub-policy 0
+https://www.google.com/url?q=https://www.privacyshield.gov/participant?id%3Da2zt000000001L5AAI&sa=D&source=editors&ust=1710250364854128&usg=AOvVaw3t2LglTgmArtqIip0viqSM:
+Redirect Notice
+The page you were on is trying to send you to
+https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI
+.
+If you do not want to visit that page, you can
+return to the previous page
+.

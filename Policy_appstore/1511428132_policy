@@ -1,0 +1,83 @@
+This privacy policy applies to iOS apps that do not require any connection to an external service or provider.
+This policy extends
+the General Privacy Policy
+.
+We Ask Permission to Access Any Resources Necessary to Function.
+If an app needs access to certain resources on your device (for example, the music library, or your contacts list), it will ask explicit permission to do so, and explain, quite clearly, what it needs the resource for.
+We do not retain or store device data outside of the device’s storage facility.
+This may sound a bit wonky, but what we are saying is that we will generally leave your data in the locked cabinet, as opposed to taking it out and leaving it on the counter.
+For example, if your phone stores your music library in a secure place, we don’t make a copy of that data and store it elsewhere. We will always retrieve your data from the secure enclave on your device.
+If we ever need to do anything other than this (for example, a cache), we will explicitly describe what we will do, where it will be stored, why, and for how long.
+Of course, it goes without saying (but we’ll say it anyway) that we will not export your secure data beyond the confines of the device or the app’s “sandbox” (the secure memory container in which the app runs).
+In some cases, the operation of the app may require extracting one element of data from a secure location, and sending it to another location on the device (like a login string that may be required to access a secured element in another device service). If so, we use the element exactly as prescribed, and delete it when we are complete.
+We Don’t Bypass System Policies.
+Very simply, we follow the rules and stay in our lane. Apple has a lot of fairly strict policies regarding data access, use, distribution and storage. These are generally made clear in
+their Developer Documentation
+.
+Many of these policies are enforced by the system
+API
+, and we promise to use these system APIs exactly as Apple decrees.
+We Are Extremely Careful About Using Third-Party Code.
+By “third-party code,” we are generally referring to “dependencies” on libraries written by developers other than ourselves (or Apple, as we depend heavily on the code they ship with the development system and device).
+Whenever we include code from a third party, we are taking a big chance. We are giving that code a powerful execution thread, and it will have access to all the resources the app can reach.
+That’s a big responsibility. One that we take seriously.
+The Great Rift Valley Software Company writes “native” code, in Apple’s dedicated programming language (
+Swift
+), and relies on Apple’s built-in code libraries and adapters.
+That means that our code is small, ultra-high-quality, and lickety-split fast.
+It also means that we are aware of what every line of code in our apps does. In some cases, we may be required to use a third-party library in order to provide a premium user experience, or interface with certain services (some service providers require that their services only be accessed by their libraries, or use of their
+SDK
+may greatly enhance the ability to use their service).
+In these cases –which we strive to keep few and far between– we research the included library carefully, and examine the licensing and data access/retention policies.
+We won’t use them if we are not satisfied that they are completely aboveboard, and meet our standards of quality, transparency and ethics.
+Upon deciding to integrate their code with ours, we will make their policies clear to you, in addition to ours, and we will describe the need for the library.
+Sub-section Policy: 
+Sub-policy 0
+https://riftvalleysoftware.com/privacy-policies/:
+Skip to content
+The Great Rift Valley Software Company takes privacy and measured, careful oversight of your data very seriously indeed.
+We have several privacy policies, which we spell out carefully, and indicate exactly which ones apply in any given circumstance.
+All of our privacy policies act as extensions of the following General Privacy Policy.
+GENERAL PRIVACY POLICY
+If We Don’t Need It, We Won’t Take It.
+There’s no such thing as “nice to have” in data access and retention. We will never ask for data “just in case we might need it in the future.” If we need it, and it’s not something that the device (or server) already has, we specifically ask your permission to access any data.
+If we don’t need it, we won’t ask for it, and we won’t take it.
+If We Don’t Need to Keep It, We Won’t Keep It.
+It’s important to destroy/delete any of your data under our care, as soon as it’s no longer necessary.
+In some cases, we may offer to retain data in order to make your experience and relationship with us more convenient. In these cases, we will specifically ask for your permission to allow us to retain your data.
+Your Data Always Belongs to You.
+Your data is
+ALWAYS
+“your” data. If we need access to it, we never assume ownership of it.
+You will always have the right to tell us what to do with any of your data we have in our care.
+That said, it’s entirely possible that we may not be able to provide services without it, so be aware that removing your data may result in the services becoming unavailable.
+Additionally, you are always allowed to ask us about your data under our care, and we should always be ready to provide you with a complete and accurate inventory of your data.
+We Take Care of Your Data.
+Because we don’t own your data, we consider it our responsibility to guard and conceal your data. It will not be shared with any other party without your express, “opt-in” consent.
+That said, there may be specific, one-time events, where legitimate law enforcement agencies may require us to divulge data without alerting you.
+In these cases, we would insist that they follow procedure and process; providing us with the appropriate orders and warrants.
+The best way to deal with these eventualities, of course, is to follow Rule #1
+(If We Don’t Need It, We Don’t Take It)
+, and #2
+(If We Don’t Need to Keep It, We Won’t)
+.
+It is Our Responsibility to Ensure That You Understand How We Are Accessing, Storing or Using Your Data.
+All of our discussions on privacy and data handling/retention will be spelled out in clear, unambiguous, English. It is important that you understand exactly what data we need, what data we keep, why we need to use it or keep it, what we are doing with it, and where that data is, at any given time.
+Clear communication is OUR responsibility. We must always be prepared to help you to understand how we use any data that you entrust us with.
+If you have any questions, you are
+ALWAYS
+free to ask
+.
+We Try to Avoid Using Other Entities’ Services In Our Products.
+In some cases, we may need to use resources or services provided by a third party in our software. If we do this, we don’t always have control of how these entities will manage your data.
+As a general rule, we try to avoid this. Dependencies should be a necessary evil; not a standard policy. There are many reasons to avoid dependencies, and privacy is only one reason.
+That said, we can sometimes offer great value and powerful capabilities by leveraging third-party libraries and/or services.
+If we use any libraries or dependencies from third parties, or establish connections to third-party entities, we will always make that clear in the app description.
+As we write software for Apple devices, we must assume that all data on the devices will be ruled by
+Apple’s Privacy Policy
+, which is famously strict and uncompromising.
+Our Specific Privacy Policies
+This Web Site’s Privacy Policy
+The Standalone App Privacy Policy
+The Beta-Testing Privacy Policy
+Translate »

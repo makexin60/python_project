@@ -1,0 +1,361 @@
+Privacy Policy
+This Privacy Policy explains how Blink Shell, Inc. uses the personal data we collect from you from using our websites, software, and services (Services). The most effective method of safeguarding your data is to avoid having it in the first place, which is why we always strive to limit data requirements to what is essential to operate each Service, as outlined in this document. By using our Services, you consent to the data practices described in this statement.
+What you provide to us
+Blink Shell
+Usage of our terminal application does not request any information from the User.
+Blink Build
+Services Content
+. The Service includes a Personal Cloud Disk with your files, software, data, settings and so on. The Service is designed to host and serve those files to create personalized computing environments.
+Account information
+. We use your email to have a direct way to contact in case of issues with the system, and other account preferences like geographical region to create the computing environments according to your needs.
+Communications.
+If you contact us directly for support or other reasons, we may receive additional information such as name, email and other contents of the message and information you choose to provide.
+What we collect and why
+Blink Shell and Blink Build
+Anonymous Information.
+Blink Shell may perform anonymous web requests for feature like What’s New, Discovery and so on. Blink Build will perform authenticated requests when you perform operations within the Service (like starting machines, etc…). Every web request will always contain IPs, web browser type or device information.
+Purchases.
+We collect purchase history in order to grant the Services you are entitled to.
+Blink Build
+Logs.
+We collect logs tied to your user ID in order to provide support. Eventually, logs may be anonymized to generate usage reports and other analytics that may be useful to run the Service.
+How we share it
+We don’t sell, rent or lease your information with any third parties.
+In order to provide the Service, we use trusted partners to host our platform. We may share parts of your data with them as processors and they all comply proper privacy and security requirements (Data Processing Agreements), as can be seen in the next section.
+We may disclose your personal information, without notice, if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Blink Shell Inc, website or Services; (b) protect and defend the rights or property of Blink Shell Inc; and/or (c) act under exigent circumstances to protect the personal safety of users of the Blink Shell Inc, or the public.
+How we store it
+Our applications and Services may use trusted partners to provide specific features. These providers act as data processors (under GPDR terms) with your information, and are subject themselves to legal obligations that we have summarized below.
+Blink Shell
+RevenueCat
+USA
+AppStore Purchases
+https://www.revenuecat.com/dpa/
+Blink Build
+DigitalOcean
+User Selected Regions
+Cloud Storage and Cloud Computing
+https://www.digitalocean.com/legal/data-processing-agreement
+DigitalOcean
+USA
+Cloud Infrastructure
+https://www.digitalocean.com/legal/data-processing-agreement
+Google Cloud
+USA
+Cloud Infrastructure
+https://cloud.google.com/terms/data-processing-addendum
+Auth0
+USA
+Authentication
+https://auth0.com/docs/secure/data-privacy-and-compliance/gdpr
+RevenueCat
+USA
+Purchases
+https://www.revenuecat.com/dpa/
+Security
+Blink Shell Inc, uses various security technologies and measures to protect user information from unauthorized access, use, or disclosure. However, while they strive to protect user data, no service can guarantee complete security, and hence we cannot guarantee that unauthorized access, hacking, data loss or data breach will never occur.
+Right to deletion
+The Service allows you to request the deletion of your information, which can be done easily through our application. Please note that the deletion process may take several days to complete, depending on factors such as outstanding transactions.
+Changes
+Please review this Privacy Policy periodically as it may be subject to modifications. Revisions to this Privacy Policy will be published on our websites. If we make material changes to the ways in which we previously used or shared your personal data through our Services, we will inform you through our Services, on this page, through our application, or through other means of communication.
+Contact
+We welcome questions or concerns regarding this Privacy Policy, please email us at:
+hello@blink.sh
+. If you feel that we do have not addressed your concern in a satisfactory manner, you may contact your local data protection authority.
+✖
+We use cookies to enhance your experience. By continuing to visit this site you agree to our use of cookies.
+Learn more
+Sub-section Policy: 
+Sub-policy 0
+https://auth0.com/docs/secure/data-privacy-and-compliance/gdpr:
+Skip to main content
+​
+Articles
+Quickstarts
+Auth0 APIs
+SDKs
+Contact sales
+Log in
+Sign up
+Main Menu
+Secure
+Protect Your Application
+Application Credentials
+Attack Protection
+Continuous Session Protection
+Highly Regulated Identity
+Multi-Factor Authentication
+Security Center
+Security Guidance
+Tokens
+Compliance
+Data Privacy and Compliance
+GDPR
+GDPR: Conditions for Consent
+GDPR: Track Consent with Custom UI
+GDPR: Track Consent with Lock
+GDPR: Right to Access, Correct, and Erase Data
+GDPR: Data Minimization
+GDPR: Data Portability
+GDPR: Protect and Secure User Data
+Auth0 Data Processing
+Docs
+Secure
+Data Privacy and Compliance
+GDPR
+Auth0 General Data Protection Regulation Compliance
+On 27 April 2016, the European Parliament and the European Council adopted legislation known as General Data Protection Regulation (GDPR), which became enforceable
+25 May 2018
+. This legislation replaces European Privacy Directive 95/46/EC.
+GDPR is intended to unify and strengthen data privacy for individuals located in the European Union (EU). GDPR also extends the applicability of EU data privacy legislation to non-EU companies who store or process data on EU residents and increases the fines that may be levied against companies who are responsible for preventing breaches of personal data or who violate GDPR requirements.
+The contents of these documents are not intended to be legal advice, nor should they be considered a substitute for legal assistance. The final responsibility for understanding and complying with GDPR resides with you, though Auth0 will assist you in meeting GDPR requirements where possible.
+To learn more about GDPR, read the
+Complete Guide to GDPR Compliance on gdpr.eu
+.
+Definitions
+Here are the definitions used for Auth0's GDPR documentation:
+Term
+Definition
+Subject
+An individual/natural person
+Data Controller
+The entity that collects and processes data on subjects (
+read GDPR for exact definition
+)
+Data Processor
+The entity that processes data on behalf of a data controller (
+read GDPR for exact definition
+)
+Personal Data
+Data that can be used to identify (directly or indirectly) a subject, particularly via reference to an identifier (such as a name, identification number, location data, or online identifier), or to the physical, physiological, genetic, mental, economic, cultural, or social identity of that person
+Sensitive Personal Data
+Personal data that reveals racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade-union membership; genetic data or biometric data
+Auth0 Subprocessors
+Third party systems to which Auth0 provides personal data
+GDPR summary
+Applicability
+GDPR applies to a wide scope of territory including non-EU based services/companies that possess data on EU residents.
+Notifications and consent
+Before you collect personal data from your end users, you must obtain their consent to do so. When requesting consent, your notifications must:
+Be clear and easy to understand
+State the purpose of the data involved and how it will be processed
+You must also:
+Explicitly request consent
+Make it as easy for your end-user to revoke their consent as it is to grant consent
+Rights of individuals
+Your end users, as individuals, have the right to:
+See the data the company has about them
+Know how their data will be processed or used
+Be forgotten (the individual may ask the controller of their data to erase the data in question, cease disseminating the data, or halt further data processing)
+Portability (the individual can ask for their data in a standard, machine-readable format and can transmit their data to another data controller)
+Not be subjected to automatic decision making (a process typically called
+profiling
+)
+Privacy by design and privacy by default
+As the data controller, you must design your app to abide by both privacy by design and privacy by default principles.
+Privacy by design
+means that each new implementation that uses personal data must take the protection of such data into consideration.
+Privacy by default
+means that the strictest privacy settings automatically apply once the end user acquires a new product or service (that is, without any manual change required on the part of the user).
+Requirements for data processors and controllers
+As the data controller, you must:
+Do due diligence to ensure that your data processors provide adequate protection of provided data
+Auth0, as the data processor, must:
+Comply with instructions provided by data controllers
+Maintain adequate documentation
+Implement adequate security
+Conduct data protection impact assessments
+Appoint a data protection officer or establish a privacy office
+Comply with rules on international data transfers
+Agree to and sign a written data processing agreement that meets GDPR requirements
+Enforcement
+GDPR mandates that data controllers release notifications regarding data breaches within 72 hours of the incident
+Fines for non-compliance are much higher and are determined using a tiered system
+Supervisory authorities in the European Union have greater investigative powers
+Organizations controlling data must appoint a Data Protection Officer, while organizations processing data should have a Data Privacy Office
+Roles and responsibilities under GDPR
+Auth0 customers are
+data controllers
+. Auth0 is a
+data processor
+.
+Personal data handled by Auth0
+Auth0 handles end-user data present in user profiles, including metadata.
+Data controller (customer) responsibilities
+Ultimately, you, as the data controller, are responsible for GDPR compliance, which mostly consists of operational procedures and documentation.
+More specifically, the customer is responsible for:
+End-user notification, consent, and withdrawal of consent
+Deciding what data they expose to Auth0
+Deciding what connections (where end user data and passwords reside) to use
+Signing up and, if necessary, creating new users
+Ensuring their users meet the age requirements and obtaining the appropriate consent if necessary (such as parental consent for children)
+Implementing the mechanisms necessary for their end users to retrieve, review, correct, or remove personal data
+Deleting user data after receiving right-to-be-forgotten requests
+Providing data in standardized formats
+Responding to their end users' privacy-related requests (DSAR)
+Responding to communications from the European Union Data Privacy Authorities
+Data breach notifications sent to supervisory authorities and end users (Auth0 will assist the customer and provide the necessary information if we are involved)
+Selecting an EU tenant when setting up their Auth0 tenants
+The customer is the party that's responsible for the security of their data. Auth0 has no knowledge of how the customer processes data, configures their applications, and so on.
+Data processor (Auth0) responsibilities
+Auth0 is responsible for:
+Following the data processor's instructions as explicated in the Subscription Agreement (SA) and Data Processing Addendum (DPA) (for enterprise customers) or Terms of Service (for self-service customers)
+Notifying the customer if it receives requests from the customer's end users exercising their GDPR rights as subjects for data access, erasure, and so on
+Notifying the customer if it receives requests from EU Data Privacy Authorities (unless prohibited by law enforcement)
+Notifying the customer if it becomes aware of a confirmed security breach
+Notifying the customer if any of its sub-processors notify Auth0 about a confirmed data breach that impacts Auth0 customer data (unless prohibited by law enforcement)
+Providing a privacy policy, terms of service, security statement, data protection agreement, and so on, to provide info on its policies and practices
+Providing information about its data processing, so that customer has info it needs to process data lawfully
+Defining its services and features, how data is processed, and the rights and obligations of customers
+Providing the means to enable customers to retrieve, review, correct, or delete customer data via the
+Auth0 Dashboard
+and the Auth0
+Management API
+Providing a mechanism for customers to display consent terms and a consent agreement checkbox on the Lock widget. Customers can also design custom signup and login forms if more elaborate consent schemes are needed
+Auth0 data processing
+Data Auth0 possesses
+All of the data Auth0 has about an end user is located in the Auth0 user profile. The specific attributes contained in the user profile vary based on customer implementation and are based on a number of factors, such as connection type, user consent during the authentication flow, and whether you've augmented the user profiles with additional information.
+When Auth0 data is stored
+The Auth0 user profile information is stored in Auth0 when you use a database connection. If a user logs in using any other type of connection (including custom database connections), Auth0 stores information provided by the external
+identity provider
+for future queries.
+How Auth0 uses the data it stores
+The personal data stored in Auth0 is used only for the purposes of providing its services, namely authenticating users
+What happens to data when an end user's account is deleted
+When an end user's account is deleted, their user profile, included metadata, is removed.
+Auth0 features aiding GDPR compliance
+Here is a list of GDPR regulations and how Auth0 can help you comply with them.
+Conditions for consent
+According to Article 7 of GDPR, you must:
+Ask users to consent on the processing of their personal data in a clear and easily accessible form
+Be able to show that the user has consented, and
+Provide an easy way to withdraw consent at any time
+You can use Auth0 to ask your users for consent upon signup (using either Lock or a custom form) and save this information at the user profile. You can later update this information using the Management API. To learn more, read
+GDPR: Conditions for Consent
+.
+Right to access, correct, and erase data
+According to Articles 15, 16, 17, and 19 of GDPR, users have the right to:
+Get a copy of their personal data you are processing
+Ask for rectifications if they are inaccurate, and
+Ask you to delete their personal data
+With Auth0, you can access, edit, and delete user information, either manually or using our API. To learn more, read
+GDPR: Right to Access, Correct, and Erase Data
+.
+Data minimization
+According to Article 5 of GDPR:
+The personal data you collect must be limited to what is necessary for processing
+Must be kept only as long as needed, and
+Appropriate security must be ensured during data processing, including protection against unauthorised or unlawful processing and against accidental loss, destruction, or damage
+There are several Auth0 features than can help you achieve these goals, like account linking, user profile encryption, and more. To learn more, read
+GDPR: Data Minimization
+.
+Data portability
+According to Article 20 of GDPR, users have the right to receive the personal data concerning them in a structured, commonly used and machine-readable format.
+You can export user data, stored in the Auth0 user store, either manually or programmatically. Raw data from Auth0 can be exported in JSON format (which is machine-readable). To learn more, read
+GDPR: Data Portability
+.
+Protect and secure user data
+According to Article 32 of GDPR, you must implement appropriate measures to ensure a level of security, including  (but not limited to):
+data encryption
+ongoing confidentiality
+data integrity, and
+availability and resilience of processing systems and services
+There are several Auth0 features than can help you meet this requirement, like user profile encryption,
+brute-force protection
+,
+breached password detection
+, step-up authentication, and more. To learn more, read
+GDPR: Protect and Secure User Data
+.
+Security advice
+Auth0 recommends the following practices to help ensure the security of your end users data and minimize the probability of a data breach:
+Protect
+client secrets
+and keys
+Protect Management Dashboard credentials, and require
+multi-factor authentication
+for access to the Dashboard
+Review the list of administrators for the Dashboard on a regular basis and remove outdated entries
+Review the list of connections and applications associated with your Auth0 tenants and remove outdated entries
+Ensure that Dashboard administrators use corporate credentials that can be easily revoked if necessary, not personal credentials such as a personal email account
+Remove accounts for terminated employees promptly
+Ensure that administrators use devices with mandatory screen locking
+Provide regular training to all Dashboard administrators and developers on security and privacy best practices
+Make sure that you monitor any log streaming solution you use to send log data to logging tools with reporting capability.
+Learn more
+GDPR: Conditions for Consent
+GDPR: Right to Access, Correct, and Erase Data
+GDPR: Data Minimization
+GDPR: Data Portability
+GDPR: Protect and Secure User Data
+Was this article helpful?
+Yes
+No
+On This Page
+Definitions
+GDPR summary
+Applicability
+Notifications and consent
+Rights of individuals
+Privacy by design and privacy by default
+Requirements for data processors and controllers
+Enforcement
+Roles and responsibilities under GDPR
+Personal data handled by Auth0
+Data controller (customer) responsibilities
+Data processor (Auth0) responsibilities
+Auth0 data processing
+Data Auth0 possesses
+When Auth0 data is stored
+How Auth0 uses the data it stores
+What happens to data when an end user's account is deleted
+Auth0 features aiding GDPR compliance
+Conditions for consent
+Right to access, correct, and erase data
+Data minimization
+Data portability
+Protect and secure user data
+Security advice
+Is this article helpful?
+Yes
+No
+Light
+Dark
+System
+About Cookies on This Site
+Cookies ensure our site works (Required cookies). We also offer "Functional" cookies that will personalize your visit so you are receiving the most relevant Auth0 content, and will give our internal sales teams insight into how we can help you solve identity. We also offer cookies to count visitors and optimize site performance (Performance Cookies), and Targeting Cookies that will deliver Auth0 ads to you.
+Please choose below between "Accept All" "Required Only" "More Choices". By clicking "Accept All' you will allow the use of these cookies. Your settings can be changed, including withdrawing your consent at any time. You can read about our complete cookie policies and overall privacy policies at any time by visiting
+here
+.
+Required Only
+Accept All
+More Choices
+About cookies in this site
+Please choose whether this site may use Functional and/or Advertising cookies, as described below:
+Read our Privacy & Cookies Notice
+Accept All
+Manage Consent Preferences
+Always Active
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms.    You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+Performance Cookies
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site.    All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+Functional Cookies
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages.    If you do not allow these cookies then some or all of these services may not function properly.
+Targeting Cookies
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites.    They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+Back Button
+Cookie List
+Search Icon
+Filter Icon
+Clear
+checkbox label
+label
+Apply
+Cancel
+Consent
+Leg.Interest
+checkbox label
+label
+checkbox label
+label
+checkbox label
+label

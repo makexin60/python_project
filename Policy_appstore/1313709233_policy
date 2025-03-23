@@ -1,0 +1,156 @@
+Useful Mobile Apps
+Home
+Vibration analysis
+:
+Video
+Vibration spectrum analysis
+Accelerometer connects to the headphone jack
+Stroboscope for an external accelerometer
+Shopping
+BLE accelerometer
+:
+Video
+Connecting the Arduino Nano to a PC and downloading the sketch
+Assembling the Bluetooth accelerometer
+Setting up the application
+Setting up the HM-10 Bluetooth module to increase the data transmission rate
+Sensitivity increase/decrease of the Arduino Nano
+Other assembly alternatives
+Laser sensor
+Increasing the sensitivity of the accelerometer
+3-axis Bluetooth accelerometer
+Connecting the BMA180 accelerometer
+Bluetooth accelerometer based on Arduino Nano 33 BLE
+Shopping
+Tachometers
+:
+Video
+Strobe light tachometer
+Stroboscope
+Laser tachometer
+Without soldering iron and multimeter
+Magnetic tachometer
+Measurement of rotational speed by stroboscopic tachometer
+Shopping
+Video tachometer
+:
+Video tachometer
+Speedometers
+:
+Video
+Free speedometer
+Talking speedometer
+DIY anemometer
+:
+Video
+Outdoor anemometer
+Sensitive anemometer
+Vane anemometer
+Shopping
+DIY metal detector
+:
+Video
+"Very simple" metal detector
+Metal detector without soldering
+"Sensitive" metal detector
+Sensor (inductance coil) and mounts
+Capacitor for the LC circuit
+Protection from the Sun and wind
+Headphones
+Causes of non-operability
+Controls
+Shopping
+Sound analysis
+:
+Audio spectrum analyzer
+Turns counter
+:
+Turns counter for coil winding machine
+Photo Storage
+:
+Offline Photo Storage (backup photos)
+Contacts
+Connect to YouTube?
+OK
+youtu.be/owfPbANISGQ
+Connect to YouTube?
+OK
+youtu.be/NWD77iKfCN8
+DIY anemometer
+Using this app along with a very simple homemade device, you’ll have a working anemometer for measuring wind speed or the airflow in a ventilation system. You can choose the type of anemometer which best suits your needs.
+The wind speed is determined by measuring the rotation speed of the magnet in your iPhone’s magnetometer. The relationship between the rotation speed and the speed of airflow is set in each version of the anemometer and can be adjusted.
+You can make improvements to the suggested designs or make and calibrate your own.
+In order to select units of measurement (m/s, km/h, ft/s, mph, knots, Bft, Hz (Revolutions per second), RPM (Revolutions per minute)) or the average value  ("Avg1" - most recent value, "Avg3" and "Avg7" - average value) press the seven-segment display.
+Don’t forget to put a protective cover on your iPhone.
+IMPORTANT!!! Small children should not be given magnets because they may swallow them. If two (or more) magnets are swallowed, the magnets can become magnetized to each other in the intestines, squeezing the intestinal tissues between themselves. This can result in serious injury and hospitalization. Children who already think well (and do not swallow everything in a row) can be given only one magnet, and if the magnet is gone, then you definitely need to find a magnet. Telling children not to swallow magnets is probably not necessary, as this can lead to the opposite result.
+"Outdoor" anemometer
+This is the best type of anemometer for measuring wind speed in the open air. This design will not be affected by the direction of the wind (vane anemometer) and the impeller will not be blown off by a strong gust of wind ("Sensitive" anemometer).
+Specifications:
+• Measurement range from 0.5 m/s (1 mph) to 15 m/s (34 mph).
+• Accuracy 0.5 m/s (1 mph).
+• Update time 2-5 sec.
+To make the anemometer, cut a square with three-inch (7.6х7.6 cm) sides from an aluminium can.
+You then need to score markings on the resulting sheet.
+Use scissors to make cuts up to the markings.
+Carefully make it into the necessary shape. If you can’t get the impeller into the correct shape right away, it may line up after you make a hole in the middle.
+All sharp edges must be cut off carefully so as not to hit anybody in the eye.
+Use a screw to attach the impeller to the ink tube of a ballpoint pen. The internal diameters of ink tubes can differ greatly, so it’s difficult to say which size screw you will need. For the setup shown in the photo we used a screw with a M2x6 (mm) thread (the closest US sizes would be #1 or #2
+https://en.wikipedia.org/wiki/Unified_Thread_Standard
+). The head of the screw should be flat (flush) so that the magnet can sit on it easily. Preferably, choose a screw with a Pozidriv (PZ) head slot, as this type of screw will be needed for the other version of the anemometer.
+Instead of a machine screw you could use very small wood screws, nails or even chewing gum (you’ll need to give it some time to dry out) to attach the impeller and the magnet to the ink tube. If the nail is just a bit smaller than you need, you can make some notches on it.
+You now need to make a small cross from a square with 1/2 inch (1.2 cm) sides and a small dent in the middle. You can use a smaller square, for example if the barrel of the pen has a small internal diameter.
+Carefully insert the cross into the barrel and push it towards the tip.
+The anemometer is almost complete. It should rotate easily if you blow on it. ONLY THE BALLPOINT TIP OF THE INK TUBE SHOULD TOUCH THE CROSS (you may need to make the cross a bit smaller for this). TO BE ABLE TO SEE THAT, THE BALLPOINT PEN HAS TO BE MADE OF A TRANSPARENT MATERIAL.
+You now need to secure the ink tube inside the barrel to stop it from rattling around. To do this cut off the top of the pen lid by increments until the hole is a size that allows the ink tube to rotate freely.
+To complete the anemometer, you just need to attach the magnet. Use a neodymium magnet measuring 4x4x4 mm (a bigger neodymium magnet will not sit well on the screw head and would need to be glued). The magnet should be positioned so that the poles point outwards radially. You can use another magnet to find the poles. If you have a marker, by all means use it to mark the poles on the magnet.
+To stop the impeller flying off in strong winds, you can wind layers of tape around the ink tube to stop it passing through the hole in the pen lid. Don’t attach so much tape that it touches the pen barrel when rotating.
+You can use different types of pen to make the anemometer ("Bic Cristal", for example).
+To open the pen barrel, use the blade of a knife as shown in the photo and press down.
+For this type of pen you need to make a smaller cross, using a square with sides measuring 3/8 of an inch (9 mm).
+The screw used measures M2.5x6 (mm) (#3) (or you can cut notches into a 1.8 mm nail).
+If you can’t find a small neodymium magnet, you could also use a whiteboard magnet.
+Flexible magnets are very weak and can’t be used for this project.
+The dependence of the rotation speed on the wind speed:
+2 Hz - 1.5 m/s
+4 Hz - 2.7 m/s
+6 Hz - 3.8 m/s
+"Sensitive" anemometer
+Specifications:
+• Measurement range from 0.5 m/s (1 mph) to 3.5 m/s (8 mph).
+• Accuracy 0.5 m/s (1 mph).
+• Update time 2-5 sec.
+Cut out a 3x2 inch (7.6x5.1 cm) rectangle.
+Mark out three inch-wide (2.53 cm) rectangles.
+It’s very important to use a screw with a Pozidriv (PZ) head slot so that the awl doesn’t touch the sides of the slot. The screw should be as short as possible so that the magnet sits as low as possible. The screw shown in the photo is 2x6 mm.
+When the screw is tightened, carefully separate the ‘wings’ and make the impeller into the correct shape.
+Use a nut to help the magnet stay attached to the screw, but don’t tighten it.
+The impeller will become unstable on the awl due to a heightened centre of gravity once you have attached the neodymium magnet (measuring 4x4x4 mm). To lower the centre of gravity, you need to stick weights to the INSIDE of the ‘wings’ (use washers for a M4 screw).
+If you want to try something other than an awl, the impeller also works on a VERY WELL sharpened pencil or a sewing needle attached to a pencil. The impeller rotates best on a sewing needle, but this version requires great caution and is CATEGORICALLY NOT SUITABLE FOR CHILDREN.
+The dependence of the rotation speed on wind speed (on a 0.5 mm mechanical pencil):
+1.5 Hz - 1.4 m/s
+4 Hz - 2.85 m/s
+6 Hz - 3.4 m/s
+Vane anemometer
+This is designed to measure the speed of airflow in ventilation systems.
+Specifications:
+• Measurement range from 1.75 m/s (4 mph) to 3.0 m/s (6.5 mph).
+• Accuracy 0.2 m/s (0.5 mph).
+• Update time 2-5 sec.
+This anemometer is made using a fan with rolling bearings. You can choose a fan of any size, but the smaller the fan size, the less sensitive the anemometer will be. Here we’ve used a fan measuring 80x80x25 mm.
+To help the fan rotate easily, you will need to remove the ring magnet.
+Hold the retaining ring when removing it so it doesn’t get lost.
+To remove the ring magnet, insert a flat screwdriver underneath and turn it slightly. The magnet should protrude a little. Repeat this, and lift off the whole magnet EVENLY.
+When the magnet reaches the point where a screwdriver cannot raise it any higher, you need to use a screw (M4x30(>30) mm).
+When it’s not being raised any further, you can probably pull it out by hand, If not you’ll need to choose another tool which can also lift the magnet.
+The fan is now ready to use. If you don’t put on the retaining ring, the fan may turn more easily.
+The dependence of the rotation speed on the airflow speed:
+4 Hz - 1.85 m/s
+6 Hz - 2.3 m/s
+8 Hz - 2.55 m/s
+12 Hz - 2.7 m/s
+18 Hz - 2.8 m/s
+If anything is unclear, be sure to drop me an email.
+Privacy policy
+The app DOES NOT collect any data at all, and especially confidential ones. The app doesn't send messages even if the app crashes. Therefore, if you do not inform me about frequent app crashes by email, I won't know about it and I won't fix the bug. The app may only need an Internet connection when making in-app purchases to unlock locked features.
+Shopping
+eBay: "neodymium magnet 4x4x4"

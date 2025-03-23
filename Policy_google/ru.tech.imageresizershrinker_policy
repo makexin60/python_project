@@ -1,0 +1,750 @@
+Image Toolbox
+🗺️ Project Overview
+ImageToolbox is a versatile image editing tool designed for efficient photo manipulation. It allows
+users to crop, apply filters, edit EXIF data, erase backgrounds, and even convert images to PDFs.
+Ideal for both photographers and developers, the tool offers a simple interface with powerful
+capabilities.
+📔 Wiki
+Check out Image Toolbox
+Wiki
+for FAQ and useful info
+✈️
+Telegram Links
+Join our chat where you can discuss anything you want and also look into the CI channel where I post betas and announcements
+☕ Buy me a coffee
+This application is completely free, but if you want to support the project development, you can
+send a donation to the crypto wallets below
+->
+17Pk1RurnkJxLV9V7mc6Y7dLyHFb9rvQDq
+<-
+->
+TMPAu7a54NvQNEKnNWh3naXu3oYijqP3U7
+<-
+📲 Download
+Go to the
+Releases
+and the download latest
+apk
+or click one of the badges below.
+💻 Installation Instructions
+Clone the repository:
+git clone https://github.com/yourusername/ImageToolbox.git
+Install dependencies using your preferred package manager (e.g., Gradle).
+Build the project:
+bash ./gradlew build
+Run the application:
+bash ./gradlew run
+⚔️ FOSS vs MARKET
+Feature
+FOSS
+Market
+QR Scanner
+Zxing
+MlKit
+Auto erase BG
+❌
+MlKit
+Document Scanner
+OpenCV
+MlKit
+Analytics
+❌
+✅
+Crashlytics
+❌
+✅
+Other Google deps
+❌
+✅
+All Other Features
+✅
+✅
+✨ Features
+Batch processing
+Applying filter chains (More than 230 various filters)
+Available filters
+Saturation
+Contrast
+Brightness
+Exposure
+RGB
+Hue
+White Balance
+Monochrome
+Black and White
+False Color
+Sharpen
+Gamma
+Highlights and Shadows
+Haze
+Sepia Tone
+Color Inversion
+Solarize
+Vibrance
+Luminance Threshold
+Pixellate
+Halftone
+Crosshatch
+Sobel Edge Detection
+Sketch Filter
+Toon Filter
+SmoothToon Filter
+CGA Colorspace Filter
+Posterize
+Convolution 3x3
+Emboss Filter
+Laplacian
+Kuwahara Filter
+Vignette
+Gaussian Blur
+Box Blur
+Stack Blur
+Fast Blur
+Bilaterial Blur
+Zoom Blur
+Median Blur
+Pixelation
+Enhanced Pixelation
+Stroke Pixelation
+Circle Pixelation
+Enhanced Circle Pixelation
+Diamond Pixelation
+Enhanced Diamond Pixelation
+Swirl Distortion
+Bulge Distortion
+Sphere Refraction
+Glass Sphere Refraction
+Dilation
+Non Maximum Suppression
+Opacity
+Weak Pixel Inclusion Filter
+Color Matrix 4x4
+Lookup
+Color Replacement
+Color Removance
+Bayer Two Dithering
+Bayer Three Dithering
+Bayer Four Dithering
+Bayer Eight Dithering
+Floyd Steinberg Dithering
+Jarvis Judice Ninke Dithering
+Sierra Dithering
+Two Row Sierra Dithering
+Sierra Lite Dithering
+Atkinson Dithering
+Stucki Dithering
+Burkes Dithering
+False Floyd Steinberg Dithering
+Left To Right Dithering
+Random Dithering
+Simple Threshold Dithering
+Quantizier
+Glitch Effect
+Enhanced Glitch Effect
+Anaglyph
+Noise
+Tent Blur
+Side Fade
+Erode
+Anisotropic Diffusion
+Horizontal Wind Stagger
+Fast Bilaterial Blur
+Poisson Blur
+Logarithmic Tone Mapping
+Aces Filmic Tone Mapping
+Crystallize
+Fractal Glass
+Marble
+Oil
+Water Effect
+Hable Filmic Tone Mapping
+Aces Hill Tone Mapping
+Hejl Burgess Tone Mapping
+Perlin Distortion
+Grayscale
+Dehaze
+Color Matrix 3x3
+Achromatomaly
+Achromatopsia
+Browni
+CodaChrome
+Cool
+Deutaromaly
+Deutaronotopia
+Night Vision
+Polaroid
+Protanopia
+Protonomaly
+Tritanopia
+Tritonomaly
+Vintage
+Warm
+Grain
+Unsharp
+Pastel
+Orange Haze
+Pink Dream
+Golden Hour
+Hot Summer
+Purple Mist
+Sunrise
+Colorful Swirl
+Soft Spring Light
+Autumn Tones
+Lavender Dream
+Cyberpunk
+Lemonade Light
+Spectral Fire
+Night Magic
+Fantasy Landscape
+Color Explosion
+Electric Gradient
+Caramel Darkness
+Futuristic Gradient
+Green Sun
+Rainbow World
+Deep Purple
+Space Portal
+Red Swirl
+Digital Code
+Bokeh
+Neon
+Old Tv
+Shuffle Blur
+Mobius
+Uchimura
+Aldridge
+Drago
+Color Anomaly
+Quantizier
+Ring Blur
+Cross Blur
+Circle Blur
+Star Blur
+Motion Blur
+Fast Gaussian Blur 2D
+Fast Gaussian Blur 3D
+Fast Gaussian Blur 4D
+Equalize Histogram
+Equalize Histogram HSV
+Equalize Histogram Pixelation
+Equalize Histogram Adaptive
+Equalize Histogram Adaptive LUV
+Equalize Histogram Adaptive LAB
+Equalize Histogram Adaptive HSV
+Equalize Histogram Adaptive HSL
+Clahe
+Clahe LUV
+Clahe LAB
+Clahe HSL
+Clahe HSV
+Crop To Content
+Linear Box Blur
+Linear Tent Blur
+Linear Gaussian Box Blur
+Linear Stack Blur
+Gaussian Box Blur
+Linear Fast Gaussian Next
+LinearFast Gaussian
+Linear Gaussian
+Low Poly
+Sand Painting
+Palette Transfer
+Enhanced Oil
+Simple Old TV
+HDR
+Simple Sketch
+Gotham
+Color Poster
+Tri Tone
+Clahe Oklch
+Clahe Jzazbz
+Clahe Oklab
+Yililoma Dithering
+Clustered 2x2 Dithering
+Clustered 4x4 Dithering
+Clustered8x8 Dithering
+Polka Dot
+LUT 512*512
+Amatorka
+Miss Etikate
+Soft Elegance
+Soft Elegance Variant
+Bleach Bypass
+Candlelight
+Drop Blues
+Edgy Amber
+Fall Colors
+Film Stock 50
+Foggy Night
+Kodak
+Palette Transfer Variant
+3D LUT (.cube / .CUBE)
+Pop Art
+Celluloid
+Coffee
+Golden Forest
+Greenish
+Retro Yellow
+Auto Crop
+Opening
+Closing
+Morphological Gradient
+Top Hat
+Black Hat
+Enhanced Zoom Blur
+Simple Sobel
+Simple Laplacian
+Custom Filters Creation by Template filters
+You can create filter from any filter chain
+Share created filters by QR code
+Scan filters from the app to get them on your device
+Files encryption and decryption with 100+ different algorithms available
+Adding Stickers and Text (Markup Layers Mode)
+Extract Text From Images
+120+ languages
+3 Type of data: Fast, Standard, Best
+Segmentation Mode Selection
+Engine Mode Selection
+Custom Tesseract options entering
+Multiple languages at the same time
+EXIF metadata editing/deleting
+Loading images from internet
+Image Stitching
+Image Stacking
+Image Splitting
+Background Removal
+By drawing
+Automatically
+Watermarking
+Repeating Text
+Image
+Stamp
+Timestamp
+Drawing on Image/Background
+Pen
+Neon
+Highlighter
+Privacy Blur
+Pixelation Paint
+Text
+Image Brush
+Filter Brush
+Spot Healing
+Pointing Arrow
+Line
+Double Pointing Arrow
+Line Pointing Arrow
+Double Line Pointing Arrow
+Outlined Rect
+Outlined Oval
+Outlined Triangle
+Outlined Polygon
+Outlined Star
+Rect
+Oval
+Triangle
+Polygon
+Star
+Lasso
+Line Style
+Dashed
+Dot Dashed
+Zigzag
+Stamped
+Image Resizing
+Width changing
+Height changing
+Adaptive resize
+Resize retaining aspect ratio
+Resize by given limits
+Center Crop with
+Background color changing
+Background blur drawing
+Different Scaling Algorithms
+Bilinear
+Nearest Neighbour
+Cubic
+Mitchell-Netravalli
+Catmull-Rom
+Hermite
+B-Spline
+Hann
+Bicubic
+Hamming
+Hanning
+Blackman
+Welch
+Quadric
+Gaussian
+Sphinx
+Bartlett
+Robidoux
+Robidoux Sharp
+Spline 16
+Spline 36
+Spline 64
+Kaiser
+Bartlett-Hann
+Box
+Bohman
+Lanczos 2
+Lanczos 3
+Lanczos 4
+Lanczos 2 Jinc
+Lanczos 3 Jinc
+Lanczos 4 Jinc
+Ewa Hanning
+Ewa Robidoux
+Ewa Blackman
+Ewa Quadric
+Ewa Robidoux Sharp
+Ewa Lanczos 3 Jinc
+Ginseng
+Ginseng EWA
+Lanczos Sharp EWA
+Lanczos 4 Sharpest EWA
+Lanczos Soft EWA
+Haasn Soft
+Lagrange 2
+Lagrange 3
+Lanczos 6
+Lanczos 6 Jinc
+Different Scale Color Spaces
+Linear
+sRGB
+LAB
+LUV
+Sigmoidal
+XYZ
+F32 Gamma 2.2
+F32 Gamma 2.8
+F32 Rec.709
+F32 sRGB
+LCH
+Oklab sRGB
+Oklab Rec.709
+Oklab Gamma 2.2
+Oklab Gamma 2.8
+Jzazbz sRGB
+Jzazbz Rec.709
+Jzazbz Gamma 2.2
+Jzazbz Gamma 2.8
+GIF conversion
+GIF to images
+Images to GIF
+GIF to WEBP
+WEBP conversion
+WEBP to images
+Images to WEBP
+APNG conversion
+APNG to images
+Images to APNG
+JXL transcoding
+JXL to JPEG
+JPEG to JXL
+Animated JXL conversion
+Images to JXL
+JXL to Images
+APNG to JXL
+GIF to JXL
+PDF tools
+PDF to images
+Images to PDF
+PDF previewing
+Document Scanning
+Barcodes
+Scanning
+Creating
+Sharing as images
+13 formats available
+QR CODE
+AZTEC
+CODABAR
+CODE 39
+CODE 93
+CODE 128
+DATA MATRIX
+EAN 8
+EAN 13
+ITF
+PDF 417
+UPC A
+UPC E
+Collage Creation
+From 2 to 10 images
+More than 180 various collage layouts
+Image Shrinking
+Quality compressing
+Preset shrinking
+Reducing size by given weight (in KB)
+Cropping
+Regular crop
+Free rotation crop
+Free corners crop (can be used as Perspective Correction)
+Crop by aspect ratio
+Crop with shape mask
+Rounded Corners
+Cut Corners
+Oval
+Squircle
+Octagon
+Rounded Pentagon
+Clover
+Material Star
+Kotlin Logo
+Small Material Star
+Heart
+Shuriken
+Explosion
+Bookmark
+Pill
+Burger
+Shield
+Droplet
+Arrow
+Egg
+Map
+Enhanced Heart
+Star
+Image Mask
+Additional Shapes
+Image Cutting (can be used as batch crop)
+Tracing raster images to SVG
+Format Conversion
+HEIF
+HEIC
+AVIF
+WEBP
+JPEG
+JPG
+PNG Lossless
+PNG Lossy
+MozJpeg
+Jpegli
+JXL
+JP2
+J2K
+TIFF
+TIF
+QOI
+ICO
+SVG, DNG, PSD, GIF to static raster images
+Telegram sticker PNG format
+Files to Zip
+Comparing images
+Slide
+Toggle Tap
+Transparency
+Side By Side
+Pixel By Pixel (7 Methods)
+SSIM
+AE
+MAE
+NCC
+PSNR
+RMSE
+Color Utils
+Palette generation
+Material You Scheme
+Simple Colors
+Picking color from image
+Gradient creation (Mesh gradients too)
+Overlaying image with gradient
+Mixing
+Conversion
+Harmonies
+Shading
+Tone Curves applying
+Histograms
+RGB
+Brightness
+Camera Like RGB
+Image source selection
+Additional Features
+Base64 Decode/Encode
+Rotating
+Flipping
+Perlin Noise Generation
+Previewing SVG, DNG, PSD, DJVU and almost all types of images
+Saving to any specific folder
+Long press on save to choose one time output folder
+Randomizing output filename
+Using image cheksum as filename
+Checksum Tools with ability to calculate and compare hashes
+64 different hashing algorithms
+Audio files Album Cover export
+Embedded media picker
+And More!
+🌟 UI tweaks
+Selecting Emoji for top app bar
+Ability to use Pixel like switch instead of Material You
+Secure Mode for app
+Maximum brightness for selected screens
+In app language changing
+Enabling or Disabling confetti
+Custom app color scheme
+Different palette styles
+Predefined schemes
+Color inversion
+Contrast adjusting
+Controlling borders thickness
+Enabling and disabling each existing shadow
+Haptics controls
+Light/Dark mode
+AMOLED mode
+Monet implementation (Dynamic colors) even for Android versions less than 12
+by
+Dynamic Theme
+Image based color scheme
+Icons Background shape selection
+Rounded Corners
+Cut Corners
+Oval
+Squircle
+Octagon
+Rounded Pentagon
+Clover
+Material Star
+Small Material Star
+Heart
+Enhanced Heart
+Custom fonts
+Montserrat
+Comfortaa
+Caveat
+Handjet
+Jura
+Podkova
+Tektur
+YsabeauSC
+DejaVu
+BadScript
+RuslanDisplay
+Catterdale
+FRM32
+Tokeely Brookings
+Nunito
+Nothing
+WOPR Tweaked
+Alegreya Sans
+Minecraft Gnu
+Granite Fixed
+Nokia Pixel
+Ztivalia
+Axotrel
+Lcd Octagon
+Lcd Moving
+Unisource
+Ability to import any font (OTF/TTF) to further use
+In app font scale changing
+Changing between options list and grouped view
+Confetti Type selection
+Default
+Festive
+Explode
+Rain
+Side
+Corners
+ImageToolbox
+Switch Type selection:
+Material You
+Compose
+Pixel
+Fluent
+Cupertino
+Slider Type Selection:
+Fancy
+Material You
+Material
+(Yes, the app supports dynamic coloring based on wallpapers for every android version)
+📚 Tech stack & Open-source libraries
+Minimum SDK level 21
+Kotlin
+based
+Image Toolbox Libs
+- set of essential libraries for
+Image Toolbox.
+Dynamic Theme
+- library, which allows you to easily
+implement custom color theming.
+Modal Sheet
+- modal bottom sheet that follows M3
+guidelines.
+Coroutines
+for asynchronous work.
+Flow
+to emit values from data layer reactively.
+Accompanist
+to expand jetpack compose opportunities.
+Decompose
+- KMP lifecycle-aware business logic
+components (aka BLoCs) with routing (navigation) and pluggable UI
+Hilt
+for dependency injection.
+Coil
+for loading images.
+Konfetti
+to establish beautiful particle system.
+Jetpack
+Compose
+- Modern Declarative UI style
+framework based on composable functions.
+Material You Kit
+-
+Material 3 powerful UI components.
+Data Store
+- Store data
+asynchronously, consistently, and transactionally.
+Lifecycle
+- Observe
+Android lifecycles and handle UI states upon the lifecycle changes.
+Exif Interface
+- Read
+and write image file EXIF tags.
+GPU Image
+for creating and applying filters to the
+images.
+SmartToolFactory
+provides a bunch of helpful libraries.
+AVIF Coder
+and
+JXL Coder
+libraries which provide avif, heic, heif and
+jxl support.
+Aire
+and
+Trickle
+for
+creating and applying filters to the images on CPU
+using native cpp code.
+📐 App Architecture
+See Modules Graph at
+ARCHITECTURE.md
+🌐 Translation
+You can help translate Image Toolbox into your language
+on
+Hosted Weblate
+❤️ Find this repository useful?
+Support it by joining
+stargazers
+for this
+repository. ⭐
+And
+follow
+me for my next creations! 🤩
+⭐ Star History
+📢 Contributors
+⚖️ License
+Designed and developed by 2023 T8RIN
+
+    Licensed under the Apache License, Version 2.0 (the "License");you may not use this file except in compliance with the License.You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, softwaredistributed under the License is distributed on an "AS IS" BASIS,WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.See the License for the specific language governing permissions andlimitations under the License.
+Photos
+by
+Pawel Czerwinski
+on
+Unsplash

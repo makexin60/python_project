@@ -1,0 +1,432 @@
+Privacy Policy of Uniview Technologies
+Version: 1.4
+Last updated on October. 20, 2023
+Zhejiang Uniview Technologies Co., Ltd. (referred to as Uniview Technologies, Uniview, we, or us hereafter) with over 10 years of unlimited exploration, Uniview evolves from video   surveillance to AIoT, taking Big data, Cloud and IoT technology as the core: the   video surveillance product lines include IP cameras, NVR, Encoder, Decoder,   Storage, Client Software and app, the AIoT ranges from display, intelligent   access control to smart office and smart home.
+Uniview, consider ourselves   as a citizen of the world, endeavors to build a safer world based on   professionalism and reliability, move forward with fortitude, so as to achieve   innovation, prosperity and continuous progress.
+Uniview is committed to protecting your personal  information and privacy and maintaining your trust with us. We abide by the  following principles to protect your personal information:
+integrity, consent, clear purpose, restricted collection, minimum necessary,  transparency, balanced rights with responsibility, security, and privacy compliance.
+This privacy policy is intended to help you  understand: 1) your personal information that we collect; 2) how we collect  your personal information; 3) how we use your personal information; 4) how we  protect your personal information and your rights; 5) answers to your questions  and how to contact us.
+Understanding  these contents is essential for you to exercise your personal rights and  protect your personal information. Please read through this policy carefully  before you use or accept our products or services. Please be aware, this policy  is not applicable to situations where your personal information is collected by  other third parties.
+This policy contains the following sections:
+(1)  Definition of personal information
+(2) How we collect and use your personal  information
+(3)  Sharing, transfer and disclosure of personal information
+(4) Information storage and protection
+(5) Your rights
+(6) Third-party services
+(7) Auto-launch and launch third-party app
+(8) Privacy of minors
+(9) Contact us
+(10) Revisions to the privacy policy
+(1)	Definitions of personal information and non-personal information
+The  definition of personal information shall be defined by your local laws.
+Non-personal  information refers to data other than personal information that cannot be directly  linked to any specific individual, such as occupation, language, zip code, area  code, serial number, URL, and automatically recorded browse data, product and unique  product identifier of your mobile device, video contents without personal  information, country/region and time zone of the connected product, geographical  location, identifier of mobile network operator, device software platform, and  hardware information, etc.
+(2)	How we collect and use your personal information
+According to the Provisions on the Scope of Necessary Personal Information Required for Common Types of Mobile Internet Applications, the Uniarch app falls into the Practical tools category, the basic functional services are smart home assistant, and the necessary personal information required are account information, monitoring device information (such as device serial number, device IP, device port information, etc.).
+Sign up for a  Uniview (or Uniarch) account
+When you sign up for  a Uniview account, you need to provide your password, mobile phone number (or email  address if outside China), and verification code. The above information is  collected to meet the online real-name registration system requirements of relevant  laws and regulations in various regions. You can provide non-essential personal  information such as username according to your own needs.
+If you only need to  use the browsing service, you do not need to sign up for an account and provide  the above information.
+When you log in to our app for the first time
+, we will collect the following personal information of you and  take appropriate control measures:
+Information collected
+Control method
+Purpose
+Model  of your mobile phone
+For first-time use, a pop-up window will appear to notify you. When the  collection method, collection contents or collection purpose are changed, we  will notify you of the changes and ask for your permission.
+To determine the push service
+Operating system type and version of mobile phone
+Permission description
+When you use our app, we will need  you to authorize us certain permissions in your mobile phone. If you refuse  such permissions, you will be unable to use the relevant functions, but it will  not affect your normal use of other functions of the app. For information about  permissions that we ask for, refer to the table below. Please note that we ask for the permissions only when  you use the relevant functions. You can turn off the permissions at any time in  the system settings of your mobile phone. Once the permissions are turned off, we  will stop using these permissions.
+a. Sensitive Permissions
+Permission
+Application scenario
+Function
+ACCESS_FINE_LOCATION access    precise location
+Add Wi-Fi device; Initialize    JPush service
+Obtain Wi-Fi information to    connect device to network; network connection request from JPush server to    ensure stable and continuous JPush service
+CAMERA camera
+Read QR code to add device,    retrieve device password; face import function
+Use camera to read QR code to    obtain device information to add device or retrieve password; import face    information to device
+RECORD_AUDIO microphone
+Device audio intercom and doorbell intercom; access control device video call; set custom alarm sound
+Two-way audio between user and device; answer video call from access control devices; record custom alarm sound as an alarm-triggered action
+READ_EXTERNAL_STORAGE read    external storage
+Read QR code to add device,    retrieve device password; face import function
+Used to scan QR code in album to    add device or import face information into device
+WRITE_EXTERNAL_STORAGE write to    external storage
+Import snapshots or videos into    system album
+Download snapshots or videos to    system album
+b. Common Permissions
+Permission
+Application scenario
+Function
+ACCESS_NETWORK_STATE obtain    network status
+When app is running
+Used to obtain network status    information to improve video communication efficiency
+ACCESS_WIFI_STATE obtain Wi-Fi    information
+When app is running
+Used to obtain network status    information to improve video communication efficiency
+INTERNET connect to network
+When app is running
+For Internet connection using    SIM card
+CHANGE_NETWORK_STATE edit    network status
+When app is running
+Update device status after    network changes
+CHANGE_WIFI_STATE change Wi-Fi    status
+When app is running
+Update device status after    network changes
+RECEIVE_BOOT_COMPLETED automatic    startup at system boot
+When app is running
+Used for Android persistent    connection
+SYSTEM_ALERT_WINDOW display on    top of other apps
+When a dialog box opens
+Request for floating box    permission to pop up a dialog box in the system
+READ_PHONE_STATE read mobile    phone status and identity
+When using the push service
+User obtains mobile phone’s    device feature code information
+VIBRATE control device vibration
+When using the push service
+Used for vibration reminder when    the mobile phone receives a notification message from push service such as Mi    Push
+DISABLE_KEYGUARD allow app to    disable keyboard guard when it is not safe
+When on-screen keyboard is    opened
+Allow app to disable keyboard    lock
+WAKE_LOCK prevent mobile phone    from going into sleep status
+When video is playing
+Used for video playing to    prevent mobile phone screen from going to sleep
+FLASHLIGHT control flashlight
+When scanning QR code
+Control flashlight to scan QR    code to connect smart device in low-light environment
+MODIFY_AUDIO_SETTINGS change    audio settings
+Device audio intercom or    doorbell intercom
+Used for audio settings when    having two-way audio with device or doorbell
+BATTERY_STATS
+When app is running
+Used for data processing before    shutdown due to low battery
+MOUNT_UNMOUNT_FILESYSTEMS
+When saving or reading video    tutorial or configuration file
+Permission to read files in SD    card
+C2D_MESSAGE
+When initializing the push    service
+Used to receive notification    messages
+RECEIVE_USER_PRESENT
+When initializing the push    service
+Used to wake up the screen or    unblock radio when receiving alarm notifications
+DOWNLOAD_WITHOUT_NOTIFICATION
+Download upgrade file,    configuration file or tutorial video
+Used for file download
+com.coloros.mcs.permission.SEND_MCS_MESSAGE
+When initializing push service
+Used for message push service on    OPPO mobile phones
+com.heytap.mcs.permission.SEND_MCS_MESSAGE
+When initializing push service
+Used for message push service on    OPPO mobile phones
+com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE
+When initializing push service
+Used for message push service on    OPPO mobile phones
+com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE
+When initializing push service
+Used for message push service on    OPPO mobile phones
+USE_FULL_SCREEN_INTENT
+When initializing push service
+Full screen notification, click    doorbell notification in background
+PROCESS_PUSH_MSG
+When initializing push service
+Used for message push service on    Huawei mobile phones
+MIPUSH_RECEIVE
+When initializing push service
+Used for message push service on    Xiaomi mobile phones
+JPUSH_MESSAGE
+When initializing push service
+Used for the JPush message push    service
+BLUETOOTH connect to bluetooth device
+When app is running
+Used to connect to a paired Bluetooth device and achieve audio adaptation to the Bluetooth device
+BLUETOOTH_ADMIN discover and pair bluetooth device
+When app is running
+Used to discover and pair Bluetooth devices and provide audio to the Bluetooth devices
+SENSOR_SERVICE light sensor; accelerometer sensor
+1.When scanning QR code
+2.When using the shake function
+1.Used to prompt user to turn on flashlight when scanning QR code in low-light environment
+2.Used to obtain the shake status and open the advertising app
+NOTIFICATION_SERVICE notification service
+When using notification service
+Used to display or clear notifications in the bar
+WINDOW_SERVICE window service
+When obtaining window size
+Used to fit the window size in the app screen
+INPUT_METHOD_SERVICE soft keyboard
+When using soft keyboard
+Used to display soft keyboard when entering mobile phone number, username, password, etc.
+POWER_SERVICE power status
+When local video is playing
+Used to wake up the screen when local video is playing
+CLIPBOARD_SERVICE clipboard service
+When using attendance service
+Used to copy URL when exporting attendance reports
+Video information
+Required personal information,  non-essential personal information
+When you use our service to  save video related contents, such as video clips, live video streams, images  (user contents), message notifications, etc., we will collect video images  captured by your camera and push video images to you so you can save the  contents that you need. Such information is necessary  for the function. If you refuse to provide such information, you will not be  able to save the contents you need.
+Message push
+Required personal  information, non-essential personal information
+When you use the  message notification function, we need to collect the unique feature value of  your client (such as the unique value generated based on your device's IMEI or  UDID) and the language of your mobile phone. The purpose is to provide precise  alarm message notification in the language you prefer.
+Such information is  necessary for the function.
+If you  refuse to provide such information, you will not be able to use the alarm  subscription function, but it will not affect your normal use of other  functions.
+You can choose to turn off the  function and clear information about the unique feature value of your client.
+Sensitive  permissions invoked
+Off-site push  requires the push permission in your device.
+Third-party SDK used
+When you use the  push function, JPush needs to collect the above device information and mobile  phone language to realize the push function in your mobile phone (depending on  the device manufacturer, the SDK may integrate Huawei Push Kit, Mi Push, OPPO  Push, Vpush, and JPush).
+Device adding
+Required personal information,  non-essential personal information
+When you use device adding  functions, we may need to collect the serial number, register code, password, and  model of your device, and Wi-Fi information of your client. The purpose is to configure  network on your device and bind your device. Such  information is necessary for the function.
+If  you refuse to provide such information, you will not be able to add your  device.
+Sensitive  permissions invoked
+When you scan the QR  code to add a device, we need the permission to access your camera.
+Connecting device to cloud
+Required personal  information, non-essential personal information
+When you use our device  connection service,
+to ensure your normal  use of our service, we will collect information including the model, UDID, IP  address, MAC address, software version, network connection method and type,  latitude and longitude (if applicable), and operation records of your device.  Such information is necessary for the service.  If you refuse to provide such information, you may not be able to connect your  device to cloud.
+Live view
+Required personal information,  non-essential personal information
+When you use the live view  function, we will collect the serial number, IP address, port number, and video  stream information of your device in order to provide you with live streams of  your device. Such information is necessary for the  function. If you refuse to provide such information, you will not be  able to use the live view function, but it will not affect your normal use of  other functions.
+Information that you provide  proactively when using our service
+Required personal information,  non-essential personal information
+When you use analysis,  comparison functions and alarm service based on user benchmark information  (including face/human body recognition, license plate/vehicle recognition,  attendance management, fingerprint unlocking, if applicable to your device),  you need to enter the benchmark information such as
+face images, license plate information, attendance personnel  information, fingerprints
+into the system in advance. Such information is necessary for the service. If you  refuse to provide such information, you will not be able to use the relevant  analysis, comparison functions and alarm service, but it will not affect your  normal use of other functions.
+Device sharing
+Required personal  information, non-essential personal information
+When you use the device sharing  function, we need to collect certain information in order to implement the sharing,  including the device serial number, your nickname, and the usernames with which  you want to share the device. Such information is  necessary for the function. If you refuse to provide such information,  you will not be able to use the device sharing function, but it will not affect  your normal use of other functions. The sharing function is active only when  you use it; it is not permanently active.
+Customer service
+When you need our support and  contact us through email, telephone or our customer support tools,
+we need to collect information including  your name, phone number or email address, enterprise or organization, device  usage, device serial number, device account
+during
+the process of communication.
+The  purpose is to verify your product and identity and provide precise service  support. If you refuse to provide such information, we will not be able to provide  support services to you.
+In other possible scenarios, we  will also collect your personal information, including but not limited to:
+When you communicate with us with  telephone, we need to record the conversation as evidence of service and to  improve our service ability and quality, so as to continue to provide you with  high-quality after-sales service.
+In situations where you need to  sign a certificate to authorize remote access, we will collect your manual  signature or company seal.
+If you report a device  failure and need to return the device to us for inspection and repair, you need  to provide your receiving address. If the returned device contains your private  data, you need to back up the data and format the storage before returning the  device.
+When you enter the test/exhibition  area of our products, we may collect your images and/or videos, depending on  the products being tested/exhibited. The images and videos will be deleted at  the end of the test/exhibition; you can avoid collection of your images/videos  by leaving the test/exhibition area.
+In  order to offer better user experience and prevent misoperation, we will collect  industry-standard non-personal information (see the definition in Chapter 1).  Such information does not infringe on user privacy and user rights.
+If you have any concerns about the security and privacy settings of your mobile  device, please adjust the settings by referring to the documentation of your  mobile service provider or mobile device manufacturer. These actions include  but are not limited to:
+We may record adjustments that  you make to your product through the services that we provide, and we will  store the collected non-personal information with the information directly  collected by the product.
+When you use audio recording or  media streaming functions of our product, we may record and transmit videos  and/or audios from the product, with your permission. This may include taking snapshot  images and attaching part of snapshot images and analysis data to email notifications.
+(3)	Sharing, transfer and disclosure of personal information
+Sharing of information
+When  we provide you with certain services, we need to share your personal  information with authorized partners, carefully selected service providers, or  national regulatory agencies, only for legal, justified, necessary, specific,  and definitive purposes, and only share the information necessary for us to  provide services. The organization that shares your personal information has no  right to use the shared personal information for any other purposes irrelevant to  our products or services. For companies, organizations, and individuals with  whom we share personal information, we will sign strict data protection  agreements with them, demanding them to process personal information as per our  instructions, this privacy policy, and any other relevant confidentiality and  security measures.
+We need to share your mobile phone number with our  SMS service providers to complete account registration for you.
+We need to share your mobile phone information,  alarm information, etc. with mobile phone manufacturers in order to provide you  with the alarm push service
+.
+We need to share your device information and  account information with our cloud service provider in order to provide you  with the core video surveillance functions.
+You can share your videos, identity information,  etc. with specific people, and share your videos, location information,  identity information, etc. with unspecified people based on our products and/or  services. We bear no legal liability for serious situations such as leakage of  your information due to your sharing behavior
+.
+Transfer of information
+We will not transfer your personal information to any other companies, organizations or individuals, except in the following situations:
+After  obtaining your explicit consent.
+When  it involves merger, acquisition or bankruptcy liquidation, and if it involves  the transfer of your personal information, we will demand the new company or  organization that holds your personal information to continue to be bound by  this personal information protection policy; otherwise, we will demand the  company or organization to re-seek authorization and consent from you.
+Disclosure of information
+We will disclose your  personal information only under the following circumstances:
+After obtaining your explicit consent.
+Please understand, in accordance with applicable laws, we can disclose your personal information without your consent under the following circumstances:
+When it is directly related to criminal investigation, prosecution, trial, and verdict.
+When  it is necessary to safeguard significant legitimate rights such as life,  property of the personal information subject or other individuals but it is  difficult to obtain your consent.
+When  the personal information collected is disclosed to the public by yourself.
+When  the personal information is collected from information that has been disclosed  lawfully, such as from lawful news reports, government-disclosed information,  etc.
+When  it is necessary for signing a contract according to your requirements.
+When  it is necessary for maintaining the safe and stable operation of the provided products  or services, such as detecting and handling product or service failures.
+When  required by applicable laws and regulations and government orders of the  country where the business is operated, as well as legal procedures of law  enforcement agencies, regulatory agencies, and court of law, or other  applicable legal procedures and subpoenas.
+(4)	Storage and protection of personal information
+Storage of personal information
+Unless  otherwise explicitly permitted by law or by you, we will retain your personal  information only for the length of time required for the purposes bound by this  privacy policy. During the period that you use our products or receive our  services, we will continuously keep your personal information for you. If you  cancel your account or proactively delete your personal information, we will  delete or anonymize your personal information within 48 hours after receiving  your request, unless otherwise stated in law or agreement.
+The information that we collect from you may  be transferred to serves maintained outside your country (and, for individuals  located in the EU, outside of the European Economic Area)-including
+Singapore,  Frankfurt, Vietnam,
+and  USA
+.
+Security protection of personal information
+We are  committed to safeguarding your information security and have a dedicated team responsible  for the research, development and application of a variety of security  technologies and programs. We use data encryption and access control mechanisms  to establish internal control systems to ensure only the authorized personnel can  access your personal information, to publicize security and privacy protection  requirements to the related personnel, and to publicize protection measures  such as the information security protection system to all the staff. At the  same time, we have been granted information security management system  certification (ISO27001 international standard), and will regularly hire  independent third-party organizations to evaluate our information security  management system. Through these rigorous measures, we try our best to protect  your information from unauthorized access, use and disclosure. However, please  understand that in the Internet industry, due to the limits of current  technologies and all kinds of possible malicious attack methods, even if we do  everything that we can to strengthen our security measures, it is impossible to  guarantee 100% security of information. Please be aware, the systems and  communication networks that you use while using our products and/or services  may encounter security issues due to factors that are beyond our control.
+The  security of your personal information also depends on your cooperation with us  in security measures. We provide you with a username and password so you can  access our products, websites or services, and you are responsible for the  confidentiality of such information. We request that you do not share such  information with anyone, and we will also regularly review the technologies  that we use and the strategies used to implement information collection.
+We have established  dedicated management systems, procedures and organizations to safeguard  information security. We strictly limit the scope of people who have access to  the information, demand their compliance with confidentiality obligations, and  conduct audits regularly.
+In the event of a security  incident such as personal information leakage, we will initiate an emergency  plan to prevent the expansion of the security incident and promptly inform you  in the form of push notifications, announcements, etc.
+(5)	Your rights
+Access  your personal information. You can tap
+Me
+>
+My Profile photo or account
+to  access the personal information you provided.
+Correct  your personal information. You have the right to update your personal  information at any time. You can also correct your personal information after  finding the information collected and stored by us is incorrect. You can  correct or change your username, password, mobile phone number or email address  in My Profile by tapping Me > My Profile photo or account.
+Delete  your personal information. You can delete the personal information online by  yourself or contact us (security@uniview.com) to delete it for you. We will delete or  anonymize your personal information after the minimum retention period required  by the applicable laws and regulations.
+Revoke  authorization. You can disable permissions on your mobile phone as needed (including  access to your location, phone, album, camera, microphone, and notification).
+After you withdraw  consent or authorization, we may not be able to provide the related services,  but it does not affect us handling your personal information based on your  previous consent or authorization.
+Cancel  your account. You can tap
+Me
+>
+My Profile photo or accoun
+t to cancel your  account.
+After you cancel your  account, unless otherwise provided by laws and regulations, we will stop  providing services to you, keep your personal information for the length of  time stated in this agreement, and then anonymize your personal information.
+If  you cannot access, correct, delete your personal information, withdraw consent or  cancel your  account using the above ways, you can contact us by sending an e-mail to  service@uniview.com. We will respond within fifteen working days  after verifying your identity.
+(6)	Third-party services
+Our products and/or  services may be connected to or linked to websites or other services provided  by the third party, for example, when you use the share function to share some  of your information to third-party services. These functions may collect your  information (including your log information) in order to operate properly. We  will only share your information for legitimate, necessary, and specific  purposes. For third-party service providers with whom we share information, we  demand them to fulfill confidentiality obligations and take corresponding  security measures.
+In order to achieve the  purposes stated in this policy, we may connect SDK or other similar applications  provided by third-party service providers, and share with them certain  information about you that we collect in accordance with this policy, so as to  provide better customer service and user experience. At present, the  third-party service providers we connect include the following types:
+Used  for notification push function, including the push function provided by mobile  phone manufacturers.
+Used  for obtaining your device location, collecting device information and log  information with your consent.
+Used  for third-party authorization services to share relevant contents with  third-party products, etc.
+Used  for services related to account security, product reinforcement, including data  encryption, data decryption, etc.
+Such  third-party services are operated by the relevant third party; your using their  services or providing information to them are subject to the terms of  service/or privacy protection statements of the corresponding third party (not  this policy).
+For information about third-party  services that we are currently using, please refer to the table below.
+Third-party SDK
+Description
+JPush
+Operator: Shenzhen Hexun Huagu    Information Technology Co. Ltd.
+Function:    Push notifications
+Application    scenario: Provide notification push service. When you use the push service of the APP, Jpush SDK needs to use the auto-launch function so that you can receive messages (such as alarms) pushed by the app when it is closed or running in the background. At the certain frequency, the app will start automatically or start the third-party app after being wakened by the system.
+Scope    of collected personal information
+Device parameters and system information (device type, device model, system    version, and related hardware information), device identifiers (IMEI, IDFA,    Android ID, GID, MAC, OAID, VAID, AAID, IMSI, MEID, UAID, SN, ICCID, SIM    information), network information (IP address, Wi-Fi information, base    station information, DNS address, DNCP address, SSID, BSSID) and location information, app    list and active status information (application crash information,    notification switch status, app application list and active status, app    application page information, app function event related information), push information logs
+Purpose    of collecting personal information
+Device parameters and system information: used to identify user's device    type, device model, system version, etc., to ensure accurate message    delivery
+Device identifier: used to identify user uniquely and ensure accurate    delivery of push messages
+Network information and location information: used to improve network    connection requests from SDK to JPush server to ensure stable and continuous    service and realize the push function
+App list and active status information: used to save battery and data    traffic for user
+Required    sensitive permissions: storage, location
+Privacy    policy: https://www.jiguang.cn/license/privacy
+Bugly
+Operator: Shenzhen Tencent    Computer System Co., Ltd
+Function:    Collect program crash information
+Application    scenario: Collect application error information at runtime, and report to the    backend for analyzing and improving the application
+Scope of    collected personal information: Log information, device ID, networking    information, system name, system version, and country code
+Privacy    policy:    https://privacy.qq.com/document/priview/fbd2c3f898df4c1c869925dd49d57827
+Mi Push
+Operator: Xiaomi Corporation
+Function:    Push notifications
+Application    scenario: Push notifications via the MIUI system to Xiaomi phone users
+Scope    of collected personal information
+Device identifier (OAID, encrypted Android ID), application information    (application package name, version number and running status), device    information (device manufacturer, device model, device memory, operating    system version, Mi push SDK version, home area of device, SIM card operator    name, current network type), notification bar settings information, push  message content
+Purpose    of collecting personal information
+Device identification, application information: used to push message to    your device in a timely manner
+App information: Used to push and display messages according to your device    and system types
+Privacy    policy: https://dev.mi.com/console/doc/detail?pId=1822
+Huawei Push Kit
+Operator: Huawei Technologies    Co., Ltd.
+Function:    Push notifications
+Application    scenario: Push notifications via the EMUI system to Huawei phone users
+Scope of    collected personal information
+Application information (AppID, SDK version number, application version    number and application package name), in-app device identifier (AADI, Push    Token), device information (device type, device model, system type, system    version, country code) , mobile network information, log information
+Purpose    of collecting personal information
+Used to support push messages and count the success rate of calling Huawei    Push SDK APIs
+Privacy    policy:    https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides/sdk-data-security-0000001050042177
+OPPO PUSH
+Operator: Guangdong HeyTap    Technologies Co., Ltd
+Function:    Push notifications
+Application    scenario: Push notifications via the OPPO system to OPPO phone users
+Scope    of collected personal information
+Device information (IMEI or OAID, serial number, IMSI, user ID, Android ID,    Google Advertising ID, region settings, device model, battery level,    operating system version and language), application information (app package    name and version number, running status), push SDK version number, network    information (IP or domain name connection result, current network type),    message sending result, notification bar status, lock screen status
+Purpose    of collecting personal information
+Push messages that meet technical standards according to your system,    device, application information, etc. to your device terminals in a timely    manner
+Privacy    policy: https://open.oppomobile.com/wiki/doc#id=10288
+Vpush
+Operator: Guangdong Tianchen    Technologies Co., Ltd
+Function:    Push notifications
+Application    scenario: Push notifications via the vivo system to Vivo phone users
+Scope    of collected personal information
+Device and app information (operating system version number, app    installation list, language in use, system settings), device identifier (such    as IMEI, ICCID, EMMCID/UFSID, oaid/vaid/aaid, SN code and IMSI, Android id,    mobile country code and mobile network ID of vivo Android devices, etc.), MAC    address, mobile network operator, log information, and location    information
+Purpose    of collecting personal information
+Push messages to your device terminal in a timely manner
+Privacy    policy: https://www.vivo.com.cn/about-vivo/privacy-policy
+Baidu Speech    Synthesis
+Operator: Beijing Baidu Netcom    Science Technology Co., Ltd.
+Function:    Text-to-speech conversion
+Application    scenario: Custom alarm sound for device
+Scope of    collected personal information: network status, Wi-Fi status, device model, operating system, permission to  read/write external storage.
+Privacy    policy: https://ai.baidu.com/ai-doc/REFERENCE/Jkdyl0v3v
+Adxdata
+Operator: Beijing Meishu Information Technology Co., Ltd.
+Function: Precise advertising targeting, advertisement efficiency optimization, regional differentiation, suspicious traffic analysis.
+Application scenario: When displaying ads to users
+Sharing method: SDK native collection and terminal transmission through SDK interface
+Scope    of collected personal information
+Developer information (application name, package name, version), device information (IDFA, IMEI, OAID, AndroidID, GPS coordinates), advertising information (ad impressions, clicks, video playback, downloads, DeepLink calls), IP address, User-Agent data, MAC address, accelerometer, SSID, BSSID, device information (device manufacturer, device model, operating system version, screen resolution, screen orientation, screen DPI, battery level, network type), permissions (storage permission)
+Privacy policy: https://wwww.atdplus.cn/html/sdk-privacy-agreement/%E7%BE%8E%E6%95%B0SDK%E7%94%A8%E6%88%B7%E9%9A%90%E7%A7%81%E6%94%BF%E7%AD%96.html
+chuanshanjia
+Operator: Beijing Ocean Engine Network Technology Co., Ltd.
+Function: Ad placement and ad monitoring attribution, anti-fraud, statistical analysis, minimizing App crashes, and providing reliable and stable service
+Application scenario: When displaying advertisements to users
+Permission access: Microphone
+Sharing method: SDK native collection
+Scope    of collected personal information
+Device information (device brand, model, software system version, screen density, resolution, device language, device time zone, SIM card information, CPU information, available memory space and other basic information, Android: Android ID, OAID; iOS: mobile system reboot time, total disk space, total system memory space, IDFV; wireless SSID name; Wi-Fi router MAC address (BSSID), device MAC address (for iOS, only applicable to versions below iOS 3200); device identifiers (Android: such as IMEI, IMSI, ICCID, GAID (GMS service only), MEID, device serial number (build_serial); iOS: such as IDFA;  the specific fields may vary from the software/firmware version)), network information (IP address, carrier information, Wi-Fi status, network signal strength), app information (Android: app package name, running process information, version number, app foreground/background status, software list information), sensor information (Android: acceleration sensor, gyroscope sensor, linear acceleration sensor, magnetic field sensor, rotation vector sensor; iOS: acceleration sensor, gyroscope sensor), ad information (interactive data such as display, click and conversion of ads), location information (precise location information, approximate location information), performance data (crash data, performance data), other information (carrier information, device time zone, SIM card information)
+Privacy policy:  https://www.csjplatform.com/privacy
+Kuaishou
+Operator: Beijing Kuaishou Technology Co., Ltd.
+Function: Advertising placement, advertising attribution, anti-fraud, security, advertising interaction
+Application scenario: When displaying ads to users
+Sharing method: SDK native collection and terminal transmission through SDK interface
+Scope    of collected personal information
+Device basic information (device brand, device model, software system version, storage information, carrier information, device time zone, device language, network information), device identification (IDFA, IDFV), location information (IP address, MAC address, GPS location information, base station information, WIFI information), application installation list, sensor information, SIM card activation information
+Privacy policy: https://u.kuaishou.com/home/help/detail/1337/1400/1406
+Baidu
+Operator: Baidu, Inc.
+Function: Ad placement, ad attribution, anti-fraud, product improvement
+Application scenario: When displaying ads to users
+Sharing method: SDK native collection
+Scope    of collected personal information
+Device information (device brand, device manufacturer, device model, software system version, resolution, screen width and height, screen pixel density, system version number, mobile carrier, mobile network status, network signal strength, sensor information, total disk space, total system memory space, available storage space, phone reboot information, phone system update time), device identifier (IDFA), developer application information (application package name, application foreground/background state), location information, log information (click record)
+Privacy policy: https://union.baidu.com/bqt/#/legal/policies
+Youlianghui
+Operator: Shenzhen Tencent Computer Systems Co., Ltd.
+Function: Advertising placement, advertising attribution, advertising monitoring, anti-fraud, statistical analysis, reducing app crashes, and providing reliable and stable services
+Application scenario: When displaying ads to users
+Sharing method: SDK native collection
+Scope    of collected personal information
+Location information, device information (device manufacturer, brand, device model, operating system version, screen resolution, screen orientation, screen DPI, IP address, time zone, network type, carrier, device name, system start-up time, system language, disk space, device posture, pressure sensor), device identifier (IMEI, IDFV, IDFA, android_id), application information (package name of the host application, version number, application installation information), product interaction data, advertising data (exposure, click, conversion advertising data), diagnostic data (crash data, performance data)
+Privacy policy: https://qzs.gdtimg.com/union/res/union_cdn/page/dev_rules/ylh_sdk_privacy_statement.html
+CAICT (China Academy of Information and Communications Technology)
+Operator: China Academy of Information and Communications Technology
+Function: Provide device identification
+Application scenario: Provide device identification when the application starts
+Scope    of collected personal information
+Network information and device identification code, app package name and signature information
+Privacy policy: http://www.msa-alliance.cn/col.jsp?id=122
+WeChat Open Platform
+Operator: Shenzhen Tencent Computer System Co., Ltd.
+Function: Help user use WeChat Pay in the app
+Application scenario: Purchase services provided in the app
+Scope of collected personal information
+Device identification code (IDFV, OAID, IMEI,  MEID, IMSI, device MAC), hardware device model, terminal operating system type,  software installation information, software version information being used,  software language setting information, internet protocol address (IP address),  mobile network information (such as Wi-Fi information), device location  information, current region, network logs
+Privacy policy: https://support.weixin.qq.com/cgi-bin/mmsupportacctnodeweb-bin/pages/ONwPihxKd82RAkIJ
+Agora RTC SDK
+Operator: Shanghai Zhaoyan Network Technology Co., Ltd
+Function: Real-time audio and video service
+Application scenario: When playing audio and video
+Permission access: (Optional) Microphone permission, camera permission, bluetooth permission
+Sharing method: SDK native collection
+Scope of collected personal information
+Device brand, model, operation system, CPU information, memory utilization, battery information, screen resolution, IP address, network access methods and types, use ID in channel, sensor information (orientation sensor)
+Purpose of collected personal information: 
+Test access and connectivity of audio, video, network, etc., provide compatibility and troubleshooting for different devices, provide screen adaptation
+Privacy policy：
+https://www.agora.io/en/privacy-policy/
+Agora RTM SDK
+Operator: Shanghai Zhaoyan Network Technology Co., Ltd
+Function: Provide real-time messaging
+Application scenario: When signaling transmitting audio and video
+Sharing method: SDK native collection
+Scope of collected personal information
+Device brand, model, operation system, memory utilization, IP address, network access method and type, user ID in channel
+Purpose of collected personal information: Test access and connectivity of audio, video, network, etc., provide compatibility and troubleshooting for different devices
+Privacy policy：
+https://www.agora.io/en/privacy-policy/
+(7)	Auto-launch and launch third-party app
+The app needs to use the auto-launch function so that you can receive messages (such as alarms) pushed by the app when it is closed or running in the background. At the certain frequency, the app will start automatically or start the third-party app after being wakened by the system.
+When you tap an alarm pushed by the app, it will open the app to show alarm details. If you disagree, you will not be able to use this function, but it will not affect your normal use of other functions.
+(8)	Privacy of minors
+We do  not provide any of our services to minors under 14 years of age (or equivalent  minimum age set by the relevant jurisdiction). If we find any account  associated with or registered by a minor under 14 years of age (or equivalent  minimum age set by the relevant jurisdiction), we will immediately delete the  relevant account information. If we find that we have collected personal  information of minors without prior verifiable parental consent, we will try to  delete the relevant data as soon as possible.
+If  you are the parent or guardian of a minor under the age of 14 (or equivalent  minimum age set by the relevant jurisdiction), and you believe that your minor  has disclosed her/his personal information to us, please contact us immediately  through your local Uniview service phone number or e-mail address. Parents or  guardians of minors who are under 14 years of age (or equivalent minimum age  set by the relevant jurisdiction) can check and ask us delete the minor's  personal information and prohibit us from using it. In cases where we collect  personal information of minors with the consent of the parents/guardians, we  will only use or publicly disclose the information when permitted by law,  expressly allowed by the parents or guardians, or when necessary to protect the  minors.
+(9)	Contact us
+We have set up a  dedicated department to protect your personal information.  If you have any questions, comments or suggestions regarding this privacy  policy or your personal information, please contact us via the following  methods:
+Email:
+service@uniview.com
+Mailing  address: No. 369, Xietong Road, Xixing Sub-district, Binjiang District, Hangzhou City, 310051, Zhejiang Province, China
+We  will process your inquiry or request within fifteen working days after  verifying your identity.
+(10)	Revisions to privacy policy
+This privacy policy is  subject to revisions from time to time, and such revisions shall constitute a part  of this privacy policy. When the terms of this policy are changed, we will show  you the changed policy in the form of push notifications and pop-up windows  when you log in and upgrade the version. Please note that we will collect, use  and store your personal information according to the updated policy only after you  click the Agree button in the pop-up window.

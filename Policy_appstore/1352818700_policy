@@ -1,0 +1,11 @@
+Work
+About
+Menu
+TheParallaxView Privacy Policy
+TheParallaxView uses the device's TrueDepth camera system to track the movement of your eyes in order to present a 3D depth illusion on the screen. For this to work, the app requires access to your device's camera. This access can be toggled on or off at any time in your device's settings.
+The camera images and depth data are only used for determining the correct view to render. Camera access is required to get depth data from Apple's API's. The only depth data collected is related to the movement of your head and to what extent the eyes are open.
+The live video feed can be viewed in the "Device" camera mode in order to calibrate the eye tracking.
+This data is stored on the device only for the duration of a single rendered frame (about 1/60th of a second). When the frame is rendered, the data is discarded.
+Face data is never stored remotely, given to third parties, or used for any purpose outside finding the correct view to render. The face data only remains on your device, and never leaves your device at any time.
+If you have any questions, contact me at: peder (dot) norrby (at) gmail (dot) com
+Thanks for using TheParallaxView!

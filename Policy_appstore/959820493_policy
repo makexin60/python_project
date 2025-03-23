@@ -1,0 +1,29 @@
+Mobile VR Station
+iOS
+The application as written does not transmits any unauthorized user information to a 3rd party server.
+It can collect user information that is required for accessing 3rd party services, such as credential tokens for Google Drive or Dropbox.  All credential tokens are stored on the device.  The credential tokens are simply a method used by a 3rd party to authenticate the App to their service without needing a username and password.
+There is a special case where it can communicate with our server, but it does not transmits any user data, except for a token that was provided to the app via a user action.
+Apple will collect information about the app’s usage and share those with us as general stats and crash information, but only if you have enabled sharing data with developers.
+Google Drive Access
+:  We will use your data to provide you with the services you requested, such as listing, streaming and downloading media files.  The only thing we store on device is the tokens needed to authenticate, no other user data will be saved or transferred to 3rd party services.  No data will be sold to a 3rd party.  Since all data is stored locally in order to remove your access to your Google Drive, delete the app or de-authenticate access via the menu link.
+Android
+The application as written does not transmits any user information to a 3rd party server.  To clarify the app will actually communicate with 3rd party services, but only on the behalf of the user, not the app.  So for example when you need to access Google Drive/Dropbox content, the app will issue commands and communicate with APIs to grab data that you asked for.
+There is no Central application controlled by the Developer that receives data from the App.  This website does exit, but the app is not reaching out to make connections, it doesn’t care.  Now there are platform services that are not controlled via the App that are collecting information and meta data.  As a user you typically have ways to opt out of collecting metadata that would be shared with the developer.
+It can collect user information that is required for accessing 3rd party services, such as credential tokens for Google Drive.  All credential tokens are stored on the device.  The credential tokens are simply a method used by a 3rd party to authenticate the App to their service without needing a username and password.
+We use Crashlytics for crash reporting.  If the app crashes a report will be sent to Crashlytics for further investigation.  The reports are enough for us to identify the problem, but not know the details of what you were actual doing.  As of 2022.8.3 Firebase has been removed from the App.
+Google Drive Access
+:  We will use your data to provide you with the services you requested, such as listing, streaming and downloading media files.  The only thing we store on device is the tokens needed to authenticate, no other user data will be saved or transferred to 3rd party services.  No data will be sold to a 3rd party.  Since all data is stored locally in order to remove your access to your Google Drive, delete the app or de-authenticate access via the menu link.
+Oculus
+This is a offline app that can connect to local and remote resources in order to play and transfer media.  There are no social integrations, it is just you, your content and having a good time by yourself.
+The App does not have a central website that is processing user data.  This website does exit, but the app is not reaching out to make connections, it doesn’t care.
+The App will communicate with Oculus servers via an API to check/verify in-app purchases.
+If you are authenticating to a FTP or SAMBA instance, it will send the credentials your provided to the server you listed for login purposes.
+Limited Media Server
+The App can connect to a
+Limited Media Server
+instance, which is only available on your local network.  At the moment if you access a page from a book, it will be logged to the server to maintain a view history.  The server, if available, will not share these details with any 3rd party.  The server is also open source, so you can view how it’s stored here by looking at the
+push_progress
+method:
+https://github.com/mgatelabs/LimitedMediaServer/blob/main/volume_routes.py
+Like
+Loading...

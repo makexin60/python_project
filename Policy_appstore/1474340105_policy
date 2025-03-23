@@ -1,0 +1,63 @@
+Last Changes to Privacy Policy: 02/20/2023
+Data We Don’t Collect
+Screen Time
+Data We
+Collect and Use
+Health & Fitness
+Location
+Usage Data
+Diagnostics
+Access to Data
+Cookies and Tracking Technologies
+Retention of Data
+Updates to Privacy Policy
+Contact Us
+Miidii Tech ("us", "we", or "our") operates the OffScreen application ("this app" or "application").
+Thank you for using OffScreen! This privacy policy describes how we collect, use, and share your personal information when you use our application. By using this app, you agree to the collection and use of information in accordance with this policy.
+Data We Don’t Collect
+Screen Time
+OffScreen uses Apple’s Screen Time API to allow users to block apps. OffScreen presents a list of apps installed on your device and lets you choose which ones to block. Please note that the data OffScreen uses is encrypted, and we do not store any data related to it.
+You can learn more about this on Apple's official documentation page:
+https://developer.apple.com/documentation/deviceactivity
+.
+Data We
+Collect and Use
+Health & Fitness
+OffScreen uses Apple’s HealthKit API to read and/or write certain data on your device (the “Health Data”). Your data from HealthKit will only be used to provide health, motion or fitness services in connection with the Offscreen App, and will not be used for marketing, advertising, or data mining purposes, including by third parties.
+Specifically, OffScreen will collect and use the following types of health data from HealthKit:
+Read and write
+Sleep
+data: OffScreen will use your screen usage data to calculate your sleep time and present it in a chart within the app. If you have other apps that provide more accurate sleep data, you may choose to use them as the data source within OffScreen.
+Write
+Mindfulness
+data: When you complete a focus session within OffScreen, you may choose to sync that session data to the mindfulness section of the Apple Health app.
+Read
+Motion and Fitness
+data: OffScreen will use motion and fitness to determine if you are using your device while in motion. In certain circumstances, we may send notifications to remind you to put down your phone.
+OffScreen will only access your data from HealthKit locally, and will not store or cache your data within the app. Your data from HealthKit is processed locally and will not be sent to any servers.
+We will not access your data in Apple Health without your explicit consent. You have the option to revoke our access at any time within the Apple Health app.
+Location
+OffScreen uses Location APIs to access location data on your device (the “Location Data”). Your data from Location APIs will only be used to provide location services in connection with the Offscreen App, and will not be used for marketing, advertising, or use-based data mining purposes, including by third parties.
+We use the location data to determine whether you are using your screen while moving and send notifications to encourage you to put down your phone in certain circumstances.
+Your data will not be stored or cached by the app. It is processed locally and will not be sent to any server.
+We will not read from the Location API without your explicit consent, and you have the option to revoke our access at any time within the System Settings app.
+Usage Data
+OffScreen collect usage data that is not linked to you to help us enhance and improve our service. The data we collect gives us a high-level overview of what features our users use and enjoy interacting with, it is only used to study and improve the overall performance of OffScreen, and will not be used for marketing, advertising, or data mining purposes, including by third parties.
+Diagnostics
+OffScreen collect diagnostic data that is not linked to you to allow us quickly identify and fix issues. The diagnostic data we collect will only be used to fix bugs and enhance our service, and will not be used for marketing, advertising, or data mining purposes, including by third parties.
+Access to Data
+Users can delete data on their device in OffScreen - Settings - Data section.
+Users can delete data in CloudKit in OffScreen - Settings - Data section or in System Settings manage their cloud data.
+Cookies and Tracking Technologies
+We do not use cookies or other tracking technologies.
+Retention of Data
+When users delete their data on their device, they can restore data from iCloud.
+When users delete data on iCloud, there is no way to restore their data.
+Updates to Privacy Policy
+We reserve the right to update this privacy policy at any time. We will notify you of any changes by posting the new privacy policy on this page.
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+We will not change this agreement to allow the collection of your personal information or make other significant changes without your consent.
+Contact Us
+If you have any questions or concerns about our privacy policy, please contact us at
+feedback@md.studio
+.

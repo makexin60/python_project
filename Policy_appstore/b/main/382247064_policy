@@ -1,0 +1,527 @@
+SwiftUI中的NavigationStack是iOS 16引入基于数据类型驱动的导航视图。通过将数据类型与视图关联起来，提供了类型安全的使用方式。本文并非介绍NavigationStack基本使用的文章，故这里就不多做介绍了。
+在实际应用中，通过编码的方式维护导航视图栈是非常常见的行为，比如：打开不同的视图；退出部分视图等。虽然在官方的NavigationStack示例中，也提供了维护导航视图路径的方法，但仅能支持一些简单的场景。另外，在使用上也存在一些局限性。整体的可操作性与UIKit中的UINavigationController有些差距。
+下面先来看看示例文档中路径绑定的例子。
+NavigationStack的路径绑定方法
+当需要维护多个视图界面时，通过在初始化方法中传入绑定path的数组，然后通过对数组的操作来完成视图的导航，比如：给数组插入元素或者删除元素，即完成界面的打开和退出。
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+@State
+private
+var
+presentedParks: [
+Park
+]
+=
+[]
+NavigationStack
+(path:
+$presentedParks
+) {
+List
+(parks) { park
+in
+NavigationLink
+(park.name, value: park)
+}
+.navigationDestination(for:
+Park
+.
+self
+) { park
+in
+ParkDetails
+(park: park)
+}
+}
+这个示例中的问题是只能支持打开相同的界面，因为绑定的数组容器元素是一个具体的类型。
+为了解决这个问题，需要使用到类型无关的列表容器NavigationPath，初始化path参数也支持传入绑定NavigationPath。
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+@State
+private
+var
+presentedPaths
+=
+NavigationPath
+()
+NavigationStack
+(path:
+$presentedPaths
+) {
+List
+{
+ForEach
+(parks) { park
+in
+NavigationLink
+(park.name, value: park)
+}
+ForEach
+(zoos) { zoo
+in
+NavigationLink
+(zoo.name, value: zoo)
+}
+}
+.navigationDestination(for:
+Park
+.
+self
+) { park
+in
+ParkDetails
+(park: park)
+}
+.navigationDestination(for:
+Zoo
+.
+self
+) { zoo
+in
+ZooDetails
+(park: zoo)
+}
+}
+NavigationPath也支持简单的数据添加和删除元素的等操作。
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+/// Appends a new value to the end of this path.
+public
+mutating
+func
+append
+<
+V
+>(
+_
+value
+:
+V
+)
+where
+V
+:
+Hashable
+/// Appends a new codable value to the end of this path.
+public
+mutating
+func
+append
+<
+V
+>(
+_
+value
+:
+V
+)
+where
+V
+:
+Decodable
+,
+V
+:
+Encodable
+,
+V
+:
+Hashable
+/// Removes values from the end of this path.
+///
+/// - Parameters:
+///   - k: The number of values to remove. The default value is `1`.
+///
+/// - Precondition: The input parameter `k` must be greater than or equal
+///   to zero, and must be less than or equal to the number of elements in
+///   the path.
+public
+mutating
+func
+removeLast
+(
+_
+k
+:
+Int
+=
+1
+)
+日常使用中的问题
+虽然上述2种方法提供了维护视图栈的方法，但在实际使用过程中还是会有一些小问题：
+总是需要创建一个类型来关联视图。比如：某些静态界面或者本来就不需要传入参数的视图。
+类型与单个视图绑定。比如：多个视图接收相同的模型参数。
+在视图中无法直接获取绑定的导航数据列表容器。
+NavigationPath中提供的容器操纵方法不够。
+基于枚举的路径绑定
+Swift中的枚举非常强大，跟Objective-C和C中的完全不是一种东西。甚至可以说如果不会使用枚举，就根本不了解Swift。这篇文章非常建议阅读：
+Swift 最佳实践之 Enum
+。
+首先，我们通过枚举来表示应用中的视图类型，结合嵌套的枚举来表示子级的视图类型。另外，通过关联值来传递子视图或视图的入参。
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+enum
+AppViewRouter
+:
+Hashable
+{
+enum
+Category
+:
+Hashable
+{
+case
+list
+case
+detail(
+Int
+)
+}
+case
+profile
+case
+category(
+Category
+)
+var
+title:
+String
+{
+switch
+self
+{
+case
+.profile:
+return
+"Profile"
+case
+.category(
+let
+category):
+switch
+category {
+case
+.list:
+return
+"Category List"
+case
+.detail(
+let
+id):
+return
+"Category Detail:
+\(id)
+"
+}
+}
+}
+}
+在NavigationStack的初始化方法中，通过包含视图枚举的数组来进行绑定。在一个navigationDestination中通过不同的枚举来完成对不同的视图创建，通过编译器，也可以帮助我们不会遗漏没有处理的视图。
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+struct
+ContentView
+:
+View
+{
+@State
+private
+var
+presentedRouters: [
+AppViewRouter
+]
+=
+[]
+var
+body:
+some
+View
+{
+NavigationStack
+(path:
+$presentedRouters
+) {
+LinkView
+(title:
+"Home"
+)
+.navigationBarTitleDisplayMode(.inline)
+.navigationDestination(for:
+AppViewRouter
+.
+self
+) { park
+in
+switch
+park {
+case
+.profile:
+LinkView
+(title: park.title)
+case
+.category(
+let
+category):
+switch
+category {
+case
+.list:
+LinkView
+(title: park.title)
+case
+.detail(
+let
+id):
+LinkView
+(title: park.title)
+}
+}
+}
+}
+.environment(\.myNavigationPath,
+$presentedRouters
+)
+}
+}
+为了能够在子视图中操作当前的导航栈，我们创建了一个环境Binding值，将当前的绑定的枚举数组注入到环境中。
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+private
+struct
+MyNavigationPathKey
+:
+EnvironmentKey
+{
+static
+let
+defaultValue:
+Binding
+<[
+AppViewRouter
+]>
+=
+.constant([
+AppViewRouter
+]())
+}
+extension
+EnvironmentValues
+{
+var
+myNavigationPath:
+Binding
+<[
+AppViewRouter
+]> {
+get
+{
+self
+[
+MyNavigationPathKey
+.
+self
+] }
+set
+{
+self
+[
+MyNavigationPathKey
+.
+self
+]
+=
+newValue }
+}
+}
+在LinkView中，我们获取绑定路径的环境Binding值，通过对路径数据的添加或删除操作，以实现导航栈的控制。当然，也可以使用NavigationLink继续打开新的视图，以一种类型安全并且带有层级结构的方式。
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+struct
+LinkView
+:
+View
+{
+let
+title:
+String
+@Environment
+(\.myNavigationPath)
+var
+customValue
+var
+body:
+some
+View
+{
+VStack
+(alignment: .leading, spacing:
+20
+) {
+NavigationLink
+(
+"Go Profile"
+, value:
+AppViewRouter
+.profile)
+NavigationLink
+(
+"Go Category List"
+, value:
+AppViewRouter
+.category(.list))
+Button
+(
+"Go Category Detail"
+) {
+customValue.wrappedValue.append(
+AppViewRouter
+.category(.detail(
+999
+)))
+}
+Button
+(
+"Back"
+) {
+if
+!
+customValue.wrappedValue.isEmpty {
+customValue.wrappedValue.removeLast()
+}
+}
+Button
+(
+"Back to Root"
+) {
+customValue.wrappedValue.removeAll()
+}
+}
+.padding()
+.navigationTitle(title)
+}
+}
+总结
+通过上述的例子我们可以看到，使用枚举来定义应用的视图层级是一种非常的好的方式，而关联值也很好的解决了视图的入参问题。将绑定的视图数组注入到环境中，也能让子视图方便的控制整个界面的导航。
+整个过程不需要涉及新的内容，都是一些在SwiftUI开发中的常见的部分。但在使用体验上要比之前好得多。
+完整Demo地址：
+Github地址

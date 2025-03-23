@@ -1,0 +1,76 @@
+Effective Date: January 6, 2021
+SCOPE
+Unlike the majority of competing products, our Privacy Policy for myTifi is brief and transparent.
+This Privacy Policy applies to our mobile iOS application
+myTifi
+(our “Service”) for version 8.26.0 and above.
+For older versions, please read the
+deprecated Policy
+.
+Please do not install or use myTifi if you do not agree to this Privacy Policy.
+0. APP STORE PRIVACY OVERVIEW
+Based on this Privacy Policy, the App Store page for the Service shows:
+This applies to the Standard version (that serves up advertisements) only.
+Whenever you purchase the Premium or Ad-free version, the advertisement feature is disabled
+completely
+. Data linked to you is no longer collected, nor does this version track you. This makes myTifi the most privacy-aware paid remote control app in the App Store. We only collect anonymous diagnostic data to improve the Service:
+1. DATA THAT WE COLLECT
+i) The Service uses
+Firebase Crashlytics
+for the diagnostics purpose as described in article 2:
+Personal Data collected:
+– Crashlytics Installation UUIDs
+– Crash traces
+– Breakpad minidump formatted data (NDK crashes only)
+Refer to
+Examples of stored device information
+for more detail on the types of user information gathered.
+Retention: Firebase Crashlytics retains crash stack traces, extracted minidump data, and associated identifiers (including Crashlytics Installation UUIDs) for 90 days.
+The data is collected under the Firebase account of iMKapps and is retrievable via the Firebase Portal. Access to this portal is restricted to 1 employee of iMKapps.
+Note that Crashlytics is a different product from Firebase than Analytics. The Firebase Analytics SDK is
+not
+integrated in the Service and
+explicitly disabled
+in the Service by setting FIREBASE_ANALYTICS_COLLECTION_DEACTIVATED to YES.
+ii) The Service uses
+AdMob
+and
+MoPub
+* for the advertisement purpose as described in article 2. iMKapps has no access to the collected data.
+* MoPub has been removed since version 8.35.0.
+2. USE OF INFORMATION
+We use the information we collect to:
+– Improve the quality of the Service by understanding the root causes of app crashes and preventing them by releasing app updates.
+– Serve up advertisements (Standard version only).
+3. SHARING OF PERSONAL INFORMATION
+With the exception of data collection by the parties listed in article 1, we will not sell, trade, or rent users’ personally identifiable information to others.
+We may share your information with Law Enforcement, if required to do so by aplicable laws.
+4. AD SERVING TECHNOLOGY
+The Service does contain ad serving technologies from the parties as described in article 1. The collected data may be used and disclosed in accordance with this Privacy Policy and the privacy policy of the company/companies providing the ad serving technology.
+The Service may display behaviourally targeted advertising to you. If you wish to “opt out” of certain targeted advertising, please visit:
+http://www.youradchoices.com
+and/or
+https://www.networkadvertising.org
+For mobile applications, change the Privacy settings of your mobile operating system accordingly. Please note that the links above may not reach all of the Service advertising partners and certain behaviourally targeted advertising may still be displayed to you. If you want to be certain that no behaviourally targeted advertisements are displayed to you, either please do not use or access the Service, or else upgrade to the Premium or Ad-free version.
+Additionally please note that if you “opt out” it does not mean that you will no longer receive advertising. It just means that the advertising you see displayed will not be customized to you and your interests and may be less relevant to you.
+Whenever you purchase the Premium or Ad-free version, the ad serving technology is disabled
+completely
+. Data linked to you is no longer collected, nor does this version track you.
+5. SAFEGUARDS
+iMKapps follows generally-accepted industry standards and maintains reasonable safeguards to attempt to ensure the security, integrity and privacy of the information in iMKapps’ possession.
+To keep personal data safe,
+Firebase employs extensive security measures
+to minimize access:
+– Firebase services encrypt data in transit using HTTPS and logically isolate customer data.
+– Firebase restricts access to a select employees who have a business purpose to access personal data.
+– Firebase logs employee access to systems that contain personal data.
+– Firebase only permits access to personal data by employees who sign in with Google Sign-In and 2-factor authentication.
+6. OTHER
+Any translation of this document into languages other than English is intended solely as a convenience to the non-English-reading public. The official text is the English text and any differences in the translation are not binding and have no legal effect.
+7. CHANGES
+We will periodically update this Privacy Policy to reflect changes in our information practices. Please check back regularly, as your continued use of the Service indicates your acceptance of any changes to this Policy.
+8. FURTHER INFORMATION
+This Privacy Policy is governed by Dutch law excluding its choice of law provisions.
+If you have any questions about this Privacy Policy, please contact us via email at
+support@imkapps.com
+.

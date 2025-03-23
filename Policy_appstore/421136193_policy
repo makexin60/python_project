@@ -1,0 +1,123 @@
+Just Sudoku - Privacy Policy
+The following gives an overview of what personal information we collect, when you use our app. Personal information is any type of data, which can be used to identify you personally, for example user activity.
+Responsible party
+The responsible party according to Art. 4(7) General Data Protection Regulation (GDPR) is:
+Keitgen GmbH
+Joseph Keitgen, CEO
+Goldguldenweg 11
+53489 Sinzig
+support@keitgen.de
+Our app's legal notice (required by German law) can be found here:
+https://keitgen.de/impressum
+Information about the data collected
+Certain information gets collected automatically as soon as you use this app. The following gives you an overview of what type of information is being collected.
+When downloading the app
+When you download the app from the App Store (i.e. Apple AppStore) your user data is transmitted to the store to validate your purchase. This data can include but is not limited to your e-mail address, your payment information, details to the device used to make the purchase. This data gets exclusively collected and processed on the servers of the respective App Store and we have no control over this data, nor can we view it.
+While using the app
+While using the app certain details about your usage will be collected. This can include: your operating system version (i.e. iOS), the specific time of your usage, the app version, the default language of your device. Furthermore we collect data about how you use the app. This can include: statistics (i.e. number of games played, number of hints needed), preferred settings.
+This information gets transferred to us so that we can a) offer you the function of the app b) improve the functionality of the app c) to prevent misuse and discover errors.
+We use TelemetryDeck to collect anonymized usage data. This helps us understand how our users are using our app and how we can improve it. TelemetryDeck does not collect any personally identifiable information. You can read more about TelemetryDeck’s privacy policy at
+https://telemetrydeck.com/privacy
+We deem the processing to be lawful to uphold the existing usage contract you implicitly agreed to by downloading the app (Art. 6(1b) GDPR). Furthermore we deem the processing to be lawful to pursue our interest in offering a working, error-free app, with the goal to constantly improve our offering (Art. 6(1f) GDPR) which (especially through the anonymization of the data) out-weighs the privacy interests of the user.
+While viewing advertisement
+This app uses Google AdMob, a service for including advertisement from Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland.
+Google collects personal data which is stored on their servers in the USA. Among the data collected is: Online identifiers (including cookie identifiers), IP addresses, device identifiers, client identifiers, unique device identifiers for advertising (IDFA) and usage data. More information on the technology Google uses can be found here:
+https://policies.google.com/tech
+nologies/ads
+Google anonymizes the log data by removing part of the IP address (after 9 months) and cookie information (after 18 months). More information on Google's retention policy can be found:
+https://policies.google.com/tech
+nologies/retention
+Google offers users the option to opt-out of personalised ads. For more information on this please visit:
+https://www.google.com/settings/ads
+The data collected in connection with advertisement gets exclusively collected and processed on Google's servers and we have no control over it, nor can we access it.
+If you wish to limit tacking on your device (either by advertisers or websites), you can do this in the
+iOS Settings App > Privacy & Security > Tracking
+(on iOS).
+Information, blocking and deletion
+As permitted by law you have the right to be provided at any time with information about any of your personal data, which is stored as well as the origin, the recipient, and the purpose for which it was processed. You also have the right to have this data corrected, blocked or deleted. You can contact us at any time using the address
+support@keitgen.de
+.
+Contact
+Should you have any questions to this privacy policy, do not hesitate to send an e-mail to:
+support@keitgen.de
+.
+Sub-section Policy: 
+Sub-policy 0
+https://telemetrydeck.com/privacy:
+This document has last been updated March 4, 2024
+TelemetryDeck was designed from the ground up with privacy in mind. An important principle of TelemetryDeck is to only save the least amount of data it absolutely needs, and to not save any data that can be used to identify specific users' identities.
+That is why the
+TelemetryDeck Client code
+is completely open source, so that users and developers can see for themselves the data that TelemetryDeck saves.
+TelemetryDeck has never installed any law enforcement software or equipment anywhere on our network.
+Data Transmitted
+Any data that is transmitted to the analytics server consists of the following:
+An anonymized user identifier. The identifier is constant for each app install but cannot be traced back to any personally identifiable information.
+An action taken, such as “App Launched” or “Settings Opened”. The developer defines these actions.
+A time stamp when the action was taken.
+Device metadata, namely platform, system version, app version, build number, if the build was downloaded via App Store or TestFlight, and the device model type (i.e., iPhone X, iPad Air, or iPhone 12).
+Additional metadata as defined by the developer, such as “Number of Items in the Database” or “Setting X is enabled”. Developers should note this metadata in their own privacy policy.
+For Web SDK API requests, we look at the first 3 triplets of incoming IP addresses in order to determine a possible country the request came from.
+IP addresses are never stored on the TelemetryDeck Server, neither in the database nor in any log files, nor at any other place.
+Terms Used
+A
+developer
+is a person who creates or maintains an app which includes the TelemetryDeck Client code. They are responsible for making sure they only hand anonymized data to the TelemetryDeck Client.
+The
+TelemetryDeck Client
+is the code that transmits data to the TelemetryDeck Server. It can be viewed on
+GitHub
+in its entirety.
+A
+user
+is a person who uses any app created by a
+developer
+. It is our job to make sure their data stays safe.
+A
+signal
+is one instance of data sent from the app to the TelemetryDeck Server using the TelemetryDeck Client.
+TelemetryDeck Viewer
+is the app that developers use to see signal data, both raw and in aggregated form, as
+Insights
+.
+User Identifiers
+Developers have three choices on how to identify users. They should note which they are using in their app's privacy policy:
+Using no user identifier at all. This will give them the greatest piece of mind, while still allowing TelemetryDeck to help them out with statistical analysis.
+Using Apple's “IdentifierForVendor” API. This is the default behaviour for TelemetryDeck. The identifier generated out with this method has no relation to any of the user's identifiable information or private data. Deleting and reinstalling the app will generate a new identifier and sever any connection to the old one.
+Using a custom string identifier, such as the user's username or email address. This string will never be transferred directly to the server. Instead, the TelemetryDeck Client will create a hash out of that string and only ever transmit that hash. This allows TelemetryDeck to detect the same user on multiple devices, but it is impossible for both the developer and any person having access to TelemetryDeck's database to retrieve the original custom string identifier.
+Metadata
+Developers can include any metadata they wish with signals they send using TelemetryDeck Client. They are urged to not send any data that might identify their users. They must include the types of data they send in their own apps' privacy policies.
+Using TelemetryDeck Viewer
+Developers using the TelemetryDeck Viewer app are sending signals to the TelemetryDeck Server as well. These do not contain any user data. The types of data are:
+App was launched
+Which part of the app was navigated to?
+Standard metadata: platform, system version, app version, build number, if the build was downloaded via App Store or TestFlight, and the device model type (i.e. iPhone X, iPad Air, or iPhone 12).
+Our Customers and Prospects
+We use the integrated software solution Hubspot for managing the address and contact data (contact management) of our customers and prospects. The service provider is HubSpot Inc., a software company from the USA (Hubspot, Inc. 25 First Street Cambridge, MA 02141 USA).
+We use Hubspot to document appointments and agreements, as well as to evaluate our activities in the sales area. Personal data such as name, email address, phone numbers, business addresses, and the content of business communication may be processed.
+The legal basis for processing in the context of contacting for the conclusion or performance of a contract is Art. 6 para. 1 lit. b GDPR or Art. 6 para. 1 lit. f GDPR. Our legitimate interest lies in the use for the purpose of the CRM system as contact management.
+Data will be deleted as soon as they are no longer required for their intended purpose and there are no legal retention obligations, e.g. for data that must be kept for commercial or tax reasons. In accordance with legal requirements in Germany, storage may be necessary for up to 10 years due to commercial and tax regulations. We delete prospect data within a reasonable period of time, within which no more contract conclusion or the like is to be expected.
+The data of TelemetryDeck GmbH is stored in European data centers by Hubspot. However, personal data may be transferred to the USA and other third countries where HubSpot subsidiaries are located. HubSpot meets the minimum requirements for legally compliant order data processing by concluding the EU standard data protection clauses. We have concluded a contract for order processing (Data Processing Agreement, DPA) with HubSpot.
+Further information on data processing by Hubspot can be found at:
+https://legal.hubspot.com/privacy-policy
+.
+Newsletter
+You have the option to subscribe to the newsletter offered on our website. If you would like to receive the newsletter, we require an e-mail address from you as well as information that allows us to verify that you are the owner of the specified e-mail address and agree to receive the newsletter. For this purpose, we use the so-called double opt-in procedure: After your registration, you will receive an e-mail to the specified e-mail address, in which we ask for confirmation of the registration.
+The following information is then saved with the confirmation:
+E-mail address
+Date of subscription
+Activity (delivered, opened, clicked)
+For customers who subscribe to our newsletter when opening an account, the following information is also stored:
+First name
+Last name
+Country
+Organization
+Further data is not collected or only on a voluntary basis. We use this data exclusively for sending the requested information and for proving your registration.
+Your consent is the exclusive basis for processing the data provided in the newsletter registration form (Art. 6 para. 1 lit. a GDPR). You can revoke your consent to the storage of the data, the e-mail address and their use for sending the newsletter at any time by unsubscribing from the newsletter, for example via the “unsubscribe” link in the newsletter. The legality of the data processing operations carried out up to that point remains unaffected by the revocation.
+Please note that unsubscribing from our newsletter list does not result in the deletion of your data. If you wish to delete your personal data from Mailjet, please inform us informally by e-mail.
+Mailjet
+Newsletters and customer information are sent via the service provider Mailjet. The provider is Sinch AB Lindhagensgatan 74 Stockholm, 112 18 Sweden. The data is stored in secure data centers located exclusively in the European Union, with Google Cloud Platform in Frankfurt (Germany) and St. Ghislain (Belgium).
+Mailjet is a service that, among other things, organizes and analyzes the sending of newsletters and customer information. Mailjet processes the following information on our behalf regarding the status of the subscription (subscribed, unsubscribed) as well as the status of the newsletters (delivered, opened, clicked and the exact button or link).
+For more information about Mailjet, please visit
+Mailjet's privacy policy
+.

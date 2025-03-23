@@ -1,0 +1,239 @@
+X-plore privacy policy
+X-plore does not collect user’s private information, such as Google username, accounts, etc, except of for functionality provided by application.
+X-plore does not access or use device location.
+X-plore can:
+read/write/delete in device’s internal or external memory
+send or receive data over Internet (as result of user interaction with the app)
+play music or video
+and provide all the functions as described on
+X-plore website
+Login details to network services
+Since X-plore allows connecting to various Interned services such as FTP, Google Drive, etc, the app may ask user for login details (username and password).
+For services where this is possible, X-plore uses OAuth method of logging, where service’s own web page is used to get access token, and X-plore doesn’t keep login details at all.
+For services where this is not possible (such as FTP), X-plore stores login details in its private configuration file (not accessible by other apps) in encrypted form, so that password is not readable even on rooted device.
+Explanation of needed permissions
+X-plore requests following permissions for given purpose:
+Internet
+– access to network file servers, and other network-related functionality
+Access/change WiFi state
+– for providing WiFi sharing function
+Read/write external storage
+– for file management
+In-app purchases
+– to allow
+donations
+Identity
+– to get Google accounts for Google services (Google Drive)
+Prevent device from sleeping
+– for proper work of long-lasting operations
+Crash reports
+When X-plore crashes, it sends crash report to
+crashlytics
+, which is a development tool from Google for improving applications and make them crash-free.
+Crash report contain anonymous data:
+date of posting
+app version
+details about device (model, make, android version, etc)
+stack trace – actual information about the crash, describing locations into app’s source code where the crash happened; this information doesn’t store anything personal
+Crash reports are sent automatically when app crashes, and don’t contain any personal information.
+Ads
+X-plore can show ads. Privacy policy of displayed ads is covered in
+Admob privacy policy
+.
+User accounts
+From within X-plore, users can create a
+user account
+on X-plore server, using email address or Google login. The user account is a tool for backup and restore of user’s licenses, and to help in providing smooth app licensing.
+Such account contains information about user’s purchases, email address, and optionally user’s name.
+User can create the account from inside X-plore, or from system Accounts settings.
+User can delete the account from X-plore, in which case all information about the account will be deleted on X-plore server as well as from device, and user will be logged out.
+It is also possible to delete your user account
+here
+.
+Google user data on Google Drive
+If user connects X-plore with own Google Drive account, the  Google user data is collected by X-plore is limited to a login token provided by Android system for accessing user’s files on Google Drive. Additionally X-plore obtains user name for displaying it in the user interface.
+When connected, X-plore can access all user data stored on Google Drive. None of the data are collected or processed by X-plore, except of file transfers initiated by user, such as copying files from or to Google Drive. X-plore does not cache, store or otherwise manipulate user files.
+While working with Google Drive, X-plore can list and show all user files (in a hierarchy of folders). This includes any sensitive data stored on Google Drive.
+X-plore does not share, transfer, or disclose Google user data out of the application. Also it does not sell or otherwise use Google user data.
+Data protection mechanisms for sensitive data
+Login data to Google Drive are stored securely and encrypted in application private storage, so that such login data can not be used otherwise than as described above.
+Data retention
+When user removes Google Drive from the list of X-plore’s Web storage, then X-plore loses all connections with user’s Google Drive data. Additionally when the app is uninstalled, this has same effect that the connection is removed.
+Doc navigation
+Be careful about your data →
+Sub-section Policy: 
+Sub-policy 0
+https://support.google.com/admob/answer/6128543:
+Skip to main content
+AdMob & AdSense program policies
+AdMob policies and restrictions
+Next: AdSense Program policies
+Publishers who wish to participate in AdMob must comply with our online
+AdSense Program policies
+.
+All publishers are required to adhere to the following policies, so please read them carefully. If you fail to comply with these policies without permission from Google, we reserve the right to disable ad serving to your app and/or disable your AdMob account at any time. If your account is disabled, you will not be eligible for further participation in the AdSense and/or AdMob program(s).
+Content policies and restrictions
+Behavioral policies
+Google Publisher Policies
+Google Publisher Restrictions
+User-generated content
+Exceptions to AdSense policies
+Invalid clicks and impressions
+Ad placement
+Sub-syndication and ad network mediation
+App promotion
+Personalized advertising
+Apps that offer compensation programs
+Policies for ads that offer rewards
+Invalid activity
+Implementation guidance
+Invalid activity
+How Google prevents invalid activity
+How you can prevent invalid activity
+Estimated vs. finalized earnings
+Implementation guidance
+Banner ad guidance
+Interstitial ad guidance
+AdMob native ads advanced policy compliance guidelines
+Give feedback about this article
+Choose a section to give feedback on
+Next: AdSense Program policies
+Was this helpful?
+How can we improve it?
+Yes
+No
+Submit
+Post to the help community
+Get answers from community members
+Contact us
+Tell us more and we’ll help you get there
+true
+AdMob & AdSense program policies
+1 of 12
+AdMob policies and restrictions
+2 of 12
+AdSense Program policies
+3 of 12
+App and account appeals
+1 of 5
+Google Play policy restriction: Disabled app
+2 of 5
+AdMob policy violation: Disabled app(s) or account
+3 of 5
+Invalid activity: Disabled account
+4 of 5
+Invalid activity: Suspended account
+5 of 5
+Account issues FAQ
+4 of 12
+Behavioral policies
+5 of 12
+Implementation guidance
+1 of 8
+Implementation guidance
+2 of 8
+Banner ad guidance
+3 of 8
+Discouraged banner implementations
+4 of 8
+Recommended banner implementations
+5 of 8
+Banner ad guidance: 300x250
+6 of 8
+Interstitial ad guidance
+7 of 8
+Disallowed interstitial implementations
+8 of 8
+Recommended interstitial implementations
+6 of 12
+Ad format specific policies
+1 of 1
+Policies for ad units that offer rewards
+7 of 12
+Families
+1 of 3
+Tag an ad request from an app for child-directed treatment
+2 of 3
+Comply with Google Play’s Families Policy using AdMob
+3 of 3
+Ad-serving Protections for Teens
+8 of 12
+Invalid activity
+1 of 7
+Invalid traffic
+2 of 7
+How Google prevents invalid activity
+3 of 7
+How you can prevent invalid activity
+4 of 7
+Estimated vs finalized earnings
+5 of 7
+What is sabotage and how to prevent it
+6 of 7
+Can I see a record of invalid activity deductions from my earnings?
+7 of 7
+Common questions about invalid traffic
+9 of 12
+Deductions from earnings FAQ
+10 of 12
+Privacy and security
+1 of 2
+User-generated content
+2 of 2
+Send non-personalized ad requests to third-party RTB buyers
+11 of 12
+Advertiser guidelines and policies
+12 of 12
+Lei Geral de Proteção de Dados (LGPD)
+1 of 3
+Helping users comply with the Lei Geral de Proteção de Dados (LGPD)
+2 of 3
+Personalized and non-personalized ads for LGPD
+3 of 3
+Ad Technology Providers for the LGPD
+Show your support to promote DEI in Gaming by turning intentions into action!
+Check out the newly launched Diversity in Gaming website, where you can find video stories and written pledges from global gaming developers. This campaign centers on 3 pillars: diverse teams, diverse games and diverse audiences showing how diversity is not just good for gamers, but for business as well. Show your support by taking the pledge to promote DEI in Gaming and share it on social!
+Learn More
+5749666287561745864
+true
+Search
+Clear search
+Close search
+Main menu
+Google apps
+Search Help Center
+true
+true
+true
+Google Help
+Help Center
+Community
+Google AdMob
+Privacy Policy
+Terms of Service
+Submit feedback
+true
+true
+73175
+false
+false
+Inaccurate - doesn't match what I see in the product
+Hard to understand - unclear or translation is wrong
+Missing info - relevant but not comprehensive
+Irrelevant - doesn’t match the title and / or my expectations
+Minor errors - formatting issues, typos, and / or broken links
+Other suggestions - ideas to improve the content
+Share additional info or suggestions
+​
+​
+Do not share any personal info
+Cancel
+Submit
+By continuing, you agree Google uses your answers,
+account & system info
+to improve services, per our
+Privacy
+&
+Terms
+.
+false

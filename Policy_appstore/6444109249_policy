@@ -1,0 +1,271 @@
+Crayola Adventures Privacy Policy
+Updated: 05/09/2024
+As a globally recognized family-friendly brand, privacy and digital safety are top priorities for Crayola. To support this effort, we’ve provided this privacy statement to explain how we collect, use, and disclose personal information in clear, easy-to-understand language. This Privacy Policy may be updated at any time as new features are added or as the law changes. Please make sure you read everything here carefully, and if you happen to be a youngster (under 18 years old), ask an adult to help explain anything you don't understand.
+Data Collection & Use
+Certain non-personal data (as described below) is collected and used in the App to allow players to create and save their scores and game progress. This data is stored locally on a player's device and in a player’s iCloud Key Value Store.
+iCloud Key Value Store
+iCloud Key-Value Storage is a safe and secure cloud-based service provided by Apple that allows an app to save data to a user’s private iCloud Account storage and access that data from multiple devices that may be logged into the same iCloud account.
+User Data
+The following game data is saved to a player’s iCloud Key Value Store unless they choose to opt out:
+General Data
+Version: The current version of save data.
+Currency: Quantity of currency collected.
+Level: Current player level.
+ExpToNextLevel:  Exp remaining until next level.
+CompletedFTUETutorial: Flags when FTUE Tutorial is complete
+CompletedXPTutorial: Flags when XP Tutorial is complete
+CompletedPlayerLevelTutorial: Flags when Player Level Tutorial is complete
+Settings Data
+SfxVolume: Preferred volume of SFX
+BgmVolume: Preferred volume of SFX
+VoiceOverVolume: Preferred volume of SFX
+AutoAdvanceEnabled: Should narration advance automatically
+HapticsEnabled: Are Haptics Enabled
+NotificationsEnabled: Are Notifications Enabled
+Language: App Language setting
+SavedCharacters
+List of Custom Character created by the player.  Each Character contains the following data, additional context listed where appropriate:
+General Data
+Id - Unique Save ID
+Name
+Fun - Character has fun doing this
+Saying - Character favorite saying
+Gender
+Size
+FavoriteColor
+FavoriteSong
+ModelPrefabKey
+LastEditedTicksUtc
+Tags
+Body Data
+SkinColorSaveData
+FaceSaveData
+HairSaveData
+HatSaveData
+TopSaveData
+BottomSaveData
+ShoesSaveData
+Accessories Data
+EyeAccSaveData
+FaceAccSaveData
+EarAccSaveData
+ArmAccSaveData
+SocksAccSaveData
+NeckAccSaveData
+WaistAccSaveData
+GlovesAccSaveData
+KneeAccSaveData
+ShoulderAccSaveData
+BackAccSaveData
+LastUsedCharacterIdsByRole
+List of most recently used Characters, organized by Role
+SavedPet
+Custom Pet Data which contains the following data, additional context listed where appropriate:
+General Data
+Id - Unique Save Id
+Name
+Gender
+FavoriteThing
+Sound
+LastEditedTicksUtc
+Head Save Data
+Id - Unique Head id
+Skin Save Data
+TextureId - Unique custom texture save id
+ColorSaveData - gradient color data for skin
+Accessories Save Data
+Id - Unique Accessory id
+SavedCraftables
+Collection of custom Craftables made for use in stories.  Contains the following data, additional context listed where appropriate:
+InstanceId
+CraftableId
+LastEditedTicksUtc
+SaveCategories
+List of Uniquely customizable attributes for a given craftable
+CategoryId - category id of given attribute
+CurrPartId - attribute id
+TextureId - custom texture id to apply to attribute
+Color - color associated with given attribute
+PurchasedItemIds
+Record of all purchased item Ids.
+SavedChapters
+List of custom stories created by the player.  Contains the following data, additional context listed where appropriate:
+GeneralData
+SaveId
+StorybookId
+ChapterId
+CurrentStep - Progress made through story
+HasCompleted
+IsFavorited
+LastPlayedTicksUtc
+HasPaidCompletionReward
+UniqueBuilderEditCount
+CharacterIdsByRoleIds
+StoryBuilderCustomizationData
+List of all custom mad lib options made for the current story
+StorySnapshotData
+Snapshot of progress made through story, used for resuming stories
+StoryCustomizationData
+Snapshot of all Environment Asset Customizations made for a given story
+Finalized Story Book Data
+Title
+ArtworkId
+PatternId
+FrontColorSaveData
+SpineColorSaveData
+ChapterUniqueInteractions
+Record of all unique interactions the player has performed in game.  This is used to award currency for unique exploration.
+HeardOneTimeNarrationAudioKeys
+Record of all one-time narration lines and whether or not they’ve been heard by the player.
+Device Data
+The following device data is saved to a players local device:
+Analytics:
+AnalyticsAccepted - Whether user allows analytics to be collected
+AnalyticsSessionNumber - Sessions since first time loading the app
+StoryCustomizationProgressCompletedId - Id of last story customization item edit
+StoryCustomizationProgressLastEditId- Time of last story customization item edit
+StoryProgressLastChapterCompleteId - Last chapter completed Id
+Polls:
+PollResponses - Record of polls responded to
+PollId - Unique identifier
+PollChoice - Selection made by user for given poll (A,B,C, etc..)
+Polls
+Crayola Adventures allows users to participate in anonymous polls to vote on specific themes, categories or items.  Responses are submitted to Red Games Co. and used to share community preferences to players, and to help us make informed decisions on future content and features. All responses are anonymous and not tracked to a specific user.  Participation is recorded locally, to ensure unique responses, and outlined in Device Data.
+Analytics
+Session Start
+Startup duration
+Install date
+Tutorial completed
+First session ever, or of the day, week, month
+Session End
+Language rendered
+Session duration
+Tutorial Step Start
+First time user experience step ID
+Tutorial Step Complete
+First time user experience step ID
+Number of attempts to complete step
+Tutorial Ended
+Tutorial duration
+Character Selection
+Current story a player is selecting a character for
+What type of character (main, sibling, friend, etc.)
+New character versus selecting an existing one
+Character Editing
+What story a player is currently editing a character within
+What type of character (main, sibling, friend, etc.)
+Pronouns
+Favorite color
+Favorite music
+Height
+Base color
+Accessibility option
+Hair type and color
+Face type and color
+Eyewear type and color
+Tattoo type and color
+Ear type and color
+Shirt type and color
+Pant type and color
+Suit type and color
+Hat type and color
+Back accessory type and color
+Hand accessory type and color
+Sock type and color
+Shoe type and color
+Neck accessory type and color
+Wrist accessory type and color
+Belt type and color
+Face
+Pet Editing
+What story a player is currently editing a pet within
+What type of character (pet)
+Pronouns
+Sounds like
+Head features
+Base color
+Accessory types
+User Story Choices
+What story a player is currently making choices in
+Choice location
+Item list
+Item selected
+Did they use the default choice or make edits
+Story Customization Progress
+What story a player is currently customizing
+Customization completed
+Total customizations made
+Time between customizations
+Item they customized (couch, painting, chair, etc.)
+Story Progress
+ID of Story being played
+Last Progress Checkpoint Name
+Experience Earned
+Experience earning event type
+Experience earned
+Current experience level
+News Section
+Item type tapped
+Sub-item type tapped
+Community polls - poll name
+Community polls - options
+Community polls - option selected
+Item Purchased
+Item type
+Item cost
+Item level
+Item Placed
+Item type
+Item placement zone (Treehouse loft, bookcase, etc.)
+Item location X, Y, Z
+Trophy Earned
+Trophy type
+Story branch that unlocks trophy type
+Shareplay
+Story shared
+Mini Game Played
+Name of Game
+Final Score
+Location Played from
+Trophy Placed
+Trophy Name
+Placement Location
+UI Engagement
+Name of Button pressed
+User Story Text Entry
+ID of current Prompt
+Entered Value
+Whether value was edited manually
+Character Editing
+Id of completed Story
+Whether story was replayed
+Total number of stories completed
+Third Parties
+The App does not share data with any third-party service provider that can be used for that third party’s own purposes.
+Crayola Adventures utilizes a third-party service to generate synthetic voice over based on player choices. All data shared with the third-party service is anonymous. No requests are associated with a particular user, and no data is shared with the service provider that would track a specific audio generation request back to a specific user.
+Specific data used to generate synthetic voices includes:
+Custom Character names
+Custom Character favorite phrases (nouns, verbs, adjectives)
+Custom Character clothing selections
+Custom Character favorite color, music, and other preferences
+Story specific mad-lib entries
+Phrases - nouns, verbs, adjectives
+Story specific scripted choices
+Data Retention
+User Data: Stored in the user’s iCloud and retained at the user’s discretion
+Player Data and Real-Time Game Inputs: These are stored for the duration of a drawing the user is creating and not retained past their lifespan
+Device Data: Is saved locally on the user’s device
+Voice Over Data: We cache a unique clip title and href to the generated synthetic voice over file as a means to cache identical requests from players
+Players Under the Age of 16
+This game collects, uses, and discloses data from kids in the same way as for other users, as described in this policy. The game’s use of kids’ data is limited to support the internal operations of the game. Parents can request deletion of data by contacting us at the email listed below.
+Contact Info
+For more information on Crayola Adventures privacy policy or data processing practices please email John Park at
+privacypolicy@redgames.co
+. Parents can contact us regarding their child’s use of the app here:
+Consumer Affairs Crayola LLC
+1100 Church Lane P.O. Box 431 Easton, PA 18044
+You may also email us
+here
+or call us at 1-800-CRAYOLA
+Data Subject Rights
+The game does not collect any personal data. Players can delete their User Data stored in iCloud via the settings menu.

@@ -1,0 +1,125 @@
+Proxygen
+Mon, Dec 12, 2022
+Privacy Policy
+This policy applies to the
+Proxygen
+interactive HTTP proxy.
+Proxying of network communications
+The built-in HTTP proxy in the app does all processing on-device. After performing all relevant actions, messages are sent to the original target server, unless you have configured a redirection.
+While the Proxygen iOS app makes use of a VPN configuration, no actual VPN tunnel is created. Device traffic is not directed to a tunnel of any kind. The VPN configuration is only used to apply a HTTP proxy to all networking on the device.
+Information we collect
+Proxygen does not use third party frameworks to collect crash data or analytics. Generic usage data is collected using Apple’s built-in
+App Analytics
+that you can opt out of at any time.
+The app does not communicate any content of your proxied network communications to third parties.
+HTTP messages recorded by the proxy are handled on-device and their data is stored in local documents. These files may get synced to iCloud, if your device is configured to use iCloud file synchronisation.
+Security
+Proxygen can be configured as a TLS Manipulator in the Middle (MITM) proxy, which means it will decrypt and see clear text contents of HTTPS connections. Sensitive data such as login usernames and passwords, session tokens and keys, may be sent over these proxied connections between your device and the remote server.
+The app is designed to store HTTP messages in project files. These documents will contain, in unencrypted form, the sensitive data recorded by the proxy. Make sure that you handle any documents with appropriate care and never share them unless you understand the consequences.
+Sub-section Policy: 
+Sub-policy 0
+https://freshbits.fi/privacy/:
+Fresh Bits
+Tasty apps with personality
+Home
+Apps
+Posts
+Privacy policy
+© 2024. All rights reserved.
+Privacy policy
+Fri, May 12, 2023
+Maptrails
+This policy applies to the
+Maptrails
+map browser.
+Information we collect
+Maptrails app does not collect any user information.
+Maptrails does not use third party frameworks to collect crash data or analytics. Generic usage data is collected using Apple’s built-in
+App Analytics
+that you can opt out of at any time.
+Oma Riista service
+Maptrails generates a unique UUID that identifies your device from others. This identifier and your device IP address are sent along with requests to Oma Riista API. These are only used by Oma Riista administrators when necessary, due to potential cases of misuse of the API. Oma Riista does not receive your name, email address or Apple ID username.
+External map API
+Any external mapping data APIs you use in Maptrails receive requests for map information from your device, with map tile coordinates which may reflect your coarse location. They may log or store those requests, along with source IP address information.
+Beacon
+This policy applies to the
+Maptrails Beacon
+app.
+Information we collect
+Maptrails Beacon app does not collect any information about the user that is not directly used as part of the location sharing feature. When pairing the Beacon app with the main Maptrails app, a randomly generated identifier is stored on the server. Also, the model name of the device and a custom name assigned to the Beacon by the user are stored on the server. This data is deleted when the pairing is removed by the user in the Beacon and Maptrails apps.
+Maptrails Beacon does not use third party frameworks to collect crash data or analytics. Generic usage data is collected using Google’s built-in app analytics that you can opt out of at any time.
+Transmission of location data
+While location tracking of the Beacon app is enabled, its coordinates, speed, course, altitude and battery level is sent to the server and then immediately forwarded to the Maptrails app. This data is not stored or logged on the server.
+Proxygen
+This policy applies to the
+Proxygen
+interactive HTTP proxy.
+Proxying of network communications
+The built-in HTTP proxy in the app does all processing on-device. After performing all relevant actions, messages are sent to the original target server, unless you have configured a redirection.
+While the Proxygen iOS app makes use of a VPN configuration, no actual VPN tunnel is created. Device traffic is not directed to a tunnel of any kind. The VPN configuration is only used to apply a HTTP proxy to all networking on the device.
+Information we collect
+Proxygen does not use third party frameworks to collect crash data or analytics. Generic usage data is collected using Apple’s built-in
+App Analytics
+that you can opt out of at any time.
+The app does not communicate any content of your proxied network communications to third parties.
+HTTP messages recorded by the proxy are handled on-device and their data is stored in local documents. These files may get synced to iCloud, if your device is configured to use iCloud file synchronisation.
+Security
+Proxygen can be configured as a TLS Manipulator in the Middle (MITM) proxy, which means it will decrypt and see clear text contents of HTTPS connections. Sensitive data such as login usernames and passwords, session tokens and keys, may be sent over these proxied connections between your device and the remote server.
+The app is designed to store HTTP messages in project files. These documents will contain, in unencrypted form, the sensitive data recorded by the proxy. Make sure that you handle any documents with appropriate care and never share them unless you understand the consequences.
+Transporter
+This policy applies to the
+Transporter
+journey planner app for iPhone.
+Information we collect
+When starting the app for the first time on a new device, you are asked if you want your favorite lines and stops to be sent to our servers. Line and stop identifiers are matched to current traffic information such as disruption alerts, delays on lines and news bulletins, and you are sent notifications for these events. You may choose not to send your favorite lines and stops to our servers at all.
+You are also asked if you wish to receive notifications for delays and disruptions on your planned route. If enabled, data from the currently selected route is automatically sent to our servers. This information consists of line and trip identifiers, departure and arrival location coordinates and times. About an hour after the route arrival time this information is deleted from our servers. If notifications for route delays are not enabled, no information about your routes is ever sent to our servers.
+Enabling reminders for stop arrivals, identifiers for the selected line, stop and departure time are sent to our servers. This information is used to monitor the realtime arrival time of the line and send you a notification at the correct time. The information is either deleted at the time of sending the notification, or one month after enabling a repeating reminder.
+We store a token for every instance of the Transporter app. These tokens are received from Apple and used to deliver
+push notifications
+to users’ devices. The tokens are never used for marketing purposes.
+Finally, our servers also collect aggregate usage numbers for the different functions, such as new app registrations and activations of reminders, purely for simple statistics and service health monitoring purposes.
+Accessing, changing and deleting your information
+If you do not use the Transporter app on your iPhone for 30 days, all information related to your app instance is deleted from our servers. Next time you launch the app, the same data is synched back to our servers, according to the settings described above.
+You can access and change your information using the Transporter client. Deleting the app from your phone will lead to deleting of all information related to you and your device within 30 days.
+Security
+Various security measures are implemented to keep your information secure. All communications between the Transporter client and server require HTTPS with certificate pinning.
+External parties
+The app relies on the external
+Digitransit API
+provided by
+HSL
+and the
+Finnish Transport Agency
+. They have their own independent privacy policies.
+AreenaX
+This policy applies to the
+AreenaX
+media player for Mac and Apple TV.
+Information we collect
+The AreenaX apps only communicate to
+Yle API
+for loading TV program metadata and downloading media streams. Any user information collected by Yle is explained in their own
+privacy policy
+.
+Locally on your device the apps store a list of identifiers for programs and series that have been set as favorites. This information is used to display these programs to the user separately from other content. Information about favorite programs and series is never sent out a server or any third party.
+Website
+This policy applies to this website at freshbits.fi.
+Information we collect
+The freshbits.fi website itself does not collect user information. It does not set cookies on your browser.
+External parties
+The static website is hosted at
+GitHub.com
+. GitHub has their own independent
+privacy policy
+.
+Cloudflare.com
+is used as a CDN for security safeguards, reduced latency and basic statistics on visitor counts. Cloudflare has their own independent
+privacy policy
+.
+The messaging functionality on freshbits.fi is provided by
+Drift.com
+who have their own independent
+privacy policy
+and
+policy on use of cookies
+. All cookies used by Drift are “first-party” and cannot be read by other domains you visit using the same browser.

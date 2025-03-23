@@ -1,0 +1,792 @@
+Az Ügyfélkapu bejelentkezési mód és az AVDH dokumentum hitelesítési mód 2025-től megszűnik. A linkre kattintva megtalálod az ezzel kapcsolatos legfontosabb kérdéseket és válaszokat.
+További információk
+Digitális Állampolgárság Keretalkalmazás szolgáltatás
+Adatkezelési Tájékoztató
+Hatályos: 2025. január 30-tól visszavonásig
+I.
+Preambulum
+Magyarország Alaptörvényének XXVI. cikke szerint az állam törekszik az új műszaki megoldásoknak és a tudomány eredményeinek az alkalmazására. Az Alaptörvény e cikke az állam szolgáltató jellegét hangsúlyozza azzal, hogy az államnak törekednie kell arra, hogy lépést tartson a modern kor technológiai fejlődésével és lehetőség szerint felhasználja azokat az új műszaki megoldásokat és más tudományos vívmányokat, amelyek az állam működésének hatékonyságát növelik és emelik a közszolgáltatások színvonalát. Ennek érdekében jött létre a Digitális Állampolgárság (továbbiakban: DÁP) Program és a Digitális Állampolgárság Keretalkalmazás (a továbbiakban: Keretalkalmazás), amely a 14. életévét betöltött személyiadat- és lakcímnyilvántartás hatálya alá tartozó személyek számára elérhető.
+Az
+állammal való digitális kapcsolattartás elsődlegesen a digitális állampolgárság felhasználói profillal történik, amelynek aktiválásáról és inaktiválásáról a Felhasználó szabadon dönt.
+A Felhasználó (továbbiakban: Felhasználó vagy Érintett) dönti el, hogy él-e a digitális állampolgárság nyújtotta lehetőségekkel.
+A digitális térben a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) alapján elérhető szolgáltatások gördülékeny és szükségtelen adminisztrációs terhek nélküli hozzáférhetővé tétele céljából az állami nyilvántartások, valamint az állami nyilvántartásnak nem minősülő szakrendszerek és adatbázisok az egyes ügyek intézésének, szolgáltatások igénybevételének idejére és ahhoz szükséges mértékben összekapcsolhatók. Az összekapcsolásra kizárólag a Felhasználó által kezdeményezett digitális szolgáltatással összefüggésben kerülhet sor.
+Az
+IdomSoft
+Informatikai Zártkörűen Működő Részvénytársaság
+, mint a digitális állam megvalósításához kapcsolódó egyes szervezetek kijelöléséről szóló 320/2024. (XI. 6.) Korm. rendelet szerinti szolgáltató, egyben a Dáptv. szerinti digitális állampolgárság szolgáltató (a továbbiakban: Szolgáltató vagy Adatkezelő) biztosítja annak lehetőségét, hogy az Érintett rendelkezhessen arról, hogy az állami digitális közhiteles nyilvántartásokba bejegyzett személyes vagy egyéb adatainak meghatározott körét a Szolgáltató a digitális térben továbbítsa, bármely Érintett által kezdeményezett Dáptv. szerinti szolgáltatás igénybevételéhez kapcsolódóan.
+A
+Szolgáltató adatkezelőként
+kiemelten fontosnak tartja a Felhasználók adatkezeléshez kapcsolódó jogának tiszteletben tartását és érvényre juttatását, ezért jelen tájékoztató alapján tájékoztatja a Felhasználókat, hogy az általa nyújtott szolgáltatások minden területén, valamennyi Felhasználó, mint érintett természetes személy számára biztosítva legyen, hogy jogait és alapvető szabadságjogait, különösen a magánélethez fűződő jogát tiszteletben tartsák a személyes adatok kezelése során.
+Adatkezelő és minden adatfeldolgozója adatkezelése során elkötelezett az Európai Parlament és a Tanács a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről (általános adatvédelmi rendelet) szóló 2016/679/EU rendelete (továbbiakban: Rendelet vagy GDPR), illetve az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény és egyéb jogszabályok előírásainak.
+Adatkezelő fenntartja jogát a jelen adatkezelési tájékoztató meghatározott időszakonként történő aktualizálására és módosítására annak érdekében, hogy az itt rögzített feltételek mindig a személyes adatok kezelésének aktuális módját tükrözzék, illetve mindenben megfeleljenek a hatályos jogszabályi kötelezettségeknek. Abban az esetben, ha a jelen rendelkezések valamelyikében fentiek alapján változás állna be, az adatkezelési tájékoztató módosított verzióját – időállapot megfelelő kezelésével és egyértelmű jelölésével – közzéteszi.
+Jelen tájékoztató célja, hogy a GDPR 12. cikkének megfelelően a Felhasználókat tájékoztassa a Szolgáltatáshoz kapcsolódó egyes adatkezelési tevékenységeiről, szabályairól.
+II.
+Fogalom meghatározások
+Személyes
+adat:
+Azonosított vagy azonosítható természetes személyre, mint érintettre vonatkozó bármely információ; azonosítható az a természetes személy, aki közvetlen vagy közvetett módon, különösen valamely azonosító, például név, szám, helymeghatározó adat, online azonosító vagy a természetes személy testi, fiziológiai, genetikai, szellemi, gazdasági, kulturális vagy szociális azonosságára vonatkozó egy vagy több tényező alapján azonosítható.
+Érintett/Felhasználó:
+A digitális szolgáltatást biztosító szervezet feladat- és hatáskörébe tartozó ügyben ügyfélként, félként vagy az eljárás alanyaként, az eljárás egyéb résztvevőjeként, a szolgáltatás igénybe vevőjeként vagy ezek képviselőjeként részt vevő olyan természetes személy, aki az ügyben eljáró digitális szolgáltatást biztosító szervezettel munkaviszonyban nem álló, annak nem tagja vagy alkalmazottja.
+Adatkezelés
+: A személyes adatokon vagy adatállományokon automatizált vagy nem automatizált módon végzett bármely művelet vagy műveletek összessége, így a gyűjtés, rögzítés, rendszerezés, tagolás, tárolás, átalakítás vagy megváltoztatás, lekérdezés, betekintés, felhasználás, közlés továbbítás, terjesztés vagy egyéb módon történő hozzáférhetővé tétel útján, összehangolás vagy összekapcsolás, korlátozás, törlés, illetve megsemmisítés.
+Adatkezelő
+: Az a természetes vagy jogi személy, közhatalmi szerv, ügynökség vagy bármely egyéb szerv, amely a személyes adatok kezelésének céljait és eszközeit önállóan vagy másokkal együtt meghatározza; ha az adatkezelés céljait és eszközeit az uniós vagy a tagállami jog határozza meg, az adatkezelőt vagy az adatkezelő kijelölésére vonatkozó különös szempontokat az uniós vagy a tagállami jog is meghatározhatja.
+Adatfeldolgozó
+: Az a természetes vagy jogi személy, közhatalmi szerv, ügynökség vagy bármely egyéb szerv, amely az adatkezelő nevében személyes adatokat kezel.
+Érintett hozzájárulása
+: Érintett akaratának önkéntes, konkrét és megfelelő tájékoztatáson alapuló és egyértelmű kinyilvánítása, amellyel az Érintett nyilatkozat vagy a megerősítést félreérthetetlenül kifejező cselekedet útján jelzi, hogy beleegyezését adja az őt érintő személyes adatok kezeléséhez.
+Előregisztrációs adat:
+Az Érintetteknek lehetőségük van a járási hivatalnál, az Nytv. szerint kijelölt kormányhivatalnál és a nyilvántartást kezelő szervnél a személyazonosság igazolását követően mobileszköz kamerájával olvasható kódot (a továbbiakban: QR kód) igényelni. Ez a QR kód (továbbiakban: előregisztrációs adat) igazolja a sikeres előregisztráció megtörténtét. Az Előregisztrációs adat tartalmazza az Érintett személyi azonosítóját.
+Felhasználói profil:
+A digitális térben való aktivitáshoz szükséges, a digitális állampolgár azonosító alapján biztosított, a digitális állampolgár állami nyilvántartásban tárolt adatait és a digitális állampolgár által megtett nyilatkozatokat tartalmazó digitális fiók.
+Regisztráció:
+Felhasználói profil személyazonosság igazolásához kötött aktiválása.
+Keretalkalmazás:
+Szolgáltató által vagy megbízásából a digitális állampolgárság szolgáltatásainak igénybevétele céljából a nyilvánosság számára mobileszközökre tervezett és kifejlesztett mobilalkalmazás.
+Személyiadat- és lakcímnyilvántartás:
+Közhiteles hatósági nyilvántartás, amely a nyilvántartásban szereplő polgároknak az Nytv-ben meghatározott személyi, lakcím és értesítési cím adatait, valamint az azokban bekövetkezett változásokat tartalmazza és közhitelesen igazolja.
+Bizalmi szolgáltató:
+a NISZ Zrt., mint a belső piacon történő elektronikus tranzakciókhoz kapcsolódó elektronikus azonosításról és bizalmi szolgáltatásokról, valamint az 1999/93/EK irányelv hatályon kívül helyezéséről szóló, 2014. július 23-i 910/2014/EU európai parlamenti és tanácsi rendelet (a továbbiakban: eIDAS rendelet) szerinti bizalmi szolgáltató, melynek bevonásával a Szolgáltató az eAláírás bizalmi szolgáltatást nyújtja.
+Digitális állampolgárság nyilvántartás
+: Dáptv. alapján létrehozott ügyfél-regisztrációs nyilvántartás (továbbiakban: DÁNY).
+Digitális állampolgár azonosító
+:
+matematikai módszerrel képzett, különleges adatra nem utaló számjegysor, amely egyedi és tartós azonosítóként a polgárt a digitális térben egyértelműen azonosítja (továbbiakban: DÁP azonosító).
+eAláírás:
+digitális keretszolgáltatásként elérhető szolgáltatás használatával létrehozott minősített elektronikus aláírás.
+ERHAB
+: a bűnügyi nyilvántartó szerv (Belügyminisztérium) hatáskörébe tartozó hatósági erkölcsi bizonyítvány kiállítása iránti eljárást támogató szakrendszer.
+Nytv
+.: a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény.
+Kormányzati Adatközpont:
+a kormányzat, a közigazgatás és a közszolgáltatások számára stabil és biztonságos informatikai infrastruktúra környezetet biztosító, felhő alapú szolgáltatások nyújtására képes központi informatikai infrastruktúrát magába foglaló, georedundánsan működő géptermek (továbbiakban: KAk).
+Lakcímigazolvány:
+személyi azonosítót és lakcímet igazoló hatósági igazolvány, mely tartalmazza a polgár természetes személyazonosító adatait, lakcímét, személyi azonosítóját, az okmány azonosítóját, valamint tájékoztatás céljából a 14. életévét be nem töltött kiskorú esetén – a törvényes képviselő kérelemére – a kiskorú törvényes képviselőinek nevét és a kiállítás időpontja szerinti telefonszámát.
+Lakcím:
+Az érintett bejelentett lakóhelyének, illetve tartózkodási helyének címe.
+TAJ szám:
+Az egészségügyi, a szociális és a társadalombiztosítási és a magánnyugdíj rendszerrel kapcsolatos nyilvántartások azonosító kódja.
+III.
+Adatkezelési alapelvek
+Adatkezelő és minden adatfeldolgozója adatkezelése során elkötelezett a jogszabályok előírásainak, továbbá a Nemzeti Adatvédelmi és Információszabadság Hatóság jogalkalmazási gyakorlatának, e körben kiadott ajánlásainak megfelelő működési folyamatokba épített megvalósítására, melynek során:
+Amennyiben a Felhasználó az adatkezelési tevékenységek során jelzett kötelező adatokat az Adatkezelő számára nem szolgáltatja, úgy az Adatkezelő a szolgáltatás nyújtását (adatkezelést) megtagadja.
+Biztosítja, hogy a személyes adatok kezelésével kapcsolatos dokumentumok (különösen: szabályzatok, tájékoztatók, nyilvántartások, továbbiakban: adatkezelés dokumentumai) elérhetőek és megtekinthetőek a Keretalkalmazásban, továbbá az Adatkezelő honlapján. Adatkezelő az adatkezelés dokumentumait egészében vagy egyes részeiben a Felhasználók kifejezett kérésére elektronikusan rendelkezésükre bocsátja.
+Felhasználók személyes adatait bizalmasan, a hatályos jogszabályi előírásokkal összhangban kezeli, technikai és szervezési intézkedésekkel biztosítja azok megőrzését, minden tőle elvárható intézkedést megtesz az általa kezelt személyes adatok jogosulatlan hozzáférése, megváltoztatása, nyilvánosságra hozatala ellen.
+A személyes adatokat harmadik személy részére csak kivételesen és abban az esetben továbbítja, valamint az általa kezelt adatbázist más adatkezelővel csak abban az esetben kapcsolja össze, ha a Felhasználó ahhoz kifejezetten hozzájárul, Adatkezelő jogos érdeke alapján vagy jogszabály azt kötelezően előírja és az adatkezelés jogszabályi feltételei minden egyes személyes adatra nézve teljesülnek.
+Adatkezelő a jogszabályi felhatalmazáson alapuló adattovábbításokon túl,
+a felhasználói
+felhatalmazáson és jogos érdek alapján és körében továbbíthat adatot, ezért a más számára történő, továbbá a felhatalmazáson és a jogos érdeken kívül eső más adat továbbítását megtagadja.
+Az eAláírás szolgáltatás vonatkozásában a személyazonosság-igazoláshoz szükséges bizalmi szolgáltatás tekintetében a Felhasználó és a bizalmi szolgáltató között közvetett jogviszony jön létre, emiatt arra külön adatkezelési tájékoztató vonatkozik. Ez az adatkezelési tájékoztató a bizalmi szolgáltató weboldalán érhető el:
+https://hiteles.gov.hu/cikk/20/szabalyozasi_dokumentumok
+.
+Adatkezelő Európai Unión belüli adatkezelő, adatfeldolgozó részére történő adattovábbításokról a Rendeletben meghatározott adattartalmú nyilvántartást vezet.
+Adatkezelő az adatvédelmi incidenst indokolatlan késedelem nélkül, és ha lehetséges, legkésőbb 72 órával azután, hogy az adatvédelmi incidens a tudomására jutott, bejelenti a Nemzeti Adatvédelmi és Információszabadság Hatóságnak, kivéve, ha az Adatkezelő vizsgálata alapján az adatvédelmi incidens valószínűsíthetően nem jár kockázattal a természetes személyek jogaira és szabadságaira nézve.  Adatvédelmi incidenssel kapcsolatos egyedi intézkedések ellenőrzése érdekében adatkezelések dokumentumaiban meghatározott tartalmú nyilvántartást vezet.
+IV.
+Az adatkezelő megnevezése, elérhetőségei és az adatkezelés helye
+Az Adatkezelő adatai:
+IdomSoft Zrt.
+Székhely: 1138 Budapest, Váci út 133.
+Levelezési cím: 1394 Budapest, Pf.: 390.
+Telefonszám: +36-1-7957-800
+Internetes honlap címe:
+https://idomsoft.hu/
+A Szolgáltatással összefüggő információt tartalmazó weboldal (továbbiakban: weboldal) címe:
+https://dap.gov.hu/
+Az adatvédelmi tisztviselő adatai:
+Név:
+dr. Sabjanics István
+e-mail:
+adatvedelem@idomsoft.hu
+V.
+Adatfeldolgozás, adattovábbítás
+Személyes adatok feldolgozását elsősorban az Adatkezelő látja el. A Firebase App Check, Firebase Remote Config, Firebase Cloud Messaging, Firebase Crashlytics, Firebase Performance Monitoring, továbbá a Google Analytics monitoring és szofverfejlesztő eszközök tekintetében Adatkezelő szerződött adatfeldolgozó partnere a Google LLC (korábbi nevén Google Inc.), a Google Ireland Limited. (
+https://policies.google.com/privacy
+)
+A Dynatrace LLC Real User Monitoring (RUM) monitoring és szoftverfejlesztő eszköz tekintetében Adatkezelő szerződött partnere a Dynatrace, LLC. (
+https://www.dynatrace.com/company/trust-center/privacy/
+)
+Consent Management Platform (CMP) eszköz tekintetében Adatkezelő szerződött partnere (adatfeldolgozó) a Usercentrics GmbH. (
+https://usercentrics.com/privacy-policy/
+)
+Sinch Mailgun felhőalapú emailküldő szolgáltatás, amely lehetővé teszi tranzakciós e-mailek (például regisztrációs folyamatok biztosítása, jelszó-visszaállítások) gyors és megbízható küldését. (
+https://www.mailgun.com/gdpr/
+)
+Adatkezelő megbízása alapján a járási hivatal, Budapest Főváros Kormányhivatala egyenként önálló adatkezelőként járnak el a digitális állampolgár előregisztráció biztosításában.
+Adatkezelő megbízása alapján NISZ Nemzeti Infokommunikációs Szolgáltató Zrt. (székhely: 1149 Budapest, Róna utca 52-80., cégjegyzékszám: 01-10-041633) a regisztráció során alkalmazott távoli azonosítás biztosításában.
+Adatkezelő megbízása alapján FaceKom Kft. (székhely: 1052 Budapest, Deák Ferenc tér 3., cégjegyzékszám: 01-09-962028) a regisztráció során alkalmazott távoli azonosítás biztosításában.
+VI.
+Adatkezelési tevékenység
+1. Előregisztrációs adat tárolása, előregisztráció törlése
+Érintetteknek lehetőségük van a járási hivatalnál, az Nytv. szerint kijelölt kormányhivatalnál és nyilvántartást kezelő szervnél a személyazonosság igazolását követően mobileszköz kamerájával olvasható kódot (továbbiakban: QR kód) igényelni. Ez a QR kód igazolja a sikeres előregisztráció megtörténtét (továbbiakban: Előregisztrációs adat). Az előregisztrációs adatot Érintett a Keretalkalmazás segítségével lefotózza, annak adatait a mobileszközében eltárolja.
+1. Érintettek köre
+: Minden
+személyiadat- és lakcímnyilvántartás hatálya alá tartozó, 14. életévét betöltött, személyazonosításra alkalmas hatósági igazolvánnyal rendelkező természetes személy, aki a Keretalkalmazás saját eszközre történő telepítését követően, a Keretalkalmazás indításával digitális állampolgárság felhasználói profil későbbi aktiválása érdekében
+személyazonosítás
+céljából előregisztrációt kezdeményez – a járási hivatal, a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti kijelölt kormányhivatal vagy nyilvántartást kezelő szerv útján – az Adatkezelőnél.
+2. Az adatkezelés célja
+: A
+digitális állampolgárság a felhasználói profil felhasználó által kezdeményezett aktiválásával jön létre. A Felhasználó részére adatkezelő lehetőséget biztosít, hogy személyes megjelenéssel, személyazonosságának
+igazolásával, a Keretalkalmazásban történő előregisztrációs adat rögzítésével
+egy későbbi időpontban, egyszerűsített eljárásban regisztrációt kezdeményezzen.
+3. Jogalap
+: GDPR 6. cikk (1) bekezdés a) pontja szerint.
+4. Kezelt adatok köre és célja
+:
+adatkör
+adat kezelésének célja
+személyi azonosító*
+azonosítás
+előregisztráció törlésére szolgáló kód*
+azonosítás
+előregisztráció törlésére szolgáló kóddal együtt megadott születési dátum
+azonosítás
+természetes személyazonosító adatok
+azonosítás (5. pont b. alpontja szerint)
+okmányszám és okmány kiállítás dátuma:
+eSzemélyi igazolvány (2016. 01. 01. után kiállított)
+személyi igazolvány
+vezetői engedély
+útlevél
+azonosítás (5. pont b. alpontja szerint)
+*kötelező
+5. Az adatkezeléssel érintett tevékenység
+:
+A felhasználói profil aktiválása a személyazonosság igazolásához kötött. A személyazonosítás személyes megjelenéssel járó előregisztrációval is megtehető. Az előregisztráció során az Adatkezelő –
+a járási hivatal, a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti kijelölt kormányhivatal vagy az Nytv. szerinti nyilvántartást kezelő szerv
+útján – a személyesen megjelenő Felhasználó személyazonosság igazolását követően rendelkezésére bocsátja azt a mobileszköz kamerájával olvasható QR kódot (mely a személyi azonosítót visszafejthetetlen, titkosított módon tartalmazza), a hozzá tartozó biztonsági kódot és az előregisztráció törlésére szolgáló kódot, mely a sikeres előregisztráció megtörténtét igazoló információt tartalmazza.
+Adatkezelő az a) pont szerinti előregisztráció során a személyazonosításhoz közhiteles nyilvántartásból származó adatokat (viselt és születési név, anyja neve, születési hely és idő) használ fel.
+Az előregisztrációs adatot a biztonsági kód megadásával Felhasználó a mobileszközében a Keretalkalmazásban titkosítva, visszafejthetetlen módon eltárolja annak érdekében, hogy egy későbbi időpontban a regisztrációt egyszerű eljárás alapján elvégezhesse.
+Adatkezelő a c. alpont szerinti előregisztrációt követően jogosult a Keretalkalmazás egyes Felhasználói esetében személyazonosság igazolása érdekében a 3. pontban foglalt okmányadatokat kezelni, megfelelő közhiteles hatósági nyilvántartásban ellenőrizni.
+Az előregisztráció törlésére az előregisztráció törlésére szolgáló kód és a Felhasználó természetes személyazonosító adatai közül egy vagy több megadásával a 1818 Kormányzati Ügyfélvonalon keresztül van lehetőség.
+6. Adatkezelés időtartama
+:
+Az Adatkezelő az előregisztrációs adat visszafejthetetlen lenyomatát a regisztrációig, de legfeljebb 6 hónapig tárolja.
+7. Adatkezelés módja:
+Elektro
+nikus úton a Keretalkalmazásban.
+8. Adatok forrása
+: A Felhasználó hozzájárulása alapján az Nytv. szerinti polgárok személyi- és lakcímadatait tartalmazó
+nyilvántartás.
+9. Adatközlés
+: nem történik.
+10. Profilalkotás, automatikus döntéshozatal:
+nem történik.
+2. Regisztráció
+A természetes személy felhasználói profiljának használata aktiváláshoz kötött. A digitális állampolgárság a felhasználói profil felhasználó által kezdeményezett aktiválásával jön létre. A felhasználói profil a sikeres azonosítást követően személyes megjelenés nélkül, a Keretalkalmazásban történő regisztrációval (ezen alcím alkalmazásában a továbbiakban: regisztráció) aktiválható.
+1. Felhasználók (érintettek) köre
+: minden
+személyiadat- és lakcímnyilvántartás hatálya alá tartozó személy, a Keretalkalmazás saját eszközre történő telepítését követően, a Keretalkalmazás indításával digitális állampolgárság felhasználói profilt aktivál.
+2. Cél
+: a
+digitális állampolgárság felhasználó által kezdeményezett aktiválása
+. A digitális állampolgárság felhasználói profil személyes megjelenés nélkül, a Keretalkalmazásban történő regisztrációval és sikeres azonosítást követően aktiválható.
+3. Jogalap
+: GDPR 6. cikk (1) bekezdés a) pontja.
+4. Kezelt adatok köre és célja
+:
+adatkör
+adat kezelésének célja
+viselt név*
+azonosítás
+születési név*
+azonosítás
+születési hely*
+azonosítás
+születési idő*
+azonosítás
+anyja születési neve*
+azonosítás
+állampolgárság*
+azonosítás
+okmányazonosító*
+azonosítás
+arcképmás*
+azonosítás
+DÁP azonosító*
+azonosítás
+e-mail cím*
+azonosítás, kapcsolat
+mobil telefonszám*
+azonosítás, kapcsolat
+*: kötelező adat
+5. Az adatkezeléssel érintett tevékenység
+:
+A felhasználói profil aktiválása a személyazonosság igazolásához kötött. A személyazonosítás a Keretalkalmazáson keresztül tehető meg személyes megjelenés nélkül
+távoli azonosítással
+vagy
+tárolóelemet tartalmazó személyazonosító igazolvánnyal
+.
+i. Távoli azonosítással történő azonosítás során a digitális állampolgárság szolgáltató, mint Adatkezelő jelen tájékoztató V. fejezete szerinti adatfeldolgozója videojel segítségével meghatározza a személyazonosság igazolásához használt okmányról a természetes személyazonosító adatokat és az okmányazonosítót. A távoli azonosítással történő azonosítás során megismert természetes személyazonosító adatok, valamint a videójel segítségével készített arckép felhasználásával az Adatkezelő az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 12/B. §-ában meghatározottak szerinti automatizált összehasonlítás szolgáltatást is igénybe vehet.
+ii. A tárolóelemet tartalmazó személyazonosító igazolvánnyal történő azonosítás során a digitális állampolgárság szolgáltató, mint Adatkezelő, illetve annak adatfeldolgozója Keretalkalmazáson keresztül kiolvassa a tárolóelemből a természetes személyazonosító adatokat, az állampolgárságot és az okmányazonosítót.
+A digitális állampolgárság szolgáltató az a/i) és a/ii) pontok szerint megismert okmányazonosító adat alapján a személyazonosításra alkalmas hatósági igazolványt nyilvántartó központi nyilvántartásból átveheti az érintett természetes személyazonosító adatait, állampolgárságát, nemét, arcképmását, az okmány érvényességére vonatkozó adatot, az okmány azonosítóját a felhasználó személyazonosságának ellenőrzése céljából. A digitális állampolgárság szolgáltató az ellenőrzött természetes személyazonosító adatok és az okmányazonosító alapján az Érintett digitális állampolgárság nyilvántartásban történő azonosítása érdekében a digitális állampolgárság nyilvántartásból átveszi az érintett digitális állampolgár azonosítóját.
+Ha a b) pont szerinti adatszolgáltatás alapján az Érintett személyazonossága a digitális állampolgárság nyilvántartást vezető szerv által nem állapítható meg vagy a személyazonosság igazolásához használt okmány érvénytelen vagy születési idejét helytelenül adta meg, a regisztráció nem végezhető el.
+Adatkezelő azonosítás és kapcsolattartás céljából kezeli a felhasználói profil aktiválása során érintett által megadott e-mail címet és mobil telefonszámot. Adatkezelő az e-mail címet a felhasználói profil aktivitásának ideje alatt a Keretalkalmazás felhasználói élményével kapcsolatos közvetlen üzenetek küldésére felhasználhatja, feltéve, hogy érintett ehhez a regisztráció folyamatában egyértelmű és önkéntes hozzájárulását adta. Érintett jogosult hozzájárulását visszavonni.
+6. Adatkezelés időtartama
+: a felhasználó által kezdeményezett felhasználói profil aktiválásának idejére.
+7. Adatkezelés módja
+: elektronikus
+8. Adatok forrása
+:
+személyiadat- és lakcímnyilvántartás, okmánynyilvántartás
+9. Adatközlés
+:
+digitális állampolgárság nyilvántartás felé,
+bizalmi szolgáltató felé azonosítás érdekében.
+10. Profilalkotás, automatikus döntéshozatal:
+nem történik.
+3. Személyazonosság ellenőrzése
+1. Felhasználók (érintettek)    köre
+: minden
+személyiadat- és    lakcímnyilvántartás hatálya alá    tartozó személy, aki a Keretalkalmazás saját    eszközre történő telepítését    követően, a Keretalkalmazás indításával    regisztrált, digitális állampolgárság    felhasználói profilt aktivált.
+2.    Cél
+:    Szolgáltató Érintett hozzájárulása    alapján a Keretalkalmazás integritásának    és információs biztonságának    biztosítása érdekében jogosult ellenőrizni a    regisztráció során megadott személyes    adatokat.
+3.    Jogalap
+: GDPR 6. cikk    (1) bekezdés a) pontja, érintett    hozzájárulása alapján.
+4.    Kezelt adatok köre és    célja
+:
+adatkör
+adat kezelésének    célja
+DÁP    azonosító*
+azonosítás
+személyi    azonosító*
+azonosítás
+személyazonosításra alkalmas okmány    azonosítója, kiállításának    ideje*
+azonosítás (Érintettől    származó adat)
+személyazonosításra alkalmas okmány    érvényességének    ténye*
+azonosítás
+*: kötelező    adat
+5. Az    adatkezeléssel érintett    tevékenység
+:
+Szolgáltató a regisztrációt    követően
+Érintett    által a Keretalkalmazásban erre a célra megjelenő    oldalon általa megadott
+okmányazonosító és okmány    kiállításának dátuma adatok    alapján a személyiadat- és    lakcímnyilvántartásból, DÁNY-ból    és az okmánynyilvántartásokból    átveszi Érintett 4. pontban felsorolt adatait    személyazonosságának ellenőrzése    céljából.
+Ha az a) pont    szerinti adatszolgáltatás és ellenőrzés    alapján Érintett személyazonossága    egyértelműen megállapítható és az azonos    a regisztráció során rögzített adatokkal,    akkor Szolgáltató a Keretalkalmazás    használatát biztosítja Érintett    részére.
+Ha az a) pont    szerinti adatszolgáltatás és ellenőrzés    alapján Érintett személyazonossága a    Szolgáltató által nem állapítható    meg vagy az nem azonos a regisztráció során    rögzített adatokkal, Szolgáltató a    Keretalkalmazás használatát
+megtagadja
+.
+6.    Adatkezelés időtartama
+: személyazonosság ellenőrzési    eljárásának idejére.
+7.    Adatkezelés módja
+: elektronikus.
+8.    Adatok forrása
+:    Érintett,
+személyiadat- és    lakcímnyilvántartás,    okmánynyilvántartás,    DÁNY.
+9.    Adatközlés
+:
+személyiadat- és    lakcímnyilvántartás,    okmánynyilvántartások    és
+DÁNY felé.
+10.    Profilalkotás, automatikus    döntéshozatal:
+nem történik.
+4. Erkölcsi bizonyítvány igénylése
+1. Felhasználók (érintettek) köre
+: minden természetes
+személy, aki a Keretalkalmazást saját eszközre történő telepítését követően hatósági erkölcsi bizonyítványt igényel a keretalkalmazás funkcióján keresztül.
+2. Cél
+: Keretalkalmazás segítségével hatósági erkölcsi bizonyítvány igénylés előterjesztése.
+3. Jogalap
+: GDPR 6. cikk (1) bekezdés e) pontja.
+4. Kezelt adatok köre és célja
+:
+családi és utónév (viselt név)*
+azonosítás
+születési családi és utónév*
+azonosítás
+születési hely*
+azonosítás
+születési idő*
+azonosítás
+anyja születési családi és utóneve*
+azonosítás
+DÁP azonosító*
+azonosítás
+igényazonosító (36 karakter hosszúságú, véletlenszerűen generált egyedi kód)*
+azonosítás (DÁP azonosítóhoz rendelt)
+kérelemazonosító*
+azonosítás (sikeres igénylés után)
+állampolgárság*
+azonosítás
+*: kötelező adat
+5. Az adatkezeléssel érintett tevékenység
+: hatósági erkölcsi bizonyítvány kiállítása iránti kérelmet Érintett a Keretalkalmazás funkciójának indításával terjeszti elő. A Keretalkalmazás az Érintett eszközén tárolt személyes adatok küldésével kérelem összeállítását kezdeményezi az eljáró hatóságnál.
+6. Adatkezelés időtartama
+:
+sikertelen igénylés esetén az erről szóló tájékoztató szöveg megjelenéséig;
+sikeres igénylés esetén kérelemazonosító megjelenítéséig.
+7. Adatkezelés módja
+: elektronikus
+8. Adatok forrása:
+személyiadat- és lakcímnyilvántartás, DÁNY
+9. Adatközlés
+: B
+elügyminisztérium (ERHAB) szakrendszere felé.
+10. Profilalkotás, automatikus döntéshozatal
+: nem történik.
+5. Adatok felhasználása rendőri intézkedés (igazoltatás) körében
+1. Felhasználók (érintettek) köre
+: minden természetes
+személy, aki a Keretalkalmazást saját eszközre történő telepítését követően digitális állampolgárság felhasználói profilt aktivált és a rendőrségről szóló 1994. évi XXXIV. törvény 29. §-a alapján rendőri intézkedés – igazoltatás – alá vonják.
+2. Cél
+: a felhasználó a Keretalkalmazás segítségével igazolni tudja személyazonosságát a közrend, a közbiztonság védelme érdekében, bűnmegelőzési vagy bűnüldözési célból, a tartózkodása jogszerűségének megállapítása céljából, közlekedésrendészeti ellenőrzés során, továbbá az igazoltatott vagy más természetes, illetve jogi személy és egyéb szervezet jogainak védelme érdekében történő rendőri igazoltatás során.
+3. Jogalap
+: GDPR 6. cikk (1) bekezdés e) pontja.
+4. Kezelt adatok köre és célja
+:
+DÁP azonosító*
+azonosítás
+*: kötelező adat
+5. Az adatkezeléssel érintett tevékenység
+: az igazoltatás, mint rendőri intézkedés célja a személyazonosság megállapítását, valamint a személyazonosító adatok hitelt érdemlő igazolását jelenti. Az érintett, akit igazoltatás alá vontak, a Keretalkalmazás által előállított egyszeri, titkosított kód (QR-kód) használatával, a rendőr által saját eszközével történő rögzítésre alkalmas módon történő felmutatásával igazolhatja személyazonosságát, közölheti lakcímét.
+6. Adatkezelés időtartama
+: a Keretalkalmazás által előállított QR-kód igazoltatás során történő alkalmazás idejére, rendőr által történő sikeres azonosításig.
+7. Adatkezelés módja
+: elektronikus
+8. Adatok forrása
+:
+DÁNY
+9. Adatközlés
+:
+NOVAMobil rendőrségi szakrendszer felé.
+10. Profilalkotás, automatikus döntéshozatal
+: nem történik.
+6. Keretalkalmazásban tárolt adatok
+1. Felhasználók (érintettek) köre
+: minden természetes
+személy, aki a Keretalkalmazást saját eszközre történő telepítését követően digitális állampolgárság felhasználói profilt aktivált.
+2. Cél
+: a
+felhasználói profil felhasználó által kezdeményezett aktiválását követően az alkalmazásban meghatározott adatok kerülnek annak érdekében, hogy az alkalmazás
+biztosítani tudja a természetes személy felhasználó számára mind online, mind offline személyazonosító adatok, illetve valamely attribútum felhasználását köz- és magánszolgáltatások igénybevétele érdekében.
+3. Jogalap
+: GDPR 6. cikk (1) bekezdés e) pontja.
+4. Kezelt adatok köre és célja
+:
+minden esetben tárolt adatok köre (csak érvényes okmányok):
+viselt név*
+azonosítás/felhasználó általi adatkezelés
+születési név*
+azonosítás/felhasználó általi adatkezelés
+születési idő*
+azonosítás/felhasználó általi adatkezelés
+születési hely*
+azonosítás/felhasználó általi adatkezelés
+anyja születési neve*
+azonosítás/felhasználó általi adatkezelés
+állampolgárság*
+azonosítás/felhasználó általi adatkezelés
+okmányazonosító (személyi igazolvány)*
+azonosítás/felhasználó általi adatkezelés
+okmányazonosító (vezetői engedély)
+azonosítás/felhasználó általi adatkezelés
+okmányazonosító (útlevél)
+azonosítás/felhasználó általi adatkezelés
+okmányazonosító (lakcímigazolvány)
+azonosítás/felhasználó általi adatkezelés
+lakcím*
+azonosítás/felhasználó általi adatkezelés
+DÁP azonosító*
+azonosítás/felhasználó általi adatkezelés
+*: kötelező    adat
+járműadatok (amennyiben felhasználó tulajdonosa/üzembentartója gépjárműnek):
+rendszám*
+azonosítás/felhasználó általi adatkezelés
+jármű gyártmánya*
+azonosítás/felhasználó általi adatkezelés
+jármű típusa*
+azonosítás/felhasználó általi adatkezelés
+jármű kereskedelmi leírása(i)*
+azonosítás/felhasználó általi adatkezelés
+jármű kategóriája*
+azonosítás/felhasználó általi adatkezelés
+jármű színe*
+azonosítás/felhasználó általi adatkezelés
+ülések száma vezetővel*
+azonosítás/felhasználó általi adatkezelés
+jármű gyártási éve*
+azonosítás/felhasználó általi adatkezelés
+jármű alvázszáma*
+azonosítás/felhasználó általi adatkezelés
+jármű saját tömege*
+azonosítás/felhasználó általi adatkezelés
+jármű együttes tömege*
+azonosítás/felhasználó általi adatkezelés
+motorkód/szám*
+azonosítás/felhasználó általi adatkezelés
+jármű hajtóanyaga*
+azonosítás/felhasználó általi adatkezelés
+jármű legnagyobb leadott teljesítménye (kW)
+azonosítás/felhasználó általi adatkezelés
+hengerűrtartalom (cm3)
+azonosítás/felhasználó általi adatkezelés
+első nyilvántartásba vétel időpontja*
+azonosítás/felhasználó általi adatkezelés
+első magyarországi nyilvántartásba vétel időpontja*
+azonosítás/felhasználó általi adatkezelés
+forgalmi engedély sorszáma*
+azonosítás/felhasználó általi adatkezelés
+műszaki érvényességi idő*
+azonosítás/felhasználó általi adatkezelés
+forgalomba helyezett jármű esetén a forgalomba helyezés dátuma*
+azonosítás/felhasználó általi adatkezelés
+forgalomból kivont jármű esetén a forgalomból kivont állapot ténye, az aktuális forgalomból való kivonásának jellege
+azonosítás/felhasználó általi adatkezelés
+tulajdonos (igen/nem)
+azonosítás/felhasználó általi adatkezelés
+üzembentartó (igen/nem)
+azonosítás/felhasználó általi adatkezelés
+jármű érvényes forgalmazási korlátozására vonatkozó adatok
+azonosítás/felhasználó általi adatkezelés
+a járműre vonatkozó, kötelező gépjármű-felelősségbiztosítás szerződés és kockázatviselés kezdete és vége
+azonosítás/felhasználó általi adatkezelés
+a járműre vonatkozó kötelező gépjármű-felelősségbiztosítás szolgáltatást nyújtó biztosító neve
+azonosítás/felhasználó általi adatkezelés
+a járműre vonatkozó kötelező gépjármű-felelősségbiztosítás ajánlati azonosítója, vagy kötvényszáma
+azonosítás/felhasználó általi adatkezelés
+*: kötelező    adat
+Egyéb adatok
+társadalombiztosítási azonosító jel (TAJ)*
+azonosítás/felhasználó általi adatkezelés
+adóazonosító jel*
+azonosítás/felhasználó általi adatkezelés
+*: kötelező    adat
+5. Az adatkezeléssel érintett tevékenység
+:
+Az azonosítás sikeressége esetén - az Érintett természetes személyazonosító adataival és az állampolgárságára, valamint a személyazonosság igazolására alkalmas hatósági igazolványra vonatkozó adatokkal együtt - Adatkezelő jelzi a digitális állampolgárság nyilvántartást vezető szerv felé a digitális állampolgárság regisztrálása céljából.
+A digitális állampolgárság regisztrálását követően a Keretalkalmazás az eszközön tárolja a 4. pont a) és c) pontok szerinti felhasználó személyes adatait, továbbá tárolhatja a 4. pont b) pontja szerinti adatokat további szolgáltatásokhoz való hozzáférés céljából.
+Szolgáltató az adatokat kizárólag a regisztráció, továbbá azok frissítésekor kezeli. Az adatok a sikeres regisztrációt követően, továbbá az adatok frissítését követően a felhasználó Keretalkalmazásában kerülnek tárolásra, azokat felhasználó kezeli.
+Az adatok frissítéséről Szolgáltató gondoskodik.
+6. Adatkezelés időtartama
+:
+A 4. pont a), b) és c) pontjai esetében:
+i. felhasználó által történő regisztráció ideje alatt.
+A 4. pont a) és b) pontja szerinti adatok esetében:
+i. adat megváltozása vagy
+ii. tulajdonjog és/vagy üzembentartás jogának elévülése
+utáni első felhasználói adatfrissítés idejéig.
+7. Adatkezelés módja
+: elektronikus
+8. Adatok forrása
+:
+személyiadat- és lakcímnyilvántartás,
+járműnyilvántartás,
+magyar államkincstár (TAJ szám),
+állami adóhatóság (adóazonosító szám)
+9. Adatközlés
+:
+nem történik.
+10. Profilalkotás, automatikus döntéshozatal
+: nem történik.
+7. Adatok hiteles igazolása
+1. Felhasználók (érintettek) köre
+: minden természetes
+személy, aki a Keretalkalmazásban elérhető egyes személyes adatairól
+digitálisan előállított hitelesített igazolás
+előállítását kezdeményezi.
+2. Cél
+:
+Érintett a lekérdezés időpontjában érvényes személyes adatait
+digitálisan előállított hitelesített igazolás felhasználásával igazolhassa
+választása szerint
+köz- és magánszolgáltatások igénybevétele érdek
+ében.
+3. Jogalap
+: GDPR 6. cikk (1) bekezdés e) pontja.
+4. Kezelt adatok köre és célja
+:
+viselt név*
+azonosítás/felhasználó általi adatkezelés
+születési név*
+azonosítás/felhasználó általi adatkezelés
+születési idő*
+azonosítás/felhasználó általi adatkezelés
+születési hely*
+azonosítás/felhasználó általi adatkezelés
+anyja születési neve
+azonosítás/felhasználó általi adatkezelés
+személyi azonosító
+azonosítás/felhasználó általi adatkezelés
+TAJ szám
+azonosítás/felhasználó általi adatkezelés
+adóazonosító
+azonosítás/felhasználó általi adatkezelés
+vezetői engedély (magyar hatóság által kiállított) adatai:
+típusára, okmányazonosító jelére, kiadására, érvényességére (idejére, kategóriájára), cseréjére és visszavonására vagy bevonására (leadására, elvételére, visszaadására) vonatkozó adatok:
+a kiállított okmányon szereplő kibocsátási dátum;
+a kiállított okmányon szereplő érvényességi idő;
+a kiállított okmányon szereplő kibocsátó hatóság;
+a kiállított okmányon szereplő sorszám;
+a kiállított okmányon szereplő okmánytípus;
+hivatalos feljegyzések rovatába bejegyzett adatok:
+a kiállított okmányon szereplő korlátozások kódja;
+a vezetési jogosultság megszerzésének és engedély-nyilvántartásba történő bejegyzésének időpontjára és a megszerzett kategóriára vonatkozó adatok:
+a kiállított okmányon szereplő érvényességi kategóriák, érvényesség kezdete;
+a kiállított okmányon szereplő, az adott kategóriára vonatkozó vizsga időpontja.
+azonosítás/felhasználó általi adatkezelés
+lakcím
+azonosítás/felhasználó általi adatkezelés
+*: kötelező adat
+5. Az adatkezeléssel érintett tevékenység
+:
+Felhasználó a Keretalkalmazás „Hiteles adatmegosztás” funkció indításával kiválaszthatja azokat az adatokat, adatcsoportokat, melyekről
+digitálisan előállított hitelesített igazolás
+előállítását
+igényli.
+Felhasználó a lakcím, vezetői jogosultság, adóazonosító jel, TAJ szám és személyi azonosító adatcsoportok közül egyet megjelölhet, a lekérdezést a „Dokumentum létrehozása” gombbal kezdeményezi.
+Szolgáltató az igényelt adatokat egy vagy több, .pdf kiterjesztésű, olvasható dokumentumban letöltésre felkínálja felhasználó eszközén. Szolgáltató a dokumentumokban igazolja, hogy az abban szereplő adatok a lekérdezés időpontjában érvényesek és megegyeznek az adatot tartalmazó közhiteles nyilvántartásban szereplő adatokkal, és ezen adatok tekintetében a dokumentum az adattípust tartalmazó fizikai okmány bemutatásával egyenértékű.
+6. Adatkezelés időtartama
+: a
+digitálisan előállított hitelesített igazolás
+előállításának idejére.
+7. Adatkezelés módja
+: elektronikus
+8. Adatok forrása
+:
+személyiadat- és lakcímnyilvántartás,
+közúti közlekedési nyilvántartás engedély-nyilvántartása,
+magyar államkincstár (TAJ szám),
+állami adóhatóság (adóazonosító szám)
+9. Adatközlés
+:
+nem történik.
+10. Profilalkotás, automatikus döntéshozatal
+: nem történik.
+8. Időpont foglalás
+1. Felhasználók (érintettek) köre
+: minden természetes
+személy, aki a Keretalkalmazást saját eszközre történő telepítését követően digitális állampolgárság felhasználói profilt aktivált és a keretalkalmazás funkciójának segítségével hatósági ügyintézés érdekében időpontot foglal az illetékes kormányablakhoz, illetve okmányirodába.
+2. Cél
+: a Keretalkalmazás segítségével Érintettel történő kapcsolattartás az általa lefoglalt ügyintézési időponttal, helyszínnel, illetve ügytípussal kapcsolatban. A személyes adatok köre az Érintett elérhetőségi adataira korlátozódik, az időpontfoglalással érintett hatósági ügyintézés során megadandó személyes adataira nem terjed ki.
+3. Jogalap
+: GDPR 6. cikk (1) bekezdés a) pontja.
+4. Kezelt adatok köre és célja
+:
+DÁP azonosító*
+azonosítás
+időpontfoglaláshoz kiadott regisztrációs szám*
+azonosítás
+időpontfoglalás időpontja*
+tájékoztatás
+*: kötelező adat
+5. Az adatkezeléssel érintett tevékenység
+:
+Érintett a Keretalkalmazás funkciójának indítását követően kiválasztja az ügycsoportot, ügytípust, a kormányablak vagy okmányiroda helye szerinti vármegyét és települést. A rendelkezésre álló választási lehetőségek közül kiválasztja a számára megfelelő kormányablakot vagy okmányirodát.
+6. Adatkezelés időtartama
+: a véglegesített és visszaigazolt foglalási időpont teljesüléséig.
+7. Adatkezelés módja
+: elektronikus.
+8. Adatok forrása
+:
+érintett Keretalkalmazás.
+9. Adatközlés
+:
+Központi Időpontfoglaló Alkalmazás (KIA) szakrendszer felé, adatkezelő a Közigazgatási és Területfejlesztési Minisztérium és a fővárosi, megyei kormányhivatalok.
+10. Profilalkotás, automatikus döntéshozatal
+: nem történik.
+9. DÁP profilhoz kapcsolódó adatkezelési műveletek
+1. Felhasználók (érintettek) köre
+:
+minden természetes
+személy, aki a Keretalkalmazást saját eszközre történő telepítését követően digitális állampolgárság felhasználói profilt aktivált.
+2. Cél
+:
+Felhasználó részére Szolgáltató weboldalon biztosítja, hogy a Felhasználó távolról, a szükséges adatok megadásával:
+az érintett mobileszközön a Keretalkalmazást elérhetetlenné tegye, vagy
+érintett aláíró tanúsítványát visszavonhassa.
+3. Jogalap
+: GDPR 6. cikk (1) bekezdés a) pontja.
+4. Kezelt adatok köre és célja
+:
+adatkör
+adat kezelésének célja
+e-mail cím*
+azonosítás
+születési idő (év, hónap, nap)*
+azonosítás
+telefonszám*
+azonosítás
+aláíró tanúsítvány sorszáma*
+azonosítás
+*: kötelező adat
+5. Az adatkezeléssel érintett tevékenység
+:
+Felhasználó a weboldalon található „Bejelentkezés” linkre kattintással indítja a profiljához kapcsolódó szolgáltatásokat e-mail címe, születési ideje és telefonszáma hibátlan megadásával.
+Az adatok helyes megadását követően Felhasználó digitális állampolgárság nyilvántartásban lévő elektronikus levelezési címére egyedi hivatkozást (linket) tartalmazó elektronikus levelet kap a Szolgáltatótól, mely linkre kattintva Felhasználó részére egy új ablakban listázza az összes eszközt, melyre Felhasználó a Keretalkalmazást telepítette és aktiválta. A törlést biztosító link korlátozott ideig aktív.
+Engedélyezett belépést követően a profil oldalon Felhasználó kétféle funkciót használhat:
+c.i. amennyiben a Felhasználó mobileszközén aktivált felhasználói profillal ellátott Keretalkalmazás található és ezt a mobileszközt eltulajdonították, elveszett megrongálódott, megsemmisült, vagy egyéb okból használhatatlanná vált, Felhasználó a szükséges adatok megadásával az érintett mobileszközön a Keretalkalmazást elérhetetlenné tegye. Felhasználó az egyes eszközökhöz rendelt „Eszköz törlése” linkre kattintva – figyelmeztető jelzést követően általa megerősítetten - végérvényesen és visszavonhatatlanul törli az eszközt a nyilvántartásból.
+c.ii. Felhasználó aláíró tanúsítványa sorszámának megadásával kezdeményezheti annak visszavonását. Felhasználó „Tanúsítvány visszavonása” linkre kattintva – figyelmeztető jelzést követően általa megerősítetten - végérvényesen és visszavonhatatlanul kezdeményezi a tanúsítvány visszavonását a nyilvántartásból. A törlés kezdeményezését a Szolgáltató továbbítja a DÁNY felé.
+6. Adatkezelés időtartama
+: a felhasználó által kezdeményezett eljárás idejére.
+7. Adatkezelés módja
+: elektronikus
+8. Adatok forrása
+:
+Felhasználó, DÁNY.
+9. Adatközlés
+:
+DÁNY felé.
+10. Profilalkotás, automatikus döntéshozatal:
+nem történik.
+10. Harmadik féltől származó szoftverfejlesztő eszközök használata
+1. Felhasználók (Érintettek) köre
+: Azonos az előző pontban leírt felhasználói körrel.
+2. Cél
+: Adatkezelő jogszabályi kötelezettsége a Keretalkalmazás és annak folyamatos működésének biztosítása. Ennek érdekében Adatkezelő harmadik féltől származó szolgáltatásokat vesz igénybe, melyek a Keretalkalmazással kapcsolatos statisztikai elemzések végrehajtásával, esetleges rendszerhiba esetén a hibaeseménnyel kapcsolatos információval látja el Adatkezelőt, így segítve a Keretalkalmazás fejlesztését, hibák kijavítását és a jövőbeli hibaesemények kiküszöbölését, továbbá a Keretalkalmazás bizalmasságának, rendelkezésre állásának és sérthetetlenségének biztosítását.
+3. Jogalap
+:
+GDPR 6. cikk (1) bekezdés f) pontja, adatkezelő jogos érdeke az 5. pont a.-f. pontjai tekintetében;
+GDPR 6. cikk (1) bekezdés a) pontja, érintett hozzájárulása az 5. pont g.-h. pontjai tekintetében.
+4. Kezelt személyes adatok köre és célja
+:
+adatkör
+adat kezelésének célja
+adatot használó alkalmazás
+Mobilkészülék IP azonosítója
+azonosítás
+Firebase Core és Performance Monitoring
+Firebase Crashlytics
+Usercentrics CMP
+Dynatrace RUM
+Mobilkészülék egyedi azonosító száma
+azonosítás
+Firebase Core Performance Monitoring
+Firebase Crashlytics
+Usercentrics CMP
+Dynatrace RUM
+Érintett Keretalkalmazásban rögzített e-mail címe
+azonosítás, regisztráció
+Sinch Mailgun
+Az applikáció által használt egyéb alkalmazás személyes adatot nem kezel.
+5. Az adatkezeléssel érintett tevékenység
+:
+Firebase Core, App Check alkalmazás használata: alkalmazás integritásának ellenőrzésére szolgáló modulok, melyek megakadályozzák, hogy jogosulatlanul, nem hitelesített módon vagy eszközzel hozzáférjenek a háttér-erőforrásokhoz.
+Firebase Remote Config alkalmazás használata: lehetővé teszi a Keretalkalmazás működésének és megjelenésének megváltoztatását anélkül, hogy a Felhasználóknak alkalmazásfrissítést kellene letölteniük. a Remote Config használatakor a Keretalkalmazáson belüli alapértelmezett értékeket hoz létre, amelyek szabályozzák az alkalmazás viselkedését és megjelenését.
+Firebase Cloud Messaging alkalmazás használata: használatával Adatkezelő értesítheti a Keretalkalmazást (adatüzenetek) vagy Keretalkalmazáson keresztül a Felhasználót (megjelenítési üzenetek).
+Firebase Crashlytics alkalmazás használata: valós időben segít nyomon követni, rangsorolni és kijavítani a Keretalkalmazás stabilitási problémáit, amelyek rontják annak minőségét. Az alkalmazás statisztikai adatokkal támogatja szolgáltató Firebase BigQuery alkalmazását.
+Sinch Mailgun: felhőalapú emailküldő szolgáltatás, mellyel Adatkezelő Érintettek részére
+automatikus tranzakciós üzeneteket küld a regisztrációs folyamat során megadott e-mail cím megerősítésére, továbbá
+automatikus tájékoztató üzenetet küld sikeres regisztrációt követően.
+Usercentrics CMP alkalmazás használata: a 3. pont b) alpontja szerinti adatkezeléshez történő hozzájárulás kezelése érdekében rögzíti a beleegyezés dátumát és időpontját, valamint a felhasznált adatokkal vagy szolgáltatásokkal kapcsolatos beleegyezési lehetőségeket.
+Google Analytics for Firebase alkalmazás használata: egy speciális platform, amely összegyűjti az adatokat a keretalkalmazásról, hogy olyan statisztikai jelentéseket készíthessen adatkezelő, amelyek megfelelő elemzést nyújtanak az keretalkalmazás és funkcióinak használatáról.
+Dynatrace Real User Monitor (RUM): egy teljesítményfigyelési folyamat, amely részletes adatokat gyűjt a felhasználó és az alkalmazás közötti interakcióról. A RUM különféle mérőszámokról gyűjt adatokat: például a betöltési műveletekről gyűjtött adatok magukban foglalhatják az alkalmazás indítási, kérelem indítási és a sebességindex mérőszámait. A RUM által gyűjtött adatok Adatkezelő KAk-ban tárolja és kezeli, az adatok a Dynatrace részére nem kerülnek továbbításra.
+6. Adatkezelés időtartama
+:
+Firebase Core, App Check alkalmazás: legfeljebb 30 nap.
+Firebase Remote Config alkalmazás: legfeljebb 180 nap.
+Firebase Cloud Messaging alkalmazás: legfeljebb 180 nap.
+Firebase Crashlytics alkalmazás: legfeljebb 90 nap.
+Sinch Mailgun alkalmazás: legfeljebb 7 nap.
+Google Analytics for Firebase: legfeljebb 14 hónap.
+Dynatrace RUM (valós felhasználói adatok): legfeljebb 30 nap;
+Usercentrics CMP: legfeljebb 2 év.
+7. Adatkezelés módja
+: Elektronikus. Adatkezelő adatfeldolgozót vesz igénybe az V. fejezet szerint. A hozzájárulással történő, nem személyes adatok kezelésére az elektronikus hírközlésről szóló 2003. évi C. törvény 155. § (4) bekezdése alapján történik.
+8. Adatok forrása:
+Felhasználó mobileszköze.
+9. Adatközlés
+:
+V. pontban foglaltak szerint.
+10. Profilalkotás, automatikus döntéshozatal
+: nem történik.
+VII.
+Érintett jogai
+Érintett kérelmezheti az Adatkezelőtől a rá vonatkozó személyes adatokhoz való hozzáférést, azok helyesbítését, törlését, egyes esetekben kérheti továbbá az adatok kezelésének korlátozását, és tiltakozhat a személyes adatok kezelése ellen. Érintettet megilleti továbbá az adathordozhatósághoz és a felügyeleti hatósághoz történő panasz benyújtásához, valamint a jogorvoslathoz való jog, valamint az egyedi ügyekben alkalmazott automatizált döntéshozatal esetén a döntés hatályával kapcsolatos választás, valamint az emberi beavatkozás kérésének joga. Hozzájáruláson alapuló adatkezelés során Érintett jogosult továbbá a hozzájárulás bármely időpontban történő visszavonására, amely azonban nem érinti a visszavonás előtt a hozzájárulás alapján végrehajtott adatkezelés jogszerűségét. Az adatbiztonsági követelmények teljesülése és Érintett jogainak védelme érdekében Adatkezelő lehetőségeihez képest köteles meggyőződni Érintett és a jogával élni kívánó személy személyazonosságának egyezéséről, ennek érdekében a joggyakorlás az Érintett személyének azonosításához kötött.
+A)    A hozzáféréshez való jog
+Érintett bármikor jogosult felvilágosítást, tájékoztatást kérni arra vonatkozóan, hogy személyes adatait az Adatkezelő kezeli-e és miként, ideértve az adatkezelés céljait, a címzetteket, akikkel az adatait közölték, vagy a forrást, ahonnan az adatot az Adatkezelő megkapta, a kezelt adatok körét megőrzési időtartamot, az adatkezeléssel kapcsolatos bármely jogát, továbbá az automatizált döntéshozatalra, profilalkotásra vonatkozó információkat, harmadik országba vagy nemzetközi szervezetnek való továbbítás esetén pedig az ezzel kapcsolatos garanciákra vonatkozó információkat. Érintett jogosult, hogy megismerje, az Adatkezelő kinek, mikor, milyen jogszabály alapján, mely személyes adataihoz biztosított hozzáférést vagy kinek továbbította a személyes adatait. A hozzáférés joga gyakorlása során a Érintett arra is jogosult, hogy az adatok másolatát kérje, elektronikus úton benyújtott kérelem esetén – ellenkező kérés hiányában adatkezelő a kért információkat elektronikusan bocsátja rendelkezésre. Amennyiben Érintett hozzáférési joga hátrányosan érinti mások jogait és szabadságait, így különösen mások üzleti titkait vagy szellemi tulajdonát, az Adatkezelő jogosult Érintett kérelmének teljesítését szükséges és arányos mértékben megtagadni.
+B)    A helyesbítéshez való jog
+Adatkezelő Érintettre vonatkozó személyes adatokat annak kérésére helyesbíti vagy kiegészíti. Amennyiben kétség merül fel a helyesbített adat kapcsán, Adatkezelő felhívhatja Érintettet, hogy a pontosított adatot megfelelő módon, hitelt érdemlően bizonyítsa, illetve igazolja Adatkezelő számára. Ha jelen joggal érintett személyes adatokat az Adatkezelő más személlyel közölte, az adat helyesbítését követően haladéktalanul tájékoztatja ezeket a személyeket, feltéve, hogy az nem lehetetlen vagy nem igényel az Adatkezelőtől aránytalan erőfeszítést.
+C)     A törléshez való jog
+Az Érintett csak akkor élhet a törléshez való jogával, ha az Adatkezelőre ruházott közhatalmi jogosítványok gyakorlása keretében végzett, vagy a közérdekű feladatainak végrehajtásához az adat nem szükséges. Amennyiben Érintett valamely vagy az összes személyes adatának törlését kéri, az Adatkezelő azokat indokolatlan késedelem nélkül törli, amennyiben:
+az Adatkezelőnek az adott személyes adatra már nincs szüksége abból a célból, amelyből azokat gyűjtötte vagy más módon kezelte;
+olyan adatkezelésről van szó, amely az Érintett hozzájárulásán alapult, de a hozzájárulást Érintett visszavonta és az adatkezelésnek nincs más jogalapja;
+olyan adatkezelésről van szó, amely az Adatkezelő vagy harmadik személy jogos érdekén alapult, de Érintett tiltakozott az adatkezelés ellen, és nincs elsőbbséget élvező jogszerű ok az adatkezelésre;
+a személyes adatokat az Adatkezelő jogellenesen kezelte, vagy jogi kötelezettség teljesítéséhez szükséges a személyes adatok törlése.
+Amennyiben a jelen joggal
+érintett
+személyes adatokat az Adatkezelő más személlyel közölte, a törlést követően haladéktalanul tájékoztatja ezen személyeket, feltéve, hogy az nem lehetetlen vagy nem igényel az Adatkezelőtől aránytalan erőfeszítést. Az Érintett kérésére az Adatkezelő tájékoztatja ezen címzettekről. Adatkezelő nem minden esetben köteles a személyes adatok törlésére, különösen abban az esetben, ha az adatkezelés szükséges jogi igények előterjesztéséhez, érvényesítéséhez, illetve védelméhez (GDPR 17. cikk (3) bekezdés b) és e) pontok teljesülése esetében).
+D)     A tiltakozáshoz való jog
+Amennyiben Érintettre vonatkozó adatkezelés jogalapja az Adatkezelő vagy harmadik személy jogos érdeke, az Érintett jogosult tiltakozni az adatkezelés ellen. A tiltakozásnak az Adatkezelő nem köteles helyt adni, ha az Adatkezelő bizonyítja, hogy az adatkezelést olyan kényszerítő erejű jogos okok indokolják, amelyek elsőbbséget élveznek az Érintett érdekeivel, jogaival és szabadságaival szemben, vagy az adatkezelés az Adatkezelő jogi igényeinek előterjesztéséhez, érvényesítéséhez vagy védelméhez kapcsolódik.
+E)    Az adatkezelés korlátozásához (zároláshoz) való jog
+Érintett személyes adatai kezelésének korlátozását kérheti az alábbi esetekben:
+Érintett vitatja a személyes adatok pontosságát – ez esetben a korlátozás arra az időtartamra vonatkozik, amely lehetővé teszi, hogy az Adatkezelő ellenőrizze a személyes adatok pontosságát;
+az adatkezelés jogellenes, de Érintett ellenzi az adatok törlését, és ehelyett kéri azok felhasználásának korlátozását;
+az Adatkezelőnek már nincs szüksége a személyes adatokra adatkezelés céljából, de az Érintett igényli azokat jogi igények előterjesztéséhez, érvényesítéséhez vagy védelméhez;
+Érintett
+tiltakozik az adatkezelés ellen (
+korlátozás arra az időtartamra vonatkozik, amíg megállapításra nem kerül, hogy Adatkezelő jogos indokai elsőbbséget élveznek-e
+Érintett
+jogos indokaival szemben).
+A korlátozással
+érintett s
+zemélyes adatokat a tárolás kivételével az Adatkezelő nem kezeli, illetve csak abban a körben kezeli, amihez Érintett hozzájárult, illetve az Adatkezelő ilyen hozzájárulás hiányában is kezelheti azokat az adatokat, amelyek jogi igények előterjesztéséhez, érvényesítéséhez vagy védelméhez, vagy más természetes vagy jogi személy jogainak védelme érdekében, vagy uniós, illetve valamely európai uniós tagállam fontos közérdekére tekintettel szükségesek. Ha a személyes adatokat az Adatkezelő más személlyel közölte, az Adatkezelő az adatkezelés korlátozásáról haladéktalanul tájékoztatja ezen személyeket, feltéve, hogy az nem lehetetlen vagy nem igényel az Adatkezelőtől aránytalan erőfeszítést. Érintett kérésére az Adatkezelő tájékoztatja ezen címzettekről.
+F) Adathordozhatósághoz való jog
+Érintett jogosult arra, hogy a rá vonatkozó, általa Adatkezelő rendelkezésére bocsátott személyes adatait tagolt, széles körben használt, géppel olvasható formátumban megkapja, továbbá jogosult arra, hogy ezeket az adatokat egy másik adatkezelőnek továbbítsa anélkül, hogy ezt akadályozná Adatkezelő az automatizált módon megvalósított adatkezelési műveletekkel kapcsolatban.
+G)  Panaszjog, jogorvoslathoz való jog
+Ha az Érintett úgy ítéli meg, hogy az Adatkezelő általi személyes adatainak kezelése megsérti a mindenkor hatályos adatvédelmi jogszabályok, így különösen a Rendelet rendelkezéseit, jogában áll a szokásos tartózkodási helye, a munkahelye vagy a feltételezett jogsértés helye szerinti tagállam illetékes adatvédelmi felügyeleti hatósághoz panasszal fordulni.
+Az Érintett
+– panasztételi jogától függetlenül – fenti jogsérelem esetén bírósághoz is fordulhat. Az Érintett jogosult bírósághoz fordulni a felügyeleti hatóság rá vonatkozó, jogilag kötelező erejű döntésével szemben is. Az Érintett jogosult továbbá bírósági jogorvoslatra, ha a felügyeleti hatóság nem foglalkozik a panasszal vagy három hónapon belül nem tájékoztatja
+az Érintettet
+a benyújtott panaszával kapcsolatos eljárási fejleményekről vagy annak eredményéről.
+VIII.
+Jogorvoslati fórum
+Adatkezelő a GDPR 37. cikk szerinti adatvédelmi tisztviselőt alkalmaz.
+Bármely adatkezelési tevékenység során rögzített, tárolt adatok módosítását, törlését vagy zárolását, valamint az adatkezelésről részletes tájékoztatás kérését Érintett a
+z Adatkezelő adatvédelmi tisztviselőjének
+küldött kérelemmel teheti meg, ha az adott adatkezelési tevékenység meghatározásánál más elérhetőség nincs megadva.
+Adatkezelő indokolatlan késedelem nélkül, de mindenféleképpen a kérelem beérkezésétől számított egy hónapon belül tájékoztatja
+Érintettet
+a GDPR 15–22. cikkei szerinti kérelem nyomán hozott intézkedésekről. Szükség esetén, figyelembe véve a kérelem összetettségét és a kérelmek számát, ez a határidő további két hónappal meghosszabbítható, melyről Adatkezelő
+Érintettet
+a késedelem okainak megjelölésével a kérelem kézhezvételétől számított egy hónapon belül tájékoztatja.
+Általános alapelvként Adatkezelő köteles bizonyítani, hogy az adatkezelés a jogszabályban foglaltaknak megfelel. Amennyiben
+Érintett
+személyes adataival kapcsolatos,
+Érintett
+által kifogásolt jogsérelmet Adatkezelő nem, nem megfelelően vagy nem határidőn belül orvosolta,
+Érintett
+a Nemzeti Adatvédelmi és Információszabadság Hatósághoz fordulhat panasszal, adatvédelmi hatósági eljárás vagy vizsgálat kezdeményezésével. A hatóság elérhetősége:
+Cím: 1125 Budapest, Falk Miksa utca 9-11.
+Postacím: 1363 Budapest, Pf. 9.
+Telefon: +36 (30) 683-5969, +36 (30) 549-6838
+www: http://www.naih.hu
+e-mail: ugyfelszolgalat@naih.hu
+Érintett
+a jogainak megsértése, adatainak védelme érdekében esetén bírósághoz is fordulhat. A bíróság az ügyben soron kívül jár el. Ebben az esetben szabadon eldöntheti, hogy a lakcíme (lakóhelye (állandó lakcím) vagy a tartózkodási helye (ideiglenes lakcím)), illetve a hatóság székhelye szerint illetékes törvényszéknél nyújtja-e be keresetét. A lakcíme szerinti törvényszéket megkeresheti a
+https://birosag.hu/birosag-kereso
+oldalon. A hatóság székhelye szerint a perre a Fővárosi Törvényszék rendelkezik illetékességgel. Abban az esetben, ha az Adatkezelő az Érintett adatainak jogellenes kezelésével vagy az adatbiztonság követelményeinek megszegésével
+Érintett
+személyiségi jogát megsérti,
+Érintett
+az Adatkezelőtől sérelemdíjat követelhet.
+IX.
+Adatbiztonság
+Adatkezelő gondoskodik az adatok kezelésének biztonságáról. Adatkezelő az adatokat megfelelő intézkedésekkel védi a jogosulatlan hozzáférés, megváltoztatás, továbbítás, nyilvánosságra hozatal, törlés, sérülés, hozzáférhetetlenné válás ellen. Adatkezelő az adatok biztonságát szolgáló intézkedések alkalmazásakor a technika mindenkori legmagasabb szintű állása szerinti megoldásokat alkalmazza.
+Adatkezelő a személyes adatok kezeléséhez a szolgáltatás nyújtása során alkalmazott informatikai és szolgáltatói környezetet oly módon biztosítja, hogy
+Adatkezelőnek csak olyan munkatársai férjenek hozzá az adatok tárolásához, akiknek ez munkaköri kötelezettségükből fakadó feladatuk ellátásához elengedhetetlenül szükséges;
+az adatok szervezeten belüli vagy azon kívüli továbbításáról Adatkezelő nyilvántartást vezet;
+adatok valamennyi módosítása a módosítás időpontjának megjelölésével kerül sor, az adatokról biztonsági mentés készül.
+Adattovábbításra kialakított megfelelő informatikai rendszer biztosítása mellett kerül sor.
+Adatkezelő gondoskodik:
+hozzáférési védelemről
+: jogosulatlan hozzáférés elleni védelmet biztosító intézkedések, szoftver és hardver eszközök védelme;
+szoftveres védelemről
+: adatállományok vírusok és egyéb kártevő programok elleni védelme, tűzfal alkalmazása, rendszeres biztonsági mentés, azok dokumentálása;
+hardveres védelemről
+: adatállományok, illetve az azokat hordozó adattároló eszközök fizikai védelme, adatarchiválás magas szintű biztosítása (fizikai behatolás védelem), elemi károktól való fizikai védelem (tűz-, villámvédelem).
+Adatkezelő a fenti kötelezettségvállalásait az adatkezelési tevékenységben részt vevő munkatársai, illetve az Adatkezelő megbízásából eljáró adatfeldolgozók részére is előírja.
+X.
+Záradék
+Digitális Állampolgárság Adatkezelési Tájékoztatójának v5. kiadmánya 2025. január 29-én hatályát vesztette.
+Budapest, 2025. január 30.
+Korábban hatályos Adatkezelési Tájékoztatók
+2024. december 20-tól érvényes Adatkezelési Tájékoztató
+(hatályát vesztette: 2025. január 29.)
+2024. október 03-tól érvényes Adatkezelési Tájékoztató
+(hatályát vesztette: 2024. december 19.)
+2024. szeptember 01-től érvényes Adatkezelési Tájékoztató
+(hatályát vesztette: 2024. október 02.)
+2024. május 18-tól érvényes Adatkezelési Tájékoztató
+(hatályát vesztette: 2024. augusztus 31.)
+Sütikkel kapcsolatos információk
+Ez a weboldal a használat megkönnyítése érdekében sütiket használ. A sütik célja a weboldal funkcionalitásának és felhasználói élményének javítása.
+Összes süti elfogadása
+Összes elutasítása
+Sütik beállítása

@@ -1,0 +1,378 @@
+NEW!
+iShredder iOS Enterprise is now available for Business users.
+Learn more
+Privacy Policy For
+Protectstar Android Apps
+Effective Date: October 04, 2024
+Introduction
+Which Protectstar Android Apps Do Collect Personal Data?
+Types of Data We Collect
+Data Collection: Why, What, and How
+Purpose of Data Collection
+How We Handle Your Data
+Data Collection and Usage by Specific Apps
+Emphasizing Data Anonymization
+Firebase Messaging and Data Privacy
+What we aren't going to process
+Data Sharing and SDKs
+Prominent Disclosure and User Consent
+Transparency and User Control Over Data
+Data Retention and Deletion
+Data Safety Section Consistency
+How We Protect Your Data
+Your Rights Regarding Personal Data
+Children’s Privacy
+International Data Transfers
+Changes to This Privacy Policy
+Contact Us
+Introduction
+At Protectstar Inc. (“Protectstar”, “we”, “us”, “our”), safeguarding your privacy is at the core of our mission. Our primary goal is to protect users ("you", "your") from unauthorized access, theft, disruption, and other security threats in the digital world. This Privacy Policy reflects our dedication to maintaining transparency and trust by detailing the ways we collect, use, and protect the personal information you provide through our Android apps and services.
+We recognize that privacy is a fundamental right and a key component of security. In support of this belief, this Privacy Policy outlines the following:
+Data Collection
+: What types of information we collect and why it is necessary for delivering our services.
+Data Use
+: How we use your data to provide and enhance our products while ensuring your security.
+Your Rights and Choices
+: The options available to you for controlling the use of your personal data, including the right to access, correct, or delete it.
+Contacting Us
+: How you can reach out to us with questions, concerns, or requests regarding your data privacy.
+This Privacy Policy applies whenever you interact with our products or services, whether you are downloading or installing our apps, or using them on your devices. By using our services, you acknowledge and agree to the terms of this Privacy Policy, in conjunction with our Terms of Service and End User License Agreement (EULA). We encourage you to review these terms regularly as they govern your rights and responsibilities while using our services.
+As Protectstar continues to innovate and grow, we may update this Privacy Policy to reflect changes in our business operations or legal obligations. In the event of significant changes, we will notify you through email, in-product notifications, or as otherwise required by law. Please check this page periodically to stay informed of any updates.
+This Privacy Policy applies to all users of Protectstar’s products and services worldwide. For users located in specific regions, such as the European Economic Area (EEA), additional rights and protections may apply, as detailed in this document.
+At Protectstar, we are driven by a strong commitment to privacy and security, values that are central to our mission of protecting your personal information in the digital world.
+Which Protectstar Android Apps Do Collect Personal Data?
+Protectstar only collects necessary data to ensure the proper functionality of our services. The following apps may collect personal data:
+Anti Spy Android
+Antivirus AI Android
+Camera Guard Android
+DNS Changer Android
+Firewall AI Android
+Micro Guard Android
+iShredder Android (only when using a MY.PROTECTSTAR online account)
+Types of Data We Collect
+We collect two main types of data to improve our services and ensure your device's security:
+Installed Application Information
+: We collect the names of apps installed on your device to monitor and provide security protection. We do not collect content from these apps—only their names.
+SHA-256 & MD5 Checksums
+: We collect checksums (digital fingerprints) for installed apps and files to verify their integrity and detect unauthorized changes. These checksums allow us to detect potential security threats without accessing the actual content of files or apps.
+Data Collection: Why, What, and How
+We collect certain information to enhance your security and optimize the functionality of our apps. Here's why specific types of data are collected:
+I. Why We Collect Your Data
+We collect certain information to improve your security and enhance the functionality of our services. Here's why we need specific types of data:
+App Package Name (Users’ installed application information):
+We collect the names of the apps installed on your device. This information helps us customize our security features to protect the apps you use from potential threats like malware or spyware. For example, if you have apps that are more likely to be targeted by harmful software, our systems can prioritize protecting them, ensuring you stay safe. Importantly, we
+do not access or collect any content from within the apps
+—only the names of the apps themselves are collected for security purposes.
+SHA-256 & MD5 Checksums (App Integrity):
+A checksum is like a digital fingerprint of a file or app. It’s a way of creating a unique code from the contents of a file or app, which allows us to check if that file or app has been altered in any way.
+File Checksums (File Integrity):
+Like apps, we collect checksums for files on your device to detect unauthorized changes. This ensures that your files remain safe and intact, without us ever accessing the content of those files.
+When we collect checksums, we are
+not sending the entire app or file to our servers
+. Instead, we generate a code (the checksum) from the file or app. This code is unique to that version of the file, so if a file has been changed (for example, by malware), the checksum will be different. By comparing the checksum from your device with the expected checksum, we can quickly detect if something is wrong without needing access to the actual file or app content.
+MD5 and SHA-256
+are just two different types of these digital fingerprints. While MD5 is an older method, SHA-256 is more advanced and secure. We use these checksums to ensure that your apps haven’t been tampered with, helping to protect you from potential security risks like malware or spyware.
+The clarification that
+no
+complete apps or files are sent to the server is helpful and reassuring. However, it could be emphasized even more to prevent any misunderstandings among users. By reiterating this point, we can ensure that users fully understand that
+only checksums
+, which are like digital fingerprints, are transmitted, and
+not
+the actual content of their apps or files.
+This process ensures your files are safe from potential threats while fully preserving your privacy.
+The purpose of sending the collected data (app package names and SHA-256/MD5 checksums) to our
+Protectstar AI Cloud
+servers to https://api.protectstar.com is to perform a deeper analysis. By using cloud servers instead of local device processing, we can provide efficient, precise analysis without overloading your device’s resources.
+The data we collect serves essential purposes, such as:
+Detecting and mitigating potential security threats like malware or spyware.
+Assessing the safety of apps and files installed on your device.
+Reducing false alarms by accurately distinguishing between safe and harmful software.
+Continuously improving app performance and capabilities through real-time analysis.
+II. What We Collect
+We collect two primary types of data to protect your device:
+Installed Application Information:
+This includes the names of apps installed on your device, allowing us to monitor their security and provide targeted protection. As mentioned earlier, we do not access the content within these apps.
+File and App Checksums (SHA-256/MD5):
+These checksums, which we previously explained as a type of digital fingerprint, are used to verify the integrity of apps and files on your device. By comparing these checksums, we can detect if any unauthorized changes have been made, ensuring the security of your apps and files.
+III. How We Use Your Data
+At Protectstar, we use the information we collect responsibly to enhance your security, improve the functionality of our apps, and provide high-quality support.
+Here’s how your data is used:
+Security Analysis:
+We analyze app package names and checksums to detect malware and other potential threats.
+Threat Detection:
+By comparing checksums, we can identify unauthorized changes to apps or files, ensuring your device's security.
+Performance Optimization:
+We offload resource-intensive analysis to our secure cloud servers, enhancing your device's efficiency without compromising performance.
+All data is
+securely transmitted
+to our cloud servers to
+https://api.protectstar.com
+using
+AES-256 encryption over HTTPS
+, ensuring your information remains confidential. Your data is anonymized during processing, so it cannot be linked back to you as an individual.
+If you prefer not to have this data collected, you can disable your internet connection, but please note that this may affect the app's ability to detect malware and provide real-time protection.
+Purpose of Data Collection
+We collect and process your data to:
+Enhance the security of your device by identifying potential malware or spyware.
+Perform threat analysis and maintain the integrity of apps and files on your device.
+Optimize app performance by using cloud servers for resource-intensive tasks.
+Reduce false alarms and continuously improve app functionality.
+By processing this data on our cloud servers, we protect your device without compromising its performance.
+How We Handle Your Data
+Anonymity
+: We prioritize your privacy and ensure all data transmitted to our cloud server at
+https://api.protectstar.com/api/get-deep-detective-packages-shas-info
+(only Antivirus AI and Anti Spy app) and https://api.protectstar.com/api/get-blocklists-info (only Firewall AI) is completely anonymized.
+Encryption
+: We employ stringent data transmission practices, including the use of Advanced Encryption Standard (AES) with a
+256-bit
+key, carried over the
+HTTPS
+protocol. This robust encryption not only secures your data but also reinforces the impossibility of tracing the data back to individual users.
+Opting Out of Data Collection:
+If you prefer
+not
+to have your data collected, you may
+turn off your internet connection
+, which could lead to decreased detection of possible malware and other security threats.
+Data Collection and Usage by Specific Apps
+Overview about all our apps and their specific data collectection practices that is send to the related URL incl. their purpose as well as the Restricted Permissions.
+Through transparently explaining these functions, we aim to instill confidence in our users regarding the privacy and integrity of their data when utilizing our applications:
+1) Firewall AI & DNS Changer
+Note about both apps:
+The
+Firewall AI
+and DNS Changer app forwards the traffic of allowed connections directly to their destination through the Android VPN Service without using a remote VPN server.
+Its mode of operation can lead to one of two scenarios concerning your internet traffic:
+When IP Filtering is Disabled:
+Any blocked internet traffic is routed into the local VPN service, effectively acting as a sinkhole that drops all blocked traffic.
+When IP Filtering is Enabled:
+Both blocked and allowed internet traffic are routed into the local VPN service, but only allowed traffic is forwarded to the intended destination. No traffic is sent to a remote VPN server.
+The
+Android VPN Service
+(https://developer.android.com/reference/android/net/VpnService.html) is utilized to locally route all internet traffic to Firewall AI. This design means that root access is not required to build or implement this firewall application.
+Data Collection and Usage:
+Endpoint
+: https://api.protectstar.com/api/get-blocklists-info
+Data Collected
+: App package name
+Purpose
+: To download the latest filter block lists.
+Endpoint
+: https://api.protectstar.com/api/whois
+Data Collected
+: IP address of visited URLs, locale of user's device
+Purpose
+: To provide localized WhoIs information for an IP address specifically selected by the user.
+Endpoint
+: https://tile.openstreetmap.org
+Data Collected
+: User agent (app package name, app version, developer email)
+Purpose
+: To display Open Street Map for WhoIs information.
+Restricted Permissions:
+android.permission.READ_PHONE_STATE (Mandatory, except for DNS Changer)
+Allows read-only access to phone state, including cellular network information.
+android.permission.QUERY_ALL_PACKAGES (Mandatory)
+Lists all apps installed on the device, enabling user control over app blocking or bypass in the Firewall.
+VPNService
+Redirects Android’s network traffic through the apps for security purposes.
+2) Anti Spy & Antivirus AI
+Data Collection and Usage:
+Endpoint
+: https://api.protectstar.com/api/get-deep-detective-packages-shas-info
+Data Collected
+: SHA256, MD5, Package Name
+Purpose
+: To identify potential security threats during manual and real-time scan.
+Endpoint
+: https://api.protectstar.com/api/add-statistic-item, https://api.protectstar.com/api/add-file-statistic-item
+Data Collected
+: SHA256, MD5, Package Name, File Path/Name, Installation source, App version/code, Device metadata (OS version, manufacturer, model)
+Purpose
+: To analyze and record statistics of detected threats.
+Restricted Permissions:
+android.permission.SCHEDULE_EXACT_ALARM (Optional)
+Enables scans at user-defined times.
+android.permission.QUERY_ALL_PACKAGES (Mandatory)
+Scans all installed apps for threats.
+android.permission.SYSTEM_ALERT_WINDOW (Optional)
+Protects against screen-capture malware.
+android.permission.PACKAGE_USAGE_STATS (Optional)
+Detects foreground apps for toggling screen-capture protection.
+android.permission.MANAGE_EXTERNAL_STORAGE (Mandatory)
+android.permission.READ_EXTERNAL_STORAGE (Mandatory)
+android.permission.WRITE_EXTERNAL_STORAGE (Mandatory)
+Scans and manages files for threats.
+3) iShredder Android
+Restricted Permissions:
+android.permission.MANAGE_EXTERNAL_STORAGE (Mandatory)
+android.permission.READ_EXTERNAL_STORAGE (Mandatory)
+android.permission.WRITE_EXTERNAL_STORAGE (Mandatory)
+Read and write the bytes of files to securely overwrite them.
+android.permission.READ_CONTACTS (Optional)
+android.permission.WRITE_CONTACTS (Optional)
+Read and write contacts on your device to securely delete them.
+Common Features Across All Apps
+In-App Billing System
+Data Collected
+:
+Purchase History
+: Records the history of purchases (only of the app) made within the app.
+Apps Integrated with MY.PROTECTSTAR (MYPS) user account (optional)
+Included Apps: Anti Spy, Antivirus AI, Firewall AI, DNS Changer, iShredder, Micro Guard
+Endpoint
+: https://my-api.protectstar.com
+Data Collected:
+User Data
+: Includes UserId, email, name, surname, and password.
+Device Type
+: Information such as user-defined device name (e.g., Peter’s Samsung Galaxy S23), manufacturer, model, industrial design name, board (name of the underlying board, e.g., "goldfish"), hardware specifications.
+Product SKU
+: App's own package name.
+License Information
+: Activation ID, activation key.
+Apps Integrated with Firebase Messaging
+Included Apps: Anti Spy, Antivirus AI, Firewall, DNS Changer, Camera Guard, Micro Guard
+Data Collected:
+Device Metadata
+: OS version, name, model, brand, form factor.
+Installation Source
+: Identifies the app used for installation (e.g., Play Store).
+App Version
+: Collects the app's version for managing topic subscriptions.
+Purpose:
+For developer communications and app updates.
+Settings:
+Analytics data collection and usage is disabled permanently according to
+https://firebase.google.com/docs/analytics/configure-data-collection?platform=android
+In summary, the data we collect is not just for detecting threats but also for adapting our security measures to the unique environment of your device, ensuring that you have the most effective protection against evolving digital threats.
+Emphasizing Data Anonymization
+All data transmitted to our cloud servers is not only encrypted but also fully anonymized during processing. This ensures that no personal information can be traced back to you as an individual. The anonymization process guarantees that even if unauthorized access were to occur, the data could not be linked to a specific user.
+Firebase Messaging and Data Privacy
+We use Firebase Messaging exclusively to send notifications and updates to your device to ensure you receive relevant messages and updates.
+No personal data or activity tracking occurs
+, so we do
+not collect
+personal or sensitive user data through
+Firebase Messaging
+.
+No other Firebase services, such as Firebase Crashlytics, are used for collecting crash reports or personal data.
+Learn more about Firebase Messaging’s data handling at
+https://firebase.google.com/docs/android/play-data-disclosure?hl=de#cloud-messaging
+Rest assured, Firebase Messaging is only used to ensure you receive relevant messages and updates, and no personal or sensitive data is shared with or collected by third parties. For this, Firebase Messaging is specifically setup to collect
+no analytics data
+according to their documentation.
+What we aren't going to process
+Protectstar
+never processes "sensitive" personal data
+such as religion, political views, sexual preference, health, or other special categories of personal data through its products and services. Therefore, we do not wish to receive any such data and will not request it from you.
+Protectstar's products must be installed and used by an adult. Children may use the device where Protectstar's product was installed only with permission from their parents or holder of parental responsibility. Except for the "Data for child protection feature," we do not intend to process personal data of children, nor do we want to receive such personal information of children.
+Data Sharing and SDKs
+We do not sell or share your personal data with third parties. The information we collect, such as
+hash values
+(e.g., SHA-256 and MD5 checksums), is
+fully anonymized
+and is used solely to enhance the functionality of our apps and protect your device.
+When you use our apps, we may collect data like app checksums or file metadata. These checksums are unique digital fingerprints that allow us to verify the integrity of apps and files on your device without accessing their actual content. Importantly, this data does not contain any personal information, and it is anonymized to ensure it cannot be traced back to you.
+Data retention is minimal:
+The data we collect is processed on secure servers located in Germany and is deleted after just a few seconds once the analysis is complete. This ensures that your data is handled securely and only for the duration necessary to fulfill its purpose.
+At present, none of our apps integrate third-party SDKs that collect or share personal or sensitive user data. Should we decide to integrate any third-party SDKs in the future, we will ensure full compliance with Google Play’s policies and update this Privacy Policy accordingly. We will also request your explicit consent before any such data collection or integration occurs.
+Prominent Disclosure and User Consent
+Before we collect any personal or sensitive data, you will see a clear in-app disclosure explaining:
+What data is being collected
+Why it's needed
+How it will be used
+You will be asked to provide explicit consent by tapping "Accept." Only after you agree will the app proceed with data collection. If you choose not to consent, you can exit the prompt, and no data will be collected.
+Transparency and User Control Over Data
+At Protectstar, we are fully committed to giving you control over your data at all times.
+Opt-Out Options:
+You can stop the collection and transmission of data whenever you choose. This can be done by adjusting the app's settings, disabling the internet connection, or uninstalling the app. We ensure that no data is collected without your explicit consent, which you can revoke at any time should you change your mind.
+Control Over Notifications:
+You can manage notifications via Firebase Messaging through your device's notification settings, giving you control over when and how you receive updates from us.
+Data Retention and Deletion
+We retain your data only for the minimal time necessary to fulfill its purpose. For example, the checksums and metadata we collect during the security analysis are processed on our secure servers and are permanently deleted within a few seconds after the analysis is complete. This ensures that your data is not stored longer than required, providing security without compromising your privacy.
+We are committed to providing users with control over their data, including the ability to request data deletion. The specifics of how we handle data deletion depend on whether or not a user has created an account:
+For Registered Users:
+If you have registered a MY.PROTECTSTAR account, you can request the deletion of your account and all associated personal data directly from within your account settings. You may also contact us at
+privacy@protectstar.com
+for assistance. Upon receiving your request, we will delete your personal data unless retention is required for legal, security, or compliance purposes.
+For Non-Registered Users:
+If you use our apps without a registered account, you can stop the collection of data at any time by uninstalling the app. Upon uninstallation, any locally stored data is erased, and any data processed on our cloud servers will be promptly deleted after the necessary analysis, typically within seconds. You can also contact us at
+privacy@protectstar.com
+if you wish to request deletion of any residual data.
+Legal Retention Requirements:
+In some cases, we may retain certain data as required by law (e.g., for fraud prevention or legal compliance). However, we ensure that any retained data is handled securely and only kept for the necessary period.
+Data Safety Section Consistency
+We ensure that the information provided in this Privacy Policy is fully aligned with the details disclosed in the
+Google Play Store’s Data Safety section
+. Our Data Safety disclosures offer a concise summary of the types of data collected, the purposes of data collection, and our security measures. We encourage you to review the Data Safety section in the app’s Play Store listing for a quick overview of how we handle your data.
+Both this Privacy Policy and the Data Safety section reflect our commitment to transparency and protecting your personal information. Any discrepancies or updates between these two documents will be promptly addressed to ensure consistency.
+How We Protect Your Data
+At Protectstar, the security of your personal data is a top priority. We employ a comprehensive set of administrative, organizational, technical, and physical safeguards to ensure your data’s confidentiality, integrity, and availability. Our security measures are designed to protect against unauthorized access, data breaches, and other potential risks, using the latest technologies and industry best practices. Below is an overview of how we keep your data safe:
+Comprehensive Security Controls:
+Our security systems are designed to prevent any loss, misuse, unauthorized access, or alteration of your personal data. We regularly evaluate and update these controls to ensure their effectiveness in protecting against emerging threats.
+Dedicated Information Security Team:
+Our skilled information security department is responsible for designing, implementing, and continuously monitoring our security program. They ensure that our systems adhere to the highest standards of data protection.
+State-of-the-Art Security Tools:
+We use cutting-edge technologies and tools that comply with the latest industry standards to secure our systems. This includes advanced firewalls, intrusion detection systems, and continuous vulnerability assessments.
+Pre-Deployment Security Evaluation:
+Before launching any new system or service, we rigorously evaluate its security measures to ensure that personal data will be handled with the highest levels of protection.
+Access Management:
+We apply stringent access controls to verify, authenticate, and authorize access to data. Only authorized personnel can access sensitive information, and all access is closely monitored to ensure compliance.
+Incident Response Plan:
+In the unlikely event of unauthorized access or a data breach, we have a swift incident response plan in place to mitigate any potential damage. This includes identifying the source of the breach, taking corrective action, and notifying relevant authorities and users if necessary.
+Data Backup and Recovery:
+We implement regular data backup procedures and maintain robust recovery mechanisms to ensure that personal data is never permanently lost or damaged, even in cases of unforeseen events.
+Strict Access Rules and Monitoring:
+We establish clear rules regarding who can access personal data within our systems, and we log and monitor all access activities. This ensures traceability and allows us to detect potential security vulnerabilities or unauthorized attempts to access sensitive information.
+Data Encryption:
+All data transmissions between your device and our servers are protected by advanced encryption protocols (AES-256). This ensures that your data remains private and secure during transmission, preventing interception or tampering by unauthorized parties.
+Restricted Employee and Contractor Access:
+Access to personal data is restricted to those who need it to perform their job duties, and all personnel are bound by strict confidentiality agreements. Any breach of these agreements results in immediate corrective actions, including potential termination.
+Continuous Training and Improvement:
+Our employees receive regular training on the latest security practices to stay ahead of emerging threats. We are committed to continually enhancing our security measures, adapting to new risks and technological developments.
+Additional Measures:
+ISO 27001 Certified Servers:
+Our cloud servers in Germany are certified under ISO 27001, an internationally recognized standard for information security management. This ensures that your data is stored in one of the most secure environments available.
+Regular Audits and Monitoring:
+We conduct regular security audits and real-time monitoring to identify and address vulnerabilities before they become threats.
+By implementing these robust security measures, we ensure that your personal data is protected at every stage of its lifecycle, from transmission to storage, and that it remains safe from unauthorized access or misuse.
+Your Rights Regarding Personal Data
+In accordance with applicable data protection laws, including the General Data Protection Regulation (GDPR) and the California Consumer Privacy Act (CCPA), you have specific rights regarding your personal data. These rights are outlined below:
+Right to Access:
+You have the right to request confirmation as to whether we are processing your personal data and, if so, to obtain a copy of the data we hold about you.
+Right to Correction:
+If you believe that any personal data we hold about you is inaccurate or incomplete, you have the right to request that we correct or update the information.
+Right to Deletion (Right to be Forgotten):
+Under certain circumstances, such as if the personal data is no longer necessary for the purposes for which it was collected or if you withdraw your consent, you have the right to request the deletion of your data. We will comply unless we are required to retain the information for legal reasons or have legitimate grounds to do so.
+Right to Object or Restrict Processing:
+You have the right to object to or request the restriction of the processing of your personal data in certain situations. For example, if you contest the accuracy of the data or if the processing is unlawful, we will limit our processing to only essential functions or with your consent.
+Right to Data Portability:
+You have the right to receive a copy of your personal data in a structured, commonly used, and machine-readable format. This enables you to transfer your data to another service provider of your choice without hindrance.
+To exercise any of these rights, please contact us at
+privacy@protectstar.com
+. We may need to verify your identity to ensure that your personal data is only disclosed to you or an authorized individual.
+We are committed to responding to your requests in a timely and transparent manner, in compliance with applicable legal requirements. If you would like more detailed information regarding your rights or how we handle your personal data, do not hesitate to reach out to us.
+Children’s Privacy
+Our apps are not intended for children under the age of 13 (or 16 in certain jurisdictions). We do not knowingly collect personal data from children. If we learn that we have collected such data, we will promptly delete it. Parents or guardians can contact us at
+privacy@protectstar.com
+to request the deletion of any data provided by a child.
+International Data Transfers
+Protectstar Inc., headquartered in the United States, operates globally with entities and service providers located worldwide. As mentioned earlier, our state-of-the-art cloud servers, all located in Germany, are ISO 27001 certified for information security management.
+In the course of our operations, we may transfer, store, or access your personal data across borders to jurisdictions with different data protection laws than those in your country. Regardless of where your data is processed, we are dedicated to ensuring it receives the same level of protection. To achieve this, we implement strong safeguards, such as standard contractual clauses and data protection agreements, to secure your personal data and comply with applicable international data transfer regulations.
+For residents of the European Economic Area (EEA), we fully comply with the
+General Data Protection Regulation (GDPR)
+when transferring personal data outside the EEA or Switzerland.
+Changes to This Privacy Policy
+We may update this Privacy Policy from time to time to reflect changes in our practices, technology, or legal requirements. If changes are made, we will notify you by posting the updated Privacy Policy on this page at
+https://www.protectstar.com/en/policy-for-apps
+These changes will take effect immediately after being posted, so we encourage you to review this page periodically to stay informed.
+Contact Us
+If you have any questions about this Privacy Policy or our data practices, please contact us at:
+Protectstar Inc.
+4281 Express Lane, Suite L3604
+Sarasota, FL 34249, USA
+Email:
+privacy@protectstar.com
+Scroll to top

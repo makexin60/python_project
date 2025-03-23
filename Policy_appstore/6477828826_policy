@@ -1,0 +1,196 @@
+TMPLT
+Home
+Blog
+Privacy Policy
+AmbiMake LLC built the TMPLT app as a Freemium app. This SERVICE is provided by AmbiMake LLC and is intended for use as is.
+This page informs visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decides to use our Service.
+If you choose to use our Service, you agree to the collection and use of information in relation to this policy. The Personal Information we collect is used to provide and improve the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at TMPLT unless otherwise defined in this Privacy Policy.
+Information Collection and Use
+For a better experience, while using our Service, we may gather certain anonymized information. However, if you opt into tracking through the App Tracking Transparency (ATT) dialog, the information we collect may include data tied to an identifier for tracking purposes, such as the Identifier for Advertisers (IDFA). This information is used to provide a more personalized experience and for measuring ad performance. You can manage your tracking preferences through your device settings.
+Facebook SDK
+We use the Facebook SDK to track in-app events for the purposes of measuring our ad performance. This tracking allows us to understand how users interact with our app and optimize our marketing efforts. The data collected may include app activity, device information, and user interactions. For more details, please refer to
+Facebook’s Data Policy
+.
+Usage Data
+We use TelemetryDeck to collect anonymized usage data. This helps us understand how our users are using our app and how we can improve it. TelemetryDeck does not collect any personally identifiable information. You can read more about TelemetryDeck’s privacy policy at
+TelemetryDeck Privacy Policy
+.  This Usage Data may include information such as your device, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other various statistics. As mentioned, the information is anonymous, not personally identifiable, and is used to help improve the app.
+Superwall
+We use the Superwall SDK to manage our paywall functionality. Superwall may collect data related to in-app purchases and usage events to facilitate our subscription services. This data is used for app functionality and analytics purposes. Superwall does not track user identification data unless additional SDKs are involved. For more information, refer to
+Superwall’s Privacy Policy
+.
+Cookies
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device’s internal memory.
+This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+Service Providers
+We may employ third-party companies and individuals due to the following reasons:
+• To facilitate our Service;
+• To provide the Service on our behalf;
+• To perform Service-related services; or
+• To assist us in analyzing how our Service is used.
+We want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+Security
+We value your trust in providing us with your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage, is 100% secure and reliable, and we cannot guarantee its absolute security.
+Links to Other Sites
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+Children’s Privacy
+We do not knowingly collect personally identifiable information from children. We encourage all children to never submit any personally identifiable information through the Application and/or Services. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce this Policy by instructing their children never to provide personally identifiable information through the Application and/or Services without their permission. If you have reason to believe that a child has provided personally identifiable information to us through the Application and/or Services, please contact us. You must also be at least 16 years of age to consent to the processing of your personally identifiable information in your country (in some countries we may allow your parent or guardian to do so on your behalf).
+Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
+This policy is effective as of 2024-08-16.
+Contact Us
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at tmplt@ambimake.com.
+© AmbiMake LLC 2024
+Instagram
+TikTok
+Email
+Support
+Sub-section Policy: 
+Sub-policy 0
+https://telemetrydeck.com/privacy:
+This document has last been updated March 4, 2024
+TelemetryDeck was designed from the ground up with privacy in mind. An important principle of TelemetryDeck is to only save the least amount of data it absolutely needs, and to not save any data that can be used to identify specific users' identities.
+That is why the
+TelemetryDeck Client code
+is completely open source, so that users and developers can see for themselves the data that TelemetryDeck saves.
+TelemetryDeck has never installed any law enforcement software or equipment anywhere on our network.
+Data Transmitted
+Any data that is transmitted to the analytics server consists of the following:
+An anonymized user identifier. The identifier is constant for each app install but cannot be traced back to any personally identifiable information.
+An action taken, such as “App Launched” or “Settings Opened”. The developer defines these actions.
+A time stamp when the action was taken.
+Device metadata, namely platform, system version, app version, build number, if the build was downloaded via App Store or TestFlight, and the device model type (i.e., iPhone X, iPad Air, or iPhone 12).
+Additional metadata as defined by the developer, such as “Number of Items in the Database” or “Setting X is enabled”. Developers should note this metadata in their own privacy policy.
+For Web SDK API requests, we look at the first 3 triplets of incoming IP addresses in order to determine a possible country the request came from.
+IP addresses are never stored on the TelemetryDeck Server, neither in the database nor in any log files, nor at any other place.
+Terms Used
+A
+developer
+is a person who creates or maintains an app which includes the TelemetryDeck Client code. They are responsible for making sure they only hand anonymized data to the TelemetryDeck Client.
+The
+TelemetryDeck Client
+is the code that transmits data to the TelemetryDeck Server. It can be viewed on
+GitHub
+in its entirety.
+A
+user
+is a person who uses any app created by a
+developer
+. It is our job to make sure their data stays safe.
+A
+signal
+is one instance of data sent from the app to the TelemetryDeck Server using the TelemetryDeck Client.
+TelemetryDeck Viewer
+is the app that developers use to see signal data, both raw and in aggregated form, as
+Insights
+.
+User Identifiers
+Developers have three choices on how to identify users. They should note which they are using in their app's privacy policy:
+Using no user identifier at all. This will give them the greatest piece of mind, while still allowing TelemetryDeck to help them out with statistical analysis.
+Using Apple's “IdentifierForVendor” API. This is the default behaviour for TelemetryDeck. The identifier generated out with this method has no relation to any of the user's identifiable information or private data. Deleting and reinstalling the app will generate a new identifier and sever any connection to the old one.
+Using a custom string identifier, such as the user's username or email address. This string will never be transferred directly to the server. Instead, the TelemetryDeck Client will create a hash out of that string and only ever transmit that hash. This allows TelemetryDeck to detect the same user on multiple devices, but it is impossible for both the developer and any person having access to TelemetryDeck's database to retrieve the original custom string identifier.
+Metadata
+Developers can include any metadata they wish with signals they send using TelemetryDeck Client. They are urged to not send any data that might identify their users. They must include the types of data they send in their own apps' privacy policies.
+Using TelemetryDeck Viewer
+Developers using the TelemetryDeck Viewer app are sending signals to the TelemetryDeck Server as well. These do not contain any user data. The types of data are:
+App was launched
+Which part of the app was navigated to?
+Standard metadata: platform, system version, app version, build number, if the build was downloaded via App Store or TestFlight, and the device model type (i.e. iPhone X, iPad Air, or iPhone 12).
+Our Customers and Prospects
+We use the integrated software solution Hubspot for managing the address and contact data (contact management) of our customers and prospects. The service provider is HubSpot Inc., a software company from the USA (Hubspot, Inc. 25 First Street Cambridge, MA 02141 USA).
+We use Hubspot to document appointments and agreements, as well as to evaluate our activities in the sales area. Personal data such as name, email address, phone numbers, business addresses, and the content of business communication may be processed.
+The legal basis for processing in the context of contacting for the conclusion or performance of a contract is Art. 6 para. 1 lit. b GDPR or Art. 6 para. 1 lit. f GDPR. Our legitimate interest lies in the use for the purpose of the CRM system as contact management.
+Data will be deleted as soon as they are no longer required for their intended purpose and there are no legal retention obligations, e.g. for data that must be kept for commercial or tax reasons. In accordance with legal requirements in Germany, storage may be necessary for up to 10 years due to commercial and tax regulations. We delete prospect data within a reasonable period of time, within which no more contract conclusion or the like is to be expected.
+The data of TelemetryDeck GmbH is stored in European data centers by Hubspot. However, personal data may be transferred to the USA and other third countries where HubSpot subsidiaries are located. HubSpot meets the minimum requirements for legally compliant order data processing by concluding the EU standard data protection clauses. We have concluded a contract for order processing (Data Processing Agreement, DPA) with HubSpot.
+Further information on data processing by Hubspot can be found at:
+https://legal.hubspot.com/privacy-policy
+.
+Newsletter
+You have the option to subscribe to the newsletter offered on our website. If you would like to receive the newsletter, we require an e-mail address from you as well as information that allows us to verify that you are the owner of the specified e-mail address and agree to receive the newsletter. For this purpose, we use the so-called double opt-in procedure: After your registration, you will receive an e-mail to the specified e-mail address, in which we ask for confirmation of the registration.
+The following information is then saved with the confirmation:
+E-mail address
+Date of subscription
+Activity (delivered, opened, clicked)
+For customers who subscribe to our newsletter when opening an account, the following information is also stored:
+First name
+Last name
+Country
+Organization
+Further data is not collected or only on a voluntary basis. We use this data exclusively for sending the requested information and for proving your registration.
+Your consent is the exclusive basis for processing the data provided in the newsletter registration form (Art. 6 para. 1 lit. a GDPR). You can revoke your consent to the storage of the data, the e-mail address and their use for sending the newsletter at any time by unsubscribing from the newsletter, for example via the “unsubscribe” link in the newsletter. The legality of the data processing operations carried out up to that point remains unaffected by the revocation.
+Please note that unsubscribing from our newsletter list does not result in the deletion of your data. If you wish to delete your personal data from Mailjet, please inform us informally by e-mail.
+Mailjet
+Newsletters and customer information are sent via the service provider Mailjet. The provider is Sinch AB Lindhagensgatan 74 Stockholm, 112 18 Sweden. The data is stored in secure data centers located exclusively in the European Union, with Google Cloud Platform in Frankfurt (Germany) and St. Ghislain (Belgium).
+Mailjet is a service that, among other things, organizes and analyzes the sending of newsletters and customer information. Mailjet processes the following information on our behalf regarding the status of the subscription (subscribed, unsubscribed) as well as the status of the newsletters (delivered, opened, clicked and the exact button or link).
+For more information about Mailjet, please visit
+Mailjet's privacy policy
+.
+Sub-policy 1
+https://superwall.com/privacy:
+Docs
+Pricing
+Blog
+Inspiration
+Templates
+Log in
+Get a Demo
+Privacy Policy
+Superwall Privacy Policy
+This policy describes how Nest 22, Inc. (“Superwall,” “we,” “us,” or the “Company”) collects, aggregates, stores, safeguards and uses the data and information (including non-public personal information, or “NPI”) provided by users through our website, www.superwall.me (the “Site”), as well as information collected by us through other means, including by email, over the phone, or in offline communications. This Site is operated by the Company and has been created to provide information about our company, products, and services (together, the “Services”). We take your privacy and the security of your information seriously.
+This policy explains:
+What information we collect and how we use it
+Choices you can make about the way your information is collected and used
+How we protect personal information electronically and physically
+This policy is incorporated into and a material term of your registration and/or use of Superwall’s products and services, including our website, www.superwall.me. By using the Site or Services, you consent to the practices set forth in this Privacy Policy.
+Infromation we collect
+Information You Provide to Us
+Superwall collects information from you when you choose to provide it to us through the Site or through any other means. This may include when you create an account on the Site, register or request products or services, request information from us, sign up for newsletters or our email lists, use our Site, or otherwise contact us.
+The information we collect may include your name, address, email address, telephone or mobile phone number, information relating to your employment or professional activities and financial account information. You may be required to provide certain personal and/or business information to apply for and receive Superwall products services.
+Information We Automatically Collect
+We may use cookies or other technologies to automatically collect certain information when you visit our Site or interact with our emails. For example, if you are responding to an offer, promotional email or other email from us, we may automatically populate your personal information into our system once you enter your offer code or similar identifying device or otherwise accept your offer or promotion.
+Additionally, we may automatically collect certain non-personal information from you such as your browser type, operating system, software version, and Internet Protocol (IP) address. We also may collect information about your use of the Site, including the date and time of access, the areas or pages that you visit, the amount of time you spend using the Site, the number of times you return, whether you open, forward, or click-through emails, and other Site usage data.
+You may adjust your browser or operating system settings to limit this tracking or to decline cookies, but by doing so, you may not be able to use certain features on the Site or take full advantage of all of our offerings. Check the Help menu of your browser or operating system to learn how to adjust your tracking settings or cookie preferences. Please note that our system may not respond to Do Not Track requests or headers from some or all browsers.
+How we use the infromation we collect
+Superwall uses the data and information you provide in a manner that is consistent with this Privacy Policy and applicable law. If you provide personal data for a certain reason, we may use the personal data in connection with the reason for which it was provided. For instance, if you contact us by email, we will use the personal data you provide to answer your question or resolve your problem. Also, if you provide personal data in order to obtain access to the Site or Services, we will use your personal data to provide you with access to such services and to monitor your use of such services.
+Superwall may also use your personal data and other personally non-identifiable information collected through the Site or the provision of the Services to help us improve the content and functionality of the Site or the Services, to better understand our users and to improve the Site and the Services.
+Superwall and its affiliates may use this information to contact you in the future to tell you about services we believe will be of interest to you. If at any time you wish not to receive any future marketing communications or you wish to have your name deleted from our mailing lists, please contact us as indicated below.
+Sharing information we collect
+Superwall is NOT in the business of selling your information. There are, however, certain circumstances in which we may share your personal data with certain third parties without further notice to you, as set forth below:
+Agents
+Consultants
+Third Party Service Providers
+Superwall, like many businesses, sometimes hires other companies to perform certain business-related functions. Examples of such functions include mailing information, maintaining databases and processing payments.
+When we employ another entity to perform a function of this nature, we only provide them with the information that they need to perform their specific function. Business Transfers: As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, personal data may be part of the transferred assets.
+Related Companies
+We may also share your personal data with our corporate affiliates and subsidiaries, if any, for purposes consistent with this Privacy Policy.
+Legal Requirements
+Superwall may disclose your personal data if required to do so by law or in the good faith belief that such action is necessary to
+Comply with a legal obligation
+Protect and defend the rights or property of Superwall
+Act in urgent circumstances to protect the personal safety of users of the Site, the Services or the public
+Protect against legal liability
+Links to other websites
+The Site may have links to third-party websites, which may have privacy policies that differ from our own. We are not responsible for the practices of such sites, nor does any such link imply that Superwall endorses or has reviewed the third party site subject to such link. We suggest contacting those sites directly for information on their privacy policies.
+Children and minors
+Superwall does not knowingly collect personal data from minors under the age of 18. If you are under the age of 18, please do not submit any personal data through the Services. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children never to provide personal data without their permission. If you have reason to believe that a minor under the age of 18 has provided personal data to Superwall through the Site or the Services, please contact us, and we will endeavor to delete that information from our databases.
+Data Security
+We have taken certain physical, administrative, and technical steps to safeguard the information we collect from and about our customers and Site visitors. While we make reasonable efforts to help ensure the integrity and security of our network and systems, we cannot guarantee our security measures. Therefore, you should take special care in deciding what information you send to us. Please keep this in mind when disclosing any personal data to the Company via the Internet.
+Access to your personal information
+To keep your personal data accurate, current, and complete, please contact us as specified below. We will take reasonable steps to update or correct personal information in our possession that you have previously submitted via the Services.
+Information for EEA Users
+What Rights Do I Have?
+Individuals located in the European Economic Area (EEA) have certain rights in respect of your NPI, including the right of access, rectification, restriction, opposition, erasure and data portability. Where possible, we rely on user consent a sa lawful basis for processing personal data and obtain such consent in compliance with applicable laws.  In some cases, Superwall may process NPI pursuant to legal obligation or to protect your vital interests or those of another person.
+How May I Exercise My Individual Rights?
+Users located within the EEA may contact us with questions or requests regarding their NPI using the contact information below. Please note that Superwall may request additional information from you to verify your identity before we disclose any personal or account information. We only send marketing communications to users we believe to be located in the EEA with your prior consent, and you may opt out of such communications at any time by clicking the “unsubscribe” link found within Superwall email updates and changing your contact preferences. Please note, you will continue to receive essential account-related information, even if you unsubscribe from promotional emails.
+Who Can I Contact at Superwall Regarding Data Protection Issues?
+Superwall has designated a Data Protection Officer to assist with data privacy and data protection issues.  You may contact him or her by emailing compliance@superwall.me and addressing your questions or concerns to the Data Protection Officer.
+Who Can I Contact at Superwall Regarding Data Protection Issues?
+If you have any questions about this Privacy Statement or the practices described herein, you may contact us at: compliance@superwall.me.
+Changes to this statement?
+Superwall reserves the right to revise this Privacy Policy at any time. When we do, we will post the change(s) on the Site. Your continued use of the Site and the Services after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy.
+Privacy Policy
+Terms and Conditions
+GDPR
+DPA
+Sub-Processors

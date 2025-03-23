@@ -1,0 +1,936 @@
+About
+Tests
+Data
+Get Involved
+Reports
+Blog
+Donate
+Install OONI Probe
+Open main menu
+About
+Tests
+Data
+Get Involved
+Reports
+Blog
+Donate
+OONI Data Policy
+Last modified:
+October 15, 2024
+Version:
+1.6.0
+This Data Policy discloses and explains what data the
+Open Observatory of
+Network Interference (OONI) project
+(“we”, “us”, or “our”)
+collects, processes, stores and publishes relating to the users of
+its OONI Probe software (“you” or “your”). This Data Policy also outlines the
+data principles that govern OONI’s data practices.
+Data Principles
+1. Purpose Limitation
+2. User Safety
+3. User Control
+4. Open By Default
+5. Accessible and Usable
+6. Public Archive
+Analytics
+OONI Probe apps
+OONI website
+OONI Probe
+Data We Collect
+Data We Process
+Data We Store
+Data We Publish
+Third-party services
+OONI web services
+Data Principles
+Our data practices – and the ways that we design and develop software – are
+governed by the following main principles.
+1. Purpose Limitation
+We collect data that is relevant to the examination and characterization of
+networks, particularly with the goal of identifying internet censorship and
+other forms of network interference.
+We also collect data that enables us to improve OONI tools and better serve
+the OONI community.
+2. User Safety
+OONI Probe
+is
+not
+a privacy tool, but we care about privacy and
+the well-being of our community.
+We therefore design and develop
+OONI Probe tests
+(and the broader
+OONI software
+ecosystem
+) with user safety in mind.
+This is why, for example, we do our best
+not
+to collect any
+personally-identifiable information.
+3. User Control
+Running OONI Probe can potentially be
+risky
+,
+and different users have different threat models. It’s therefore important to us
+that OONI Probe users are able to customize their testing depending on their
+threat model and what they feel comfortable with.
+To this end, we provide settings in OONI software that enable users to
+opt
+out
+from various different types of data collection and publication. We also
+enable OONI Probe users to test the URLs of their choice.
+4. Open By Default
+To increase transparency of internet censorship around the world, the
+OONI software ecosystem
+has been designed in such a way
+that we (automatically)
+openly publish all OONI Probe measurements
+that get
+sent to our servers. All OONI software (including our infrastructure) is
+open source
+, enabling the independent, third-party verification of statements made in this Data Policy.
+5. Accessible and Usable
+We openly publish all OONI measurements in machine-readable format, so that they
+can more easily be accessed, used, and integrated into other systems.
+To enable researchers and data scientists to make use of OONI data, we offer
+several methods for accessing, downloading, and analyzing
+the data.
+To enable human rights defenders, journalists, and the general public to access
+and use OONI data, we have built
+OONI Explorer
+: a web platform that includes
+charts and a search tool for exploring OONI measurements.
+6. Public Archive
+Our goal is to enable future generations (and current researchers and human
+rights defenders) to learn about internet censorship through longitudinal OONI
+measurements.
+We therefore do our best to preserve a
+public archive of all OONI
+measurements
+that we collect and openly publish.
+As a result, we refrain from deleting OONI measurements (unless there are
+user safety concerns), and we continuously work towards improving our analysis
+and storage capabilities for the public archival of all OONI measurements
+collected from around the world.
+Analytics
+We primarily use analytics to receive crash reports, which enables us to identify and
+fix bugs, and to improve the performance of the OONI Probe apps.
+OONI Probe apps
+For the
+OONI Probe mobile app
+, we use:
+Countly (self-hosted)
+. We use open source Countly
+analytics (which we host ourselves) for
+sending push notifications
+. If
+you opt in to push notifications on OONI Probe Android, we will collect
+information necessary for sending push notifications (see “Data We Collect”
+section for more details).
+Sentry
+. If you opt in to sharing
+crash reports
+with us, we
+will collect sanitized technical data, including device identifier information,
+which will help us understand why the OONI Probe app has crashed. We do not
+collect the IP address or a unique identifier of the user.
+On
+F-Droid
+we do
+not
+use any analytics.
+For the
+OONI Probe desktop app
+, we use:
+Sentry
+. If you opt in to sharing
+crash reports
+with us, we will collect
+sanitized technical data, including device identifier information, which will
+help us understand why the OONI Probe app has crashed. We do not collect the IP
+address or a unique identifier of the user.
+On both the OONI Probe mobile and desktop apps, you can opt in to sharing
+crash reports during the onboarding process. If you
+change your mind, you can opt out through the settings of the apps.
+On
+OONI Probe Web
+we do
+not
+use any analytics.
+Details about our specific setup can be found in
+ooni/sysadmin
+.
+OONI website
+We use the open source
+Umami
+analytics platform (using the
+EU Umami cloud service
+) to
+collect data on how many visits
+OONI Explorer
+and our
+website
+receive. This is
+done
+without the use of cookies
+. Since we do not use cookies or track any
+personal data, these analytics are
+enabled by default
+.
+We do not record the full IP address of users (which is “anonymised” to the
+first 3 octets, ex. 123.45.67.0).
+On
+OONI Explorer
+, we also use
+Sentry
+to log crash reports, which helps us improve the service.
+We will notify you of any future changes to our use of analytics through an
+update to this Data Policy.
+OONI Probe
+Data We Collect
+Logging into the
+OONI Run
+platform is facilitated by a one-time magic link. We do
+not
+store your email address upon login. Your email address is saved as part of the description in any OONI Run link you create and is displayed to end users of your links. We collect and display your email address in the OONI Run links you create to enable OONI Probe users who receive your OONI Run link to trust it and to have the opportunity to reach out to you (for example, if they would like to propose more URLs for testing). Our goal is to help facilitate more trust and coordination among testers.
+We collect different types of network measurements when you run different types
+of OONI Probe tests. You can learn how each OONI Probe test works (and what
+types of network measurements are collected) through the OONI Probe
+test specifications
+and
+test descriptions
+.
+Details about the collected network measurements are available on
+OONI Explorer
+and the
+OONI API
+.
+You can opt out of sending us your measurements through the settings in the OONI
+Probe apps.
+If you
+don’t
+opt out of sending us your measurements, we will collect the
+following types of data by default when you run OONI Probe.
+Date and time of measurements
+We
+always
+collect the time and date of measurements when you run OONI Probe.
+This data helps us evaluate when a measurement was collected and to
+compare measurements over time.
+You cannot opt out of sending us this type
+of data.
+Country code
+By default, we automatically transmit your IP address to our
+ASN
+database
+to identify the country in
+which you are located. We then obtain a two-letter country code from this
+database (for example, “IT” for Italy) and store it along with the rest of your
+test results.
+Knowing the country from which our users are running OONI Probe allows us to locate any
+network interference the software identifies to a specific country. Such
+information may be useful to researchers, journalists, and advocates who aim to
+discover network interference (such as censorship and traffic manipulation).
+You cannot opt out of sending us your country code as this information is
+essential (i.e. without the country code, we don’t know where a measurement came
+from, limiting its value).
+Network information
+By default, we collect your corresponding network
+Autonomous System Number (ASN)
+when you run OONI Probe.
+Collecting ASNs helps our work by revealing the identity
+of network providers that engage in censorship or other forms of network
+interference. For example, if you run OONI Probe on Vodafone Italia, we would collect
+AS30722
+, which is the corresponding ASN.
+We also collect information to identify if an OONI Probe user is on a
+WiFi network
+or
+using
+mobile data
+.
+This information can be useful for distinguishing measurements collected from
+mobile and fixed-line networks, as well as for sending out push notifications
+and encouraging automatic OONI Probe testing. For example, if you are on WiFi
+and you have opted-in to push notifications, we may send you a push notification
+encouraging you to test a long list of URLs.
+You cannot opt out of submitting your network ASN or information about the type
+of network (e.g. WiFi) you are running OONI Probe on, as this information is
+necessary in order for measurements to be useful.
+Operating system and browser name
+Through the
+OONI Probe mobile and desktops apps
+, we
+collect the operating system name (e.g
+Windows
+) used by the user. Through
+OONI Probe Web
+, we collect the browser name
+(e.g
+Firefox
+) used by the user. This data helps us evaluate if there are
+platform-specific issues impacting the measurements.
+Network measurements
+We collect different types of network measurements when you run different types
+of OONI Probe tests.
+You can learn how each OONI Probe test works (and what
+types of network measurements are collected) through the OONI Probe
+test
+specifications
+and
+test descriptions
+.
+Details about the collected network measurements are available on
+OONI Explorer
+and the
+OONI API
+.
+You can opt out of sending us any of your measurements through the settings in the OONI
+Probe apps.
+Crash reports
+During the onboarding process, OONI Probe users can opt in to send us crash
+reports. This information is essential for identifying bugs and improving the
+performance of the OONI Probe apps.
+These crash reports include the OONI Probe software version, device identifier
+information, and information about why and how a specific OONI Probe function
+failed to work as expected.
+You can opt in or opt out of sending us crash reports by enabling or disabling
+this option in the settings of the OONI Probe apps.
+IP addresses and other information
+We do
+not
+aim to collect or store your IP addresses. In fact, we take measures
+to remove them from our database of collected measurements to reduce the risk to
+you.
+However, we
+might unintentionally
+collect your IP addresses and other
+personally-identifiable information if this data is included in the HTTP headers
+or other metadata of OONI measurements. This data, for example, might be collected if
+the
+websites
+OONI Probe is testing employ tracking technologies or contain custom content.
+If you run the performance tests included in the OONI Probe apps, the
+Measurement Lab (M-Lab)
+will collect and publish your IP address, irrespective of your OONI Probe settings. Learn more about M-Lab’s data governance through its
+privacy statement
+.
+Information required for push notifications
+If you
+opt in to push notifications
+via the
+OONI Probe mobile app
+, we will
+collect information required for identifying and authenticating probes to send out push notifications.
+This may include:
+Information about the OONI Probe installation (such as software version,
+supported tests, platform, device language, device timezone);
+Network information (such as probe ASN and network type) and country code;
+Approximate geographical location (based on your IP address) in order to send
+geo-targeted push notifications;
+Information necessary to deliver push notifications, such as the push notification token.
+Data We Process
+We process all the collected OONI Probe network measurements through our
+data processing pipeline
+.
+We try to make sense of the data and to find answers to the following questions:
+Which types of OONI Probe tests were run?
+In which countries were those tests run?
+In which networks were those tests run?
+When were those tests run?
+What types of network interference occurred?
+In which countries did network interference occur?
+In which networks did network interference occur?
+When did network interference occur?
+How did network interference occur?
+You can opt out of sending us certain types or all of your measurements by
+disabling the relevant options in the settings of the OONI Probe apps.
+Data We Store
+By default, we store ALL of the data that your copy of OONI Probe sends us when
+you run a test. This may include information that
+might
+be personally-identifying,
+such as your IP address or other information contained in the HTTP headers.
+You can opt out of sending us your measurements by
+disabling the relevant setting in the privacy tab of the OONI Probe apps.
+Data required for sending out push notifications will be stored separately on a
+secure database server operated by OONI (which is different from the public
+metadb that hosts OONI Probe measurements).
+If you create an
+OONI Run
+v2 link, we will store the email address that you use for the creation of that link. This enables OONI Probe users who receive your OONI Run link to trust it based on your email address (which is displayed in the OONI Run link you create). This can help facilitate more trust and coordination among testers.
+We do
+not
+store your email address when you log into the
+OONI Run
+platform, but only when you create an OONI Run link.
+Data We Publish
+We
+publish
+ALL of the OONI Probe network measurement data that we have collected
+and stored to allow third parties to conduct independent studies, verify our
+findings, and answer other research questions.
+Currently, we publish all OONI measurement data both through our
+OONI API
+and through an interactive
+web interface, called
+OONI Explorer
+.
+For more information on the license under which the data is released, see
+github.com/ooni/license/data
+.
+We will
+not
+publish data related to analytics and push notification support, both of which are securely stored separately from the public measurement metadb.
+The email address that you use to create an
+OONI Run
+v2 link will be published in the link that you create. This enables OONI Probe users who receive your OONI Run link to trust it.
+Third-party services
+M-Lab
+The performance tests included in the OONI Probe apps are conducted against third-party servers
+provided by
+Measurement Lab (M-Lab)
+. M-Lab’s
+services require the retention and disclosure of IP addresses for research
+purposes. Learn more about M-Lab’s data governance through their
+privacy statement
+.
+Sentry
+We use
+Sentry
+to log crash reports for the
+OONI Probe
+apps. This information is essential for identifying bugs and improving the performance of the apps. You can opt out through the settings of the OONI Probe apps.
+We also use
+Sentry
+to log crash reports on
+OONI Explorer
+, which helps us improve the performance of the service.
+As part of crash reports, we collect sanitized technical data, but we do
+not
+collect the IP address or a unique identifier of the user. Given that Sentry is a third-party service, we recommend referring to their
+privacy policy
+.
+Umami Cloud
+We use
+Umami Cloud
+for collecting privacy
+preserving analytics about website visits, specifically on the EU instance.
+OONI web services
+Accounts on OONI web services require an email address that we send a login
+link to. We do
+not
+store email addresses.
+OONI web services are hosted through the following providers:
+Netlify
+DigitalOcean
+Vercel
+Hetzner
+We reserve all rights to make future changes to this Data Policy at our sole
+discretion.
+For questions and comments on this Data Policy, please contact the OONI team:
+contact@openobservatory.org
+.
+Key ID:
+    6B2943F00CB177B7
+Fingerprint:
+4C15 DDA9 96C6 C0CF 48BD 3309 6B29 43F0 0CB1 77B7
+Sub-section Policy: 
+Sub-policy 0
+https://www.measurementlab.net/privacy/:
+Home
+About
+What is Measurement Lab?
+Who we are
+Policies
+Contact
+Data
+Overview
+Docs
+Platform Status
+Tools
+Tests
+Internet Measurement Tests
+Using and Troubleshooting M-Lab Tests
+Current Tests
+Retired Tests
+Publications
+M-Lab Publications
+Papers
+Government/Regulatory Filings
+Presentations
+Blog
+Learn
+Learning Resources
+Contribute
+Ways to Contribute
+Developer
+Jobs & Opportunities
+FAQ
+What is Measurement Lab?
+Who we are
+Policies
+Contact
+Home
+/
+About
+/
+M-Lab Privacy Policy
+Measurement Lab Privacy Policy
+Active and previous versions
+Current version (this document): [v3] July 14, 2020.
+2020-12-04 : Updated address for Code for Science, LLC.
+Previous versions:
+[v1] July 12, 2018
+[v2] July 1, 2019
+Measurement Lab Data Collection Overview
+Measurement Lab (M-Lab) is a measurement platform that provides one of the largest collections of public data on Internet performance. The data is generated by users that voluntarily conduct tests (or “experiments”) either directly through the M-Lab site or through third party “clients,” which are software applications or hardware equipment instrumented with software applications that test the connection between the user and an M-Lab server. The experiments may be authored, designed and maintained by parties other than M-Lab, e.g. university research groups or third party developers.
+All experiment data is retained indefinitely and published publicly to support research into trends in Internet performance.
+Please check this policy before you submit any data to the M-Lab platform through a test or client.
+What is under the scope of this Privacy Policy?
+This privacy policy covers data collected from you by Measurement Lab when you visit our website, engage with us directly (email, phone), or when you run an M-Lab hosted test via websites maintained by M-Lab, or via a software client provided by M-Lab such as our Chrome browser extension or client code compiled from our code repositories, hereafter referred to as “
+software client
+”.
+For anyone using our tests in the EU, references are explicitly made to the General Data Protection Regulation (GDPR) but this policy applies regardless of the country you are using our services from. We are data controllers (GDPR Art.4.7) insofar as we determine the means and purposes of the data collected and made public under our test methodology (further “
+test data
+”). For running tests developed by third-party researchers (further “
+experimenters
+”), we recommend reading the privacy policy found on their website. Links to experimenters’ websites can be found on our pages describing each M-Lab hosted test. All M-Lab hosted tests are listed on our
+listed on our tests page
+.
+Software clients developed by third parties using open source test(s) provided by M-Lab, and/or which leverage the M-Lab platform as a service, must comply with this privacy policy, as well as the
+M-Lab Acceptable Use Policy
+, with respect to the submission of test data to M-Lab. Third party software clients that add additional non-M-Lab services or collect additional data from the user are not allowed to submit such data to M-Lab. Therefore, entities developing third party software clients are responsible for maintaining appropriate policies for any such additional data or services they collect.
+Who we are and why we do what we do.
+Measurement Lab (further “
+M-Lab
+”) is a fiscally sponsored project of
+Code for Science & Society
+(CS&S) operating at 3439 SE Hawthorne Blvd. #247, Portland, Oregon 97214-5048.
+Purpose of the processing of personal data
+M-Lab provides an open source platform hosting Internet measurement tests developed by researchers (hereafter referred to as experimenters), allowing individuals to test various aspects of the Internet service to which they have access. Concurrently, it allows experimenters to develop code and conduct analysis using their purpose built software client. For a full list of experimenters that have developed their software client on our software solution, please visit our
+tests page
+Legal basis for the processing of personal data
+M-Lab was developed to promote scientific, transparent, economics-and-politics-free analysis of Internet performance. To achieve this, we believe that scientific independence requires the resulting data to be made available to the wider public as raw data and allow for it to be queried with no limitation of time. This entails storing data forever. As a consequence we collect and make your data public under the
+legitimate interest
+basis for processing under GDPR.
+M-Lab’s datasets are one of the only publicly available data sources on Internet performance, and therefore are unique with respect to our claim of legitimate interest. We release all of the data collected through experiments into the public domain under an
+OSI-approved license
+. M-Lab waives all copyright and related rights in and to the experiment data. Everyone is free to use the open experiment data.
+We encourage third parties to make use of this data for research and other projects, illustrative examples of which are detailed on our
+publications page
+and
+data tools page
+. Third parties may use the experiment data for any purpose, without needing to seek prior permission from M-Lab. M-Lab cannot assert control over third parties’ use of the published data.
+M-Lab uses data directly for the following purposes:
+Research
+: M-Lab may directly use aggregated experiment data to conduct research related to Internet performance.
+Aggregation of data
+: We aggregate experiment data to support analysis internally and by third parties. To improve the transparency and usability of data we may also produce visualizations that display experiment data patterns for a particular region or ISP.
+Maintenance and improvement of the M-Lab Platform
+: We may also use the information we collect to maintain and support our platform and presence, including troubleshooting issues, optimizing our website, or making decisions about how to expand our server network.
+Operation of the M-Lab Platform
+: We may use the information we collect to operate experiments associated with the M-Lab platform, including directing a client to an appropriate server on the platform.
+Abuse Detection and Troubleshooting
+: We may use information we collect to detect, prevent, or otherwise addressing abuse, security, or technical issues with the M-Lab Platform.
+Legal Purposes
+: We may use data we collect to enforce legal claims, including investigation of potential violations of applicable Acceptable Use Policies or other legal terms governing your use of the M-Lab platform.
+Important
+: Please note that because our platform’s purpose is to engage in longitudinal data studies, we maintain the data we collect for infinite periods of time. If you are not comfortable with data being retained for an indefinite amount of time, please abstain from using our tests. Read on to find out what data is collected.
+What data we collect from you, why we collect it, what happens to it and what rights you may exercise.
+As outlined in our
+Acceptable Use Policy
+, the following types of data may be collected from you:
+Data Collected When You Run Tests
+Measurement Data
+: Performance variables describing the state of connection during the test, such as average download and upload speed; latency and topology of the path between the client and server; and whether the application or protocol is manipulated or discriminated against in transit.
+Connection Data
+: Information necessary to characterize performance data, including the Internet Protocol (IP) address of the client that conducted the measurement and the date and time of the test.
+Metadata
+: Descriptive data about the user’s environment to support analysis of measurement data. Metadata varies by experiment and client but may include the name and version of the web browser software, software application, or operating system used to conduct the test.
+Data Collected for the Performance of M-Lab Operations
+M-Lab interfaces with a number of third parties in the operation of its platform, including for the purposes of contracting and operations for server infrastructure and transit and maintaining measurement experiments. M-Lab may collect contact data from these parties including name, email, address, and telephone number and retain and use this contact data for as long as is necessary to provide the platform and for legal purposes. This data will not be published and will be accessible only to members of the M-Lab team.
+We refer to this type of data hereafter as “Non-test related data”
+Information Collected Through the Use Of Our Website
+We may collect data about how you interact with M-Lab, like when you visit our website, hereafter referred to as “Website related data”. This data may be collected, processed and analyzed using Google Analytics:
+Log data
+: When you use M-Lab services or view M-Lab content, we may automatically collect and store certain data in server logs (records of the page requests made when you visit our sites). This may include: details of how you used our platform; Internet protocol address; device event data such as crashes, system activity, hardware settings, browser type, standard HTTP request headers, including but not limited to user agent, referral URL, language preference, date and time; and cookies that may uniquely identify your browser.
+Cookies and Local Storage
+: We may use various technologies to collect and store data when you visit the website, and this may include sending one or more cookies or randomly generated identifiers to your device. A cookie is a small file containing a string of characters that is sent to your computer when you visit a website. Cookies may store user preferences and other data. The “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We may also collect and store data using mechanisms such as browser web storage (including HTML5) and application data caches. For more information about cookies, please see our
+Cookies Notice
+.
+Test-related data (measurement data)
+M-Lab’s platform is internationally distributed and uses cloud services to store and process data, which affects how M-Lab collects and stores data. The initial point of collection for experiment data is the server on the M-Lab platform with which an experiment is conducted.
+For a single user, the initial point of collection can differ each time a measurement is made and may or may not be in the user’s country of residence. The data is collected by one of our servers, typically
+the one nearest to you
+(this could be a server in the EU). After the initial collection, M-Lab aggregates the data from the servers on the platform, enabling the long-term storage and analysis of the data. Data is stored in M-Lab’s Google Cloud Storage and in BigQuery datasets. Data hosted on the platform may be distributed across multiple countries, which may have differing privacy rules than those in your jurisdiction. We process the data for the purposes of the above described legitimate interests, and by using the M-Lab platform, you agree to such transfer of your data.
+Google LLC is certified under the EU-US and Swiss-US Privacy Shield allowing for the transfer of personal data from the EU to the US. Read more about the Privacy Shield at the end of this document.
+If you are an individual running a test maintained by M-Lab using one of our default software clients
+Measurement Lab maintains some of the tests running on our platform. These include NDT, TCP-INFO, and Traceroute. Of these tests, NDT is the only test directly usable by you, for example running the test from the
+NDT page on our website
+, from our
+standalone speed test site
+, or using a test version compiled from our public code repositories. TCP-INFO and Traceroute are run as server-side processes to gather data about the TCP connections to our servers.
+Measurement data and connection metadata is collected. This includes the IP address of the ISP provided on-premise device, or the IP address of your router, modem, etc. that receives an IP address from your provider. The time of test (timestamp) and the machine environment (e.g.: browser used and operating system) are also collected.
+Your rights under the GDPR
+As test users, under the GDPR, considering your personal data was collected and processed under the legal basis of legitimate interest, you have the right to
+access
+your data. You may request that we provide you with a copy of the data we hold about you. If you contact us by email, you should expect your data to be sent by email. If you would like it to be provided through another medium, please let us know. You have the right to request the
+rectification
+of your personal data. You have the right to request the
+erasure
+or
+restriction
+of your personal data and to object to its processing. In response to an erasure request, M-Lab will anonymise your data, thus taking it out of scope of the GDPR. You have the right to object to automated decision-making and the right to be informed about whether or not your data is subject to automated decision making. Automated decision-making is involved in determining which server is nearest to the location of the device on which the test is run. This decision-making is in no way employed to make decisions which would affect your rights and freedoms. We hereby inform you that should you express the wish to exercise your right to object to automatic decision-making we would apply your right to object and restrict your data from further processing. Please note that the rights above may differ depending on your location, our ability to verify your identity, and any legal exceptions or obligations we may have
+Privacy by design and data minimisation when exercising your GDPR rights
+Exercising the above-mentioned rights will require you to prove your identity. M-Lab is committed to data privacy and specifically one of its core principles: data minimisation. As such, we will not request a copy of your ID to prove your identity. Because we collect only your IP address at the time the test is run, we have no means of proving the test data belongs to you. Should you wish to exercise the rights listed above, we require proof that this IP address belonged to you at the point in time when you conducted an M-Lab test. Such proof could be provided in the form of a written confirmation from the resource holder (‘owner’) of the IP block your IP address is part of, for example your Internet Service Provider. You can find the details of the resource holder by using tools like a WHOIS search.
+If you are an individual running a test using a software client from a third party experimenter’s website
+Measurement Lab also hosts measurement tests (also referred to as experiments) on behalf of experimenters who apply to do so, and whose applications are accepted by M-Lab’s Experiment Review Committee. While these experiments’ server side code runs on the M-Lab platform, the data collected are not necessarily stored or processed by M-Lab, and the software client you might use to conduct these third party tests is typically found on each experimenter’s website. M-Lab provides a link to each experimenter’s website, where their data is stored, and their privacy policies on our pages describing the
+tests that we host
+. Each experimenter is responsible for maintaining separate privacy policies with respect to the data they collect and your rights as data subjects.
+Non-Test related data
+If you are an experiment owner and/or developer
+As you actively request us to contact you for more information about our project, M-Lab records your contact information and our partnership-related communications to be able to effectively communicate with you.
+Based on the performance of a contract (GDPR Art. 6.1.b), we collect data from you in the form of name, contact data, including address and phone numbers as well as any personal data you choose to disclose over the course of our partnership. Name and contact data is filed in the contact list of our email client, GSuite, and other data is stored, unstructured, in the thread of our conversations. We do not disclose this data to our partners without your knowledge or permission. For further data please review our
+Memorandum of Understanding (MoU) with Experimenters
+.
+Regardless of the location of persons with whom M-Lab has an above-mentioned partnership established through a jointly signed MoU, M-Lab maintains this data for up to 12 months after the end of our partnership (termination or non-renewal of the MoU), or as otherwise required to fulfill any applicable legal requirements. The data is processed for the performance of a contract (GDPR Art 6.1.b).
+Your rights under the European Data Protection Directive (GDPR)
+If the GDPR applies to you, you have the following rights which you can exercise directly with M-Lab, the data controller. You have the right to access your personal data by requesting that we provide you with a copy of the data we hold about you. If you contact us by email, you should expect your data to be sent by email. If you would like it to be provided through another medium, please let us know. You have the right to rectification and the right to erasure. We will do so if no existing legal obligation applies or if your data is not used for the defense or exercise of legal claims. You have the right to request that your data be corrected or updated. You have the right to request that the processing of your data be restricted if you believe we have not lawfully collected it or are not lawfully processing it. You have the right to data portability, requesting that we provide you with a portable format of your data (PDF, TXT, CVS…, please enquire about a specific format). Should you wish your data to be ported onto a third party, we will provide you with your data in a portable file, provided this is technically feasible and you have been able to verify your identity and the data that belongs to you.
+M-Lab does not submit your personal data to automated decision-making. Please note that the rights above may differ depending on your location, our ability to verify your identity, and any legal exceptions or obligations we may have.
+Website Related Data
+If you are a website visitor, we use Google Analytics to collect information about your site visit. This data is stored on Google Cloud in the United States, and is only available to M-Lab in aggregate.
+When you email us, we collect your name and email address using a Gsuite operated mail box. This data is collected on Art.6.1.b GDPR. for the performance of a contract or entering into one.
+Regardless of whether or not a website visitor is a GDPR data subject, this data is retained for up to twelve months after the end of our relationship, or as otherwise required to fulfill any applicable legal requirements. If you would like to opt-out of tracking by Google Analytics, you may install the
+Google Analytics Opt-out Browser Add-on
+.
+Transfers of personal data from the EU to our cloud storage
+Google LLC is certified under the EU-US and Swiss Privacy Shield Frameworks and their certifications can be viewed on the
+Privacy Shield list
+. Google is
+committed
+to complying with the EU General Data Protection Regulation (GDPR) for G Suite and Google Cloud Platform services. You can find GDPR-updated
+Data Processing Amendment
+for G Suite and Data Processing and Security Terms for Google Cloud Platform
+here
+.
+Availability of test data
+Your test data is made public under GDPR Art.6.1.f legitimate interest. The data disclosed includes your IP address, date and time.
+How to exercise your rights under the GDPR
+For data processed in the scope of this policy where M-Lab assumes the role of data controller (GDPR Art. 4.7), please write to us at privacy@measurementlab.net or by post at Measurement Lab, 3439 SE Hawthorne Blvd. #247, Portland, Oregon 97214-5048; please explain which right you wish to exercise and in which capacity. For instance you may be a website visitor wishing to exercise your right to erasure.
+Right to lodge a complaint
+We encourage you to contact us at privacy@measurementlab.net if you have a privacy related concern. However, you have the right to lodge a complaint to a data protection authority of your choice if you suspect us of improperly processing your personal data. You may choose to do so with the data protection authority of the European member state you live or work in but are free to turn to a data protection authority of the member state of your choices. A complete list of data protection authorities and their contact details in the EU can be found on the website of the
+European data protection board
+.
+We encourage you to contact us at privacy@measurementlab.net if you have a privacy related concern. However, you have the right to lodge a complaint to a data protection authority of your choice if you suspect us of improperly processing your personal data. You may choose to do so with the data protection authority of the European member state you live or work in but are free to turn to a data protection authority of the member state of your choices. A complete list of data protection authorities and their contact details in the EU can be found on the website of the
+European data protection board
+.
+Compliance and Cooperation with Regulators
+We regularly review this Privacy Policy and make sure that we process the data we collect in compliance with it. Regardless of where your data is processed, we apply the same practices described in this Policy. When we receive formal written complaints, we respond by contacting the person who made the complaint. We may work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the processing of data that we cannot resolve with you directly. You can contact your local data protection authority if you have concerns regarding your rights under local law.
+Use of our services or website by children
+Our services are not intended for anyone under the age of 16 years. If you are younger than 16, you may not use the website or platform.
+Links to other websites and third party privacy practices
+Our website and privacy policy may contain links to the websites of third-party, non-Measurement Lab organizations. M-Lab is not responsible for the privacy practices or the content of websites or services other than M-Lab. Therefore, we recommend that you carefully read the privacy statements of such foreign sites.
+Changes to this Privacy Policy
+We may modify this privacy policy at any time to comply with legal requirements as well as developments within our organization. When we do, we will revise the date and version at the top of this page. Each visit or interaction with our services will be subject to the new privacy policy. We will record past versions of this policy through an archive on this page. We will also notify users subscribed to the
+M-Lab Discuss list
+and/or future M-Lab community forums of changes to this policy, if required by applicable legal obligations. By using our Services, you acknowledge and agree that it is your responsibility to stay informed about our policies and modifications made to it.
+Contact Us
+If you have any questions, comments, or requests regarding M-Lab’s Privacy Policy, please contact us at privacy@measurementlab.net.
+Back to Top
+We would like to use third party cookies and scripts to improve the functionality of this website.
+Approve
+More info
+Sub-policy 1
+https://sentry.io/privacy/:
+This app works best with JavaScript enabled.
+Back to all legal docs
+Business Associate Amendment
+Data Processing Addendum
+Privacy Policy
+What does Sentry do?
+What personal information does Sentry collect?
+What does Sentry use my personal information for?
+Legal basis for processing personal information
+Who does Sentry disclose my personal information to?
+Cookies and similar tracking technology
+How does Sentry keep my personal information secure?
+International data transfers
+Data retention
+Your data protection rights
+Children’s privacy
+Third-party websites
+Updates to this Privacy Policy
+How to contact us
+Supplemental notice for California residents
+Terms of Service
+Privacy Policy
+Version
+/legal/privacy/3.3.1/
+of This Agreement was created on
+May 31, 2024
+.
+Read what has changed
+This Privacy Policy sets out how Sentry collects, discloses, and uses personal information about you and how you can exercise your privacy rights. This Privacy Policy applies to personal information that we collect when you visit our website at sentry.io (“
+Site
+”), use our products and services (“
+Service
+”), or otherwise interact with us (e.g., by attending an event or communicating with us). If you do not agree with this policy, please do not access or use our Site or Service or interact with any other aspect of our business.
+This Privacy Policy does not apply to data submitted to the Service (“
+Service Data
+”). A separate agreement (“
+Customer Agreement
+”) governs delivery, access, and use of the Service, including the processing of Service Data. With respect to any personal information included in Service Data, the organization (e.g., your employer or another entity or person) that entered into the Customer Agreement (“
+Customer
+”) controls its instance of the Service and any associated Service Data. If you have any questions about a Customer’s instance of the Service and any associated Service Data, please contact the Customer.
+We recommend that you read this Privacy Policy in full to ensure you are fully informed.  However, if you only want to access a particular section of this Privacy Policy, then you can click on the relevant link below to jump to that section.
+Table of contents
+What does Sentry do?
+What personal information does Sentry collect?
+What does Sentry use my personal information for?
+Legal basis for processing personal information
+Who does Sentry disclose my personal information to?
+Cookies and similar tracking technology
+How does Sentry keep my personal information secure?
+International data transfers
+Data retention
+Your data protection rights
+Children’s privacy
+Third-party websites
+Updates to this Privacy Policy
+How to contact us
+Supplemental notice for California residents
+What does Sentry do?
+Sentry offers an application monitoring solution designed to identify, monitor, and alert developers to errors, bugs, and other performance issues that are occurring in their applications.
+For more information about Sentry, please see the “About Us” section of our Site at
+https://sentry.io/about/
+.
+Return to top
+What personal information does Sentry collect?
+The personal information that we may collect about you broadly falls into the following categories:
+Information that you provide
+We collect information about you when you input it into our Site or the Service or otherwise provide it directly to us.
+Account and profile creation
+We collect information about you when you register for an account, create or modify your profile, and set preferences for the Service. For example, you may provide your contact information, including your first and last name, email address, and password when you register for the Service. You may also have the option of adding an avatar to your profile to be displayed in the Service. We keep track of your preferences when you select settings within the Service, including marketing and notification settings.
+Sign in via other platforms
+Instead of creating a user account, you can log in via your account with other platforms (currently Google, Github, or Azure Devops). We will not collect the password that you use for the relevant platform, but we may collect details from your account with the platform, such as username and email address.
+Requests and inquiries
+You may choose to provide us with information when you contact us about our Service or otherwise interact with us. For example, you may choose to submit information regarding a problem you are experiencing with our Service and send us screenshots to help in resolving the problem. You may submit your contact information to register for our events, to subscribe to receive marketing communications from us, or to make an inquiry through our Site. You may also provide content to us when you participate in a survey, contest, promotion, sweepstake, activity, or event, including via social media and other content platforms.
+Purchases
+If you register for a paid Service, we will collect purchase information, such as the Service plan that you purchase and information related to refunds, credits, and cancellations, and your billing address and payment information. Please note that any payment information you provide is sent directly to a third-party payment processor. We have no access to and do not store your payment information.
+Information that we collect from your device and usage
+We collect certain information about your device and how you and your device interact with us and our Site or Service. In some countries, including countries in the European Economic Area and the United Kingdom (together, ”
+Europe
+”), this information may be considered personal data under applicable data protection laws.
+Specifically, the information we collect will include information such as your IP address, device type, unique device identification numbers, browser-type, operating system, software installed on your device, product keys, general location information (such as inferred from an IP address), and referring URL.  We also collect information about how you and your device have interacted with our Site or Service or with us via email, including the pages you accessed, features you used, Service you purchased, links you clicked, and when you accessed and for how long.
+Some of this information is collected using cookies and similar tracking technology, as explained further under the heading
+“Cookies and similar tracking technology”
+below.
+Information that we obtain from third-party sources
+From time to time, we receive personal information about you from third-party sources (including social media and other content platforms, public databases, and from our business and channel partners and service providers).
+The types of information we collect from third parties include name, email addresses, job titles, and social media profiles. We may combine this information with information we collect through other means described above. This helps us to maintain and improve the accuracy of our records, identify new customers, deliver personalized communications, and suggest services that may be of interest to you.
+Return to top
+What does Sentry use my personal information for?
+We use your information for business and commercial purposes, such as to:
+Provide, maintain, and improve the Site and Service, including system administration, system security, and adding new features or capabilities;
+Manage your account and send you related information, including confirmations, updates, technical notices, security alerts, and support and administrative messages;
+Respond to your comments, questions, and requests, and provide customer care and support services;
+Communicate with you about the Service, products, offers, surveys, events, content, and other news and information we think may be of interest to you;
+Monitor and analyse trends, usage, and activities in connection with the Site and Service and our communications to you;
+Detect, investigate, and prevent fraudulent transactions and other illegal activities, protect the rights and property of Sentry and others, and comply with legal requirements;
+Personalize and improve the Site and Service and provide advertisements, content, and features that match your profile and interests, and remember information about your preferences for the Site and Service;
+Administer surveys, contests, promotions, sweepstakes, and other activities; and
+Carry out any other purpose for which the information was collected.
+We may aggregate or de-identify information collected through the Service. We may use aggregated or de-identified data for any purpose, including without limitation for research and marketing purposes, and may also disclose such data to any third parties, including without limitation, advertisers, promotional partners, sponsors, event promoters, and others.
+Return to top
+Legal basis for processing personal information
+If you are based in Europe, we collect and process information about you only where we have a legal basis for doing so under applicable European laws. This means we collect and process your information only where:
+We need it to provide the Site or Service, including to register you as a new user, operate the Site or Service, provide technical support, and to protect the safety and security of the Site or Service;
+It satisfies our legitimate interests, such as to market and promote the Service and to protect our legal rights and interests, which are not overridden by your own interests, rights, and freedoms;
+It is necessary to comply with a legal obligation or in connection with a legal claim, such as to respond to judicial orders or subpoenas; or
+You provide consent for a specific purpose, such as for marketing communications (where consent is required under applicable marketing laws).
+The legal bases depend on the type of information and the purpose for our processing. In some contexts, more than one legal basis applies. When we process your information based on your consent, you have the right to withdraw your consent at any time without affecting the lawfulness of processing based on such consent before it is withdrawn. To exercise your rights, see
+“Your data protection rights”
+below. Where we are using your information because we or a third party (e.g., your employer) have a legitimate interest to do so, you have the right to object to that use though, in some cases, this may mean no longer using the Service.
+Return to top
+Who does Sentry disclose my personal information to?
+We disclose your personal information to the following categories of recipients:
+Affiliate companies
+who help operate and improve our Site and Service (including to support the delivery of, provide functionality on, or help to enhance the security of our Site and Service), offer other Sentry affiliated services to you, or who otherwise process personal information for the purposes described in this policy. The protections of this policy apply to the information we disclose in these circumstances.
+Third-party services providers
+who provide hosting, storage, support, payment processing, billing, communication, analysis, and other services to us, which may require them to access or use information about you. If a service provider needs to access or use information about you to perform services on our behalf, they do so under appropriate security and confidentiality procedures designed to protect your information.
+Third-party go-to-market partners
+who provide referral, sale, resale, or similar go-to-market services. We may disclose your information, like your name, email address, and job title, in connection with their services. We may also disclose information to these third parties where you have agreed to that disclosure.
+Third-party analytics partners
+to provide analytics services. These entities may use Cookies in the same way we do, to among other things, track and analyze data, and better understand your online activity.
+Third-party platforms
+when you, your administrator or other Service users choose to install or enable third-party apps, add-ons or other platforms for use with the Service. Doing so may give the providers of those platforms access to your account and information about you, like your name and email address, and any content you choose to connect with those platforms. Please note that when you use third-party platforms, your use will be governed by their own terms and privacy policies.
+Any
+competent law enforcement body, regulatory, government agency, court or other third party
+where we believe disclosure is necessary (i) as a matter of applicable law or regulation, (ii) to exercise, establish or defend our legal rights, or (iii) to protect your vital interests or those of any other person.
+An
+actual or potential buyer
+(and its agents and advisers) in connection with any actual or proposed purchase, merger, or acquisition of any part of our business, provided that we inform the buyer it must use your personal information only for the purposes disclosed in this policy.
+Any
+other person with your consent
+to the disclosure.
+Return to top
+Cookies and similar tracking technology
+We use cookies and similar tracking technology (collectively, “
+Cookies
+”) to collect and use personal information about you, including to understand and save your preferences, and to compile aggregate data about Site and Service interaction.
+We may also allow certain third parties (e.g., service providers such as Stripe) to access their own cookies or other tracking technologies on your computer, mobile phone, or other device you use to access the Site or Service. Cookies may be associated with de-identified data linked to or derived from data you voluntarily have submitted to us (e.g., your email address) that we may share with a service provider in hashed, non-human-readable form.
+You may refuse to accept Cookies by activating the setting on your browser that allows you to refuse the setting of Cookies. You can find information on popular browsers and how to adjust your Cookie preferences at the browser provider’s websites. You can choose to disable Cookies, but if you do, your ability to use or access certain parts of our Site and Service may be affected.
+We do not recognize or respond to browser-initiated Do Not Track signals.
+Return to top
+How does Sentry keep my personal information secure?
+We use appropriate technical and organizational measures to protect the personal information that we collect and process about you. The measures we use are designed to provide a level of security appropriate to the risk of processing your personal information. However, no security system is impenetrable and due to the inherent nature of the Internet, we cannot guarantee that information, during transmission through the Internet, or while stored on our systems or otherwise in our care, is absolutely safe from intrusion by others. In particular, email sent to or from Sentry may not be secure, and you should therefore take special care in deciding what information you send to us via email.
+Return to top
+International data transfers
+In some cases your personal information is transferred to, and processed in, countries other than the country in which you are resident. These countries may have data protection laws that are different from the laws of your country (and, in some cases, may not be as protective).
+Specifically, our Site and Service are hosted in the United States and Germany, and our affiliate companies and third-party service providers operate around the world, including in the United States, Canada and Europe. This means that when we collect your personal information, we may process it in any of these countries.
+Where we transfer your personal information to countries and territories outside of Europe and Switzerland, which have been formally recognised as providing an adequate level of protection for personal information, we rely on the relevant “adequacy decisions” from the European Commission and Swiss Federal Administration, and “adequacy regulations” from the Secretary of State in the United Kingdom.
+Where the transfer is not subject to an adequacy decision or regulations, we have taken appropriate safeguards to require that your personal information will remain protected in accordance with this policy. The safeguards we use are the European Commission-approved standard contractual clauses, the UK International Data Transfer Agreement, and other appropriate legal mechanisms. This is how transfers of personal information between our group companies and with our third-party service providers will be safeguarded.
+Data Privacy Framework Notice
+Functional Software, Inc. (our registered company name) participates in and complies with the EU-U.S. Data Privacy Framework, the UK Extension to the EU-U.S. Data Privacy Framework, and the Swiss-U.S. Data Privacy Framework as set forth by the U.S. Department of Commerce (collectively, the
+“Data Privacy Framework”
+) regarding the collection, use, and retention of personal information about you that is transferred from the European Union, United Kingdom, and Switzerland to the U.S.  We have self-certified to the U.S. Department of Commerce that we adhere to the EU-U.S. Data Privacy Framework Principles for all information about you that is received from the European Union and the United Kingdom in reliance on the EU-U.S. Data Privacy Framework and the UK Extension to the EU-U.S. Data Privacy Framework. We have also self-certified to the U.S. Department of Commerce that we adhere to the Swiss-U.S. Data Privacy Framework Principles (together with the EU-U.S. Data Privacy Framework Principles, the
+“Data Privacy Framework Principles”
+) for all information about you that is received from Switzerland in reliance on the Swiss-U.S. Data Privacy Framework. If there is any conflict between the terms in this Privacy Policy and the Data Privacy Framework Principles, the Data Privacy Framework Principles will govern.
+As required under the Data Privacy Framework, when we receive information under the Data Privacy Framework and then transfer it to a third party acting as an agent on our behalf, we have certain liability under the Data Privacy Framework if the agent processes the information in a manner inconsistent with the Data Privacy Framework and we are responsible for the event giving rise to the damage. We may be required to disclose information about you under the Data Privacy Framework in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+To learn more about the Data Privacy Framework program, and to view Sentry’s certification, please see the
+Data Privacy Framework website
+.
+We encourage you to contact us as provided below should you have a Data Privacy Framework-related (or general privacy-related) complaint and we commit to resolve any such complaint. We have further committed to refer unresolved complaints concerning our handling of personal data received in reliance on the Data Privacy Framework to JAMS, a U.S.-based alternative dispute resolution provider.  If you do not receive timely acknowledgement of your Data Privacy Framework-related complaint from us, or if you are not satisfied with our response to your Data Privacy Framework-related complaint, please visit
+https://www.jamsadr.com/DPF-Dispute-Resolution
+for more information or to file a complaint. The services of JAMS are provided at no cost to you.
+Under certain conditions, more fully described on the
+Data Privacy Framework website
+, including when other dispute resolution procedures have been exhausted, you may invoke binding arbitration.
+We are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
+Return to top
+Data retention
+We retain the personal information we collect from you where we have an ongoing legitimate business need to do so (e.g., to provide you with a service you have requested or to comply with applicable legal, tax, or accounting requirements).  In certain circumstances, we will need to keep your information for legal reasons after our relationship has ended. For example, we may retain your data for longer than the usual retention period when we have a legal obligation to do such, to deal with and resolve requests and complaints, to protect an individual’s rights and property, and for litigation and regulatory matters. The specific retention periods depend on the nature of the information and why it is collected and processed and the nature of any legal requirement. The criteria we use to determine the retention period include:
+How long is the personal information needed to provide the Service or operate our business?
+This includes such things as maintaining and improving the performance of the Service, keeping our systems secure, and maintaining appropriate business and financial records. This is the general rule that establishes the baseline for most data retention periods.
+Is there an automated control, such as in your Sentry dashboard, that enables you to access and delete the personal information at any time?
+If there is not, a shortened data retention time will generally be adopted.
+Is the personal information of a sensitive type?
+If so, a shortened retention time would generally be appropriate.
+Has consent been provided for a longer retention period?
+If so, we will retain the data in accordance with your consent.
+Is Sentry subject to a legal, contractual, or similar obligation to retain the data?
+Examples can include mandatory data retention laws in the applicable jurisdiction, government orders to preserve data relevant to an investigation, or data that must be retained for the purposes of litigation.
+When we have no ongoing legitimate business need or legal reason to process your personal information, we will either delete or anonymise it or, if this is not possible (e.g., because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
+Return to top
+Your data protection rights
+Depending on your location, you may have the following data protection rights.  To exercise any of them see specific instructions below or contact us using the contact details provided under the
+“How to contact us”
+heading below.
+You may
+access, correct, update or request deletion
+of your personal information by submitting a request at
+https://sentry.io/contact/gdpr/
+.
+You can
+object to processing
+of your personal information, ask us to
+restrict processing
+of your personal information or
+request portability
+of your personal information by submitting a request at
+https://sentry.io/contact/gdpr/
+.
+You have the right to
+opt-out of marketing
+communications we send you at any time.  You can exercise this right by clicking on the “unsubscribe” or “opt-out” link in the marketing emails we send you or otherwise following the directions in the emails.  You can also make choices about your receipt of marketing communications through the subscription settings in your account.
+If we have collected and processed your personal information with your consent, then you can
+withdraw your consent
+at any time by submitting a request at
+https://sentry.io/contact/gdpr/
+. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.
+You have the
+right to complain to a supervisory authority
+about our collection and use of your personal information. For more information, please contact your local supervisory authority. (Contact details for supervisory authorities in Europe are available
+here
+.) Certain supervisory authorities may require that you exhaust our own internal complaints process before looking into your complaint.
+We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws.
+Return to top
+Children’s privacy
+Sentry’s Site and Service are not directed to children under 16. We do not knowingly collect personal information from children under 16. If you become aware that a child has provided us with personal information without parental consent, please contact us using the contact details provided under the
+“How to contact us”
+heading below. If we become aware that a child under 16 has provided us with personal information without parental consent, we will take steps to remove such information and terminate the child’s account.
+If you are 16 or older, but have not reached your jurisdiction’s age of majority (such that you are able to enter a contract), you should only use the Service with permission from your parent or guardian.
+Return to top
+Third-party websites
+The Site and Service may link to third-party websites or platforms from companies other than Sentry, such as to relevant online resources, social media platforms, our partners’ websites, payment processors, and other third-party websites. We are not responsible for the privacy practices or content of such other websites. If you have any questions about how these other websites use your information, you should review their policies and contact them directly. We are not responsible for the actions of third parties.
+Return to top
+Updates to this Privacy Policy
+We may update this policy from time to time in response to changing legal, regulatory, technical, or business developments. When we update this policy, we will take appropriate measures to inform you, consistent with the significance of the changes we make. We will obtain your consent to any material changes to this policy if, and where, required by applicable data protection laws.
+You can see when this policy was last updated by checking the date displayed at the top of this policy.
+Return to top
+How to contact us
+If you have any questions or concerns about our use of your personal information, please contact by sending us an email at
+compliance@sentry.io
+.
+The data controller of your personal information is Functional Software, Inc. d/b/a Sentry. Our address is Functional Software, Inc., 45 Fremont Street, 8th Floor, San Francisco, CA 94105.
+Return to top
+Supplemental notice for California residents
+The Supplemental notice for California residents can be found
+here
+.
+Return to top
+A peek at your privacy
+Here’s a quick look at how Sentry handles your personal information (PII).
+×
+Who we collect PII from
+We collect PII about people browsing our website, users of the Sentry service, prospective customers, and people who otherwise interact with us.
+What if my PII is included in data sent to Sentry by a Sentry customer (e.g., someone using Sentry to monitor their app)? In this case you have to contact the Sentry customer (e.g., the maker of the app). We do not control the data that is sent to us through the Sentry service for the purposes of application monitoring.
+Am I included?
+PII we may collect about you
+PII provided by you and related to your
+Account, profile, and login
+Requests and inquiries
+Purchases
+PII collected from your device and usage
+PII collected from third parties (e.g., social media)
+Tell me more
+How we use your PII
+To operate our site and service
+To protect and improve our site and service
+To provide customer care and support
+To communicate with you
+For other purposes (that we inform you of at collection)
+How exactly?
+Third parties who receive your PII
+We may disclose your PII to the following type of recipients:
+Subsidiaries and other affiliates
+Service providers
+Partners (go-to-market, analytics)
+Third-party platforms (when you connect them to our service)
+Governmental authorities (where necessary)
+An actual or potential buyer
+What do they do?
+We use cookies (but not for advertising)
+We do not use advertising or targeting cookies
+We use necessary cookies to run and improve our site and service
+You can disable cookies but this can impact your use or access to certain parts of our site and service
+How can I choose?
+Know your rights
+You may have the following rights related to your PII:
+Access, correct, and update
+Object to or restrict processing
+Port over
+Opt-out of marketing
+Be forgotten by Sentry
+Withdraw your consent
+Complain about us
+What can I do?
+If you have any questions or concerns about your privacy at Sentry, please email us at
+compliance@sentry.io
+.
+If you are a California resident, see our
+Supplemental notice
+.
+Read the full policy

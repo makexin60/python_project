@@ -1,0 +1,87 @@
+SPMX
+lists Swift Package Manager (SPM) libraries that reside on GitHub. 
+It allows software developers to easily find and explore Swift packages for use in their iOS and macOs Apps.
+Overview
+The Apps rely on the list of Swift packages from
+Swift Package Index
+. It is in essence an interface to this list.
+To use
+SPMX
+you need a
+GitHub account.
+In your account you also need to setup a
+Personal Access Token
+. Use this token to login to
+SPMX.
+SPMX
+tries to gather some information from the
+Package.swift
+file. 
+When this file is too complex, the relevant package information may show
+?
+.
+Note that the Swift versions displayed, comes from the swiftLanguageVersions method in
+Package.swift
+. 
+If not present, the Swift tools version is displayed instead.
+SPMX
+includes a search for keywords option. Use a set of space 
+separated words to search
+github
+for swift packages. 
+Packages that contains the selected keywords in their description or README.md file are retrieved. 
+The maximum number of packages to search for, is set in the
+Settings
+(the gear shape icon). 
+Large numbers take longer to process.
+For iOS devices
+SPMX
+App for iOS devices is
+free
+and is available on the
+Apple Store
+.
+For Mac
+SPMX
+App for Mac is
+free
+and is available for download right here
+SPMX download (1.2.1)
+.
+SPMX support
+Please address all correspondence regarding the
+SPMX
+Apps to:
+SPMX support
+Privacy Policy
+The following
+Privacy Policy
+applies to
+SPMX
+for iOS devices and macOS (the Apps).
+Information Collection, Use, and Sharing
+SPMX
+Apps do not:
+collect, access or record any personal information,
+collect, access or record any location information,
+collect, access or record any other information,
+contain any In-App purchase,
+display any advertising,
+ask for credit card number,
+ask for any personal information,
+lock you into subscription.
+We only have access to information that you voluntarily give us via email
+                 or other direct contact from you. We will not sell or rent this information to anyone.
+We will use your information to respond to you, regarding the reason you contacted us.
+                 We will not share your information with any third party outside of our organization,
+                 other than as necessary to fulfill your request.
+Unless you ask us not to, we may contact you via email in the future to answer your
+                 questions regarding the
+Apps
+or changes to this privacy policy.
+Your Access to and Control Over Information
+You may opt out of any future contacts from us at any time.
+If you feel that we are not abiding by this privacy policy, you should contact us
+                immediately via email
+SPMX support
+.

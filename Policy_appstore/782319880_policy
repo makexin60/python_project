@@ -1,0 +1,1705 @@
+Privacy Policy
+As the developer of GIFwrapped, your privacy is very important to me. The Privacy Policy that follows explains what information I collect about you and why, what I may do with that information and how it is handled. It applies to both the app for iOS and any web services provided by me as part of its use (referred to as “GIFwrapped”). By using GIFwrapped, you agree to this privacy policy.
+GIFwrapped makes use of several third-party services for various parts of its use, including, but not limited to:
+Dropbox
+,
+Tenor
+(owned by Google, Inc.),
+Giphy
+(owned by Facebook, Inc.), and
+GfyCat
+. This privacy policy does not cover these services, except in relation to GIFwrapped’s explicit use thereof. For more information about their stance on privacy, see the privacy policy for each of these services directly.
+Dropbox
+GIFwrapped uses a token provided by Dropbox to access files within the GIFwrapped directory of your Dropbox account. This token only has permission from Dropbox (and you, after you agree to connect your Dropbox account) to access the contents of this directory. No other files or directories can or will be accessed by GIFwrapped at any time.
+Information about your account—such as the provided token, and the contents—is never transmitted from your device, or logged in any manner. Your content is your own, and is only shared publicly at your explicit request, such as when you share the URL for a file that exists within your Dropbox account.
+iCloud
+GIFwrapped uses application programming interfaces (APIs) provided by Apple to access files within the GIFwrapped directory of your iCloud account. These APIs only have access to the contents of this directory. No other files or directories can or will be accessed by GIFwrapped at any time.
+Information about your account is never transmitted from your device, or logged in any manner. Your content is your own, and is only shared publicly at your explicit request, such as when you share the URL for a file that exists within your iCloud account.
+Search
+GIFwrapped’s online search functionality is provided by
+Tenor
+, which is owned by Google, Inc. Additional options are also available via advanced keywords, including
+Giphy
+(owned by Facebook, Inc.), and
+GfyCat
+.
+Searches are performed directly via the APIs these services provide, with no additional information being transmitted to them.
+Analytics
+Information about how you use GIFwrapped is logged for analytics purposes, to gain a greater understanding of the general usage of—and thus improve—GIFwrapped. The data collected does not include information that can be used to personally identify you, but does include basic information about the device you’re using (such as the model, operating system version, etc.) to help identify the cause of any issues. This can include identifiers for a specific installation, which are used to identify recurring issues, but these identifiers are not able to be traced back to you in any way.
+Activities tracked can change between versions, and may include:
+The method of sharing used.
+The purchase of upgrades, and receipt validation status.
+The number of photos processed, and the length of time taken to process them.
+Impressions and clicks for ads displayed within the app.
+Other, non-identifiable pieces of data about your usage.
+Analytics are collected using the third-party
+TelemetryDeck
+service, which is owned by TelemetryDeck GmbH. As such, data is shared with TelemetryDeck, and is handled according to
+their security and privacy practices
+.
+Crash reports
+In the case of a crash, a report is generated and transmitted for review. These reports are also collected using the third-party
+Bugsnag
+service, which is owned by SmartBear Software. Data about application crashes, and some related analytics data, is shared with SmartBear Software, and is handled according to
+their security and privacy practices
+.
+Advertising
+Banner advertising displayed within the app is directly managed by me. As part of this service, I collect only basic information about the display (known as impressions) and interaction (known as clicks) of individual ads on devices. As of writing, this is done through the third-party
+TelemetryDeck
+service, as noted in the Analytics section above.
+The advertising shown to you is not personalised, and does not use the advertising identifier provided by iOS.
+Previous Versions
+In version 2021.5 and prior, analytics and crash-related data was collected using the third-party
+Firebase
+service, which is owned by Google, Inc. As such, data from these versions of GIFwrapped is shared with Firebase, and is handled according to
+their security and privacy practices
+.
+Contacting us
+If you have questions regarding this privacy policy, you may email
+support@gifwrapped.co
+.
+Changes to this policy
+If I decide to change my privacy policy, I will post those changes on this page and update the Privacy Policy modification date below.
+Last modified 1 June, 2022.
+Download on the App Store
+Sub-section Policy: 
+Sub-policy 0
+https://telemetrydeck.com/pages/privacy-policy.html:
+This document has last been updated March 4, 2024
+TelemetryDeck was designed from the ground up with privacy in mind. An important principle of TelemetryDeck is to only save the least amount of data it absolutely needs, and to not save any data that can be used to identify specific users' identities.
+That is why the
+TelemetryDeck Client code
+is completely open source, so that users and developers can see for themselves the data that TelemetryDeck saves.
+TelemetryDeck has never installed any law enforcement software or equipment anywhere on our network.
+Data Transmitted
+Any data that is transmitted to the analytics server consists of the following:
+An anonymized user identifier. The identifier is constant for each app install but cannot be traced back to any personally identifiable information.
+An action taken, such as “App Launched” or “Settings Opened”. The developer defines these actions.
+A time stamp when the action was taken.
+Device metadata, namely platform, system version, app version, build number, if the build was downloaded via App Store or TestFlight, and the device model type (i.e., iPhone X, iPad Air, or iPhone 12).
+Additional metadata as defined by the developer, such as “Number of Items in the Database” or “Setting X is enabled”. Developers should note this metadata in their own privacy policy.
+For Web SDK API requests, we look at the first 3 triplets of incoming IP addresses in order to determine a possible country the request came from.
+IP addresses are never stored on the TelemetryDeck Server, neither in the database nor in any log files, nor at any other place.
+Terms Used
+A
+developer
+is a person who creates or maintains an app which includes the TelemetryDeck Client code. They are responsible for making sure they only hand anonymized data to the TelemetryDeck Client.
+The
+TelemetryDeck Client
+is the code that transmits data to the TelemetryDeck Server. It can be viewed on
+GitHub
+in its entirety.
+A
+user
+is a person who uses any app created by a
+developer
+. It is our job to make sure their data stays safe.
+A
+signal
+is one instance of data sent from the app to the TelemetryDeck Server using the TelemetryDeck Client.
+TelemetryDeck Viewer
+is the app that developers use to see signal data, both raw and in aggregated form, as
+Insights
+.
+User Identifiers
+Developers have three choices on how to identify users. They should note which they are using in their app's privacy policy:
+Using no user identifier at all. This will give them the greatest piece of mind, while still allowing TelemetryDeck to help them out with statistical analysis.
+Using Apple's “IdentifierForVendor” API. This is the default behaviour for TelemetryDeck. The identifier generated out with this method has no relation to any of the user's identifiable information or private data. Deleting and reinstalling the app will generate a new identifier and sever any connection to the old one.
+Using a custom string identifier, such as the user's username or email address. This string will never be transferred directly to the server. Instead, the TelemetryDeck Client will create a hash out of that string and only ever transmit that hash. This allows TelemetryDeck to detect the same user on multiple devices, but it is impossible for both the developer and any person having access to TelemetryDeck's database to retrieve the original custom string identifier.
+Metadata
+Developers can include any metadata they wish with signals they send using TelemetryDeck Client. They are urged to not send any data that might identify their users. They must include the types of data they send in their own apps' privacy policies.
+Using TelemetryDeck Viewer
+Developers using the TelemetryDeck Viewer app are sending signals to the TelemetryDeck Server as well. These do not contain any user data. The types of data are:
+App was launched
+Which part of the app was navigated to?
+Standard metadata: platform, system version, app version, build number, if the build was downloaded via App Store or TestFlight, and the device model type (i.e. iPhone X, iPad Air, or iPhone 12).
+Our Customers and Prospects
+We use the integrated software solution Hubspot for managing the address and contact data (contact management) of our customers and prospects. The service provider is HubSpot Inc., a software company from the USA (Hubspot, Inc. 25 First Street Cambridge, MA 02141 USA).
+We use Hubspot to document appointments and agreements, as well as to evaluate our activities in the sales area. Personal data such as name, email address, phone numbers, business addresses, and the content of business communication may be processed.
+The legal basis for processing in the context of contacting for the conclusion or performance of a contract is Art. 6 para. 1 lit. b GDPR or Art. 6 para. 1 lit. f GDPR. Our legitimate interest lies in the use for the purpose of the CRM system as contact management.
+Data will be deleted as soon as they are no longer required for their intended purpose and there are no legal retention obligations, e.g. for data that must be kept for commercial or tax reasons. In accordance with legal requirements in Germany, storage may be necessary for up to 10 years due to commercial and tax regulations. We delete prospect data within a reasonable period of time, within which no more contract conclusion or the like is to be expected.
+The data of TelemetryDeck GmbH is stored in European data centers by Hubspot. However, personal data may be transferred to the USA and other third countries where HubSpot subsidiaries are located. HubSpot meets the minimum requirements for legally compliant order data processing by concluding the EU standard data protection clauses. We have concluded a contract for order processing (Data Processing Agreement, DPA) with HubSpot.
+Further information on data processing by Hubspot can be found at:
+https://legal.hubspot.com/privacy-policy
+.
+Newsletter
+You have the option to subscribe to the newsletter offered on our website. If you would like to receive the newsletter, we require an e-mail address from you as well as information that allows us to verify that you are the owner of the specified e-mail address and agree to receive the newsletter. For this purpose, we use the so-called double opt-in procedure: After your registration, you will receive an e-mail to the specified e-mail address, in which we ask for confirmation of the registration.
+The following information is then saved with the confirmation:
+E-mail address
+Date of subscription
+Activity (delivered, opened, clicked)
+For customers who subscribe to our newsletter when opening an account, the following information is also stored:
+First name
+Last name
+Country
+Organization
+Further data is not collected or only on a voluntary basis. We use this data exclusively for sending the requested information and for proving your registration.
+Your consent is the exclusive basis for processing the data provided in the newsletter registration form (Art. 6 para. 1 lit. a GDPR). You can revoke your consent to the storage of the data, the e-mail address and their use for sending the newsletter at any time by unsubscribing from the newsletter, for example via the “unsubscribe” link in the newsletter. The legality of the data processing operations carried out up to that point remains unaffected by the revocation.
+Please note that unsubscribing from our newsletter list does not result in the deletion of your data. If you wish to delete your personal data from Mailjet, please inform us informally by e-mail.
+Mailjet
+Newsletters and customer information are sent via the service provider Mailjet. The provider is Sinch AB Lindhagensgatan 74 Stockholm, 112 18 Sweden. The data is stored in secure data centers located exclusively in the European Union, with Google Cloud Platform in Frankfurt (Germany) and St. Ghislain (Belgium).
+Mailjet is a service that, among other things, organizes and analyzes the sending of newsletters and customer information. Mailjet processes the following information on our behalf regarding the status of the subscription (subscribed, unsubscribed) as well as the status of the newsletters (delivered, opened, clicked and the exact button or link).
+For more information about Mailjet, please visit
+Mailjet's privacy policy
+.
+Sub-policy 1
+https://smartbear.com/privacy/:
+About cookies on this site
+We use cookies to collect and analyze information on site performance and usage, to provide social media features and to enhance and customize content and advertisements.
+Learn more
+Cookie settings
+Allow all cookies
+❮
+❯
+Categories
+Cookie declaration
+Cookies used on the site are categorized and below you can read about each category and allow or deny some or all of them. When categories than have been previously allowed are disabled, all cookies assigned to that category will be removed from your browser.
+Additionally you can see a list of cookies assigned to each category and detailed information in the cookie declaration.
+Learn more
+Allow all cookies
+Deny all
+
+Necessary cookies
+Some cookies are required to provide core functionality. The website won't function properly without these cookies and they are enabled by default and cannot be disabled.
+CookieHub
+CookieHub is a Consent Management Platform (CMP) which allows users to control storage and processing of personal information.
+Privacy Policy
+cookiehub
+Cloudflare
+Cloudflare is a global network designed to make everything you connect to the Internet secure, private, fast, and reliable.
+__cf_bm
+__cf_bm
+__cf_bm
+__cf_bm
+Amazon Web Services
+Amazon Web Services offers a broad set of global cloud-based products including compute, storage, databases, analytics, networking, mobile, developer tools, management tools, IoT, security, and enterprise applications.
+AWSALB
+Shopify
+Shopify is an eCommerce platform that allows businesses to create, manage, and scale online stores.
+secure_customer_sig
+cart_currency
+_shopify_y
+_orig_referrer
+_landing_page
+_shopify_s
+_shopify_sa_t
+_shopify_sa_p
+shopify_pay_redirect
+Microsoft ASP.Net
+ASP.NET is an open source web framework, created by Microsoft, for building modern web apps and services.
+Privacy Policy
+ASP.NET_SessionId
+ASP.NET_SessionId
+Marketo
+Privacy Policy
+_mkto_trk
+Google reCaptcha
+Google reCaptcha enables web hosts to distinguish between human and automated access to websites.
+Privacy Policy
+_GRECAPTCHA
+
+Preferences
+Preference cookies enables the web site to remember information to customize how the web site looks or behaves for each user. This may include storing selected currency, region, language or color theme.
+Zendesk
+AWSALBCORS
+Drift
+Privacy Policy
+drift_campaign_refresh
+drift_aid
+driftt_aid
+
+Analytical cookies
+Analytical cookies help us improve our website by collecting and reporting information on its usage.
+Google Analytics
+Google Analytics is a web analytics service offered by Google that tracks and reports website traffic.
+Privacy Policy
+_gid
+_ga_*
+_ga
+test_cookie
+_ga
+_gid
+
+Marketing cookies
+Marketing cookies are used to track visitors across websites to allow publishers to display relevant and engaging advertisements. By enabling marketing cookies, you grant permission for personalized advertising across various platforms.
+Google Ads
+Google Ads is an advertising service by Google for businesses that want to display ads on Google search results and its advertising network.
+Privacy Policy
+_gcl_au
+IDE
+test_cookie
+Facebook Pixel
+A piece of code that lets businesses measure, optimise and build audiences for advertising campaigns.
+Privacy Policy
+_fbp
+LinkedIn Insight
+The LinkedIn Insight tag powers conversion tracking, website audiences, and website demographics within the LinkedIn system.
+Privacy Policy
+bcookie
+lidc
+li_gc
+AnalyticsSyncHistory
+UserMatchHistory
+bscookie
+Microsoft Ads
+Microsoft Advertising (formerly Bing Ads) is a service that provides pay per click advertising on the Bing, Yahoo!, and DuckDuckGo search engines.
+Privacy Policy
+MUID
+MSPTC
+_uetsid
+_uetvid
+Twitter
+Twitter is an online news and social networking site where people communicate in short messages called tweets.
+muc_ads
+guest_id_marketing
+guest_id_ads
+personalization_id
+guest_id
+6sense
+Privacy Policy
+_an_uid
+_gd_visitor
+_gd_session
+Convert
+Privacy Policy
+_conv_v
+_conv_s
+
+Other cookies
+The cookies in this category have not yet been categorized and the purpose may be unknown at this time.
+Cookies used on the site are categorized and below you can read about each category and allow or deny some or all of them. When categories than have been previously allowed are disabled, all cookies assigned to that category will be removed from your browser.
+Additionally you can see a list of cookies assigned to each category and detailed information in the cookie declaration.
+Learn more
+Some cookies are required to provide core functionality. The website won't function properly without these cookies and they are enabled by default and cannot be disabled.
+Necessary cookies
+Name
+Hostname
+Vendor
+Expiry
+CMSCsrfCookie
+smartbear.com
+Session
+These cookies are linked to advertising and tracking the products users were looking at.
+ASP.NET_SessionId
+smartbear.com
+Microsoft
+Session
+Used by Microsoft ASP.Net web applications to maintain anonymous user's session state between page views
+sbcart
+smartbear.com
+31 days
+Used to remember which products are in the shopping cart
+_mkto_trk
+.smartbear.com
+Marketo, Inc.
+400 days
+This cookie is associated with an email marketing service provided by Marketo. This tracking cookie allows a website to link visitor behavior to the recipient of an email marketing campaign, to measure campaign effectiveness.
+__cf_bm
+.www2.smartbear.com
+Cloudflare, Inc.
+1 hour
+The __cf_bm cookie supports Cloudflare Bot Management by managing incoming traffic that matches criteria associated with bots. The cookie does not collect any personal data, and any information collected is subject to one-way encryption.
+BIGipServer
+www2.smartbear.com
+Session
+Cookie used for connection persistence and routing the request to proper server in server pool
+LiSESSIONID
+community.smartbear.com
+Session
+LithiumVisitor
+community.smartbear.com
+182 days, 16 hours
+AWSALB
+community.smartbear.com
+7 days
+Amazon Web Services cookie. This cookie enables us to allocate server traffic to make the user experience as smooth as possible. A so-called load balancer is used to determine which server currently has the best availability. The information generated cannot identify you as an individual.
+AWSALBCORS
+community.smartbear.com
+Zendesk
+7 days
+Amazon Web Services cookie. This cookie enables us to allocate server traffic to make the user experience as smooth as possible. A so-called load balancer is used to determine which server currently has the best availability. The information generated cannot identify you as an individual.
+__cf_bm
+.post.getzephyr.com
+Cloudflare, Inc.
+1 hour
+The __cf_bm cookie supports Cloudflare Bot Management by managing incoming traffic that matches criteria associated with bots. The cookie does not collect any personal data, and any information collected is subject to one-way encryption.
+cookiehub
+.smartbear.com
+CookieHub
+365 days
+Used by CookieHub to store information about whether visitors have given or declined the use of cookie categories used on the site.
+__cf_bm
+.smartbear.com
+Cloudflare, Inc.
+1 hour
+The __cf_bm cookie supports Cloudflare Bot Management by managing incoming traffic that matches criteria associated with bots. The cookie does not collect any personal data, and any information collected is subject to one-way encryption.
+ASP.NET_SessionId
+support.smartbear.com
+Microsoft
+Session
+Used by Microsoft ASP.Net web applications to maintain anonymous user's session state between page views
+secure_customer_sig
+swag.smartbear.com
+365 days
+Used by Shopify in connection with customer login.
+localization
+swag.smartbear.com
+365 days
+This cookie is used to store an interface language.
+cart_currency
+swag.smartbear.com
+14 days
+Used by Shopify to show the content of your cart in the right currency
+shopify_pay_redirect
+swag.smartbear.com
+1 hour
+Used by Shopify in connection with checkout
+_tracking_consent
+.smartbear.com
+365 days
+Used by Shopify to store a user's preferences if a merchant has set up privacy rules in the visitor's region.
+__cf_bm
+.t.co
+Cloudflare, Inc.
+1 hour
+The __cf_bm cookie supports Cloudflare Bot Management by managing incoming traffic that matches criteria associated with bots. The cookie does not collect any personal data, and any information collected is subject to one-way encryption.
+_GRECAPTCHA
+www.google.com
+Google
+180 days
+Used by Google reCaptcha for risk analysis
+Preference cookies enables the web site to remember information to customize how the web site looks or behaves for each user. This may include storing selected currency, region, language or color theme.
+Preferences
+Name
+Hostname
+Vendor
+Expiry
+CMSPreferredCulture
+smartbear.com
+365 days
+lidc
+.linkedin.com
+LinkedIn Ireland Unlimited Company
+1 day
+Used by LinkedIn for routing.
+li_gc
+.linkedin.com
+LinkedIn Ireland Unlimited Company
+180 days
+Used by LinkedIn to store consent of guests regarding the use of cookies for non-essential purposes
+Analytical cookies help us improve our website by collecting and reporting information on its usage.
+Analytical cookies
+Name
+Hostname
+Vendor
+Expiry
+_gid
+.smartbear.com
+Google
+1 day
+Contains a unique identifier used by Google Analytics to determine that two distinct hits belong to the same user across browsing sessions.
+_ga_
+.smartbear.com
+Google
+400 days
+Contains a unique identifier used by Google Analytics 4 to determine that two distinct hits belong to the same user across browsing sessions.
+bcookie
+.linkedin.com
+LinkedIn Ireland Unlimited Company
+365 days
+This is a Microsoft MSN 1st party cookie for sharing the content of the website via social media.
+_ga
+.smartbear.com
+Google
+400 days
+Contains a unique identifier used by Google Analytics to determine that two distinct hits belong to the same user across browsing sessions.
+mktLP
+.smartbear.com
+Session
+userId
+smartbear.com
+400 days
+_ga
+.support.smartbear.com
+Google
+400 days
+Contains a unique identifier used by Google Analytics to determine that two distinct hits belong to the same user across browsing sessions.
+_gid
+.support.smartbear.com
+Google
+1 day
+Contains a unique identifier used by Google Analytics to determine that two distinct hits belong to the same user across browsing sessions.
+_shopify_y
+.smartbear.com
+365 days, 6 hours
+Shopify analytics.
+_orig_referrer
+.smartbear.com
+14 days
+Used by Shopify to track landing pages.
+_landing_page
+.smartbear.com
+14 days
+Used by Shopify to track landing pages.
+_shopify_s
+.smartbear.com
+1 hour
+Shopify analytics.
+Marketing cookies are used to track visitors across websites to allow publishers to display relevant and engaging advertisements. By enabling marketing cookies, you grant permission for personalized advertising across various platforms.
+Marketing cookies
+Name
+Hostname
+Vendor
+Expiry
+_gcl_au
+.smartbear.com
+Google Advertising Products
+90 days
+Used by Google AdSense to understand user interaction with the website by generating analytical data.
+_an_uid
+smartbear.com
+6Sense Insights, Inc.
+7 days
+6sense cookie that presents the user with relevant content and advertisement. The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.
+_gd_visitor
+smartbear.com
+6Sense Insights, Inc.
+400 days
+6sense cookie that collects visitor data related to the user’s visit to the website, such as number of visits, average time spent on the website and which pages have been loaded, for the purpose of serving targeted advertisements.
+_gd_session
+smartbear.com
+6Sense Insights, Inc.
+4 hours
+6sense cookie that collects visitor data related to the user’s visit to the website, such as number of visits, average time spent on the website and which pages have been loaded, for the purpose of serving targeted advertisements.
+muc_ads
+.t.co
+Twitter, Inc.
+400 days
+This is a cookie that is set by twitter.com. It is used for optimizing ad relevance by collecting visitor navigation data.
+guest_id_marketing
+.twitter.com
+Twitter, Inc.
+400 days
+guest_id_ads
+.twitter.com
+Twitter, Inc.
+400 days
+This cookie is used by Twitter for advertising when logged out
+personalization_id
+.twitter.com
+Twitter, Inc.
+400 days
+This cookie carries out information about how the end user uses the website and any advertising that the end user may have seen before visiting the said website.
+guest_id
+.twitter.com
+Twitter, Inc.
+400 days
+This cookie is used by Twitter for authentication
+drift_campaign_refresh
+smartbear.com
+Drift.com, Inc.
+1 hour
+Used by Drift to provide Website Chat functionality.
+drift_aid
+smartbear.com
+Drift.com, Inc.
+400 days
+Used by Drift to provide Website Chat functionality.
+driftt_aid
+smartbear.com
+Drift.com, Inc.
+400 days
+This is the anonymous identifier token. It is used to tie the visitor on your website with the profile within the Drift system.
+IDE
+.doubleclick.net
+Google Advertising Products
+390 days
+Used by Google's DoubleClick to serve targeted advertisements that are relevant to users across the web. Targeted advertisements may be displayed to users based on previous visits to a website. These cookies measure the conversion rate of ads presented to the user.
+MUID
+.bing.com
+Microsoft
+390 days
+Microsoft User Identifier tracking cookie used by Bing Ads. It can be set by embedded microsoft scripts. Widely believed to sync across many different Microsoft domains, allowing user tracking.
+_conv_v
+.smartbear.com
+Convert Insights Inc.
+182 days, 12 hours
+Visitor cookie for convert.com, used for A/B testing content in order to improve the website.
+_conv_s
+.smartbear.com
+Convert Insights Inc.
+1 hour
+Session cookie for convert.com, used for A/B testing content in order to improve the website.
+_fbp
+.smartbear.com
+Meta Platforms
+90 days
+Facebook Pixel advertising first-party cookie. Used by Facebook to track visits across websites to deliver a series of advertisement products such as real time bidding from third party advertisers.
+test_cookie
+.doubleclick.net
+Google
+1 hour
+Used to check if the user's browser supports cookies
+MSPTC
+.bing.com
+Microsoft
+390 days
+AnalyticsSyncHistory
+.linkedin.com
+LinkedIn Ireland Unlimited Company
+30 days
+Used by LinkedIn to store information about the time a sync with the lms_analytics cookie took place for users in the Designated Countries
+UserMatchHistory
+.linkedin.com
+LinkedIn Ireland Unlimited Company
+30 days
+Contains a unique identifier used by LinkedIn to determine that two distinct hits belong to the same user across browsing sessions.
+bscookie
+.www.linkedin.com
+LinkedIn Ireland Unlimited Company
+365 days
+Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+_shopify_sa_t
+.smartbear.com
+1 hour
+Shopify analytics relating to marketing & referrals.
+_shopify_sa_p
+.smartbear.com
+1 hour
+Shopify analytics relating to marketing & referrals.
+_uetsid
+.smartbear.com
+Microsoft
+1 day
+This cookie is used by Bing to determine what ads should be shown that may be relevant to the end user perusing the site.
+_uetvid
+.smartbear.com
+Microsoft
+390 days
+Used by Microsoft Advertising to store a unique, anonymized visitor ID to personalize marketing.
+receive-cookie-deprecation
+.adnxs.com
+400 days
+Privacy Sandbox testing cookie to preview how site behavior and functionality work without third-party cookies.
+receive-cookie-deprecation
+.doubleclick.net
+180 days
+Privacy Sandbox testing cookie to preview how site behavior and functionality work without third-party cookies.
+The cookies in this category have not yet been categorized and the purpose may be unknown at this time.
+Other cookies
+Name
+Hostname
+Vendor
+Expiry
+userId
+community.smartbear.com
+400 days
+CMSPreferredCulture
+support.smartbear.com
+365 days
+userId
+swag.smartbear.com
+400 days
+trackalyzer
+lltrck.com
+365 days
+csrf-aurora
+community.smartbear.com
+Session
+CMSCurrentTheme
+smartbear.com
+1 day
+Save settings
+SmartBear Terms of Use
+Website Terms of Use
+Privacy Notice
+Software License and Services Types
+Data Processing Addendum
+Acceptable Use Policy
+Trial Terms of Use
+SmartBear Privacy Notice
+Effective Date: July 8, 2022
+Last Updated: July 8, 2022
+This Privacy Notice (the “Notice”) applies to personal information collected by, or provided to, SmartBear Software Inc., and/or its affiliates and subsidiaries (collectively "SmartBear”, "we", “us", “our") via the websites, applications, and electronic communications from which it is linked (collectively, the “Platform”). This Notice describes how SmartBear uses the personal information that it collects, receives, maintains, and stores about you. This Notice does not apply to Customer Data (as defined in the SmartBear Terms of Use) processed, stored, or hosted by our customers using SmartBear’s products and services. Our customers are responsible for deciding how Customer Data is used, so please see their applicable privacy notice for more information.
+1. Types of personal information Collected
+We may collect personal information from or about you in order to provide, enhance, market, and offer our products and services offered via the Platform, and to otherwise communicate with you. This section describes the categories of personal information we may collect, including personal information we have collected in the past twelve months. You are not required to give us all the personal information identified in this Notice; however, if you do not provide requested personal information, we may not be able to provide you with some or all of our services.
+Contact and Demographic Information –
+name; address (including billing and shipping address); telephone number; email address; and fax number.
+Payment Information
+– If you make a purchase, we will collect your payment information including your credit card information and billing address, together with your purchase details.
+Account Information
+– We may also collect user ID and password, and screen name.
+Location Data
+–While navigating the Platform, your mobile device or browser may share your location data, both through WiFi and GPS, and IP address or MAC address. We will collect this information based on the settings of your phone and browser.
+Usage Information
+– We may also collect usage and device information when you visit the Platform. This may include information relating to your Internet activity or other electronic network activity, which includes device information; web server type and version; PHP version; database type and version; cookie information; device information; browsing activities, and platform or mobile application use data; referring domain; destination domain and destination path; performance, security, software configuration and availability of our software on your servers and network; website user statistics and website and portal use and viewing activity records; and communication preferences.
+Education and Employment Information –
+If you apply for employment with SmartBear, we will collect your employment and work history, as well as personal information related to your potential employment. This may include, but is not limited to, your education and employment history, address and contact information, demographic information, and the contents of your resume.
+Communication Information
+- We may collect audio, electronic, or visual information, which includes screen sharing views; any data in any files uploaded, emailed or otherwise provided by customers; the contents of your communications with SmartBear, whether via email, social media, telephone or otherwise; and inferences we may make from other personal information we collect.
+2. Method of Information Collection
+We collect personal information in a variety of ways. We collect personal information directly from you; for example, when you visit our websites, respond to a survey, participate in a telephone interaction, fill out a registration form or otherwise use our software, or communicate with us through one of our websites to receive information about our business to business services or to schedule a demonstration of our products or programs, and if you expressed interest in being contacted by us at a trade show in which we participated or hosted.
+We may also collect personal information from third parties. For example, we may collect personal information from service providers that help us to build and maintain our contact lists, that integrate their services into ours, or in other ways work with us for our mutual benefit.
+We also collect personal information from you passively. For example, our Platform uses tracking tools like cookies, pixels, and web beacons to collect usage and browser information. For more information about the trackers that we use, please see Section 6 of this Notice. Additionally, if you enable location data on your device, this data will be collected based on the location settings on your device.
+3. Combining Personal Information
+We may combine personal information we obtain. For example, we may combine personal information that we have collected online with personal information that we have collected offline, for instance during calls between you and our support team. We may also combine personal information that we have collected across other third party sites or from other third parties with personal information we already have.
+4. How We Use Personal Information
+To the extent permitted by applicable law, we may use personal information to:
+operate our Platform and provide support to our business functions;
+fulfill customer requests, such as to create a SmartBear account or complete customer purchases;
+protect against criminal activity, claims and other liabilities;
+send customers information regarding SmartBear, our Platform, and our products and services;
+respond to reviews, comments, or other feedback provided to us;
+support and personalize our Platform, products and services, websites, mobile services, and advertising;
+protect the security and integrity of our Platform, content, and our business;
+provide customer support;
+the extent required for benchmarking, data analysis, audits, developing new products, enhancing our Platform, facilitating product, software and applications development, improving our services, conducting research, analysis, studies or surveys, identifying usage trends, as well as for other analytics purposes;
+meet our contractual requirements;
+comply with applicable legal or regulatory requirements and our policies;
+communicate with our customers, including to provide them with information about our products, programs, services and promotions;
+market, advertise, and provide our Platform; and
+the extent necessary for any other lawful purpose for which the personal information is collected.
+5. Sharing personal information
+We may share your personal information in the following circumstances:
+Within SmartBear
+– We may share your personal information within our family of companies.
+Service Providers –
+When we hire a service provider to help operate the Platform or our business, we may allow access to personal
+information
+as necessary to perform the service for us. This may include service providers that operate our Platform, send our communications, or run our promotions.
+Business Partners –
+We may share personal information with our trusted business partners. For example, we may share your personal information with a company when we co-sponsor a promotion or service. These partners may use your personal information to, among other things, send you information or contact you about their services and products.
+Third Parties for Marketing Purposes
+–To the extent permitted by applicable law, we may share personal information with third parties for purposes of our marketing, advertising, promotions, contests, or other similar purposes.
+Legal Obligation or Protection from Harm -
+When we have a good faith belief that access, use, preservation or disclosure of the personal information is reasonably necessary to (a) satisfy or comply with any requirement of law, regulation, legal process, or enforceable governmental request, (b) enforce or investigate a potential violation of the Terms of Use, (c) detect, prevent, or otherwise respond to fraud, security or technical concerns, (d) support auditing and compliance functions, or (e) protect the rights, property, or safety of SmartBear, its users, or the public against harm.
+Mergers, Acquisitions, Divestitures-
+If we are involved in a merger, acquisition, or any form of transfer or sale of some or all of our business, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, personal information may be transferred along with the business. Where legally required we will give you prior notice and, if you have a legal right to do so, an opportunity to object to this transfer.
+Purposes described to you –
+We may share your personal information for other purposes, as we describe to you and as permitted by applicable law.
+6. Cookies and Other Technologies
+We collect information about users over time on the Platform by using several common types of cookies and other tracking technologies including log files, pixel tags, web bugs, web beacons, clear GIFs, Local Storage Objects (LSOs) such as HTML5 and Flash or other similar technologies to collect information about the ways you interact with and use the SmartBear Platform, to support and enhance features and functionality, to monitor performance, to personalize content and experiences, for marketing and analytics, and for other lawful purposes. We may also permit third parties that collect information in this way on our behalf and for their own purposes. Cookies are small files that download when you access certain websites. For more information about cookies visit:
+http://www.allaboutcookies.org/
+.
+To assist us with analyzing our website traffic through cookies and similar technologies, we use analytics services such as Google Analytics. For more information on Google Analytics’ processing of your information, please see
+“How Google uses data when you use our partners' Platforms or apps.”
+You can opt-out of Google Analytics by installing
+Google’s opt-out browser add-on
+.
+These cookies may be placed by us (first-party) or by a third party. These cookies may also be Flash Cookies. To learn how to manage privacy and storage settings for Flash cookies
+click here
+. We may use cookies that are session-based or persistent. Session cookies expire when you close your browser or turn off your device. Persistent cookies remain on your device after you close your browser or turn off device.
+We may use a variety of cookies:
+Type of Cookies
+Description
+Required
+Required cookies are essential for the operation of SmartBear Products and Services. They include, for example, cookies that allow you to access secure areas of the Platform and using our services.
+Performance
+These cookies collect information about how you use the SmartBear Products and Services, including which pages you go to most often and if they receive error messages from certain pages. The information collected via these cookies is only used to improve how the Platform functions and performs.
+Functionality
+Functionality cookies allow the Platform to remember information you have entered or choices you make (such as your username, language, or your region) and provide enhanced, more personal features. These cookies also enable you to optimize your use of the Platform after logging in. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customize.
+Targeting or Advertising
+From time-to-time, we may engage third parties to track and analyze usage and volume statistical information from individuals who visit the Platform. We sometimes use cookies delivered by third parties to track the performance of our advertisements. For example, these cookies remember which browsers have visited the Platform. The information provided to third parties does not include Personal Data, but this information may be re-associated with Personal Data after we receive it.
+By way of example, as you visit the Platform, advertising cookies may be placed on your computer so that we can understand what you are interested in. Our advertising partners then enable us to present you with retargeted advertising on other sites based on your previous interaction with the Platform.
+Third parties, with whom we partner to provide certain features on the Platform or to display advertising based upon your web browsing activity, use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored.
+Most internet browsers accept cookies by default. You can accept, or block cookies by activating the setting on your browser that allows you to reject all or some cookies. You may also be able to change your cookie preferences via the Platform. The help and support area on your internet browser should have instructions on how to block or delete cookies. Some web browsers (including some mobile web browsers) provide settings that allow you to control or reject cookies or to alert you to when a cookie is placed on your computer, tablet or mobile device. Although you are not required to accept cookies, if you block or reject them, you may not have access to all of the features available through the SmartBear Products and Services.
+Cookie settings in Internet Explorer
+Cookie settings in Firefox
+Cookie settings in Chrome
+Cookie settings in Safari web
+and
+iOS
+.
+To find out more on how to manage and delete cookies, visit aboutcookies.org. For more details on your choices regarding use of your web browsing activity for interest-based advertising you may visit the following sites:
+networkadvertising.org
+optout.aboutads.info
+youradchoices.com
+youronlinechoices.eu
+On a mobile device, you may also be to adjust your settings to permit or limit ad tracking.
+7. Children Under the Age of 13
+The Platform is meant for adults and we will not knowingly collect personal information from any person under the age of 13 without permission from a parent or guardian. The Platform is not designed to attract the attention of persons under the age of 13. If you are a parent or legal guardian and think your child has given us information you can email us at
+Privacy@smartbear.com
+. You can also write to us at the address listed in the “Contact Us” section of this Notice. Please mark your inquiries “COPPA Inquiry.”
+8. Your Choices
+Depending on where you are located, you may have certain choices about how we use your personal information, including the right to access, receive a copy of, correct, delete, and opt-out of the processing of, your Personal Data. To exercise your rights (including to opt-out of marketing communications) please email us at
+Privacy@smartbear.com
+or by following the instructions included in the email or text correspondence.
+Please note that, even if you unsubscribe from certain correspondence, we may still need to contact you with important transactional or administrative information, as permitted by law. Additionally, if you withdraw your consent or object to processing, or if you choose not to provide certain personal information, we may be unable to provide some or all of the services to you.
+9. California Privacy Rights
+Pursuant to California’s Shine the Light statute (Cal. Civ. Code § 1798.83), you can control if we share personal information with third parties for their marketing purposes. To opt-out of us sharing your personal information with third parties for such purposes, email us at
+Privacy@smartbear.com
+include “Marketing Opt-Out” in your request.
+In addition, pursuant to the California Consumer Privacy Act of 2018 (“
+CCPA
+”), California residents may have certain other rights concerning their personal information. This section describes (i) the categories of personal information collected and disclosed by SmartBear, subject to CCPA, (ii) your privacy rights under CCPA, and (iii) how to exercise those rights.
+When we use the term “personal information” in this section, we mean information that identifies, relates to, describes, is capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular consumer or household.
+a. Personal Information We Collect.
+During the past twelve (12) months we and our service providers have collected the categories of personal information set forth below. We may disclose each of these categories of personal information to our service providers for our business purposes (to enable the service providers to provide their services) and as otherwise described in the “How We Disclose Personal Information” section above. We will not collect additional categories of personal information or use personal information collected for additional purposes without providing you notice.
+Identifiers (for example, name, postal address, date of birth, email address, IP address, and online identifiers);
+Categories of personal information as defined by Cal. Civ. Code § 1798.80 (for example, name, signature, Taxpayer Identification Number, telephone number, passport number, driver’s license number, insurance policy number, account numbers);
+Protected classifications under California or federal law (for example, age, citizenship status, national origin or ancestry);
+Commercial information (for example, transaction history);
+Internet or other electronic network activity information, including information on your usage of our Sites;
+Geolocation data;
+Sensory data (for example, audio from call recordings);
+Employment related information; and
+Inferences drawn from any information identified above to create a profile.
+b. Your Privacy Rights.
+In accordance with the CCPA, California residents may exercise, under certain conditions, the following privacy rights with respect to their personal information.
+Please note
+: you will
+not
+be discriminated against in any way if you exercise the rights listed below, which means we will not deny goods or services to you, provide different prices or rates for goods or services to you, or provide a different level or quality of goods or services to you.
+Privacy Right
+Description
+Notice
+You may have the right to be notified, at or before the point of collection, of the categories of personal information we collect and the purposes for which they will be used and shared.
+Access
+You may have the right to request the categories of personal information that we collected in the previous twelve (12) months, the categories of sources from which the personal information was collected, the specific pieces of personal information we have collected about you, and the business purposes for which such personal information is collected and shared. You may also have the right to request the categories of personal information which were disclosed for business purposes, and the categories of third parties in the twelve (12) months preceding your request for your personal information.
+Data Portability
+You may have the right to receive a portable copy of the personal information you have previously provided to us.
+Erasure
+You may have the right to ask us to delete (and have us direct our service providers to delete) your personal information. However, please be aware that we may not fulfill your request for deletion if we (or our service provider(s)) are required or permitted to retain your personal information for one or more of the following categories of purposes: (1) to complete a transaction for which the personal information was collected, provide a good or service requested by you, or complete a contract between us and you; (2) to ensure our website integrity, security, and functionality; (3) to comply with applicable law or a legal obligation, or exercise rights under the law (including free speech rights); or (4) to otherwise use your personal information, internally, in a lawful manner that is compatible with the context in which you provided the information.
+To Opt-Out
+We do not sell your personal information. If in the future we do sell your personal information, we will notify you and you may have the right to opt-out of such sale.
+c. How to Exercise Your Rights.
+If you would like to exercise your rights listed above, please send (or have your authorized agent send) an email to
+Privacy@smartbear.com
+, or call us toll free at +1 (617) 684 2600.
+d. How We Respond to Your Requests.
+In all cases, we will respond to your request within 45 days. However, where reasonably necessary, we may extend our response time by an additional 45 days, provided we send you notice of such extension first. We will provide the information to you via your preferred delivery mechanism. If the information is provided to you electronically, we will provide you the information in a portable format and, to the extent technically feasible, in a machine readable, readily usable format that allows you to freely transmit this information without hindrance.
+Please note that we will not charge you for making a request, provided that you make no more than two (2) requests per year. If you make three (3) or more requests in any given twelve (12) month period, we may refuse to respond to such requests, if determined by us to be unfounded or excessive (e.g. repetitive in nature), or we may charge a reasonable fee taking into account the administrative costs of providing the information or communication or taking the action requested. If we refuse to act on the request, we will provide you notice and the reason for our refusal to act.
+10. Information for Individuals in the EU and UK
+In accordance with European and UK law (collectively, the “GDPR”), individuals in the EU and/or UK may have additional rights relating to the collection and processing of personal information.
+a. Basis for Processing
+Our legal basis for processing the personal information described in this Notice will depend on the personal information concerned and the context in which we process it. We process personal information from you:
+where we need it to perform a contract with you;
+where the processing is in our legitimate interests (including the purposes described, above, in
+How We Use personal information
+);
+where the processing is necessary for us to meet our applicable legal obligations; or
+if we otherwise have your consent.
+b. Your Privacy Rights
+Depending on applicable law, you may have the right to:
+Request access
+to your personal information.
+Request correction
+of your personal information.
+Request erasure
+of your personal information. Note, however, that we may not always be able to comply with your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request.
+Object to processing
+of your personal information.
+Request restriction of processing
+of your personal information..
+Request the transfer
+of your personal information to you or to a third party.
+Withdraw consent
+at any time where we are relying on consent to process your personal information.
+If you wish to exercise any of these rights or would like further information please contact us at
+Privacy@smartbear.com
+. Depending on the nature of your request, we may need to verify your identity.
+Depending on where you are located, you may have a right to lodge a complaint with a supervisory authority or other regulatory agency if you believe that we have violated any of the rights concerning personal information. We encourage you to first reach out to us at
+Privacy@smartbear.com
+or using the address in the “Contact Us” section below, so we have an opportunity to address your concerns directly before you do so.
+11. Storage, Security and Retention of Information
+We take reasonable steps to protect the personal information users share with us, including, but not limited to, setup of processes, equipment and software to avoid unauthorized access or disclosure of this information. No transmission of information via the Internet can be entirely secure, however, so please always use caution when submitting personal information. We will retain your personal information in compliance with the uses described in this Notice, as well as to comply with our legal, financial reporting, or compliance obligations.
+12. Transfers of Personal Information
+We process and store personal information both inside the United States and overseas. If you live outside of the United States, be advised that we may transfer your personal information to the United States and other countries, whose laws may not provide the same protections as the laws in your country. Personal information transferred outside of the European Economic Area will be subject to the appropriate safeguards pursuant to GDPR and other applicable law, including without limitation, standard contractual clauses approved by the European Commission.
+13. Data Privacy Framework
+SmartBear complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce.  SmartBear has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF.  SmartBear has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF.  If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern.  To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit
+https://www.dataprivacyframework.gov/
+. The Federal Trade Commission has jurisdiction over SmartBear’s compliance with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF).
+In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, SmartBear commits to resolve DPF Principles-related complaints about our collection and use of your personal information.  EU and UK and Swiss individuals with inquiries or complaints regarding our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF should first contact SmartBear at:
+Legal Department
+SmartBear Software Inc.
+450 Artisan Way
+Somerville, MA 02145
+Phone: +1 (617) 684-2600
+privacy@smartbear.com
+In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, SmartBear commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF to JAMS, an alternative dispute resolution provider based in the United States.  If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit
+https://www.jamsadr.com/DPF-Dispute-Resolution
+for more information or to file a complaint.  The services of JAMS are provided at no cost to you. If you have a complaint that we have violated the DPF Principles that has not been resolved by other means, you may have the ability to invoke binding arbitration as outlined more fully at
+https://www.dataprivacyframework.gov/
+.
+We may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+If we transfer your personal data onward to a third party, we will continue to remain liable under the DPF Principles if the information is processed in a manner inconsistent with the DPF Principles.
+14. Links to Third Parties and their Sites
+Our Platform may include third party content and links to third party websites and services that collect personal information. We do not control these third parties and this Notice does not apply to their privacy practices. We are not responsible for the practices of these third parties or how they use information you provide to them. Please read the third parties’ privacy policies carefully.
+15. Contacting SmartBear
+If you have any questions about this Notice or the privacy practices of SmartBear please email us at
+Privacy@smartbear.com
+Our European representative can be contacted by email at
+Privacy@smartbear.com
+, or by writing to:
+General Counsel, Legal Dept.
+Mayoralty House, Flood Street
+Galway, Ireland
+Our United Kingdom representative can be contacted by email at
+Privacy@Smartbear.com
+, or by writing to:
+General Counsel, Legal Dept.
+3 More London Riverside
+London, SE1 2AQ
+England
+If you are contacting us to exercise your rights with respect to your personal information as detailed in this Notice, we ask you to please adhere to the following guidelines:
+Tell Us Which Right You Are Exercising
+: Specify which right you want to exercise and the personal information to which your request relates (if not to you). If you are acting on behalf of another consumer, please clearly indicate this fact and your authority to act on such consumer’s behalf;
+Help Us Verify Your Identity
+: Provide us enough information to verify your identity. For example, provide us (at a minimum) your full name, address, and phone number. Please note that if we cannot initially verify your identity, we may request additional information to complete the verification process. Any personal information you disclose to us for purposes of verifying your identity will solely be used for the purpose of verification.
+Direct Our Response Delivery
+: Inform us of the delivery mechanism with which you prefer to receive our response. You may specify, for example, email, mail, or through your account (if you have one with us).
+Please note that you do not need to create an account with us in order to make a request to exercise your rights hereunder.
+16. Updates
+This Notice may be amended from time-to-time. Unless otherwise indicated, any changes to this Notice will apply immediately upon posting to the Platform so please check our site periodically for updates. You can see when this Notice was last updated by reviewing the “Last Updated” legend at the top of this page. We will provide notice of material changes by updating the Notice here, and communicating with you in the manner and format in which we typically communicate with you in our regular course of business, as required by applicable law.
+LOGIN
+Additional SmartBear Tools
+AlertSite
+QAComplete
+BitBar
+SwaggerHub
+CucumberStudio
+VisualTest
+LoadNinja
+Additional Links
+SmartBear Community
+Case Management
+License System
+Sub-policy 2
+https://firebase.google.com/support/privacy/:
+Skip to main content
+firebase.google.com uses cookies from Google to deliver and enhance the quality of its services and to analyze traffic.
+Learn more
+.
+OK, got it
+Build
+More
+Run
+More
+Solutions
+Pricing
+Docs
+More
+Community
+More
+Support
+Go to console
+Developer Support
+Contact Support
+Scope of no-cost support
+Support Guides
+Overview
+FAQ
+Security checklist
+Launch checklist
+Firebase-related service accounts
+Troubleshoot initialization options
+Enable the AdSupport framework
+Dynamic Links deprecation
+Deprecation FAQ
+Export Dynamic Links metadata
+Migrate to App Links & Universal Links
+Migrate from Parse
+Android
+iOS+
+Cloud Audit Logs
+Firebase Management
+Cloud Storage for Firebase
+Firebase Cloud Messaging
+Firebase App Check
+Firebase Security Rules
+Firebase Realtime Database
+Android Device Streaming
+Recent Changes and Updates
+Release Notes
+iOS Release Notes
+Android Release Notes
+JavaScript Release Notes
+Flutter Release Notes
+C++ Release Notes
+Unity Release Notes
+Admin Node.js Release Notes
+Admin Java Release Notes
+Admin Python Release Notes
+Admin Go Release Notes
+Admin .
+NET Release Notes
+Security Rules Release Notes
+Firebase CLI Release Notes
+Policies for changes and versioning
+Overview
+Introducing and communicating changes
+Versioning and maintenance
+Legal Information
+Terms of Service
+Paid Services Terms
+Data Processing and Security Terms
+Firebase: Standard Contractual Clauses
+Service Level Agreement for Hosting and Realtime Database
+Cloud Storage for Firebase Service Level Agreement
+Firebase App Indexing User Data Policy
+Crashlytics and App Distribution Terms
+Firebase Subprocessors
+Privacy and Security Information
+Privacy and Security in Firebase
+Designate Data Protection Officers and EU Representatives
+Firebase Data Privacy Inquiries
+Manage Instance ID data
+Clear and export users' data
+Storing privacy settings with Firebase
+Build
+Go to Build
+Build Products
+App Check
+App Hosting
+Authentication
+Cloud Functions
+Cloud Storage
+Data Connect
+Extensions
+Firebase ML
+Firestore
+Genkit
+Hosting
+Realtime Database
+Vertex AI in Firebase
+Generative AI
+Run
+Go to Run
+Run Products
+A/B Testing
+App Distribution
+Cloud Messaging
+Crashlytics
+Google Analytics
+In-App Messaging
+Performance Monitoring
+Remote Config
+Test Lab
+Overview
+Fundamentals
+Build
+Run
+Reference
+Samples
+Learn
+Events
+Stories
+Firebase
+Support
+Was this helpful?
+Send feedback
+Privacy and Security in Firebase
+bookmark_border
+bookmark
+Stay organized with collections
+Save and categorize content based on your preferences.
+On this page
+Data protection
+Firebase support for GDPR and CCPA
+Firebase Data Processing and Security Terms
+Firebase is certified under major privacy and security standards
+Data processing information
+Examples of end-user data processed by Firebase
+Guides for enabling opt-in for end-user data processing
+Data storage and processing locations
+Security information
+Data encryption
+Security practices
+Firebase Service Data
+Examples of how Firebase Service Data is processed by Firebase
+Firebase Service Data use by non-Firebase Google services
+This page outlines Firebase's key security and privacy information. Whether
+you're looking to kick off a new project with Firebase, or curious about how
+Firebase works with your existing project, read on to see how Firebase can help
+protect you and your users.
+Last modified: February 20, 2025
+Data protection
+Firebase support for GDPR and CCPA
+On May 25th, 2018, the EU General Data Protection Regulation (GDPR) replaced the
+1995 EU Data Protection Directive. On January 1, 2020, the California Consumer
+Privacy Act (CCPA) took effect. On January 1, 2023, the California Privacy
+Rights Act (CPRA), which is a data privacy law that amends and expands upon the
+CCPA, took effect. Google is committed to helping our customers succeed under
+these privacy regulations, whether they are large software companies or
+independent developers.
+The GDPR imposes obligations on data controllers and data processors, and the
+CCPA/CPRA imposes obligations on businesses and their service providers.
+Firebase customers typically act as the "data controller" (GDPR) or "business"
+(CCPA/CPRA) for any personal data or information about their end-users they
+provide to Google in connection with their use of Firebase, and Google generally
+operates as a "data processor" (GDPR) or "service provider" (CCPA/CPRA).
+This means that data is under the customer's control. Customers are
+responsible for obligations like fulfilling an individual's rights with respect
+to their personal data or information.
+Firebase Data Processing and Security Terms
+When customers use Firebase, Google is generally a data processor under GDPR and
+processes personal data on their behalf. Similarly, when customers use Firebase,
+Google generally operates as a service provider under the CCPA/CPRA handling
+personal information on their behalf. Firebase terms include
+Data Processing
+and Security Terms
+detailing these
+responsibilities.
+Certain Firebase services governed by the
+Google Cloud Platform (GCP) Terms of Service
+are already covered by associated data processing terms, the
+Cloud Data Processing Addendum
+.
+A complete list of Firebase services currently governed by the GCP Terms of
+Service is available in the
+Terms of Service for Firebase Services
+.
+Google Analytics is a separate service that can be used together with Firebase,
+and is subject to separate
+terms
+.
+Firebase is certified under major privacy and security standards
+ISO and SOC compliance
+All Firebase services (aside from App Indexing) have successfully completed the
+ISO
+27001
+and
+SOC
+1
+,
+SOC
+2
+,
+and
+SOC 3
+evaluation
+process, and some have also completed the
+ISO
+27017
+and
+ISO
+27018
+certification
+process. Compliance reports and certificates for Firebase services governed by
+the GCP Terms of Service may be requested via the
+Compliance Reports
+Manager
+.
+Service name
+ISO 27001
+ISO 27017
+ISO 27018
+SOC 1
+SOC 2
+SOC 3
+Cloud Firestore
+check
+check
+check
+check
+check
+check
+Cloud Functions for Firebase
+check
+check
+check
+check
+check
+check
+Cloud Storage for Firebase
+check
+check
+check
+check
+check
+check
+Firebase A/B Testing
+check
+check
+check
+check
+Firebase App Check
+check
+check
+check
+check
+Firebase App Distribution
+check
+check
+check
+check
+Firebase Authentication
+check
+check
+check
+check
+check
+check
+Firebase Cloud Messaging
+check
+check
+check
+check
+Firebase Crashlytics
+check
+check
+check
+check
+Firebase Dynamic Links
+check
+check
+check
+check
+Firebase Hosting
+check
+check
+check
+check
+Firebase In-App Messaging
+check
+check
+check
+check
+Firebase ML
+check
+check
+check
+check
+Firebase Performance Monitoring
+check
+check
+check
+check
+Firebase Platform
+check
+check
+check
+check
+Firebase Realtime Database
+check
+check
+check
+check
+Firebase Remote Config
+check
+check
+check
+check
+Firebase Test Lab
+check
+check
+check
+check
+check
+check
+Gemini in Firebase
+check
+check
+check
+check
+Vertex AI in Firebase
+check
+check
+check
+check
+International Data Transfers
+As described in our
+Data Privacy Framework
+certification
+,
+we comply with the EU-U.S. and Swiss-U.S. Data Privacy Frameworks (DPF) and the
+UK Extension to the EU-U.S. DPF as set forth by the US Department of Commerce
+regarding the collection, use and retention of personal information from the
+EEA, Switzerland and the UK, respectively. Google LLC (and its wholly-owned US
+subsidiaries unless explicitly excluded) has certified that it adheres to the
+DPF Principles. Google remains responsible for any of your personal information
+that is shared under the Onward Transfer Principle with third parties for
+external processing on our behalf, as described in the
+"Sharing your
+information" section of our Privacy
+Policy
+. To learn more about
+the DPF, and to view Google's certification, please visit the
+DPF
+website
+.
+If you have an inquiry regarding our privacy practices in relation to our DPF
+certification, we encourage you to
+contact
+us
+. Google is
+subject to the investigatory and enforcement powers of the US Federal Trade
+Commission. You may also refer a complaint to your local data protection
+authority and we will work with them to resolve your concern. In certain
+circumstances, the DPF provides the right to invoke binding arbitration to
+resolve complaints not resolved by other means, as described in
+Annex I to the
+DPF
+Principles
+.
+Data processing information
+Examples of end-user data processed by Firebase
+Some Firebase services process your end users' data to provide their service.
+The chart below has examples of how various Firebase services use and handle
+end-user data that may potentially be identifying. In addition, many Firebase
+services offer the ability to request deletion of specific data or control how
+data is handled.
+Firebase service
+End-user data
+How data helps provide the service
+Cloud Functions for Firebase
+IP addresses
+How it helps:
+Cloud Functions uses IP addresses to
+            execute event-handling functions and HTTP functions based on end-user actions.
+Retention:
+Cloud functions only saves IP addresses temporarily, to
+            provide the service.
+Firebase App Check
+Attestation material from supported attestation providers
+App Check tokens from successful attestations
+How it helps:
+Firebase App Check uses attestation
+            material required by the corresponding attestation provider and
+            received from end-user's devices to help establish the integrity of
+            the device and/or the app. Attestation materials are sent to the
+            corresponding attestation provider for validation based on the
+            developer's configuration. App Check tokens obtained from successful
+            attestations are sent with every request to supported Firebase
+            services to access resources protected by App Check.
+Retention:
+Attestation material is not retained by
+            App Check, but when it is sent to attestation providers, it is
+            subject to the terms of those attestation providers. App Check
+            tokens returned from successful attestations are valid throughout
+            their TTL duration, which cannot be longer than 7 days. For
+            developers who use replay protection features, App Check stores the
+            App Check tokens used with these features for at most 30 days. Other
+            App Check tokens not used with replay protection features are not
+            retained by Firebase services.
+Firebase App Distribution
+Users' names
+Email addresses
+iOS UDIDs
+Secure Android IDs
+Firebase
+installation IDs
+Tester feedback (screenshots and text)
+How it helps:
+Firebase App Distribution uses the data to distribute
+            app builds to testers, monitor tester activity, enable tester features like in-app
+            feedback, and associate data with tester devices.
+Retention:
+Firebase App Distribution retains user information
+            until the Firebase customer requests its deletion, after which data is removed from live
+            and backup systems within 180 days.
+Firebase Authentication
+Passwords
+Email addresses
+Phone numbers
+User agents
+IP addresses
+How it helps:
+Firebase Authentication uses the data to enable end-user
+            authentication, and facilitate end-user account management. It also uses user-agent
+            strings and IP addresses to provide added security and prevent abuse during sign-up and
+            authentication.
+Retention:
+Firebase Authentication keeps logged IP addresses for a few
+            weeks. It retains other authentication information until the Firebase customer initiates
+            deletion of the associated user, after which data is removed from live and backup
+            systems within 180 days.
+Firebase Cloud Messaging
+Firebase
+installation IDs
+How it helps:
+Firebase Cloud Messaging uses
+Firebase
+installation IDs to determine which devices to deliver messages to.
+Retention:
+Firebase retains
+Firebase
+installation IDs
+            until the Firebase customer
+            makes an API call to delete the ID. After the call, data is removed from live and backup
+            systems within 180 days.
+Firebase Crashlytics
+Crashlytics Installation UUIDs
+Firebase installations ID
+Crash traces
+Breakpad minidump formatted data
+(NDK crashes only)
+How it helps:
+Firebase Crashlytics uses crash stack
+            traces to associate crashes with a project, send email alerts to
+            project members and display them in the Firebase Console, and help
+            Firebase customers debug crashes. It uses Crashlytics Installation
+            UUIDs to measure the number of users impacted by a crash and
+            minidump data to process NDK crashes. The minidump data is stored
+            while the crash session is being processed and then discarded. The
+            Firebase installation ID enables upcoming features that will enhance
+            crash reporting and crash management services. Refer to
+Examples of stored device information
+for more detail on the types of user information gathered.
+Retention:
+Firebase Crashlytics keeps crash stack traces,
+            extracted minidump data, and associated identifiers (including
+            Crashlytics Installation UUIDs and Firebase installation IDs) for 90 days before
+            starting the process of removing it from live and backup systems.
+Note:
+Firebase Crashlytics stores minidump data only temporarily in order to
+            process NDK crashes.
+Firebase Dynamic Links
+Device specs (iOS)
+IP Addresses (iOS)
+How it helps:
+Dynamic Links uses device specs and IP addresses on iOS to open
+            newly-installed apps to a specific page or context.
+Retention:
+Dynamic Links only stores device specs and IP addresses temporarily, to
+            provide the service.
+Firebase Hosting
+IP addresses
+How it helps:
+Hosting uses IP addresses of incoming requests to detect
+            abuse and provide customers with detailed analysis of usage data.
+Retention:
+Hosting retains IP data for a few months.
+Firebase In-App Messaging
+Firebase
+installation IDs
+How it helps:
+Firebase In-App Messaging
+uses
+Firebase
+installation IDs to determine which devices to deliver messages to.
+Retention:
+Firebase retains
+Firebase
+installation IDs
+            until the Firebase customer
+            makes an API call to delete the ID. After the call, data is removed from live and backup
+            systems within 180 days.
+Firebase ML
+Uploaded Images
+installation auth tokens
+How it helps:
+The Cloud based APIs store uploaded images temporarily,
+            to process and return the analysis to you. Stored images are typically deleted within a
+            few hours. See the Cloud Vision
+Data Usage FAQ
+for more
+            information.
+installation auth tokens
+are used by
+Firebase ML
+for device authentication when interacting with app
+            instances, for example, to distribute developer models to app instances.
+Retention:
+installation auth tokens remain valid until their
+            expiration date. The default token lifetime is one week.
+Firebase Performance Monitoring
+Firebase
+installation IDs
+IP addresses
+How it helps:
+Performance Monitoring
+uses
+Firebase
+installation IDs
+            to calculate the number of unique Firebase installations that access network resources,
+            to ensure that access patterns are sufficiently anonymous. It also uses
+Firebase
+installation IDs with
+Firebase Remote Config
+to manage the rate of performance event reporting. Additionally, it uses IP
+            addresses to map performance events to the countries they originate from. For more
+            information, see
+Data collection
+.
+Retention:
+Performance Monitoring
+keeps IP-associated
+            events for 30 days, and it keeps installation-associated and de-identified performance
+            data for 60 days before starting the process of removing it from live and backup
+            systems.
+Firebase Realtime Database
+IP addresses
+User agents
+How it helps:
+Realtime Database uses IP addresses and user agents to
+            enable the
+profiler
+            tool
+, which helps Firebase customers understand usage trends and platform
+            breakdowns.
+Retention:
+Realtime Database keeps IP addresses and user agent
+            information for a few days, unless a customer chooses to save it for longer.
+Firebase Remote Config
+Firebase
+installation IDs
+How it helps:
+Remote Config
+uses
+Firebase
+installation IDs
+            to select configuration
+            values to return to end-user devices.
+Retention:
+Firebase retains
+Firebase
+installation IDs until the Firebase customer makes an API call to delete the
+          ID. After the call, data is removed from live and backup systems within 180 days.
+Vertex AI in Firebase
+Customer's inputs and outputs data sent and received from the AI model
+How it helps:
+Vertex AI in Firebase
+uses Vertex AI's Generative AI
+            API to predict content.
+Retention:
+During prediction, Google doesn't log Customer Data to
+            generate a customer's output or train foundation models. By default, Google caches a
+            customer's inputs and outputs for the Gemini models to accelerate responses to
+            subsequent prompts from the customer.
+See more details at
+Generative
+              AI and Data Governance | Generative AI on Vertex AI | Google Cloud
+.
+Examples of information collected by Crashlytics
+An RFC-4122 UUID which permits us to deduplicate crashes
+The Crashlytics Installation UUID
+The Firebase installations ID (FID)
+The Firebase session ID, which is a random UUID generated to tag events
+      with a session
+The timestamp of when the crash occurred
+The app's bundle identifier and full version number
+The device's operating system name and version number
+A boolean indicating whether the device was jailbroken/rooted
+The device's model name, CPU architecture, amount of RAM and disk
+      space
+The uint64 instruction pointer of every frame of every currently running
+      thread
+If available in the runtime, the plain-text method or function name
+      containing each instruction pointer.
+If an exception was thrown, the plain-text class name and message value
+      of the exception
+If a fatal signal was raised, its name and integer code
+For each binary image loaded into the application, its name, UUID, byte
+      size, and the uint64 base address at which it was loaded into RAM
+A boolean indicating whether or not the app was in the background at the
+      time it crashed
+An integer value indicating the rotation of the screen at the time of
+      crash
+A boolean indicating whether the device's proximity sensor was
+      triggered
+The contents of
+version-control-info.textproto
+(only for Android apps
+configured
+        to use the version control system (VCS) integration
+)
+Examples of information collected by Performance Monitoring
+The Firebase installations ID (FID)
+The Firebase session ID, which is a random UUID generated to tag events
+      with a session
+General device information, such as model, OS, and orientation
+RAM and disk size
+CPU usage
+Carrier (based on Mobile Country and Network Code)
+Radio/Network information (for example, WiFi, LTE, 3G)
+Country (based on IP address)
+Locale/language
+App version
+App foreground or background state
+App package name
+Firebase
+installation IDs
+Duration times for automated traces
+Network URLs (not including URL parameters or payload content)
+      and the following corresponding information:
+Response codes (for example, 403, 200)
+Payload size in bytes
+Response times
+See a
+full list
+of the
+    automatic traces collected by
+Performance Monitoring
+.
+Note:
+For more info on deleting data associated with installations, see
+Delete a Firebase installation
+.
+Guides for enabling opt-in for end-user data processing
+Services in the table above need some amount of end-user data to function. As a
+result, it's not possible to entirely disable data collection while using those
+services.
+If you're a customer who would like to offer users a chance to opt-in to a
+service, and the data collection that comes with it, in most cases that just
+requires adding a dialog or settings toggle before using the service.
+Some services, however, start up automatically when included in an app. To give
+users a chance to opt-in before using those services, you can choose to disable
+auto-initialization for each service, and manually initialize them at run time
+instead. To find out how, read the guides below:
+Cloud Messaging
+:
+Prevent Auto-initialization (Android)
+or
+Prevent Auto-initialization (iOS+)
+Crashlytics
+:
+Enable Opt-in Reporting (iOS+)
+or
+Enable Opt-in Reporting (Android)
+Performance Monitoring
+:
+Enable Opt-in Monitoring
+If you integrate Firebase with Google Analytics, learn how to
+configure Analytics data collection
+.
+Data storage and processing locations
+Unless a service or feature offers data location selection, Firebase may process
+and store your data anywhere Google or its agents maintain facilities. Potential
+facility locations vary by service.
+US-only services
+The
+Firebase Authentication
+service is run only from US data centers. As a result,
+Firebase Authentication
+processes data exclusively in the United States.
+Global services
+The majority of Firebase services run on global Google infrastructure.
+They could process data at any of the
+Google Cloud Platform locations
+or
+Google data center locations
+.
+For some services, you can make a specific data location selection, which
+restricts processing to that location (for more information, see the
+service specific terms
+of the Google Cloud Platform Terms of Service).
+Cloud Firestore
+Firebase Crashlytics
+Firebase ML
+Cloud Functions for Firebase
+Firebase Dynamic Links
+Firebase Performance Monitoring
+Cloud Storage for Firebase
+Firebase Hosting
+Firebase Remote Config
+Firebase App Check
+Firebase App Distribution
+Firebase In-App Messaging
+Firebase Test Lab
+Firebase Cloud Messaging
+Security information
+Data encryption
+Firebase services encrypt data in transit using HTTPS and logically isolate
+customer data.
+In addition, several Firebase services also encrypt their data at rest:
+Cloud Firestore
+Firebase Authentication
+Firebase Performance Monitoring
+Cloud Functions for Firebase
+Firebase Cloud Messaging
+Firebase Realtime Database
+Cloud Storage for Firebase
+Firebase Crashlytics
+Firebase Test Lab
+Firebase App Check
+Firebase App Distribution
+Security practices
+To keep personal data safe, Firebase employs extensive security measures to
+minimize access:
+Firebase restricts access to a select employees who have a business purpose to access personal data.
+Firebase logs employee access to systems that contain personal data.
+Firebase only permits access to personal data by employees who sign in with Google Sign-In and
+2-factor authentication
+.
+Firebase Service Data
+Firebase Service Data is personal information that Google collects and generates
+during the provision and administration of the Firebase services
+*
+,
+excluding Customer Data
+**
+as defined in our customer agreements
+covering Firebase services and
+Google Cloud Service Data
+.
+Examples of Firebase Service Data include information about service usage,
+resource identifiers like application IDs and package name/bundle IDs, technical
+and operational details of usage such as IP addresses, and direct communications
+with developers from feedback and support related conversations.
+*Services covered include Firebase A/B Testing, Firebase App Distribution,
+  Firebase Cloud Messaging, Firebase Crashlytics, Firebase Dynamic Links,
+  Firebase Hosting, Firebase In-App Messaging, Firebase ML,
+  Firebase Performance Monitoring, Firebase Realtime Database,
+  Firebase Remote Config, and Firebase User Segmentation Storage.
+**For more information about how we process Customer Data, see our
+Firebase Data Processing and Security
+  Terms
+.
+Examples of how Firebase Service Data is processed by Firebase
+Google uses Firebase Service Data in accordance with our
+privacy policy
+and applicable terms.
+Firebase Service Data is used, for example, to:
+Provide Firebase services you request
+Make recommendations to optimize use of Firebase services
+Maintain and improve Firebase services
+Provide and improve other services you request
+Understand your use of Firebase and other Google services
+Provide better support to and communicate with you
+Protect you, our users, the public and Google
+Comply with legal obligations
+Firebase Service Data use by non-Firebase Google services
+You can control whether your Firebase Service Data may be used by Google to
+provide more in depth analysis, insights, and recommendations about
+non-Firebase
+Google services and improve
+non-Firebase
+Google services.
+You can configure this in your Firebase data privacy settings page.
+If this control is disabled, Firebase Service Data will continue to be used
+for other purposes, such as those mentioned above, in accordance with our
+privacy policy
+and applicable terms, including
+to make recommendations about and improve
+Firebase
+services, and to deliver
+and improve other services you request, such as Google products you link to your
+Firebase project.
+Still have questions? Contact us
+For any privacy-related questions you have that aren't covered here,
+reach out to Firebase Support
+. If you're a Firebase developer, include your Firebase App ID. Find your Firebase App ID in the
+Your apps
+card of your
+settings
+Project
+settings
+.
+Was this helpful?
+Send feedback
+Except as otherwise noted, the content of this page is licensed under the
+Creative Commons Attribution 4.0 License
+, and code samples are licensed under the
+Apache 2.0 License
+. For details, see the
+Google Developers Site Policies
+. Java is a registered trademark of Oracle and/or its affiliates.
+Last updated 2025-03-04 UTC.
+Info
+Chat
+On this page
+Data protection
+Firebase support for GDPR and CCPA
+Firebase Data Processing and Security Terms
+Firebase is certified under major privacy and security standards
+Data processing information
+Examples of end-user data processed by Firebase
+Guides for enabling opt-in for end-user data processing
+Data storage and processing locations
+Security information
+Data encryption
+Security practices
+Firebase Service Data
+Examples of how Firebase Service Data is processed by Firebase
+Firebase Service Data use by non-Firebase Google services

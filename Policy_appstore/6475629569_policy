@@ -1,0 +1,1033 @@
+IoT sensors
+IoT sensors – development app for visualisation of sensor data
+Features
+☂︎ Thingy:91 temperature, pressure, humidity, air resistance, ambient light, accelerometer, impact, LED control
+☂︎ compass with 3D calibration, accelerometer, gravity, gyroscope, battery state of charge
+☂︎ JSON format for sensor data
+☂︎ connectivity: BLE, TCP, UART
+☂︎ bridge TCP to BLE or UART requires
+g_relay
+,
+gncom
+or compatible server,
+and allows multiple clients to share a single sensor
+☂︎ compatible with
+sensor samples
+from
+nano RTOS
+☂︎ new sensors can be added on demand
+Notes
+IoT sensors is a development app for visualisation of sensor data
+the sensor data is sent as JSON over BLE, TCP or UART,
+and can be shared with other clients when bridge mode is enabled.
+The sensor type is detected automatically, showing appropriate UI elements.
+Download IoT sensors
+☂︎
+App Store for iOS and macOS
+☂︎
+video demo
+Thingy:91
+☂︎
+product page
+☂︎
+sensors firmware
+JSON data
+Sensor data samples use JSON format and are separated by a new line.
+Optional values may be ommited.
+type
+={
+"key"
+:
+value
+}
+// regular format
+key
+:
+value
+// simple format
+Thingy:91 sensors
+// LED0-5 status (individual)
+GPIO0
+:
+0
+GPIO5
+:
+1
+bool
+value
+// LED0-5 status
+// GPIO0:R GPIO1:G GPIO2:B RGB
+// GPIO3:r GPIO4:g GPIO5:b RGB sense
+// LED status (all LEDs)
+GPIO
+:
+3f
+uint8_t
+value
+// LED status in hex 0-3f
+// 0x01:R 0x02:G 0x04:B RGB
+// 0x08:r 0x10:g 0x20:b RGB sense
+// adxl362
+adxl362
+={
+"x"
+:
+3
+.
+1
+,
+"y"
+:
+-
+0
+.
+9
+,
+"z"
+:-
+10
+.
+8
+,
+"t"
+:
+21
+.
+6
+}
+float
+x
+,
+y
+,
+z
+// accelerometer data m/s²
+float
+t
+// temperature °C (optional)
+// adxl372
+adxl372
+={
+"x"
+:
+101
+,
+"y"
+:
+68
+,
+"z"
+:
+25
+,
+"s"
+:
+1007
+}
+float
+x
+,
+y
+,
+z
+// accelerometer data m/s²
+uint16_t
+s
+// status flags in hex (optional)
+// BH1749 light and colour
+bh1749
+={
+"r"
+:
+69
+,
+"g"
+:
+1
+,
+"b"
+:
+0
+,
+"i"
+:
+4
+}
+uint16_t
+r
+,
+g
+,
+b
+,
+i
+// light data RGB + infrared
+// b|battery
+b
+={
+"v"
+:
+3637
+,
+"l"
+:
+4
+,
+"c"
+:
+0
+}
+battery
+={
+"v"
+:
+3637
+,
+"l"
+:
+4
+,
+"c"
+:
+0
+}
+uint16_t
+v
+// voltage mV
+uint8_t
+l
+// state of charge % (optional)
+uint8_t
+c
+// charge status (optional)
+// b|battery voltage mV
+b
+:
+3637
+battery
+:
+3637
+uint16_t
+v
+// voltage mV
+// BME680 pressure and temperature
+bme680
+={
+"temp"
+:
+23
+.
+897
+,
+"pressure"
+:
+98429
+,
+"humidity"
+:
+33
+.
+200
+,
+"gas"
+:
+810247
+}
+float
+temp
+// °C
+float
+pressure
+// Pa
+float
+humidity
+// %
+uint32_t
+gas
+// gas resistance:Ω
+Generic sensors
+// g|gps
+g
+={
+"h"
+:
+170
+}
+gps
+={
+"h"
+:
+170
+}
+gps
+={
+"h"
+:
+171
+,
+"b"
+:
+0
+,
+"B"
+:
+7441
+}
+float
+h
+// heading degree
+float
+b
+// bearing degree
+float
+B
+// battery voltage mV
+// c|compass
+c
+={
+"h"
+:
+171
+,
+"x"
+:-
+0
+.
+00
+,
+"y"
+:-
+0
+.
+00
+,
+"z"
+:
+10
+.
+0
+}
+compass
+={
+"h"
+:
+170
+.
+9
+,
+"x"
+:-
+0
+.
+003
+,
+"y"
+:-
+0
+.
+002
+,
+"z"
+:
+10
+.
+000
+}
+float
+h
+// heading degree
+float
+x
+,
+y
+,
+z
+// gravity data m/s²
+// gravity
+gravity
+={
+"x"
+:-
+0
+.
+00
+,
+"y"
+:-
+0
+.
+00
+,
+"z"
+:
+10
+.
+0
+}
+float
+x
+,
+y
+,
+z
+// gravity data m/s²
+// gyro|gyroscope
+gyro
+={
+"x"
+:-
+0
+.
+00
+,
+"y"
+:-
+0
+.
+00
+,
+"z"
+:-
+0
+.
+00
+}
+gyroscope
+={
+"x"
+:-
+0
+.
+00
+,
+"y"
+:-
+0
+.
+00
+,
+"z"
+:-
+0
+.
+00
+}
+float
+x
+,
+y
+,
+z
+// angle in degree
+// compass calibration: cc|compass_c
+compass_c
+={
+"heading"
+:
+165
+.
+1
+,
+"h"
+:
+165
+,
+"x"
+:
+0
+.
+001
+,
+"y"
+:
+-
+0
+.
+000
+,
+"z"
+:
+10
+.
+000
+,
+"x_raw"
+:
+-
+233
+,
+"y_raw"
+:
+29
+,
+"z_raw"
+:
+-
+372
+,
+"x_min"
+:
+-
+261
+,
+"y_min"
+:
+-
+330
+,
+"z_min"
+:
+-
+535
+,
+"x_max"
+:
+319
+,
+"y_max"
+:
+247
+,
+"z_max"
+:
+452
+,
+"xv_min"
+:
+-
+467
+,
+"yv_min"
+:
+-
+535
+,
+"xv_max"
+:
+525
+,
+"yv_max"
+:
+452
+,
+"zero"
+:
+999
+,
+"z_ang"
+:
+0
+,
+"c"
+:
+"xy"
+,
+"e"
+:
+"00"
+}
+float
+heading
+,
+h
+// heading (optional)
+float
+x
+,
+y
+,
+z
+// gravity data m/s²
+int16_t
+x_raw
+,
+y_raw
+,
+z_raw
+// magnetometer RAW data (optional)
+int16_t
+x_min
+,
+y_min
+,
+z_min
+// magnetometer MIN data
+int16_t
+x_max
+,
+y_max
+,
+z_max
+// magnetometer MAX data
+int16_t
+xv_min
+,
+yv_min
+// magnetometer MIN data, vertical
+int16_t
+xv_max
+,
+yv_max
+// magnetometer MAX data, vertical
+int16_t
+xv_max
+,
+yv_max
+// magnetometer MAX data, vertical
+int16_t
+z_ang
+// z angle (optional)
+int16_t
+zero
+// zero (optional)
+char
+c
+[]
+// calibration state enum: "" "xy" "xv" "yv" "z" (optional)
+char
+e
+[]
+// calibration event flags in hex (optional)
+// compass calibration short: cs|compass_s
+cs
+={
+"h"
+:
+165
+,
+"z_ang"
+:
+-
+0
+,
+"e"
+:
+"00"
+}
+compass_s
+={
+"heading"
+:
+165
+,
+"z_ang"
+:
+-
+0
+,
+"e"
+:
+"00"
+}
+float
+heading
+,
+h
+// heading (optional)
+int16_t
+z_ang
+// z angle (optional)
+int16_t
+zero
+// zero (optional)
+char
+c
+[]
+// calibration state enum: "xy" "xv" "yv" "z" (optional)
+char
+e
+[]
+// calibration event flags in hex (optional)
+// compass inclination and declination: ci|compass_i
+compass_i
+={
+"dec"
+:
+578
+,
+"inc"
+:
+5972
+}
+int16_t
+dec
+// declination
+int16_t
+inc
+// inclination
+// battery configuration
+bat
+={
+"low"
+:
+3200
+,
+"high"
+:
+4050
+,
+"pack"
+:
+4500
+}
+config_bat
+={
+"low"
+:
+3200
+,
+"high"
+:
+4050
+,
+"pack"
+:
+4500
+}
+uint16_t
+low
+// mV for state of charge 0%
+uint16_t
+high
+// mV for state of charge 100%
+uint16_t
+pack
+// mV used to detect the number of batteries in a pack, e.g.
+// if v >= 1 * pack the pack contains 2 batteries in serries
+// if v >= 2 * pack the pack contains 3 batteries in serries
+Other sensors
+// IIS2DLPC accelerometer
+iis2dlpc
+={
+"x"
+:-
+0
+.
+00
+,
+"y"
+:-
+0
+.
+00
+,
+"z"
+:
+10
+.
+0
+}
+float
+x
+,
+y
+,
+z
+// accelerometer data m/s²
+// NOA1305 ambient light sensor
+noa1305
+={
+"als"
+:
+10
+}
+uint32_t
+als
+// ambient light
+// SHTC3 pressure and temperature
+shtc3
+={
+"temp"
+:
+23
+.
+897
+,
+"humidity"
+:
+33
+.
+200
+}
+float
+temp
+// °C
+float
+humidity
+// %
+// ADP536X power controller
+adp536x
+={
+"cs1"
+:
+"0x00"
+,
+"cs2"
+:
+"0x00"
+,
+"pgs"
+:
+"0x00"
+,
+"voltage"
+:
+3637
+,
+"level"
+:
+4
+}
+uint8_t
+cs1
+// status 1
+uint8_t
+cs2
+// status 2
+uint8_t
+pgs
+// charge status
+uint8_t
+level
+// state of charge %
+uint16_t
+voltage
+// voltage mV
+// RTC date time
+rtc
+={
+"y"
+:
+2024
+,
+"m"
+:
+1
+,
+"d"
+:
+6
+,
+"hh"
+:
+18
+,
+"mm"
+:
+38
+,
+"ss"
+48
+}
+uint16_t
+y
+// year
+uint8_t
+m
+// month
+uint8_t
+d
+// day
+uint8_t
+hh
+// hour
+uint8_t
+mm
+// minutes
+uint8_t
+ss
+// seconds
+RAW sensors
+// MPU6050 accelerometer + gyroscope
+mpu6050
+={
+"ax"
+:
+0
+,
+"ay"
+:
+0
+,
+"az"
+:
+0
+,
+"gx"
+:
+0
+,
+"gy"
+:
+0
+,
+"gz"
+:
+0
+}
+float
+ax
+,
+ay
+,
+az
+// accelerometer data m/s²
+float
+gx
+,
+gy
+,
+gz
+// angle in degree
+// HMC5883 compass RAW, calibration performed in the APP
+hmc5883
+={
+"x"
+:
+0
+,
+"y"
+:
+0
+,
+"z"
+:
+0
+}
+uint16_t
+x
+,
+y
+,
+z
+// magnetometer RAW data
+// HMC5883 compass normalised
+hmc5883n
+={
+"x"
+:
+0
+,
+"y"
+:
+0
+,
+"z"
+:
+0
+}
+float
+x
+,
+y
+,
+z
+// magnetometer normalised data
+LED control and other commands sent to the sensors
+o
+[
+0
+-
+5
+][
+01
+]
+LED off or on
+o
+[
+0
+-
+5
+][
+RT
+]
+LED
+read
+or toggle
+oR          LED
+read
+all
+o
+[
+WT
+][
+0
+-
+3f
+]
+LED
+write
+or toggle all
+
+compass
+C  calibrate
+D  reset calibration default
+L  load calibration
+2
+2D
+calibration mode
+3
+3D
+calibration mode
+c  toggle compensate
+E  toggle
+print
+errors
+G  toggle
+print
+compass
+H  toggle
+print
+heading
+M  toggle magnetic heading
+?
+help
+R  CPU reset
+<
+dump registers
+for
+all tasks
+<
+# dump registers for task #
+#  comment: ignore this line
+Offline testing
+☂︎ Offline data can be served using
+netcat
+or
+g_relay
+.
+☂︎
+g_relay
+forwards data between clients, e.g.
+netcat
+and
+IoT sensors
+.
+☂︎ Run
+g_relay
+in a terminal, then connect netcat
+nc localhost 81
+.
+☂︎ Run
+IoT sensors
+.
+☂︎ Tap the connection settings button located in the top-left corner.
+☂︎ Enter IP address and port of the server providing sensor data.
+☂︎ Use the green
+Connect
+button to conntct to a TCP server.
+☂︎ Paste
+sample data
+in the
+netcat
+terminal.
+☂︎ For realistic animation, simulate a slow connection e.g. 115200 bps or slower.
+Video demo
+IoT sensors for macOS
+Video demo
+IoT sensors for iOS
+Privacy policy
+☂︎ Data not collected
+© 2021-2024 Georgi Valkov
+https://httpstorm.com/
+https://nanortos.com/

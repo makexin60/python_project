@@ -1,0 +1,145 @@
+Tap to Pay
+icon-waves
+Tap to Pay on iPhone
+US, Canada, UK & Australia
+Tap to Pay on Android
+Global Support
+Standalone Stripe Reader
+No-Code Point of Sale
+Resources
+code
+API
+Integrate with the Payment app
+Blog
+New features, updates & tips
+FAQ
+Get answers to common questions
+Guides
+Tips & videos to get started
+Pricing
+Simple and fair without contracts
+adjust
+How It Works
+In-person payments with Stripe
+How We're Different
+Payment vs. Stripe
+Knowledge Base
+Learn how to use Payment
+Support
+Get in touch! We want to help
+App Status
+Platform and outage updates
+Card Readers
+Tap to Pay on iPhone
+U.S., Canada, United Kingdom and Australia
+Tap to Pay on Android
+Everywhere Terminal is supported
+card-reader-m2
+Stripe Reader M2
+U.S. only
+card-reader-s700
+Stripe Reader S700
+Everywhere Terminal is supported
+WisePad 3
+Everywhere but the U.S.
+card-reader-wisepos
+WisePOS E
+Everywhere Terminal is supported
+Download free app
+For iOS
+Via the App Store
+For Android
+Via the Google Play Store
+Fees
+In the U.S.,
+Stripe
+collects 2.9% + $0.30 on every transaction. You can read more about that here:
+Stripe Pricing
+. This fee has nothing to do with Payment and is involved in the terms you opted into with Stripe. The fee also varies by your country, so make sure you understand the fees before making your first charge.
+Payment
+collects a
+1.2% transaction fee
+on every charge you capture from within the app, including Subscriptions. For example, if you charge someone $20, Payment collects $0.24.
+Who can use the app?
+You must be 16 years or older to use the Payment for Stripe app.
+Payment doesn't own your data
+In fact, we don't even want it. We only want to show you your data. This is why we don't have a way for you to upload data to us. All of your account data, transactions, customers and any other information you provide to the app is all stored at
+Stripe
+.
+Collection of Data
+Payment tracks certain user data points that assist with customer support and troubleshooting. This data is stored for our own internal purposes, and only includes the items that come with granting access to your Stripe account. This data includes:
+Email address - When you connect your Stripe account, we are then able to see your email address.
+Stripe Account Id - So we can identify your account to help troubleshoot any issues you may be having.
+Crash-related data - we utilize
+Sentry
+, for detailed crash and error reporting
+Data Storage
+We use an encrypted database that is hidden behind Amazon Web Services' Elastic Cloud. We can delete this data at any time upon request.
+Loss of Data
+Since Payment relies on Stripe, we have no control over what happens with their servers. Since we don't store your transactional data (it's stored at Stripe), we can't assist with getting it back. If you wish to delete your Stripe account, you can do so at
+Stripe.com
+.
+Disclaimer of Warranties
+The Services offered by PocketVendor Inc are provided "as is." PocketVendor Inc and its suppliers and licensors explicitly disclaim all warranties, whether express or implied, including but not limited to merchantability, fitness for a particular purpose, and non-infringement. PocketVendor Inc and its suppliers and licensors do not warrant that the Services will be error-free or that access to them will be continuous or uninterrupted. You acknowledge that any content or services obtained through our Services are at your own discretion and risk.
+Waiver of Liability
+Under no circumstances shall PocketVendor Inc, its suppliers, or licensors be liable for any special, incidental, or consequential damages, procurement costs for substitute products or services, interruption of use, data loss or corruption, unauthorized access to your data, or amounts exceeding the fees paid to PocketVendor Inc under this agreement in the twelve (12) months preceding the cause of action. PocketVendor Inc bears no liability for failures or delays beyond its reasonable control. This provision is subject to applicable law.
+Removing the App
+You can delete the app at any moment which will remove your data from the device and our servers. Additionally, send an email to:
+support@pocketvendor.com
+with the subject line
+REMOVE ACCOUNT
+and we will remove any data we have related to your account. We'll be sorry to see you go.
+The following items are stored on your device:
+To allow us to make requests to Stripe on your behalf, we are required to store a few items:
+Authentication token
+The following items are NOT stored by Payment:
+Because the Payment app relies on Stripe, it is not necessary for us to duplicate data that is already stored securely in your Stripe account.
+Credit cards and accompanying information<
+Customer information
+Bank account numbers
+Transaction history
+What data rights do you have?
+You have the right to delete your personal information. When you request that we delete your personal information, we take several steps:
+Obfuscate your name
+Obfuscate your email address
+Obfuscate your device ID
+You have the right to access any data that you provide to Payment for Stripe.
+You have the right to take your data with you. This is commonly referred to as
+The Right to Portability
+.
+How do you exercise your data rights?
+Send an email to
+support@pocketvendor.com
+with the subject line
+DATA RIGHTS
+and let us know if you'd like your personal information deleted. We'll ensure your requests are met and completed within the required 30 days. By connecting Payment to your Stripe account you agree to allow us to store the above data.
+Sub-processors
+A sub-processor is a third-party company Abstract uses to process customer-related data. We've included the name of these companies, how we use them to process data, and links to their resources on customer privacy and security.
+CampaignMonitor
+Email Communication
+https://www.campaignmonitor.com/policies/
+Mixpanel
+App analytics platform
+https://mixpanel.com/legal/privacy-policy/
+Google Analytics
+Customer behavior analytics
+https://support.google.com/analytics/answer/6004245?hl=en
+Amazon AWS
+Enterprise hosting and infrastructure provider
+https://aws.amazon.com/legal/?nc1=f_cc
+Sentry
+Application error reporting
+https://sentry.io/security/
+Zendesk
+Customer support
+https://www.zendesk.com/company/customers-partners/
+Support
+If you ever need help with the app or have questions, do not hesitate to email:
+support@pocketvendor.com
+.
+If you have trouble with your Stripe account, please reach out to them directly at
+Stripe Support
+.
+Sub-section Policy: 
+Sub-policy 0
+https://mixpanel.com/legal/privacy-policy/:

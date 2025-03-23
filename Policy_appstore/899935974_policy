@@ -1,0 +1,140 @@
+Useful Mobile Apps
+Home
+Vibration analysis
+:
+Video
+Vibration spectrum analysis
+Accelerometer connects to the headphone jack
+Stroboscope for an external accelerometer
+Shopping
+BLE accelerometer
+:
+Video
+Connecting the Arduino Nano to a PC and downloading the sketch
+Assembling the Bluetooth accelerometer
+Setting up the application
+Setting up the HM-10 Bluetooth module to increase the data transmission rate
+Sensitivity increase/decrease of the Arduino Nano
+Other assembly alternatives
+Laser sensor
+Increasing the sensitivity of the accelerometer
+3-axis Bluetooth accelerometer
+Connecting the BMA180 accelerometer
+Bluetooth accelerometer based on Arduino Nano 33 BLE
+Shopping
+Tachometers
+:
+Video
+Strobe light tachometer
+Stroboscope
+Laser tachometer
+Without soldering iron and multimeter
+Magnetic tachometer
+Measurement of rotational speed by stroboscopic tachometer
+Shopping
+Video tachometer
+:
+Video tachometer
+Speedometers
+:
+Video
+Free speedometer
+Talking speedometer
+DIY anemometer
+:
+Video
+Outdoor anemometer
+Sensitive anemometer
+Vane anemometer
+Shopping
+DIY metal detector
+:
+Video
+"Very simple" metal detector
+Metal detector without soldering
+"Sensitive" metal detector
+Sensor (inductance coil) and mounts
+Capacitor for the LC circuit
+Protection from the Sun and wind
+Headphones
+Causes of non-operability
+Controls
+Shopping
+Sound analysis
+:
+Audio spectrum analyzer
+Turns counter
+:
+Turns counter for coil winding machine
+Photo Storage
+:
+Offline Photo Storage (backup photos)
+Contacts
+Connect to YouTube?
+OK
+youtu.be/92TefSsz7gY
+Connect to YouTube?
+OK
+youtu.be/fu7nlxfjkf8
+Free speedometer
+1. Step-by-step audio notifications once you have reached your required speeds.
+2. Speed data filtering. Readings with the filter on are more inert than those with the filter off though. THE FILTER MUST BE ON WHEN CYCLING, JOGGING OR WALKING.
+3. The G-meter. Get APPROXIMATE acceleration calculated based on your speed variation. Why use the GPS G-meter: no need to keep your iPhone in a fixed position or connect it to your vehicle’s computer system, which means speed readings can be taken discreetly, for example, during a test drive. Taking a number of readings compensates lesser accuracy. Acceleration is calculated only when the filter is off. Acceleration cannot be measured near tall buildings, in the mountains or woods.
+4. Large, well-lit digits
+5. HUD (the speed is displayed in the windscreen reflection at night time or in cloudy weather)
+6. Background mode. Continued use of GPS running in the background can dramatically decrease battery life.
+7. Speed and acceleration graphs
+8. Odometer
+9. Altimeter
+10. Time, journey duration, and current stop duration. The current stop duration will be reset after 20 seconds of motion.
+11. See tracks on the map
+12. Save tracks
+13. Compass
+14. Angle of incline (inclinometer)
+15. Aircraft descent/climb angle
+16. Get detailed stats for any part of your journey
+17. Export your journey to a KMZ or GPX file
+18. Export track statistics table to a CSV file
+19. Load and show your route (journey plan) on the map together with a track. To do this, create a route, using a special online service (such as GPX Editor - https://www.gpxeditor.co.uk/map, The online GPX file editor - https://gpx.studio/, Track drawing websites -
+https://wiki.openstreetmap.org/wiki/Track_drawing_websites
+) on your desktop, and export it as a GPX (KML, CSV) file. The file name must begin with "Route". Using iTunes, transfer the file into the app (OR use the "Files" app). Following this, you will be able to select your route at the bottom of your track list. Now you can easily travel following your route line, even without loading a map.
+20. Export and import files via iTunes and email
+21. Waypoints (description, color selection, keywords, photos, audio records)
+22. A single waypoint database with a filter option
+23. Music controls
+24. No annoying ads
+25. Vintage design
+Audio alert settings
+• "60! 70!! 80!!!": One audio signal once you go over 60, a continuous signal for over 70, and another continuous (and more unpleasant) signal for over 80.
+• "60! 70": Detailed cues, such as "60! 70!!".
+• "50!! 55. 60!!": Continuous signal within the speed range between 50 and 55, and continuous signal for over 60.
+• "60!!! 60.": One signal above 60.
+• You can enter a comment at the beginning of the line, for example, "Highway 70!!!".
+• Type in any word without numbers (for example, "OFF") and use if to turn off the speed control.
+• You can upload your own WAV file with the name of the signal (for example, "!.wav" or "!!!.wav") to play your own sound. Connect your iPhone to a computer, then go to iTunes > iPhone > "File Sharing" > Apps. Or use the "Files" app. You will need to restart the app. For the file volume change function to work, the file must be mono, 16-bit (integer) or 32-bit (float).
+IMPORTANT!!!
+1. When driving past tall buildings (or in the mountains or woods) with the filter off, the device may display false speed spikes (due to an unstable satellite signal). In this case, switching the filter on may be a better option.
+2. Car speedometers often display a higher than actual speed, the difference sometimes reaching 10%. This is due to your wheels’ diameter. This is why at high speeds GPS speedometers can deliver better accuracy than your regular car speedometer. And the higher the speed, the more accurate your GPS speedometer is.
+3. Please note that temporary false readings are possible with ANY GPS speedometer when you start using it.
+4. On very rare occasions it happens that the iPhone is unable to find a GPS signal or keeps losing it even outdoors. In this case you need to restart your iPhone by turning it off and back on again.
+5. Battery life (iPhone 5S, poor light outside, 100% => 20%):
+Background mode (iPhone asleep): ~ 9 h
+Speedometer (speed, distance): ~ 4 h
+Track-enabled map: ~ 2 h 30 min
+Talking speedometer
+A talking version of free speedometer. About 25 languages supported (English, Deutsch, 日本語, Español, Français, Italiano, Русский, العربية, ไทย, Nederlands, Português, Polski, Ελληνικά, Bahasa Indonesia, Svenska, Türkçe, 한국어, Magyar, Čeština, Dansk, Suomi, Română ...). Receive speed voice cues while listening to music. Download our free speedometer to try out the key features.
+Why use voice cues
+1. Get notified if you have gone over the speed limit.
+2. Voice cues allow novice drivers to find out their current speed without taking their eyes off the road.
+3. Control your speed, even when you have limited or no access to your phone's screen, for example, when you are out jogging, roller-skating, cycling or skiing.
+4. Keep your speed under control when you are driving at high speeds , as taking your eyes off the road can be highly dangerous.
+5. Control your speed discreetly by using headphones.
+Voice cues rules
+• "50,80-" — Receive voice cues once the speed goes over or under 50 and each time it changes after hitting the 80 mark.
+• "+25,-30" — Receive voice cues once the speed hits the 25 mark (when speeding up) and when it goes below 30 (while slowing down).
+• "10-20" like "10,11,12,...19,20".
+• "0-10-60,70-5-" — Detailed cues, such as "0,10,20,...60,70,75,80,85,90,...".
+• "-10-10-40,+70-5-" — Detailed cues, such as "-10, -20, -30, -40, +70, +75, +80, +85, +90,...".
+• You can use rules for sound signals (for example "55!! 60!!!"). But then the rules for pronouncing the speed will not work.
+Privacy policy
+The app DOES NOT collect any data at all, and especially confidential ones. The app doesn't send messages even if the app crashes. Therefore, if you do not inform me about frequent app crashes by email, I won't know about it and I won't fix the bug. The app may only need an Internet connection when making in-app purchases to unlock locked features.

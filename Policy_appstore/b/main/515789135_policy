@@ -1,0 +1,34 @@
+Close-up Privacy Policy
+Summary
+All photos taken with Close-up are stored solely on the user's device by default. They are not transmitted to any third party service when taken.
+Photos deleted within Close-up are cached for a week in the client so that they can be restored. This feature is present to help avoid user data loss.
+With Dropbox sync enabled, photos taken in Close-up are synchronized with a user's private Dropbox account. The photos are not copied or stored anywhere else when Dropbox sync is enabled.
+Face Data
+The only piece of face data that Close-up collects outside of the photos taken themselves is a single, optional set of
+three guide lines
+for display when taking future photos that mark where the user's eyes, nose, and mouth are. These lines come from a one-time scan using
+VNDetectFaceLandmarksRequest
+when users
+opt into the face grid setting
+, and this data is stored privately in the user's iCloud data within
+NSUbiquitousKeyValueStore
+. No third parties or even the developer of Close-up are able to see this data.
+All photos taken in Close-up remain only in Close-up by default. If a user opts in to Dropbox Sync their photos are also securely synched with their personal Dropbox account.
+These face data grid lines are used solely to show capture guides when capturing future photos. This helps users better align themselves with previous photos.
+Face data is stored as long as users have the "Use capture grid" setting enabled. Disabling this setting removes face data.
+Analytics
+Close-up uses
+Flurry
+to log events within the following categories.
+Image captures.
+Video and GIF creation and playback.
+Image, video, and GIF sharing.
+In app purchases.
+Dropbox sync setup success and synching errors.
+Setting up and snoozing of daily reminders.
+HEIC photo conversion success.
+If the user is prompted to perform a common action, such as make a video or sync with Dropbox.
+Close-up also uses Mixpanel to log instances of photos being captured. This logging is done with a
+custom library
+that ensures minimal data collection.
+This data is used by the developer of Close-up alone in order to make decisions about future enhancements to the product and to determine the effectiveness of particular features.

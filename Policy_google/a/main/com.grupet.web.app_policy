@@ -1,0 +1,127 @@
+Die folgende Datenschutzerklärung informiert Sie über die Verarbeitung und den Schutz von (personenbezogenen) Daten in unseren Produkten Untis, WebUntis und Untis Mobile.
+Klicken Sie hier für die Datenschutzerklärung unseren Marketing- und Schlungswebseiten
+1. Allgemeines
+Ihre Daten, die bei WebUntis bzw. Untis Mobile verarbeitet werden, sind bei uns (das ist die Untis GmbH) in sicheren Händen! Wir sind dazu verpflichtet, Ihre im Zuge unserer Geschäftsbeziehung verarbeiteten personenbezogenen Daten zu schützen und nehmen diesen Auftrag auch ernst. Bitte nehmen Sie sich Zeit für diese Datenschutzinformation und bekommen Sie ein Bild darüber, warum wir Ihre Daten erheben und in welcher Form wir sie verarbeiten.
+Wir verarbeiten personenbezogene Daten zum Betrieb jener Systeme, auf denen unsere Produkte bereitgestellt werden. Hierbei sind wir (je nach konkreter Funktionalität und der unserem Vertragspartner geschuldeten Leistung) Verantwortlicher oder Auftragsverarbeiter iSd DSGVO.
+Siehe dazu Punkt 3
+Wir verarbeiten personenbezogene Daten bei WebUntis und Untis Mobile  im Auftrag und auf Weisung unserer Vertragspartner (Auftragsverarbeiter iSd DSGVO).
+2. Was sind personenbezogene Daten?
+Personenbezogene Daten sind Informationen, die sich auf natürliche Personen (Schüler*innen, Eltern von Schüler*innen oder Lehrer*innen) beziehen, deren Identität identifiziert oder identifizierbar ist (z.B.: Name, Kontaktdaten, Rechnungsdaten, IP-Adresse).
+3. Betrieb der Systeme, auf denen wir unsere Produkte zur Verfügung stellen
+Um unsere Produkte anbieten zu können, werden hierfür folgende Informationen verarbeitet, die grundsätzlich einen Bezug zum jeweiligen Benutzer ermöglichen:
+Benutzername
+Benutzer-ID
+Datum und Uhrzeit des Aufrufs
+Aufgerufene URL
+Referrer URL
+Bildungseinrichtung
+IP-Adresse
+Verwendeter Browser
+Verwendetes Betriebssystem
+requestId
+traceId
+Zur Übermittlung der Daten wird TLS Verschlüsselung verwendet.
+Diese Daten werden für die zuverlässige und sichere zur Verfügungstellung unserer Produkte verarbeitet und nach Ablauf von sechs Monaten ab Erhebung gelöscht. Die Aufbewahrung für sechs Monate erfolgt um etwaige auftretende technische Probleme identifizieren, zuordnen und beheben zu können. Darüber hinaus können sie zur Unterstützung der Ermittlungsbehörden bei der Aufklärung von Straftaten dienen.
+4. Datenverarbeitung im Rahmen von WebUntis und Untis Mobile
+Sowohl WebUntis als auch Untis Mobile sind Plattformen für die selbe Datenbank und beinhalten somit dieselben Datensätze. Die zur Verfügung stehenden Funktionalitäten sind weitestgehend gleich.
+Bei der Benutzung von WebUntis oder
+Untis Mobile erfolgt die Verarbeitung Ihrer personenbezogenen Daten aufgrund der mit dem jeweiligen Verantwortlichen (dies ist jene Bildungseinrichtung, die Sie besuchen, Ihr Kind besucht bzw. an der Sie lehren) abgeschlossenen Auftragsverarbeitervereinbarung gemäß Art 28 DSGVO.
+Unabhängig von der jeweiligen Benutzerrolle und den damit verbundenen Berechtigungen wird seitens der Schule festgelegt, welche Daten als erforderlich erachtet werden und wem diese zugänglich gemacht werden. Wir stellen die Plattformen zur Verfügung, damit die Anforderungen der jeweiligen Einrichtung realisiert werden können. Die Plattformen umfassen – je nach jeweiliger Benutzerberechtigung – folgende Funktionalitäten:
+Raumbuchungen
+Stunden- und Vertretungsplanung
+Elektronisches Klassenbuch
+Sprechtag-Planung
+Kursanmeldung
+Eine vollständige Darstellung der aktuell verfügbaren Funktionen finden Sie
+hier
+.
+Einsatz von Matomo
+Wir verwenden
+Matomo
+für die Messung der Nutzung und Leistung unserer Produkte WebUntis und Untis Mobile, um datengestützte Entscheidungen zur Identifikation von Verbesserungspotenzialen zu ermöglichen:
+Es werden hierfür keine personenbezogenen Daten verarbeitet,
+IP Adressen werden anonymisiert,
+Daten am Endgerät: Da Matomo nur Stichproben-artig aktiviert wird, speichert es im local storage im Schlüssel ANALYTICS-config, ob es aktiviert oder deaktiviert ist,
+es wird eine ID generiert, über welche sich die User Journey ("
+eine Szenario-basierte Abfolge von Schritten, die ein Benutzer unternimmt, um ein übergeordnetes Ziel mit einem Produkt zu erreichen
+") eines Benutzers ausschließlich zwischen dem Web-Client (WebUntis) und Mobile Clients (Untis Mobile Android- oder iOS-App) verfolgen lässt.
+Untis Mobile
+Bei der Verwendung von Untis Mobile werden keine zusätzlichen Informationen an uns übermittelt. All jene von Untis Mobile erzeugten Daten, die über jene von WebUntis hinausgehen, werden ausschließlich auf dem Gerät des Benutzers gespeichert; eine Synchronisierung dieser Daten mit den Untis-Systemen findet NICHT statt.
+Im Rahmen einer vertraglichen Beziehung mit Ihnen werden wir Ihre Daten aufgrund unternehmens- und steuerrechtlicher Dokumentationspflichten gemäß § 212 UGB bzw. § 132 BAO grundsätzlich für die Dauer von sieben Jahren (ab Ende des jeweiligen Geschäftsjahres) aufbewahren. In begründeten Einzelfällen, etwa zur Geltendmachung und Abwehr von konkreten Rechtsansprüchen, können wir Ihre Daten auch bis zu 30 Jahre nach Beendigung der Geschäftsbeziehung speichern. Personenbezogene Daten werden keinen Empfängern offengelegt.
+Hinsichtlich all jener Verarbeitungsvorgänge, für welche wir nicht Verantwortlicher iSd DSGVO sind, sondern Auftragsverarbeiter, verweisen wir auf die Datenschutzinformationen der jeweiligen verantwortlichen Bildungseinrichtung.
+Untis Mobile nutzt von Firebase (ein Produkt von Google) bereitgestellte Dienste:
+Firebase Cloud Messaging, für das Versenden von Push-Nachrichten,
+Firebase Crashlyrics, für die Auswertung automatisch erstellter Fehlermeldungen (z.B. bei Abstürzen),
+Firebase Remote Config, für Konfigurationsanpassungen in der App, ohne eine neue Version im Store veröffentlichen zu müssen.
+In Untis Mobile können Berechtigungen abgefragt werden. Diese Berechtigungen können im Nachhinein in den Applikationseinstellungen konfiguriert werden. Sofern Sie die Berechtigungen nicht erteilen, ist die Verwendung von Untis Mobile nur eingeschränkt möglich.
+Kamera: Der Zugriff auf die Kamera wird benötigt um Fotos, Videos und QR-Codes zu verarbeiten. Fotos und Videos werden für die Datenübertragung an WebUntis benötigt. QR-Codes werden für die Anmeldung genutzt.
+Fotos und Videos: Der Zugriff auf Fotos und Videos werden zur Datenübertragung an WebUntis benötigt.
+Push Notifications: Mit Push-Notifications wird der Benutzer über relevante Informationen benachrichtigt. Beispielsweise über Änderungen im Stundenplan.
+Sofern Sie die Berechtigungen nicht erteilen bzw. nach der Installation deaktivieren, ist die Verwendung von Untis Mobile nur eingeschränkt möglich.
+Wir weisen weiters darauf hin, dass Untis Mobile keine Werbung beinhaltet (der diesbezügliche Hinweis durch den Google PlayStore erfolgt aufgrund der Verknüpfung von
+Untis Mobile).
+5. Automationsunterstützte Entscheidungsfindung
+Wir führen mit Ihren Daten keine Verarbeitungen durch, bei denen es zu Entscheidungen kommt, die auf ausschließlich automatisierten Verarbeitungen (einschließlich Profiling) beruhen und die Ihnen gegenüber rechtliche Wirkung entfalten oder Sie in ähnlicher Weise erheblich benachteiligen (Art 22 DSGVO). Jede etwaige Entscheidung mit entsprechender Wirkung wird von einer natürlichen Person getroffen.
+6. Erhebung von Daten aus anderen Quellen (Information gemäß Art 14 DSGVO)
+Es werden keine Daten von anderen Quellen erhoben. Wir verwenden ausschließlich jene Informationen, die Sie bei der Benutzung eingeben bzw. bereitstellen (z.B.: gespeicherte Hausaufgaben oder Abwesenheitsmeldungen).
+Abhängig von der jeweiligen Funktion findet eine Weiterverarbeitung von erhobenen und verarbeiteten, Daten statt (z.B.: Anmeldung zur Sprechstunde anhand der Zuordnung der Informationen zu Schüler*innnen und Lehrer*innen).
+Bei der Verwendung werden keine zusätzlichen Informationen an uns übermittelt. Alle erzeugten Daten, die über jene von WebUntis hinausgehen, werden ausschließlich auf dem Gerät des Benutzers gespeichert; eine Synchronisierung dieser Daten mit den Untis-Systemen findet NICHT statt.
+7. Welche Rechte stehen Ihnen hinsichtlich der Datenverarbeitung zu?
+Wir möchten Sie darüber informieren, dass Sie das Recht haben,
+jederzeit Auskunft darüber zu verlangen, welche Daten von Ihnen bei uns verarbeitet werden. Das Recht auf Auskunft beinhaltet auch das Recht auf Erhalt einer Datenkopie, sofern dadurch Rechte und Freiheiten anderer Personen nicht beeinträchtigt werden (siehe im Detail Art 15 DSGVO);
+die Berichtigung oder Vervollständigung Sie betreffender unrichtiger oder unvollständiger Daten zu verlangen (siehe im Detail Art 16 DSGVO);
+die Löschung Ihrer Daten zu verlangen (siehe im Detail Art 17 DSGVO). Das Recht auf Löschung besteht jedoch z.B. nicht, soweit die Verarbeitung zur Erfüllung einer rechtlichen oder vertraglichen Verpflichtung erforderlich ist;
+bei Vorliegen bestimmter Voraussetzungen die Einschränkung der Verarbeitung Ihrer Daten zu verlangen (siehe im Detail Art 18 DSGVO);
+gegen eine Verarbeitung Ihrer Daten, die zur Wahrung unserer berechtigten Interessen oder eines Dritten erforderlich sind, Widerspruch einzulegen. Im Fall eines Widerspruchs verarbeiten wir Ihre Daten nicht mehr, es sei denn, die Verarbeitung dient der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen oder wir weisen zwingende schutzwürdige Gründe für die Verarbeitung nach, die Ihre Interessen überwiegen. Widersprechen Sie einer Verarbeitung für Zwecke der Direktwerbung, so werden wir Ihre personenbezogenen Daten nicht mehr für diese Zwecke verarbeiten (siehe im Detail Art 21 DSGVO);
+die Übertragung der von Ihnen bereitgestellten Daten in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten. Das Recht auf Datenübertragbarkeit besteht jedoch nur, sofern die Verarbeitung auf Ihrer Einwilligung oder auf einem Vertrag beruht (siehe im Detail Art 20 DSGVO).
+Zur Geltendmachung eines der oben genannten Rechte wenden Sie sich bitte an die jeweilige Bildungseinrichtung.
+Sofern Ihr Anliegen eine Datenverarbeitung betrifft, die über jene hinausgeht, die Ihnen von Ihrer Bildungseinrichtung zur Verfügung gestellt wird, wenden Sie sich bitte – mit Nennung der jeweiligen Bildungseinrichtung – per E-Mail an
+datenschutz(at)untis.at
+oder postalisch an Untis GmbH, Belvederegasse 11, A2000 Stockerau.  Wir weisen darauf hin, dass eine Bearbeitung Ihrer Anfrage in der Regel nur in Zusammenarbeit mit der jeweiligen Bildungseinrichtung erfolgen kann.
+Sollte es, trotz unserer Verpflichtung, Ihre Daten rechtmäßig zu verarbeiten, wider Erwarten zu einer Verletzung Ihres Rechtes auf rechtmäßige Verarbeitung Ihrer Daten kommen, setzen Sie sich bitte mit uns postalisch oder per E-Mail in Verbindung (Kontaktdaten siehe unten), damit wir von Ihren Bedenken erfahren und diese behandeln können. Sie haben aber auch das Recht, eine Beschwerde bei der Österreichischen Datenschutzbehörde oder bei einer anderen Datenschutz-Aufsichtsbehörde in der EU, insbesondere an Ihrem Aufenthalts- oder Arbeitsort, zu erheben.
+Wir hoffen Ihnen mit dieser Information Klarheit darüber verschafft zu haben in welcher Form und für welche Zwecke wir Ihre Daten verarbeiten. Sollten Sie dennoch Fragen zur Verarbeitung Ihrer personenbezogenen Daten haben, können Sie sich gerne an uns wenden.
+Untis GmbH
+A-2000 Stockerau, Belvederegasse 11
+UID ATU69811938, FNr 437283p, Landesgericht Korneuburg
+T:
++43 (0)2266/62241/0
+M:
+datenschutz(at)untis.at
+W:
+www.untis.at
+Schließen ohne zu speichern
+Um unsere Webseite für Sie optimal zu gestalten und fortlaufend verbessern zu können, verwenden wir Cookies. Wenn Sie fortfahren, stimmen Sie der Verwendung zu. Klicken Sie hier für weitere Informationen.
+Datenschutz
+Einwilligungsstatus
+nein
+Einwilligungsstatus
+ja
+Details anzeigen
+Details schliessen
+Zur Persistierung des Cookie- und Datenschutz-Einwilligungsstatus werden ein Cookie und Local Storage Objekt verwendet.
+Google Analytics, Google Tag Manager
+nein
+Google Analytics, Google Tag Manager
+ja
+Google Ireland Limited
+Details anzeigen
+Details schliessen
+Zweck:
+Fehleranalyse, statistische Auswertung unserer Webseitenzugriffe, Kampagnenanalyse, Conversiontracking, Retargeting (durch Google AdWords)
+Verarbeitungsvorgänge:
+Erhebung von Zugriffsdaten, Daten ihres Browsers und Daten über die aufgerufenen Inhalte; Ausführung von Analysesoftware und Speicherung von Daten auf ihrem Endgerät, Anonymisierung der erhobenen Daten; Auswertung der anonymen Daten in Form von Statistiken
+Daten von Google Analytics werden mit den Informationen aus Ihren Google-Konten verknüpft, um somit geräteübergreifend, zusammengeführte und anonymisierte Statistiken zum Verhalten zu gewinnen. Hierbei werden Daten wie Standort, Suchverlauf, YouTube-Verlauf und Daten aus Websites von Google-Partnern erfasst. Sie können jederzeit auf die Daten zugreifen und gegebenenfalls diese löschen.
+Speicherdauer:
+Daten auf ihrem Endgerät bis zu zwei Jahre.
+Gemeinsamer Verantwortlicher:
+Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland
+Rechtsgrundlage für die Datenverarbeitung:
+freiwillig, jederzeit widerrufbare Einwilligung
+Folgen der Nichteinwilligung:
+Keine unmittelbaren Auswirkung auf die Funktion der Website; jedoch eingeschränkte Möglichkeiten zur Weiterentwicklung und Fehleranalyse
+Datenübermittlung in die USA:
+Ihre Daten werden durch den Anbieter Google in den USA verarbeitet, was mit entsprechenden Risiken, z. B. eines heimlichen Datenzugriffs durch US-Behörden verbunden ist. Mit Ihrer Einwilligung erklären Sie sich auch mit der Verarbeitung Ihrer Daten in den USA einverstanden.
+Google Privacy and Terms
+Auswahl bestätigen
+Alle ablehnen
+Alle akzeptieren

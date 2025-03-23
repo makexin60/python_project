@@ -1,0 +1,122 @@
+Privacy Policy
+P
+r
+i
+v
+a
+c
+y
+P
+o
+l
+i
+c
+y
+Home
+Privacy Policy
+February 21, 2025
+7 mins read
+Andrew Bakonski
+Privacy Policy
+Privacy Policy
+Terms of Service
+Subprocessors
+Privacy Policy
+Last Updated: September 7, 2023
+1. WHO WE ARE
+This Privacy Policy applies to all products, applications and services offered by Veryfi, Inc. a company incorporated in USA with company registration number 81-4525560 and whose registered office address is 210 S B St, San Mateo, CA, 94401.
+2. SHARING DATA
+We never sell or share your data with anyone.
+Veryfi is 100% machine powered end-to-end. We do not use humans or data extraction teams to extract or categorize your data.
+We value your data—privacy and solely rely on our proprietary machine algorithms to do all the heavy lifting 24/7. Machines do not sleep but they do work hard. This is how we achieve unmatched real-time processing.
+2.1. 3RD PARTIES
+Connected Apps
+At your discretion, you can allow 3rd party connections (we call them Connected Apps) to consume your Veryfi data for additional processing into your accounting software or extra cloud storage. Learn more about Connected Apps:
+https://www.veryfi.com/connected-apps/
+Bank Transactions
+At your discretion, you can enable Bank Transaction feeds into Veryfi from your selected institution. Veryfi does not store your bank login credentials, instead relies of Envestnet | Yodlee services to provide a secure token along with data that can be used to reconcile your financials.
+3. STORING DATA
+Veryfi only stores the data it needs to function properly — for as long as you want Veryfi to function for you.
+Mobile Apps
+When using Veryfi mobile apps, Veryfi collects some personal and device information, to help personalize your experience with Veryfi. We collect your name and email address to personalise communications with you. If you have provided access to location services, your device’s location is used in processing your submitted documents to improve accuracy.
+Cloud Storage
+Veryfi provides subscribers an unlimited cloud service for storage of financial documents in the form of photos, pdfs, and metadata. This allows you access to your data from any of your devices anytime and use our instant server search to quickly access your documents from waaay back. All data is stored heavily encrypted. This way local engineers or physical intruders cannot get access to user data.
+Data Control
+You are in control of your data and can make changes to it anytime on web or mobile. To change your personal data, go to your Settings (
+https://app.veryfi.com/me/
+) and update it.
+4. HOW WE USE YOUR DATA
+Your data is only used to improve your product experience.
+In technical terms, this means enriching machine models that dramatically improve the accuracy of data extraction, data categorization and automation of your bookkeeping.
+Invite your Accountant
+When you invite your accountant from your web app profile settings screen, Veryfi adds them to your team so they can access your data for tax purposes. You can remove them from your team at any time by disabling their account inside the web app under “My Team”.
+My Team
+If you are a part of a team, like your company, then the administrator has access to your data for reimbursement & tax purposes. This is the person who invited you to join the team. Please make sure you take the right steps to validate all invites.
+Google Workspace API Usage
+We affirm that Google Workspace APIs are not used to develop, improve, or train generalized AI and/or ML models. Our application does not retain or use Google Workspace data to train generalized AI or ML models.
+If you feel that your data is being compromised, please reach out to us with a detailed outline of who, where and how. If you want to separate your data from your company’s team ie. personal receipts, then please take advantage of the
+multiple profiles feature
+.
+5. DELETING DATA
+Accounts
+If you would like to delete your account, you can do this on your profile settings page (
+https://app.veryfi.com/me/
+) or by emailing support@veryfi.com. Deleting your account permanently removes all your data you ever stored with Veryfi. This action must be confirmed by you and cannot be undone.
+Documents
+Everything you (the customer) delete from your account using Veryfi interfaces is deleted forever.
+Documents via API
+API customers are provided an API endpoint to permanently delete the document(s) they have pushed to the Veryfi API. This endpoint can be run at any time by the API customer or as part of the API implementation workflow.
+6. PAYMENT INFORMATION
+Veryfi does not process payments from users and instead relies on
+Stripe
+(a PCI-certified 3rd party payment provider) to process payments around the world. It is the payment provider that handles and stores your credit card details.
+Credit card information
+When making a purchase, you enter your credit card details into a form supplied by the payment provider (Stripe) that will be processing the payment, and this information goes directly to the payment provider‘s system. Your credit card information never reaches Veryfi’s servers. We do not and cannot access or store your credit card information.
+When you save your credit card information, it is saved on the respective payment provider’s servers and the payment provider gives Veryfi a token that can be reused for future payments. It is not possible to reconstruct your credit card information from the token.
+7. SECURITY AND STORAGE OF INFORMATION
+We take security and data—privacy very seriously. Our cofounder (
+https://www.veryfi.com/about/
+) has previously built HIPAA compliant solutions used by America’s largest healthcare companies. That experience and more has formed the backbone of our secure bookkeeping platform.
+At Veryfi;
+All communication is over HTTPS using TLS 1.2 or higher – the same standard that banks use.
+We use Amazon AWS (Amazon Web Services) as our cloud service provider. AWS complies with all industry standards like PCI DSS L1, FIPS 140-2, HIPAA, IRAP and ITAR.
+Data at Rest is AES-256 encrypted and In Transit secured by HTTPS TLS 1.2. This means your data is super secure.
+Your passwords are hashed using PBKDF2 and stored one-way encrypted. No one can see your password; even if the data was exposed.
+We perform Penetration Tests annually.
+We provide you with extra layers of security accessible from your Profile Settings (
+https://app.veryfi.com/me/
+). This includes MFA (multi-factor authentication) and enforced strict, HIPAA-level password complexity.
+8. COOKIES, ANALYTICS AND SUPPORT DATA
+Cookies
+We only use session cookies to keep you logged into the product. Without session cookies you would not be able to login and maintain a session with Veryfi.
+Analytics & Traffic Data
+We use Google Analytics to better understand how you experience Veryfi. This helps us build a better product for you and service your complimentary support enquiries.
+Support Data
+We use Intercom.com chat button integration to provide you with complimentary 24/7 customer support. The information collected is no more than what you provide to us when you sign up or during the support session. This information is used solely for the purposes of providing you the highest level of service and support.
+9. MISC
+List of Sub-Processors
+Refer here for full details:
+https://www.veryfi.com/subprocessors/
+Unsubscribe
+We only send you automated emails specific to the Veryfi service eg. notifications about team financial activity you opted into. We never advertise other party services. If you want to unsubscribe from notification emails go to Veryfi’s unsubscribe page
+https://app.veryfi.com/unsubscribe/
+, enter your email and click the “Unsubscribe” button.
+How to backup/download all your data
+We provide 2 means of fetching all your data:
+a. Inside the Hub web app, from the left menu select “Reports”; then generate a report with a date range spanning from the time you started to today. Within a few minutes a report will be generated with your data as CSV, PDF and/or ZIP with all your documents, depending on the report settings you chose.
+b. Contact our Security Officer on cso@veryfi.com. Emails are responded to within 48 hours. Please note that requests outside of the self-serve services may incur a manual labor cost. You will be informed of these before proceeding.
+10. PRIVACY POLICY CHANGES
+Because of changes in technology and the growth and development of our business, or for other business reasons, we may need to modify this Privacy Policy from time to time, so please review it periodically. We will alert you by posting a copy of the new policy with its effective date on our site located at:
+https://www.veryfi.com/privacy/
+. We may also send you an email or provide you additional forms of notice of modifications or updates as appropriate under the circumstances. Your continued use of our service after any modification to this Privacy Policy will constitute your acceptance of such modification.
+11. CALIFORNIA PRIVACY RIGHTS
+California law permits users who are California residents to request and obtain from us once a year, free of charge, a list of the third parties to whom we have disclosed their personal information (if any) for their direct marketing purposes in the prior calendar year, as well as the type of personal information disclosed to those parties. Veryfi does not currently disclose personal information to third parties for their direct marketing purposes.
+12. FURTHER INFORMATION
+If you have any queries about how we treat your information, the contents of this Privacy Policy, your rights under local law, how to update your records or how to obtain a copy of the information that we hold about you, please contact our Chief Security Officer on cso@veryfi.com
+Alternatively you can contact us via our support ticket service on support@veryfi.com
+Terms of Service
+Read Veryfi’s Terms of Service
+.
+Subprocessors
+See Subprocessors
+that Veryfi uses.

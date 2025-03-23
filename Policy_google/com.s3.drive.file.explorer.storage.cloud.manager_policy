@@ -1,0 +1,41 @@
+Privacy policy
+Last updated: June 10, 2024
+This Privacy Policy describes how your personal information is collected, used, and shared when you use any software program provided by the S3Drive (the "Company") downloaded by You on any electronic device (the "Application").
+The Application doesn't collect or transmit data beyond the necessary required to fulfil the intended use. Some Application features may require us to make a connection to an external endpoint:
+- in case of an Application error, the Application may send an error report to our self-hosted
+Sentry.io
+instance placed in ISO 27001 certified datacenter in Germany, this is to help us maintain quality of the service, allowing us to address issues as soon as they arise.
+        We're logging error message, stack trace, IP address, as well as basic information about your device (e.g. model and OS version) and its state (battery level, free memory, boot time etc.) as of the moment when the error is captured. We're using default 90 days retention period.
+You can disable this feature in the Settings screen.
+- after start, the Application will send a request to
+Version API
+, this is so we can notify you once new version is released.
+You can disable this feature in the Settings screen.
+- if any of the paid features are used for the first time*, the Application will send a request to
+Enrol API
+, containing feature name, platform name, SHA-256 salted hash of installation ID and a SHA-256 salted hash of pair (Access Key ID, S3 endpoint).
+This helps us to decide how to improve our offer without disrupting existing customers.
+*starting from 1.7.9 release, request isn't sent for accounts maintaining valid Ultimate license or subscription.
+- our
+Feedback form
+uses Formcarry to transmit data to us. Please familiarize yourself with their Privacy policy (listed below).
+Your files are persisted to your personal S3 (or Rclone) compatible account or storage account managed by us (
+Terms
+).
+The Company has no control over, and assumes no responsibility for, the loss of data, service quality and continuity, or actions of your S3 provider.
+We strongly advise You to read the terms and conditions and privacy policies of your respective S3 provider, as well as any 3rd party providers listed below.
+We're not logging your device serial number, MAC address, Wi-Fi name or your location.
+If you use managed service, our APIs may store your IP address, registration e-mail, device model, operating system version and user agent. This data gets removed when you delete your account.
+External providers
+Here is the information list helping you to get the privacy policies and terms and conditions of the external providers.
+We're not responsible for the content below, it is at your own discretion to obtain the relevant privacy policy and terms and conditions.
+Formcarry
+Privacy policy:
+Policy
+Terms and conditions:
+Terms
+Backblaze
+Privacy policy:
+Policy
+Terms and conditions:
+Terms

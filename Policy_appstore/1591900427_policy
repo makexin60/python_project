@@ -1,0 +1,232 @@
+Get Basic plan with
+pre-paid participants
+! Get your participants now and
+save money and time
+.
+Learn more
+Documentation
+/
+Privacy Policy
+Documentation
+Sensitive data protection
+Privacy Policy
+One of UXtweak's top-level priorities is to keep data that belongs to our clients safe and secure. We don't just stay up-to-date with any laws that regard user privacy and sensitive information. It is our aim is to always offer the best possible protection to all data that's been entrusted to us.
+Data storage
+We designed UXtweak to be robust towards any possible data losses. UXtweak uses the servers and cloud infrastructure of Amazon Web Services (AWS) for storage of personal data. All data collected by UXtweak is stored electronically in Ireland, Europe in the AWS infrastructure, data center eu-west-1. Our application servers and database servers function within Amazon VPC (Virtual Private Cloud). The database containing visitor and usage data is only accessible from the application servers, and no outside sources are allowed to connect to the database.
+Data access and backup
+UXtweak makes sure that your data remains accessible and safe even in the case of system failure (as is in accordance with the laws of the EU). For prevention against data loss, we create an electronic copy of all data processed by UXtweak, which is stored for the duration of the following 7 days. In case of a server failure, UXtweak employs this copy as backup.
+Data and account deletion
+If you would like to close your account and delete your data, you can do so and stop using UXtweak at any time. You can request deactivation and deletion of your account after logging in to UXtweak. After such termination, your right to use UXtweak will immediately expire and any data connected with your account (including all personal data) will be permanently deleted. If you would like us to help with the deletion of your account and/or data, please contact us at
+U
+i
+X
+n
+t
+f
+w
+o
+e
+@
+a
+u
+k
+x
+_
+t
+i
+w
+s
+e
+_
+a
+g
+k
+r
+.
+e
+c
+a
+o
+t
+m
+.
+Compliances, Certificates, and Audits
+UXtweak’s data is stored in Amazon Web Services (AWS) cloud. For more information regarding the security of AWS, see the following links.
+Information about security of AWS
+Information about the physical security of AWS data centers
+Information about GDPR compliance on the part of AWS
+Certifications and audit reports for AWS:
+ISO-27001 Certification for AWS
+SOC2 third-party audit reports for AWS
+UXtweak passed a self-evaluation process in accordance with the SAQ A standard (Self Assessment Questionnaire) and is eligible to accept so-called card-not-present payments (CNP) by entrusting all operations related to payments to the company
+Stripe
+, which conforms to the standard PCI DSS (Payment Card Industry Data Security Standard). The processor's servers do not process, transfer or store any data of the card holder.
+Subprocessors
+In the course of providing our service, UXtweak may process personal data on your behalf. In order to outline specifics of how we will perform this processing and what our obligations are, as well as the obligations of our users/customers, we've created a Data Processing Agreement (DPA) that we enter into free of charge with anyone that uses our service and requests it.
+UXtweak hires the following subprocessors for the purpose of personal data processing:
+Amazon Web Services EMEA SARL 38 avenue John F. Kennedy, L-1855 Luxembourg;
+Sendinblue GmbH, Köpenicker Straße 126, 10787 Berlin, Germany
+Mailgun Technologies, Inc., 548 Market St. #43099, San Francisco, CA 94104, USA;
+Tawk.to, Inc., 187 East Warm Springs Rd, SB119, Las Vegas, NV 89119, USA;
+Stripe, Inc., 510 Townsend Street, San Francisco, CA 94103, USA;
+Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland.
+For the purposes of securing effective distribution of content when providing services as a data processor, as well as optimal functioning of the server infrastructure on part of the data processor, UXtweak utilizes the service AWS CloudFront as a content delivery network (CDN). AWS CloudFront exclusively processes geolocation data of subjects and stores it in its anonymized form for the purposes of securing effective provision of services to subjects.
+UXtweak uses
+Sendinblue
+to send newsletters. If a subject subscribes to our newsletter, we will need their explicit permission that they agree to receive our newsletter. The data the subject provides to subscribe to our newsletter will be stored on Sendinblue servers in Germany. If the subject wants to cancel their subscription, they may do so at any time either through the "Unsubscribe" link in one of our newsletter emails or by using our
+contact form
+. Data processing is based on Art. 6 (1) (a) GDPR. The subject may revoke their consent at any time. The data provided when registering for the newsletter will be used to distribute the newsletter until the subject cancels their subscription, at which point said data will be deleted from servers of Sendinblue. The data we have stored for other purposes (e.g., email addresses of registered users) remains unaffected.
+UXtweak utilizes the service
+Mailgun
+for delivery of transaction e-mail messages which are necessary for the functioning of the service. Within Mailgun, email addresses of subjects and the contents of the email messages are processed for the duration of seven days. Processing of private data by Mailgun is handled in the USA. We no longer rely on the Privacy Shield as a data transfer mechanism given that the EU-U.S. Privacy Shield and the Swiss-U.S. Privacy Shield are longer valid as a result of the Schrems II decision issued by the European Court of Justice on July 16, 2020. We continue to commit to the principles of the Privacy Shield framework given it can still provide privacy protections to users.
+All operations related to payments are processed by
+Stripe
+, which conforms to the PCI DSS (Payment Card Industry Data Security Standard). UXtweak's servers do not process, transfer, or store any data of the card holder.
+We use the standard software by Microsoft (e.g., MS Office) and, due to this fact, Microsoft can process personal data.
+How we use your Google data
+If you register and/or log into UXtweak using your Google account, UXtweak needs to access your following Google data:
+Associate you with your personal info on Google
+- UXtweak accesses and associates your publicly accessible information: your name and your profile picture, with your UXtweak account.
+Additionally, for the purpose of
+installing the UXtweak Snippet into your website
+(for Website Testing, Session Recording and Recruiting Widget tools), you may use our Google Tag Manager (GTM) integration. In such case, UXtweak needs to access your Google account and some of your Google data:
+View and manage your Google Tag Manager accounts
+- UXtweak needs to access your Google Tag Manager (GTM) account for the purpose of installing the UXtweak Snippet code into one of the available GTM containers.
+Manage your Google Tag Manager container and its subcomponents, excluding versioning and publishing
+- UXtweak needs to list and access the desired GTM container the code snippet will be installed into.
+Manage your Google Tag Manager container versions
+- UXtweak needs to create a new GTM container version prior to publishing it.
+Publish your Google Tag Manager container versions
+- UXtweak needs to publish the new container version containing the installed snippet code.
+Limited Use Policy disclosure
+: UXtweak's use and/or transfer of your Google data and/or data received from Google APIs adheres to
+Google API Services User Data Policy
+, including the
+Limited Use requirements
+.
+UXtweak does not process your Google data outside of the scope outlined above. UXtweak never shares your Google data with third parties.
+UXtweak uses the service Google Analytics for monitoring user activity on our website for the purposes of providing relevant information. For this purpose, Google collects anonymized statistical data about usage of our web pages. We use GSuite as our email provider, which means that e-mails delivered to email addresses belonging to UXtweak or sent by UXtweak's employees can be stored on Google's servers. We use Google Drive for shared files. In rare cases, we maintain lists of contact information in Google spreadsheets, but we are continuously working on removing all such data.
+Google Tag Manager, GTM, Google Analytics and Google Drive are trademarks of Google LLC.
+Encryption
+You can depend on UXtweak to protect your data by employing the latest among current security standards. We use SSL/TLS (Secure Sockets Layer / Transport Layer Security). All data that comes to and leaves our servers is encrypted. UXtweak is also PCI DSS compliant.
+Stability
+We conduct routine monitoring of UXtweak's performance so we can deal with any issues with the service's stability ASAP. This actually means that many problems get solved before they can even affect our users. You can get updates on how our systems are doing on the page
+status.uxtweak.com
+.
+Accessibility
+Naturally, we protect the passwords that our users use to authenticate themselves by storing them in (bcrypt) hashed format. Authentication is a requirement for accessing your account. UXtweak doesn't collect any sensitive data, such as passwords and credit card numbers. Access to user data is restricted strictly for employees for the purposes of providing service and support.
+Besides Session Recording's and Website Testing's data collection being secure by default, Session Recording/Website Testing also gives you the option to further customize which data gets recorded. You can either set up rules for data collection in your study, or use
+our API
+to mark UI elements which are supposed to be hidden from recording even on the individual level.
+What can UXtweak Session Recording and Website Testing record?
+UXtweak is entirely customizable in the respect that you have full power over what's recorded and what isn't. Want to only record on mobile devices, leave out a range of IP addresses, or control which pages or forms are left out of the recordings? These are just some of the things you can do. What's more, you can set up your recording rules separately for end-users from inside and outside of the EU. This way, you can create a recording policy that's suited specifically for the GDPR, while maintaining a different policy elsewhere.
+If your website has any forms on it, it is quite likely that you're collecting the user's personal data in some form. When collecting personal data from the user, you have to comply with the laws that apply in their country. In the European Union, you can't collect personal data without the user's knowledge and their consent.
+As such, a statement such as this should be found somewhere in your Terms of Service or your Privacy Policy:
+For the purposes of web analytics, your personal data may be recorded by 3rd party service UXtweak.com.
+Different laws apply in different countries and so your obligations for collecting personal data can also vary significantly by locale. If you're not sure about collecting some sort of data in a specific country, we recommend consulting a local lawyer to learn more.
+Should visitors know when they're being recorded?
+The answer is different depending on whether the data you're collecting is personal by nature. If it isn't, informing the user isn't legally necessary. For collecting personal data, you should probably inform the users, differences in local laws notwithstanding. A good place to inform your users of this fact is directly on your website, in the Privacy Policy.
+Aside from the legal requirements, some visitors might not wish to be tracked online, in any way whatsoever. You can send these people to
+UXtweak's opt-out link
+.
+Is recording users/visitors legal?
+Yes, there's no problem. Recording data for session replay is no different from collecting usage data for any other web analytics tool, such as Google Analytics.
+What's important from the legal perspective is how recording of personal data is handled in your UXtweak Session Recording or Website Testing project. As explained in the paragraphs above, UXtweak allows you to fully adjust what gets recorded. You could broadly disable recording within all forms (where personal data usually gets entered), or just disable those UI elements that concern personal data and leave the remaining forms untouched.
+How does UXtweak use cookies?
+While using UXtweak, temporary files, known as cookie files (cookies), can be stored and processed. By processing cookies, personal information might be collected and linked with the visitor. This personal information is used solely to improve UXtweak services. UXtweak respects the privacy of its users and visitors and when processing cookies, we follow the privacy rules of the European Union.
+A visitor can deactivate or restrict collection and storage of cookies by changing the settings of their web browser, or by browsing the web in incognito (private) mode, where they remain anonymous. This mode is supported in all modern browsers. By using it, the user acknowledges that UXtweak services might not work properly for them, and that use of UXtweak services can exhibit unexpected behavior.
+Cookies set by the UXtweak scripts
+Name
+Description
+Duration
+uxt-replay_*
+The UXtweak recording cookie sets when a visitor opens a website that uses UXtweak Session Recording or a respondent starts solving a task in Website Testing. It stores the current session's random id. When the visitor leaves the site, the cookie's expiration is set to thirty minutes. If the visitor doesn't come back, the cookie expires and the visitor's next visit will be recorded as a new session.
+Session / 30 minutes
+uxt-identity
+The UXtweak recording cookie sets when UXtweak's collector script (common for Session Recording and Website Testing) is first downloaded. It stores a random visitor id, which it uses to distinguish between visitors and to identify repeated visits.
+Permanent
+uxt-recruiter-focus
+The UXtweak Recruiting Widget cookie sets when the visitor sees a page with the Recruiting Widget on it. It makes sure that once the visitor minimizes the Recruiting Widget, it will stay minimized as the visitor continues browsing the website.
+10 minutes
+uxt-recruiter-show_*
+This UXtweak Recruiting Widget cookie ensures the widget disappears once the visitor opens the study by clicking the CTA button shown within the widget (e.g., I wanna help!).
+3 months
+uxt-recruiter-throttle
+This UXtweak Recruiting Widget cookie ensures the widget waits for 10 minutes before sending another request to the UXtweak Snippet API server, in case the Fair User Policy (FUP) limit is being violated.
+10 minutes
+Cookies set by visiting the UXtweak website and tools
+Name
+Description
+Type
+Duration
+uxt-session
+UXtweak cookie. Identifies and maintains the user's session on the UXtweak website.
+Technical (required)
+Session
+uxt-accounts-session
+UXtweak cookie. Identifies and maintains the user's session in the UXtweak Accounts application (login, account management).
+Technical (required)
+Session
+uxt-optout
+UXtweak cookie. Created if a visitor decided to opt-out of UXtweak. If this cookie exists in the browser, Session Recording and Website Testing won't collect any session data.
+Technical (required)
+365 days
+uxt-app-promo-popup
+UXtweak cookie. Used to hide a promotion pop-up widget on the dashboard in UXtweak tools.
+Technical (required)
+4 days
+uxt-web-promo-popup
+UXtweak cookie. Used to hide a promotion pop-up widget on the UXtweak website.
+Technical (required)
+7 days
+XSRF-TOKEN
+UXtweak cookie. Stores a token which is used to prevent cross-site request forgery (XSRF).
+Technical (required)
+2 hours
+_ga
+_gid
+_gat
+_gcl_au
+Cookies used by
+Google Analytics
+to distinguish between users and to throttle request rate.
+Analytics
+2 years
+24 hours
+1 minute
+3 months
+__tawkuuid
+__cfduid
+TawkConnectionTime
+twk_idm_key
+Cookies used by
+tawk.to
+to monitor and chat with visitors. It distinguishes visitors, so previous conversations with visitors can be identified.
+Technical (required)
+Decided by tawk.to
+_fbp
+Cookies used by
+Meta Pixel
+to distinguish between users.
+Analytics
+3 months
+ln_or
+lidc
+muc_ads
+datr
+wd
+Cookies used by social media integrations -
+LinkedIn
+,
+Twitter
+,
+Facebook
+Analytics
+Decided by social media providers
+ut_cookies_select
+cookies_setting
+UXtweak cookies. Used to store cookie settings within UXtweak website and tools.
+Technical (required)
+90 days
+Documentation
+Sensitive data protection

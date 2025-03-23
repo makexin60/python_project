@@ -1,0 +1,44 @@
+Privacy Policy
+By:
+CloudBeats
+On:
+Mar 07, 2024
+Categories:
+Uncategorized
+No Comments
+This privacy policy governs your use of the Cloudbeats software applications (“Apps”) for mobile devices on iOS and Android as well as Cloudbeats website.
+Information we collect when you use the Apps
+Google User Data
+When you connect Google Drive in the Apps, we need your email and Google account identifier (“accountId”) from your Google profile in order to obtain a temporary OAuth access token for Apps to access your Google Drive files. Once you connect your Google Drive account to the application, it uses an OAuth access token and the official Google Drive SDK https://developers.google.com/drive/api/guides/about-sdk to handle requests to the Google Drive server. We do not collect and store emails. The anonymised accountId is used to uniquely identify cached data as some of our Apps allow more than one connected Google account and is stored on the secure system storage on your device.
+In order for the Apps to play and download audio files you need to grant access for the Apps to your Google Drive files. Access of the Apps to files is limited to certain audio type files extensions (mp3, mp4, flac etc) and album art images with predefined names like “folder.jpg”, “cover.jpg”. This list may vary between iOS and Android Apps, it also may change as the functional capabilities of the Apps evolve.
+You can download your audio files from the connected Google Drive account to your device and remove them anytime using built-in functions in the Apps. Our Apps do not share any information from your Google account. Our use and handling of data obtained from Google APIs comply with Google API Services User Data Policy https://developers.google.com/terms/api-services-user-data-policy, including the Limited Use requirements.
+Security procedures are in place to protect the confidentiality of your personal information. The connection data and information from your Google Drive accessed by the Apps are stored locally on your device in the secure system storage.
+Dropbox, OneDrive, Box, pCloud User Data
+When you connect any of the following cloud services in the Apps (DropBox, OneDrive, Box, pCloud) named as “Cloud” hereinafter, we need your accountId as part of your profile in order to obtain a temporary access token for Apps to access your Cloud files. Access token is stored on your device in secure system storage. We don’t use or store your email. Your accountId is used in the Apps local database in order to uniquely identify cached data as some of our Apps allow more than one connected Cloud account.
+In order for the Apps to play and download audio files you need to grant access for the Apps to your Cloud files. Access of the Apps to files is limited to certain audio type files extensions (mp3, mp4, flac etc) and album art images with predefined names like “folder.jpg”, “cover.jpg”. This list may vary between iOS and Android Apps, it also may change as the functional capabilities of the Apps evolve.
+You can download your audio files from the connected Cloud account to your device and remove them anytime using built-in functions in the Apps. Apps do not share any information from your Cloud account and the downloaded files never leave your device.
+ownCloud, NextCloud and personal servers (NAS) User Data
+When you connect your personal server in the Apps, you provide server url, login and password. This data is stored on your device in secure system storage and is used by the Apps to play and download audio files from your server. Access of the Apps to files is limited to certain audio type files extensions (mp3, mp4, flac etc) and album art images with predefined names like “folder.jpg”, “cover.jpg”. This list may vary between iOS and Android Apps, it also may change as the functional capabilities of the Apps evolve.
+You can download your audio files from the connected server account to your device and remove them anytime using built-in functions in the Apps. You can disconnect the server account in the Apps and related login data will be removed from your device. Apps do not share any information from your server account and the downloaded files never leave your device.
+Statistical Data
+When you use our Apps certain anonymized statistics is automatically collected, including, but not limited to, the type of mobile device you use, your mobile operating system and the events within the application, for example which cloud services are being used. Such information is recorded with third parties like Flurry Analytics or Google Firebase Analytics in order to give us the possibility to continuously improve the App.
+Information submitted by you
+We collect information about you when you input it into the Apps or otherwise provide it directly to us.
+Account and Profile Information.
+We collect information about you when you register for an account and sign-up for optional Synchronization & Backup Service. You provide your email and password.
+We store information about your tracks, playlists, and listening progress to sync this information between your devices only when you sign up to Synchronization & Backup Services.
+Information you provide through our support channels.
+This includes customer support, where you may choose to submit information regarding a problem you are experiencing with the App.
+Email addresses are only used for logging in, password resets, responding to emails that you initiate, and notifications that you request. We don’t send promotional emails.
+Accessing, changing, or deleting your information
+You may delete your account used for Synchronization & Backup Service from the App.
+Deleted information may be kept in backups for up to 90 days. Backups are encrypted and are only accessed if needed for disaster recovery.
+Information for European Union Customers
+By using Apps and providing your information, you authorize us to collect, use, and store your information outside of the European Union.
+Information collected on or through the Apps may be stored and processed in any country in which Cloudbeats and the third parties it works with maintain facilities, including outside of the European Union. In this regard, or for purposes of sharing or disclosing data Cloudbeats reserves the right to transfer information outside of your country. By using the Apps and related Services you consent to any such transfer of information outside of your country.
+Your Consent
+By using the Apps, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us.
+Contact us
+If you have any questions regarding privacy while using the Apps, or have questions about our practices, please contact us via
+email
+.

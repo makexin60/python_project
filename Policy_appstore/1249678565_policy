@@ -1,0 +1,50 @@
+Privacy Policy
+Below you will find all information about the processing of your personal data by the MoneyStats app from Tennstedt Software GmbH (hereinafter referred to as ‘MoneyStats’ or ‘we’) and your data protection rights.
+MoneyStats takes the protection of your personal information very seriously. Therefore, we generally do not collect any personal data and only limit ourselves to data that is absolutely necessary for the operation of the app.
+In principle, no personal data such as name, age, marital status, date of birth, address, telephone number or email of the respective user are collected. In order to use MoneyStats in its basic functions, no such personal data is necessary and no login or registration is required.
+MoneyStats only allows you to record your income and expenses and store them in this application. You can decide for yourself how detailed your entries are in this application. MoneyStats offers you various input masks and import options to make this possible and to manage, evaluate and illustrate the data. By default, the data is only saved on your device, i.e. where the application was installed. All the data you enter will be stored in a protected area on your device that cannot legally be viewed by third parties. Optionally, you can set up additional access barriers to this application (e.g. PIN protection, Touch ID, Face ID).
+As soon as you purchase a paid additional service in MoneyStats, non-personal data will be stored. However, the Apple App Store manages all transactions and issues the invoices. MoneyStats only learns that a purchase or cancellation has taken place, but does not receive any personal information such as the invoice, the address or the buyer.
+If you continue to take out a paid subscription for the bank connection, MoneyStats will receive further anonymized payment information such as the term and expiry date, which are absolutely necessary for the additional service. This anonymous data is also shared with our partner ‘RevenueCat’, who is responsible for managing the subscriptions. Your purchase history may also be evaluated to check whether your subscription is still valid, expired or canceled.
+Responsibility for data protection
+If you have any questions or problems regarding data protection, you can contact us at any time at the following email address:
+data.privacy@ttdeveloped.com
+The responsible body for data processing within the meaning of Article 4 No. 7 of the General Data Protection Regulation (GDPR) is:
+MoneyStats
+Tennstedt Software GmbH
+Wolfgang-Knabe-Str. 13
+16321 Bernau bei Berlin
+feedback@ttdeveloped.com
+represented by: Tom Tennstedt
+Optional additional services
+In addition to the app’s basic functions, you can optionally activate additional services for a fee. These additional services may require the collection of personal data or may influence the storage location of your data.
+A. Using iCloud Drive or iCloud as a storage location
+By default, your data is only saved locally on your device. Alternatively, you can select iCloud Drive as the file storage location in the app. This offers you the advantages of accessing your data across devices or creating data backups that will remain with you even if your device is broken or lost. Similar to using iCloud, the data is stored on Apple servers to make this service possible.
+MoneyStats data stored in iCloud is always encrypted – both during transmission and on the server. When you enable advanced data protection, MoneyStats data stored in encrypted fields and assets in iCloud Backup and CloudKit is additionally encrypted end-to-end.
+B. Use of data synchronization via iCloud
+In addition to storing your data locally on your device, there is also the option to save the data in your private iCloud or share it with other Apple IDs. MoneyStats exclusively uses Apple services (e.g. CloudKit). These services are linked to your personal Apple ID and allow you to store data in your private iCloud, for example to view, edit and synchronize MoneyStats data across all your devices (iPhone, iPad, MacBook, etc.). In order to use this Apple service, your data will also be stored on Apple servers. MoneyStats has no influence on the content offered by Apple and the handling of your data within this external Apple environment.
+C. Bank connection
+In addition to manually entering your income and expenses, there is also the option of a PSD2-regulated bank connection from a European institution to automatically import your bank’s financial data into the app. MoneyStats uses an account information API integrated into the app from our licensed partner ‘GoCardless’. To use this service, you must agree to GoCardless’s Privacy Policy and Terms and Conditions and authenticate GoCardless’s reading access to your account information with your bank.
+GoCardless’ account information solution can access transaction history for the last 90 days as well as up to 90 days of account information.
+The following account data is retrieved:
+Account:
+Name of the account holder, a list of the account holder’s accounts (account number, IBAN)
+Transactions:
+Date, name of the trader or counterparty (partner), description, amount
+Account balances:
+Current and available
+You can of course revoke access to your account information at any time at your bank or in the app.
+To use the GoCardless account information API and for various security reasons, MoneyStats must be able to uniquely identify you. For this purpose, we store an anonymized user ID from you, the date of your last bank access and the names of your linked banks in anonymized form in your private iCloud and on a German MoneyStats server, which we need for the further authentication steps and to retrieve your account information. For security reasons, each user is only allowed to make a limited number of bank accesses per day.
+The Account Information API is a set of endpoints through which MoneyStats communicates with the GoCardless system. All responses are submitted in JSON format and transmitted over an encrypted SSL connection. All endpoints require an authorization token so that personal data such as banking and sales data can be transferred.
+The MoneyStats server is located in a data center in Germany in the Karlsruhe and Berlin area and is operated by the company IONOS SE. In accordance with Article 32 of the GDPR, technical and organizational security measures are taken to protect the infrastructure.
+Who has access to my personal data?
+Personal data cannot be viewed by MoneyStats as it is only stored locally on your device or in your private iCloud environment. So you have full control over your personal data!
+Other data linked to you for the optional bank connection (such as the anonymized user ID and/or the connected bank in anonymized form) is stored encrypted on our server and can only be decrypted and processed by our technical systems.
+In general, we would like to point out that data transmission over the Internet (e.g. when synchronizing with iCloud or communicating via email) can have security gaps. Despite the highest security standards, it is not possible to completely protect data from access by third parties.
+For what purpose is my personal data processed?
+In general, no personal data is collected. The processing of your personal data therefore only takes place locally on your device and depends on the optional additional services used. Essentially, we just want to provide you with a personal finance manager as a tool with which you can manage, evaluate and graphically illustrate your income and expenses yourself.
+Will my data be passed on to third parties?
+No! Your personal information will never be passed on to third parties or sold without your consent.
+Do you still have questions or concerns?
+If you have any questions about data protection or if you suspect a legal violation, please feel free to contact the following email address at any time:
+data.privacy@ttdeveloped.com
+As of: September 23, 2023

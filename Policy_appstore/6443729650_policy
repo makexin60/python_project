@@ -1,0 +1,50 @@
+Search this site
+Embedded Files
+Skip to main content
+Skip to navigation
+Vision Detector
+目的
+通常、CoreMLのモデルはXcode上でプレビューするか、Xcodeでアプリケーションをビルドして実行する必要があります。
+Vision Detectorを使うと、CoreMLモデルを簡単に実行することができます。
+iPhone/iPad版とMac版があります。
+使い方
+CreateMLなどを使い、あらかじめ実行したい機械学習モデルをCoreML形式（拡張子.mlmodel）で用意しておきます。
+対応する機械学習モデルは、
+・Image classification
+・Object detection
+・Style transfer
+になります。
+Non-maximum suppression層を持たないモデルや、MultiArrayの形式でデータを入出力するモデルには対応しません。
+[iPhone/iPadの場合]
+用意した機械学習モデルをiPhone/iPadのファイルシステムに入れます。ファイルシステムとは、iPhoneの「ファイル」アプリケーションから見える領域であり、ローカルのデバイス内や各種クラウドサービス（iCloud Drive、One Drive、Google Drive、DropBoxなど）のことです。AirDropなどで転送してもいいでしょう。
+アプリを起動し、その機械学習モデルを選択して読み込みます。
+画像の入力ソースを、
+・iPhone/iPad内蔵カメラからの動画
+・内蔵カメラからの静止画
+・フォトライブラリ
+・ファイルシステム
+から選択します。
+[Macの場合画像]
+外部ビデオ入力デバイスがあなたのMacに接続しているときはそちらが優先的に使用されます。外部デバイスがない場合はMacBookのFaceTimeカメラを使用します。
+iPhoneのローカルの書類フォルダの中にVision Detectorというフォルダがあり、その中に customMessage.tsv という空のTSVファイルが用意されます。
+このファイルにobject detectionの動画処理で表示されるカスタムメッセージを定義することができます。
+(YOLOなどが出力するラベル) (tab) (メッセージ)
+(YOLOなどが出力するラベル) (tab) (メッセージ)
+のように横2列の表データを記述します。
+macOSの場合も同様ですが、Sandboxの仕組みの関係上、
+~/Library/Containers/VisionDetector/Data/Documents/customMessage.tsv
+という場所にファイルがあります。
+※このアプリには機械学習モデルは含まれていません。
+Privacy policy
+このアプリケーションは個人情報を収集したり送信することはありません。
+このアプリケーションは特定の端末や個人と結びつけることができる識別情報を利用しません。
+このアプリケーションはユーザーが要求した場合を除きインターネットへの接続を必要としません。
+このアプリケーションは端末に保存されている写真または画像を利用しますが、利用した画像を保存または送信しません。
+このアプリケーションはカメラの機能を利用しますが、撮影した画像を保存または送信しません。
+プライバシーポリシー制定日　2022年10月1日
+Page updated
+Google Sites
+Report abuse
+This site uses cookies from Google to deliver its services and to analyze traffic. Information about your use of this site is shared with Google. By using this site, you agree to its use of cookies.
+Learn more
+Got it

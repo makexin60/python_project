@@ -1,0 +1,844 @@
+4 - Launch Game
+iOS App Store
+Submission Guide
+On this page
+Before You Submit
+​
+1. Enroll with Apple as an Organization
+​
+For your iOS apps, please
+enroll
+as an organization (not as an individual) with the Apple Developer Program. Apple requires competition skill-based games to be submitted by organizations, only.
+2. Get Production Tester Login
+​
+You need to provide Apple with a Skillz Production login so that they can test Skillz related features. This is to make sure Apple can test the functionality in your game. Without a login, your app may be rejected.
+A test login you can provide them with is:
+Username
+:
+Apple-tester
+Password
+:
+Contact us
+for the Apple tester credentials or reach out to your Skillz account manager
+3. Name Your App
+​
+All Skillz based games must be skill-based. Please refer to our
+recommendations
+on naming your app so that your app will not be mistaken for a chance-based game.
+4. Upload Binaries to Skillz
+​
+Within Xcode, click
+Product -> Archive
+. Select your build and click
+Distribute App
+.
+Follow the prompts to upload to App Store Connect:
+Select
+Export
+as the destination:
+Important: Make sure to
+deselect
+Manage Version and Build Number
+in the distribution options. Deselecting this prevents Xcode from overwriting your set version and build numbers in the main app and in framework dependencies.
+An
+.ipa
+file will be created in you local filesystem. Upload this build to the Skillz Developer Console. Additional information can be found on the
+Going Live with Skillz page
+.
+Make sure the game binary you upload to Skillz is the same exact build as the one you upload to Apple. If you upload different binaries, Skillz Production will not work as a security precaution against unauthorized software.
+Submit Your Game to the iOS App Store
+​
+1. Add a New App by Uploading to App Store Connect
+​
+Xcode now allows the New App creation to be done automatically by pushing your build up to App Store Connect.
+See Apple docs
+here
+on the simplified process of uploading your build and creating the New App if it doesn't already exist.
+Within Xcode, click
+Product -> Archive
+. Select your build and click
+Distribute App
+.
+Follow the prompts to upload to App Store Connect:
+Select
+Upload
+as the destination:
+Important: Make sure to
+deselect
+Manage Version and Build Number
+in the distribution options. Deselecting this prevents Xcode from overwriting your set version and build numbers in the main app and in framework dependencies.
+2. Enter and Edit App Information
+​
+Next, log into
+App Store Connect
+using your developer account to access more information about your app:
+Fill out all required fields, which include the
+Name
+,
+Subtitle
+,
+Privacy Policy URL
+, and
+Primary Category
+. Again, hover over the
+?
+icon for more information about a specific field.
+Click the
+Save
+button after all required information has been entered.
+3. Pricing and Availability
+​
+After saving your changes on the
+App Information
+page, navigate to the
+Pricing and Availability
+page if the website did not automatically load it. Set your price to
+$0
+and make your app available in all territories,
+except
+for People's Republic of China (China), Republic of Korea (South Korea), and Islamic Republic of Iran (Iran).
+As with previous pages, fill out all required information, and hovering over the
+?
+icon for more details about a particular field.
+4. Prepare for Submission
+​
+Now, navigate to the "Prepare for Submission" page. This is where a number of items must be completed before being able to submit your app to await approval from Apple.
+5. App Privacy Questionnaire
+​
+Apple has rolled out a
+new mandatory developer survey
+asking for information about what user data is collected by their app and what this data is used for. Responding to this survey is mandatory for all developers who have an app on the Apple AppStore.
+To aid developers with games developed on the Skillz platform, Skillz has laid out sample responses to this survey based on the collection and usage of user data in the Skillz SDK.
+DISCLAIMER:
+​
+The below responses are the Skillz-recommended declarations if your game uses the Skillz SDK alone and does not use any other 3rd-party SDKs aside from Skillz. If you do use additional 3rd party SDKs, you are responsible to understand how those SDKs collect and use user data in order to properly respond to the questionnaire.
+Questionnaire Structure
+​
+There are two questionnaires that need to be filled out:
+The first questionnaire pertains to WHAT user data is collected.
+The second questionnaire pertains to HOW that data is used.
+Responses to the First Questionnaire: WHAT user data is collected
+​
+Select
+Yes
+to data collection for the following fields for each category:
+Contact info:
+Select “Name”, “Email Address”, “Phone Number”, “Physical Address”
+Health:
+Select NONE
+Financial:
+Select Payment Info ONLY
+Location
+: Precise AND Coarse location
+Sensitive info:
+NONE
+Contacts:
+YES
+User content:
+Select “Photos or videos”, “Gameplay content”, AND “Customer support”
+Browsing history:
+NONE
+Search history:
+NONE
+Identifiers:
+Select “userID” AND “device ID”
+Purchases:
+YES
+Usage data:
+Select “Product interaction” AND “Other usage data”
+Diagnostics:
+Select ALL
+Other data:
+NO
+Responses to the Second Questionnaire: HOW the data is used
+​
+See table below for responses
+6. Upload App Previews and Screenshots
+​
+Be sure to upload app previews (re: videos) and screenshots for required platforms. Screenshots must conform to the exact dimensions listed for each specific platform. An easy way to meet these requirements is to run your app on the Simulator for a platform and selecting the
+New Screenshot
+item from the File menu:
+Here is an example of a screenshot uploaded for the an iPhone with 5.5" screen:
+Refer to the App Store documentation for guidelines on how to produce compelling
+app previews
+and
+screenshots
+in order to create a strong listing for your app.
+7. Set Age Rating
+​
+Select
+NONE
+for all options on the first page:
+Select
+No
+to containing unrestricted web access and
+No
+to instances of gambling
+:
+Select a rating of
+17+
+and select
+Restrict to 17+
+. Note that you may see a warning that some countries will not be eligible to sell your app. Select
+Done
+to complete selections:
+8. Version Release Section
+​
+It is recommended that the
+Manually release this version
+option is selected in the Version Release section as pictured below:
+By controlling when your app is released to the app store, you can ensure that your app's integration with the Skillz SDK has been fully tested, and better coordinate when to publish it on the Skillz Developer Console.
+9. Fill Out Remaining Required Fields
+​
+Be sure to fill out all remaining required fields. Entering these details are fairly straightforward, so they will not be covered in-depth for this article.
+Hover over the "?" icons for more information about a specific field.
+Below is a list of corresponding areas in
+App Store Connect
+for guidance.
+App Information
+​
+Name:
+(30 character limit)
+Subtitle:
+(30 character limit)
+Category:
+Main: Games
+Secondary: Sports, (plus a genre-specific category)
+Privacy Policy URL:
+Use your own URL if you have one. If not, use:
+https://corp.skillz.com/privacy-policy/
+Bundle ID:
+(unique ID set by the app developer for use in Xcode)
+SKU:
+(unique ID set by the app developer, not visible on the store)
+Apple ID:
+(automatically generated by Apple during ITC setup)
+Primary Language:
+(your app’s main language)
+License Agreement:
+(This will typically use Apple Standard agreement)
+Rating:
+(+17 for all Skillz games)
+Version Information
+​
+What’s New:
+(4,000 character limit, used for version updates)
+Promotional Text:
+(170 character limit)
+Keywords:
+(100 character limit)
+Description:
+(4,000 character limit)
+Support URL:
+Use your own URL if you have one, if not, use
+https://skillz.zendesk.com/hc/en-us
+Marketing URL:
+(your company website)
+Screenshots:
+(marketing images to promote your app)
+General App Information
+​
+Copyright:
+(For an original game, this would normally be your company and the first year it was published)
+Trade Representative Contact Information:
+(unchecked)
+Company Contact Information:
+(your own company information)
+Routing App Coverage File:
+(optional, allows the app developer to specify supported regions)
+App Review Information Section
+​
+Sign-in Information:
+Username:
+Apple-tester
+Password:
+go here
+for obtaining the current credentials
+Contact Information:
+(this contact will be notified of any review issues for follow-up)
+Notes:
+In accordance with Section 5.3.4, skill-gaming competitions (powered by Skillz) are geo-restricted to players located where competing for real money in skill-based games is legal. Because the game also includes free tournaments that do not have cash prizes, the app can be accessed from anywhere but users in prohibited jurisdictions are blocked from entering real money competitions.
+In accordance with Section 3, the game’s multiplayer functionality allows players to deposit money into an account for competing against other players for real prizes (where allowed by law). The deposited money is not a virtual good and cannot be used for the purchase of virtual goods.
+Attachment:
+(not usually needed)
+10. Export Compliance Information
+​
+The Export Compliance Information question asks if your game uses cryptography. Choose Yes as the Skillz SDK leverages HTTPS for its traffic.
+11. Submit for Review
+​
+Click the "Submit for Review" button. It typically takes
+24-48 hours
+for an app to be reviewed. However, this could take longer if your submission has incomplete or missing information.
+You can view the status of your app submission in the
+My Apps
+section of the iTunes Connect site.
+Please refer to the
+App Store Review Guidelines
+for more information, especially if your app submission was rejected.
+12. Add App ID to Developer Console
+​
+Once your submission is approved, remember to enter your app's
+App ID
+in the Skillz Developer Console for your app.
+Handling Submission Rejections
+​
+In the event that your submission is rejected by Apple, please refer to this
+article
+on common App Store rejections, and recommended responses.
+Note on Apple Silicon Macs
+​
+The Skillz SDK does not yet support running apps on the the Apple Silicon Macs. Apple makes your app available to this platform by default. In App Store Connect go to the General -> Pricing and Availability section and then un-check the “Make this app available” under the iPhone and iPad Apps on Apple Silicon Macs. Save the change with the button at the top right.
+Sub-section Policy: 
+Sub-policy 0
+https://corp.skillz.com/privacy-policy/:
+We value your privacy
+We use cookies to enhance your browsing experience, serve personalized ads or content, and analyze our traffic. By clicking "Accept All", you consent to our use of cookies.
+Reject All
+Accept All
+Effective Date: 2/29/24
+Introduction
+Skillz.com ("we," "us," or "our") uses cookies on our website (the "Service"). By using the Service, you consent to the use of cookies. Our Cookie Policy explains what cookies are, how we use cookies, how third-parties we may partner with may use cookies on the Service, your choices regarding cookies, and further information about cookies. Cookies do not typically contain any information that personally identifies a user, but personal information that we store about You may be linked to the information stored in and obtained from Cookies. For further information on how we use, store and keep your personal data secure, see our Privacy Policy. We do not store sensitive personal information, such as mailing addresses, account passwords, etc. in the Cookies we use.
+...
+Show more
+No cookies to display.
+No cookies to display.
+No cookies to display.
+No cookies to display.
+No cookies to display.
+Privacy Policy
+Effective Date: June 13, 2022
+At Skillz Inc. (
+“Skillz”, “we”, “us” or “our”
+), we take your privacy and the security of your information very seriously. Skillz operates a platform, which we make available through our website at skillz.com (our
+“Site”
+), through which we provide technology services and access to our SDK to allow independent game developers to host tournaments and provide competitive gaming functionalities to end-users (collectively, the
+“Services”
+). This Privacy Policy (
+“Privacy Policy”
+) sets out how we collect and process information that identifies or is associated with you (your
+“personal information”
+) when you access our Site or play a game (a
+“Developer Game”
+) published by an independent game developer that uses our Services (a
+“Developer”
+). If you have any questions regarding this Privacy Policy, please contact us at
+support@skillz.com
+.
+1. REGION-SPECIFIC DISCLOSURES
+We may choose or be required by law to provide different or additional disclosures relating to the processing of personal information about residents of certain countries, regions or states. If you are resident in the State of California in the United States, please refer to [
+Annex 1
+] for additional California-specific privacy disclosures. If you are resident in the State of Nevada in the United States, Chapter 603A of the Nevada Revised Statutes permits a Nevada resident to opt out of future sales of certain covered information that a website operator has collected or will collect about the resident. To submit such a request, please contact us at
+support@skillz.com
+. If you are resident in the European Economic Area or the United Kingdom, please refer to [
+Annex 2
+] for additional EEA-specific privacy disclosures.
+2. SPECIAL NOTICE REGARDING MINORS UNDER 18 YEARS OF AGE
+Skillz respects the privacy of children. The Services are not intended or directed towards children or minors under the age of 18. Please do not use the Services if you are under the age of 18. Skillz is intent on complying with applicable laws and regulations regarding minors, including the United States’ Children’s Online Privacy Protection Act. Specifically, Skillz does not knowingly solicit or collect personal information from individuals under 18. If we learn that any personal information has been collected inadvertently from a child, we will delete the information as soon as possible. If you believe that we might have collected information from a child, please send an email to
+support@skillz.com
+.
+3. INFORMATION WE COLLECT WHEN YOU USE OUR SITE AND OUR SERVICES AS A GAME DEVELOPER
+3.1 Personal Information you provide directly to us, which may include:
+We collect the following personal information you provide when you use our Site and our Services:
+Login and contact information
+, such as your name, phone number, email address and password.
+Your employment information
+, such as the name of your employer and job title.
+The Services you use.
+The Developer Game
+for which you use our Services, and the website at which you promote it or make it available for download.
+Chat, comments and opinions.
+When you contact us directly, e.g. by email or phone we will record your comments and opinions.
+Marketing and Communications Preferences
+, such as your preferences in receiving marketing from us and your communication preferences, such as the language in which you choose to communicate with us.
+The country from which you access our Services.
+3.2 Personal Information that is passively collected when you use the Sites or Services:
+We collect certain personal information automatically when you use our Services, including:
+Log File Data
+, including your internet protocol (IP) address, operating system, browser type, browser ID, date/time of visit, and pages visited.
+Analytics Data
+, including the electronic path you take to our Services, through our Services and when exiting our Services, as well as your usage and activity on our Services, such as the links and objects you view, click or otherwise interact with (also known as “clickstream data”).
+Approximate Location Data
+, including your general geographic location based on your IP address.
+3.3 How we use this information:
+We use personal information we collect to:
+Register and authenticate you
+: we use your personal information to allow you to register for and access our Services and update your profile information.
+Provide our Services
+: we use your personal information to provide you with our Services, including providing support services and allowing you to incorporate our SDK into your Developer Game, and to customize the user experience (such as the language in which our Services are provided to you and the time zone in which you record your activities using our Services).
+Monitor the performance of and improve our Services
+: we use your personal information to measure the performance of our Services, fix issues, improve and otherwise develop the features and functionalities of our Services. We also use your personal information to test and develop new products and services.
+Inform our product roadmapping and marketing
+: we use your personal information to gauge market interest to assist in product roadmapping, positioning and inform and tailor our marketing.
+Communicate with you and deal with complaints
+: we use your personal information to send you communications relating to our Services and to address any comments or complaints you submit to us.
+Send you marketing materials
+, including emails, newsletters, and other marketing communications in accordance with your preferences.
+Maintain the safety and security of our Services
+: we use your personal information to detect and prevent fraud, cheating, abuse or other harmful activities, diagnose and fix technology problems, conduct security investigations and risk assessments, and improve and enforce our security measures.
+Legal and regulatory requirements and proceedings
+: we use your personal information in connection with legal and regulatory proceedings and requirements, including the defense of legal claims, compliance with corporate reporting obligations, and compliance with applicable laws.
+Enforce our rights
+: we may use your personal information to monitor, investigate, prevent and/or mitigate violations of our terms of use as well as enforce our agreements with third parties and business partners.
+For any other lawful purpose, or other purpose that you consent to.
+4. INFORMATION WE COLLECT WHEN YOU PLAY A DEVELOPER GAME AS A USER
+4.1 Personal Information you provide directly in the Developer Game:
+We may collect the following personal information that you input when you play a Developer Game:
+Contact information
+, such as your name, username, phone number, email address and physical address.
+Your date of birth.
+Payment information
+, such as the form of payment you use, payment method details (such as credit or debit card number).
+Demographic data
+, such as your income and other financial information.
+Identification documents
+, such as passport or driving license.
+Your precise location and the contacts saved on your device
+, when you agree, through your device settings, to allow the Developer Game to access this information.
+Any photos that you upload to your profile.
+Chat, comments and opinions
+that you send through any in-app messaging features, or when you submit requests for in-app technical support.
+In-app searches
+that you carry out within the Developer Game.
+Transaction and purchase information
+, such as any cash top-ups that you make in the Developer Game and the frequency with which you top-up your account in the Developer Game.
+4.2 Personal Information that is passively collected when you play a Developer Game:
+Phone contacts
+that you have stored on the mobile device from which you access a Developer Game.
+Approximate Location Data
+, including your general geographic location based on your IP address.
+Gameplay content
+, including recordings of your gameplay and performance records.
+User ID
+that you are automatically assigned in connection with your access to a Developer Game.
+Device IDs
+, such as IDFA and Android ID.
+Usage Data
+, including the time you launched the Developer Game, the pages and content viewed, any adverts that you viewed and clicked on, the objects and links you clicked on and interacted with, and scrolling information.
+Diagnostics Data
+, including any crash logs and usage and performance statistics.
+SMS consent and phone numbers,
+provided for SMS purposes will not be shared with any third parties or affiliates for marketing purposes.
+4.3 How we use this information:
+We use personal information we collect to:
+Register and authenticate you
+: we use your personal information to allow you to register for and access Developer Games and update your profile information.
+Ensure you are able to play a Developer Game
+: we use your personal information to ensure that you are legally able to access and play a Developer Game, or use certain features and functionalities of a Developer Game, in your country or state.
+Deliver physical prizes
+: we use your personal information to provide you with any physical prizes that you win when playing Developer Games. In some cases, we may provide your email address or physical address to prize fulfillment partners for the purpose of fulfilling the prize.
+Help you find other players on Developer Games
+, such as people whose details are saved in your phone contacts.
+Process your payments and purchases
+, such as updating your account to reflect any purchases that you make in a Developer Game.
+Provide features and functionalities of the Developer Game
+, such as in-app messaging, chat, gameplay performance records and profile customization features.
+Provide support
+in relation to Developer Games.
+Monitor the performance of and improve our Services
+: we use your personal information to measure the performance of our Services, fix issues, improve and otherwise develop the features and functionalities of our Services. We also use your personal information to test and develop new products and services.
+Identify how you learned about a Developer Game
+in order to understand the effectiveness of any advertising of Developer Games.
+Communicate with you and deal with complaints
+: we use your personal information to send you communications relating to our Services and to address any comments or complaints you submit to us.
+Send you service related communications
+, such as purchase confirmations.
+Send you marketing materials
+, including emails, newsletters, and other marketing communications in accordance with your preferences.
+Inform and support our marketing
+, including helping us determine products and services that may be of interest to you and contacting individuals about our Services.
+Maintain the safety and security of our Services
+: we use your personal information to detect and prevent fraud, abuse or other harmful activities, diagnose and fix technology problems, conduct security investigations and risk assessments, and improve and enforce our security measures.
+Legal and regulatory requirements and proceedings
+: we use your personal information in connection with legal and regulatory proceedings and requirements, including the defense of legal claims, compliance with corporate reporting obligations, and compliance with applicable laws.
+Enforce our rights
+: we may use your personal information to monitor, investigate, prevent and/or mitigate violations of our terms of use as well as enforce our agreements with third parties and business partners.
+For any other lawful purpose, or other purpose that you consent to.
+5. SHARING OF PERSONAL INFORMATION COLLECTED FROM YOU
+5.1
+Skillz may transfer personal information to third parties for the purpose of providing the Services. We may disclose personal information to our appropriate affiliates, including third-party service providers, to provide you with the Services. These third-party service providers are not authorized to retain, share, store or use the personal information for any purposes other than to provide the services they have been hired to provide. The service providers we may share your information with include:
+Marketing and Attribution Partners
+– our marketing service providers help us with campaign support, attribution and analytics to help us identify and attribute user referrals between Developer Games.
+Customer relationship, service and support partners
+– these service providers help support our customer relationships, from our developers to end users of our developer’s applications.
+Billing and payment providers
+– these service providers offer billing and financial administration, as well as payment support.
+Analytics providers
+– these service providers help generate statistics about our Site usage, game play and other data that helps us provide the best services to our customers.
+Cloud Hosting Service Provider
+– Amazon Web Services Inc., is our cloud hosting service provider.
+5.2
+Certain personal information is transmitted to a third-party service provider for the purpose of processing any payments. The transmission of your payment information is automatic, and at no point do we, or any of our agents or employees, have the ability to review, access or retain such payment information. For more information on how your payment information is processed, please see the terms and conditions of our third-party service provider at
+https://www.fisglobal.com/terms-of-use
+and their privacy policy available at
+https://www.fisglobal.com/privacy
+. If you elect to process payments using your PayPal account, your payments will be subject to PayPal’s terms of service, located at
+https://www.paypal.com/us/webapps/mpp/ua/useragreement-full
+, and PayPal’s Privacy Policy available at
+https://www.paypal.com/us/webapps/mpp/ua/privacy-full
+.
+5.3
+Skillz may also elect to transfer your personal information to third parties under special circumstances: (i) to comply with a legal requirement, judicial proceeding, court order, or legal process served on Skillz; (ii) to investigate a possible crime, such as fraud or identity theft; (iii) in connection with the sale, purchase, merger, reorganization, liquidation or dissolution of Skillz; (iv) when we believe it is necessary to protect the rights, property, or safety of Skillz or other persons; (v) as otherwise required or permitted by law, including any contractual obligations of Skillz; or (vi) with your prior authorization.
+6. ACCOUNT SECURITY
+The security of your account relies on your protection of your password and mobile device. You are responsible for maintaining the security of your password and mobile device. You are solely responsible for any and all activities that occur under your account. You may not share your password with anyone. We will never ask you to send your password or other sensitive information to us in an email, though we may ask you to enter this type of information on the Skillz SDK interface. Any email or other communication requesting your password or asking you to provide sensitive account information via email should be treated as unauthorized and suspicious and should be reported to us immediately at
+support@skillz.com
+. If you do share your password or your mobile device with a third party for any reason, the third party will have access to your account and your personal information, and you may be responsible for actions taken using your password. If you believe someone else has obtained access to your password, please change it immediately. If you believe that an unauthorized access has already occurred please report it immediately at
+support@skillz.com
+.
+7. POSTINGS TO PUBLIC FORUMS
+All postings in Skillz public forums will generally be available to, and freely accessible by, other users of the Skillz public forums as well as the internet’s general public. Therefore, users should not expect that any information they post will be kept private or confidential and are encouraged to exercise discretion when using the public forums. Additionally, your username, which you can change, will always be included in conjunction with your postings in the public forums. Skillz is not responsible for events arising from the distribution of any information you choose to publicly post or share through the forums. All information or materials uploaded by you while utilizing the Services is subject to our Terms of Service.
+8. MARKETING
+From time to time, we may contact you with relevant information about our Services. Most messages we send will be by email. For some messages, we may use personal information we collect about you to help us determine the most relevant information to share with you. You can change your marketing preferences by clicking on the unsubscribe link at the bottom of our emails.
+9. THIRD PARTY DATA COLLECTION AND ONLINE ADVERTISING
+We participate in interest-based advertising and use third-party advertising companies to serve you targeted advertisements based on your browsing history. We permit third-party online advertising networks, social media companies and other third-party services, to collect information about your use of our online services over time so that they may play or display ads on our Services, on other websites or services you may use, and on other devices you may use. Typically, though not always, the information used for interest-based advertising is collected through tracking technologies, such as cookies, web beacons, embedded scripts, location-identifying technologies, and similar technology, which recognize the device you are using and collect information, including click stream information, browser type, time and date you visited the site, AdID, precise geolocation and other information. We may share a common account identifier (such as a hashed email address or user ID) with our third-party advertising partners to help identify you across devices. We and our third-party partners use this information to make the advertisements you see online more relevant to your interests, as well as to provide advertising-related services such as reporting, attribution, analytics and market research. We may also use services provided by third parties (such as social media platforms) to serve targeted ads to you and others on such platforms. We may do this by providing a hashed version of your email address or other information to the platform provider. Please see “Your Choices About Online Ads” below, to learn more about interest-based advertising.
+9.1 Your Choices About Cookies
+If you would prefer not to accept cookies, most browsers will allow you to change the setting of cookies by adjusting the settings on your browser to: (i) notify you when you receive a cookie, which lets you choose whether or not to accept it; (ii) disable existing cookies; or (iii) set your browser to automatically reject cookies. Be aware that disabling cookies may negatively affect the functionality of this and many other websites that you visit. Disabling cookies will usually result in also disabling certain functionalities and features of the Services. Depending on your device and operating system, you may not be able to delete or block all cookies. In addition, if you want to reject cookies across all your browsers and devices, you will need to do so on each browser on each device you actively use. You may also set your email options to prevent the automatic downloading of images that may contain technologies that would allow us to know whether you have accessed our email and performed certain functions with it. If you are accessing the Site from the UK or EEA, we will only use cookies (other than cookies that are strictly necessary for the provision of the Services) to the extent you give us your consent to do so. Please see our cookie policy for more information about the cookies we use on our Site.
+9.2 Your Choices About Online Ads
+To learn more about interest-based advertising and how you may be able to opt-out of some of this advertising, you may wish to visit the Digital Advertising Alliance’s (DAA) and/or the Network Advertising Initiative’s (NAI) online resources, at
+www.aboutads.info/choices
+or
+http://www.networkadvertising.org/choices/
+and you can opt-out of receiving some interest-based advertisements on mobile apps by visiting
+http://www.aboutads.info/appchoices
+. You may also be able to limit interest-based advertising through the settings menu on your mobile device by selecting “limit ad tracking” (iOS) or “opt-out of interest-based ads” (Android). You may also be able to opt-out of some — but not all — interest-based advertising served by mobile ad networks by visiting
+http://youradchoices.com/appchoices
+and downloading the mobile AppChoices app. Please note that when you opt out of receiving interest-based advertisements, this does not mean you will no longer see advertisements from us or on our online services. It means that the online ads that you do see from DAA program participants should not be based on your interests. We are not responsible for the effectiveness of, or compliance with, any third-parties’ opt-out options or programs or the accuracy of their statements regarding their programs. In addition, third parties may still use cookies to collect information about your use of our online services, including for analytics and fraud prevention as well as any other purpose permitted under the DAA’s principles.
+10. MAINTAINING AND UPDATING YOUR ACCOUNT INFORMATION
+As part of your use of the Services, you are responsible for maintaining and updating, as applicable, your account information with current and complete information. You may edit and delete portions of your account information. To do this, select “My Account” in the main menu and choose which information to edit or delete. You can also delete your Skillz account entirely. To do this, select “Help Center” in the main menu. Further select “Contact Us” and select “Disable Account” to request for your account to be deleted. After receiving any requested changes to your account information or personal information, we will make reasonable efforts to ensure that all of your personal information stored in databases we actively use to operate the Services will be updated, corrected, changed, or deleted as appropriate, as soon as reasonably practicable. However, we reserve the right to retain in our archival files any information we remove from or change in our active databases, subject to any obligations under any applicable law. Where permissible, we may retain such information to resolve disputes, troubleshoot problems, and enforce our Terms of Service. In addition, it may not be technologically possible to remove every record of the information you have previously provided us, as a copy may exist in a non-erasable form that will be difficult or impossible for us to locate.
+11. EFFECTIVE DATE; POLICY CHANGES
+Our business changes frequently and this Privacy Policy is subject to change from time to time. If we make any material changes to this Privacy Policy, we will notify individuals by email to their registered email address, by prominent posting on our Service, or through other appropriate communication channels. We will also update the “Effective Date” at the beginning of this Privacy Policy.
+12. CONTACT US
+To contact us with your questions or comments regarding this Privacy Policy or the information collection and dissemination practices of the Skillz SDK, please email us at
+support@skillz.com
+.
+ANNEX 1 CALIFORNIA PRIVACY DISCLOSURES
+These additional California Privacy Disclosures (the
+“CA Disclosures”
+) supplement the information contained in our
+Privacy Policy
+and apply solely to individual residents of the State of California (
+“consumers” or “you”
+). These CA Disclosures provide additional information about how we collect, use, disclose and otherwise process personal information of individual residents of the State of California, either online or offline, within the scope of the California Consumer Privacy Act of 2018 (
+“CCPA”
+). Unless otherwise expressly stated, all terms in these CA Disclosures have the same meaning as defined in our
+Privacy Policy
+or as otherwise defined in the CCPA. For purposes of these CA Disclosures,
+“personal information”
+has the meaning provided by the CCPA and does not include information that is publicly available, that is deidentified or aggregated such that it is not capable of being associated with us, or that is excluded from the CCPA’s scope. This section does not apply to information relating to our employees, contractors, and other personnel.
+1. COLLECTION AND USE OF PERSONAL INFORMATION
+We collect personal information from and about you for a variety of purposes, as described in the
+Information We Collect When You Use Our Site and Services
+and the
+Information We Collect When You Play A Developer Game as a User
+sections of the
+Privacy Policy
+. In the last 12 months, we have collected the following categories of personal information:
+When You Use Our Site and Services:
+Identifiers
+, such as your name, phone number, email address, password, country, or other similar identifiers;
+Commercial information
+, such as records of services purchased, obtained or considered, this also includes the Developer Game for which you use our Services and the website at which you promote it or make it available;
+Internet/Network information
+, such as device information, logs and analytics data;
+Geolocation data
+, such as approximate location data generated based on your IP address or other information;
+Sensory Information
+, including recordings of phone calls between you and us, where permitted by law.
+Professional/Employment Information
+, such as the business or organization you represent, your title with that business or organization and information relating to your role with the business or organization, job application information, professional websites URLs (e.g. LinkedIn), and other details contained in your resume;
+Other personal information
+, including communication preferences, customer service and communications history, personal information you permit us to see when interacting with us through social media, and personal information you provide us in relation to a question, request, inquiry, survey, contest or promotion; and
+Inferences
+about your interests and preferences, including marketing preferences, generated from your use of our sites;
+When You Play A Developer Game
+Identifiers
+, such as your name, address, phone number, email address, date of birth, profile photos, or other similar identifiers;
+California customer records
+, such as payment information, passport, or driver’s license;
+Commercial information
+, such as records of services purchased, form of payment you use, payment method details (such as credit or debit card number);
+Internet/Network information
+, such as device information, logs and analytics data (including in-app searches);
+Geolocation data
+, including your precise location data (with your consent) and approximate location data generated based on your IP address or other information;
+Sensory Information
+, including recordings of phone calls between you and us, where permitted by law;
+Other personal information
+, including contacts saved on your device (with your consent), communication preferences, customer service and communications history, personal information you permit us to see when interacting with us through social media, and personal information you provide us in relation to a question, request, inquiry, survey, contest or promotion; and
+Inferences
+about your interests and preferences, generated from your use of our sites.
+We collect this information directly from you, from our business partners and affiliates, from your browser or device when you visit our websites, or from third parties that you permit to share information with us.
+2. SOURCES OF PERSONAL INFORMATION
+As described in the
+Information We Collect When You Use Our Site and Services
+and the
+Information We Collect When You Play A Developer Game as a User
+sections of the
+Privacy Policy
+, we collect personal information directly from you when you provide it to us, automatically when you visit our websites and other online services, and from service providers and other third parties. For representatives of our clients, vendors, service providers and other third parties, we also collect personal information directly from you and from the entity you represent.
+3. PURPOSES FOR COLLECTING PERSONAL INFORMATION
+We collect personal information about you for the purposes described in the
+How We Use This Information
+section of the
+Privacy Policy
+. For representatives of our clients, vendors, service providers and other third parties, we also collect your personal information to maintain an ongoing relationship between us and the entity you represent and to contact you in connection with our relationship with the entity you represent.
+4. RECIPIENTS OF PERSONAL INFORMATION
+As described in the
+Sharing of Personal Information Collected from You
+section of our
+Privacy Policy
+, we share personal information within the Skillz group of companies and with a variety of third parties. For representatives of our clients, vendors, service providers and other third parties, we also share your personal information with the entity you represent.
+5. SALE OF PERSONAL INFORMATION
+As is common practice among companies that operate online, we allow certain third-party advertising networks, social media companies and other third-party businesses to collect and disclose your personal information (including Internet / Network Information, Commercial Information, and Inferences) directly from your browser or device through cookies or tracking technologies when you visit or interact with our websites, use our apps or otherwise engage with us. These third parties use your personal information for purposes of analyzing and optimizing our Services and advertisements on our Site, on other websites or mobile apps, or on other devices you may use, or to personalize content and perform other advertising-related services such as reporting, attribution, analytics and market research. These third-party businesses may use such information for their own purposes in accordance with their own privacy statements, and may sell the information to third parties, including other advertising networks, for advertising and other purposes. To opt out from sales of this type of Personal Information, you may do so by visiting
+/do-not-sell-my-information/
+.
+6. YOUR CALIFORNIA PRIVACY RIGHTS
+As a California resident, you may be able to exercise the following rights (subject to certain limitations at law):
+The
+Right to Know
+any or all of the following information relating to your personal information we have collected and disclosed in the last 12 months, upon verification of your identity:
+The specific pieces of personal information we have collected about you;
+The categories of personal information we have collected about you;
+The categories of sources of the personal information;
+The categories of personal information that we have disclosed to third parties for a business purpose, and the categories of recipients to whom this information was disclosed;
+The categories of personal information we have sold and the categories of third parties to whom the information was sold; and
+The business or commercial purposes for collecting or selling the personal information.
+The
+Right to Request Deletion
+of personal information we have collected from you, subject to certain exceptions (please note that we may be unable to provide you with access to our services if you choose to delete certain personal information, but we will always let you know if that is the case).
+The
+Right to Opt Out of Personal Information Sales
+to third parties now or in the future.
+You also have the right to be free of discrimination for exercising these rights. However, please note that if the exercise of these rights limits our ability to process personal information (such as in the case of a deletion request), we may no longer be able to provide you our products and services or engage with you in the same manner.
+How to Exercise Your California Privacy Rights
+You may submit a request to exercise your California Consumer Rights by emailing us at
+support@skillz.com
+or by calling 1-(877) 639-7133. Before processing your request, we will need to verify your identity and confirm you are a resident of the State of California. In order to verify your identity, we will generally either require the successful authentication of your membership, or the matching of sufficient information you provide us to the information we maintain about you in our systems. This process may require us to request additional personal information from you, including, but not limited to, your email, address, and phone number. In certain circumstances, we may decline a request to exercise the rights described above, particularly where we are unable to verify your identity or locate your information in our systems. If we are unable to comply with all or a portion of your request, we will explain the reasons for declining to comply with the request.
+Authorized Agents
+In certain circumstances, California residents are permitted to use an authorized agent to submit requests to know or delete personal information on their behalf through the designated methods set forth in this Notice, where we can verify the authorized agent’s authority to act on their behalf by:
+receiving a power of attorney valid under the laws of California from the consumer or their authorized agent; or
+receiving sufficient evidence to show that the consumer has:
+provided the authorized agent signed permission to act on their behalf;
+verified the consumer’s own identity directly with us pursuant to the procedures set forth in these CA Disclosures; and
+directly confirmed with us that the consumer provided the authorized agent permission to submit the request on their behalf.
+California’s Shine the Light
+California’s “Shine the Light” law (Civil Code Section §1798.83) provides certain rights to California residents that have an established business relationship with us with regard to the disclosure of certain types of personal information to third parties for their direct marketing purposes. To opt-out of having your personal information disclosed to third parties for their direct marketing purposes, please contact us at
+support@skillz.com
+and provide your contact information to be added to our suppression list.
+ANNEX 2 EUROPEAN AND UK PRIVACY DISCLOSURES
+These European and UK Privacy Disclosures supplement the information contained in our
+Privacy Policy
+, and apply to our processing of your personal information where you are based in the EEA or UK. For the purposes of EEA and UK data protection laws, Skillz is a controller of the personal information that we receive from you as described in this
+Privacy Policy
+. This means that we are responsible for, and control the processing of this personal information. The following tables set out further detail about the categories of personal information we collect about you and how we use that personal information, as well as the legal basis which we rely on to process the personal information and recipients of that data. We will indicate to you where the provision of certain personal information is required in order for us to provide you certain features of our Services. If you choose not to provide such personal information, we may not be able to provide those parts of our Services to you or respond to your other requests.
+1. INFORMATION WE COLLECT WHEN YOU USE OUR SITE AND OUR SERVICES
+1.1 Personal Information you provide to us:
+Category of Personal Information
+How We Use the Personal Information
+Legal Basis for Processing
+Login and contact information
+, such as your name, phone number, email address and password.
+We use this information to register you as a new user, set up an account for you on our Services and allow you to log in to our Services.
+We use this information to communicate with you, including sending service-related communications.
+We use this information to send you unsolicited marketing communications in accordance with your preferences.
+The processing is necessary for the performance of a contract with you and to take steps prior to entering into a contract with you.
+The processing is necessary for the performance of a contract with you.
+We will only use your personal information in this way to the extent you have given us consent to do so.
+Your employment information
+, such as the name of your employer and job title.
+We use this information to associate your account with other Developer Games created by your employer.
+The processing is necessary for your, our and your employer’s legitimate interests, namely administering your employer’s account.
+The Developer Game
+for which you use our Services, and the website at which you promote it or make it available for download.
+We use this information to give you access to app statistics and information, technical services and support in relation to your Developer Game and your use of our SDK.
+The processing is necessary for the performance of a contract with you.
+Chat, comments and opinions.
+When you contact us directly, e.g. by email or phone we will record your comments and opinions.
+We use this information to address your questions, issues and concerns.
+We use this information to develop existing products and create new products or otherwise improve our Services.
+The processing is necessary for our legitimate interests, namely communicating with users and responding to queries, complaints and concerns.
+The processing is necessary for our legitimate interests, namely to develop our products/Services.
+Marketing and Communications Preferences
+, such as your preferences in receiving marketing from us and your communication preferences, such as the language in which you choose to communicate with us.
+We use this information to provide notifications, send news, alerts and marketing communications and we do this in accordance with your choices.
+We use this information to ensure that we comply with our legal obligation to send only those marketing communications to which you have consented.
+The processing is necessary for our legitimate interest, namely ensuring the user receives the correct marketing and other communications in accordance with the user’s preferences.
+The processing is necessary for compliance with a legal obligation to which we are subject.
+The country from which you access our Services.
+We use this information to gauge market interest in different geographic regions to assist in product roadmapping, positioning and inform and tailor our marketing.
+The processing is necessary for our legitimate interests, namely to tailor our Services to our users.
+All personal information set out above.
+We use all the personal information we collect to communicate with you, to monitor, operate, maintain and improve our technology and related services and business and to help us develop new products and services.
+The processing is necessary for our legitimate interests, namely to administer and improve our Services
+1.2 Personal Information we collect from you automatically:
+Category of Personal Information
+How We Use the Personal Information
+Legal Basis for Processing
+Approximate location information.
+Other than information you choose to provide to us, we do not collect information about your precise location. Your device’s IP address may however help us determine an approximate location.
+We use information you provide to us about your location to inform and plan our marketing strategy and to monitor and detect fraud or suspicious activity in relation to your account.
+We use this information to tailor how our website is displayed to you (such as the language in which it is provided to you and the time zone in which you record your activities using our services).
+The processing is necessary for our legitimate interests, namely informing our direct marketing strategy.
+The processing is necessary for our legitimate interest, namely tailoring our service so that it is more relevant to our users.
+Information about how you access and use our website, products and services.
+For example, how frequently you access our services, the time you access our services and how long you use it for, the approximate location that you access our website from, whether you access our website from multiple devices, and other actions you take on our website.
+We use information about how you use and connect to our website to tailor how we present our website to you on your device.
+We use this information to determine products and services that may be of interest to you for marketing purposes.
+We use this information to monitor and measure the performance of our Services.
+The processing is necessary for our legitimate interests, namely to tailor our website and services to the user.
+The processing is necessary for our legitimate interests, namely to inform our direct marketing.
+The processing is necessary for our legitimate interests (for running our business, provision of administration and IT services and network security).
+Log files and information about your device.
+We also collect information about the computer, tablet, smartphone or other electronic device you use to connect to our products and services. This information can include details about the operating systems, browsers and applications connected to our website and your IP address.
+We use this information to improve our website, products/services, marketing, customer relationships and experiences.
+The processing is necessary for our legitimate interests (to define types of customers for our products and services, to keep our website updated and relevant, to develop our business and to inform our marketing strategy).
+2. INFORMATION WE COLLECT WHEN YOU PLAY A DEVELOPER GAME
+2.1 Personal Information you provide directly in the Developer Game:
+Category of Personal Information
+How We Use the Personal Information
+Legal Basis for Processing
+Contact information
+, such as your name, username, phone number, email address and physical address.
+We use this information to register you as a new user, set up an account for you on the Developer Game and allow you to log in to other Developer Games.
+We use this information to communicate with you, including sending service-related communications.
+We use this information to send you marketing communications about our Services and the Developer Game in accordance with your preferences.
+We use this information to send you physical prizes that you win when playing Developer Games.
+The processing is necessary for the performance of a contract with you.
+The processing is necessary for the performance of a contract with you.
+We will only use your personal information in this way to the extent you have given us consent to do so.
+The processing is necessary for the performance of a contract with you.
+Date of birth
+We use this information to verify that you meet the minimum age criteria to play Developer Games.
+The processing is necessary for the performance of a contract with you.
+Transaction and payment information
+, such as the form of payment you use, payment method details (such as credit or debit card number), the cash top-ups that you make in the Developer Game and the frequency with which you top-up your account in the Developer Game. item / top-up bought, payment method details and payment authentication.
+We use this information to process your purchases and transactions on Developer Games.
+We use this information to identify and prevent fraud.
+We use this information to identify and prevent addictive behavior.
+The processing is necessary for the performance of a contract with you.
+The processing is necessary for our legitimate interests, namely the identification and prevention of fraud.
+The processing is necessary for our legitimate interests, namely identifying and preventing addictive behavior by our users.
+Identification documents
+, such as passport or driving license.
+We may ask you to provide these in order to verify your identity if we suspect that your account is being used fraudulently.
+The processing is necessary for our legitimate interests, namely identifying and preventing fraud.
+Demographic data
+, such as your income or other financial information.
+We use this information to measure the effectiveness of our marketing and inform our marketing strategies.
+The processing is necessary for our legitimate interests, namely informing our marketing strategy.
+Any photos that you upload to your profile.
+We use this information to personalize your profile across Developer Games.
+We will only process this personal information in this way to the extent you give us your consent to do so.
+Chat, comments and opinions
+that you send through any in-app messaging features, or when you submit requests for in-app technical support.
+We use this information to address your questions, issues and concerns through the in-game support feature.
+We use this information to provide you with the chat functionality in the Developer Game.
+The processing is necessary for our legitimate interests, namely communicating with users and responding to queries, complaints and concerns.
+The processing is necessary for the performance of a contract.
+In-app searches
+that you carry out within the Developer Game, such as searches for other users or events / tournaments.
+We use this information to provide the search functionalities of the Developer Games.
+The processing is necessary for the performance of a contract.
+Chat, comments and opinions.
+When you contact us directly, e.g. by email or phone we will record your comments and opinions.
+We may use this information to address your questions, issues and concerns.
+We may use this information to develop existing products and create new products or otherwise improve our Services.
+The processing is necessary for the performance of a contract.
+The processing is necessary for our legitimate interests, namely to develop our products/Services.
+Marketing and Communications Preferences
+, such as your preferences in receiving marketing from us and your communication preferences, such as the language in which you choose to communicate with us.
+We use this information to provide notifications, send news, alerts and marketing communications and in accordance with your choices.
+We use this information to ensure that we comply with our legal obligation to send only those marketing communications to which you have consented.
+The processing is necessary for our legitimate interest, namely ensuring the user receives the correct marketing and other communications in accordance with the user’s preferences.
+The processing is necessary for compliance with a legal obligation to which we are subject.
+All personal information set out above.
+We may use all the personal information we collect to communicate with you, to monitor, operate, maintain and improve our technology and related services and business and to help us develop new products and services.
+The processing is necessary for our legitimate interests, namely to administer and improve our Services.
+2.2 Personal Information we collect automatically when you play a Developer Game:
+Category of Personal Information
+How We Use the Personal Information
+Legal Basis for Processing
+The contacts saved on your phone
+We use this information to allow you to find your friends on Developer Games.
+We use this information to communicate with your contacts about our products and services.
+We will only process your personal information in this way to the extent you give us your consent to do so.
+The processing is necessary for our legitimate interests, namely promoting our Services.
+Approximate location information.
+Your device’s IP address may help us determine your approximate location (such as the country or city you are in).
+We use information about your location to inform and plan our marketing strategy and to monitor and detect fraud or suspicious activity in relation to your account.
+We use this information to tailor how Developer Games are displayed to you (such as the language in which it is provided to you and the time zone in which you record your activities using our services).
+The processing is necessary for our legitimate interests, namely informing our direct marketing strategy.
+The processing is necessary for our and the Developer’s legitimate interests, namely tailoring our services and the Developer Game so that it is more relevant and accessible to users.
+Gameplay content
+, including recordings of your gameplay and performance records.
+We use this information to display your gameplay statistics, highscores, win records, streaks and past records on the Developer Game.
+We use this information to identify and prevent cheating or fraud in the use of the Developer Games.
+We use gameplay statistics and recordings in connection with the promotion of our Service and the Developer Game.
+The processing is necessary for the performance of a contract with you.
+The processing is necessary for our and the Developer’s legitimate interests, namely the detection and prevention of fraud and cheating.
+The processing is necessary for our and the Developer’s legitimate interests, namely the promotion of our Service and the Developer Game.
+Device IDs
+, such as IDFA and Android ID
+We use this information to track and measure the effectiveness of any advertising and cross-promotion between Developer Games.
+We will only use this personal information in this way to the extent you have given us your consent to do so.
+User ID
+, that you are automatically assigned in connection with your access to a Developer Game.
+We use this information to authenticate you and grant you access to your profile and purchases across Developer Games.
+We link this information to information about your use of the Developer Games to determine products and services that may be of interest to you.
+The processing is necessary for the performance of a contract.
+The processing is necessary for our legitimate interests, namely to inform our marketing.
+Usage Data
+, including the time you launched the Developer Game, the pages and content viewed, any adverts that you viewed and clicked on, the objects and links you clicked on and interacted with, and scrolling information.
+We use this information to monitor and measure the performance of our Services and improve our Services.
+We use this information to determine products and services that may be of interest to you for marketing purposes.
+The processing is necessary for our legitimate interests, namely monitoring and improving our Services.
+The processing is necessary for our legitimate interests, namely to inform our direct marketing.
+Crash logs
+, including information about usage and performance statistics, the time that certain features take to launch, and errors or delays in using certain features.
+We use this information to identify and remedy errors in Developer Games and our Services.
+The processing is necessary for our legitimate interests, namely to allow us to identify and fix errors in Developer Games and our Services.
+3. INTERNATIONAL TRANSFERS OF PERSONAL INFORMATION
+3.1
+We may transfer personal information about you to our service providers and partners, as described in section 5 of the Privacy Policy. When we do this, your personal information may be transferred to, stored and processed in a country other than the one in which it was collected, including, but not limited to, the United States.
+3.2
+When we transfer your personal information to another country, we rely on appropriate or suitable safeguards recognised under UK and EEA privacy laws (as applicable), including adequacy decisions (countries that are deemed to adequately safeguard personal information) and standard contractual clauses (specific contracts approved by regulators in the UK and EEA which give personal information the same protection it has in the jurisdiction where you are located). You can request a copy of our standard contractual clauses by contacting us using the contact details located in the “
+Contact Us
+” section above.
+4. IF YOU FAIL TO PROVIDE PERSONAL INFORMATION
+We will notify you if the provision of certain personal information is mandatory or optional. Where we need to collect personal information by law, or under the terms of a contract we have with you, and you fail to provide that personal information when requested, we may not be able to perform the contract we have or are trying to enter into with you (to provide you with the Services). In this case, we may not be able to provide certain features of the Services to you, or we may have to cancel the Services. We will notify you if this is the case at the time of collection.
+5. RETENTION
+We retain personal information about you for as long as is necessary for the purposes set out in the Privacy Policy, unless a longer period is required under applicable law or is needed to resolve disputes or protect our legal rights.
+6. YOUR RIGHTS
+6.1 Your privacy rights
+You have the following rights in relation to the personal information about you that we have collected (subject to certain limitations under UK and EEA privacy laws). If you would like to exercise your privacy rights, please contact us using the contact details located in the “Contact Us” section above. Your privacy rights under UK and EEA privacy laws are set out below:
+The right to withdraw consent at any time
+You have the right to withdraw consent at any time where we are relying on consent to process your personal information. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent.If you withdraw your consent, we may not be able to provide the Services to you. We will advise you if this is the case at the time you withdraw your consent.
+The Right to Access
+You have the right to request access to your personal information (commonly known as a “data subject access request”). This enables you to receive a copy of the personal information we hold about you and to check that we are lawfully processing it.
+The Right to Correction
+You have the right to request correction of the personal information that we hold about you. This enables you to have any incomplete or inaccurate personal information we hold about you corrected, though we may need to verify the accuracy of the new information you provide to us.
+The Right to Deletion
+You have the right to request erasure of your personal information. This enables you to ask us to delete or remove personal information where there is no good reason for us continuing to process it.You also have the right to ask us to delete or remove your personal information where you have successfully exercised your right to object to processing (see below), where we may have processed your information unlawfully or where we are required to erase your personal information to comply with local law. Note, however, that we may not always be able to comply with your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request.
+The Right to Object to Processing
+You have the right to object to processing of your personal information where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms.</strong >
+You also have the right to object where we are processing your personal information for direct marketing purposes. In some cases, we may demonstrate that we have compelling legitimate grounds to process your information which override your rights and freedoms.
+The Right to Restrict Processing
+You have the right to request restriction of processing of your personal information. This enables you to ask us to suspend the processing of your personal information in the following scenarios:
+if you want us to establish the accuracy of the personal information;
+where our use of the personal information is unlawful but you do not want us to erase it;
+where you need us to hold the personal information even if we no longer require it as you need it to establish, exercise or defend legal claims; or
+you have objected to our use of your personal information but we need to verify whether we have overriding legitimate grounds to use it.
+The Right to Request Transfer
+You have the right to request the transfer of your personal information to you or to a third party. We will provide to you, or a third party you have chosen, your personal information in a structured, commonly used, machine-readable format.Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you.
+6.2 Right to submit a complaint
+If you reside in the UK, you have the right to make a complaint at any time to the Information Commissioner’s Office (“
+ICO
+“), the UK regulator for data protection issues. You can make a complaint via the ICO’s website (
+https://ico.org.uk/make-a-complaint/
+). This website also provides additional contact details for the ICO. If you are resident in the EEA, you have the right to make a complaint at any time to the regulator in your jurisdiction. To find out how to contact your local regulator, please visit
+https://edpb.europa.eu/about-edpb/about-edpb/members_en
+.
+Table of Content
+Privacy Policy
+Annex 1 – California Privacy Disclosures
+Annex 2 – European and UK Privacy Disclosures
+User Terms and Conditions

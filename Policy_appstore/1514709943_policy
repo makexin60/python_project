@@ -1,0 +1,218 @@
+Privacy policy
+Last modified: 25 May 2022
+By using the proton.me website and making use of a Proton Account (the “Account”) and all its related features, including Proton Mail, Proton Contacts, Proton Calendar, and Proton Drive (the “Services”), you understand that your data in relation with your use of our Services is processed according to the following privacy policy. This policy states (i) what data we collect through your access and uses of the Services; (ii) the use we make of such data; and (iii) the safeguards put in place to protect your data. This privacy policy is to be read and understood as being a complement to our
+terms of service
+.
+Please note, Proton VPN is subject to a different policy, please visit
+protonvpn.com/privacy-policy
+(new window)
+for additional details.
+1. Legal framework
+The Services are operated by Proton AG (the “Company”, “We”), domiciled at Route de la Galaise 32, 1228 Plan-les-Ouates, Geneva, Switzerland. It is therefore governed by the laws and regulations of Switzerland. Additional information about the legal framework can be found in our
+transparency report
+and on our
+law enforcement
+help page.
+We are also GDPR compliant. The designated representative of the Company in the European Union (notably for the purpose of art. 27 GDPR) is Proton Europe sàrl, rue de Grünewald 94, L-1912 Luxembourg.
+2. Data collection and usage
+Our overriding policy is to collect as little user information (personal data included) as possible to ensure a completely private user experience when using the Services. We do not have the technical means to access the content of your encrypted emails, files, and calendar events.
+Data collection is limited to the following:
+2.1 Visiting our website
+: We employ a local installation of self-developed analytics tools. Analytics are anonymized whenever possible and stored locally (and not on the cloud). IP addresses are not retained and stored for such analytics.
+2.2 Account creation
+: It is not necessary to provide personal information in order to create an Account, but you may provide an external email address for notification or password recovery purposes. Should you choose to provide it, we do associate this email address with your Account (for password recovery or notification purposes). Such data will only be used to contact you with important notifications about the Services, to send you information related to security, to verify your account or to send you password recovery links if you enable the option. We may also inform you about new Proton products in which you might have an interest. The legal basis for processing is consent and you are free to remove that data in your Account settings panel at any time.
+In order to maintain the integrity of the Services, we must take measures to avoid creation of accounts by spammers. This is because if spammers use Proton Mail to send messages, Proton Mail’s IP addresses can become blocked by major mail providers such as Gmail, Yahoo, Outlook, etc. In order to pursue our legitimate interest of preventing the creation of accounts by spam bots or human spammers, we use a variety of human verification methods. Verification may also be requested for some sensitive operations besides account creation in order to protect against brute-force attacks. You may be asked to verify using either hCaptcha (or reCAPTCHA in the event that hCaptcha is unavailable), email, or SMS. IP addresses, email addresses, and phone numbers provided are saved temporarily in order to send you a verification code and for anti-spam purposes. The period of temporary data retention is determined by our legitimate interests of protecting the service from spam, and also by any applicable Swiss legal requirements we must comply with. If this data is saved permanently, it is always saved as a cryptographic hash, which ensures that the raw values cannot be deciphered by us.
+Learn more
+2.3 Proton Mail Account activity
+: Due to limitations of the SMTP protocol, we have access to the following email metadata: sender and recipient email addresses, the IP address incoming messages originated from, message subject, and message sent and received times. We do NOT have access to encrypted message content, but unencrypted messages sent from external providers to your Account, or from Proton Mail to external unencrypted email services, are scanned for spam and viruses to pursue the legitimate interest of protecting the integrity of our Services and users. Such inbound messages are scanned for spam in memory, and then encrypted and written to disk. We do not possess the technical ability to scan the content of the messages after they have been encrypted. We also have access to the following records of Account activity: number of messages sent, amount of storage space used, total number of messages, last login time. User data is never used for advertising purposes.
+2.4 Proton Calendar Account activity
+: The Service needs to be able to access some properties of events in order to retrieve and index them efficiently as well as send required notifications and alarms. In order to do so, we have access to the following metadata: calendar name and description, event unique identifier (UID), start and end date (including time zone), repetition rule (including exclusion dates or times), attendees’ participation status, organizer information (only when an invite is issued or received), alarms and notifications, event creation and update times and event status (confirmed or cancelled). We do NOT have access to the description of the events, their summary or title, locations, and the attendees’ email addresses.
+2.5 Proton Drive Account activity
+: For operational purposes, the Service must have access to the following metadata unencrypted: file/folder creation and modification timestamps, file/folder permissions, file type, file/folder creator. When sharing a file or folder, we need to record which users own or can access said shared file or folder. When sharing URLs, we have access to the creation and last access time, the number of times the URL was accessed to and its creator. However, we do NOT have access to file contents, file and folder names, and thumbnail previews. Such data is end-to-end encrypted. We only store the size of the encrypted files, not the size of the original unencrypted file. In the case of a report for abuse of a shared URL by a third party, the latter has access to the password used to decrypt the file(s) and transmits it to us. We only can access the content of the file(s) in such cases.
+In addition to end-to-end encryption, all content is also cryptographically signed by the user, before sending it to us. This means that you can always check the signature of any content you get back from our servers, which protects you from forgery (e.g. by a malicious actor).
+2.6 Communicating with Proton
+: Your communications with us, such as support requests, bug reports, or feature requests may be saved by our staff. The legal basis for processing is our legitimate interest to troubleshoot more efficiently and improve the quality of our Services.
+2.7 IP logging
+: By default, we do not keep permanent IP logs in relation with your Account. However, IP logs may be kept temporarily to combat abuse and fraud, and your IP address may be retained permanently if you are engaged in activities that breach our terms and conditions (e.g. spamming, DDoS attacks against our infrastructure, brute force attacks). The legal basis of this processing is our legitimate interest to protect our service against nefarious activities.
+If you enable authentication logging for your Account, the record of your login IP addresses is kept for as long as the feature is enabled. This feature is off by default, and all the records are deleted upon deactivation of the feature. The legal basis of this processing is consent, and you are free to opt in or opt out of that processing at any time in the security panel of your Account.
+Please note, Proton VPN is subject to a different policy, please visit
+protonvpn.com/privacy-policy
+(new window)
+for additional details.
+2.8 Payment information
+: We rely on third parties to process credit card, PayPal, and Bitcoin transactions and must therefore share payment information with them. Anonymous cash or Bitcoin payments and donations are accepted. The legal basis of this processing is the necessity to the execution of the contract to provide the Services.
+2.9 Native applications
+: When you use our native applications, we (or the mobile app platform providers) may collect certain information. We may use mobile analytics software (e.g. fabric.io app statistics and crash reporting, Play Store app statistics, App Store app statistics, or self-hosted Sentry crash reporting) to send crash information to our developers in order to rapidly fix bugs. Some platforms, such as Google’s Play Store or Apple’s App Store may also collect aggregate, anonymous statistics, which may be governed by their respective privacy policies and terms and conditions. Such statistics can include most commonly used devices and operating systems (e.g. percentage of Android 6.x v. Android 7.x), total number of installs and uninstalls, and the total number of active users.
+Our applications do not access or track any location-based information from your device.
+2.10 Import Assistant with “Sign in with Google”
+: When you use our Import Assistant tool to import your data from Google and authenticate using the “Sign in with Google” option, our Import Assistant’s processing of information received from Google APIs will be performed in accordance with Google API Services User Data Policy, including the Limited Use requirements.
+2.11 Import Assistant with a username and password combination
+: When you use our Import Assistant tool to import your emails from another service provider, the credentials of the email account from which the importation is performed are stored by us for the limited duration of the importation. Once the importation is performed, those credentials are entirely deleted from our systems.
+3. Data storage
+All servers used in connection with the provision of the Services are wholly owned and operated by the Company or its subsidiaries. Only employees of the Company have physical or other access to the servers. Data is always stored in encrypted format on our servers. Offline backups, which may be stored periodically, are also encrypted. We do not possess the ability to access any user encrypted content on either the production servers or in the backups.
+4. Third-party networks
+Proton's alternative routing technology allows Proton Services to bypass many censorship blocks, but in doing so your network traffic may go through third-party networks, which we do not control. This could enable a third party to record your IP address or see that you are using Proton apps (the same information that your Internet Service Provider is able to see). These third parties cannot see your actual data, which remains encrypted. By default, alternative routing is not used for Proton apps unless they detect that censorship measures are active on your network. Alternative routing can also be disabled in the Settings panel of our mobile and desktop applications. However, doing so may cause you to be unable to access your Account from a network that is censoring Proton.
+Learn more
+5. Data subprocessors
+To provide the Services, we rely on different data subprocessors, which process different categories of data. Processors never store data outside of the scope of their specific purpose.
+Notably, they do not store data in relation with the general day-to-day use of your Account and Services
+, which is exclusively processed by the Company. Subprocessors are as follow:
+5.1 Proton Group subprocessors
+ProtonLabs DOOEL Skopje
+Purpose: Process data in relation with customer support requests, or other direct communications with the company (section 2.4)
+Data processing location: Macedonia
+ProtonLabs Taiwan Co., Ltd
+Purpose: Process data in relation with customer support requests, or other direct communications with the company (section 2.4)
+Data processing location: Taiwan (R.O.C.)
+5.2 Third-party subprocessors
+Zendesk, Inc.
+Purpose: Provide services in relation with the processing of customer support data (section 2.4)
+Data processing location: United States
+Stripe, Inc.
+Purpose: Provide services in relation with the processing of payment data (section 2.6)
+Data processing location: United States
+PayPal group
+Purpose: Provide services in relation with the processing of payment data (section 2.6)
+Data processing location: United States, Singapore
+6. Data disclosure
+We will only disclose the limited user data we possess if we are legally obligated to do so by a binding request coming from the competent Swiss authorities. We may comply with electronically delivered notices only when they are delivered in full compliance with the requirements of Swiss law. Proton’s general policy is to challenge requests whenever possible and where there are doubts as to the validity of the request or if there is a public interest in doing so. In such situations, we will not comply with the request until all legal or other remedies have been exhausted. Under Swiss law, subjects of judicial procedures have to be notified of such procedures, although such notification has to come from the authorities and not from the Company. Under no circumstances can Proton decrypt encrypted message content and disclose decrypted copies. Aggregate statistics about data requests from the competent Swiss authorities can be found in our
+transparency report
+.
+7. Right to access, rectification, erasure, portability, and right to lodge a complaint
+Through your Account interface, you can directly access, edit, delete, or export personal data processed by the Company in your use of the Services.
+If your Account has been suspended for a breach of our
+terms and conditions
+, and you would like to exercise the rights related to your personal data, you can make a request to our support team.
+In case of violation of your rights, you have the right to lodge a complaint to the competent supervisory authority.
+8. Modifications to privacy policy
+We reserve the right to periodically review and change this policy from time to time and will notify users who have enabled the notification preference about changes to our privacy policy. Continued use of the Services will be deemed acceptance of such changes.
+On this page
+1. Legal framework
+2. Data collection and usage
+3. Data storage
+4. Third-party networks
+5. Data subprocessors
+6. Data disclosure
+7. Right to access, rectification, erasure, portability, and right to lodge a complaint
+8. Modifications to privacy policy
+Sub-section Policy: 
+Sub-policy 0
+https://protonvpn.com/privacy-policy?ref=pme-privacy-ios:
+Your connection is not private
+Attackers might be trying to steal your information from
+protonvpn.com
+(for example, passwords, messages, or credit cards).
+Learn more about this warning
+net::ERR_CERT_AUTHORITY_INVALID
+Subject:
+protonvpn.com
+Issuer:
+Cisco Umbrella Secondary SubCA lon-SG
+Expires on:
+Mar 15, 2025
+Current date:
+Mar 12, 2025
+PEM encoded chain:
+-----BEGIN CERTIFICATE-----
+MIIDRDCCAiygAwIBAgIEZ9HcMzANBgkqhkiG9w0BAQsFADBAMQ4wDAYDVQQKDAVD
+aXNjbzEuMCwGA1UEAwwlQ2lzY28gVW1icmVsbGEgU2Vjb25kYXJ5IFN1YkNBIGxv
+bi1TRzAeFw0yNTAzMTAxNzI0MjJaFw0yNTAzMTUxNzI0MjJaMGoxCzAJBgNVBAYT
+AlVTMRMwEQYDVQQIDApDYWxpZm9ybmlhMRYwFAYDVQQHDA1TYW4gRnJhbmNpc2Nv
+MRYwFAYDVQQKDA1PcGVuRE5TLCBJbmMuMRYwFAYDVQQDDA1wcm90b252cG4uY29t
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyK0HMNHX6DiMBD4I+yij
+xmKA3MhHER9GHI1Dx3hlq5VpFftNVNbgN3tH24OmwpAkL7B4kqQ0Gc5e/V+Gt9vW
+HQGZyfGdn6lpdCyGnYlvZ0QZPb8r2AU0FdhvreQCBDJ3LvxnHr2V5DtKaNzyFJmn
+VSygFa4MmK/bPjjmCVFlc9QTtJk+Jowuk0el2FjS0Nz9De3dnajW0DrdEqqDvb9E
+GBDC7ZphWvMy+2bdJHzVz5HpXaTgJ0vclUlRkkC8TOjF2vqp0Dgy9BSFNcpHWFHR
+bnaMfBHpY21EsNnsae9p5NrzuIj3rk7/n3a+RBYVm9H5V5ACCZWaUjeJOemzg6FL
+JQIDAQABoxwwGjAYBgNVHREEETAPgg1wcm90b252cG4uY29tMA0GCSqGSIb3DQEB
+CwUAA4IBAQCOSsY+DFqn6c05QON6JolqcNUn+RIaucWJw4JkPVmWwJmRoyd6HM2K
+MTk98/IDD5R1lzVx3p99VlSzE39FF8bhinGKqsMhj/KbxgZfYpCQ92zp6WOpv4t6
+UdsEW9mxlnBuoWmZGW7KBGYWfomri4a6blxe3Zov3FmEiw82pniZVViMe2iukVlb
+Ms8Lwkg2DCUxAdK07Y5e2G1NfhLnCoUc+ttdUjM185UewfBwItFda9UM2oN+3qtD
+mRlFoSTb6qty+TnFt5oHy1qMnIzWWtIJe/AMGECGqG9i4+LO3vgprkJmT63l5gp1
+cl6cJoVuMX+QVGYwcsUbn72YcMvaEJtH
+-----END CERTIFICATE-----
+-----BEGIN CERTIFICATE-----
+MIIENjCCAx6gAwIBAgIRAPsV+l8GE0eEsHK7XWdDdw4wDQYJKoZIhvcNAQELBQAw
+cTELMAkGA1UEBhMCVVMxEzARBgNVBAgMCkNhbGlmb3JuaWExFjAUBgNVBAcMDVNh
+biBGcmFuY2lzY28xDjAMBgNVBAoMBUNpc2NvMSUwIwYDVQQDDBxDaXNjbyBVbWJy
+ZWxsYSBQcmltYXJ5IFN1YkNBMB4XDTI1MDMxMTA4MjU0NFoXDTI1MDMyMjA4MjU0
+NFowQDEOMAwGA1UECgwFQ2lzY28xLjAsBgNVBAMMJUNpc2NvIFVtYnJlbGxhIFNl
+Y29uZGFyeSBTdWJDQSBsb24tU0cwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQDIrQcw0dfoOIwEPgj7KKPGYoDcyEcRH0YcjUPHeGWrlWkV+01U1uA3e0fb
+g6bCkCQvsHiSpDQZzl79X4a329YdAZnJ8Z2fqWl0LIadiW9nRBk9vyvYBTQV2G+t
+5AIEMncu/GcevZXkO0po3PIUmadVLKAVrgyYr9s+OOYJUWVz1BO0mT4mjC6TR6XY
+WNLQ3P0N7d2dqNbQOt0SqoO9v0QYEMLtmmFa8zL7Zt0kfNXPkeldpOAnS9yVSVGS
+QLxM6MXa+qnQODL0FIU1ykdYUdFudox8EeljbUSw2exp72nk2vO4iPeuTv+fdr5E
+FhWb0flXkAIJlZpSN4k56bODoUslAgMBAAGjgfkwgfYwEgYDVR0TAQH/BAgwBgEB
+/wIBADAOBgNVHQ8BAf8EBAMCAYYwHQYDVR0OBBYEFN1mEg5fpCSfAqPLjTNZFHVw
+BxGYMB8GA1UdIwQYMBaAFACcoBVVloeFvl/qHHB/MAeaDXEVMEwGCCsGAQUFBwEB
+BEAwPjA8BggrBgEFBQcwAoYwaHR0cDovL2NybC5wcm9kLmNhZ2VuZXJhdG9yLnBr
+aS5zdHJsbi5uZXQvY2EucGVtMEIGA1UdHwQ7MDkwN6A1oDOGMWh0dHA6Ly9jcmwu
+cHJvZC5jYWdlbmVyYXRvci5wa2kuc3RybG4ubmV0L2NybC5wZW0wDQYJKoZIhvcN
+AQELBQADggEBAEa0a2DGbIvUaE3+7+wQakMW+LGo8Fl+mFFJ0ss8IlQkYQQjqGHR
+/5///4Fp2goZZiUlcqq8jz7PNmMYnsAET8z6plMZuc6cyG9y/t+IJPO411Yd9LiS
+VeKAJ2A5v+RsV0i2ihqa+Xe4md4fUtgC9qcMMHpqzsP59CZrTaZrcuvtsggdMfkO
+ExKHzZ8MIUaqVwwWsCgYacXsXyUEmZ04eu3kGQdIxdSk1UxcF2FHKXDdB9SN2P2E
+pq6SsdNDanQe2scRFTIYaXI3CiPt7u+UZ3TC7T9p4eLntld5Jm1QpUjWsyFWzp5W
+CXypHVbtZGQJ1oniSEHl5rJw/SCroRJ4hnQ=
+-----END CERTIFICATE-----
+-----BEGIN CERTIFICATE-----
+MIIEuzCCA6OgAwIBAgIJBwZ2p1Kz1Az6MA0GCSqGSIb3DQEBCwUAMDExDjAMBgNV
+BAoTBUNpc2NvMR8wHQYDVQQDExZDaXNjbyBVbWJyZWxsYSBSb290IENBMB4XDTI0
+MDUxNDE4MjE0OFoXDTI5MDUxNDE4MjE0OFowcTELMAkGA1UEBhMCVVMxEzARBgNV
+BAgMCkNhbGlmb3JuaWExFjAUBgNVBAcMDVNhbiBGcmFuY2lzY28xDjAMBgNVBAoM
+BUNpc2NvMSUwIwYDVQQDDBxDaXNjbyBVbWJyZWxsYSBQcmltYXJ5IFN1YkNBMIIB
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtr7/ojc79UjMY5HQT66LA4Ah
+IdRZ4OgXnVZRUWvd5aCWJEKhB0Eoip6qvQTRheHV1T/Ex/fZgH/W//YGUXHAW3rM
+gBCFDNzl2pUV3vu1sYYdHlXdKVPQ+SE+EDuXVLsOuhXuW6NAFb0s1htzJSgRImiF
+Q0AFnNuJKKc+7KAdmbOZ8OM1k+VcoTSbMekOkYRoDKGXIQ1T48HrqRJOPbBsI2Bw
+JeWdkkteUKze8mqaswMyyWci+P3VIfAOaz3QgjLrBvc96MoYNI7DCnlEx8K35lZe
+Yqp2M7bpZpilpsN9SrxMUBSm7fv2vtShCUAtyyGzHIjwU/VlfcCut+s0eN+x+QID
+AQABo4IBlDCCAZAwDgYDVR0PAQH/BAQDAgGGMBIGA1UdEwEB/wQIMAYBAf8CAQEw
+gYcGCCsGAQUFBwEBBHsweTBJBggrBgEFBQcwAoY9aHR0cDovL3d3dy5jaXNjby5j
+b20vc2VjdXJpdHkvcGtpL2NlcnRzL2Npc2NvdW1icmVsbGFyb290LmNlcjAsBggr
+BgEFBQcwAYYgaHR0cDovL3BraWN2cy5jaXNjby5jb20vcGtpL29jc3AwHwYDVR0j
+BBgwFoAUQ3MA3iS6QBpAVCx9fNUASIkMcKQwUgYDVR0gBEswSTBHBgorBgEEAQkV
+AR0AMDkwNwYIKwYBBQUHAgEWK2h0dHA6Ly93d3cuY2lzY28uY29tL3NlY3VyaXR5
+L3BraS9wb2xpY2llcy8wTAYDVR0fBEUwQzBBoD+gPYY7aHR0cDovL3d3dy5jaXNj
+by5jb20vc2VjdXJpdHkvcGtpL2NybC9jaXNjb3VtYnJlbGxhcm9vdC5jcmwwHQYD
+VR0OBBYEFACcoBVVloeFvl/qHHB/MAeaDXEVMA0GCSqGSIb3DQEBCwUAA4IBAQDS
++yAtaYd37xRiUO2k4+HcugbKcps0qencj2w+xXD25JTdjtn0vDGiGEz4ju3aRSKS
+nux/aFVZD54kpC2hjsBN8Nk+CLSFXR7/jP9Jjb4j3dffUZ0VO77z91ZNLbZPROos
+nRezlmI/5zfgXh2psW9nHK+6tCYgwYyvfZkhID3DMiSMBt0KZGJR2FI98b3Zhw1k
+//lYe+XJ4XUVH1s45GFMi4aKmw6nkuSZgFoI3+KycYperMDsVutkTN+EK8/XtGCr
+3gGCe80ZDlLncH4kMb1vT8p0cYgW4KPNfRLcTZKOV7CFUoMnBMZD+HvLuJGoFScj
+uN1/dZfcAYhANATAkJbo
+-----END CERTIFICATE-----
+-----BEGIN CERTIFICATE-----
+MIIDJjCCAg6gAwIBAgIIUW6l3kYeVMEwDQYJKoZIhvcNAQELBQAwMTEOMAwGA1UE
+ChMFQ2lzY28xHzAdBgNVBAMTFkNpc2NvIFVtYnJlbGxhIFJvb3QgQ0EwHhcNMTYw
+NjI4MTUzNzUzWhcNMzYwNjI4MTUzNzUzWjAxMQ4wDAYDVQQKEwVDaXNjbzEfMB0G
+A1UEAxMWQ2lzY28gVW1icmVsbGEgUm9vdCBDQTCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBAO7ZjfBSCaz5EMYSiWYoXjHPP/w7xFT4bXa82lOZ9CJJXDQw
+bZpBdmuqX9UWo769LIAaSUvkYEeZqcTsjrx/7juPKoOErhJY0cPK12LU9PbHXqEd
+XESIqBjdOC5oiIFHhTAKuuKRlL7rhPYkYhZtgdll4h0FLIG+xNsMVfzJb7z69X8Y
+vF9r1drLkd7oR2xHuRkXgzeblFVpF+DRF7WXNhLy0By38ZxtClxYUSitdz53W0ic
+maelG7EyCVNVxARxn5waaphRvki1hkuqqrm3JdlV165zAOdSz3JKzRISQinCTQuT
++RK/w0qLsDTyOVO/mEIVWLXu/Z1NtuXgj/jhegcCAwEAAaNCMEAwDgYDVR0PAQH/
+BAQDAgEGMA8GA1UdEwEB/wQFMAMBAf8wHQYDVR0OBBYEFENzAN4kukAaQFQsfXzV
+AEiJDHCkMA0GCSqGSIb3DQEBCwUAA4IBAQBIEoceSPZLmo5sLmgDfQA+Fq5BKztL
+qg8aAvZdrbdMEKEBr1RDB0OAhuPcaaVxZi6Hjyql1N999Zmp8qIw/lLTt3VSTmEa
+29uPgjdMGLl9KyfZjARiA/PPvPdHTwg7TMJOet+w7P5nWabLNW55+Wc/JzCSFE30
++0Kdz/jojxlA/8t0xYLCdS2UK7zC4kuAbojHLJDbIQO3HeEWwVmg4FO89AHVvC4R
+Y+V0t7SaEradv6tPG9DHX7PLwjQ/Xs95NGDIJTeFwCRqYUlBu9iZjIvKba0e0tST
+Vuyw2+P2HuWazjBPawGrbfyw+uO3KO4WnNGjMutJJ920o8B5M8gW1+Ye
+-----END CERTIFICATE-----
+Warnings may be common while websites update their security. This should improve soon.
+Help improve security on the web for everyone by sending
+URLs of some pages you visit, limited system information, and some page content
+to Google.
+Privacy policy
+Turn on enhanced protection
+to get Chrome's highest level of security
+Reload
+Advanced
+protonvpn.com normally uses encryption to protect your information. When Chrome tried to connect to protonvpn.com this time, the website sent back unusual and incorrect credentials. This may happen when an attacker is trying to pretend to be protonvpn.com, or a Wi-Fi sign-in screen has interrupted the connection. Your information is still secure because Chrome stopped the connection before any data was exchanged.
+You cannot visit protonvpn.com right now because the website uses HSTS. Network errors and attacks are usually temporary, so this page will probably work later.

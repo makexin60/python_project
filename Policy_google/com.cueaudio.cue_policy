@@ -1,0 +1,15 @@
+Page not found
+(404)
+Request Method:
+GET
+Request URL:
+https://localhost/privacy-policy/
+Raised by:
+wagtail.core.views.serve
+You're seeing this error because you have
+DEBUG = True
+in
+      your Django settings file. Change that to
+False
+, and Django
+      will display a standard 404 page.

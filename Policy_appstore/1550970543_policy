@@ -1,0 +1,504 @@
+EgészségAblak alkalmazás - Adatkezelési tájékoztató
+Hatályos 2025.03.05-től visszavonásig
+1.  Az adatkezelési tájékoztató tartalma
+A Belügyminisztérium, mint Adatkezelő jelen formában tájékoztatja a Felhasználókat, mint Érintetteket az EgészségAblak mobilalkalmazás kapcsán megvalósuló adatkezelésekről. Az EgészségAblak alkalmazás (a továbbiakban: Alkalmazás) az alábbi funkciókkal rendelkezik, a technikai lehetőségek és a kipublikált változat függvényében:
+Az Alkalmazásban elérhető EESZT-szolgáltatások:
+Digitális Covid-igazolványok
+Egészségügyi dokumentumok
+Receptek (eReceptek, eGYSE vények)
+Elektronikus beutalók (eBeutalók)
+EESZT-ben rögzített képviselt személy adatainak elérése
+Felhasználó általi időpontfoglalás, foglalt időpontok módosítása, törlése
+Foglalt időpontok megjelenítése, saját készülék naptárához adása és a foglalt időpont törlése
+Várandósgondozási könyv adatainak elérése
+Token generálás
+Háziorvos adatai
+Értesítések
+Kedvencek
+TB-lámpa
+Gyógyszertárak
+Betegelégedettségi kérdőív
+Az Általános Felhasználási Feltételekben rögzítettek szerint a funkciók használata a Felhasználó által az Alkalmazásba történő bejelentkezéséhez kötött.
+Az Általános Felhasználási Feltételek elérhetők:
+https://e-egeszsegugy.gov.hu/adatvedelem/EgészségAblak
+Adatkezelő -mint egyben az EESZT működtetője és az EESZT-ben tárolt adatok adatkezelője -, az Alkalmazásban elérhető EESZT szolgáltatásai kapcsán az EESZT-ben szereplő adatok visszamutatását / a funkció használata során megadott adatok EESZT-ben rögzítését végzi.
+Az Adatkezelő az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény (a továbbiakban: Eüak.)  35/A. § (2a) bekezdésben kapott felhatalmazás alapján az Alkalmazásban elérhető szolgáltatások nyújtása céljából, a szolgáltatások nyújtásához szükséges mértékig – ha törvény eltérően nem rendelkezik, a szolgáltatások nyújtásának idejéig – kezeli  az Eüak. 35/F. § (1) bekezdésében foglalt adatokat, az érintett EESZT-ben képzett azonosítóját, a szolgáltatások nyújtásához szükséges eszköz azonosítót, továbbá az érintett halálának idejét.
+Jelen adatkezelési tájékoztató
+nem
+tartalmazza az EESZT-ben történő adatkezelések részletes ismertetését, azokról részletesen az EESZT adatkezelési tájékoztatója rendelkezik.
+Az EESZT adatkezelési tájékoztatója elérhető:
+https://e-egeszsegugy.gov.hu/adatvedelem
+. Az EESZT-ből átvett adatok és dokumentumok az Alkalmazás törléséig érhetők el a mobilalkalmazásban.
+Jelen adatkezelési tájékoztató kizárólag az Alkalmazásban elérhető, az EESZT szolgáltatásokon felül biztosított funkciókkal kapcsolatos adatkezelési esetkörökre tér ki.
+2.  Fogalmak
+Személyes adat:
+Azonosított vagy azonosítható természetes személyre („Érintett”) vonatkozó bármely információ; azonosítható az a természetes személy, aki közvetlen vagy közvetett módon, különösen valamely azonosító, például név, szám, helymeghatározó adat, online azonosító vagy a természetes személy testi, fiziológiai, genetikai, szellemi, gazdasági, kulturális vagy szociális azonosságára vonatkozó egy vagy több tényező alapján azonosítható.
+Érintett/Felhasználó:
+Az Alkalmazást használó természetes személy.
+EESZT:
+Elektronikus Egészségügyi Szolgáltatási Tér (
+https://www.eeszt.gov.hu/
+).
+Alkalmazás:
+Az EgészségAblak mobilalkalmazás..
+Adatkezelés:
+A személyes adatokon vagy adatállományokon automatizált vagy nem automatizált módon végzett bármely művelet vagy műveletek összessége, így a gyűjtés, rögzítés, rendszerezés, tagolás, tárolás, átalakítás vagy megváltoztatás, lekérdezés, betekintés, felhasználás, közlés továbbítás, terjesztés vagy egyéb módon történő hozzáférhetővé tétel útján, összehangolás vagy összekapcsolás, korlátozás, törlés, illetve megsemmisítés.
+Adatkezelő:
+Az a természetes vagy jogi személy, közhatalmi szerv, ügynökség vagy bármely egyéb szerv, amely a személyes adatok kezelésének céljait és eszközeit önállóan vagy másokkal együtt meghatározza; ha az adatkezelés céljait és eszközeit az uniós vagy a tagállami jog határozza meg, az adatkezelőt vagy az adatkezelő kijelölésére vonatkozó különös szempontokat az uniós vagy a tagállami jog is meghatározhatja.
+Adatfeldolgozó:
+Az a természetes vagy jogi személy, közhatalmi szerv, ügynökség vagy bármely egyéb szerv, amely az adatkezelő nevében személyes adatokat kezel.
+Az érintett hozzájárulása:
+Az Érintett akaratának önkéntes, konkrét és megfelelő tájékoztatáson alapuló és egyértelmű kinyilvánítása, amellyel az Érintett nyilatkozat vagy a megerősítést félreérthetetlenül kifejező cselekedet útján jelzi, hogy beleegyezését adja az őt érintő személyes adatok kezeléséhez.
+Egészségügyi adat:
+Egy természetes személy testi vagy pszichikai egészségi állapotára vonatkozó személyes adat, ideértve a természetes személy számára nyújtott egészségügyi szolgáltatásokra vonatkozó olyan adatot is, amely információt hordoz a természetes személy egészségi állapotáról.
+Jelen tájékoztató által használt fogalmak összhangban vannak:
+az Európai Parlament és a Tanács (EU) 2016/679 rendelete (2016. április 27.) a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről (általános adatvédelmi rendelet) (a továbbiakban: GDPR),
+az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény (a továbbiakban: Infotv.),
+az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény (a továbbiakban: Eüak.),
+a Polgári Törvénykönyvről szóló 2013. évi V törvény (a továbbiakban: Ptk.),
+a központi egészséginformatikai szolgáltatásokról szóló 29/2022. (I.31.) Korm. rendelet
+a Nemzeti Adatvédelmi és Információszabadság Hatóság előzetes tájékoztatás adatvédelmi követelményeiről szóló ajánlásainak fogalmaival.
+3.  AZ ADATKEZELŐ MEGNEVEZÉSE, ELÉRHETŐSÉGEI ÉS AZ ADATKEZELÉS HELYE
+Az Adatkezelő adatai:
+Belügyminisztérium
+Cím:
+1014 Budapest, Szentháromság tér 6.
+E-mail:
+ugyfelszolgalat@bm.gov.hu
+Telefonszám:
+(+36 1) 441-1000
+Weboldal:
+https://www.kormany.hu/belugyminiszterium/
+Az adatvédelmi tisztviselő adatai:
+Név:
+Dr. Tarczi-Ábrahám Dominika Erika
+E-mail:
+adatvedelem@bm.gov.hu
+Az adatkezelés helye:
+Magyarország.
+Az Alkalmazás használatával, az elérhető funkciókkal, a bejelentkezéssel kapcsolatos adatkezelések tekintetében az adatok kezelője a Belügyminisztérium.
+Az EgészségAblak mobilalkalmazás célja és sajátossága, hogy a megfelelő személyazonosítással történő belépést követően elérhetővé válnak az adott személyhez kapcsolódó EESZT-ben tárolt egyes személyes adatok, valamint a megadott adatok az Alkalmazás egyes funkcióinak használata során megadott adatok is szinkronizálásra kerülnek az EESZT rendszerével (ld. 5. pont).
+4.  ADATFELDOLGOZÓK IGÉNYBEVÉTELE
+Az Alkalmazás üzemeltetése érdekében a Belügyminisztérium, mint Adatkezelő az alábbi adatfeldolgozókat veszi igénybe.
+ESZFK Egészséginformatikai Szolgáltató és Fejlesztési Központ Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: ESZFK)
+Cím:
+1097 Budapest, Könyves Kálmán körút 11. B. ép. 1. em
+Fax szám:
++3687580053
+Telefonszám:
++3687580054
+E-mail cím:
+iroda@eszfk.hu
+Honlap:
+https://www.eszfk.hu
+Az Alkalmazás informatikai megvalósítását, működésének kereteit az ESZFK biztosítja.
+Az ESZFK az EESZT, illetve az EgészségAblak keretrendszer és mobilalkalmazás alkalmazásüzemeltetési, fejlesztési és ügyfélszolgálati feladatait látja el a központi egészséginformatikai szolgáltatásokról szóló 29/2022. (I. 31.) Korm. rendelet szerint. Az érintett személyes adatokkal kapcsolatban az irányadó magyar és európai uniós adatvédelmi szabályokkal összhangban jár el.
+NISZ Nemzeti Infokommunikációs Szolgáltató Zrt. (NISZ Zrt.)
+Cím:
+1149 Budapest, Róna utca 52-80.
+Postacím:
+1389 Budapest, Pf. 133.
+Telefon:
+(+36 1) 459 4200,
+E-mail cím:
+info@nisz.hu
+Honlap:
+http://www.nisz.hu
+Az EESZT és az EgészségAblak üzemeltetése a Kormányzati Adatközpontban történik, a Kormányzati Adatközpont működéséről szóló 467/2017. (XII. 28.) Korm. rendelet 13/A. § (1) bekezdése alapján. Az adatfeldolgozó elsődleges feladata információ-technológiai infrastruktúra biztosítása. A NISZ Zrt. a központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló 341/2024. (XI. 14.) Korm. rendelet 3. § (1) és (3) bekezdése, valamint 9. § (1) bekezdése alapján gondoskodik az EESZT és az EgészségAblak alkalmazás infrastruktúra üzemeltetéséről mint adatfeldolgozó.
+Az ESZFK által igénybe vett adatfeldolgozó:
+Google Ireland Limited
+Cím: Írország, Dublin Gordon House, Barrow Street, Dublin 4, első és második emelet
+Honlap:
+http://www.google.com
+A Google Ireland Limited üzemelteti a Firebase eszközrendszert, amely a Google mobilapplikációk fejlesztéséhez használható háttér keretrendszere, ez a keretrendszer ad lehetőséget a mobilapplikáció üzemeltetéséhez szükséges eszközök használatára (mint például a Google Analytics használatára).
+Az EgészségAblak Alkalmazás használata során statisztikai adatokat gyűjt az Adatkezelő a Google Analytics mobil applikációkra kifejlesztett megoldásával. Ezt a megoldást a Google Ireland Limited üzemelteti.
+Az EgészségAblak Alkalmazás használata során az Adatkezelő által az Alkalmazáson keresztül küldeni kívánt üzeneteket a Google Firebase Cloud Messaging, illetve az Apple Push Notification service szolgáltatása jeleníti meg.
+A Google Ireland Limited az Európai Unió Bizottsága által kialakított általános szerződési feltételeket alkalmazza az Európai Unió adatvédelmi jogi szabályozásának való megfelelés érdekében.
+5.  AZ ADATKEZELÉS KÖRÜLMÉNYEI, AZ ADATKEZELÉS JOGALAPJA, CÉLJA, KEZELT ADATOK KÖRE ÉS A MEGŐRZÉSI IDEJE
+Az Alkalmazás használatával, az elérhető funkciókkal, a bejelentkezéssel kapcsolatos adatkezelések tekintetében az adatok kezelője a Belügyminisztérium.
+Az Alkalmazás célja és sajátossága, hogy a megfelelő személyazonosítással történő belépést követően elérhetővé válnak az adott személyhez kapcsolódó, EESZT-ben tárolt egyes személyes adatok, valamint az Alkalmazás funkcióinak használata során megadott adatok is szinkronizálásra kerülnek az EESZT rendszerével.
+Az EESZT-ből átvett adatok és dokumentumok az Alkalmazás törléséig érhetők el az Alkalmazásban.
+5.1   Bejelentkezés:
+Az Alkalmazás telepítése érdekében a Felhasználónak nem szükséges rögzítenie egyetlen személyes adatát sem, de az Alkalmazás használata bejelentkezéshez kötött.
+Az Alkalmazásban elérhető információk az EESZT-ben tárolt személyes adatokra támaszkodnak, azok lekérdezése TAJ-számmal történik.
+A bejelentkezéshez az Adatkezelési tájékoztató és az Általános Felhasználási Feltételek elfogadása után első lépésben a teljes funkcionalitás eléréséhez 2025.01.15-ét követően a Felhasználónak azaz Ügyfélkapu+ vagy a Digitális Állampolgár mobilalkalmazás (DÁP) belépési adataival azonosítania kell magát. A funkciók használata során a vonatkozó személyes adatok EESZT-ből történő lekérdezése TAJ-számmal történik.
+Kezelt személyes adatok típusa
+Adatkezelés célja
+Adattárolás időtartama, törlés időpontja
+Adatkezelés jogalapja
+TAJ-szám
+Az EESZT egyes szolgáltatásainak elérhetővé tétele, az Érintettre vonatkozó egyes személyes adatok EESZT-ből történő lekérdezése.
+A regisztráció törléséig, melyet a Felhasználó az EESZT Lakossági Portálon keresztül végezhet el a „Mobilalkalmazások” menüpont alatt, illetve az Alkalmazásból történő kilépése is törli a regisztrációs adatokat.
+Közérdekű feladat végrehajtása (GDPR 6. cikk (1) bek. e)] az Eüak. 35/A. § (2a) bekezdése szerint.
+Az Alkalmazásba történő bejelentkezés része a regisztráció. A bejelentkezéshez első lépésben a Felhasználónak az Ügyfélkapu+ vagy a Digitális Állampolgár mobilalkalmazás (DÁP)  belépési adataival azonosítania kell magát. Az Alkalmazásban elérhető funkciók kapcsán a személyes adatok EESZT-ből történő lekérdezése TAJ-számmal fog történni.
+Az eszközazonosító egy, a mobileszközre telepített alkalmazás által generált, az eszköz-alkalmazás párosra vonatkozó egyedi azonosító.
+Az első bejelentkezéskor megadott TAJ-számhoz rendeli a rendszer az Alkalmazást az alábbi célból és feltételek mellett.
+Kezelt személyes adatok típusa
+Adatkezelés célja
+Adattárolás időtartama, törlés időpontja
+Adatkezelés jogalapja
+TAJ-szám
+Eszközazonosító
+Az EESZT egyes szolgáltatásainak elérhetővé tétele, az Érintettre vonatkozó egyes személyes adatok EESZT-ből történő lekérdezése.
+A regisztráció törléséig, melyet a Felhasználó az EESZT Lakossági Portálon keresztül végezhet el a „Mobilalkalmazások” menüpont alatt, amennyiben Ügyfélkapu+-al vagy DÁP azonosítással jelentkezett be, illetve a mobilalkalmazásból történő kilépése is törli a regisztrációs adatokat.
+Közérdekű feladat végrehajtása (GDPR 6. cikk (1) bek. e)] az Eüak. 35/A. § (2a) bekezdése szerint.
+5.2
+EESZT szolgáltatások elérése
+Az Alkalmazás célja annak biztosítása, hogy a Felhasználó az EESZT egyes szolgáltatásait az Alkalmazás útján könnyebben elérhesse. Így ennek keretében többek között, az Alkalmazás technikai lehetőségeinek és az aktuális szoftververzió függvényében
+digitális formában elérhetők a Felhasználó digitális Covid-igazolványai,
+Felhasználó hozzáférhet a korábbi ellátásai során keletkezett egészségügyi dokumentumokhoz,
+Felhasználó hozzáférhet a korábbi ellátásai során részére felírt érvényes, kiadott és lejárt  receptekhez és az érvényes receptek kiváltáshoz szükséges vonalkódokhoz, továbbá – több érvényes recept kiválasztását követően –  többes kiváltáshoz szükséges QR kód generálható,
+Felhasználó hozzáférhet a részére kiállított aktív és korábbi elektronikus beutalókhoz,
+EESZT-ben rögzített képviseleti jogosultság esetén a képviselt személyre vonatkozó adatok megtekinthetők,
+a digitális időpontfoglaló rendszerben az Alkalmazáson keresztül is foglalhat időpontot, valamint módosíthatja és törölheti is a foglalást,
+a Felhasználó saját maga és az orvos által lefoglalt időpontot is megtekintheti, mobiltelefonja naptárjához adhatja illetve törölheti is a lefoglalt időpontot,
+a Felhasználó könnyedén elérheti várandósgondozási kiskönyve adatait.
+A fentiekben rögzített szolgáltatásokon kívül további EESZT szolgáltatások érhetőek el.
+Az elérhető EESZT szolgáltatásokkal összefüggő adatkezelésre az EESZT adatkezelési tájékoztatójában foglaltak irányadók - amely elérhető:
+https://e-egeszsegugy.gov.hu/adatvedelem
+- egyes szolgáltatások tekintetében az alábbiakban rögzített eltérésekkel. Az EESZT-ből átvett adatok az Alkalmazás törléséig érhetők el az Alkalmazásban.
+5.3   D
+igitális Covid-igazolványok:
+Az Alkalmazás az Érintett azonosítását követően az EESZT-ből lekérdezett személyes adatok alapján igazolja:
+az oltási igazolványra,
+a tesztigazolványra és
+a gyógyultsági igazolványra
+(a továbbiakban együttesen: Digitális Covid-igazolványok) vonatkozó Érintetti adatokat.
+Az Adatkezelő Alkalmazással összefüggő adatkezelései a következőképpen valósulnak meg.
+Az Digitális Covid-igazolványok rendszere a Covid19-cel kapcsolatos három különböző jellegű igazolványt foglal magában: oltási igazolványt, tesztigazolványt és gyógyultsági igazolványt. A Digitális Covid-igazolványokkal kapcsolatos adatkezelések az egészségügyről szóló 1997. évi CLIV. törvény 74/C. §, valamint a 74/D. § (1) bekezdés, illetve 74/G. §, továbbá a digitális Covid-igazolvány kiadásának fenntartásához szükséges részletszabályokról szóló 604/2023. (XII. 22.) Korm. rendelet rendelkezései szerint kerültek kialakításra az Alkalmazásban.
+A digitális Covid-igazolvány kiadásának fenntartásához szükséges részletszabályokról szóló 604/2023. (XII. 22.) Korm. rendelet értelmében a TAJ-számmal rendelkező érintett a Digitális Covid-igazolványt a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatással történő azonosítást követően az Alkalmazásban, valamint az EESZT portálján letölthető formátumban is kérheti.
+.
+i)   Az oltási igazolvány megjelenítése érdekében kezelt adatok
+Az Alkalmazás „Oltási igazolvány” menüpontjában a Felhasználó információkat találhat arra vonatkozóan, hogy oltottságát igazolja.
+A Felhasználó bármikor be-, és kikapcsolhatja az egyszerűsített belépést. Az egyszerűsített belépés bekapcsolása esetén az Alkalmazás eltárolja a korábban letöltött oltási igazolvánnyal kapcsolatos adatokat és a Felhasználó internet-kapcsolat nélkül is meg tudja tekinteni az itt szereplő információkat. Az egyszerűsített belépés bekapcsolása nélkül az Alkalmazás csak a TAJ számot kezeli abból a célból, hogy az igazolványt lekérdezze és visszamutassa a rendszerből.
+Az adatkezelés ezekben az esetben az alábbiak szerint alakul:
+Kezelt személyes adatok típusa
+Adatkezelés célja
+Adattárolás időtartama, törlés időpontja
+Adatkezelés jogalapja
+TAJ-szám
+Oltási  igazolvány megjelenítése.
+Az Alkalmazás a TAJ-számot addig tárolja, ameddig a Felhasználó ki nem jelentkezik az Alkalmazásból, vagy törli az Alkalmazást.
+Közérdekű feladat végrehajtása (GDPR 6. cikk (1) bek. e) az Eüak. 35/A. § (2a) bekezdése szerint.
+név;
+születési idő;
+egyedi igazolványazonosító;
+célzott betegség, vagy kórokozó;
+oltóanyag, vagy profilaxis;
+oltóanyagtermék neve;
+oltóanyag forgalomba hozatali engedély jogosultja vagy oltóanyag gyártója;
+dózis sorszáma;
+oltás időpontja;
+oltás tagállama;
+igazolvány kibocsátója
+Oltási  igazolvány megjelenítése offline módban.
+Az Alkalmazás az adatokat az offline mód kikapcsolásáig vagy az Alkalmazás törléséig  tárolja.
+Közérdekű feladat végrehajtása (GDPR 6. cikk (1) bek. e) a digitális Covid-igazolvány kiadásának fenntartásához szükséges részletszabályokról szóló 604/2023. (XII. 22.) Korm. rendelet 3. § (1) bekezdése szerint
+ii)   A tesztigazolvány megjelenítésével kapcsolatos adatkezelés
+Az Alkalmazás „Tesztigazolvány” menüpontjában a Felhasználó információkat találhat arra vonatkozóan, hogy milyen Covid19 teszt(ek) kerültek rögzítésre.
+A Felhasználó bármikor be-, és kikapcsolhatja az egyszerűsített belépést. Az egyszerűsített belépés bekapcsolása esetén az Alkalmazás eltárolja a korábban letöltött „Tesztigazolvánnyal” kapcsolatos adatokat és a Felhasználó internet-kapcsolat nélkül is meg tudja tekinteni az itt szereplő információkat. Az egyszerűsített belépés bekapcsolása nélkül az Alkalmazás csak a TAJ számot kezeli abból a célból, hogy az igazolványt lekérdezze és visszamutassa a rendszerből.
+Az adatkezelés ezekben az esetben az alábbiak szerint alakul:
+Kezelt személyes adatok típusa
+Adatkezelés célja
+Adattárolás időtartama, törlés időpontja
+Adatkezelés jogalapja
+TAJ-szám
+A tesztigazolvány megjelenítése.
+Az Alkalmazás a TAJ-számot addig tárolja, ameddig a Felhasználó ki nem jelentkezik az Alkalmazásból, vagy törli az Alkalmazást.
+Közérdekű feladat végrehajtása (GDPR 6. cikk (1) bek. e) az Eüak. 35/A. § (2a) bekezdése szerint.
+név;
+születési idő;
+egyedi igazolványazonosító;
+célzott betegség, vagy kórokozó;
+teszt típusa;
+teszt neve;
+teszt gyártója;
+mintavétel dátuma és időpontja;
+teszt eredménye;
+tesztközpont, vagy a tesztet végző intézmény;
+tagállam vagy harmadik ország, amelyben a tesztet elvégezték;
+igazolvány kibocsátója
+A tesztigazolvány megjelenítése offline módban.
+Az Alkalmazás az adatokat az offline mód kikapcsolásáig vagy az Alkalmazás törléséig tárolja.
+Közérdekű feladat végrehajtása (GDPR 6. cikk (1) bek. e) a digitális Covid-igazolvány kiadásának fenntartásához szükséges részletszabályokról szóló 604/2023. (XII. 22.) Korm. rendelet 3. § (1) bekezdése szerint
+iii)   A gyógyultsági igazolvány
+Az Alkalmazás „Gyógyultsági igazolvány” menüpontjában a Felhasználó információkat találhat arra vonatkozóan, hogy rögzítésre került-e Covid19 fertőzésből gyógyulás ténye.
+A Felhasználó bármikor be-, és kikapcsolhatja az egyszerűsített belépést. Az egyszerűsített belépés bekapcsolása esetén az Alkalmazás eltárolja a korábban letöltött Gyógyultsági igazolvánnyal kapcsolatos adatokat és a Felhasználó internet-kapcsolat nélkül is meg tudja tekinteni az itt szereplő információkat. Az egyszerűsített belépés bekapcsolása nélkül az Alkalmazás csak a TAJ számot kezeli abból a célból, hogy az igazolványt lekérdezze és visszamutassa a rendszerből.
+Az adatkezelés ezekben az esetben az alábbiak szerint alakul:
+Kezelt személyes adatok típusa
+Adatkezelés célja
+Adattárolás időtartama, törlés időpontja
+Adatkezelés jogalapja
+TAJ-szám
+A gyógyultsági igazolvány megjelenítése.
+Az Alkalmazás a TAJ-számot addig tárolja, ameddig a Felhasználó ki nem jelentkezik az Alkalmazásból, vagy törli az Alkalmazást.
+Közérdekű feladat végrehajtása (GDPR 6. cikk (1) bek. e) az Eüak. 35/A. § (2a) bekezdése szerint
+név;
+születési idő;
+egyedi igazolványazonosító;
+betegség vagy kórokozó, amelyből a birtokos felgyógyult;
+birtokos első pozitív NAAT-tesztje eredményének dátuma;
+mintavétel dátuma és időpontja;
+tagállam vagy harmadik ország, amelyben a tesztet elvégezték;
+igazolvány kibocsátója;
+Igazolvány érvényességi idejének kezdőnapja;
+igazolvány érvényességi idejének utolsó napja
+A gyógyultsági igazolvány megjelenítése offline módban.
+Az Alkalmazás az adatokat az offline mód kikapcsolásáig vagy az Alkalmazás törléséig tárolja.
+Közérdekű feladat végrehajtása (GDPR 6. cikk (1) bek. e) a digitális Covid-igazolvány kiadásának fenntartásához szükséges részletszabályokról szóló 604/2023. (XII. 22.) Korm. rendelet 3. § (1) bekezdése szerint
+5.4   Lefoglalt időpontok megjelenítése, naptárhoz adása, törlése
+Időpontfoglalás járóbeteg-szakellátást nyújtó, közfinanszírozott egészségügyi szolgáltatóhoz, kiajánlott rendelésre lehetséges, amelyet jelenleg a digitális időpontfoglaló rendszeren keresztül saját részre, vagy képviseleti jogosultság fennállása esetén, Felhasználói fiókváltást követően a képviselt részére, valamint az egészségügyi intézményben vagy háziorvosnál lehet kezdeményezni.
+A beutaló orvos a beutaló kiállításával egyidejűleg az EESZT erre szolgáló internetes felületén a járóbeteg-szakellátást nyújtó egészségügyi szolgáltatóhoz időpontot tud foglalni. Az Ön számára orvosa által foglalt időpontot és a foglalás részleteit megtekintheti az Alkalmazásban.
+A beutaló nélkül igénybe vehető ellátások esetén a beteg háziorvosa vagy kezelőorvosa vállalhatja, hogy a beteg kérésére a digitális időpontfoglalási rendszerben a járóbeteg-szakellátást nyújtó egészségügyi szolgáltatónál időpontot foglal, ha orvosszakmailag indokolt. A beteg háziorvosa vagy kezelőorvosa azonban nem köteles a beteg ezen időpontfoglalásra vonatkozó kérését fogadni és annak eleget tenni.
+Az Alkalmazásban lehetősége van az Ön számára orvosa által lefoglalt időpontot törölni. Az időpont törlése az EESZT rendszerében is átvezetésre kerül.
+A Felhasználónak eBeutalóval vagy nem beutaló köteles egészségügyi szolgáltatások esetén a kívánt vizsgálat kiválasztásával van lehetősége időpontot foglalni az Alkalmazásban éppúgy, mint az EESZT Lakossági Portálon és az egységes telefonos időpontfoglalási központon keresztül. Lefoglalt időpontokat módosíthatja és törölheti is. Az Alkalmazás útján tett foglalás, módosítás és törlés az EESZT rendszerében is átvezetésre kerül.
+Az időpont foglalásokat a saját készüléke naptárához is hozzáadhatja, így egyben kezelhető az összes foglalt időpont. A megosztható linken keresztül bekerülhetnek a külső naptár alkalmazásokba is (pl.: Apple naptár, Google Calendar). Így az EESZT-ben tárolt vizsgálati időpontok nemcsak az Alkalmazás Naptár menüpontjában, de a Felhasználó által használt egyéb naptár alkalmazásokban, illetve online naptárban is nyomon követhetővé válnak. A művelet során az Alkalmazásnak hozzáférésre van szüksége a készülék naptárához, amelyből az Alkalmazás nem gyűjt személyes adatot.
+Kezelt személyes adatok típusa
+Adatkezelés célja
+Adattárolás időtartama, törlés időpontja
+Adatkezelés jogalapja
+Az időpontokról az Adatkezelő nyilvántartást vezet. A nyilvántartás a foglalt időpontokat, valamint
+a) a beutaló azonosító adatait, tartalmát és a beutaló felhasználhatóságára vonatkozó információkat,
+b) a beutaló továbbítására, módosítására és visszavonására vonatkozó adatokat, valamint
+c) a beutaló felhasználására vonatkozó adatokat
+tartalmazza.
+[Ebtv. 18/A. § (3) bek.]
+Adatkezelő, mint az EESZT működtetője biztosítja, hogy a beutalásra jogosult, valamint a biztosított a beutaló szerinti egészségügyi szolgáltatás konkrét egészségügyi szolgáltatónál és időpontban történő igénybevételére vonatkozó igényét az EESZT útján terjessze elő, valamint ennek sikerességéről vagy sikertelenségéről az egészségügyi szolgáltató az EESZT útján (a Lakossági Portálon és az Alkalmazáson keresztül) tájékoztassa a beutalásra jogosultat, illetve a biztosítottat.
+[Ebtv. 18/A. § (2) bek.)]
+[217/1997. (XII. 1.) Korm. rendelet 5/E. § - 5/H. §]
+[Ebtv. 18/A. § (2) bek.)]
+Az Adatkezelő, mint az EESZT működtetője a foglalások időpontjától számított 5 év elteltével törli az időpont nyilvántartás adatait. [Ebtv. 18/A. § (4) bek.] Az EESZT-ből átvett adatok az Alkalmazás törléséig érhetők el a mobilalkalmazásban.
+Közérdekű feladat végrehajtása (GDPR 6. cikk (1) bek. e) az Eüak. 35/A. § (2a) bekezdése, az Ebtv. 18/A. § (2)-(3) bekezdései, valamint a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet 5/E. § - 5/H. § a szerint
+5.5
+Receptek
+Felhasználó az Alkalmazás keretein belül
+hozzáférhet
+a korábbi ellátásai során részére
+felírt érvényes, lejárt és kiváltott elektronikus receptekhez
+(gyógyszer és gyógyászati segédeszköz vényekhez egyaránt).
+A receptek egyesével történő kiváltása az Alkalmazásban megjelenő
+vonalkódok
+gyógyszertárban történő bemutatásával lehetséges.
+Az Alkalmazás lehetőséget biztosít a Felhasználónak, hogy – több recept kiválasztását követően – az Alkalmazás által generált QR kód használatával egyszerre kiválthassa a kiválasztott recepteket, a QR kódnak gyógyszertárban történő bemutatásával. A QR kód addig látható, amíg az Alkalmazásban el nem navigál a QR kód generálás recept kiváltás oldalról.Adatkezelő -mint egyben az EESZT működtetője és az EESZT-ben tárolt adatok adatkezelője -, az Alkalmazásban elérhető EESZT szolgáltatásai kapcsán az EESZT-ben szereplő adatok visszamutatását / a funkció használata során megadott adatok EESZT-ben rögzítését végzi.
+Ezen funkció jogszabályi hátterét az Eüak. 35/A. § (2a) bekezdése, illetve az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló 44/2004. (IV. 28.) ESzCsM rendelet 11/B. (3) bekezdése biztosítja.
+Az elektronikus vénynyilvántartásról (eRecept) az EESZT adatkezelési tájékoztatójában talál részletes tájékoztatást, amely elérhető:
+https://e-egeszsegugy.gov.hu/adatvedelem
+oldalon. Az EESZT-ből átvett adatok az Alkalmazás törléséig érhetők el a mobilalkalmazásban.
+5.6
+Értesítések
+Az EESZT értesítéseket küldhet a Felhasználó készülékére az Alkalmazásban elérhető funkciók által biztosított szolgáltatásokkal kapcsolatban. Az értesítések - azok megnyitásától függetlenül - egy hónapig kerülnek tárolásra.
+A mobileszközre érkező ún. „push értesítéseket” a Felhasználó az eszközén engedélyezheti, letilthatja, ettől függetlenül az Értesítések menüpont alatt megtekinthetőek maradnak a már beérkezett üzenetek.
+EESZT-be kerülő adatokról és kapcsolódó eseményekről kért értesítésekről tájékoztatást az EESZT adatkezelési tájékoztatójában talál, amely elérhető:
+https://e-egeszsegugy.gov.hu/adatvedelem
+oldalon.
+Amennyiben Felhasználó az Alkalmazást több készüléken párhuzamosan nyitja meg, úgy erről minden esetben külön értesítést küld az Alkalmazás.
+5.7
+Token generálása
+Az Alkalmazás útján generált, 1 percig érvényes token (egyedi számsor) felhasználásával léphet be a Felhasználó az EESZT Lakossági Portál időpontfoglaló felületére.
+5.8
+Kedvencek
+A Felhasználó a Kedvencek (a továbbiakban: Kedvencek) közé kigyűjtheti a már általa megtekintett Digitális Covid-igazolványokat, dokumentumokat és recepteket. Amennyiben az eredeti, már megtekintett dokumentumot a készülékéről törli, úgy azok a Kedvencek funkción keresztül sem érhetőek el a továbbiakban.
+Adatkezelő -mint egyben az EESZT működtetője és az EESZT-ben tárolt adatok adatkezelője -, az Alkalmazásban elérhető EESZT szolgáltatásai kapcsán az EESZT-ben szereplő adatok visszamutatását / a funkció használata során megadott adatok EESZT-ben rögzítését végzi az Eüak. 35/A. § (2a) bekezdése alapján.
+Az EESZT adatkezelési tájékoztatója elérhető:
+https://e-egeszsegugy.gov.hu/adatvedelem
+5.9
+Háziorvos adatai
+Adatkezelő, mint az EESZT működtetője az Elektronikus Egészségügyi Szolgáltatási Térrel kapcsolatos részletes szabályokról szóló 39/2016. (XII. 21.) EMMI rendelet 2. mellékletének 8. pontja értelmében törzsadat-publikáció keretében teszi elérhetővé a Felhasználó számára a háziorvosi szolgálat adatait az Alkalmazásban. Az Alkalmazásban így megjelenik a Felhasználó nyilvántartásba vett háziorvosának neve, orvosi pecsétszáma, telefonos elérhetősége, rendelési ideje. Az adatkezelés jogalapja a közérdekű feladat végrehajtása (GDPR 6. cikk (1) bek. e) az Eüak. 35/A. § (2) bekezdése szerint.
+Az adatok forrását a Nemzeti Egészségbiztosítási Alapkezelő és a Nemzeti Népegészségügyi és Gyógyszerészeti Központ biztosítja és tartja naprakészen, az Alkalmazás a szolgáltatott adatok visszamutatását végzi.
+Az EESZT adatkezelési tájékoztatója elérhető:
+https://e-egeszsegugy.gov.hu/adatvedelem
+. Az EESZT-ből átvett adatok az Alkalmazás törléséig érhetők el az Alkalmazásban.
+5.10   TB lámpa
+A Felhasználó ellenőrizheti a társadalombiztosítási azonosító jelének (TAJ) érvényességét és társadalombiztosítási (TB) jogviszonyának állapotát. Az adatok tájékoztató jellegűek, nem helyettesítik a TAJ-kártyát.
+A vonatkozó adatokat a Nemzeti Egészségbiztosítási Alapkezelő (NEAK) szolgáltatja és tartja naprakészen. Adatkezelő a szóban forgó adatok NEAK-tól történő lekérdezését követően az Alkalmazásban a szolgáltatott adatok visszamutatását végzi. Az Alkalmazás a visszamutatás során nem tárol személyes adatot. A TB jogviszonyra és TAJ-szám érvényességére vonatkozó adatok az EESZT-ben nem jelennek meg.
+5.11   Gyógyszertárak
+A Gyógyszertárak menüpont használatával megtekinthető a normál, ügyeletes, illetve készenlétes nyitvatartású gyógyszertárak listája.
+A funkció első használatakor a készülék operációs rendszere felugró ablakban helymeghatározás engedélyezéséről való döntést kér. Amennyiben Ön engedélyezi a helymeghatározást, azt bármikor kikapcsolhatja készüléke menüjében.
+Az Ön helyzetmeghatározásával  kapcsolatos adatokat az Alkalmazás nem gyűjti, nem tárolja, azt csupán a funkció aktuális használatakor az Önhöz legközelebb eső gyógyszertárak listázásához használja fel. Az adatkezelés jogalapja a Felhasználó hozzájárulása (GDPR 6. cikk (1) bek. a) pont). Az Alkalmazás a funkció használatáig kezeli az adatokat.
+Amennyiben nem engedélyezi a helymeghatározást, manuális beállítással keresheti meg az Önhöz, vagy az Ön által meghatározott helyhez közel lévő patikákat. Az Alkalmazás ebben az esetben sem gyűjti és nem tárolja a megadott információkat, azokat csupán az Önhöz, vagy az Ön által meghatározott helyhez legközelebb eső gyógyszertárak listázásához használja fel. Az adatkezelés jogalapja a Felhasználó hozzájárulása (GDPR 6. cikk (1) bek. a) pont). Az Alkalmazás a funkció használatáig kezeli az adatokat.
+Az Alkalmazásban feltüntetett távolságok csak tájékoztató jellegűek.
+Lehetőség van a kiválasztott gyógyszertárhoz történő navigálásra. Ennek keretében az Alkalmazás a felugró ablakban Ön által kiválasztott, az okoseszközén rendelkezésre álló valamely navigációs szolgáltatással rendelkező alkalmazásnak átadja az Ön által kiválasztott gyógyszertár koordinátáit. Az Ön helyzetével kapcsolatos adat nem kerül átadásra. A gyógyszertárhoz történő útvonaltervezés és navigáció teljes mértékben az Ön által választott navigációs alkalmazás keretében zajlik, amelyre az Adatkezelőnek nincs ráhatása.
+A gyógyszertárakra vonatkozó adatokat a Nemzeti Népegészségügyi és Gyógyszerészeti Központ  szolgáltatja és tartja naprakészen.
+5.12   Várandósgondozási könyv
+Várandósgondozási könyv menüben a várandós kismamára vonatkozó, a várandósággal és a gondozással kapcsolatos információk, események, vizsgálatok, eredmények találhatók meg.  Az adatokat a várandósgondozásban résztvevő védőnők rögzítik a vonatkozó – Védőnői Országos Információs Rendszer (VOIR) - szakrendszerben, amely adatok egészségügyi dokumentumként kerülnek az EESZT-be.
+Adatkezelő -mint egyben az EESZT működtetője és az EESZT-ben tárolt adatok adatkezelője -, az Alkalmazásban elérhető EESZT szolgáltatásai kapcsán az EESZT-ben szereplő adatok visszamutatását / a funkció használata során megadott adatok EESZT-ben rögzítését végzi az Eüak. 35/A. § (2a) bekezdése alapján.
+Kezelt személyes adatok típusa
+Adatkezelés célja
+Adattárolás időtartama, törlés időpontja
+Adatkezelés jogalapja
+VOIR-ból származó várandósgondozás dokumentációjának adatai [a várandósgondozásról szóló 26/2014. (IV. 8.) EMMI rendelet;
+39/2016. (XII. 21.) EMMI rendelet 4. mellékletének 15. pontja)
+A Várandósgondozási könyv visszamutatása, egyszerű és áttekinthető elérhetőségének biztosítása.
+Az Adatkezelő, mint az EESZT működtetője a várandósgondozási könyveket az egészségügyi dokumentációra vonatkozó szabályok szerint őrzi meg.
+Az EESZT-ből átvett adatok az Alkalmazás törléséig érhetők el a mobilalkalmazásban.
+Közérdekű feladat végrehajtása (GDPR 6. cikk (1) bek. e) az Eüak. 35/A. § (2a) bekezdése, a várandósgondozásról szóló 26/2014. (IV. 8.) EMMI rendelet; valamint a
+39/2016. (XII. 21.) EMMI rendelet 4. melléklet 13. pontja szerint
+Az egészségügyi dokumentumok nyilvántartásáról az EESZT adatkezelési tájékoztatójában talál részletes tájékoztatást, amely elérhető: https://e-egeszsegugy.gov.hu/adatvedelem oldalon. Az EESZT-ből átvett adatok és dokumentumok az Alkalmazás törléséig érhetők el az Alkalmazásban.
+5.13   Betegelégedettségi kérdőív
+A páciensek anonim módon visszajelzést adhatnak – meghatározott szakellátások esetében – az általuk igénybe vett járóbeteg szakellátások során - az intézményben - szerzett tapasztalataikról. A betegelégedettségi kérdőív kitöltése önkéntes, az értékelés anonim módon kerül tárolásra, csak az intézményre és az ellátásra vonatkozó információk kerülnek feldolgozásra. Minden, a Felhasználó által igénybevett egészségügyi ellátásra csak egyszer adható visszajelzés. Az értékelés beküldésével az Érintett hozzájárulását adja a személyes adatainak a kezeléséhez. Az értékelés beküldésére csak 18 év feletti Felhasználó jogosult.
+Kezelt személyes adatok típusa
+Adatkezelés célja
+Adattárolás időtartama, törlés időpontja
+Adatkezelés jogalapja
+eszközazonosító;
+értékelésre kerülő eseménykatalógus bejegyzés EESZT azonosítója;
+értékelés
+Az egészségügyi ellátás és betegelégedettség fejlesztése.
+A bejelentkezett Érintett által leadott értékelés a beküldés pillanatában azonnal anonimizálásra kerül. Ezt követően csak az ellátás napja, az érintett intézmény szervezeti egység, az orvos pecsétszáma és az adott értékelés kerül – anonim módon – tárolásra.
+az Érintett hozzájárulása (GDPR 6. cikk (1) bek. a)
+5.14  Az Alkalmazás üzemeltetéséhez és fejlesztéséhez használt eszközök által megvalósuló adatkezelések
+Az Alkalmazás üzemeltetése során az Adatkezelő az alábbi eszközrendszert használja, amely a következő eszközök alkalmazását jelenti:
+Google Firebase: amely a keretrendszerét adja a Google által kínált és Adatkezelő által használt további szolgáltatásoknak, ebben személyes adat kezelése nem valósul meg, de a Google Firebase a feltétele a Google Firebase Cloud Messaging és a Google Analytics for Firebase használatának,
+Google Firebase Cloud Messaging: amely lehetővé teszi az Alkalmazáson belül üzenetek küldését Android készülék esetén,
+Apple Push Notification service: amely lehetővé teszi az Alkalmazáson belül üzenetek küldését iOS készülék esetén,
+Google Analytics for Firebase: amely lehetővé teszi statisztikai mérések elvégzését az Alkalmazásban,
+Dynatrace Real User Monitoring: amely lehetővé teszi az Alkalmazás rendellenes működésének vizsgálatát, amelyhez kapcsolódóan adatokat továbbít az Adatkezelő számára.
+Az adatkezelési műveletek során profilalkotás nem valósul meg.
+Az egyes eszközök által kezelt személyes adatok típusa, az adatkezelés célja, az adattárolás időtartama, az adatkezelés jogalapja és az adattovábbítás címzettje:
+Kezelt személyes adatok típusa
+Adatkezelés célja
+Adattárolás időtartama, törlés időpontja
+Adatkezelés jogalapja
+Adatok címzettje
+Google Firebase Cloud Messaging (Android):
+az Alkalmazáson belül küldött push (megjelenítési) rendszerüzenet szövege,
+az Alkalmazáson belüli telepítés azonosítója.
+Az adatkezelés célja az Alkalmazás fejlesztési és alkalmazásüzemeltetési feladatainak ellátása, ezen belül az Alkalmazásban a Felhasználók felé push üzenetek küldése szolgáltatás segítségével.
+Az Alkalmazás Felhasználó általi használatának időtartama alatt
+Közérdekű feladat végrehajtása (GDPR 6. cikk (1) bek. e) pont szerinti adatkezelés: az Adatkezelőnek a központi egészséginformatikai
+szolgáltatásokról szóló 29/2022. (I. 31.) Korm. rendelet 2. § (1) bekezdése alapján az Alkalmazás fejlesztési, alkalmazásüzemeltetési feladatainak ellátása)
+Google Ireland Limited
+Apple Push Notification service (iOS):
+az Alkalmazáson belül küldött push (megjelenítési) rendszerüzenet szövege,
+az Alkalmazáson belüli telepítés azonosítója.
+Az adatkezelés célja az Alkalmazás fejlesztési és alkalmazásüzemeltetési feladatainak ellátása, ezen belül az Alkalmazásban a Felhasználók felé push üzenetek küldése a szolgáltatás segítségével.
+Az Alkalmazás Felhasználó általi használatának időtartama alatt
+Közérdekű feladat végrehajtása (GDPR 6. cikk (1) bek. e) pont szerinti adatkezelés: az Adatkezelőnek a központi egészséginformatikai szolgáltatásokról szóló 29/2022. (I. 31.) Korm. rendelet 2. § (1) bekezdése alapján az Alkalmazás fejlesztési, alkalmazásüzemeltetési feladatainak ellátása)
+-
+Google Analytics for Firebase:
+Munkamenet időtartama,
+Földrajzi elhelyezkedés,
+Eszközinformáció (típus, operációs rendszer),
+Alkalmazás használati adatai,
+mobil eszköz által használt IP cím,
+Felhasználó első alkalmazáshasználatának (látogatásának) ideje adott napon.
+Az adatkezelés célja az Alkalmazás fejlesztési és alkalmazásüzemeltetési feladatainak ellátása, ezen belül az Alkalmazás Felhasználóinak az Alkalmazás használatához kapcsolódó tevékenységének mérése, információ gyűjtése az Alkalmazás-
+használattal és az esetlegesen felmerülő Alkalmazáshibákkal kapcsolatban. Ezen információk az Alkalmazás fejlesztéséhez, hibajavításokhoz, Felhasználói igényekhez igazításhoz és az Alkalmazás egyes funkcióinak továbbfejlesztéséhez szükségesek.
+Rögzítéstől számított 14 hónap
+az Érintett hozzájárulása (GDPR 6. cikk (1) bek. a)
+Google Ireland Limited
+Dynatrace Real User Monitoring:
+a Felhasználó és az Alkalmazás közötti interakciókkal kapcsolatos adatok (arra vonatkozó adat, hogy milyen sebességgel sikerül az Alkalmazás egyes funkcióit használni),
+földrajzi elhelyezkedés,
+IP cím,
+Eszköz típusa,
+Operációs rendszer típusa és verziója,
+Szabad memória nagysága,
+Kapcsolat típusa,
+Akkumulátor állapota,
+Képernyő orientáció (álló, vagy fekvő),
+Hálózati technológia,
+kattintások száma,
+felhasználói tevékenység időtartama,
+mobiltelefon processzora használatra vonatkozó adatok,
+internet szolgáltató adatai,
+Módosított szoftverű (rootolt/jailbroken) készülék,
+nyelvbeállítások,
+képernyő felbontása.
+Az adatkezelés célja az Alkalmazás fejlesztési és alkalmazásüzemeltetési feladatainak ellátása, ezen belül az Alkalmazás nem rendeltetésszerű működésével kapcsolatos adatok gyűjtése a hibák javítása érdekében.
+Rögzítéstől számított 35 nap
+az Érintett hozzájárulása (GDPR 6. cikk (1) bek. a)
+6.  ÉRINTETTET MEGILLETŐ JOGOK
+A Felhasználókat, mint Érintetteket megillető jogokat az Adatkezelő alábbiak szerint biztosítja.
+A Felhasználó jogait az EESZT rendszerre vonatkozó szabályok szerinti módokon gyakorolhatja személyesen bármely Kormányablakban vagy elektronikusan a megfelelő, dedikált iForm elektronikus űrlap benyújtásával.
+6.1
+Az Érintett kérelmezheti az Adatkezelőnél az alábbiakat:
+tájékoztatást személyes adatai kezeléséről (az adatkezelés megkezdését megelőzően, illetve az adatkezelés során),
+hozzáférést személyes adataihoz (személyes adatai Adatkezelő általi rendelkezésére bocsátását),
+személyes adatainak helyesbítését, kiegészítését,
+személyes adatainak törlését vagy korlátozását,
+tiltakozhat személyes adatai kezelése ellen,
+a hozzájárulás visszavonásához való jogát gyakorolhatja.
+Az Adatkezelő az Érintett jogszerű kérelmét legfeljebb egy hónapon belül teljesíti (figyelembe véve a kérelem összetettségét és a kérelmek számát, ez a határidő indokolt esetben további két hónappal meghosszabbítható), és erről az Érintettet az általa megadott elérhetőségen értesíti.
+Az igényelt adatokat írásban (elektronikusan e-mailben vagy postai úton küldött levélben) adja meg az Adatkezelő, így ezen elérhetőségek egyikének megadása kötelező. Szóbeli tájékoztatást az Adatkezelő a kezelt adatokkal összefüggésben nem ad. Az Érintett személyazonosságát az Adatkezelő ellenőrzi.
+6.2
+A tájékoztatás kéréshez való jog (Általános Adatvédelmi Rendelet 13-14. cikkei alapján)
+Az Érintett írásban, bármely Kormányablakban a megfelelő kérelem űrlap beadásával, illetve iForm szolgáltatás útján
+https://magyarorszag.hu/szuf_ugyleiras?id=97cca781-3bca-4421-8c88-0cabff569336
+tájékoztatást kérhet az Adatkezelőtől arról, hogy
+milyen személyes adatait,
+milyen jogalapon,
+milyen adatkezelési cél miatt,
+milyen forrásból,
+mennyi ideig kezeli,
+alkalmaz-e adatfeldolgozót, ha igen, az esetleges adatfeldolgozó nevéről, címéről és az adatkezeléssel összefüggő tevékenységéről,
+az Adatkezelő kinek, mikor, milyen jogszabály alapján, mely személyes adataihoz biztosított hozzáférést vagy kinek továbbította a személyes adatait,
+az esetleges adatvédelmi incidens körülményeiről, hatásairól és az elhárítására megtett intézkedésekről.
+Kezelt adatokról való tájékoztatás kérése tárgyában az Érintett vagy írásbeli meghatalmazással rendelkező meghatalmazottja vagy okirattal igazolt törvényes képviselője is eljárhat. Nem személyes eljárás esetén a képviseleti jogosultságokat az eljárás során igazolni szükséges.
+6.3
+A hozzáféréshez való jog (Általános Adatvédelmi Rendelet 15. cikke alapján)
+Az Érintett jogosult arra, hogy az Adatkezelőtől visszajelzést kapjon arra vonatkozóan, hogy személyes adatainak kezelése folyamatban van-e, és ha ilyen adatkezelés folyamatban van, jogosult arra, hogy a kezelt személyes adataihoz hozzáférést kapjon, és ezt az Adatkezelőtől írásban kérheti. Ennek módja: bármely Kormányablakban a megfelelő kérelem űrlap beadásával, illetve iForm szolgáltatás útján:
+https://magyarorszag.hu/szuf_ugyleiras?id=97cca781-3bca-4421-8c88-0cabff569336
+Az Adatkezelő az adatkezelés tárgyát képező személyes adatok másolatát az Érintett rendelkezésére bocsátja. Ha az Érintett elektronikus úton nyújtotta be a kérelmet, az információkat széles körben használt elektronikus formátumban kell rendelkezésre bocsátani, kivéve, ha az Érintett másként kéri.
+6.4
+A helyesbítéshez, kiegészítéshez való jog (Általános Adatvédelmi Rendelet 16. cikke alapján)
+Az Érintett írásban kérheti, hogy az Adatkezelő módosítsa valamely személyes adatát. Figyelembe véve az adatkezelés célját, az Érintett jogosult arra, hogy kérje az Adatkezelő által kezelt hiányos személyes adatai megfelelő kiegészítését. Az adat helyesbítésének kérése esetén a módosítani kért adat valóságát az Érintettnek alá kell támasztania, és igazolnia kell azt, hogy valóban az arra jogosult személy kéri az adat módosítását.
+A helyesbítési, kiegészítési kérelmet bármely Kormányablakban a megfelelő kérelem űrlap beadásával, illetve iForm szolgáltatás útján (
+https://magyarorszag.hu/szuf_ugyleiras?id=689987ef-0f31-4073-8feb-9421d9cf24d6&_n=elektronikus_egeszsegugyi_szolgaltatasi_terrel_kapcsolatos_adatmodositas_iranti_kerelem
+) lehet megtenni.
+Kezelt adatok helyesbítése, kiegészítése tárgyában az Érintett vagy írásbeli meghatalmazással rendelkező meghatalmazottja vagy okirattal igazolt törvényes képviselője is eljárhat. Nem személyes eljárás esetén a képviseleti jogosultságot az eljárás során igazolni szükséges.
+A kérelem benyújtását követően a kérelem ténye rögzítésre kerül, és az Adatkezelő a kérdéses adat hozzáférhetőségét kérelem alapján korlátozza az EESZT-ben. Amennyiben valamely csatlakozott adatkezelő által rögzített adat vonatkozásában kerül benyújtásra a kérelem, a Kormányablak vagy az Adatkezelő tájékoztatást ad az Érintettnek az adatot rögzítő intézményről, illetve személyről, akihez címzett kérelmében az Érintett kérheti az adat helyesbítését, illetve kiegészítését.
+6.5
+A törléshez való jog (Általános Adatvédelmi Rendelet 17. cikke alapján)
+A vonatkozó jogszabályok szerinti személyes adatokat az Adatkezelő a jelen adatkezelési tájékoztatóban foglalt adatkezelési időtartamig kezeli.
+Az Érintett jogosult arra, hogy kérésére az Adatkezelő indokolatlan késedelem nélkül törölje a rá vonatkozó személyes adatokat, az Adatkezelő pedig köteles arra, hogy az Érintettre vonatkozó személyes adatokat indokolatlan késedelem nélkül törölje, ha az alábbi indokok valamelyike fennáll:
+a személyes adatokra már nincs szükség abból a célból, amelyből azokat gyűjtötték vagy más módon kezelték;
+az Érintett visszavonja a GDPR 6. cikk (1) bekezdésének a) pontja vagy a 9. cikk (2) bekezdésének a) pontja értelmében az adatkezelés alapját képező hozzájárulását, és az adatkezelésnek nincs más jogalapja;
+az Érintett a GDPR 21. cikk (1) bekezdése alapján tiltakozik az adatkezelés ellen, és nincs elsőbbséget élvező jogszerű ok az adatkezelésre, vagy az Érintett a GDPR 21. cikk (2) bekezdése alapján tiltakozik az adatkezelés ellen;
+a személyes adatokat jogellenesen kezelték;
+a személyes adatokat az Adatkezelőre alkalmazandó, az Európai Unió kötelező jogi aktusában vagy jogszabályban előírt jogi kötelezettség teljesítéséhez törölni kell.
+Nem törölhető az adat, amennyiben az adatkezelés szükséges:
+a véleménynyilvánítás szabadságához és a tájékozódáshoz való jog gyakorlása céljából;
+a személyes adatok kezelését előíró, az Adatkezelőre alkalmazandó, az Európai Unió kötelező jogi aktusában vagy jogszabály szerinti kötelezettség teljesítése, illetve közérdekből vagy az Adatkezelőre ruházott közhatalmi jogosítvány gyakorlása keretében végzett feladat végrehajtása céljából;
+az általános adatvédelmi rendelet 9. cikk (2) bekezdés h) és i) pontjának, valamint az általános adatvédelmi rendelet 9. cikk (3) bekezdésének megfelelően a népegészségügy területét érintő közérdek alapján;
+az általános adatvédelmi rendelet 89. cikk (1) bekezdésével összhangban a közérdekű archiválás céljából, tudományos és történelmi kutatási célból vagy statisztikai célból, amennyiben a törléshez való jog valószínűsíthetően lehetetlenné tenné vagy komolyan veszélyeztetné ezt az adatkezelést; vagy
+jogi igények előterjesztéséhez, érvényesítéséhez, illetve védelméhez.
+6.6   Az adatkezelés korlátozásához való jog (Általános Adatvédelmi Rendelet 18. cikke alapján)
+Az Érintett írásban az alábbi esetekre vonatkozó megfelelő kérelem űrlapon bármely Kormányablakban, illetve iForm szolgáltatás útján kérheti, hogy a személyes adataival összefüggésben az adatkezelést az Adatkezelő korlátozza, ha az alábbiak valamelyike teljesül:
+az Érintett vitatja a személyes adatok pontosságát, ez esetben a korlátozás arra az időtartamra vonatkozik, amely lehetővé teszi, hogy az Adatkezelő ellenőrizze a személyes adatok pontosságát;
+az adatkezelés jogellenes, és az Érintett ellenzi az adatok törlését, és ehelyett kéri azok felhasználásának korlátozását;
+az Adatkezelőnek már nincs szüksége a személyes adatokra adatkezelés céljából, de az Érintett igényli azokat jogi igények előterjesztéséhez, érvényesítéséhez vagy védelméhez; vagy
+az Érintett az általános adatvédelmi rendelet 21. cikk (1) bekezdése szerint tiltakozott az adatkezelés ellen; ez esetben a korlátozás arra az időtartamra vonatkozik, amíg megállapításra nem kerül, hogy az Adatkezelő jogos indokai elsőbbséget élveznek-e az Érintett jogos indokaival szemben
+.
+Ha az adatkezelés a fentiek alapján korlátozás alá esik, az ilyen személyes adatokat a tárolás kivételével csak az Érintett hozzájárulásával, vagy jogi igények előterjesztéséhez, érvényesítéséhez vagy védelméhez, vagy más természetes vagy jogi személy jogainak védelme érdekében, vagy az Európai Unió, illetve valamely tagállam fontos közérdekéből lehet kezelni.
+Az Adatkezelő az Érintettet – akinek a kérésére korlátozták az adatkezelést – az adatkezelés korlátozásának feloldásáról előzetesen tájékoztatja.
+6.7
+A tiltakozáshoz való jog (Általános Adatvédelmi Rendelet 21. cikke alapján)
+Az Érintett tiltakozhat személyes adatainak az általános adatvédelmi rendelet 6. cikk (1) bekezdés e), valamint f) pontja szerinti kezelése ellen, ideértve az említett rendelkezéseken alapuló profilalkotást is. Ebben az esetben az Adatkezelő a személyes adatokat nem kezeli tovább, kivéve, ha az Adatkezelő bizonyítja, hogy az adatkezelést olyan kényszerítő erejű jogos okok indokolják, amelyek elsőbbséget élveznek az Érintett érdekeivel, jogaival és szabadságaival szemben, vagy amelyek jogi igények előterjesztéséhez, érvényesítéséhez vagy védelméhez kapcsolódnak.
+Az Érintett a gyógyszerészek által EESZT útján történő adatmegismerés ellen is tiltakozhat, amely tiltakozás azonban nem befolyásolja az adott gyógyszertárban kiváltott készítmények megismerhetőségére és a nem EESZT útján történő lekérdezésre vonatkozó jogosultságot.
+Az Érintett a Kormányablakban, vagy iForm szolgáltatás (
+https://magyarorszag.hu/szuf_ugyleiras?id=ae493161-9de4-4e2c-8755-5306effe8eff&_n=tiltakozas_tovabbitasa_az_elektronikus_egeszsegugyi_szolgaltatasi_terben_tarolt_szemelyes_adatok_kezelese_ellen
+) útján, valamint az EESZT erre rendelt funkciói segítségével tud tiltakozni az előbbiekben meghatározott körben személyes adatainak kezelése ellen.
+A tiltakozás tárgyában az Érintett vagy írásbeli meghatalmazással rendelkező meghatalmazottja vagy okirattal igazolt törvényes képviselője is eljárhat. Nem személyes eljárás esetén a képviseleti jogosultságokat az eljárás során igazolni szükséges.
+A tiltakozás joga nem tévesztendő össze az adatok EESZT-be történő feltöltésére vonatkozó tiltással, hiszen míg a GDPR-ban deklarált tiltakozási jog már meglévő adatkezelés esetén alkalmazható, attól teljesen eltérő eset az adatkezelés megkezdésére vonatkozó nyilatkozat kérdésköre.
+6.8   A hozzájárulás visszavonásához való jog (Általános Adatvédelmi Rendelet 7. cikke alapján)
+Az Érintett jogosult arra, hogy hozzájárulását bármikor visszavonja. A hozzájárulás visszavonása nem érinti a hozzájáruláson alapuló, a visszavonás előtti adatkezelés jogszerűségét.
+Google Analytics és a Dynatrace használatához adott hozzájárulást az Alkalmazás adatvédelmi beállításai között bármikor visszavonhatja az Érintett.
+7.  JOGÉRVÉNYESÍTÉSI LEHETŐSÉGEK
+Bírósági eljárás kezdeményezése
+Az Érintett az Adatkezelő, illetve – az adatfeldolgozó tevékenységi körébe tartozó adatkezelési műveletekkel összefüggésben – az adatfeldolgozó ellen bírósághoz fordulhat, ha megítélése szerint az Adatkezelő, illetve az általa megbízott vagy rendelkezése alapján eljáró adatfeldolgozó a személyes adatait a személyes adatok kezelésére vonatkozó, jogszabályban vagy az Európai Unió kötelező jogi aktusában meghatározott előírások megsértésével kezeli.
+A per elbírálása a törvényszék hatáskörébe tartozik. A per – az Érintett választása szerint – az Érintett lakóhelye vagy tartózkodási helye szerinti illetékes törvényszék előtt is megindítható.
+Az Adatkezelő az Érintett adatainak jogellenes kezelésével vagy az adatbiztonság követelményeinek megszegésével okozott kárt megtéríti, ugyanakkor mentesül a felelősség alól, ha a kárt az adatkezelés körén kívül eső elháríthatatlan ok idézte elő.  Az Adatkezelő nem téríti meg a kárt annyiban, amennyiben az a károsult szándékos vagy súlyosan gondatlan magatartásából származott. Az Érintett személyiségi jogának megsértése esetén az Érintett sérelmdíjat követelhet.
+Hatósági eljárás kezdeményezése
+Az Érintett a Nemzeti Adatvédelmi és Információszabadság Hatóságnál (1055 Budapest, Falk Miksa utca 9-11, honlap:
+http://naih.hu
+; postacím: 1363 Budapest, Pf.: 9.; telefon: +36-1-391-1400; fax: +36-1-391-1410; e-mail:
+ugyfelszolgalat@naih.hu
+) jogainak érvényesítése érdekében vizsgálatot, illetve hatósági eljárás lefolytatását kezdeményezhet arra hivatkozással, hogy a személyes adatai kezelésével kapcsolatban jogsérelem következett be, vagy annak közvetlen veszélye fennáll, így különösen
+ha véleménye szerint az Adatkezelő az Érintetti jogainak érvényesítését korlátozza vagy ezen jogainak érvényesítésére irányuló kérelmét elutasítja (vizsgálat kezdeményezése), valamint
+ha megítélése szerint személyes adatainak kezelése során az Adatkezelő, illetve az általa megbízott vagy rendelkezése alapján eljáró adatfeldolgozó megsérti a személyes adatok kezelésére vonatkozó, jogszabályban vagy az Európai Unió kötelező jogi aktusában meghatározott előírásokat (hatósági eljárás lefolytatásának kérelmezése).
+8.  ADATBIZTONSÁG
+Az Adatkezelő kötelezi magát, hogy gondoskodik az adatok biztonságáról, megteszi továbbá azokat a technikai intézkedéseket, amelyek biztosítják, hogy a felvett, tárolt, illetve kezelt adatok védettek legyenek, illetőleg mindent megtesz annak érdekében, hogy megakadályozza azok megsemmisülését, jogosulatlan felhasználását és jogosulatlan megváltoztatását. Kötelezi magát arra is, hogy minden olyan harmadik felet, akiknek az adatokat esetlegesen továbbítja vagy átadja, ugyancsak felhívja ez irányú kötelezettségeinek teljesítésére.
+9.  EGYÉB RENDELKEZÉSEK
+Adatkezelő fenntartja a jogot, hogy jelen Adatkezelési Tájékoztatót egyoldalúan módosítsa. A módosítás hatályba lépését követően Adatkezelő gondoskodik a módosított Adatkezelési Tájékoztató elérhetővé és megismerhetővé tételéről az Érintettek számára.
+Frissítve: 2025.03.05 20:37

@@ -1,0 +1,15 @@
+The Bluetooth Developer App is made to help you developing with bluetooth devices and understanding how they work.
+You can:
+- Find & see nearby devices
+- View manufacturer data and signal strength
+- Connect and read out data
+- See before connecting if a device is possible an apple or android device
+- See what kind of device (TV, headphones, etc) a device is before connecting
+- Read out advertisement data
+- Pair some devices to your phone
+- See information about services and characteristics
+- Read out characteristic values and parse them (currently in UTF8 format)
+- Read out heartbeat and heartbeat sensor location data
+This app does not collect any data about the user.
+2023 Matthias Zarzecki
+The professional custom website design builder for startups, designers and agencies.

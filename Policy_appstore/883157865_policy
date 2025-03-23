@@ -1,0 +1,32 @@
+Privacy considerations in CBDC systems – New whitepaper by Crunchfish
+2024-05-28
+|
+Crunchfish
+Digital Cash
+Privacy is an area that has not been explored deeply for CBDC systems, yet it is key for public adoption of digital currencies. In this whitepaper, Crunchfish outlines practical considerations for how privacy may be implemented in CBDC systems and presents an innovation that balances the public’s need for privacy with regulatory requirements for transactional traceability.
+This whitepaper introduces a way of implementing privacy in CBDC systems. Crunchfish has
+recently implemented and patented a novel approach with balance reconciliation
+. Private transactions are encrypted and sent to the backend, but where the keys used for the transaction are wallet keys, in contrast to prior art using public keys controlled by either the issuer or an escrow agent. In this way the payer is in full control of the privacy of their transactions even if all private transactions are sent to the online ledger encrypted. In this innovative way, regulatory requirements for transactional traceability are balanced with requirements for privacy where the payer is in full control of the encrypted transactional data for amounts below defined thresholds, defined by the issuer and the regulator. If the issuer suspects an attack by the payer, the issuer can contact the payer for permission to decrypt the data. In case the payer is not willing to grant access, the issuer may decide to lock the wallet or disallow any more private transactions.
+The whitepaper is attached to this communication and available with other
+Crunchfish whitepapers
+. This whitepaper is published also as a
+supplement to Central Bank Payments News, May 2024
+. At the
+Central Bank Payment Conference
+in Kuala Lumpur on June 10-12, Crunchfish will present technical ways to guarantee true
+privacy in CBDC systems and discuss security and scalability issues for hardware- and software-based CBDC mobile wallets.
+For more information, please contact:
+Joachim Samuelsson, CEO of Crunchfish AB
++46
+708 46 47 88
+joachim.samuelsson@crunchfish.com
+This information was provided by the above for publication on 28th May 2024 at 08:30 CET.
+Västra Hamnen Corporate Finance AB is the Certified Adviser. Email:
+ca@vhcorp.se
+. Telephone +46 40 200
+250.
+About Crunchfish –
+crunchfish.com
+Crunchfish is a deep tech company developing a Digital Cash platform for Banks, Payment Services and CBDC implementations and Gesture Interaction technology for AR/VR and automotive industry. Crunchfish is listed on Nasdaq First North Growth Market since 2016, with headquarters in Malmö, Sweden and with a subsidiary in India.
+Access to the full white paper following this link
+Download as PDF

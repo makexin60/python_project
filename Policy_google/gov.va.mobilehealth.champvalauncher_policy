@@ -1,0 +1,582 @@
+Toggle Table of Content
+Human Factors Engineering
+HFE Mobile App Review Process
+Human Factors Engineering (HFE) Compliance Self-Certification
+Code Review
+Data Security
+Patient Safety
+Privacy and Application Data Security
+Section 508 Compliance
+VA Mobile Branding Requirements and Resources
+Web App Security
+Human Factors Engineering
+VA mobile apps must meet safety and usability requirements set forth by the Human Factors Engineering (HFE) division within the Clinical Informatics and Data Management Office (CIDMO).
+What is Human Factors Engineering?
+As a discipline, human factors engineering studies how people interact with devices, products, and systems. Behavioral science, engineering, and other disciplines come together to help assure that devices and systems are usable by the people who are meant to use them. Human Factors Engineering (HFE) is a division within the Clinical Informatics and Data Management Office (CIDMO) in the Office of Health Informatics (OHI).
+HFE’s mission is to maximize efficiency, effectiveness, satisfaction, and safety of VA systems by using analysis methods and design principles based on knowledge of human capabilities and limitations. This effort takes place throughout the engineering lifecycle. HFE focuses on collaborative efforts to optimize design, minimize risk of human error, and ensure systems and services are engineered for human use.
+What does HFE do?
+HFE offers analysis, design, and testing methods to improve the safety and usability of systems used by Veterans, Caregivers, and VHA employees. Its goal is to maximize system performance. HFE promotes the benefits of the Human Centered Design process, which aims to make systems usable and useful by focusing on the users, their needs, and end-user requirements.
+In support of OHI’s mission, HFE provides guidance on human performance risks and issues in order to enable informed decision-making. It makes recommendations that result in streamlined policies, processes, procedures, and operations. It also advises on ways to reduce operating costs, increase safety, performance, efficiency, and effectiveness of health information technology across VA.
+For VA Mobile, the HFE team works with developers to ensure that mobile applications meet usability standards and “acceptable use” criteria. These reviews are meant to ensure a minimum level of usability by identifying issues that would lead to dissatisfaction among end users.
+What is the value of involving HFE?
+Use HFE early to gain knowledge of user needs when there is high design flexibility, available resources, and low risk. Without early validation of customer or end user needs through HFE, risk is back loaded. The goal is to identify any potential risks early in the development process, and avoid the need for design changes later in the process due to unforeseen risks. If risks are not identified until later in the system development lifecycle, there may be much less design flexibility and a lack of resources to addresses issues that may arise.
+How and when can you get involved?
+The earlier HFE can engage with project teams, the higher the likelihood of positively impacting information architecture and optimizing the user interface design. Considering usability early in the design process will reduce the number of iterations needed to create an effective, efficient, and safe product. This ultimately saves time and money. When first setting development requirements, consider the opportunity to consult with HFE, so we can provide recommendations for the best way to incorporate HCD in your development process.
+To learn more about HFE and its services or request support contact
+vha10p2hfq@va.gov
+. Developers should visit
+HFE’s Mobile App Review Process
+to learn more about how HFE can help ensure a positive, meaningful and valuable experience for your users.
+HFE Mobile App Review Process
+The VHA Office of Health Informatics Human Factors Engineering (HFE) works with developers to ensure that mobile applications (apps) meet usability standards and “acceptable use” criteria. The HFE compliance review ensures that an app meets an acceptable level of usability for the end user. This is done by identifying any issues that would lead to end user dissatisfaction with the app. When HFE receives a compliance review request from the app developer, HFE conducts a
+Heuristic Evaluation (HE)
+(link is external)
+, (VA Network Access Required:
+https://dvagov.sharepoint.com/sites/vhahumanfactors/boksitepages/methods/heuristic%20evaluation.aspx
+) where a human factors expert evaluates the app against a pre-defined set of widely accepted usability heuristics (considered standards of best practices in both business and academia), and then reports any issues found, categorized as “Serious”, “Moderate”, or “Minor” severity.
+What is a Heuristic Evaluation?
+HEs are not a pass/fail metric. The purpose of an HE is to identify issues that are expected to impact use in a negative way. The “Serious”, “Moderate”, and “Minor” ratings indicate how likely the issue is to impact a user’s experience with the app. HFE recommends addressing all “Serious” issues if possible, and, as resources allow, addressing “Moderate” and “Minor” issues. HFE will work with the app development team to track any changes made, along with justifications for why certain changes might not be pursued for each finding.
+HEs offer a number of benefits for development teams compared to other HFE methods:
+HEs can be completed at various points in the development process.
+HEs typically do not require advance planning.
+HEs can typically be turned around approximately one week, depending on size.
+HEs can serve as a pretest for user testing if additional testing is needed.
+What is Usability Testing?
+In some cases HFE may recommend or require additional evaluations, such as usability testing. Usability testing is usually done when end-user input and perspective can provide additional insight into an app's usability. Like HEs, Usability Testing can be done at various points throughout the development process. There are two types of Usability Testing methods, and the final determination on which method HRE recommends is made in collaboration with the app development team.
+Formative Usability Testing
+(link is external)
+(VA Network Access Required: https://dvagov.sharepoint.com/sites/vhahumanfactors/boksitepages/methods/formative%20usability%20test.aspx) occurs during the development process, with a focus on eliminating usability issues.
+Summative Usability Testing
+(link is external)
+(VA Network Access Required:
+https://dvagov.sharepoint.com/sites/vhahumanfactors/BoKSitePages/Methods/Summative%20Usability%20Test.aspx
+) occurs upon completion of development, and focuses primarily on how the system meets usability benchmarks.
+Benefits of Engaging HFE Early
+App development teams are also encouraged to notify HFE when apps are registered. By working closely with HFE early in the app development process, the development team can ensure that its app will be intuitive, engaging, and well received by the end user.
+The following steps describe how an app development team might engage HFE for iterative expert reviews prior to the final compliance review:
+App developers request a review of a completed set of mock-ups (wireframes) or a partially completed app at any time before or during development. Developers provide HFE with the mock-ups or test environment and any associated documentation. A meeting is scheduled to discuss the app and address any clarifying questions.
+HFE conducts an initial evaluation of the app. This evaluation typically results in annotated screenshots and a findings table. The document is returned to developers as early as one week from the initial meeting.
+Business Owners and developers review the evaluation and document a response for each finding. Responses are discussed in a follow-up meeting with HFE.
+This process repeats at intervals appropriate to the app’s development; ideally, HFE will review after each significant change.
+In addition to expert reviews, HFE recommends development teams consider involving end users as often as possible.
+Note
+: The
+HFE User Interface (UI) Design Confirmation Review
+is a separate compliance review requirement.
+HFE is managed under the Clinical Informatics and Data Management Office (CIDMO)
+For more information pertaining to Human Factors Engineering, please refer to our
+Human Factors Engineering SharePoint site
+(link is external)
+(VA Network Access Required:
+https://dvagov.sharepoint.com/sites/vhahumanfactors/SitePages/HFE%20Division%20Home%20Page.aspx)
+If you would like to request HFE services, please contact
+VHA10p2HFQ@va.gov
+References
+Jakob Nielsen: Ten Usability Heuristics
+(link is external)
+BJ Fogg: Persuasive Technology: Using Computers to Change What We Think and Do
+Human Factors Engineering (HFE) Compliance Self-Certification
+VHA Health Informatics Human Factors Engineering (HFE) staff developed the Self-Certification Program to allow project teams to bring “usability thinking” and planning to earlier stages of mobile applications (apps) development. It will free up HFE to work with app developers at the beginning of the development cycles (when the impact is greater), resulting in a better user experience for Veterans and clinicians.
+A well-designed application allows the user to easily and intuitively complete tasks, without having to learn new conventions, or to think about where to find information or how to operate the app. The Self-Certification process allows project teams to certify that their apps meet usability criteria. An app that is efficient, effective and satisfying to the user will likely be used more often and not abandoned after the limited use.
+What is assessed?
+A compliance review of an app is composed of two primary parts: the Mobile User Interface (UI) Design Certification (UI Cert) and the Heuristic Evaluation (HE). The UI Cert is performed by comparing the app against a criteria list of key design standards and documenting any deviations, along with a severity rating. The HE is performed by reviewing an app, while being mindful of 10 industry standard heuristics, and assigning a severity rating to issues that violate those standards.
+Supporting documentation for the Self-Certification process is posted on the link below, under "References."
+What is the process?
+Project teams refer to the HFE
+UI Design Criteria and Heuristic Standards
+when the app is at the beginning stages of development, such as requirements analysis, and incorporate the best practices into the app design. A link to the criteria and standards appears below, under "References."
+Project teams can incorporate
+Usability Testing
+during the development of the app. Contact HFE to inquire about the testing services. A link to the HFE website appears below (under "References") and contains contact information.
+After the app has had a completed OI&T Verification and Validation (V&V) review and been approved to move forward for the final Mobile Health certifying body reviews, project teams download the HFE Self-Certification materials and commence with their
+UI Design Compliance Review
+.
+References:
+HFE Self-Certification Initiative Training Materials (VA Network Access Required) -
+https://dvagov.sharepoint.com/:w:/s/vhahumanfactors/EQQ6XWchJlhGrGWDCATwDxkBPLLaGjwPU_1r4clMQCmp4A
+(link is external)
+HFE Self-Certification Template (VA Network Access Required) -
+https://dvagov.sharepoint.com/:x:/s/vhahumanfactors/EQ4qpUzdMuJLqHDsAZW7seIBFllPZIvjA87pZMPnTrrARQ
+(link is external)
+For more information please visit the HFE SharePoint site (VA Network Access Required) -
+https://dvagov.sharepoint.com/sites/vhahumanfactors/SitePages/HFE%20Division%20Home%20Page.aspx
+(link is external)
+Code Review
+All apps must pass a Fortify code scan in the staging environment.
+The VA Office of Information Security (OIS) Software Assurance (SwA) Program Office ensures VA app developers adhere to VA requirements when they conduct the scan validation process. From OIS SwA:
+OIS Authorization Requirements SOP section Application Security Testing effectively requires CI/CD pipelines to be certified by OIS Software Assurance to increase the confidence in the security of continuous deployments. Certification tests OIS-licensed Fortify tool integrations in pipelines and pipeline workflows by reviewing scans produced for completeness and correctness. Projects, more specifically CI/CD pipelines for applications (or libraries, microservices, or scannable blocks of VA code) registered with OIS Software Assurance that successfully complete the Fortify scan validation process are then considered certified for their authorization period, during which time automated releases may be made according to applicable policies.
+Data Security
+The Veterans Health Administration (VHA) Healthcare Security Requirements (HCSR) Office reviews your mobile application (App) to ensure that it meets VA software data security standards. We ensure that your App complies with the Health Insurance Portability and Accountability Act of 1996 (HIPAA) and Security Rule specifications for protecting electronic Protected Health Information (ePHI). Additionally, we ensure that you implement sufficient security control during development to protect the Veteran’s PHI and personally identifiable information (PII) data. The objective of the data security reviews are to protect the Veteran’s ePHI/PII data from compromise or breach, be it of an intentional or unintentional nature, by ensuring the proper security control measures are implemented to prevent the theft, interception or alteration of the data.
+We ensure that if your App is designed or developed to transmit, store or process a Veteran’s ePHI/PII data has the appropriate security control measures to:
+Restrict access to the ePHI/PII data by password, personal identification number (PIN) or other appropriate access control mechanism that meets VA requirements
+Encrypt stored ePHI/PII data with Federal Information Processing Standard (FIPS) 140-2 (or its successor) validated encryption
+Encrypt ePHI/PII data transmitted to or from VA with FIPS 140-2 (or its successor) validated encryption
+Impose the removal mechanisms needed to sanitize all stored ePHI/PII, according to VA policy
+We review your Business Requirement Documents (BRDs), application user stories and technical development documents, such as Requirements Specification Documents (RSDs) and System Design Documents (SDDs), if they are available.
+References
+The VHA HCSR Office conducts the data security compliance reviews in accordance with the provisions of the HIPAA Security Rule and VA Handbook 6500,
+Risk Management Framework for VA Information Systems - Tier 3: VA Information Security Program
+.
+Patient Safety
+About the Patient Safety Assessment
+Patient safety reviews of mobile applications are conducted with the purpose of improving the safety of Health Information Technology (HIT) products used by the VA and Veterans. Currently, self-certifications of all major and minor version releases are completed by VA Product Owners and their supporting teams. The Informatics Patient Safety (IPS) Office is engaged by exception to support when needed. Process enhancements are in progress, including the addition of oversight by a VA Mobile Patient Safety Specialist.
+Patient Safety Compliance Review Process
+VA Product Managers, with the support of product management and development teams that often include clinical SMEs, complete an initial self-certification review of the mobile application. The assessment is then reviewed and approved by the VA Product Owner.
+The self-certification is conducted using a standard VA Mobile template that was designed based on recommendations from IPS and research of industry best practices and risk frameworks. The template instructs teams to identify all hazards that could lead to potential harm and provide a risk rating based on likelihood of occurrence and severity classification. Each finding must then have a related disposition documented (informed by the risk rating) that is reviewed and approved by the VA Product Manager and/or Product Owner.
+Following an initial self-certification, all subsequent minor and major version releases undergo review by the VA Product Manager and supporting team prior to release. The standard template is updated to reflect findings of the review, with a focus on any changes from the prior version. The VA Product Owner, as well as VA Mobile Patient Safety Specialist and/or IPS are engaged as needed.
+Patient Safety Review Results
+Results are reviewed with the VA Product Manager, Product Owner, and development team. The Patient Safety Specialist is engaged and advises as needed. Tickets for related development work are created in Jira, where all VA Mobile development work is tracked, and added to the document. Relevant findings are further shared with appropriate stakeholders, along with a plan of action.
+Recommendations for Enhancing Patient Safety
+Patient Safety can be enhanced by:
+Consideration for Patient Safety at
+all
+stages in the development life-cycle for mobile applications.
+Certain application characteristics and functionality.
+Development Process Enhancements
+Clearly define usage context: Users, Tasks, Technology, Environment of use
+Identify high-level tasks (clinical/medical tasks) early
+Connect user stories to high-level tasks
+Explicitly connect functionality to high-level tasks (this is sometimes called a
+Conceptual model
+)
+Pay particular attention to safety-critical tasks; a safety critical task is any action or decision whose failure could cause patient harm or a significant delay in care delivery
+Provide support for users needing immediate help during safety critical tasks
+Employ independent clinical review and usability testing of patient safety critical tasks
+Develop or utilize a user accessible post-deployment issue reporting system
+Application Design Enhancements
+When presenting information to the user:
+Make safety critical information salient
+Provide context qualifying information near data presented - e.g. units of measure
+Show deviation from the norm in results
+Inform the user when system errors/events occur they need to be aware
+Provide meaningful error messages
+Show how to get immediate help
+Show how to report patient safety issues
+Show who can see data entered
+Show the app version/build number
+Use language familiar to the user (especially for safety critical tasks)
+When supporting the entry of data by the user, help avoid incorrect action selection and data entry
+Have a confirmation step in some situations
+Have an undo capability
+References
+Bagian, J.P., Lee, C., Gosbee, J., DeRosier, J., Stalhandske, E., Eldridge, N., Williams, R., & Burkhardt, M. (2001). Developing and deploying a patient safety program in a large health care delivery system: You can’t fix what you don’t know about.
+Joint Commission Journal of Quality Improvement
+, 27, 522–532.
+Chapman R. J., Taylor, L. M., & Wood, S. D. (2012). Cataloging Errors from Reported Informatics Patient Safety Adverse Events. Proceedings of Human Factors and Ergonomics Society Healthcare Symposium, Baltimore, MD.
+DeRosier, J., Stalhandske, E., Bagian, J.P., & Nudell, T. (2002). Using Health Care Failure Mode and Effect Analysis™: The VA National Center for Patient Safety’s prospective risk analysis system.
+Joint Commission Journal of Quality Improvement
+, 28, 248–267.
+Draft Guidance for Industry and Food and Drug Administration Staff - Applying Human Factors and Usability Engineering to Optimize Medical Device Design.
+http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/default.htm
+(link is external)
+Johnson, J., ‎ Henderson, A., (2012).
+Conceptual Models: Core to Good Design. Morgan & Claypool
+.
+NIST EHR Usability Protocol (Lowry, et al. 2012)
+(NISTIR 7804) Technical Evaluation, Testing and Validation of the Usability of Electronic Health Records.
+http://www.nist.gov/manuscript-publication-search.cfm?pub_id=909701
+(link is external)
+http://www.nist.gov/manuscript-publication-search.cfm?pub_id=907849#
+(link is external)
+Wharton, C. Rieman, J., Lewis, C. and Polson, P. (1994). The Cognitive Walkthrough Method: A Practitioner's Guide. In J. Nielsen and R. Mack (eds.) Usability Inspection Methods (New York: Wiley) 105-140.
+Wood, S. D., Chapman R. J., Taylor, L. M., Wright, P., & Scott J. (2014). Identifying Latent Design Issues in Mobile Products to Prevent Patient Harm. Proceedings of Human Factors and Ergonomics Society Healthcare Symposium, Chicago, IL.
+Privacy and Application Data Security
+The VHA Privacy and Application Security offices ensure that mobile applications adhere to Privacy regulations and statutes as well as VA policy. We use the Privacy and Security checklist to determine if data is stored, transmitted or entered by the user, provider or employee. We also determine if there is sensitive information like Private Health Information (PHI) or Personally identifiable information (PII) stored on the App. If it is, the Data Security branch determines how the App protects the information. For an overview of the Healthcare Security process, please review
+this presentation
+.
+Privacy Issues
+Here are examples of the issues we examine to see how your App handles Privacy issues.
+Apps for Veterans:
+If the App retrieves VA Data from a VA database and stores it on the mobile device, an end user license agreement (EULA) states that the Veteran owns the locally stored data.
+If the App retrieves VA data from VA database but it is not stored on the Veteran’s device, the App's EULA states that the Veteran is not being provided a copy but is only being given access to the data through the device.
+If the App does not transmit a Veteran's self-entered data to VA, it securely stores it on the device as determined by an Information Security Officer.
+If the App transmits a Veteran's self-entered data to VA it does so in a manner that is covered by a Privacy Act system of records. The App's EULA states that the VA will receive the data entered by the user on the device.
+Apps for Providers:
+If the App transmits data from a Provider to VA, it does so in a manner that is covered by a Privacy Act system of records like the Mobile Application Environment (MAE) -VA 173VA005OP2.
+If the App displays any VA data retrieved from VA database and displayed to VA Providers in performance of their official duties, it does not store that data on the device.
+If the App retrieves VA data from VA database that a VA Provider modifies and then transmits to VA for inclusion, the record arrives in the appropriate Federal Record or in a Privacy Act System of Records. (For example, 24VA10P2)
+Section 508 Compliance
+The Office of Information andTechnology (OIT) Section 508 Office tests mobile content to verify that it complies with Section 508 standards, including 1194.21 (Software and Platforms), 1194.22 Web, 1194.24 (multimedia), and 1194.31 Functional Requirements. We work to facilitate access to mobile technologies for anyone with disabilities
+.
+We manually test VA platform-specific Apps directly on the device using its built-in accessibility features and supported methods. For example, we test with VoiceOver on iOS and Talkback on Android.
+We perform some automated testing on web-based content, but we also perform manual tests to ensure the (mobile application) App properly implements accessibility techniques on the device’s browsers.
+Note
+: App platforms have varying accessibility support. It is important to develop using the accessibility support of each platform you develop.
+Registration
+The Section 508 office maintains its own project system. It is important to register your App as early in Planning or Development as possible. To register your App, visit:
+http://www.insidetms.va.gov/VA_SubmissionForms/section508/default.asp
+Testing
+The following list describes some of the key areas that the Section 508 Office tests. It does not include all testing activities.
+Use of a color contrast checker to verify that all text and images of text meet color contrast requirements
+Manual tests to verify that color is not the sole means of communicating information
+Manual tests with the device's screen reader to verify that all text and controls are spoken and properly identified
+Manual tests with the device’s screen reader to verify that the user can operate all controls using accessible methods supported by the Operating System and device. This testing includes:
+Text entry
+Selecting tabs
+Operating pickers, sliders and other controls
+Manual tests with screen readers to verify that all images that convey meaning or that are part of controls have appropriate alternative spoken text
+Manual tests with screen readers to verify that screen review methods read the content in the correct sequence
+For further information on the Section 508 Office, you can refer to their web site
+here
+.
+References
+WCAG 2.0
+(link is external)
+Section 508 ICT Baseline
+(link is external)
+Access Board
+(link is external)
+Apple iOS Accessibility API
+(link is external)
+Android Accessibility Layer
+(link is external)
+VA Mobile Branding Requirements and Resources
+App developers certify that their apps comply with VA's look and feel by certifying the VA Branding compliance review while the app is in the
+The MAP Staging Environment
+. The review is a checklist established by the Office of Public and Intergovernmental Affairs (OPIA). The review compares the app's look and feel to the
+VA Mobile Style Guidelines
+to ensure the app follows the appropriate Logo, Usage, Typography, Color Palette, Chiclet, Splash Page, Naming Conventions, and Splash Screen.
+The Branding review addresses questions like:
+Does the app name provide sufficient information to describe the purpose of the app?
+If the app name has a shortened version, does the abbreviation retain the name's meaning?
+Has the app name successfully gone through a Trademark Clearance Search using the Trademark Electronic Search Engine (TESS;
+www.uspto.gov
+(link is external)
+)?
+Does the app have a Department of Veteran's Affairs (VA) Header, clearly identifying it as property of the Department of Veterans Affairs?
+Does the app follow the VA approved logos found in the App Logo Library?
+Does the app use the correct font as approved for use within VHA?
+Does the app use the correct VHA color palette?
+Does the app have an approved application chiclet?
+Does the app have an approved app splash page?
+Is the app logo in the correct file format?
+Is the app chiclet in the correct file format?
+The app team then makes the app available to an additional reviewing body for peer review. The peer review is a secondary assessment of the app to ensure the initial review was conducted properly. This ensures a different perspective of the app in addition to uncovering issues that may only surface on one operating system (OS) or device type.
+The
+VA App Verification and Validation team
+then verifies the Branding review records and reports its findings to MAP leadership, OPIA, and OCC leadership.
+Branding Resources
+VA Mobile Style Guidelines
+VA Mobile Branding Requirements and Resources
+OPIA Branding for VA Apps Presentation
+Web App Security
+Web Application Security Assessment (WASA )
+Web Application Security Assessments (WASAs) are an in-depth penetration test for common vulnerabilities, such as SQL Injection, Authorization Bypass and Cross-Site Scripting (XSS) within web applications. Development teams submit a WASA questionnaire to OCC when the app reaches the staging environment. OCC periodically requests the VA Cybersecurity Operations Center (CSOC) Vulnerability Scanning Team (VST) perform vulnerability scans of VA apps.
+Mobile Application Security Assessment (MASA) Penetration Testing
+Specific to mobile apps, the Mobile Application Security Assessment (MASA), is a process for reducing risk and improving compliance with industry regulations by comprehensively analyzing an application’s security system. The NSOC uses a variety of tools and act as an "attacker" to identify application vulnerabilities on a running application (runtime analysis). One aspect of their test is to use tools such as Nessus to scan an app's infrastructure. NSOC security engineers also perform manual testing. This phase, sometimes also called Enterprise IT Security, is a formal Mobile Applications Program (MAP) requirement that must be completed before promotion to production. This testing is performed in a test environment, not in production. The app Project Manager. is responsible for contacting NSOC.
+Printer-friendly version
+Development Stages Home
+VA Mobile App Intake
+Sub-section Policy: 
+Sub-policy 0
+https://mobile.va.gov/va-mobile-app-compliance-requirements#privacyandapplicationdatasecurity:
+Skip to main content
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+A locked padlock
+)
+                or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+Talk to the
+Veterans Crisis Line
+now
+Toggle Table of Content
+Human Factors Engineering
+HFE Mobile App Review Process
+Human Factors Engineering (HFE) Compliance Self-Certification
+Code Review
+Data Security
+Patient Safety
+Privacy and Application Data Security
+Section 508 Compliance
+VA Mobile Branding Requirements and Resources
+Web App Security
+Human Factors Engineering
+VA mobile apps must meet safety and usability requirements set forth by the Human Factors Engineering (HFE) division within the Clinical Informatics and Data Management Office (CIDMO).
+What is Human Factors Engineering?
+As a discipline, human factors engineering studies how people interact with devices, products, and systems. Behavioral science, engineering, and other disciplines come together to help assure that devices and systems are usable by the people who are meant to use them. Human Factors Engineering (HFE) is a division within the Clinical Informatics and Data Management Office (CIDMO) in the Office of Health Informatics (OHI).
+HFE’s mission is to maximize efficiency, effectiveness, satisfaction, and safety of VA systems by using analysis methods and design principles based on knowledge of human capabilities and limitations. This effort takes place throughout the engineering lifecycle. HFE focuses on collaborative efforts to optimize design, minimize risk of human error, and ensure systems and services are engineered for human use.
+What does HFE do?
+HFE offers analysis, design, and testing methods to improve the safety and usability of systems used by Veterans, Caregivers, and VHA employees. Its goal is to maximize system performance. HFE promotes the benefits of the Human Centered Design process, which aims to make systems usable and useful by focusing on the users, their needs, and end-user requirements.
+In support of OHI’s mission, HFE provides guidance on human performance risks and issues in order to enable informed decision-making. It makes recommendations that result in streamlined policies, processes, procedures, and operations. It also advises on ways to reduce operating costs, increase safety, performance, efficiency, and effectiveness of health information technology across VA.
+For VA Mobile, the HFE team works with developers to ensure that mobile applications meet usability standards and “acceptable use” criteria. These reviews are meant to ensure a minimum level of usability by identifying issues that would lead to dissatisfaction among end users.
+What is the value of involving HFE?
+Use HFE early to gain knowledge of user needs when there is high design flexibility, available resources, and low risk. Without early validation of customer or end user needs through HFE, risk is back loaded. The goal is to identify any potential risks early in the development process, and avoid the need for design changes later in the process due to unforeseen risks. If risks are not identified until later in the system development lifecycle, there may be much less design flexibility and a lack of resources to addresses issues that may arise.
+How and when can you get involved?
+The earlier HFE can engage with project teams, the higher the likelihood of positively impacting information architecture and optimizing the user interface design. Considering usability early in the design process will reduce the number of iterations needed to create an effective, efficient, and safe product. This ultimately saves time and money. When first setting development requirements, consider the opportunity to consult with HFE, so we can provide recommendations for the best way to incorporate HCD in your development process.
+To learn more about HFE and its services or request support contact
+vha10p2hfq@va.gov
+. Developers should visit
+HFE’s Mobile App Review Process
+to learn more about how HFE can help ensure a positive, meaningful and valuable experience for your users.
+HFE Mobile App Review Process
+The VHA Office of Health Informatics Human Factors Engineering (HFE) works with developers to ensure that mobile applications (apps) meet usability standards and “acceptable use” criteria. The HFE compliance review ensures that an app meets an acceptable level of usability for the end user. This is done by identifying any issues that would lead to end user dissatisfaction with the app. When HFE receives a compliance review request from the app developer, HFE conducts a
+Heuristic Evaluation (HE)
+(link is external)
+, (VA Network Access Required:
+https://dvagov.sharepoint.com/sites/vhahumanfactors/boksitepages/methods/heuristic%20evaluation.aspx
+) where a human factors expert evaluates the app against a pre-defined set of widely accepted usability heuristics (considered standards of best practices in both business and academia), and then reports any issues found, categorized as “Serious”, “Moderate”, or “Minor” severity.
+What is a Heuristic Evaluation?
+HEs are not a pass/fail metric. The purpose of an HE is to identify issues that are expected to impact use in a negative way. The “Serious”, “Moderate”, and “Minor” ratings indicate how likely the issue is to impact a user’s experience with the app. HFE recommends addressing all “Serious” issues if possible, and, as resources allow, addressing “Moderate” and “Minor” issues. HFE will work with the app development team to track any changes made, along with justifications for why certain changes might not be pursued for each finding.
+HEs offer a number of benefits for development teams compared to other HFE methods:
+HEs can be completed at various points in the development process.
+HEs typically do not require advance planning.
+HEs can typically be turned around approximately one week, depending on size.
+HEs can serve as a pretest for user testing if additional testing is needed.
+What is Usability Testing?
+In some cases HFE may recommend or require additional evaluations, such as usability testing. Usability testing is usually done when end-user input and perspective can provide additional insight into an app's usability. Like HEs, Usability Testing can be done at various points throughout the development process. There are two types of Usability Testing methods, and the final determination on which method HRE recommends is made in collaboration with the app development team.
+Formative Usability Testing
+(link is external)
+(VA Network Access Required: https://dvagov.sharepoint.com/sites/vhahumanfactors/boksitepages/methods/formative%20usability%20test.aspx) occurs during the development process, with a focus on eliminating usability issues.
+Summative Usability Testing
+(link is external)
+(VA Network Access Required:
+https://dvagov.sharepoint.com/sites/vhahumanfactors/BoKSitePages/Methods/Summative%20Usability%20Test.aspx
+) occurs upon completion of development, and focuses primarily on how the system meets usability benchmarks.
+Benefits of Engaging HFE Early
+App development teams are also encouraged to notify HFE when apps are registered. By working closely with HFE early in the app development process, the development team can ensure that its app will be intuitive, engaging, and well received by the end user.
+The following steps describe how an app development team might engage HFE for iterative expert reviews prior to the final compliance review:
+App developers request a review of a completed set of mock-ups (wireframes) or a partially completed app at any time before or during development. Developers provide HFE with the mock-ups or test environment and any associated documentation. A meeting is scheduled to discuss the app and address any clarifying questions.
+HFE conducts an initial evaluation of the app. This evaluation typically results in annotated screenshots and a findings table. The document is returned to developers as early as one week from the initial meeting.
+Business Owners and developers review the evaluation and document a response for each finding. Responses are discussed in a follow-up meeting with HFE.
+This process repeats at intervals appropriate to the app’s development; ideally, HFE will review after each significant change.
+In addition to expert reviews, HFE recommends development teams consider involving end users as often as possible.
+Note
+: The
+HFE User Interface (UI) Design Confirmation Review
+is a separate compliance review requirement.
+HFE is managed under the Clinical Informatics and Data Management Office (CIDMO)
+For more information pertaining to Human Factors Engineering, please refer to our
+Human Factors Engineering SharePoint site
+(link is external)
+(VA Network Access Required:
+https://dvagov.sharepoint.com/sites/vhahumanfactors/SitePages/HFE%20Division%20Home%20Page.aspx)
+If you would like to request HFE services, please contact
+VHA10p2HFQ@va.gov
+References
+Jakob Nielsen: Ten Usability Heuristics
+(link is external)
+BJ Fogg: Persuasive Technology: Using Computers to Change What We Think and Do
+Human Factors Engineering (HFE) Compliance Self-Certification
+VHA Health Informatics Human Factors Engineering (HFE) staff developed the Self-Certification Program to allow project teams to bring “usability thinking” and planning to earlier stages of mobile applications (apps) development. It will free up HFE to work with app developers at the beginning of the development cycles (when the impact is greater), resulting in a better user experience for Veterans and clinicians.
+A well-designed application allows the user to easily and intuitively complete tasks, without having to learn new conventions, or to think about where to find information or how to operate the app. The Self-Certification process allows project teams to certify that their apps meet usability criteria. An app that is efficient, effective and satisfying to the user will likely be used more often and not abandoned after the limited use.
+What is assessed?
+A compliance review of an app is composed of two primary parts: the Mobile User Interface (UI) Design Certification (UI Cert) and the Heuristic Evaluation (HE). The UI Cert is performed by comparing the app against a criteria list of key design standards and documenting any deviations, along with a severity rating. The HE is performed by reviewing an app, while being mindful of 10 industry standard heuristics, and assigning a severity rating to issues that violate those standards.
+Supporting documentation for the Self-Certification process is posted on the link below, under "References."
+What is the process?
+Project teams refer to the HFE
+UI Design Criteria and Heuristic Standards
+when the app is at the beginning stages of development, such as requirements analysis, and incorporate the best practices into the app design. A link to the criteria and standards appears below, under "References."
+Project teams can incorporate
+Usability Testing
+during the development of the app. Contact HFE to inquire about the testing services. A link to the HFE website appears below (under "References") and contains contact information.
+After the app has had a completed OI&T Verification and Validation (V&V) review and been approved to move forward for the final Mobile Health certifying body reviews, project teams download the HFE Self-Certification materials and commence with their
+UI Design Compliance Review
+.
+References:
+HFE Self-Certification Initiative Training Materials (VA Network Access Required) -
+https://dvagov.sharepoint.com/:w:/s/vhahumanfactors/EQQ6XWchJlhGrGWDCATwDxkBPLLaGjwPU_1r4clMQCmp4A
+(link is external)
+HFE Self-Certification Template (VA Network Access Required) -
+https://dvagov.sharepoint.com/:x:/s/vhahumanfactors/EQ4qpUzdMuJLqHDsAZW7seIBFllPZIvjA87pZMPnTrrARQ
+(link is external)
+For more information please visit the HFE SharePoint site (VA Network Access Required) -
+https://dvagov.sharepoint.com/sites/vhahumanfactors/SitePages/HFE%20Division%20Home%20Page.aspx
+(link is external)
+Code Review
+All apps must pass a Fortify code scan in the staging environment.
+The VA Office of Information Security (OIS) Software Assurance (SwA) Program Office ensures VA app developers adhere to VA requirements when they conduct the scan validation process. From OIS SwA:
+OIS Authorization Requirements SOP section Application Security Testing effectively requires CI/CD pipelines to be certified by OIS Software Assurance to increase the confidence in the security of continuous deployments. Certification tests OIS-licensed Fortify tool integrations in pipelines and pipeline workflows by reviewing scans produced for completeness and correctness. Projects, more specifically CI/CD pipelines for applications (or libraries, microservices, or scannable blocks of VA code) registered with OIS Software Assurance that successfully complete the Fortify scan validation process are then considered certified for their authorization period, during which time automated releases may be made according to applicable policies.
+Data Security
+The Veterans Health Administration (VHA) Healthcare Security Requirements (HCSR) Office reviews your mobile application (App) to ensure that it meets VA software data security standards. We ensure that your App complies with the Health Insurance Portability and Accountability Act of 1996 (HIPAA) and Security Rule specifications for protecting electronic Protected Health Information (ePHI). Additionally, we ensure that you implement sufficient security control during development to protect the Veteran’s PHI and personally identifiable information (PII) data. The objective of the data security reviews are to protect the Veteran’s ePHI/PII data from compromise or breach, be it of an intentional or unintentional nature, by ensuring the proper security control measures are implemented to prevent the theft, interception or alteration of the data.
+We ensure that if your App is designed or developed to transmit, store or process a Veteran’s ePHI/PII data has the appropriate security control measures to:
+Restrict access to the ePHI/PII data by password, personal identification number (PIN) or other appropriate access control mechanism that meets VA requirements
+Encrypt stored ePHI/PII data with Federal Information Processing Standard (FIPS) 140-2 (or its successor) validated encryption
+Encrypt ePHI/PII data transmitted to or from VA with FIPS 140-2 (or its successor) validated encryption
+Impose the removal mechanisms needed to sanitize all stored ePHI/PII, according to VA policy
+We review your Business Requirement Documents (BRDs), application user stories and technical development documents, such as Requirements Specification Documents (RSDs) and System Design Documents (SDDs), if they are available.
+References
+The VHA HCSR Office conducts the data security compliance reviews in accordance with the provisions of the HIPAA Security Rule and VA Handbook 6500,
+Risk Management Framework for VA Information Systems - Tier 3: VA Information Security Program
+.
+Patient Safety
+About the Patient Safety Assessment
+Patient safety reviews of mobile applications are conducted with the purpose of improving the safety of Health Information Technology (HIT) products used by the VA and Veterans. Currently, self-certifications of all major and minor version releases are completed by VA Product Owners and their supporting teams. The Informatics Patient Safety (IPS) Office is engaged by exception to support when needed. Process enhancements are in progress, including the addition of oversight by a VA Mobile Patient Safety Specialist.
+Patient Safety Compliance Review Process
+VA Product Managers, with the support of product management and development teams that often include clinical SMEs, complete an initial self-certification review of the mobile application. The assessment is then reviewed and approved by the VA Product Owner.
+The self-certification is conducted using a standard VA Mobile template that was designed based on recommendations from IPS and research of industry best practices and risk frameworks. The template instructs teams to identify all hazards that could lead to potential harm and provide a risk rating based on likelihood of occurrence and severity classification. Each finding must then have a related disposition documented (informed by the risk rating) that is reviewed and approved by the VA Product Manager and/or Product Owner.
+Following an initial self-certification, all subsequent minor and major version releases undergo review by the VA Product Manager and supporting team prior to release. The standard template is updated to reflect findings of the review, with a focus on any changes from the prior version. The VA Product Owner, as well as VA Mobile Patient Safety Specialist and/or IPS are engaged as needed.
+Patient Safety Review Results
+Results are reviewed with the VA Product Manager, Product Owner, and development team. The Patient Safety Specialist is engaged and advises as needed. Tickets for related development work are created in Jira, where all VA Mobile development work is tracked, and added to the document. Relevant findings are further shared with appropriate stakeholders, along with a plan of action.
+Recommendations for Enhancing Patient Safety
+Patient Safety can be enhanced by:
+Consideration for Patient Safety at
+all
+stages in the development life-cycle for mobile applications.
+Certain application characteristics and functionality.
+Development Process Enhancements
+Clearly define usage context: Users, Tasks, Technology, Environment of use
+Identify high-level tasks (clinical/medical tasks) early
+Connect user stories to high-level tasks
+Explicitly connect functionality to high-level tasks (this is sometimes called a
+Conceptual model
+)
+Pay particular attention to safety-critical tasks; a safety critical task is any action or decision whose failure could cause patient harm or a significant delay in care delivery
+Provide support for users needing immediate help during safety critical tasks
+Employ independent clinical review and usability testing of patient safety critical tasks
+Develop or utilize a user accessible post-deployment issue reporting system
+Application Design Enhancements
+When presenting information to the user:
+Make safety critical information salient
+Provide context qualifying information near data presented - e.g. units of measure
+Show deviation from the norm in results
+Inform the user when system errors/events occur they need to be aware
+Provide meaningful error messages
+Show how to get immediate help
+Show how to report patient safety issues
+Show who can see data entered
+Show the app version/build number
+Use language familiar to the user (especially for safety critical tasks)
+When supporting the entry of data by the user, help avoid incorrect action selection and data entry
+Have a confirmation step in some situations
+Have an undo capability
+References
+Bagian, J.P., Lee, C., Gosbee, J., DeRosier, J., Stalhandske, E., Eldridge, N., Williams, R., & Burkhardt, M. (2001). Developing and deploying a patient safety program in a large health care delivery system: You can’t fix what you don’t know about.
+Joint Commission Journal of Quality Improvement
+, 27, 522–532.
+Chapman R. J., Taylor, L. M., & Wood, S. D. (2012). Cataloging Errors from Reported Informatics Patient Safety Adverse Events. Proceedings of Human Factors and Ergonomics Society Healthcare Symposium, Baltimore, MD.
+DeRosier, J., Stalhandske, E., Bagian, J.P., & Nudell, T. (2002). Using Health Care Failure Mode and Effect Analysis™: The VA National Center for Patient Safety’s prospective risk analysis system.
+Joint Commission Journal of Quality Improvement
+, 28, 248–267.
+Draft Guidance for Industry and Food and Drug Administration Staff - Applying Human Factors and Usability Engineering to Optimize Medical Device Design.
+http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/default.htm
+(link is external)
+Johnson, J., ‎ Henderson, A., (2012).
+Conceptual Models: Core to Good Design. Morgan & Claypool
+.
+NIST EHR Usability Protocol (Lowry, et al. 2012)
+(NISTIR 7804) Technical Evaluation, Testing and Validation of the Usability of Electronic Health Records.
+http://www.nist.gov/manuscript-publication-search.cfm?pub_id=909701
+(link is external)
+http://www.nist.gov/manuscript-publication-search.cfm?pub_id=907849#
+(link is external)
+Wharton, C. Rieman, J., Lewis, C. and Polson, P. (1994). The Cognitive Walkthrough Method: A Practitioner's Guide. In J. Nielsen and R. Mack (eds.) Usability Inspection Methods (New York: Wiley) 105-140.
+Wood, S. D., Chapman R. J., Taylor, L. M., Wright, P., & Scott J. (2014). Identifying Latent Design Issues in Mobile Products to Prevent Patient Harm. Proceedings of Human Factors and Ergonomics Society Healthcare Symposium, Chicago, IL.
+Privacy and Application Data Security
+The VHA Privacy and Application Security offices ensure that mobile applications adhere to Privacy regulations and statutes as well as VA policy. We use the Privacy and Security checklist to determine if data is stored, transmitted or entered by the user, provider or employee. We also determine if there is sensitive information like Private Health Information (PHI) or Personally identifiable information (PII) stored on the App. If it is, the Data Security branch determines how the App protects the information. For an overview of the Healthcare Security process, please review
+this presentation
+.
+Privacy Issues
+Here are examples of the issues we examine to see how your App handles Privacy issues.
+Apps for Veterans:
+If the App retrieves VA Data from a VA database and stores it on the mobile device, an end user license agreement (EULA) states that the Veteran owns the locally stored data.
+If the App retrieves VA data from VA database but it is not stored on the Veteran’s device, the App's EULA states that the Veteran is not being provided a copy but is only being given access to the data through the device.
+If the App does not transmit a Veteran's self-entered data to VA, it securely stores it on the device as determined by an Information Security Officer.
+If the App transmits a Veteran's self-entered data to VA it does so in a manner that is covered by a Privacy Act system of records. The App's EULA states that the VA will receive the data entered by the user on the device.
+Apps for Providers:
+If the App transmits data from a Provider to VA, it does so in a manner that is covered by a Privacy Act system of records like the Mobile Application Environment (MAE) -VA 173VA005OP2.
+If the App displays any VA data retrieved from VA database and displayed to VA Providers in performance of their official duties, it does not store that data on the device.
+If the App retrieves VA data from VA database that a VA Provider modifies and then transmits to VA for inclusion, the record arrives in the appropriate Federal Record or in a Privacy Act System of Records. (For example, 24VA10P2)
+Section 508 Compliance
+The Office of Information andTechnology (OIT) Section 508 Office tests mobile content to verify that it complies with Section 508 standards, including 1194.21 (Software and Platforms), 1194.22 Web, 1194.24 (multimedia), and 1194.31 Functional Requirements. We work to facilitate access to mobile technologies for anyone with disabilities
+.
+We manually test VA platform-specific Apps directly on the device using its built-in accessibility features and supported methods. For example, we test with VoiceOver on iOS and Talkback on Android.
+We perform some automated testing on web-based content, but we also perform manual tests to ensure the (mobile application) App properly implements accessibility techniques on the device’s browsers.
+Note
+: App platforms have varying accessibility support. It is important to develop using the accessibility support of each platform you develop.
+Registration
+The Section 508 office maintains its own project system. It is important to register your App as early in Planning or Development as possible. To register your App, visit:
+http://www.insidetms.va.gov/VA_SubmissionForms/section508/default.asp
+Testing
+The following list describes some of the key areas that the Section 508 Office tests. It does not include all testing activities.
+Use of a color contrast checker to verify that all text and images of text meet color contrast requirements
+Manual tests to verify that color is not the sole means of communicating information
+Manual tests with the device's screen reader to verify that all text and controls are spoken and properly identified
+Manual tests with the device’s screen reader to verify that the user can operate all controls using accessible methods supported by the Operating System and device. This testing includes:
+Text entry
+Selecting tabs
+Operating pickers, sliders and other controls
+Manual tests with screen readers to verify that all images that convey meaning or that are part of controls have appropriate alternative spoken text
+Manual tests with screen readers to verify that screen review methods read the content in the correct sequence
+For further information on the Section 508 Office, you can refer to their web site
+here
+.
+References
+WCAG 2.0
+(link is external)
+Section 508 ICT Baseline
+(link is external)
+Access Board
+(link is external)
+Apple iOS Accessibility API
+(link is external)
+Android Accessibility Layer
+(link is external)
+VA Mobile Branding Requirements and Resources
+App developers certify that their apps comply with VA's look and feel by certifying the VA Branding compliance review while the app is in the
+The MAP Staging Environment
+. The review is a checklist established by the Office of Public and Intergovernmental Affairs (OPIA). The review compares the app's look and feel to the
+VA Mobile Style Guidelines
+to ensure the app follows the appropriate Logo, Usage, Typography, Color Palette, Chiclet, Splash Page, Naming Conventions, and Splash Screen.
+The Branding review addresses questions like:
+Does the app name provide sufficient information to describe the purpose of the app?
+If the app name has a shortened version, does the abbreviation retain the name's meaning?
+Has the app name successfully gone through a Trademark Clearance Search using the Trademark Electronic Search Engine (TESS;
+www.uspto.gov
+(link is external)
+)?
+Does the app have a Department of Veteran's Affairs (VA) Header, clearly identifying it as property of the Department of Veterans Affairs?
+Does the app follow the VA approved logos found in the App Logo Library?
+Does the app use the correct font as approved for use within VHA?
+Does the app use the correct VHA color palette?
+Does the app have an approved application chiclet?
+Does the app have an approved app splash page?
+Is the app logo in the correct file format?
+Is the app chiclet in the correct file format?
+The app team then makes the app available to an additional reviewing body for peer review. The peer review is a secondary assessment of the app to ensure the initial review was conducted properly. This ensures a different perspective of the app in addition to uncovering issues that may only surface on one operating system (OS) or device type.
+The
+VA App Verification and Validation team
+then verifies the Branding review records and reports its findings to MAP leadership, OPIA, and OCC leadership.
+Branding Resources
+VA Mobile Style Guidelines
+VA Mobile Branding Requirements and Resources
+OPIA Branding for VA Apps Presentation
+Web App Security
+Web Application Security Assessment (WASA )
+Web Application Security Assessments (WASAs) are an in-depth penetration test for common vulnerabilities, such as SQL Injection, Authorization Bypass and Cross-Site Scripting (XSS) within web applications. Development teams submit a WASA questionnaire to OCC when the app reaches the staging environment. OCC periodically requests the VA Cybersecurity Operations Center (CSOC) Vulnerability Scanning Team (VST) perform vulnerability scans of VA apps.
+Mobile Application Security Assessment (MASA) Penetration Testing
+Specific to mobile apps, the Mobile Application Security Assessment (MASA), is a process for reducing risk and improving compliance with industry regulations by comprehensively analyzing an application’s security system. The NSOC uses a variety of tools and act as an "attacker" to identify application vulnerabilities on a running application (runtime analysis). One aspect of their test is to use tools such as Nessus to scan an app's infrastructure. NSOC security engineers also perform manual testing. This phase, sometimes also called Enterprise IT Security, is a formal Mobile Applications Program (MAP) requirement that must be completed before promotion to production. This testing is performed in a test environment, not in production. The app Project Manager. is responsible for contacting NSOC.
+Printer-friendly version
+Development Stages Home
+VA Mobile App Intake
+Sign in
+ID.me
+DS Logon
+My HealtheVet
+Or create an account
+Create an account with ID.me
+Having trouble signing in?
+Get answers to common questions about
+signing in
+and
+verifying your identity
+.
+Call our MyVA411 main information line for help at
+800-698-2411
+(TTY:
+711
+).
+We're here 24/7.
+Terms of use
+When you sign in to VA.gov, you’re using a United States federal government information system.
+By signing in, you agree to only use information you have legal authority to view and use. You also agree to let us monitor and record your activity on the system and share this information with auditors or law enforcement officials.
+By signing in, you confirm that you understand the following:
+Unauthorized use of this system is prohibited and may result in criminal, civil, or administrative penalties. Unauthorized use includes gaining unauthorized data access, changing data, harming the system or its data, or misusing the system. We can suspend or block your access to this system if we suspect any unauthorized use.

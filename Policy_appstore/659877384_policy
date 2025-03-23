@@ -1,0 +1,14 @@
+Privacy Policy
+If you have any concerns, do not hesitate and
+contact me
+.
+Collection of personal data
+In general, the usage of OTP Auth is possible without providing any personal information (such as your name, your email address or accounting information). When adding accounts the service provider may provide certain account information. These information may or may not include:
+Name of service provider
+Username
+Secret for generating one time passwords
+Information about what standards to use when generating one time passwords
+OTP Auth displays these information to the user in order for the user to be able to identify which one time passwords belong to which account. As long as the user does not instruct OTP Auth otherwise (i.e. exporting accounts), these information are not send to any server and stay on the device at any time.
+Exporting accounts
+OTP Auth supports saving accounts into files. This file can be saved on the device itself or on any storage provider (e.g. iCloud or Dropbox). When saving accounts, OTP Auth always makes sure that these files are encrypted with a password using state of the art encryption standards. The standards itself or the implementation of these standards may or may not include bugs. Therefore, a complete security cannot be guaranteed.
+However, we always try to use implementations without bugs. If bugs are found, we always try to fix these bugs in OTP Auth as soon as possible.

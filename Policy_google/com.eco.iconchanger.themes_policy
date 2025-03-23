@@ -1,0 +1,79 @@
+Search organization content
+Embedded Files
+Skip to main content
+Skip to navigation
+Icon Changer
+(Privacy Policy)
+Privacy policy
+Privacy policy: This privacy policy (“Policy”) describes how Eco Mobile (“Eco Mobile”, “we”, “us” or “our”) collects, protects, and uses personally identifiable information (“Personal Information”) you (“User”, “you” or “your”) may provide in the Icon Changer: Change application icons, wallpapers, widgets with many attractive images according to your preferences.
+This Policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage. This Policy covers our collection, use, and disclosure of your information through the Applications. It does not cover any collection, use, or disclosure by third parties through any applications, websites, or products that we do not control or own, such as Facebook, or any third-party features made available via the Application.
+If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
+Permission We Use
+We use 5 Permission:
+android.permission.INTERNET to access to the internet to improve user experience and access main function of the app.
+android.permission.QUERY_ALL_PACKAGES to discover all the apps installed on your device. Do a device search and hate concatenating the icon
+com.android.launcher.permission.INSTALL_SHORTCUT to install shortcut on phone screen
+com.android.launcher.permission.UNINSTALL_SHORTCUT to uninstall shortcut on your phone screen
+android.permission.SET_WALLPAPER for you to install, change the wallpaper
+The app does use third-party services that may collect information used to identify you.
+Links to the privacy policy of third party service providers used by the app:
+Google Play Services
+AdMob
+Google Analytics for Firebase
+Firebase Crashlytics
+Applovin
+Use and processing of collected information
+Any of the information we collect from you may be used to Non-Personal Information collected is used only to identify potential cases of abuse and establish statistical information regarding Mobile Application traffic and usage. This statistical information is not otherwise aggregated in such a way that would identify any particular user of the system.We may process Personal Information related to you if one of the following applies:
+(i) You have given their consent for one or more specific purposes. Note that under some legislations we may be allowed to process information until you object to such processing (by opting out), without having to rely on consent or any other of the following legal bases below. This, however, does not apply, whenever the processing of Personal Information is subject to European data protection law;
+(ii) Provision of information is necessary for the performance of an agreement with you and/or for any pre-contractual obligations thereof;
+(iii) Processing is necessary for compliance with a legal obligation to which you are subject;
+(iv) Processing is related to a task that is carried out in the public interest or in the exercise of official authority vested in us;
+(v) Processing is necessary for the purposes of the legitimate interests pursued by us or by a third party. In any case, we will be happy to clarify the specific legal basis that applies to the processing, and in particular whether the provision of Personal Data is a statutory or contractual requirement, or a requirement necessary to enter into a contract.
+Information transfer and storage
+Depending on your location, data transfers may involve transferring and storing your information in a country other than your own. You are entitled to learn about the legal basis of information transfers to a country outside the European Union or to any international organization governed by public international law or set up by two or more countries, such as the UN, and about the security measures taken by us to safeguard your information. If any such transfer takes place, you can find out more by checking the relevant sections of this document or inquire with us using the information provided in the contact section.
+The rights of users
+You may exercise certain rights regarding your information processed by us. In particular, you have the right to do the following:
+(i) you have the right to withdraw consent where you have previously given your consent to the processing of your information;
+(ii) you have the right to object to the processing of your information if the processing is carried out on a legal basis other than consent;
+iii) you have the right to learn if information is being processed by us, obtain disclosure regarding certain aspects of the processing and obtain a copy of the information undergoing processing;
+(iv) you have the right to verify the accuracy of your information and ask for it to be updated or corrected;
+(v) you have the right, under certain circumstances, to restrict the processing of your information, in which case, we will not process your information for any purpose other than storing it;
+(vi) you have the right, under certain circumstances, to obtain the erasure of your Personal Information from us;
+(vii) you have the right to receive your information in a structured, commonly used and machine readable format and, if technically feasible, to have it transmitted to another controller without any hindrance. This provision is applicable provided that your information is processed by automated means and that the processing is based on your consent, on a contract which you are part of or on pre-contractual obligations thereof.
+The right to object to processing
+Where Personal Information is processed for a public interest, in the exercise of an official authority vested in us or for the purposes of the legitimate interests pursued by us, you may object to such processing by providing a ground related to your particular situation to justify the objection. You must know that, however, should your Personal Information be processed for direct marketing purposes, you can object to that processing at any time without providing any justification. To learn, whether we are processing Personal Information for direct marketing purposes, you may refer to the relevant sections of this document.
+How to exercise these rights
+Any requests to exercise User rights can be directed to the Owner through the contact details provided in this document. These requests can be exercised free of charge and will be addressed by the Owner as early as possible and always within one month.
+Privacy of children
+We do not knowingly collect any Personal Information from children under the age of 13. If you are under the age of 13, please do not submit any Personal Information through our Mobile Application. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce this Policy by instructing their children never to provide Personal Information through our Mobile Application without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Information to us through our Mobile Application, please contact us.
+Advertisement
+We may display online advertisements and we may share aggregated and non-identifying information about our customers that we collect through the registration process or through online surveys and promotions with certain advertisers. We do not share personally identifiable information about individual customers with advertisers. In some instances, we may use this aggregated and non-identifying information to deliver tailored advertisements to the intended audience.
+Links to other mobile applications
+Our Mobile Application contains links to other mobile applications that are not owned or controlled by us. Please be aware that we are not responsible for the privacy practices of such other mobile applications or third-parties. We encourage you to be aware when you leave our Mobile Application and to read the privacy statements of each and every mobile application that may collect Personal Information.
+Information security
+We secure information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use, or disclosure. We maintain reasonable administrative, technical, and physical safeguards in an effort to protect against unauthorized access, use, modification, and disclosure of Personal Information in its control and custody. However, no data transmission over the Internet or wireless network can be guaranteed. Therefore, while we strive to protect your Personal Information, you acknowledge that
+(i) there are security and privacy limitations of the Internet which are beyond our control;
+(ii) the security, integrity, and privacy of any and all information and data exchanged between you and our Mobile Application cannot be guaranteed; and
+iconchanger(iii) any such information and data may be viewed or tampered with in transit by a third-party, despite best efforts.
+User Data (Data Collection Disclosure)
+To serve the core feature - create application icon shortcut, with your consent, Icon changer can upload the application information installed in your device to the application server https://iconchangerapi .ecomobileapp.com, details:
+Collect a list of installed apps on your device:
+Icon changer collects information of all applications you have installed on the device including: Name, PackageName and Application Icon. (From Android 11+, applications need to use the Package (App) Visibility(QUERY_ALL_PACKAGES) permission)
+Icon changer needs to collect information about the applications installed on your device to serve the core feature, helping you create short cuts of application icons on the home screen. Without it, the application will not be able to create application icon shortcuts on your device.
+How it works: When you want to apply an icon pack of Icon Changer, we check if the available PackageName in that icon pack exists on your device. This helps ensure that the icons you choose are applied correctly to the applications you have installed. If you want to choose another application, you can use the search feature to find applications installed on the device and create icon shortcuts.
+Collect views and install Themes, Icons, Widgets:
+Icon changer collects the number of views and usage of Icons, Themes, Widgets by users to know the popularity of each icon pack and better personalize it for users.
+Icon changer will collect IDs built into Icons, Themes, Widgets packages. When users view or use this content, it will be transmitted to our servers. From there, you can know the number of views and usage of each Icons, Themes, and Widgets.
+Changes and amendments
+We reserve the right to modify this privacy policy relating to the Mobile Application at any time, effective upon posting of an updated version of this Policy in the Mobile Application. When we do we will revise the updated date at the bottom of this page. Continued use of the Mobile Application after any such changes shall constitute your consent to such changes. Acceptance of this policy You acknowledge that you have read this Policy and agree to all its terms and conditions. By using the Our Applications, you agree to be bound by this Policy. If you do not agree to abide by the terms of this Policy, you are not authorized to use or access the Mobile Application.
+Contacting us
+Address: Hanoi City, Vietnam
+|
+Email:
+iconchanger.android@app.ecomobile.vn
+Page updated
+Report abuse
+This site uses cookies from Google to deliver its services and to analyze traffic. Information about your use of this site is shared with Google. By clicking "accept", you agree to its use of cookies.
+Cookie Policy
+Reject
+Accept

@@ -1,0 +1,743 @@
+Contents
+expand_more
+User data
+Your rights under GDPR
+No soft deletion
+Unmanaged Service
+Security and Data Integrity
+Third Party Disclosure
+Access
+Cookies
+Opt Out Provision
+Enforcement & Applicable law
+Changes
+Webdock Control Panel
+Getting Started
+Your Account
+Shell Users and Sudo
+Advanced Features
+Networking, IP adresses & DNS
+Optimizing Performance
+Recommendations and Guidelines
+SSL Certificate Guides
+Mobile App Guides
+Troubleshooting Guides
+General Information
+Billing & Pricing
+Legal stuff
+Perfect Server Stacks
+Upgrade or Downgrade PHP
+Apache Stacks
+NGINX Stacks
+Deprecated / Old Stacks
+Game Server Guides
+Pterodactyl
+Open Game Panel
+LinuxGSM
+How To Guides
+Migration Guides
+System Maintenance
+MySQL Guides
+Security Guides
+Shared Hosting / Multiple Websites
+App Installation & Setup
+Desktop Environments
+Laravel Guides
+Wordpress Guides
+Docker Guides
+Upgrade Guides
+Guest Posts
+Javascript Guides
+PostgreSQL Guides
+Redis Guides
+Programming Guides
+Mastering Web Fundamentals
+Web Server Setup & Management
+Database Fundamentals and Scaling
+Server Fundamentals
+Security Fundamentals
+📣 Webdock API
+Privacy Policy & GDPR
+Last updated: November 10th 2022
+gdpr
+Information
+Become an author
+Webdock is not evil and we respect your privacy. Webdock is GDPR compliant and provides supporting documents for further insight into our Data Protection practices. Please see our
+Privacy Impact Assessment
+,
+Third Party Information Sharing
+and
+Transparency Report
+pages in addition to this Privacy Policy.
+Webdock has a Data Protection Agreement
+available which you can generate/obtain in your Account Area once signed up. In the DPA you can also find contact information for our Data Protection Officer. You can even generate an example DPA for use between you and your clients in case you are reselling our products.
+User data
+Webdock collects and stores personal information, including the full name, company name and VAT ID (if applicable), billing address, email address, and source IP address for all customers. Credit card number and expiration date are stored with a 3rd party (Stripe) and Webdock has no knowledge of your credit card information. We use your personal data to deliver our contractual services to you. Inquiries regarding the collection and use of personal information may be made via email to info@webdock.io.
+Your rights under GDPR
+Under GDPR you have the right to access personal information that we processes about you.
+You can request from us information about
+Description
+The personal data we hold about you
+All the personal data we hold about you can be seen within your account
+The categories of personal data concerned
+We only require you to provide basic contact information to us; we do not ask you to provide
+any "Special category data" as defined by the GDPR
+The purposes of the processing
+Our legal basis for processing this data is to deliver the contractual services to you
+Details to whom your personal data has/will be disclosed
+Please see our
+Third Party Information Sharing
+page
+How long we retain your personal data
+Please see the "No soft deletion" section of this Privacy policy
+You may also request from us the following-
+That we update any incomplete or inaccurate data about you
+Request that we delete your personal data in accordance with GDPR
+You have the access to self serve updating your personal data yourself through your online account.
+You can request account closure yourself through your online account, this will delete all data we
+store about you other than data that must be kept for legal reasons.
+If you have any concerns about your rights or have any questions around this please contact us at
+info@webdock.io
+No soft deletion
+We do not believe in soft deletion. Once you delete a server or account, all data we have stored will be nuked from orbit.
+You cannot restore a server once it is deleted as all snapshots we might have had are deleted as soon as the server itself is deleted.
+You have about 3 weeks to revive a deleted account.
+After which all knowledge we have ever had of you or your servers will be, for better or worse, gone. Account restoration will only be completed against a one-time fee of Euro 250,-. This is not a "fuck you" sort of fee, we actually do need to spend time pulling out data from database backups and manually inject your data back into our live environment. In this case, it would be much easier to just sign up anew.
+There will be some anonymous junk in our Google Analytics logs and other such tracking tools for marketing purposes which will not be deleted, as the material is to the best of our knowledge anonymised and therefore harmless.
+Please remember we are not a safe haven for criminal behavior, and will report any illegal material found, and cooperate fully with law enforcement to the same extent as any other hosting provider would.
+Unmanaged Service
+Customers bear sole responsibility for maintaining the security of virtual private server (VPS) environments maintained under their accounts. Customers are solely responsible for ensuring compliance with any and all applicable privacy guidelines and regulations for all jurisdictions in which they may operate with respect to appropriate practices for the collection, storage, and dissemination of personal information using their Webdock server. In no event shall Webdock be held liable for a customer's failure to adopt and/or practice appropriate measures for safeguarding personal information stored within or transmitted through their Webdock server.
+Security and Data Integrity
+Customer information is stored in electronic databases. Webdock employs industry-standard technical safeguards, including but not necessarily limited to encryption of password and/or cryptographic key-based authentication controls on servers which house personal information, browser-based SSL encryption, and other storage system access control mechanisms to protect the integrity of internal databases and prevent unauthorized access. Unless otherwise indicated by amendment to this privacy policy, in which case customers shall be notified and given the opportunity to exercise the "opt out" provisions discussed in this policy, personal information is stored only for use according to the purposes for which it was initially collected.
+Third Party Disclosure
+Webdock transfers personal information to third parties under the following normal business procedures:
+Webdock discloses the full name, billing address, and credit card account information of its customers to a third party merchant processing provider for billing purposes (Stripe). Webdock does not disclose customer information to other third parties except where required under applicable EU laws for purposes of investigation of criminal complaints, or where required by court order. We do disclose your IP address and Name and Email to certain third parties. Please see our
+Third Party Information Sharing
+page for further details.
+Access
+Customers have access to all account-specific personal information stored about them via the Webdock web-based interface for account management. Customers may update their information at any time. Customers who cancel their account have ALL their personal information deleted from Webdock's databases, with the exception of:
+network access logs, which may be stored for any duration of time at Webdock's discretion,
+cases where financially fraudulent or otherwise illegal activity is deemed to have occurred (as determined by Webdock management or law enforcement officials), in which case personal information may be retained indefinitely for purposes of ongoing investigation and prevention of fraud recurrence, or
+cases where a customer's violation of the Webdock Terms and Conditions has resulted in cancellation of the customer's account (as defined by revocation of the customer's permission to utilize Webdock's services), in which case personal information may be retained indefinitely for purposes of prevention of further use of Webdock's services in the future by the offending individual.
+Cookies
+We collect anonymous usage information on visitors to our site through use of Google Analytics. This service may employ third party tracking cookies to gather anonymous browser, operating system, geographic, and web site navigation information. Use of the Webdock web-based interface requires the acceptance of cookies for login session management purposes.
+Opt Out Provision
+Customers shall have the right to opt out of any use of their personal information which is inconsistent with or beyond the scope of the purposes for which it was initially collected. In the event that, at Webdock's discretion, service cannot be continued without customer acceptance of such modifications to the ways in which personal information is collected and/or used, customers who wish to opt out of such collection or use of their personal information will be notified and offered a refund of any positive balance on their account with Webdock.
+Enforcement & Applicable law
+Please direct compliance inquiries to info@webdock.io. This Privacy Policy and the relationship between you and Webdock shall be governed by the laws of the European Union without regard to its conflict of law provisions. You and Webdock agree to submit to the personal and exclusive jurisdiction of the courts located within Denmark and the European Union.
+Changes
+Amendments to this privacy policy may be made at any time and you should check back frequently for any changes. Webdock will never make changes to this policy that result in less protection of your personal information without sending notice.
+Related articles
+Terms and Conditions
+Information
+Terms and Conditions
+Webdock agrees to provide services to subscribers (you) subject to the following terms of service. Use of the Webdock service constitutes acceptance of our Terms and Conditions.
+Last updated: March 11th 2025
+Privacy Impact Assessment
+gdpr
+Information
+A Privacy Impact Assessment is required under GDPR for data-intensive projects.
+Last updated: November 10th 2022
+Third Party Information Sharing
+gdpr
+Information
+As part of our GDPR compliance we list here all 3rd parties with which we share information regarding our users and website visitors.
+Last updated: February 21st 2023
+Data Breach Policy & Procedures
+gdpr
+Information
+The purpose of this policy is to provide Webdock’s intent, objectives and procedures regarding data breaches involving personal information.
+Last updated: November 10th 2022
+Subject Access Request Procedures
+gdpr
+Information
+This procedure document supplements the subject access request (SAR) provisions set out in Webdock Data Protection (GDPR) Policy & Procedure document.
+Last updated: November 10th 2022
+Transparency report
+gdpr
+Information
+This page serves as transparency report and warrant canary.
+Last updated: April 21st 2023
+Sub-section Policy: 
+Sub-policy 0
+https://business.safety.google/privacy/:
+business.safety.google uses cookies from Google to deliver and enhance the quality of its services and to analyze traffic.
+Learn more
+.
+OK, got it
+Learn more about
+how Google processes personal information
+Google's use of information
+Helps you understand how Google uses personal information it receives from sites or apps that use our advertising services.
+Read more
+Privacy Policy
+Helps you understand what information Google collects and why, how we use it, and how you can review, manage, delete and update it.
+Read more
+Data use across Google services
+Helps you understand how personal data is shared across Google services and how Google handles personal data received from our advertising partners.
+Read more
+Sub-policy 1
+https://webdock.io/en/docs/legal/privacy-impact-assessment:
+You control your data
+We and our business partners use technologies, including cookies, to collect information about you for various purposes, including:
+Functional
+Statistical
+Marketing
+By clicking ‘Accept’, you give your consent for all these purposes. You can also choose to specify the purposes you consent to by ticking the checkbox next to the purpose and clicking ‘Save settings’.
+You may withdraw your consent at any time by clicking the small icon at the bottom left corner of the website.
+You can read more about how we use cookies and other technologies and how we collect and process personal data by clicking the link.
+Read more about cookies
+Google privacy policy
+Show details
+Hide details
+Necessary
+Strictly necessary cookies help make a website navigable by activating basic functions such as page navigation and access to secure website areas. Without these cookies, the website would not be able to work properly.
+Service:
+Cookie Information
+Purpose:
+Supports the website's technical functions.
+Privacy policy:
+Cookie Information - Privacy policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+CookieInformationConsent
+Vendor:
+webdock.io
+Functional
+Functional cookies make it possible to save information that changes the way the website appears or acts. For instance your preferred language or region.
+Service:
+Microsoft
+Purpose:
+Supports the integration of a third-party platform on the website.
+Privacy policy:
+Microsoft - Privacy policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+MSPTC
+Vendor:
+.bing.com
+Statistical
+Statistical cookies help the website owner understand how visitors interact with the website by collecting and reporting information.
+Service:
+Google Analytics
+Purpose:
+Privacy policy:
+Google Analytics - Privacy policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+_ga_xxx
+Vendor:
+webdock.io
+Service:
+Google Analytics
+Purpose:
+Privacy policy:
+Google Analytics - Privacy policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+_ga_xxx
+Vendor:
+.webdock.io
+Service:
+Google Analytics
+Purpose:
+Collects information about the users and their activity on the website through embedded video players with the purpose of delivering targeted advertising.
+Privacy policy:
+Google Analytics - Privacy policy
+(opens in a new tab)
+Expiry:
+4 minutes
+Name:
+FPGSID
+Vendor:
+.webdock.io
+Service:
+Google Analytics
+Purpose:
+Collects information about the users and their activity on the website for analytics and reporting purposes.
+Privacy policy:
+Google Analytics - Privacy policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+FPID
+Vendor:
+.webdock.io
+Service:
+Google Analytics
+Purpose:
+Collects information about the users and their activity on the website for analytics and reporting purposes.
+Privacy policy:
+Google Analytics - Privacy policy
+(opens in a new tab)
+Expiry:
+20 hours
+Name:
+FPLC
+Vendor:
+.webdock.io
+Service:
+Google Analytics
+Purpose:
+Collects information about the users and their activity on the website for analytics and reporting purposes.
+Privacy policy:
+Google Analytics - Privacy policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+_ga
+Vendor:
+.webdock.io
+Marketing
+Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and interesting to the individual user and thus more valuable for publishers and third-party advertisers.
+Service:
+Youtube, Google
+Purpose:
+Collects information about the users and their activity on the website through embedded video players with the purpose of delivering targeted advertising.
+Privacy policy:
+Youtube, Google - Privacy policy
+(opens in a new tab)
+Expiry:
+Session
+Name:
+YSC
+Vendor:
+.youtube.com
+Service:
+LinkedIn
+Purpose:
+Supports online marketing by collecting information about the users to promote products through partners and other platforms.
+Privacy policy:
+LinkedIn - Privacy policy
+(opens in a new tab)
+Expiry:
+6 months
+Name:
+li_gc
+Vendor:
+.linkedin.com
+Service:
+Google Marketing Platform
+Purpose:
+Used for online marketing by collecting information about the users and their activity on the website. The information is used to target advertising to the user across different channels and devices.
+Privacy policy:
+Google Marketing Platform - Privacy policy
+(opens in a new tab)
+Expiry:
+15 minutes
+Name:
+test_cookie
+Vendor:
+.doubleclick.net
+Service:
+Microsoft, Bing
+Purpose:
+Identifies unique web browsers visiting Microsoft sites. These cookies are used for advertising, site analytics, and other operational purposes.
+Privacy policy:
+Microsoft, Bing - Privacy policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+MUID
+Vendor:
+.bing.com
+Service:
+LinkedIn
+Purpose:
+Supports online marketing by collecting information about the users to promote products through partners and other platforms.
+Privacy policy:
+LinkedIn - Privacy policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+bcookie
+Vendor:
+.linkedin.com
+Service:
+Microsoft, Bing
+Purpose:
+Collects information about the users and their activity on the website. The information is used to track and analyze user behaviour and to deliver targeted advertising.
+Privacy policy:
+Microsoft, Bing - Privacy policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+_uetvid
+Vendor:
+.webdock.io
+Service:
+Youtube, Google
+Purpose:
+Collects information about the users and their activity on the website through embedded video players with the purpose of delivering targeted advertising.
+Privacy policy:
+Youtube, Google - Privacy policy
+(opens in a new tab)
+Expiry:
+6 months
+Name:
+VISITOR_INFO1_LIVE
+Vendor:
+.youtube.com
+Service:
+LinkedIn
+Purpose:
+Supports online marketing by collecting information about the users to promote products through partners and other platforms.
+Privacy policy:
+LinkedIn - Privacy policy
+(opens in a new tab)
+Expiry:
+a day
+Name:
+lidc
+Vendor:
+.linkedin.com
+Service:
+Facebook
+Purpose:
+Identifies browsers for the purposes of providing advertising and site analytics services.
+Privacy policy:
+Facebook - Privacy policy
+(opens in a new tab)
+Expiry:
+3 months
+Name:
+_fbp
+Vendor:
+.webdock.io
+Service:
+Youtube, Google
+Purpose:
+Supports the integration of a third-party platform on the website.
+Privacy policy:
+Youtube, Google - Privacy policy
+(opens in a new tab)
+Expiry:
+6 months
+Name:
+__Secure-ROLLOUT_TOKEN
+Vendor:
+.youtube.com
+Service:
+Microsoft, Bing
+Purpose:
+Identifies unique web browsers visiting Microsoft sites. These cookies are used for advertising, site analytics, and other operational purposes.
+Privacy policy:
+Microsoft, Bing - Privacy policy
+(opens in a new tab)
+Expiry:
+a day
+Name:
+_uetsid
+Vendor:
+.webdock.io
+Service:
+Google Marketing Platform
+Purpose:
+Used for online marketing by collecting information about the users and their activity on the website. The information is used to target advertising to the user across different channels and devices.
+Privacy policy:
+Google Marketing Platform - Privacy policy
+(opens in a new tab)
+Expiry:
+a year
+Name:
+IDE
+Vendor:
+.doubleclick.net
+Service:
+Youtube, Google
+Purpose:
+Collects information about the users and their activity on the website. The Information is used to track and analyze user behavior, to meet the individual user needs and to deliver targeted advertising.
+Privacy policy:
+Youtube, Google - Privacy policy
+(opens in a new tab)
+Expiry:
+6 months
+Name:
+VISITOR_PRIVACY_METADATA
+Vendor:
+.youtube.com
+Service:
+Google Ads
+Purpose:
+Collects information about the users and their activity on the website for analytics and reporting purposes.
+Privacy policy:
+Google Ads - Privacy policy
+(opens in a new tab)
+Expiry:
+3 months
+Name:
+FPAU
+Vendor:
+.webdock.io
+Unclassified
+We are in the process of classifying unclassified cookies together with the providers of the individual cookies.
+Service:
+Purpose:
+Pending
+Expiry:
+Session
+Name:
+CONCRETE5
+Vendor:
+.webdock.io
+Service:
+Purpose:
+Expiry:
+3 months
+Name:
+_rdt_uuid
+Vendor:
+.webdock.io
+Service:
+Purpose:
+Expiry:
+2 months
+Name:
+Webdock-Affiliate-Tracking
+Vendor:
+webdock.io
+Service:
+Purpose:
+Expiry:
+a year
+Name:
+baiChatbotId
+Vendor:
+webdock.io
+Necessary
+Functional
+Statistical
+Marketing
+Cookie policy
+Your consent applies to the following domains:
+staging.webdock.io, webdock.io
+The cookie policy was last updated on 14.03.2025
+What is a cookie?
+A cookie is a small data file stored in your computer, tablet or smartphone. A cookie is not a program that can contain harmful malware or virus.
+How our website uses cookies
+Some cookies perform essential functions for our website. Cookies also help us get an overview of your visit to our website so we can continuously optimize and tailor the experience to your needs and interests. For example, cookies remember things like the items added to the shopping cart; whether you have visited our website before; if you are logged in; and the specific language and currency you prefer to see on the website. We also use cookies to target our ads specifically to you on other websites. In general, we use cookies as part of our service to present you with content that is as relevant to you as possible.
+You can see the specific services that store cookies and why they do it, under the different categories:
+Functional
+Statistical
+Marketing
+How long are cookies stored?
+The length of time a cookie is stored on your devices and browsers varies. The lifetime is calculated according to your last visit to the website. When a cookie expires, it is automatically deleted. All our cookies’ lifetimes are specified in our cookie policy.
+How to block or delete cookies
+You may at any time block all or just third-party cookies completely by changing the browser settings on your computer, tablet or smartphone. The location of these settings will depend on the browser you use. However, you should be aware that if you block all or just third-party cookies, there may be functions and services that you will be unable to use on the website (because these depend on cookies).
+You can opt-out of cookies from Google Analytics here
+.
+How can you delete cookies?
+It is easy to delete cookies that you have previously accepted. It depends on which browser (Chrome, Firefox, Safari, etc.) and device (smartphone, tablet, PC, Mac) you are using.
+You can typically find this information under settings – Security and Privacy – but this may vary from one browser to another.  Specify which device/browser you are using (click the appropriate link):
+Internet Explorer
+Microsoft Edge
+Mozilla Firefox
+Google Chrome
+Opera
+Safari
+Flash cookies
+Apple
+Android
+Chrome, Android
+Changing your consent
+You can change your consent by either deleting cookies from your browser or by changing your original choice by clicking the link below:
+You can change your consent by clicking here
+Remember: If you use more than one browser, you must delete cookies in all of them.
+Do you have any questions?
+If you have any comments or questions relating to our information and/or processing of personal data, please feel welcome to contact us. 
+The cookie policy itself is updated once a month by
+Cookie Information
+. If you have any questions about our cookie policy, you are welcome to
+contact Cookie Information on their website.
+Functional
+Statistical
+Marketing
+Contents
+expand_more
+Webdock Control Panel
+Getting Started
+Your Account
+Shell Users and Sudo
+Advanced Features
+Networking, IP adresses & DNS
+Optimizing Performance
+Recommendations and Guidelines
+SSL Certificate Guides
+Mobile App Guides
+Troubleshooting Guides
+General Information
+Billing & Pricing
+Legal stuff
+Perfect Server Stacks
+Upgrade or Downgrade PHP
+Apache Stacks
+NGINX Stacks
+Deprecated / Old Stacks
+Game Server Guides
+Pterodactyl
+Open Game Panel
+LinuxGSM
+How To Guides
+Migration Guides
+System Maintenance
+MySQL Guides
+Security Guides
+Shared Hosting / Multiple Websites
+App Installation & Setup
+Desktop Environments
+Laravel Guides
+Wordpress Guides
+Docker Guides
+Upgrade Guides
+Guest Posts
+Javascript Guides
+PostgreSQL Guides
+Redis Guides
+Programming Guides
+Mastering Web Fundamentals
+Web Server Setup & Management
+Database Fundamentals and Scaling
+Server Fundamentals
+Security Fundamentals
+📣 Webdock API
+Privacy Impact Assessment
+Last updated: November 10th 2022
+gdpr
+Information
+Become an author
+A Privacy Impact Assessment (PIA) is required under GDPR for data-intensive projects, and is a living document which must be made accessible to all involved with a project. It is the process by which we discuss, audit, inventory, and mitigate the privacy risks inherent in the data we collect and process.
+Like all GDPR documentation, a PIA can be requisitioned by a data protection regulator in the event of a privacy concern or data breach.
+This document was last updated March 2018
+1. Data collection and retention
+What personal data is processed?
+We collect the following data during signup: Name (first and last), Address, City  and Zipcode, Country of residence, Email, Phone and VAT ID if applicable. In addition we log the IP address of the user.
+How is that data collected and retained?
+Data is collected using HTML forms and transmitted via an encrypted (SSL) HTTPS connection to a central Webdock server. Here the data is stored in a MySQL database. The user password is encrypted and not known by us.
+For how long is data stored, and when is the data deleted?
+Data is stored for as long as customers have an active account. If a customer deletes their account, all personally identifiable information is deleted with the exception of certain network and traffic logs which may persist for up to a year. Third party services such as Google Analytics may store data such as IP addresses and website interactions for much longer. Please see our
+Third Party Information
+sharing page for details on which services we share data with.
+Is the data collection and processing specified, explicit, and legitimate?
+Yes.
+What is the process for granting consent for the data processing, and is consent explicit and verifiable?
+Consent is a pre-requisite for signing up with Webdock.
+Is the data minimized to what is explicitly required?
+We do not gather any more data than required in order to comply with EU law and for the purposes of billing.
+Is the data accurate and kept up to date?
+We can only verify certain information and do so rarely. Information is kept up to date by the customer themselves.
+How are users informed about the data processing?
+Users are informed about the data processing through our data protection and privacy policies and notices available on our website.
+What controls do users have over the data collection and retention?
+Absolute. At any time a user can delete or modify their information.
+2. Technical and security measures
+Is the data encrypted?
+All data is encrypted during transit, but only passwords are encrypted at rest.
+Is the data anonymized or pseudonymized?
+No.
+Is the data backed up?
+Yes. Daily.
+What are the technical and security measures at the host location?
+Stringent security protocols protect the server and running services. Server is continuously kept up to date. Passwords are very secure. Firewall is stringent and tools such as Fail2Ban are implemented. We continuously monitor all activity on the central server.
+3. Personnel
+Who has access to the data?
+All Webdock support staff and engineers.
+What data protection training have those individuals received?
+Basic GDPR training. Most employees are highly technically proficient and have deep insight into IT security.
+What security measures do those individuals work with?
+Network and systems monitoring, encryption and more.
+What data breach notification and alert procedures are in place?
+Automated alerts are set up for unusual activity as seen in system logs. Unusual traffic is logged and flagged to Webdock engineers.
+What procedures are in place for government requests?
+Standard procedures are in place for such requests, and we have a published
+Warrant Canary
+4. Subject access rights
+How does the data subject exercise their access rights?
+By contacting Webdock support at info@webdock.io
+How does the data subject exercise their right to data portability?
+By contacting Webdock support at info@webdock.io
+How does the data subject exercise their rights to erasure and the right to be forgotten?
+By deleting their account, or contacting Webdock support
+How does the data subject exercise their right to restrict and object?
+By contacting Webdock support at info@webdock.io
+5. Legal
+Are the obligations of all data processors, including subcontractors, covered by a contract?
+Yes.
+If the data is transferred outside the European Union, what are the protective measures and safeguards?
+Webdock utilises several companies to provide us with web analytics services, these companies may store data in the USA.  These data sets will have very limited amounts of personal data in them, namely IP addresses.  Please see our page on
+Third Party Information Sharing
+6. Risks
+What are the risks to the data subjects if the data is misused, mis-accessed, or breached?
+Data listed in section 1.1 could be exploited. As we only gather otherwise publicly accessible information, our assessment of the privacy impact is that it is moderate.
+What are the risks to the data subjects if the data is modified?
+None personally. Malicious 3rd parties may, by virtue of hacking their account, gain access to servers and information therein which is outside the purview of Webdock.
+What are the risks to the data subjects if the data is lost?
+They may loose access to their account. Unless all backups and duplications of our control backend is lost as well, we will always be able to re-construct a user account. If a user actively deletes their account, or if a malicious 3rd party does so, user data would be lost in the course of 3 weeks, unless we are made aware of this happening.
+What are the main sources of risk?
+Zero-day exploits of our CMS and/or toolchain which includes but is not limited to: Linux kernel (Ubuntu), Apache/Nginx, PHP, MySQL, SSH and related services.
+What steps have been taken to mitigate those risks?
+As outlined in sections 2.4 and 3.4 we pro-actively and defensively keep our systems up to date, monitor intensively and review security frequently.
+Lock Thread
+Login
+Add Comment
+Comment anonymously
+M ↓
+Markdown
+Upvotes
+Newest
+Oldest
+Related articles
+Terms and Conditions
+Information
+Terms and Conditions
+Webdock agrees to provide services to subscribers (you) subject to the following terms of service. Use of the Webdock service constitutes acceptance of our Terms and Conditions.
+Last updated: March 11th 2025
+Privacy Policy & GDPR
+gdpr
+Information
+Webdock is not evil and we respect your privacy. Webdock is GDPR compliant and provides supporting documents for further insight into our Data Protection practices
+Last updated: November 10th 2022
+Third Party Information Sharing
+gdpr
+Information
+As part of our GDPR compliance we list here all 3rd parties with which we share information regarding our users and website visitors.
+Last updated: February 21st 2023
+Data Breach Policy & Procedures
+gdpr
+Information
+The purpose of this policy is to provide Webdock’s intent, objectives and procedures regarding data breaches involving personal information.
+Last updated: November 10th 2022
+Subject Access Request Procedures
+gdpr
+Information
+This procedure document supplements the subject access request (SAR) provisions set out in Webdock Data Protection (GDPR) Policy & Procedure document.
+Last updated: November 10th 2022
+Transparency report
+gdpr
+Information
+This page serves as transparency report and warrant canary.
+Last updated: April 21st 2023
+Welcome to our Chatbox
+Reach out to our Support Team or chat with our AI Assistant for quick and accurate answers.
+The Webdock AI Assistant is good for...
+Quick and accurate answers based on our documentation.
+Helping you choose the right Server Profile and Software.
+Helping with basic troubleshooting which doesn't require account access.
+Start Chatting with Webdock AI
+Chatting with Support is good for...
+Getting hands-on fixes and support from a real human.
+Fixing billing issues, network issues and problems with your server.
+Reporting crashes or otherwise unexpected behavior.
+Start Chatting with Support

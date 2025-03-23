@@ -1,0 +1,1236 @@
+Weathergraph privacy policy
+I log some of the sent data (but not location or IP address data) under anonymous identifiers, which can be reset by reinstalling the app, in order to:
+know how many users I have
+be able to detect situations when a single user would generate too many forecast requests
+and to be able to improve the service (for example by logging request latency)
+However, I do not log any personally identifiable information (especially not your location or IP address), except for the e-mail address, and I only log e-mail address if you voluntarily provide it in the app settings (on Pebble or Garmin only).
+I further protect user data from third parties by not sending any personally identifiable information which could help link subsequent requests to the same user. This specifically means that weather providers cannot track your location.
+Third parties
+The only third parties involved are
+OpenStreetMap Nominatim
+for reverse geocoding (finding a location name closest to your coordinates), subject to
+OpenStreetMap privacy policy
+.
+Foreca
+weather forecast service, subject to
+Foreca privacy policy
+.
+Apple Weather
+weather forecast service, subject to
+Apple privacy policy
+.
+Open-Meteo
+weather forecast service, subject to
+Open-Meteo privacy policy
+.
+Yr.no
+weather forecast service, subject to
+Yr.no privacy policy
+.
+No third-party analytics is used.
+Terms of use
+Your use of Weathergraph for Apple devices is managed by Apple's standard
+Licensed application end user license agreement
+.
+Apple auto-renewing subscriptions
+Subscriptions will be charged to your credit card through your iTunes account.
+You can easily manage or cancel the subscription in the App Store app → Account → Subscriptions on your watch or phone — just please cancel it at least 24 hours before the end of the current period.
+If you cancel the subscription, you will not be refunded for the current period, and you can of course use all Pro features during that time.
+← return to Weathergraph
+Sub-section Policy: 
+Sub-policy 0
+https://wiki.osmfoundation.org/wiki/Privacy_Policy:
+Jump to:
+content
+,
+navigation
+,
+search
+Privacy Policy
+From OpenStreetMap Foundation
+Contents
+1
+Introduction
+2
+Why do we store and process personal data?
+3
+What data do we store and process?
+3.1
+Data from contributions to OpenStreetMap
+3.2
+OSMF Membership Data
+3.3
+Conference and Event Registration Data
+3.4
+Personal Data from Your Communications with OpenStreetMap
+4
+Who has access to the data
+5
+Where do we store the data
+6
+How can you control the processing of your data and reduce privacy related issues
+7
+Right to Object
+8
+Detailed Information
+8.1
+GPS Trace Data
+8.2
+Map Data
+8.3
+User 'home' location
+8.4
+Email Addresses
+8.4.1
+Gravatar
+8.5
+Data you may voluntarily add to your profile or diary posts
+8.6
+Personal data we receive automatically
+8.7
+Third party provided services and data
+8.8
+Unrelated Third-Party-Providers of Services and Data
+8.9
+Communication via OSMF provided Systems
+8.10
+Account Removal
+8.11
+Cookies
+9
+Other Relevant Policies
+10
+Contact
+Introduction
+This document states the OpenStreetMap
+privacy policy
+applicable to OpenStreetMap Foundation (OSMF) activities. In particular, these activities include:
+the OpenStreetMap.org website and associated services and APIs,
+the OpenStreetMap data distribution,
+the OpenStreetMap wiki and help sites, and
+the OpenStreetMap mailing lists and forums.
+It describes what personal information we may be gathering from you, who can see this information, and what options you have for controlling this. We value your privacy and strive to achieve a balance between the legitimate interests of the OpenStreetMap project and your interests and rights.
+This document is mainly intended for OpenStreetMap contributors, if you are not an OpenStreetMap contributor, but are using services provided by the OSMF, we believe the
+Data we receive automatically
+section will be most relevant for you.
+As the OSMF has many legacy systems and practices that have currently not been fully reviewed and documented, it is possible that a subject of particular interest to you has not been covered yet or is inaccurately described. Please see the
+contact
+section, below, to reach us if you have any such questions or believe that you have found a discrepancy. As we will be updating this document regularly to reflect our better understanding of these issues, please check from time to time for updates.
+OpenStreetMap developers, contributors and related companies will often use the OpenStreetMap name and logo to set up groups or services on third-party web sites. For example, there might be a Facebook page, a Google Plus page, a Slack channel, a page on Xing or LinkedIn, a Meetup group, and so on. The privacy practices of such services are outside of OSMF's control and might be located in countries with different data protection rules. Data you share on these platforms cannot, therefore, be covered by this policy. Please refer to the privacy policies of those third-party services.
+Why do we store and process personal data?
+The purpose of the OpenStreetMap project and the OSMF is to provide open geographic data, such as street maps, to anyone.
+To fulfill the goal of distributing data that is truly open, untethered by rights of third parties and of high quality, we do not support anonymous contributions and retain additional, non-geographic, data on a legitimate interest basis (see
+GDPR article 6.1f
+), to enable:
+identifying all the contributions made by an account,
+contacting the contributor in the case of questions in respect to the nature and source of the  contributions,
+detecting, removing and correcting spam accounts, vandalism, and violations of the rights of third parties,
+facilitating the communication between OpenStreetMap contributors, and
+researching and analysing aggregate contributions to improve or prioritise OSMF services, such as evaluating mapping efficacy, map completeness, and determining if locations or mappers are disproportionately represented.
+What data do we store and process?
+Data from contributions to OpenStreetMap
+Besides the geographic data  contributed (points lines, and areas with associated attributes and GPS trace data), and communications related data (diary posts and comments, the user page, changeset comments, and messages) we store
+editing session meta-data. For example comments added by the user, any version and similar information added by the editing application, which editing application and which aerial imagery layers where used.
+user id and login name of the author of every change to an object and a timestamp indicating when that change occurred.
+the e-mail address associated with your account,
+any blocks the user has received and associated messages, and
+network access data (example IP addresses) for the systems and services operated by the OSMF. see
+Data we receive automatically
+.
+OSMF Membership Data
+The full personal name and residential address of members of the organisation according to the Companies Act are, by law, required to be added to the OSMF register of members. Terminating membership does not lead to the entry being deleted. Associate members are not required to provide their full details and the information can be deleted if membership is terminated. Payment details for both classes of members are retained for accounting purposes as long as required by law. The processing of this data is necessary for compliance with a legal obligation (see
+GDPR article 6.1c
+).
+More details on OSMF membership options can be found on
+https://supporting.openstreetmap.org/#Membership-Categories
+.
+Conference and Event Registration Data
+Some events organized by the OSMF require prior registration to be able to participate, most notably our annual State of the Map conference. This data is required to verify payment of entry fees, planning of venues, catering and scheduling of talks and presentations and is visible to the group organizing the event. The processing of this data is necessary for the performance of a contract (see
+GDPR article 6.1b
+).
+Personal Data from Your Communications with OpenStreetMap
+Personal data such as your name and contact information submitted as a result of communicating with OpenStreetMap, joining mailing lists, participating in the forum, or requesting information is retained to facilitate our ability to correspond with you.
+Who has access to the data
+We do not share email addresses associated with accounts with any third party and they are only accessible to operations and working group personnel who have signed confidentiality agreements. User-to-user messages are visible to the sender and the recipient; other access is limited to our operations staff and only if required for operational reasons, to enforce our acceptable use policies, to fulfil any legal obligations, and, most notably, to prevent spam.
+Similarly, network access data is only used to support network operations and access is limited to operating personnel performing operational tasks and to combat vandalism and minimize spam.
+The remainder of the personal data collected by us is made available, depending on the use case, via the website, via the editing API and from our data dumps, to users with accounts who are logged in.
+To reduce the distribution of the non-geographic information we offer our data dumps with and without the additional personal data. Entities that require and process the additional data can register with the OSMF and you can find contact information for them here:
+Registered data controllers
+. We do not contract with them, and any processing of the data carried out by such entities is done on their own behalf.
+Where do we store the data
+Personal data other than any associated with a tile request (for instance, IP addresses and request details) is stored in the United Kingdom and the Netherlands. Backups are stored in the EU.
+Map tiles are provided by a global network of cache servers; which tile server your browser or app accesses is determined by the operation of the content distribution network at the time of the request.
+How can you control the processing of your data and reduce privacy related issues
+While not required by law, we provide the following mechanisms to reduce the exposure of your personal data:
+you can select a non-identifying login name and change it at will,
+you are not required to include personal data in diary posts, comments, email listserv, the wiki, or other OSM communications methods, and you may delete diary posts at any time through your account,
+you can
+request that your account be deleted
+(restrictions apply, see below) and this will be conveyed to registered entities that are utilizing your personal data.
+You should not enable gravatar support or use an e-mail address you have associated with a gravatar if privacy is a concern.
+You can further reduce exposure by not adding personal information to the map data (personal names and such) that you submit. Such information is in general not considered to be a useful addition to our data and you should refrain from adding it.
+Right to Object
+You have a
+right to object
+against processing based on legitimate interests of the data controller.
+Detailed Information
+GPS Trace Data
+The uploading of GPS data is entirely optional and not a prerequisite for contributions to OpenStreetMap. If you do submit GPS data, it is uploaded in the form of individual GPX files. These are kept as raw files, as well as being imported into the database. GPX files can be marked "
+public
+" by the uploader; this is completely unrelated to the option of making one's
+edits
+"public".
+When GPS data for an area is downloaded via the API, no indication is provided of which user uploaded a point or of the timestamp that is associated with the point. Points are, however, returned in timestamp order. GPS data downloaded in this way will include points from traces which were not marked as public.
+If a GPS trace is marked as public when it is uploaded then the raw trace may be downloaded from the web site or by using an API call. In this case the user's display name is shown (regardless of whether the user has made their
+edits
+public or not) and the timestamps in the GPX file will be included. Also, any additional information placed in the GPX file will still be present, e.g., waypoints with their names and/or notes entered, associated symbols, elevation data, etc. You should remove any such information from the data and trim enough  information from the beginning and the end of the trace to obscure the start and destination of it before uploading it if you have privacy concerns.
+Map Data
+All edits made to the map are recorded in the database with the user ID of the user making the change, and a timestamp at the time of change upload. In general all of this information is also made available to everyone via the website, including links to allow everyone to easily cross-reference which user has made which edit.
+Editing programs (such as JOSM and iD) can store further data in the database that may be relevant to your privacy. Please refer to the respective authors and distributors of the programs for more information. For example, iD and JOSM may add the language settings of your device to the metadata of each changeset and the make and operating system of the device may be visible from the transmitted version strings.
+User 'home' location
+If a user sets a home location then it will appear on the "nearby mappers" list for other people with a home location near the user's home location. This is an option on your account settings page.
+Email Addresses
+The registered email address for an OSM user account will never intentionally be published on the internet anywhere, shared with third party organisations, or revealed directly to other users. Email addresses will be used by the server to notify the user if another user has sent a message through the website, and for other system generated notifications.
+Only
+System Administrators
+will have direct access to email address data associated with the OSM account. It may be used by these people to contact users directly about their edits or other OpenStreetMap-related issues.
+Email addresses associated with wiki, forum and help site accounts are stored separately from the OSM user account data in the respective systems. These address are used for notifications and user-to-user communication (if enabled). These addresses are not publicly visible or shared with third parties, but may be visible to the administrators of the systems.
+Note that some other types of
+Accounts
+used by developers/community do expose email address information more publicly (due to technical limitations of the software used, rather than policy decisions). The Trac system exposes your email address in plaintext on the page if the email address (rather than the display name) is used to login. The mailing list system exposes email addresses of people posting messages to everyone who receives the message, as well as in the archive web pages. If you want to post to the list, the system also requires you to register with your proper 'from' address, not a forwarding address.
+Gravatar
+The openstreetmap.org website supports the display of
+Gravatars
+, these are retrieved from gravatar.com by generating a globally unique key from your e-mail address. Our website software will check on the initial signup and on every email address change if you have a Gravatar for the new address and start displaying it if one exists. You can stop this behaviour by explicitly turning Gravatar support off in your account settings. You should be aware that, if a Gravatar is displayed, the key can be used to track your account over any website that has Gravatar support.
+Data you may voluntarily add to your profile or diary posts
+You are not required to fill out your profile or make diary posts. By voluntarily entering personal data in your user profile or diary posts, you consent to that information being publicly available and stored by OSMF as long as you maintain an OSM account. You may edit your public profile or your diary posts at any time to remove such information if you change your mind.
+Personal data we receive automatically
+The OSMF operates a number of services for the OpenStreetMap community, examples are the openstreetmap.org website, the "Standard" style online map, the OSM API and the nominatim search facility.
+When you visit an OSMF website, access any of the services via a browser or via applications that utilize the provided APIs, records of that use are produced, we collect information about your browser or application and your interaction with our website, including (a) IP address, (b) browser and device type, (c) operating system, (d) referring web page, (e) the date and time of page visits, and (f) the pages accessed on our websites.
+Further we may operate user interaction tracking software that will generate additional records of user activity, for example Piwik.
+Additionally, OSMF may engage third party service providers to assist in the delivery of services to the OpenStreetMap community.  Those third party service providers may gather personal data in connection with the provision of services. For example, Content Distribution Networks (a “CDN”) may  use Geo-DNS or similar mechanisms to allocate load to geographically distributed servers and could potentially generate a record of your location at a large scale. See
+Third party provided services and data
+below
+These records are used or can be used in the following ways:
+in support of the operation of the services from a technical, security and planning point of view.
+as anonymised, summarised data for research and other purposes. Such data may be offered publicly via
+https://planet.openstreetmap.org
+or other channels and used by 3rd parties.
+to improve the OpenStreetMap dataset. For example by analysing nominatim queries for missing addresses and postcodes and providing such data to the OSM community.
+The data collected on the systems will be accessible by the system administrators and the appropriate OSMF working groups, for example the Data Working Group. No personal information or information that is linked to an individual will be released to third parties, except except to the extent the third party is a service provider or as required by law. See
+Third party provided services and data
+below.
+IP addresses stored by Piwik are shortened to two bytes and detailed usage information is retained for 180 days.
+Given the temporary nature of this storage, it is generally not feasible for us to provide access to IP addresses or the logs associated with them.
+The above mentioned data is processed on a legitimate interest basis (see
+GDPR article 6.1f
+).
+Third party provided services and data
+We may share personal data with vendors or agents working on our behalf for the purposes described in this privacy policy. For example, we may hire companies to assist with protecting and securing our systems or services, increasing their efficiency, and to support the OSMF activities described herein.  For instance, OSMF recently engaged a CDN provider to allocate demand generated by OSM users efficiently across a global network.
+Any vendor or agent that we retain must comply with our data privacy and security requirements and this privacy policy and are not allowed to use personal data they receive from us for any other purpose other than to provide the services requested by OSMF. Like us, they will never barter, trade, or sell access to your personal data. We remain responsible and liable under data protection laws if third-party agents we engage to process personal data on our behalf do so in a manner inconsistent with the applicable data protection laws, unless we prove that we are not responsible for the event giving rise to the damage.
+Unrelated Third-Party-Providers of Services and Data
+Some sites or services provided by OSMF may be linked with third party applications or websites that provide content or services that is unrelated to OSMF. Such third party applications or websites are not associated with OSMF and personal data collected by them is not covered by the terms of this privacy policy. You will need to refer to the respective third party provider of such content or services for more information about how they handle personal data collected by them. Using these services will typically transmit at least your Internet address and browser information to the operator.
+Some such unrelated third-party providers are:
+Cycle and Transport Map layers available via the openstreetmap.org website operated by
+Gravitystorm Limited, New Malden, United Kingdom
+Humanitarian map layer available via the openstreetmap.org website operated by the
+OpenStreetMap France c/o Maison des Associations du 2ème Arrondissement, 23 rue Greneta, 75002 Paris
+overpass-api used by the query function on the openstreetmap.org website operated by
+FOSSGIS e.V., Römerweg 5, 79199 Kirchzarten, Germany
+3rd party service integrations in editing applications available from openstreetmap.org:
+background layers, see the
+Editor Layer Index
+for information on the operators of the numerous imagery layers.
+iD Editor is an open source OpenStreetMap editor that is not operated by the OSMF.
+Privacy Policy
+.
+Mapillary street-level imagery is provided by Mapillary AB, Bredgatan 4, 211 30 Malmö, Sweden.
+Privacy Policy
+.
+KartaView street-level imagery is provided by Grab Taxi Holdings Pte. Ltd.
+Privacy Policy
+.
+Gravatar images in user profiles that display these are provided by Aut O’Mattic A8C Ireland Ltd., Business Centre, No.1 Lower Mayor Street, International Financial Services Centre, Dublin 1, Ireland.
+Privacy Policy
+.
+Communication via OSMF provided Systems
+The OSM community uses a number of channels for public and inter-personal communication. Some of the systems are operated and controlled by third parties and can be located in countries other than the UK. You will need to refer to the respective service providers for more information.
+These 3rd party operated systems are:
+Mailboxes for the OSMF e-mail addresses are provided by Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043. USA
+IRC channels on the
+OFTC network
+openstreetmap Organisation and source code repositories on
+Github
+By using those systems that are provided by the OSMF, for example the messaging system on openstreetmap.org, you agree to your communications being intercepted by OSMF system managers when necessary to address operational issues, to enforce our acceptable use policies, most notably to prevent spam, and to fulfil any legal obligations.
+You should be aware of the above when communicating sensitive information and you should employ encryption to protect your communications content.
+Account Removal
+You can
+request your account to be removed
+and we will honor such requests as far as possible.
+If you have not actively contributed to the project we will not retain any records, user page, diary posts and similar will be removed.
+If you have contributed your account will be renamed to user_
+USERID
+and contributions and changeset comments will be retained with this name, diary entries and your user page will be removed. Since we do not allow anonymous edits we will non-publicly retain your email address in case you need to be contacted with respect to your contributions.
+Wiki and forum accounts will be renamed to a pseudo-anonymous name, but otherwise will remain as is. You can unsubscribe yourself from any mailing lists, however you need to realize that personal copies held by the recipients of any mails you sent to the lists and the archives on lists.openstreetmap.org cannot be removed.
+In your request for account removal you need to identify all accounts that are affected as we do not have information on which accounts belong to which OpenStreetMap id.
+Cookies
+Numerous OSMF-operated services use cookies to store information on your login and site navigation state. We also use cookies and similar technologies to recognize and improve your use of our websites. You may delete cookies from your computer, and most browsers provide the option to block them. If you block cookies placed by us (first party cookies), you will not be able to access parts of the OSMF websites and services that require a login. However, your access to our websites will not be affected if you disable cookies placed by third parties.
+Other Relevant Policies
+As well as privacy issues, users and contributors must also be aware of the
+OpenStreetMap License
+. This includes
+disclaimers
+. We also have an
+Acceptable Use Policy
+covering various types of server usage.
+Contact
+If you have questions or concerns with respect to this policy, please contact the OSMF via our
+Contact channels
+.
+If you believe that we hold information that would allow us to correct, amend, or delete inaccurate information about you or if you believe that information about you has been processed in violation of this privacy policy please email us at
+privacy@osmfoundation.org
+.  
+Note that you may change your username, email associated with your account, and ‘home’ location through your account without contacting the OSMF.
+Sub-policy 1
+https://www.foreca.com/privacy-policy.html:
+Foreca Privacy Policy for Consumers
+Foreca takes the privacy of its consumers very seriously. We comply fully with the EU General Data
+                    Protection Regulation (GDPR). Any personal information we obtain regarding Foreca consumer services
+                    will be dealt with in accordance with this policy.
+Does this privacy policy concern you?
+This privacy policy concerns you if you use any of the Foreca service provided for consumers, like
+                    the foreca.com weather site and Foreca Weather Free mobile app, or you otherwise deal with us as a
+                    private person within the EU. If you use Foreca services for business, you can find the privacy
+                    policy meant for you
+here
+.
+What is personal data?
+The GDPR applies to personal data. This is any information that can directly or indirectly identify
+                    a natural person, like you.
+What data is processed and why is it processed
+Foreca collects information about your use of the service for three main reasons:
+to be able to develop best weather services for you,
+to be able to provide relevant advertisement for you (please note, the service and its
+                        development is funded by advertisement)
+to be able to contact you when you give us feedback, send us your job application, or in other
+                        similar circumstances we need to contact you.
+Foreca may process the following information when you use the service:
+Cookie data
+Cookies are used to store your personal settings in the service such as favourite
+                                locations
+Cookies are used to track which features of the service are used and how much. We use
+                                the information for technical developing of the services. The following analytics
+                                services are utilized for this purpose:
+Google Analytics -
+edit your preferences
+Social media sharing functionalities use cookies. The cookies are processes by:
+AddThis -
+edit your preferences
+Facebook -
+data policy
+Cookies are used to provide relevant advertisement according to your interests as
+                                provided by the advertisement agencies. Foreca uses the following advertisement
+                                providers:
+Google Adsense
+how Google uses your information
+Google Ads Settings
+Depending on the ads that Google serve, data may be shared with additional ad
+                                        tehcnology provides listed below.{*To see full list of the providers,
+click here
+*}.
+Google
+Aarki
+Adacado
+Adara Media
+Adform
+AdLedge
+Adloox
+Adludio
+AdMaxim
+Admedo
+Admetrics
+Adobe Advertising Cloud
+AdTriba
+advanced STORE GmbH
+Adventori
+advolution.control
+Akamai
+Amazon
+Amobee
+Analights
+AppLovin Corp.
+AppNexus (Xandr) Inc
+Arrivalist
+Ask Locala (F.K.A Fusio by S4M)
+AudienceProject
+Aunica
+Avocet
+Bannerflow
+Basis Technologies
+Batch Media
+BDSK Handels GmbH & Co. KG
+Beeswax
+Betgenius
+Blismedia
+Bombora
+Booking.com
+C3 Metrics
+Cablato
+Celtra
+Cint
+Clinch
+Cloud Technologies
+Cloudflare
+Commanders Act
+comScore
+Crimtan
+Criteo
+CUBED
+DataXu
+Demandbase
+DENTSU
+Dentsu Aegis Network
+Digiseg
+DMA Institute
+DoubleVerify
+Dstillery
+Dynata
+EASYmedia
+eBay
+ebuilders
+Effinity
+emetriq
+Ensighten
+Epsilon
+Essens
+Evidon
+Exactag
+Exponential
+Facebook
+Flashtalking by Mediaocean
+Fractional Media
+Gemius
+GfK
+GP One
+GroupM
+gskinner
+Haensel AMS
+Havas Media France - DBi
+hurra.com
+IBM
+Ignition One
+Impact
+Improve Digital
+Index Exchange
+Innovid
+Integral Ad Science
+intelliAd
+IPONWEB
+Jivox
+Kantar
+Kochava
+LifeStreet
+Liftoff
+LiveRamp
+Localsensor
+LoopMe
+Lotame
+Macromill group
+Magnite
+MainADV
+Manage.com
+Marketing Science Consulting Group, Inc.
+MediaMath
+Meetrics
+MindTake Research
+Mobitrans
+Mobpro
+Moloco Ads
+MSI-ACI
+Nano Interactive
+Navegg
+Neodata Group
+NEORY GmbH
+Netflix
+Netquest
+Neural.ONE
+Neustar
+NextRoll, Inc.
+Nielsen
+numberly
+Objective Partners
+Omnicom Media Group
+On Device Research
+OneTag
+OpenX Technologies
+Optomaton
+Oracle Data Cloud
+OTTO
+PERMODO
+Pixalate
+Platform161
+Primis
+Protected Media
+Publicis Media
+PubMatic
+PulsePoint
+Quantcast
+Rackspace
+Rakuten Marketing
+Relay42
+Remerge
+Resolution Media
+Resonate
+RevJet
+Roq.ad
+RTB House
+Salesforce DMP
+Scenestealer
+Scoota
+Seenthis
+Semasio GmbH
+SFR
+Sift Media
+Simpli.fi
+Sizmek
+Smaato
+Smadex
+Smart
+Smartology
+Sojern
+Solocal
+Sovrn
+Spotad
+STRÖER SSP GmbH
+TabMo
+Taboola
+TACTIC™ Real-Time Marketing
+Teads
+TEEMO
+The Trade Desk
+Tradedoubler AB
+travel audience – An Amadeus Company
+Travel Data Collective
+TreSensa
+TripleLift
+TruEffect
+TrustArc
+UnrulyX
+usemax (Emego GmbH)
+Verve Group
+Videology
+Vimeo
+Virtual Minds
+Vodafone GmbH
+Waystack
+Weborama
+White Ops
+Widespace
+Wizaly
+Yahoo
+ZMS
+IP address of your device. IP address is used to
+track and fix problems you experienced in the service if you have given us
+                                        feedback.
+track the possible misuse of service.
+Your location:
+If you use the locate feature in the service Foreca receives your location
+                                        coordinates (in the accuracy your device has it). Location data is only used to
+                                        provide weather data for your location, and it will not be saved.
+Personal data provided by you
+We may collect your personal data you provide us, for instance, in the following
+                                        ways:
+you fill out our web forms, like contact forms, feedback forms, user
+                                                surveys, competitions, or other general web forms
+you send us an email
+you send us your job application
+This data is only used to the purpose that is clarified in each context.
+Foreca Weather app and Cell Rebel AB (CellRebel)
+Foreca Weather app may ask you to give permission to share your personal data to CellRebel and
+                        its partners. By giving the permission, you understand and agree that CellRebel may sample data
+                        from your device, including location data, for the purposes of analyzing the following areas:
+                        network performance, network user experience and user equipment performance. This information
+                        can be shared with third parties in an aggregated format without personal identifiable
+                        information with the purpose to improve the network performance or to be used in designing
+                        marketing campaigns. This can help to improve your mobile network and your network connectivity.
+                        Further information can be obtained in the Privacy Policy found at:
+www.cellrebel.com/privacy_policy
+How do we obtain your personal information?
+Foreca obtains your personal information confidentially ensuring appropriate security. We only store
+                    the information that is lawful and has a purpose. We store the information only as long as it is
+                    necessary.
+Foreca won't share your personal information to 3rd parties, or mainly won't manage your personal
+                    information outside the EU, except anonymized IP-addresses and cookies that cannot identify a unique
+                    user. If we process personal data in systems outside the EU, we ensure an adequate level of
+                    protection of personal data by ensuring that the system vendor complies with EU requirements in
+                    accordance with the Standard Contractual Clauses (SCCs) as a lawful transfer mechanism for personal
+                    data transferred outside of the EU, Switzerland or the UK.
+Your consent to Foreca to obtain your personal information
+By consenting to this privacy policy you are giving Foreca a permission to obtain your personal data
+                    as described in this page.
+Your rights to view change or remove your personal data
+You may withdraw consent at any time by deleting cookies as you wish – for details, see
+aboutcookies.org
+. You can also adjust your personalized ad
+                    preferences via
+Google Ads Settings
+.
+In case you have provided us any personal information, you have the right to know what information
+                    we obtain and change/remove it by
+sending us your request
+at any time.
+Privacy of children
+As children's privacy is very important, we do not obtain any personal information on purpose from
+                    people under 16 years of age without the permission of his/her guardian. A guardian has the right to
+                    view the information obtained from a child and ask for removal.
+Possible changes to this privacy policy in the future
+Foreca reserves the right to change this privacy policy at any time by posting changes online. You
+                    are responsible for reviewing the possible changes regularly in this privacy policy.
+This privacy policy has been updated: 2021-08-18
+Sub-policy 2
+https://www.apple.com/legal/privacy/en-ww/:
+Choose another country or region to see content specific to your location and shop online.
+Ireland
+Ireland
+Other country or region
+Continue
+Apple
+Store
+Shop the Latest
+Mac
+iPad
+iPhone
+Apple Watch
+Apple Vision Pro
+Accessories
+Find a Store
+Order Status
+Apple Trade In
+Financing
+Personal Setup
+Certified Refurbished
+Education
+Business
+Veterans and Military
+Government
+Mac
+Explore All Mac
+MacBook Air
+MacBook Pro
+iMac
+Mac mini
+Mac Studio
+Mac Pro
+Displays
+Compare Mac
+Switch from PC to Mac
+Shop Mac
+Help Me Choose
+Mac Accessories
+Apple Trade In
+Financing
+Mac Support
+AppleCare+ for Mac
+macOS Sequoia
+Apple Intelligence
+Apps by Apple
+Continuity
+iCloud+
+Mac for Business
+Education
+iPad
+Explore All iPad
+iPad Pro
+iPad Air
+iPad
+iPad mini
+Apple Pencil
+Keyboards
+Compare iPad
+Why iPad
+Shop iPad
+iPad Accessories
+Apple Trade In
+Financing
+iPad Support
+AppleCare+ for iPad
+iPadOS 18
+Apple Intelligence
+Apps by Apple
+iCloud+
+Education
+iPhone
+Explore All iPhone
+iPhone 16 Pro
+iPhone 16
+iPhone 16e
+iPhone 15
+Compare iPhone
+Switch from Android
+Shop iPhone
+iPhone Accessories
+Apple Trade In
+Carrier Deals at Apple
+Financing
+iPhone Support
+AppleCare+ for iPhone
+iOS 18
+Apple Intelligence
+Apps by Apple
+iPhone Privacy
+iCloud+
+Wallet, Pay, Card
+Siri
+Watch
+Explore All Apple Watch
+Apple Watch Series 10
+Apple Watch Ultra 2
+Apple Watch SE
+Apple Watch Nike
+Apple Watch Hermès
+Compare Watch
+Why Apple Watch
+Shop Apple Watch
+Apple Watch Studio
+Apple Watch Bands
+Apple Watch Accessories
+Apple Trade In
+Financing
+Apple Watch Support
+AppleCare+
+watchOS 11
+Apple Watch For Your Kids
+Apps by Apple
+Apple Fitness+
+Vision
+Explore Apple Vision Pro
+Guided Tour
+Tech Specs
+Shop Apple Vision Pro
+Apple Vision Pro Accessories
+Book a Demo
+Financing
+Apple Vision Pro Support
+AppleCare+
+visionOS 2
+AirPods
+Explore All AirPods
+AirPods 4
+AirPods Pro 2
+AirPods Max
+Compare AirPods
+Shop AirPods
+AirPods Accessories
+AirPods Support
+AppleCare+ for Headphones
+Hearing Health
+Apple Music
+TV & Home
+Explore TV & Home
+Apple TV 4K
+HomePod
+HomePod mini
+Shop Apple TV 4K
+Shop HomePod
+Shop HomePod mini
+Shop Siri Remote
+TV & Home Accessories
+Apple TV Support
+HomePod Support
+AppleCare+
+Apple TV app
+Apple TV+
+Home app
+Apple Music
+Siri
+AirPlay
+Entertainment
+Explore Entertainment
+Apple One
+Apple TV+
+Apple Music
+Apple Arcade
+Apple Fitness+
+Apple News+
+Apple Podcasts
+Apple Books
+App Store
+Apple TV+ Support
+Apple Music Support
+Accessories
+Shop All Accessories
+Mac
+iPad
+iPhone
+Apple Watch
+Apple Vision Pro
+AirPods
+TV & Home
+Made by Apple
+Beats by Dr. Dre
+AirTag
+Support
+iPhone
+Mac
+iPad
+Watch
+Apple Vision Pro
+AirPods
+Music
+TV
+Explore Support
+Community
+Check Coverage
+Repair
+Get AppleCare+
+Apple Account and Password
+Billing & Subscriptions
+Accessibility
+5 total results
+Find a Store
+Apple Vision Pro
+AirPods
+Apple Intelligence
+Apple Trade In
+0
++
+Privacy
+Local Nav Open Menu
+Local Nav Close Menu
+Overview
+Features
+Control
+Labels
+Transparency Report
+Privacy Policy
+English
+Choose your preferred language
+At Apple, we believe strongly in fundamental privacy rights — and that those fundamental rights should not differ depending on where you live in the world.
+That’s why we treat any data that relates to an identified or identifiable individual or that is linked or linkable to them by Apple as “personal data,” no matter where the individual lives.
+This means that data that directly identifies you — such as your name — is personal data, and also data that does not directly identify you, but that can reasonably be used to identify you — such as the serial number of your device — is personal data. Aggregated data is considered non‑personal data for the purposes of this Privacy Policy.
+This Privacy Policy covers how
+Apple or an Apple-affiliated company
+(collectively, “Apple”) handles personal data whether you interact with us on our websites, through Apple apps (such as Apple Music or Wallet), or in person (including by phone or when visiting an Apple Store). Apple may also link to third parties on our services or make third-party apps available for download in our App Store. Apple’s Privacy Policy does not apply to how third parties define personal data or how they use it. We encourage you to read their privacy policies and know your privacy rights before interacting with them.
+At Apple, we respect your ability to know, access, correct, transfer, restrict the processing of, and delete your personal data. We have provided these rights to our global customer base and if you choose to exercise these privacy rights, you have the right not to be treated in a discriminatory way nor to receive a lesser degree of service from Apple. Where you are requested to consent to the processing of your personal data by Apple, you have the right to withdraw your consent at any time.
+To exercise your privacy rights and choices, including where a third-party service provider is acting on Apple’s behalf, visit the Apple Data and Privacy page at
+privacy.apple.com
+for Apple or
+shazam.com/privacy
+for Shazam.
+To help protect the security of your personal data, you must sign in to your account and your identity will be verified. If you want to obtain a copy of personal data that is not currently available from
+privacy.apple.com
+, you can make a request at
+apple.com/legal/privacy/contact
+. You also have the right to lodge a complaint with the applicable regulator.
+There may be situations where we cannot grant your request — for example, if you ask us to delete your transaction data and Apple is legally obligated to keep a record of that transaction to comply with law. We may also decline to grant a request where doing so would undermine our legitimate use of data for anti-fraud and security purposes, such as when you request deletion of an account that is being investigated for security concerns. Other reasons your privacy request may be denied are if it jeopardizes the privacy of others, is frivolous or vexatious, or would be extremely impractical or unreasonable.
+If you live in California and you cannot access Apple’s Data and Privacy page,
+you or your authorized agent can make a request at
+apple.com/legal/privacy/contact
+or by calling 1-800-275-2273.
+For more information on exercising your rights, visit
+support.apple.com/102283
+.
+At Apple, we believe that you can have great products and great privacy. This means that we strive to
+collect only the personal data that we need
+. The personal data Apple collects depends on how you interact with Apple. Descriptions of how Apple handles personal data for certain individual services are available at
+apple.com/legal/privacy/data
+.
+When you create an Apple Account, apply for commercial credit, purchase and/or activate a product or device, download a software update, register for a class at an Apple Store, connect to our services, contact us (including by social media), participate in an online survey, or otherwise interact with Apple, we may collect a variety of information, including:
+Account Information.
+Your Apple Account and related account details, including email address, devices registered, account status, and age
+Device Information.
+Data from which your device could be identified, such as device serial number, or about your device, such as browser type
+Contact Information
+. Data such as name, email address, physical address, phone number, or other contact information
+Payment Information. Data about your billing address and method of payment, such as bank details, credit, debit, or other payment card information
+Transaction Information.
+Data about purchases of Apple products and services or transactions facilitated by Apple, including purchases on Apple platforms
+Fraud Prevention Information.
+Data used to help identify and prevent fraud, including a device trust score
+Usage Data.
+Data about your activity on and use of our offerings, such as app launches within our services, including browsing history; search history; product interaction; crash data, performance and other diagnostic data; and other usage data
+Location Information
+. Precise location only to support services such as Find My or where you agree for region-specific services, and coarse location
+Health Information.
+Data relating to the health status of an individual, including data related to one’s physical or mental health or condition. Personal health data also includes data that can be used to make inferences about or detect the health status of an individual. If you participate in a study using an Apple Health Research Study app, the policy governing the privacy of your personal data is described in the
+Apple Health Study Apps Privacy Policy
+.
+Fitness Information.
+Details relating to your fitness and exercise information where you choose to share them
+Financial Information.
+Details including salary, income, and assets information where collected, and information related to Apple-branded financial offerings
+Government ID Data.
+In certain jurisdictions, we may ask for a government-issued ID in limited circumstances, including when setting up a wireless account and activating your device, for the purpose of extending commercial credit, managing reservations, or as required by law
+Other Information You Provide to Us.
+Details such as the content of your communications with Apple, including interactions with customer support and contacts through social media channels
+You are not required to provide the personal data that we have requested. However, if you choose not to do so, in many cases we will not be able to provide you with our products or services or respond to requests you may have.
+Apple may receive personal data about you from other
+individuals
+, from businesses or third parties acting
+at your direction
+, from our
+partners
+who work with us to provide our products and services and assist us in security and fraud prevention, and from other
+lawful sources.
+Individuals.
+Apple may collect data about you from other individuals — for example, if that individual has sent you a product or gift card, invited you to participate in an Apple service or forum, or shared content with you.
+At Your Direction.
+You may direct other individuals or third parties to share data with Apple. For example, you may direct your mobile carrier to share data about your carrier account with Apple for account activation, or for your loyalty program to share information about your participation so that you can earn rewards for Apple purchases.
+Apple Partners.
+We may also validate the information you provide — for example, when creating an Apple Account, with a third party for security, and for fraud-prevention purposes.
+To power features such as search and as a source for our foundational AI models, Apple uses Applebot, a web crawler, to crawl information that is publicly available on the internet. We have measures in place to reduce the amount of personal data we collect and make no attempt to connect data crawled to any individual Apple user, or to build profiles about individuals. Your private personal data is not used to train our foundational AI models. To exercise your right as an individual to opt out of processing, visit the
+Apple Intelligence Privacy Inquiries form
+. For more information about Applebot, visit
+support.apple.com/120320
+.
+For research and development purposes, we may use datasets such as those that contain images, voices, or other data that could be associated with an identifiable person. When acquiring such datasets, we do so in accordance with applicable law, including law in the jurisdiction in which the dataset is hosted. When using such datasets for research and development, we do not attempt to reidentify individuals who may appear therein.
+Apple uses personal data to power our services, to process your transactions, to communicate with you, for security and fraud prevention, and to comply with law. We may also use personal data for other purposes with your consent.
+Apple uses your personal data only when we have a valid legal basis to do so.
+Depending on the circumstance, Apple may rely on your consent or the fact that the processing is necessary to fulfill a contract with you, protect your vital interests or those of other persons, or to comply with law. We may also process your personal data where we believe it is in our or others’ legitimate interests, taking into consideration your interests, rights, and expectations. More information is available in the product-specific information embedded in our products and features as described above. If you have questions about the legal basis, you can contact the Data Protection Officer at
+apple.com/legal/privacy/contact
+.
+Power Our Services.
+Apple collects personal data necessary to power our services, which may include personal data collected to improve our offerings, for internal purposes such as auditing or data analysis, or for troubleshooting. For example, if you would like to access a song through an Apple Music subscription, we collect data on what songs you play in order to provide you with the content requested and for royalty purposes.
+Process Your Transactions.
+To process transactions, Apple must collect data such as your name, purchase, and payment information.
+Communicate with You.
+To respond to communications, reach out to you about your transactions or account, market our products and services, provide other relevant information, or request information or feedback. From time to time, we may use your personal data to send important notices, such as communications about purchases and changes to our terms, conditions, and policies. Because this information is important to your interaction with Apple, you may not opt out of receiving these important notices.
+Security and Fraud Prevention.
+To protect individuals, employees, and Apple and for loss prevention and to prevent fraud, including to protect individuals, employees, and Apple for the benefit of all our users, and prescreening or scanning uploaded content for potentially illegal content, including child sexual exploitation material.
+Personal Data Used for Personalization.
+If you choose to personalize your services or communications where such options are available, Apple will use information that we collect so that we can offer you those personalized services or communications. You can learn more about how relevant services use information to personalize your experience by reviewing the privacy information presented when you first use a service that asks to use your personal data. We make this information easy to find by presenting it with our Data & Privacy icon; it’s also available at all times on your Apple device and online at
+apple.com/legal/privacy/data
+.
+Comply with Law.
+To comply with applicable law — for example, to satisfy tax or reporting obligations, or to comply with a lawful governmental request.
+Apple does not use algorithms or profiling to make any decision that would significantly affect you without the opportunity for human review. Apple also does not use or disclose sensitive personal data for any purposes that would require a user to exercise a right to limit processing according to California law.
+Apple retains personal data only for so long as necessary to fulfill the purposes for which it was collected, including as described in this Privacy Policy or in our service-specific privacy notices, or as required by law. We will retain your personal data for the period necessary to fulfill the purposes outlined in this Privacy Policy and our service-specific privacy notices. When assessing retention periods, we first carefully examine whether it is necessary to retain the personal data collected and, if retention is required, work to retain the personal data for the shortest possible period permissible under law.
+Apple may share personal data with
+Apple-affiliated companies
+,
+service providers
+who act on our behalf, our
+partners
+,
+developers, and publishers
+, or others
+at your direction
+. Further, Apple does not share personal data with third parties for their own marketing purposes.
+Service Providers.
+Apple may engage third parties to act as our service providers and perform certain tasks on our behalf, such as processing or storing data, including personal data, in connection with your use of our services and delivering products to customers. Apple service providers are obligated to handle personal data consistent with this Privacy Policy and according to our instructions. They cannot use the personal data we share for their own purposes and must delete or return the personal data once they’ve fulfilled our request.
+Partners.
+At times, Apple may partner with third parties to provide services or other offerings. For example, Apple financial offerings like Apple Card and Apple Cash are offered by Apple and our partners. Apple requires its partners to protect your personal data.
+Developers and Publishers from Whom You Get a Subscription.
+If you purchase a third-party subscription from the App Store or within Apple News, we create a Subscriber ID that is unique to you and the developer or publisher. The Subscriber ID may be used to provide reports to the developer or publisher, which include information about the subscription you purchased and your country of residence. If you cancel all of your subscriptions from a particular developer or publisher, the Subscriber ID will reset after 180 days if you do not resubscribe. This information is provided to developers or publishers so that they can understand the performance of their subscriptions.
+Others.
+Apple may share personal data with others at your direction or with your consent, such as when we share information with your carrier to activate your account. We may also disclose information about you if we determine that for purposes of national security, law enforcement, or other issues of public importance, disclosure is necessary or appropriate. We may also disclose information about you where there is a lawful basis for doing so, if we determine that disclosure is reasonably necessary to enforce our terms and conditions or to protect our operations or users, or in the event of a reorganization, merger, or sale.
+Apple does not sell your personal data including as “sale” is defined in Nevada and California. Apple also does not “share” your personal data as that term is defined in California.
+At Apple, we believe that great privacy rests on great security. We use
+administrative, technical, and physical safeguards
+to protect your personal data, taking into account the nature of the personal data and the processing, and the threats posed. We are constantly working to improve on these safeguards to help keep your personal data secure. For more information, visit our
+Apple Platform Security
+guide.
+Apple understands the importance of safeguarding the personal data of children, which we consider to be an
+individual under the age of 13 or the equivalent age as specified by law in your jurisdiction
+. That is why Apple has implemented additional processes and protections to help keep children’s personal data safe.
+To access certain Apple services, a child must have a child Apple Account. A child Apple Account may be created by the
+parent
+or, in the case of a Managed Apple Account, by the
+child’s educational institution
+.
+Parents.
+To create a child account, parents must review the
+Family Privacy Disclosure for Children
+, which describes how Apple handles children’s personal data. If they agree, the parent must provide Apple with a verifiable parental consent.
+Educational Institutions.
+Educational institutions that participate in the Apple School Manager Program may also create Apple IDs for students, called “Managed Apple IDs.” These schools are required to agree to the
+Managed Apple IDs for Students Disclosure
+which is included as Exhibit A to the Apple School Manager Agreement.
+If we learn that a child’s personal data was collected without appropriate authorization, it will be deleted as soon as possible.
+To exercise privacy rights for your child’s information, visit the Apple Data and Privacy page at
+privacy.apple.com
+and sign in to their account.
+Apple’s websites, online services, interactive applications, and advertisements may use
+“cookies” and other technologies
+such as web beacons.
+These technologies help us to better understand user behavior including for security and fraud prevention purposes, tell us which parts of our websites people have visited, and facilitate and measure the effectiveness of advertisements and web searches.
+Communications Cookies.
+These cookies are used to enable network traffic to and from Apple’s systems, including by helping us detect any errors.
+Strictly Necessary Cookies.
+These cookies are set as required to provide a specific feature or service that you have accessed or requested. For example, they allow us to display our websites in the proper format and language, to authenticate and verify your transactions, and to preserve the contents of your Bag when shopping online at
+apple.com
+.
+Other Cookies.
+These cookies are used to understand how visitors interact with our websites and online services, including by helping us to assess the effectiveness of advertisements and web searches. Apple also uses these cookies to remember choices you make while browsing, so we can provide you with a customized experience.
+If you prefer that Apple not use cookies, we provide you with the means to disable their use. If you want to disable cookies and you’re using the Safari web browser, choose “Block all cookies” in Safari’s privacy settings. If you are using a different browser, check with your provider to find out how to disable cookies. Certain features of the Apple website may not be available if all cookies are disabled.
+In addition to cookies, Apple uses other technologies that help us achieve similar objectives.
+In some email messages Apple sends to you, we provide a “click-through URL” that links you to content on the Apple website. When you click one of these URLs, they pass through a separate server before arriving at the destination page on our website. We track this click-through to help us determine interest in particular topics and measure whether we are communicating with you effectively. If you prefer not to be tracked in this way, you should not click graphic or text links in email messages.
+Apple generally treats data we collect using these cookies and similar technologies as non-personal data.
+However, to the extent that Internet Protocol (IP) addresses or similar identifiers are considered personal data by local law, we also treat these identifiers as personal data in those regions. In addition, Apple sometimes combines non-personal data collected from these technologies with other personal data Apple holds. When we combine data in this way, we treat the combined data as personal data for purposes of this Privacy Policy.
+Ads that are delivered by Apple’s advertising platform may appear on the App Store, Apple News, Stocks, and Apple TV app depending on your location. Apple’s advertising platform does not track you, meaning that it does not link user or device data collected from our apps with user or device data collected from third parties for targeted advertising or advertising measurement purposes, and does not share user or device data with data brokers.
+If you do not want to receive ads targeted to your interests from Apple's advertising platform in those apps, you can choose to disable Personalized Ads, which will opt your Apple Account out of receiving such ads regardless of what device you are using. On your iOS, iPadOS, or visionOS device, you can disable Personalized Ads by going to Settings > Privacy & Security > Apple Advertising and tapping to turn off Personalized Ads. On your Mac, you can disable Personalized Ads by going to System Settings > Privacy & Security > Privacy > Advertising, then deselecting Personalized Ads. You may still see ads in the App Store, Apple News, or Stocks based on context like your search query or the channel you are reading. If you disable Allow Apps to Request to Track, third-party apps cannot request to use the Advertising Identifier, a non-personal identifier served by the operating system on your device, to track you across apps and websites owned by other companies.
+For more information about Apple-delivered advertising and privacy, visit
+apple.com/legal/privacy/data/ww/apple-advertising
+.
+Apple products and offerings connect you to the world. To make that possible,
+your personal data may be transferred to or accessed by entities around the world,
+including Apple-affiliated companies, to perform processing activities such as those described in this Privacy Policy in connection with your use of our products and services. Apple complies with laws on the transfer of personal data between countries to help ensure your data is protected, wherever it may be.
+The Apple entity that controls your personal data may differ depending on where you live.
+For example, Apple Store information is controlled by individual retail entities in each country and Apple Media Services-related personal data may be controlled by various Apple entities as reflected in the terms of service. If you do not reside in the U.S., your personal data may be processed by Apple Inc. and other Apple-affiliated companies on behalf of the Apple entity controlling personal data for your jurisdiction. For example, Imagery and associated data collected by Apple around the world to improve Apple Maps and to support our Look Around feature is transferred to Apple Inc. in California.
+Personal data relating to individuals in the European Economic Area, the United Kingdom, and Switzerland is controlled by Apple Distribution International Limited in Ireland. Apple’s international transfer of personal data collected in the European Economic Area, the United Kingdom, and Switzerland is governed by
+Standard Contractual Clauses
+. If you have questions or would like a copy of Apple’s Standard Contractual Clauses, you can contact us at
+apple.com/legal/privacy/contact
+.
+Personal data collected by
+Apple or an Apple-affiliated company
+worldwide is generally stored by Apple Inc. in the United States. Regardless of where your personal data is stored, Apple maintains the same high level of protection and safeguarding measures.
+Apple’s privacy practices, as described in this Privacy Policy, comply with the Global Cross-Border Privacy Rules (CBPRs) System and the Global Privacy Recognition for Processors (PRP) System. For more information about the Global CBPR and PRP Systems, visit
+Global CBPR Forum
+. To view our certifications, visit
+CBPR System Compliance Directory
+. For more information about the scope of our participation, or to submit a privacy inquiry through
+BBB National Programs
+, our Accountability Agent, visit:
+Cross-Border Privacy Rules Program
+Privacy Recognition for Processors Program
+Personal data relating to individuals in the People’s Republic of China may be processed by Apple in countries outside of the People’s Republic of China, such as Apple Inc. in the United States or Apple Distribution International Limited in the Republic of Ireland. Where this occurs, it will be done in compliance with local laws, including the Personal Information Protection Law. For the purposes of processing set out in this Privacy Policy, Apple may also transfer such personal data to third-party service providers, who may in turn store or transfer the data outside of the People’s Republic of China. For more information, visit
+China Mainland Privacy Disclosures
+.
+To make sure your personal data is secure, we communicate our privacy and security guidelines to Apple employees and strictly enforce privacy safeguards within the company.
+If you have questions about Apple’s Privacy Policy or privacy practices including where a third-party service provider is acting on our behalf, or you would like to contact our Data Protection Officer, you can contact us at
+apple.com/legal/privacy/contact
+or call the
+Apple Support number
+for your country or region.
+You can also ask us questions about how to submit a privacy complaint and we will endeavor to help.
+Apple takes your privacy questions seriously. A dedicated team reviews your inquiry to determine how best to respond to your question or concern, including those inquiries received in response to an access or download request. In most cases, all substantive contacts receive a response within seven days. In other cases, we may require additional information or let you know that we need more time to respond.
+Where your complaint indicates an improvement could be made in our handling of privacy issues, we will take steps to make such an update at the next reasonable opportunity. In the event that a privacy issue has resulted in a negative impact on you or another person, we will take steps to address that with you or that other person.
+You may at any time — including if you are not satisfied with Apple’s response — refer your complaint to the applicable regulator. If you ask us, we will endeavor to provide you with information about relevant complaint avenues which may be applicable to your circumstances.
+When there is a material change to this Privacy Policy, we’ll post a notice on this website at least a week in advance of doing so and contact you directly about the change if we have your data on file.
+View our CBPR certification
+View our PRP certification
+Sub-policy 3
+https://open-meteo.com/en/features#terms:
+Open-meteo
+Home
+Features
+Pricing
+API Docs
+GitHub
+X
+Toggle theme
+Features
+Simple JSON APIs. Global coverage. Up to 1 km resolution. Get started today!
+Available APIs
+Pricing
+Local And Global Models
+Open-Meteo brings together cutting-edge local (1 km resolution) and global (11 km) weather
+				models sourced from renowned national weather services. This means you have access to the
+				most accurate forecast for any location worldwide.
+National weather services include Deutscher Wetter Dienst (DWD), National Oceanic and
+				Atmospheric Administration (NOAA), Meteofrance and Canadian Meteorological Center (CMC).
+High Resolution
+Open-Meteo APIs are designed to provide you with the most precise weather information for
+				your location. We select the highest resolution weather models available, ensuring detailed
+				forecasts for your specific area. If you're in Europe or the US, we utilize impressive 1-2
+				km high resolution models for even greater accuracy.
+Our APIs deliver hourly weather data for a 7-day forecast. The first 2-3 days of the
+				forecast are calculated using high resolution models, offering you detailed predictions.
+				After that, global weather models take over. This seamless integration results in a simple
+				and reliable hourly forecast for the week ahead.
+Hourly Updates
+At Open-Meteo, we understand the importance of up-to-date weather information. That's why
+				our local 1 km resolution models are updated every hour, ensuring that our forecasts are
+				always current and accurate.
+To provide you with reliable predictions, our weather models incorporate real-time
+				measurements, airplane data, buoys, rain radar, and satellite observations. These sources of
+				information contribute to the precision of our numerical weather forecasts, giving you the
+				most reliable data for your location.
+80 Years Historical Data
+With our
+Historical Weather API
+, you have
+				access to over 80 years of hourly weather data, covering any location on earth, all at a
+				10-kilometer resolution. This extensive dataset allows you to delve into the past and
+				analyze historical weather patterns.
+Not only that, but our APIs continuously archive data, ensuring that you can seamlessly
+				retrieve the most recent forecast while also accessing multiple weeks of past data. This is
+				especially valuable for training machine learning applications and gaining insights from
+				historical weather trends.
+Specialised Forecasts
+At Open-Meteo, we go beyond standard weather forecasts. In addition to providing predictions
+				for temperature, clouds, and rain, we offer detailed forecasts for a range of specialized
+				factors. These include solar radiation, winds at higher altitude, transpiration, soil
+				moisture, soil temperature, waves, and air quality.
+Whether you're planning a solar energy project, assessing wind conditions, or monitoring
+				environmental factors, our specialized forecasts have got you covered. Gain insights into
+				specific aspects of the weather that matter most to you.
+Geocoding, Elevation, Timezones
+With our collection of utility APIs, you can effortlessly handle various tasks. Need to find
+				the precise coordinates for a city name? Our geocoding API can help you resolve city names
+				to coordinates.
+Want to know the elevation of a specific point? Our elevation API provides you with accurate
+				elevation data, allowing you to plan activities or analyze terrain with ease.
+And when it comes to managing timezones, our API can automatically resolve coordinates to
+				their respective timezones. Say goodbye to timezone-related headaches and ensure that your
+				applications and systems are always synchronized.
+Available APIs
+Open-Meteo offers a diverse range of APIs that go beyond traditional weather forecasting.
+			Explore a world of possibilities with our APIs for past weather data, ocean data, air quality,
+			ensemble forecasts, climate forecasts based on IPCC predictions, and even floods. Whatever
+			your weather-related needs may be, Open-Meteo has got you covered.
+Forecast API
+Your Go-To Solution for Weather Forecasts!
+Experience the simplicity and power of our
+Forecast API
+, designed to provide you with accurate weather forecasts for up to 14 days. Gain
+						access to a comprehensive set of weather variables, such as temperature, wind, clouds,
+						and precipitation, all delivered in an easy-to-use JSON format.
+Our Forecast API combines the best weather models from national weather services,
+						allowing you to compare them directly. Stay informed about the weather conditions and
+						make informed decisions based on the most reliable and up-to-date forecasts available.
+But that's not all! With our "Past Days" feature, you can also access historical weather
+						data from the past months. Analyze trends, study weather patterns, and unlock valuable
+						insights using this valuable feature.
+Rest assured, our Forecast API is not only incredibly fast but also highly reliable.
+						Count on its seamless performance to provide you with the weather information you need,
+						when you need it.
+Historical Weather API
+Unlock the Past Weather!
+Step back in time and explore the weather history with our
+Historical Weather API
+. Access past weather data from as far back as 1940, with hourly resolution available
+						for any location on earth.
+Harnessing the power of 50TB of reanalysis weather data, our Historical Weather API
+						offers a wealth of information for your analysis and research needs. Benefit from global
+						coverage without any missing data, ensuring a comprehensive view of weather patterns
+						over the years.
+With our lightning-fast API, you can retrieve decades worth of data in less than a
+						second. Dive deep into the historical weather records, uncover trends, and gain valuable
+						insights with ease.
+Ensemble Models API
+Harness the Power of Many!
+Why settle for a single weather forecast when you can tap into the collective wisdom of
+						over 200 individual forecasts? With our
+Ensemble Models API
+, you can access a wealth of weather predictions and estimate the likelihood of
+						different outcomes for the next 4 weeks.
+Experience the ultimate forecasting accuracy with our API, which combines the insights
+						of 7 different ensemble models from renowned institutes. With just one API call, you
+						gain access to a diverse range of perspectives and can make informed decisions based on
+						the most reliable predictions available.
+Unlock the raw power of up to 35 days of weather forecasts, provided in hourly
+						resolution. Our API offers an extensive selection of weather variables, including
+						specialized data like wind at 120-meter elevation and solar radiation, allowing you to
+						estimate renewable energy production with precision.
+Climate Change API
+Explore the Future of Your Region!
+Curious about the impact of climate change on your area? Our
+Climate Change API
+provides valuable insights by delivering downscaled IPCC climate predictions specifically
+						tailored to a 10 km resolution, going beyond the limitations of continental-scale data.
+Harness the power of high-resolution IPCC climate models, carefully downscaled and
+						statistically corrected to provide accurate forecasts at a local level. With this API,
+						you can access climate projections in daily resolution, extending all the way up to the
+						year 2050. Additionally, you can explore control data dating back to 1950, allowing for
+						in-depth analysis of climate change.
+Marine, Air Quality, and Floods
+Comprehensive Environmental Analysis!
+Dive into the world of marine weather with our
+Marine Weather API
+, providing detailed ocean wave forecasts generated by both local and global models.
+						Stay informed about wave conditions and make informed decisions for marine activities.
+Monitor the quality of the air you breathe using our
+Air Quality API
+, which delivers air pollution forecasts encompassing particles, gases, and even
+						pollen. Stay ahead of potential health concerns and plan your outdoor activities
+						accordingly.
+Stay prepared and informed about potential floods with our
+Flood API
+. Access ensemble flood forecasts that estimate the volume of water discharged by
+						rivers worldwide. This invaluable information allows for the prediction of potential
+						flood events and aids in proactive measures for flood preparedness.
+Geocoding, and Elevation
+Disclose Location Insights!
+Discover any city or town worldwide with our
+Geocoding API
+. It supports multiple languages, making it easier than ever to search for specific
+						locations. Seamlessly resolve location names to geographic coordinates and seamlessly
+						transition to accessing weather forecasts for those locations.
+Explore the
+Elevation API
+to unlock the power of elevation data. Resolve any set of coordinates to their corresponding
+						elevation using our digital elevation model with impressive resolution, up to 90 meters.
+						Enhance your understanding of terrain and elevation variations for various geographic points.
+Lightning Fast APIs
+Open-Meteo has designed its APIs to deliver lightning-fast performance and scalability.
+				Weather data is stored on high-speed NVMe disks in optimized time-series formats. API
+				requests typically have a response time of under 10 milliseconds.
+To ensure reliability and low latency, Open-Meteo operates servers in Europe and North
+				America. Additionally, we offer the flexibility to add API servers to local points of
+				presence in any cloud provider or hosting center. If performance is crucial for your needs,
+				feel free to reach out to us.
+User-Friendly APIs
+Our JSON-based APIs are incredibly easy to use. All you need is a basic understanding of
+				geographic coordinates (e.g.,
+52.52°N 13.405°E
+for Berlin), how to make HTTP requests,
+				and work with JSON data.
+We provide
+comprehensive API documentation
+with detailed explanations
+				and all the necessary parameters, making it simple for you to integrate our APIs into your projects.
+Reliable APIs
+We understand the importance of API stability. Rest assured, we are committed to maintaining
+				the stability of our APIs. Any modifications will adhere to semantic versioning, and
+				breaking changes will be introduced as new major versions.
+To keep you informed, all API changes will be documented and logged in our GitHub
+				repository. This ensures transparency and allows you to stay updated on any modifications
+				made to our APIs.
+Next steps
+Our
+documentation
+provides a good start to help you integrate weather
+				forecast into you application. For commercial applications, we recommend exploring our
+API subscriptions
+. Should you
+				require any assistance, have suggestions for improvements, or need to report a bug, we
+				encourage you to reach out to us through our
+GitHub repository
+. Alternatively, you can also contact us directly via email. We're here to support you
+				every step of the way.
+API Pricing
+Email us
+Sub-policy 4
+https://hjelp.yr.no/hc/en-us/articles/360003337614-Privacy-policy:
+Yr help and information
+Yr, the API and our privacy policy
+About us
+We are constantly working to protect and process personal information in the best possible way.
+Location and IP-adress
+When you give Yr access to your location («locationbased forecast» or «nearby» for web), we use your position to get weather data and show you weather from where you are. Every time Yr gets weather data for your location, a third part (
+Akamai
+) will save this information and your IP-adress for 30 days. We do this to customize the infrastructure by usage rate and detect data attacks or other operational issues.
+Analyze tools
+We use different tools to track the use on our app and website. This information gives us valuable information such as most popular pages and on what times Yr is being used the most. No information that can identify persons are available for Yr.
+Contact form
+When you contact us through the contact form your inquiry and contact information will be saved in our feedback system (
+Zendesk
+). The feedbacks helps us improving and developing Yr. If you want your feedback to be deleted, send us a request or mention it in the contact form.
+Need more information?
+You can read more about NRKs privacy policy here (only in Norwegian):
+Personvern i elektroniske kommunikasjonstjenester fra NRK
+,
+Ivaretakelse av personvern i NRKs plattformuavhengige
+apper
+,
+Informasjonskapsler (
+cookies
+)
+Related articles
+FAQ: Frequently asked questions
+The 21-day forecast on Yr
+Live precipitation forecast (only for the Nordic countries)
+Wind map
+How do I change language?

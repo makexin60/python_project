@@ -1,0 +1,122 @@
+Privacy policy for Android Apps
+"All tools" app in play store have followed this privacy policy and to help you understand how we use
+                    the
+                    data from your device, like camera, microphone, location, storage data we have written this privacy
+                    policy.
+Personal data
+We do NOT collect or share any personal data from you or your devices.
+Non personal data
+Non personal data may be automatically collected by the libraries of google play services in the app
+                    and for more info see Google privacy policy.
+Camera data
+Camera is used by our tools in the app. We never run camera in the background, camera will be only
+                    used when you are using the app or tools, We do not collect or share any data from camera,
+                    we only require the data in real time for example for measuring the Heart rate, to take pictures, to
+                    detect colors, for taking selfie, for uploading picture or image, this will be done by the user will
+                    using
+                    action buttons in the app for functionality or working and only if you wish to save, share, download
+                    using
+                    actions in the app, only then it will be stored in internal storage using scoped storage in device
+                    only
+                    (offline) (Ex: In Magnifier Camera, if you take picture using button in the tool then the image will
+                    be stored
+                    in device and you get options to share or download them)
+If you are using the tool called Cctv or control phones in our app you will share the real time data
+                    with
+                    the connected device of your choice and the data will never be stored in the device if you do not
+                    take
+                    pictures or wish not to share and you are in full control of it and you can disconnect at any point
+                    of time.
+Microphone data
+Microphone data is required only for Recording audio, to measure the Decibels, Speech to Text, Mike,
+                    Walkie Talkie and WiFi calls.
+                    If you are using the tool called Walkie Talkie, Wifi Calls and wireless Mike in our apps you will
+                    share the real time data with the connected device of your choice and the data will never be stored
+                    in the
+                    device or remote and you are in full control of it and you can disconnect at any point of time.
+                    We do not collect or share the data from microphone in any other way or manner.
+Location data
+Location data is required for the tools like Speedometer, altimeter, my location, path tracker, for
+                    finding
+                    near by devices to connect wifi and wifi tools.
+For Speedometer, Compass and Altimeter the location is taken only when the app is ON and when is in
+                    use to
+                    show you the values in graphical way. No location data is collected or stored in device or remote
+                    except
+                    only maximum and minimum values are stored in device internal storage only (offline) and showed to
+                    users.
+For "Path tracker" tool location data will be stored as history and to display in internal storage
+                    using
+                    shared preferences and the data will remain offline and only in device itself, you can easily delete
+                    all the
+                    data in the app itself when ever you want,
+                    location data will be collected and stored in device itself in background using foreground service
+                    so a
+                    notification will be shown always or anytime till the app is running to stop the tool, service and
+                    to stop
+                    collection of location data. for this path tracker tool background location is needed because it
+                    should
+                    trace out the path even when the app is locked (Ex: After parking your car and turning on "path
+                    tracker"
+                    tool it will start collecting location data even when you lock and keep in pocket so it will show
+                    where the
+                    car is parked when you see the path).
+For WiFi utility, including but not limited to tools like Walkie Talkie, Music group, CCTV, Control
+                    phones
+                    and WiFi Calls uses location to be turned ON to scan and connect to a WiFi network or peer to peer
+                    using
+                    WiFiP2P. We do not collect or share any kind of location data and it is only used in real time.
+Storage data
+It is required to read the files which are or were stored from our apps in storage with the app's
+                    name folder or in
+                    internal storage using scoped storage.
+It is required to write files to internal storage using scoped storage and directly download to
+                    internal
+                    storage of user-generated or files created by you or shared using all tools app and all of its
+                    contents and
+                    tools.
+For the file sharing tool called "File transfer" will read files in the device including but not
+                    limited to media
+                    files, apps or apk files, music, image, video, documents, and display them to you, so you can choose
+                    which
+                    file to send, except this we never read any other data from storage. And we do not collect or share
+                    the data
+                    from storage.
+For the "File Locker" tool, the files which you add will be stored in internal storage only on your device
+                    itself
+                    using scoped storage system so no other apps can read or write files in the File Locker, and it is
+                    protected by
+                    password, and it is completely offline, so if you forget the password then you have to reset the
+                    File Locker which results
+                    in the deletion of the entire file system, files, and data in the File Locker.
+Body Sensor
+For the "Heart rate" tool for getting heart rate in BPM, sensor is required and the values from the
+                    sensor will be
+                    shown to the user in a graphical way, No data of any type from the sensor is collected or stored or
+                    shared except the
+                    sensor values or data will be stored as history only in the device (offline).
+For the "Steps counter" tool for calculating the steps taken by the user, the values from the sensor
+                    will be shown to
+                    the user in a graphical way, No data of any type from the sensor is collected or stored or shared
+                    except the sensor
+                    values or data will be stored as history only in the device (offline)
+Payment Data
+We use Google Play Billing system or API for our In-App purchases.
+A Token text or string (unique ID for every purchase) and Order ID is generated when you
+                    click on
+                    purchase or when purchase is complete, only these and date, time, product details of purchase are
+                    sent to
+                    our servers over HTTPS secure network and stored in our database for verification and purchase
+                    retention
+                    when you change your device.
+                    We never collect or store or share any other data like card details, bank details, etc.
+Developer information
+Company Name : ATEU SOFTWARES
+Address : Dr Rajkumar Rd
+Mysuru, Karnataka 570019
+Country : INDIA
+Email : support@ateusoftwares.com
+ATEU Softwares ensures that your privacy is protected.
+If you have any questions regarding this privacy policy contact us at :
+support@alltools.link / support@ateusoftwares.com
+or Submit a Form here

@@ -1,0 +1,68 @@
+The New Old School Developers
+We blend the nostalgic appeal of classic gaming with modern technology to create 
+              unique, engaging experiences for today's players.
+Our Games
+Flight Combat
+Fractal Combat X
+Next-gen mobile futuristic flight combat!
+iOS
+Android
+View Game Details
+Racing
+Final Freeway 2R
+Experience the thrill of classic arcade racing!
+iOS
+Android
+View Game Details
+Racing
+Final Freeway
+An iconic game with classic arcade racing action.
+iOS
+Android
+View Game Details
+Flight Combat
+Fractal Combat
+Intense aerial combat action.
+iOS
+Android
+View Game Details
+Research & Development
+Our mobile games are built on our custom multi-platform engine built primarily C++.
+This has given us a technological edge on mobile platforms, particularly in the early days of
+                mobile gaming, when it was important to optimize for limited hardware resources.
+                Today we also deploy on the web both using Emscripten and plain JavaScript.
+Recently we've been focusing on applying AI to speed up game development as well as to evolve gameplay experiences.
+XPSVR F-35 Simulator
+A lightweight F-35 Lightning II simulator built on our custom game and 3D engine, featuring a custom flight model, weapon systems, and VR support.
+Key Features
+Basic flight dynamics model (FDM) and weapon systems simulation
+Custom game engine with OpenGL 4.5 and VR support
+Physically-based rendering with atmospheric scattering
+Missile guidance systems with launch envelope calculation
+Terrain system covering 500 x 500 km areas
+Custom avionics UI system
+This is an experimental flight simulator that only scratches the surface of the complexity of modern aircraft simulation. Nevertheless, it's a rather complex
+piece of software that touches on all the major points of flight simulation with modern avionics.
+Project Blog
+YouTube Demo
+RogueLLM
+An experimental roguelike game that combines traditional dungeon-crawling mechanics with LLM (Large Language Model) integration for dynamic gameplay experiences.
+RogueLLM allows players to request any kind of setting for the game to be generated. Locations, enemies, and items are all procedurally generated based on the theme requested. The theme can be as simple as a single word (e.g. "fantasy") or a detailed description up to 3,000 characters.
+Key Features
+LLM integration for dynamic narrative and interactions
+Procedurally generated settings based on player requests
+Item and equipment systems
+Combat mechanics
+Inventory management
+The game currently focuses on combat and inventory management mechanics while leveraging AI to create unique and personalized gaming experiences.
+RogueLLM.com
+GitHub Repository
+TinyAIDriver
+A minimal obstacle avoidance self-driving AI written in C++, built on a Neural Network trained with Genetic Algorithms.
+This project demonstrates a minimal neural network training infrastructure for simple simulations where controllers are involved. The AI is built using a neural network that is trained through genetic algorithms to perform obstacle avoidance in a self-driving scenario.
+Key Features
+Neural network-driven self-driving AI with obstacle avoidance capabilities
+Neural Network training and inference in C++ with no external dependencies
+Real-time visualization of the simulation and training progress
+Minimal immediate-mode rendering API based on OpenGL
+GitHub Repository

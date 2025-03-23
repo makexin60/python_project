@@ -1,0 +1,31 @@
+Privacy Policy for T5-Digital ID Mobile Application
+March 23rd, 2023
+The T5-Digital ID is a mobile application built by TECH5 SA for the purpose of showing the capabilities of TECH5’s T5-OmniMatch DIT (Digital ID Toolkit for mobile devices) and the T5-IDencode platform and technologies for contactless biometric capture, digital ID issuance and verification, which make up the T5-Digital ID offering. This application is provided by TECH 5 SA (Owner) at no cost to the User and is intended for use as is.
+The following information describes the processing of Personal Data while using our service.
+TECH5 SA, with registered office in Geneva, Switzerland, is the data Controller (“We” / “our” / “us”). You may contact us for data protection concerns and to exercise your rights under the applicable Data Protection Law as follows:
+TECH5 SA, c/o c/o SYNERGIX S.A., succursal de Genève, Rue de Neuchâtel 8, 1201 Geneva, Switzerland, or via email:
+dpo@tech5-sa.com
+We have appointed following additional positions:
+Data Protection Representative in the EU according to article 27 GDPR: TECH5, UNIPESSOAL, LDA, Av. Dom Joao II, 42, Escritorio 302, Edificio Mythos, 1990-095 Lisboa, Portugal
+Data Protection Representative in the United Kingdom (UK) pursuant to article 27 UK GDPR: TECH5 UK SERVICES LTD, 272, Bath Street, Glasgow, Lanarkshire, G2 4JR, Scotland, UK
+Information Collection and Use
+When you use our Application, it needs access to your camera so that you can take a picture of your face, finger or palm. In order to revoke these permissions, Users may refer to the device settings or contact the Owner for support at the contact details provided in the present document. The exact procedure for controlling permissions will depend on the User’s device and software. The images (face/finger/palm) captured during the enrollment process are strictly used for creating an identity stored in 2D barcodes (T5-Cryptographs) and stay with the user.
+The original images go through an irreversible feature extraction process to create a biometric feature vector (template) used for comparison during the verification process. No one can reconstruct the image from the template alone, not even TECH5 SA.
+The Application further produces a highly compressed face image (1kb size) out of the face image taken by the User.
+The Application then submits the highly compressed face image, the template, the Users’ e-mail address (mandatory – to send the created T5-Cryptograph to the user), his or her name and date of birth (optional) to TECH5 SA’s backend server (“cloud”) for creation of a test T5-Digital ID stored in a T5-Cryptograph. The Cloud server is located in US East (Ohio).
+On the backend server, the template is encoded in a 2D machine-readable code – T5-Cryptograph and is sent back to the user to be used for 1:1 biometric matching during verification. The heavily compressed face image is stored in the same T5-Cryptograph. The data sent to the backend server is never stored in any way, it will only exist in server’s memory during the processing time and for the purpose of generating a T5-Cryptograph.
+Your Consent
+After you have read this privacy policy, we will ask you for your consent to process the above personal data. You may withdraw your consent at any time with effect for the future by providing us written notice (by mail).
+Your Rights
+To help you control the processing of your personal data, you have the following rights in relation to our data processing, depending on the applicable data protection law:
+– The right to request information from us as to whether and what data we process from you;
+– The right to have us correct data if it is inaccurate;
+– The right to request erasure of data;
+– The right to request that we provide certain personal data in a commonly used electronic format or transfer it to another controller;
+– The right to withdraw consent, where our processing is based on your consent;
+– The right to receive, upon request, further information that is helpful for the exercise of these rights;
+– The right to express your point of view in case of automated individual decisions and to request that the decision be reviewed by a human.
+If you wish to exercise the above-mentioned rights in relation to us, please contact us in writing, at our premises or, unless otherwise specified or agreed, by e-mail. In order for us to be able to prevent misuse, we need to identify you (for example by means of a copy of your ID card, unless identification is not possible otherwise).
+Please note that we irreversibly delete your personal data received via the Application immediately after processing.
+If you do not agree with the way we handle your rights or with our data protection practices, please let us know. If you are located in the EEA, the United Kingdom or in Switzerland, you also have the right to lodge a complaint with the competent data protection supervisory authority in your country.
+This policy is effective as of the 23rd of March 2023.

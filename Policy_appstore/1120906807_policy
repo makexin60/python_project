@@ -1,0 +1,656 @@
+Docs
+Compass 55
+Compass 55 privacy policy
+Compass 55 privacy policy
+This policy details the information on how information can be collected or used by the Compass 55 app.
+Information We Collect.
+Compass 55 app is not collecting or processing ANY information outside of the need to show you the instant GPS data and statistics or record coordinates/speed/altitude to a local to your device file storage as part of the track recording activity.
+Information that Compass 55 has access to is NEVER shared with 3rd party agencies or companies. Real time and historical information that Compass 55 may record in form of GPS tracks never leaves your device, unless you share it explicitly by means of sharing your location, sharing or exporting tracks, or by means of enabling a
+GPS beacon
+function.
+The app is not using or integrates any Analytics, Ads or Crash SDKs. Someone may say this is a shame, but your privacy is totally paramount to us.
+If you use Google Maps.
+If you choose to use Google Maps as your map source within the app then the services and software used to display these maps may collect information about you. Please refer to the
+Google Privacy Policy
+for more information.
+If you use Apple Maps.
+If you choose to use Apple Maps as your map source within the app then the services and software used to display these maps may collect information about you. Please refer to the
+Apple Privacy Policy
+for more information.
+[Updated 4-Jun-2020] If you use GPS Beacon function in the app.
+Function of a
+GPS Beacon
+includes sending and storing your location data on the server. Here are some statements on security of data and communications:
+All communication with the servers is happening over https.
+Your location breadcrumbs are sent to your personal GPS beacon (server) only when you explicitly enable Beacon in the app and track recording is active. After beacon creation you can always enable and disable the beacon at any moment.
+If you setup a password for your GPS beacon web link, only one-way hash of your password concatenated with a salt is stored.
+All messages from the app to the server are signed and validated with the unique key exchanged between server and the app when your beacon is first created.
+Request for the beacon creation is signed with the server/app key.
+If you delete your beacon history via the app, it is deleted immediately.
+History cleanup is happening on servers every 15 minutes and thus history data stored may exceed the number of hours setup by you by 15 minutes.
+There is no identification of your IP address, device id or anything else stored (or sent) on the servers, that might relate your location records back to your device or to yourself.
+Servers infrastructure and data storage is provided by the app owner/developer (Stanislav Dvojcenko, EU citizen, Czech Republic) and his company Kalimex-Consulting s.r.o. (EU, Czech Republic) in compliance with EU laws for the data privacy.
+If you send us information.
+We collect information that you choose to send us by emailing us via support emails. This includes your email address, name and other information that you provide. This information never leaves our email box. We use Google mail and Google authentication services.
+Updates.
+This policy might be updated from time to time. But our commitment to stay away from any analytics and 3rd party components that might put your location and tracking data at risk is absolutely paramount. Given this, we will always be happy if you drop us a few lines on how do you use the app!
+Your Consent.
+By using Compass 55 app, you consent to our privacy policy.
+Questions.
+Please contact
+compass@blocoware.com
+with any questions.
+App Store data collection disclosure requirements and GPS Beacon function in the app.
+The app states “No data collected” in its data collection “nutrition label” in App Store based on the following Apple guidelines for optional disclosure on data collection:
+Apple requirement.
+Collection of the data occurs only in infrequent cases that are not part of your app’s primary functionality, and which are optional for the user.
+Developer justification:
+The only function that facilitate sending any of the data (location) to the server is GPS Beacon function. By default this function is turned off and requires explicit enablement from the user to accompany the GPS track recording function and only if both are switched on (GPS track recording and explicitly GPS Beacon), data are sent to GPS Beacon server for the track.
+Apple r****equirements.
+The data is not used for tracking purposes, meaning the data is not linked with Third-Party Data for advertising or advertising measurement purposes, or shared with a data broker. For details, see the Tracking section.
+The data is not used for Third-Party Advertising, your Advertising or Marketing purposes, or for Other Purposes, as those terms are defined in the Tracking section.
+Developer justification:
+None of the data that GPS Beacon records is shared or transmitted to 3rd parties. Recorded by GPS Beacon data only serve the purpose that GPS Beacon function provides to you. You can delete that data at any moment, password protect access to it or record the data without enabling the web based access to that data (url/web link).
+Apple r****equirements.
+The data is provided by the user in your app’s interface, it is clear to the user what data is collected, the user’s name or account name is prominently displayed in the submission form alongside the other data elements being submitted, and the user affirmatively chooses to provide the data for collection each time.
+Developer justification:
+Not only GPS Beacon is an entirely optional function, the user is also provided a clear indication if they start GPS track with GPS Beacon enabled or not (GPS Beacon is disabled by default). In the NEW TRACK button:
+GPS tracking indicator that is present on every screen in the app also has a sub-indicator within it so you can clearly see if GPS Beacon is enabled for this track:
+We believe that this fully justifies Apple requirements for optional disclosure on a data collection clause in the App Store.
+Updates log.
+[7-May-2021] Added section on “App Store data collection disclosure requirements”
+[4-Jun-2020] Updated to include section on a GPS Beacon function and update relevant information in the “Information We Collect” section.
+Sub-section Policy: 
+Sub-policy 0
+https://www.google.com/policies/privacy//:
+Privacy & Terms
+Overview
+Privacy Policy
+Terms of Service
+Technologies
+FAQ
+Google Account
+Privacy Policy
+Introduction
+Information Google collects
+Why Google collects data
+Your privacy controls
+Sharing your information
+Keeping your information secure
+Exporting & deleting your information
+Retaining your information
+Compliance & cooperation with regulators
+European requirements
+About this policy
+Related privacy practices
+Data transfer frameworks
+Key terms
+Partners
+Updates
+Google Privacy Policy
+When you use our services, you’re trusting us with your information. We understand this is a big responsibility and work hard to protect your information and put you in control.
+This Privacy Policy is meant to help you understand what information we collect, why we collect it, and how you can update, manage, export, and delete your information.
+If European Union or United Kingdom data protection law applies to the processing of your information, you can review the
+European requirements section
+below to learn more about your rights and Google’s compliance with these laws.
+Privacy Checkup
+Looking to change your privacy settings?
+Take the Privacy Checkup
+Effective September 16, 2024
+|
+Archived versions
+|
+Download PDF
+Contents
+Introduction
+Information Google collects
+Why Google collects data
+Your privacy controls
+Sharing your information
+Keeping your information secure
+Exporting & deleting your information
+Retaining your information
+Compliance & cooperation with regulators
+European requirements
+About this policy
+Related privacy practices
+We build a range of services that help millions of people daily to explore and interact with the world in new ways. Our services include:
+Google apps, sites, and devices, like Search, YouTube, and Google Home
+Platforms like the Chrome browser and Android operating system
+Products that are integrated into third-party apps and sites, like ads, analytics, and embedded Google Maps
+You can use our services in a variety of ways to manage your privacy. For example, you can sign up for a Google Account if you want to create and manage content like emails and photos, or see more relevant search results. And you can use many Google services when you’re signed out or without creating an account at all, like searching on Google or watching YouTube videos. You can also choose to browse the web in a private mode, like
+Chrome Incognito
+mode, which helps keep your browsing private from other people who use your device. And across our services, you can adjust your privacy settings to control whether we collect some types of data and how we use it.
+To help explain things as clearly as possible, we’ve added examples, explanatory videos, and definitions for
+key terms
+. And if you have any questions about this Privacy Policy, you can
+contact us
+.
+Information Google collects
+We want you to understand the types of information we collect as you use our services
+We collect information to provide better services to all our users — from figuring out basic stuff like which language you speak, to more complex things like which
+ads you’ll find most useful
+,
+the people who matter most to you online
+, or which YouTube videos you might like. The information Google collects, and how that information is used, depends on how you use our services and how you manage your privacy controls.
+When you’re not signed in to a Google Account, we store the information we collect with
+unique identifiers
+tied to the browser, application, or
+device
+you’re using. This allows us to do things like maintain your preferences across browsing sessions, such as your preferred language or whether to show you more relevant search results or ads based on your activity.
+When you’re signed in, we also collect information that we store with your Google Account, which we treat as
+personal information
+.
+Things you create or provide to us
+When you create a Google Account, you provide us with
+personal information
+that includes your name and a password. You can also choose to add a
+phone number
+or
+payment information
+to your account. Even if you aren’t signed in to a Google Account, you might choose to provide us with information — like an email address to communicate with Google or receive updates about our services.
+We also collect the content you create, upload, or receive from others when using our services.  This includes things like email you write and receive, photos and videos you save, docs and spreadsheets you create, and comments you make on YouTube videos.
+Information we collect as you use our services
+Your apps, browsers & devices
+We collect information about the apps, browsers, and
+devices
+you use to access Google services, which helps us provide features like automatic product updates and dimming your screen if your battery runs low.
+The information we collect includes
+unique identifiers
+, browser type and settings, device type and settings, operating system, mobile network information including carrier name and phone number, and application version number. We also collect information about the interaction of your apps, browsers, and devices with our services, including
+IP address
+, crash reports, system activity, and the date, time, and
+referrer URL
+of your request.
+We collect this information when a Google service on your device contacts our servers — for example, when you install an app from the Play Store or when a service checks for automatic updates. If you’re using an
+Android device with Google apps
+, your device periodically contacts Google servers to provide information about your device and connection to our services. This information includes things like your
+device type and carrier name
+, crash reports, which apps you've installed, and, depending on your device settings,
+other information about how you’re using your Android device
+.
+Your activity
+We collect information about your activity in our services, which we use to do things like recommend a YouTube video you might like. The activity information we collect may include:
+Terms you search for
+Videos you watch
+Views and interactions with content and ads
+Voice and audio information
+Purchase activity
+People with whom you communicate or share content
+Activity on third-party sites and apps that use our services
+Chrome browsing history you’ve
+synced with your Google Account
+If you use our
+services to make and receive calls or send and receive messages
+, we may collect call and message log information like your phone number, calling-party number, receiving-party number, forwarding numbers, sender and recipient email address, time and date of calls and messages, duration of calls, routing information, and types and volumes of calls and messages.
+You can visit your Google Account to find and manage activity information that’s saved in your account.
+Go to Google Account
+Your location information
+We collect location information when you use our services, which helps us offer features like driving directions, search results for things near you, and ads based on your location.
+Depending on the products you’re using and settings you choose, Google may use different types of location information to help make some services and products you use more helpful. These include:
+GPS and other
+sensor data from your device
+IP address
+Activity on Google services
+, such as from your searches or
+places you label like home or work
+Information about things near your device
+, such as Wi-Fi access points, cell towers, and Bluetooth-enabled devices
+The types of location data we collect and how long we store it depend in part on your device and account settings. For example, you can
+turn your Android device’s location on or off
+using the device’s settings app. You can also turn on
+Location History
+if you want to create a private map of where you go with your signed-in devices. And if your Web & App Activity setting is enabled, your searches and other activity from Google services, which may also include location information, is saved to your Google Account. Learn more about
+how we use location information
+.
+In some circumstances, Google also collects information about you from
+publicly accessible sources
+. For example, if your name appears in your local newspaper, Google’s Search engine may index that article and display it to other people if they search for your name. We may also collect information about you from trusted partners, such as directory services who provide us with business information to be displayed on Google’s services, marketing partners who provide us with information about potential customers of our business services, and security partners who provide us with information to
+protect against abuse
+. We also receive information from partners to provide
+advertising and research services on their behalf
+.
+We use various technologies to collect and store information, including
+cookies
+,
+pixel tags
+, local storage, such as
+browser web storage
+or
+application data caches
+, databases, and
+server logs
+.
+Why Google collects data
+We use data to build better services
+We use the information we collect from all our services for the following purposes:
+Provide our services
+We use your information to
+deliver our services
+, like processing the terms you search for in order to return results or helping you share content by suggesting recipients from your contacts.
+Maintain & improve our services
+We also use your information to
+ensure our services are working as intended
+, such as tracking outages or troubleshooting issues that you report to us. And we use your information to
+make improvements
+to our services — for example, understanding which search terms are most frequently misspelled helps us improve spell-check features used across our services.
+Develop new services
+We use the information we collect in existing services to help us develop new ones. For example, understanding how people organized their photos in Picasa, Google’s first photos app, helped us design and launch Google Photos.
+Provide personalized services, including content and ads
+We use the information we collect to customize our services for you, including providing recommendations, personalized content, and
+customized search results
+. For example,
+Security Checkup
+provides security tips adapted to how you use Google products. And, depending on your available settings, Google Play could use information like apps you’ve already installed and videos you’ve watched on YouTube to suggest new apps you might like.
+Depending on your settings, we may also show you
+personalized ads
+based on your interests and activity across Google services. For example, if you search for “mountain bikes,” you may see ads for sports equipment on YouTube. You can control what information we use to show you ads by visiting your ad settings in
+My Ad Center
+.
+We don’t show you personalized ads based on
+sensitive categories
+, such as race, religion, sexual orientation, or health.
+We don’t show you personalized ads based on your content from Drive, Gmail, or Photos.
+We don’t share information that personally identifies you with advertisers, such as your name or email, unless you ask us to. For example, if you see an ad for a nearby flower shop and select the “tap to call” button, we’ll connect your call and may share your phone number with the flower shop.
+Go to My Ad Center
+Measure performance
+We use data for analytics and measurement to understand how our services are used. For example, we analyze data about your visits to our sites to do things like optimize product design. And we also use data about the ads you interact with, including your related Google Search activity, to help advertisers understand the performance of their ad campaigns. We use a variety of tools to do this, including Google Analytics. When you visit sites or use apps that use Google Analytics, a Google Analytics customer may choose to enable Google to
+link information
+about your activity from that site or app with activity from other sites or apps that use our ad services.
+Communicate with you
+We use information we collect, like your email address, to interact with you directly. For example, we may send you a notification if we detect suspicious activity, like an attempt to sign in to your Google Account from an unusual location. Or we may let you know about upcoming changes or improvements to our services. And if you contact Google, we’ll keep a record of your request in order to help solve any issues you might be facing.
+Protect Google, our users, and the public
+We use information to help improve the
+safety and reliability
+of our services. This includes detecting, preventing, and responding to fraud, abuse, security risks, and technical issues that could harm Google, our users, or
+the public
+.
+We use different technologies to process your information for these purposes. We use automated systems that analyze your content to provide you with things like customized search results, personalized ads, or other features tailored to how you use our services. And we analyze your content to help us
+detect abuse
+such as spam, malware, and illegal content. We also use
+algorithms
+to recognize patterns in data. For example, Google Translate helps people communicate across languages by detecting common language patterns in phrases you ask it to translate.
+We may
+use the information we collect
+across our services and across your devices for the purposes described above. For example, depending on your available settings, if you watch videos of guitar players on YouTube, you might see an ad for guitar lessons on a site that uses our ad products. Depending on your account settings,
+your activity on other sites and apps
+may be associated with your personal information in order to improve Google’s services and the ads delivered by Google.
+If other users already have your email address or other information that identifies you, we may show them your publicly visible Google Account information, such as your name and photo. This helps people identify an email coming from you, for example.
+We’ll ask for your consent before using your information for a purpose that isn’t covered in this Privacy Policy.
+Your privacy controls
+You have choices regarding the information we collect and how it's used
+This section describes key controls for managing your privacy across our services. You can also visit the
+Privacy Checkup
+, which provides an opportunity to review and adjust important privacy settings. In addition to these tools, we also offer specific privacy settings in our products — you can learn more in our
+Product Privacy Guide
+.
+Go to Privacy Checkup
+Managing, reviewing, and updating your information
+When you’re signed in, you can always review and update information by visiting the services you use. For example, Photos and Drive are both designed to help you manage specific types of content you’ve saved with Google.
+We also built a place for you to review and control information saved in your Google Account. Your
+Google Account
+includes:
+Privacy controls
+Activity Controls
+Decide what types of activity you’d like saved in your account. For example, if you have YouTube History turned on, the videos you watch and the things you search for are saved in your account so you can get better recommendations and remember where you left off. And if you have Web & App Activity turned on, your searches and activity from other Google services are saved in your account so you can get more personalized experiences like faster searches and more helpful app and content recommendations. Web & App Activity also has a subsetting that lets you control whether
+information about your activity on other sites, apps, and devices that use Google services
+, such as apps you install and use on Android, is saved in your Google Account and used to improve Google services.
+Go to Activity Controls
+Ad settings
+Manage your preferences about the ads shown to you on Google and on sites and apps that
+partner with Google
+to show ads. You can modify your interests, choose whether your personal information is used to make ads more relevant to you, and turn on or off certain advertising services.
+Go to My Ad Center
+About you
+Manage personal info in your Google Account and control who can see it across Google services.
+Go to About You
+Shared endorsements
+Choose whether your name and photo appear next to your activity, like reviews and recommendations, that appear in ads.
+Go to Shared Endorsements
+Sites and apps that use Google services
+Manage information that websites and apps using Google services, like Google Analytics, may share with Google when you visit or interact with their services.
+Go to How Google uses information from sites or apps that use our services
+Ways to review & update your information
+My Activity
+My Activity allows you to review and control data that’s saved to your Google Account when you’re signed in and using Google services, like searches you’ve done or your visits to Google Play. You can browse by date and by topic, and delete part or all of your activity.
+Go to My Activity
+Google Dashboard
+Google Dashboard allows you to manage information associated with specific products.
+Go to Dashboard
+Your personal information
+Manage your contact information, such as your name, email, and phone number.
+Go to Personal Info
+When you’re signed out, you can manage information associated with your browser or device, including:
+Signed-out search personalization:
+Choose
+whether your search activity is used to offer you more relevant results and recommendations.
+YouTube settings: Pause and delete your
+YouTube Search History
+and your
+YouTube Watch History
+.
+Ad Settings:
+Manage
+your preferences about the ads shown to you on Google and on sites and apps that partner with Google to show ads.
+Exporting, removing & deleting your information
+You can export a copy of content in your Google Account if you want to back it up or use it with a service outside of Google.
+Export your data
+To delete your information, you can:
+Delete your content from
+specific Google services
+Search for and then delete specific items from your account using
+My Activity
+Delete specific Google products
+, including your information associated with those products
+Delete your entire Google Account
+Delete your information
+Inactive Account Manager
+allows you to give someone else access to parts of your Google Account in case you’re unexpectedly unable to use your account.
+And finally, you can also
+request to remove content
+from specific Google services based on applicable law and our policies.
+There are other ways to control the information Google collects whether or not you’re signed in to a Google Account, including:
+Browser settings: For example, you can configure your browser to indicate when Google has set a
+cookie
+in your browser. You can also configure your browser to block all cookies from a specific domain or all domains. But remember that our services
+rely on cookies to function properly
+, for things like remembering your language preferences.
+Device-level settings: Your device may have controls that determine what information we collect. For example, you can
+modify location settings
+on your Android device.
+Sharing your information
+When you share your information
+Many of our services let you share information with other people, and you have control over how you share. For example, you can share videos on YouTube publicly or you can decide to keep your videos private. Remember, when you share information publicly, your content may become accessible through search engines, including Google Search.
+When you’re signed in and interact with some Google services, like leaving comments on a YouTube video or reviewing an app in Play, your name and photo appear next to your activity. We may also display this information in
+ads depending on your Shared endorsements setting
+.
+When Google shares your information
+We do not share your personal information with companies, organizations, or individuals outside of Google except in the following cases:
+With your consent
+We’ll share personal information outside of Google when we have your consent. For example, if you
+use Google Home to make a reservation
+through a booking service, we’ll get your permission before sharing your name or phone number with the restaurant. We also provide you with controls to
+review and manage third party apps and sites
+you have given access to data in your Google Account. We’ll ask for your explicit consent to share any
+sensitive personal information
+.
+With domain administrators
+If you’re a student or work for an organization that uses Google services, your
+domain administrator
+and resellers who manage your account will have access to your Google Account. They may be able to:
+Access and retain information stored in your account, like your email
+View statistics regarding your account, like how many apps you install
+Change your account password
+Suspend or terminate your account access
+Receive your account information in order to satisfy applicable law, regulation, legal process, or enforceable governmental request
+Restrict your ability to delete or edit your information or your privacy settings
+For external processing
+We provide personal information to our
+affiliates
+and other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures. For example, we use service providers to help operate our data centers, deliver our products and services, improve our internal business processes, and offer additional support to customers and users. We also use service providers to help review YouTube video content for public safety and analyze and listen to samples of saved user audio to help improve Google’s audio recognition technologies.
+For legal reasons
+We will share personal information outside of Google if we have a good-faith belief that disclosure of the information is reasonably necessary to:
+Respond to any applicable law, regulation,
+legal process, or enforceable governmental request
+. We share information about the number and type of requests we receive from governments in our
+Transparency Report
+.
+Enforce applicable Terms of Service, including investigation of potential violations.
+Detect, prevent, or otherwise address fraud, security, or technical issues.
+Protect against harm to the rights, property or safety of Google, our
+users
+, or the public.
+We may share
+non-personally identifiable information
+publicly and with our partners — like publishers, advertisers, developers, or rights holders. For example, we share information publicly to
+show trends
+about the general use of our services. We also allow
+specific partners
+to collect information from your browser or device for advertising and measurement purposes using their own cookies or similar technologies.
+If Google is involved in a merger, acquisition, or sale of assets, we’ll continue to ensure the confidentiality of your personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy.
+Keeping your information secure
+We build security into our services to protect your information
+All Google products are built with strong security features that continuously protect your information. The insights we gain from maintaining our services help us detect and automatically block security threats from ever reaching you. And if we do detect something risky that we think you should know about, we’ll notify you and help guide you through steps to stay better protected.
+We work hard to protect you and Google from unauthorized access, alteration, disclosure, or destruction of information we hold, including:
+We use encryption to keep your data private while in transit
+We offer a range of security features, like
+Safe Browsing
+, Security Checkup, and
+2 Step Verification
+to help you protect your account
+We review our information collection, storage, and processing practices, including physical security measures, to prevent unauthorized access to our systems
+We restrict access to personal information to Google employees, contractors, and agents who need that information in order to process it. Anyone with this access is subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.
+Exporting & deleting your information
+You can export a copy of your information or delete it from your Google Account at any time
+You can export a copy of content in your Google Account if you want to back it up or use it with a service outside of Google.
+Export your data
+To delete your information, you can:
+Delete your content from
+specific Google services
+Search for and then delete specific items from your account using
+My Activity
+Sub-policy 1
+https://www.apple.com/legal/privacy//:
+Choose another country or region to see content specific to your location and shop online.
+Ireland
+Ireland
+Other country or region
+Continue
+Apple
+Store
+Shop the Latest
+Mac
+iPad
+iPhone
+Apple Watch
+Apple Vision Pro
+Accessories
+Find a Store
+Order Status
+Apple Trade In
+Financing
+Personal Setup
+Certified Refurbished
+Education
+Business
+Veterans and Military
+Government
+Mac
+Explore All Mac
+MacBook Air
+MacBook Pro
+iMac
+Mac mini
+Mac Studio
+Mac Pro
+Displays
+Compare Mac
+Switch from PC to Mac
+Shop Mac
+Help Me Choose
+Mac Accessories
+Apple Trade In
+Financing
+Mac Support
+AppleCare+ for Mac
+macOS Sequoia
+Apple Intelligence
+Apps by Apple
+Continuity
+iCloud+
+Mac for Business
+Education
+iPad
+Explore All iPad
+iPad Pro
+iPad Air
+iPad
+iPad mini
+Apple Pencil
+Keyboards
+Compare iPad
+Why iPad
+Shop iPad
+iPad Accessories
+Apple Trade In
+Financing
+iPad Support
+AppleCare+ for iPad
+iPadOS 18
+Apple Intelligence
+Apps by Apple
+iCloud+
+Education
+iPhone
+Explore All iPhone
+iPhone 16 Pro
+iPhone 16
+iPhone 16e
+iPhone 15
+Compare iPhone
+Switch from Android
+Shop iPhone
+iPhone Accessories
+Apple Trade In
+Carrier Deals at Apple
+Financing
+iPhone Support
+AppleCare+ for iPhone
+iOS 18
+Apple Intelligence
+Apps by Apple
+iPhone Privacy
+iCloud+
+Wallet, Pay, Card
+Siri
+Watch
+Explore All Apple Watch
+Apple Watch Series 10
+Apple Watch Ultra 2
+Apple Watch SE
+Apple Watch Nike
+Apple Watch Hermès
+Compare Watch
+Why Apple Watch
+Shop Apple Watch
+Apple Watch Studio
+Apple Watch Bands
+Apple Watch Accessories
+Apple Trade In
+Financing
+Apple Watch Support
+AppleCare+
+watchOS 11
+Apple Watch For Your Kids
+Apps by Apple
+Apple Fitness+
+Vision
+Explore Apple Vision Pro
+Guided Tour
+Tech Specs
+Shop Apple Vision Pro
+Apple Vision Pro Accessories
+Book a Demo
+Financing
+Apple Vision Pro Support
+AppleCare+
+visionOS 2
+AirPods
+Explore All AirPods
+AirPods 4
+AirPods Pro 2
+AirPods Max
+Compare AirPods
+Shop AirPods
+AirPods Accessories
+AirPods Support
+AppleCare+ for Headphones
+Hearing Health
+Apple Music
+TV & Home
+Explore TV & Home
+Apple TV 4K
+HomePod
+HomePod mini
+Shop Apple TV 4K
+Shop HomePod
+Shop HomePod mini
+Shop Siri Remote
+TV & Home Accessories
+Apple TV Support
+HomePod Support
+AppleCare+
+Apple TV app
+Apple TV+
+Home app
+Apple Music
+Siri
+AirPlay
+Entertainment
+Explore Entertainment
+Apple One
+Apple TV+
+Apple Music
+Apple Arcade
+Apple Fitness+
+Apple News+
+Apple Podcasts
+Apple Books
+App Store
+Apple TV+ Support
+Apple Music Support
+Accessories
+Shop All Accessories
+Mac
+iPad
+iPhone
+Apple Watch
+Apple Vision Pro
+AirPods
+TV & Home
+Made by Apple
+Beats by Dr. Dre
+AirTag
+Support
+iPhone
+Mac
+iPad
+Watch
+Apple Vision Pro
+AirPods
+Music
+TV
+Explore Support
+Community
+Check Coverage
+Repair
+Get AppleCare+
+Apple Account and Password
+Billing & Subscriptions
+Accessibility
+Find a Store
+Apple Vision Pro
+AirPods
+Apple Intelligence
+Apple Trade In
+0
++
+Legal
+Open Menu
+Close Menu
+Hardware
+Software
+Sales & Support
+Internet Services
+Intellectual Property
+More Resources
+JavaScript is required to view this content.
+Something went wrong.
+The content for this page did not load correctly. Reload the page to try again.
+Reload Page
+Choose a Topic
+Privacy Policy
+Apple ID and Family Sharing Disclosure
+Privacy Governance
+Government Information Requests
+Manage Your Account

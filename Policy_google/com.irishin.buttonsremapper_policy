@@ -1,0 +1,9 @@
+Buttons Remapper application uses Android Accessibility services. It is designed to help drivers, users with disabilities and anyone who can find it useful, to access apps faster and replace different actions with just one click on the button. The app uses only the following features of Android Accessibility service:
+– Filter hardware key events to get access to the key event of the device and to remap it to any other action;
+– Track “window changed” event to get the package name of the running app when the action Last app is assigned to any button, to help user get back to the previous app.
+The hardware key events actions are not saved on the persistent storage and are not being send outside of the device. The same goes for a last opened package of the app. Events are saving in RAM to process combinations and the Last app action only. The app will not use, store or send any your private data. It is possible to disable Accessibility Service anytime.
+Поделиться ссылкой:
+Twitter
+Facebook
+Like
+Loading...

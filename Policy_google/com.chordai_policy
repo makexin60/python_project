@@ -1,0 +1,18 @@
+Privacy
+Policy
+Android
+Chord AI Android Privacy Policy
+This Privacy Policy (“Policy”) pertains to the Chord AI mobile application for Android devices (“App”), officially available for download on the Google Play Store (https://play.google.com/store/apps/details?id=com.chordai). Throughout this document, “We” or “Our” refers to the parent entity responsible for the development and maintenance of the Chord AI App. “User” or “You” refers to any individual who downloads, installs, and utilizes the App on a compatible mobile phone, tablet, or laptop (“Device”). It is important to note that we officially endorse only those copies of the Chord AI App that are downloaded from the Google Play Store. Any copies obtained from other sources are not supported.
+This Policy outlines our practices regarding the collection, use, and protection of User data in relation to the Chord AI App. We are committed to protecting User privacy and do not actively collect personal information. User data generated or utilized in the App, including but not limited to activity data, remains solely on the User’s Device, Google Drive, or within the purview of the Google Play Store. Users retain full control over their data and can delete it at their discretion from their Device, Google Drive, or Google Play Store account. The present document intend to inform the user on all the relevant topics related to data and privacy, for further information contact us at: android.support@chordai.net.
+App Permissions
+1.1 Access to Microphone
+The App requires access to your Device’s microphone to perform its core functions, such as real-time chord, note, lyrics recognition or other machine learning algorithm like source separation. All audio recordings are stored exclusively on the User’s Device or backed up on the User’s Google Drive (refer to Section 3 for details).
+Should you choose not to grant microphone access, the App’s functionality will be limited to processing non-DRM-protected audio files already stored on your Device.
+1.2 Media Library Access
+Access to your Device’s media library is necessary for selecting and playing songs from within the App, as well as managing playback controls.
+If media library access is not granted, the App can still perform real-time chord recognition and other machine learning algorithms (as in section 1.1) using songs selected via other applications or websites.
+Payment Transactions
+All payment transactions related to the App are processed exclusively through the Google Play Store. We do not access or retain any personal user data (e.g., name, age, email address). The App accesses payment and subscription status directly through the Google Play Store’s interfaces.
+Google Drive Integration
+Upon enabling the Google Drive sync feature, all User playlists and saved songs are automatically linked and backed up on the User’s Google Drive via the Google Cloud API. This feature ensures that playlists are synchronized across all devices logged into the same Google account, as authenticated through Google’s official OAuth Screen. In case a song or a playlist is present on a Device and the users’ Google drive, the version with the most recent changes will be kept on both sides.
+We do not store, manage, or collect any personal data (e.g., email, credentials) during this process, as authentication is managed directly via the official Google Cloud API. By authenticating with their Google account, Users authorize the App to read and write files in a designated app-specific folder on their Google Drive (https://developers.google.com/drive/api/guides/appdata). This folder is where saved songs and playlists are stored.

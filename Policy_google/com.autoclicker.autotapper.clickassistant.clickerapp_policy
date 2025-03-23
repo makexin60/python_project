@@ -1,0 +1,84 @@
+Search this site
+Embedded Files
+Skip to main content
+Skip to navigation
+Privacy Policy
+This privacy policy applies to the "Auto Clicker" app (referred to as the "App") on mobile devices. It explains what information we collect, how we use it, and your choices regarding your data.
+Data Collection
+Our app does not collect personal data. However, third-party services such as
+AdMob, Google Analytics, and Firebase
+may collect certain non-personal information for analytics, advertising, and crash reporting purposes.
+These
+third-party services
+may collect certain data to function effectively. Below is a breakdown of the data collected, its purpose, and how it is used.
+1. Google Analytics for Firebase
+Data Collected:
+Device information (model, OS version, device identifiers)
+App usage data (session duration, feature interactions, events triggered)
+Crash reports (in case of app failures)
+Purpose of Collection:
+Monitor app performance and user engagement
+Identify and fix technical issues
+Analyze user behavior to improve features
+Track app installs and measure marketing campaign effectiveness
+Data Usage:
+The collected data is aggregated for analytical purposes and does not personally identify users.
+2. AdMob (Google Ad Services)
+Data Collected:
+Device identifiers (e.g., Advertising ID)
+App usage data (e.g., interactions with ads)
+Purpose of Collection:
+Display relevant advertisements based on user interests
+Measure ad performance and effectiveness
+Prevent fraudulent activities and ensure compliance with Google’s ad policies
+Data Usage:
+Personalized ads are based on user behavior and preferences.
+3. Firebase Crashlytics
+Data Collected:
+Crash logs and diagnostic data
+Device model and OS version
+App version and session data
+Purpose of Collection:
+Identify and diagnose app crashes
+Improve app stability and fix bugs
+Ensure a smoother user experience
+Data Usage:
+The data collected is used strictly for debugging and crash analysis.
+For more details, please review the privacy policies of these third-party services:
+Google Play Services
+AdMob
+Google Analytics for Firebase
+Firebase Crashlytics
+Permissions We Use
+Accessibility Service (Necessary)
+When you are using our auto clicker app, we will request this permission to help implement our app's core features, such as simulating auto clicks. We do not collect your private data through this permission.
+Ignore Battery Optimization (Optional)
+Turning on this permission ensures that the app will not be automatically closed by the system when the device battery is low. This allows the app to run safely in the background and provide a consistently stable service for users. This permission is optional, and without it, the quality of your experience may be affected.
+QUERY_ALL_PACKAGES
+Lists All Installed Apps
+:This permission allows the app to access a complete list of installed apps, which is needed to show all available apps for selection in the auto-start feature.
+Auto-Start Mode Activation :
+When a user selects an app, this feature ensures that the selected mode (auto-click, gestures, etc.) starts automatically whenever the
+app is opened.
+Required for Android 11+ Restrictions
+: Since Android 11 and above restrict access to installed app lists, QUERY_ALL_PACKAGES is necessary to make the auto-start
+feature work properly.
+FOREGROUND_SERVICE_SPECIAL USE
+Requires special permission for foreground services that interact with user inputs (like accessibility services, auto-clickers, and floating views).
+Floating Click Service runs a persistent floating overlay (UI) and performs auto-click actions, it needs this permission to function without restrictions
+.
+Security
+We value your trust in providing us with the permissions necessary to protect your device. We are committed to ensuring that the App operates securely and that your privacy is maintained. However, please note that no method of transmission over the Internet or method of electronic storage is 100% secure and reliable, and we cannot guarantee absolute security.
+User Consent
+By granting the requested permissions, you enable the app to function as intended. If you choose not to allow certain permissions, some features may not work, and we may be unable to perform specific tasks.
+Changes to This Privacy Policy
+This Privacy Policy may be updated from time to time to reflect changes in our practices or for other operational, legal, or regulatory reasons. We will notify you of any changes by updating this page with the new Privacy Policy. You are advised to review this Privacy Policy periodically for any changes. Your continued use of the App following the posting of changes to this Privacy Policy will be considered your acceptance of those changes.
+Contact Us
+If you have any questions or concerns about this Privacy Policy, please contact us at
+globaleagleapps@gmail.com
+Page updated
+Google Sites
+Report abuse
+This site uses cookies from Google to deliver its services and to analyze traffic. Information about your use of this site is shared with Google. By using this site, you agree to its use of cookies.
+Learn more
+Got it

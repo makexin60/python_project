@@ -1,0 +1,15 @@
+Notice
+:  Undefined index: filter in
+/mnt/home/calisthenicsmastery/apps-privacy-policy.php
+on line
+8
+Calisthenics Mastery, The Home of Calisthenics Exercises
+Fatal error
+:  Uncaught ArgumentCountError: Too few arguments to function echoDefaultKeywords(), 0 passed in /mnt/home/calisthenicsmastery/apps-privacy-policy.php on line 34 and exactly 1 expected in /mnt/home/calisthenicsmastery/common.php:12
+Stack trace:
+#0 /mnt/home/calisthenicsmastery/apps-privacy-policy.php(34): echoDefaultKeywords()
+#1 {main}
+  thrown in
+/mnt/home/calisthenicsmastery/common.php
+on line
+12

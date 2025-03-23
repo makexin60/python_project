@@ -1,0 +1,642 @@
+Your privacy is very important to us, and we take it seriously. Please read our Privacy Policy and Data consent policy below and let us know if you have any questions or other feedback regarding them, at
+support@urbandroid.org
+.
+Table of Contents
+Toggle
+Privacy and data consent policy
+Where do we access user data?
+In all apps
+In Sleep as Android
+Do we disclose any information to outside parties?
+Owner and data controller
+EU representative
+Contacting us
+Changes to our privacy policy
+Privacy and data consent policy
+Last updated: 2023/09/25
+We do not collect any privacy information from our users unless they explicitly agree to share such information with us.
+Where do we access user data?
+In all apps
+Bug reports
+What is collected:
+The bug report contains the user’s email address, his locale, version and name of the used software, device firmware version and a portion of the device log.
+Sending of a debug report requires user action (needs to be explicitly send from the user’s mail application) and user may review all the information before sending and decide whether they want to share it with us or not.
+We do not ask for explicit consent as we consider collecting bug report data via email to be a legitimate interest under GDPR.
+How it is used by us:
+We use information enclosed in the bug report to provide direct customer support and to help improve the quality of our services and applications and analyse
+Third parties involved:
+We use
+Google GMail
+(email service) and
+Help Scout
+(email helpdesk service) to handle and store email and bug reports. Place of processing is USA.
+How to modify or delete the information:
+Request modification or deletion
+on our email
+.
+How to opt-out from future communications:
+Sending of a debug report requires user action (needs to be explicitly send from the user’s mail application), so there is no need to opt out. We aren’t initiating any communication by ourselves.
+Data retention:
+The bug reports and conversations related to an app are kept for the lifetime of the app (i.e. as long as the app is publicly offered).
+Ads (personalized)
+What is collected & how it is used by us:
+We are using only your Device Advertising ID to serve ads via Facebook Audience Network. We don’t store any data related to ads on our premises.
+Third parties involved:
+Facebook Audience Network – an advertising service provided by Facebook, Inc. Please read
+this overview
+of how they use information from sites or apps that use their services.
+How to modify or delete the information:
+https://www.facebook.com/full_data_use_policy
+How to opt-out from future personal data collection/personalization:
+Opt out in Sleep as Android, to turn off ads personalization only for the app. You can do that in
+Settings > Privacy > Don’t personalize ads
+.
+Data backup
+Via Android’s data backup framework
+Urbandroid offers data backup through Android’s
+data backup framework
+, and, in case of the Sleep as Android app, also through SleepCloud (see
+here
+).
+Android’s data backup framework uses whichever
+backup transport
+is available on the device.
+Urbandroid does not have access to the backed up data.
+More information about the data backup transport is available at
+https://developer.android.com/guide/topics/data/keyvaluebackup
+.
+What is collected:
+All user-generated app data (including user settings) except files are subject to backup.
+How it is used by us:
+We provide the user with means to back up and restore app data from the data backup framework. The backup itself is not under our control and none of the data is accessible to us.
+How to modify or delete the information:
+To delete the data, backup can be disabled in system settings.
+How to opt-out from future personal data collection:
+To stop backing up the data, backup can be disabled in system settings.
+In Sleep as Android
+Usage analytics
+What is collected:
+All analytics data collected are completely anonymous, i.e. cannot be traced back to the data subject. We are collecting device and app usage data – which screens and options are used, and log occurence of certain in-app events.
+How it is used by us:
+We are using analytics data to understand how users engage with our apps and to help improve the quality of our services and applications.
+Third parties involved:
+Google Analytics for Firebase
+How to modify or delete the information:
+As the data is completely anonymous and cannot be traced back to the data subject, we don’t provide a way to modify or delete the stored information.
+How to opt-out from future personal data collection:
+The analytics data collected is anonymous. However, you can still opt out from analytics in the Sleep as Android app by enabling
+Settings > Privacy > Don’t collect anonymous usage stats
+.
+Data retention:
+The usage analytics data related to an app are kept for the lifetime of the app (i.e. as long as the app is publicly offered).
+Data backup
+Via Google Drive
+In case of Sleep as Android app, data can be backed up to Google Drive.
+What is collected:
+All user-generated app data (ie. sleep records and user settings) except recorded sound files are subject to backup.
+How it is used by us:
+We provide the user with means to back up and restore app data from Google Drive. On backup, a zip file is uploaded to a folder on Google Drive. The app has only access to this folder and no other content on the user’s Google Drive storage.
+How to modify or delete the information:
+To delete the data, backup can be disabled in system settings and/or the file can be deleted from the user’s Google Drive.
+How to opt-out from future personal data collection:
+To stop backing up the data, backup can be disabled in system settings.
+Via Dropbox
+In case of Sleep as Android app, data can be backed up to Dropbox.
+What is collected:
+All user-generated app data (ie. sleep records and user settings) except recorded sound files are subject to backup.
+How it is used by us:
+We provide the user with means to back up and restore app data from Dropbox. On backup, a zip file is uploaded to a folder on Dropbox. The app has only access to this folder and no other content on the user’s Dropbox storage.
+How to modify or delete the information:
+To delete the data, backup can be disabled in system settings and/or the file can be deleted from the user’s Dropbox.
+How to opt-out from future personal data collection:
+To stop backing up the data, backup can be disabled in system settings.
+SleepCloud
+SleepCloud is a cloud backup platform developed, owned and maintained by Urbandroid (Petr Nálevka), for backing up sleep data and settings from Sleep as Android app.
+What is collected:
+All stored data are completely anonymous, i.e. cannot be traced back to the data subject. The user is able to access his own data through one-way hashing function when authenticated with Google OAuth.
+SleepCloud collects the following data about the user: Country, language, preferences set in the Sleep as Android app, device model number.
+SleepCloud collects the following data in each sleep record: Start/end date and time, country, number of sleep cycles, deep sleep percentage, comment, geographic cell (city-level location), noise level, subjective rating, snoring percentage, timestamped events (such as alarms, awake times), timezone.
+How it is used by us:
+We use the data for purposes of sleep research and to help improve the quality of our services and apps.
+Third parties involved:
+Google Inc. provides the Google Cloud Platform (Datastore) on which SleepCloud data are stored.
+How to modify or delete the information:
+After logging in at sleepcloud.urbandroid.org, you can delete all your data using the privacy tab. This will decouple the user from the data.
+How to opt-out from future personal data collection:
+To stop uploading data to SleepCloud, either disconnect SleepCloud in the Sleep as Android app using
+Settings > Services > Cloud backup > SleepCloud
+, or uninstall SleepCloud addon app from your phone.
+Data retention:
+We retain all personal data uploaded to SleepCloud until the user explicitly deletes them.
+Google Fit
+Sleep as Android app may use the integration with Google Fit, if enabled in the app’s settings, for:
+exporting sleep data to Google Fit as sleep activities
+reading data from the user’s Google Fit account for various app features as described below
+What is collected:
+sport activities in Google Fit during the day to be used as input for adding a sport tag to the sleep record
+movement activities collected during night sleep recording to be used as a base for creating awake phase in sleep records in Sleep as Android
+heart rate data collected during night to be imported into sleep records in Sleep as Android
+3rd party sleep activities in user’s Google Fit
+All the data are stored only either offline in the app or in Google Fit, except when user chose to backup their data to Urbandroid’s SleepCloud.
+How it is used by us:
+We do not use the collected data for anything else than the declared user-directed function.
+Third parties involved:
+Google Inc. provides Google Fit. Urbandroid accesses Fit via the
+Fit API
+, using the following scopes:
+Fitness.SESSIONS_API
+Fitness.HISTORY_API
+Scopes.FITNESS_ACTIVITY_READ_WRITE
+Scopes.FITNESS_BODY_READ_WRITE
+How to modify or delete the information:
+To delete the data, all records must be first deleted from Sleep as Android and next Google Fit sync action must be executed. User can also manage the data in their Google Account at the
+Google Account Dashboard
+.
+How to opt-out from future personal data collection:
+To stop uploading data to Google Fit and using data from the user’s Google Fit, disconnect Google Fit in the Sleep as Android app using
+Settings > Services > Google Fit
+.
+Data retention:
+We do not retain any data, all retained data are either offline in the app or in Google Fit, subject to Google’s policy.
+Health Connect
+Sleep as Android app may use the integration with Health Connect, if enabled in the app’s settings, for:
+exporting sleep data to Health Connect as sleep session, sleep stages, SPO2 oxygenation and restring HR
+reading data from the user’s Health Connect account for various app features as described below
+What is collected:
+resting heart rate data collected during night to be imported into sleep records in Sleep as Android
+3rd party sleep sessions and sleep stages in user’s Health Connect
+SPO2 data to perform Respiratory Disturbance analysis
+All the data are stored only either offline in the app or in Health Connect, except when user chose to backup their data to Urbandroid’s SleepCloud.
+How it is used by us:
+We do not use the collected data for anything else than the declared user-directed function.
+Third parties involved:
+Google Inc. provides Health Connect. Urbandroid accesses Health Connect  via the public API using the following read/write permissions:
+RestingHeartRateRecord
+OxygenSaturationRecord
+SleepSessionRecord
+SleepStageRecord
+The user may choose to only grant a subset of permission to Sleep as Android.
+How to modify or delete the information:
+Users can delete the collected data withing the Health Connect app interface.
+How to opt-out from future personal data collection:
+To stop uploading data to Health Connect and using data from the user’s Health Connect, disconnect Health Connect in the Sleep as Android app using
+Settings > Services > Health Connect
+.
+Data retention:
+We do not retain any data, all retained data are either offline in the app or in Health Connect, subject to Google’s policy. An exception is when users decide to synchronize the data with the SleepCloud service managed by Urbandroid. In this case the data is stored in Google Cloud datastore and can be deleted upon user’s request at https://sleep.urbandroid.org/sleep-cloud/.
+Data protection:
+Data stored locally on a user’s phone are protected by standard Android OS means. There isn’t an extra encryption layer for extra protection. Such data can be accessed by 3rd party apps or services by requiring a permission to be granted by the user com.urbandroid.sleep.READ or com.urbandroid.sleep.WRITE protection. If users decide to send their data to SleepCloud, they are stored in Google Cloud data store in an not encrypted form but anonymized (see above). Access to those data is over HTTPS encrypted connection.
+Limited use:
+Sleep as Android handles user data collected from Health Connect according to the Limited use clause in Health Connect
+privacy requirements
+. Especially Sleep as Android does NOT provide or sell user data to any 3rd parties, unless this would be explicitly agreed by the user.
+Google Calendar
+Sleep as Android app may use the integration with Google Calendar, if enabled in the app’s settings, for:
+exporting sleep data to Google Calendar as standalone events
+reading events in the user’s primary and holiday calendars and using
+start
+,
+end
+and
+title
+fields for alarm postponing/advancing
+What is collected:
+user’s primary, sleep and holidays calendars identifiers
+already parsed calendar event identifiers – in order to remember which events were already used for postponing/advancing alarm
+All the data are stored only either offline in the app or in Google Calendar.
+How it is used by us:
+We do not use the collected data for anything else than the declared user-directed function.
+Third parties involved:
+Google Inc. provides Google Calendar. Urbandroid accesses the Calendar via the
+Calendar API
+, using the Calendar OAuth scope.
+How to modify or delete the information:
+To delete the data, all events from Sleep calendar can be deleted manually. User can also manage the data in their Google Account at the
+Google Account Dashboard
+.
+How to opt-out from future personal data collection:
+To stop uploading data to Google Calendar and using data from the user’s Google Calendar, disconnect Google Calendar in the Sleep as Android app using
+Settings > Services > Google Calendar
+.
+Data retention:
+We do not retain any data, all retained data are either offline in the app or in Google Calendar, subject to Google’s policy.
+Location
+We do not read device location in our apps unless it is absolutely necessary for the core functionalities of our apps. We try to use the most coarse information needed for that purpose and retrieve the data in a battery efficient way. In most of our apps this information never leaves the device by default, unless not specified differently below.
+Location in Twilight
+The
+Twilight
+app which needs to timely react on any changes in location with respect to local sunrise and sunset times and adjust screen filtering accordingly. For this the apps need to access location in background. Twilight does not collection location and the location information never leaves the device. Twilight is basically completely offline and the Internet permission is only used to allow Twilight to talk to smart light devices on the local network.
+Location retrieval can be disabled in the main screen under
+Sun & Location > Automatic location.
+Location in Air
+The core feature of
+Air
+is to notify the users’ about worsening in pollutant levels at their current location automatically without touching the app. This can only be done though retrieving location regularly though out the day. The location information is not stored, but only used to quite the pollutant level server for local data.
+Location retrieval cannot be disabled in-app as this would break app’s core functionality. But users may decide to not grant the location permission to the app.
+Location in Sleep as Android
+Sleep as Android only retrieves location when the app is used. typically when sleep tracking starts. It stores s very coarse geo cell location ~+/-10km at each sleep record to allow users to compare their sleep quality in different locations. The location does not leave the device unless users explicitly install the
+SleepCloud Backup addon
+and decide to send those data to their selected services.
+Location gathering and storing at sleep records can be disabled in
+Settings > Privacy
+.
+Sleep as Android may query a weather service to show you current weather at your location in the morning.
+Do we disclose any information to outside parties?
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our services, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+Owner and data controller
+Petr Nálevka, Klausova 1147, Praha, Czech Republic
+Contact email:
+info@urbandroid.org
+EU representative
+Petr Nálevka, Klausova 1147, Praha, Czech Republic
+Contact email:
+info@urbandroid.org
+Contacting us
+If there are any questions regarding this privacy policy you may contact us using the information below.
+Urbandroid Team
+info@urbandroid.org
+Changes to our privacy policy
+We reserve the right to modify our Privacy and data consent policy at any time simply by posting such modification on this site and without any other notification. Any such modification will be effective immediately upon posting on this site. It is your responsibility to review our Privacy Policy from time to time to ensure that you continue to agree with all of its terms.
+Sub-section Policy: 
+Sub-policy 0
+https://support.google.com/googleplay/android-developer/answer/9888170:
+Skip to main content
+Permissions and APIs that Access Sensitive Information
+Help us improve this policy article by taking a
+2-minute survey
+.
+Requests for permission and APIs that access sensitive information should make sense to users. You may only request permissions and APIs that access sensitive information that are necessary to implement current features or services in your app that are promoted in your Google Play listing. You may not use permissions or APIs that access sensitive information that give access to user or device data for undisclosed, unimplemented, or disallowed features or purposes. Personal or sensitive data accessed through permissions or APIs that access sensitive information may never be sold nor shared for a purpose facilitating sale.
+Request permissions and APIs that access sensitive information to access data in context (via incremental requests), so that users understand why your app is requesting the permission. Use the data only for purposes that the user has consented to. If you later wish to use the data for other purposes, you must ask users and make sure they affirmatively agree to the additional uses.
+Restricted Permissions
+In addition to the above, restricted permissions are permissions that are designated as
+Dangerous
+,
+Special
+,
+Signature
+, or as documented below. These permissions are subject to the following additional requirements and restrictions:
+User or device data accessed through Restricted Permissions is considered as personal and sensitive user data. The requirements of the
+User Data policy
+apply.
+Respect users’ decisions if they decline a request for a Restricted Permission, and users may not be manipulated or forced into consenting to any non-critical permission. You must make a reasonable effort to accommodate users who do not grant access to sensitive permissions (for example, allowing a user to manually enter a phone number if they’ve restricted access to Call Logs).
+Use of permissions in violation of Google Play
+malware policies
+(including
+Elevated Privilege Abuse
+) is expressly prohibited.
+Certain Restricted Permissions may be subject to additional requirements as detailed below. The objective of these restrictions is to safeguard user privacy. We may make limited exceptions to the requirements below in very rare cases where apps provide a highly compelling or critical feature and where there is no alternative method available to provide the feature. We evaluate proposed exceptions against the potential privacy or security impacts on users.
+SMS and Call Log Permissions
+SMS and Call Log Permissions are regarded as personal and sensitive user data subject to the
+Personal and Sensitive Information
+policy, and the following restrictions:
+Restricted Permission
+Requirement
+Call Log permission group (for example, READ_CALL_LOG, WRITE_CALL_LOG, PROCESS_OUTGOING_CALLS)
+It must be actively registered as the default Phone or Assistant handler on the device.
+SMS permission group (for example, READ_SMS, SEND_SMS, WRITE_SMS, RECEIVE_SMS, RECEIVE_WAP_PUSH, RECEIVE_MMS)
+It must be actively registered as the default SMS or Assistant handler on the device.
+Apps lacking default SMS, Phone, or Assistant handler capability may not declare use of the above permissions in the manifest. This includes placeholder text in the manifest. Additionally, apps must be actively registered as the default SMS, Phone, or Assistant handler before prompting users to accept any of the above permissions and must immediately stop using the permission when they’re no longer the default handler. The permitted uses and exceptions are available on
+this Help Center page
+.
+Apps may only use the permission (and any data derived from the permission) to provide approved core app functionality Core functionality is defined as the main purpose of the app. This may include a set of core features, which must all be prominently documented and promoted in the app’s description. Without the core feature(s), the app is “broken” or rendered unusable. The transfer, sharing, or licensed use of this data must only be for providing core features or services within the app, and its use may not be extended for any other purpose (for example, improving other apps or services, advertising, or marketing purposes). You may not use alternative methods (including other permissions, APIs, or third-party sources) to derive data attributed to Call Log or SMS related permissions.
+Location Permissions
+Device location
+is regarded as personal and sensitive user data subject to the
+Personal and Sensitive Information
+policy and the
+Background Location policy
+, and the following requirements:
+Apps may not access data protected by location permissions (for example, ACCESS_FINE_LOCATION, ACCESS_COARSE_LOCATION, ACCESS_BACKGROUND_LOCATION) after it is no longer necessary to deliver current features or services in your app.
+You should never request location permissions from users for the sole purpose of advertising or analytics. Apps that extend permitted usage of this data for serving advertising must be in compliance with our
+Ads Policy
+.
+Apps should request the minimum scope necessary (for example, coarse instead of fine, and foreground instead of background) to provide the current feature or service requiring location and users should reasonably expect that the feature or service needs the level of location requested. For example, we may reject apps that request or access background location without compelling justification.
+Background location may only be used to provide features beneficial to the user and relevant to the core functionality of the app.
+Apps are allowed to access location using foreground service (when the app only has foreground access for example, "while in use") permission if the use:
+has been initiated as a continuation of an in-app user-initiated action, and
+is terminated immediately after the intended use case of the user-initiated action is completed by the application.
+Apps designed specifically for children must comply with the
+Designed for Families
+policy.
+For more information on the policy requirements, please see
+this help article
+.
+All Files Access Permission
+Files and directory attributes on a user’s device are regarded as personal and sensitive user data subject to the
+Personal and Sensitive Information
+policy and the following requirements:
+Apps should only request access to device storage which is critical for the app to function, and may not request access to device storage on behalf of any third-party for any purpose that is unrelated to critical user-facing app functionality.
+Android devices running R or later, will require the
+MANAGE_EXTERNAL_STORAGE
+permission in order to manage access in shared storage. All apps that target R and request broad access to shared storage (“All files access”) must successfully pass an appropriate access review prior to publishing. Apps allowed to use this permission must clearly prompt users to enable “All files access” for their app under “Special app access” settings. For more information on the R requirements, please see this
+help article
+.
+Photo and Video Permissions
+Photos and videos on a user’s device are regarded as personal and sensitive user data subject to Google Play's
+User Data policy
+. Apps may only access photos and videos for purposes directly related to app functionality, and may not request access on behalf of any third-party for any purpose unrelated to user-facing app functionality. For a more privacy preserving experience, we encourage the use of a system picker such as the
+photo picker
+.
+Apps requiring broad access to photos and video files located in shared storage on devices must successfully pass an appropriate access review and demonstrate a core use case that requires persistent or frequent photo/video access of files located in shared storage. Apps that have a one-time or infrequent need to access these files are requested to use a system picker, such as the Android
+photo picker
+.
+Broad access to photos and videos are also subject to the following requirements:
+Apps that target Android 13 (API level 33) or later, require the
+READ_MEDIA_IMAGES
+permission or
+READ_MEDIA_VIDEO
+permission in order to obtain broad access to photos or video files located in shared storage on the device. All apps that target Android 13 and above and request the READ_MEDIA_IMAGES or READ_MEDIA_VIDEO permissions must successfully pass an appropriate access review before publishing.
+Apps that request access to the READ_MEDIA_VIDEO or READ_MEDIA_IMAGES permission must successfully demonstrate a core use case that requires persistent or frequent need of photo/video access located in shared storage.
+If your app does not require or qualify for broad access to the READ_MEDIA_VIDEO or READ_MEDIA_IMAGES permissions, you must remove it from your app’s manifest in order to successfully meet the policy review requirements.
+In accordance with the
+Restricted Permissions policy
+, you must make a reasonable effort to accommodate users who do not grant broad access to media files on their device. This includes gracefully facilitating an accommodative app experience where users can still enjoy the feature or core functionality of your app.
+Apps that have a legitimate access case for photos or videos, but do not qualify for the READ_MEDIA_IMAGES nor READ_MEDIA_VIDEO permission may use a system picker such as the
+photo picker
+. For additional information, please see this
+Help Center
+article.
+Package (App) Visibility Permission
+The inventory of installed apps queried from a device are regarded as personal and sensitive user data subject to the
+Personal and Sensitive Information
+policy,  and the following requirements:
+Apps that have a core purpose to launch, search, or interoperate with other apps on the device, may obtain scope-appropriate visibility to other installed apps on the device as outlined below:
+Broad app visibility:
+Broad visibility is the capability of an app to have extensive (or “broad”) visibility of the installed apps (“packages”) on a device.
+For apps targeting
+API level 30 or later
+, broad visibility to installed apps via the
+QUERY_ALL_PACKAGES
+permission is restricted to specific use cases where awareness of and/or interoperability with any and all apps on the device are required for the app to function.
+You may not use QUERY_ALL_PACKAGES if your app can operate with a more
+targeted scoped package visibility declaration
+(for example, querying and interacting with specific packages instead of requesting broad visibility).
+Use of alternative methods to approximate the broad visibility level associated with QUERY_ALL_PACKAGES permission are also restricted to user-facing core app functionality and interoperability with any apps discovered via this method.
+Please see this
+Help Center article
+for allowable use cases for the QUERY_ALL_PACKAGES permission.
+Limited app visibility
+: Limited visibility is when an app minimizes access to data by querying for specific apps using more targeted (instead of “broad”) methods(for example, querying for specific apps that satisfy your app’s manifest declaration). You may use this method to query for apps in cases where your app has policy compliant interoperability, or management of these apps.
+Visibility to the inventory of installed apps on a device must be directly related to the core purpose or core functionality that users access within your app.
+App inventory data queried from Play-distributed apps may never be sold nor shared for analytics or ads monetization purposes.
+Accessibility API
+The Accessibility API cannot be used to:
+Change user settings without their permission or prevent the ability for users to disable or uninstall any app or service unless authorized by a parent or guardian through a parental control app or by authorized administrators through enterprise management software;
+Work around Android built-in privacy controls and notifications; or
+Change or leverage the user interface in a way that is deceptive or otherwise violates Google Play Developer Policies.
+The Accessibility API is not designed and cannot be requested for remote call audio recording.
+The use of the Accessibility API must be documented in the Google Play listing.
+Guidelines for
+IsAccessibilityTool
+Apps with a core functionality intended to directly support people with disabilities are eligible to use the
+IsAccessibilityTool
+to appropriately publicly designate themselves as an accessibility app.
+Apps not eligible for
+IsAccessibilityTool
+may not use the flag and must meet prominent disclosure and consent requirements as outlined in the
+User Data policy
+as the accessibility related functionality is not obvious to the user. Please refer to the
+AccessibilityService API
+help center article for more information.
+Apps must use more narrowly scoped
+APIs and permissions
+in lieu of the Accessibility API when possible to achieve the desired functionality.
+Request Install Packages Permission
+The
+REQUEST_INSTALL_PACKAGES
+permission allows an application to request the installation of app packages.​​ To use this permission, your app’s core functionality must include:
+Sending or receiving app packages; and
+Enabling user-initiated installation of app packages.
+Permitted functionalities include:
+Web browsing or search
+Communication services that support attachments
+File sharing, transfer, or management
+Enterprise device management
+Backup and restore
+Device Migration/Phone Transfer
+Companion app to sync phone to wearable or IoT device (for example, smart watch or smart TV)
+Core functionality is defined as the main purpose of the app. The core functionality, as well as any core features that comprise this core functionality, must all be prominently documented and promoted in the app's description.
+The REQUEST_INSTALL_PACKAGES permission may not be used to perform self updates, modifications, or the bundling of other APKs in the asset file unless for device management purposes. All updates or installing of packages must abide by Google Play’s
+Device and Network Abuse policy
+and must be initiated and driven by the user.
+Health Connect by Android Permissions
+Health Connect
+is an Android platform that allows health and fitness apps to store and share the same on-device data, within a unified ecosystem. It also offers a single place for users to control which apps can read and write health and fitness data, including health records. Health Records may include medical history, diagnoses, treatments, medications, lab results, and other clinical data, obtained from healthcare providers or institutions, or through supported third-party health platforms.
+Health Connect supports reading and writing a
+variety of data types
+, from steps to body temperature, to health record data.
+Data accessed through Health Connect Permissions is regarded as personal and sensitive user data subject to the
+User Data policy
+. If your app qualifies as a health app or has health-related features and accesses health data including Health Connect data, it must also comply with the
+Health apps policy
+.
+Please see this
+Android developer guide
+on how to get started with Health Connect. To request access to Health Connect data types and other FAQs, see
+Health Connect policy requirement FAQs
+.
+Apps distributed through Google Play must meet the following policy requirements in order to read and/or write data to Health Connect.
+Appropriate Access to and Use of Health Connect
+Health Connect may only be used in accordance with the applicable policies, terms and conditions, and for approved use cases as set forth in this policy. This means you may only request access to permissions when your application or service meets one of the approved use cases.
+Approved use cases include: fitness and wellness, rewards, fitness coaching, corporate wellness, medical care, health research, and games. Applications granted access to these use cases may not extend its use to undisclosed or non-permitted purposes.
+Only applications or services with one or more features designed to benefit users' health and fitness are permitted to request access to Health Connect Permissions. These include:
+Applications or services allowing users
+to directly journal, report, monitor, and/or analyze
+their physical activity, sleep, mental well-being, nutrition, health measurements, physical descriptions, health records, and/or other health or fitness-related descriptions and measurements.
+Applications or services allowing users
+to store their physical activity, sleep, mental well-being, nutrition, health measurements, physical descriptions
+,
+health records,
+and/or other health or fitness-related descriptions and measurements on their device, and share their data with other on-device apps that satisfy these use cases.
+Applications or services enabling users to manage chronic conditions, medical treatments, or care support.
+Access to Health Connect may not be used in violation of this policy or other applicable Health Connect terms and conditions or policies, including for the following purposes:
+Do not use Health Connect in developing, or for incorporation into, applications, environments or activities where the use or failure of Health Connect could reasonably be expected to lead to death, personal injury, harm to individuals, or environmental or property damage (such as the creation or operation of nuclear facilities, air traffic control, life support systems, or weaponry).
+Do not access data obtained through Health Connect using headless apps. Apps must display a clearly identifiable icon in the app tray, device app settings, notification icons, etc.
+Do not use Health Connect with apps that sync data between incompatible devices or platforms.
+Do not use Health Connect to connect to applications, services, or features that solely target children.
+Take reasonable and appropriate steps to protect all applications or systems that make use of Health Connect against unauthorized or unlawful access, use, destruction, loss, alteration, or disclosure.
+It is also your responsibility to ensure compliance with any regulatory or legal requirements that may apply based on your intended use of Health Connect and any data from Health Connect. For example, if you are a covered entity or business associate subject to the Health Insurance Portability and Accountability Act (HIPAA), you must comply with applicable requirements for your access and use of information from Health Connect. If you are a developer subject to the General Data Protection Regulation (GDPR) for EU users, you must similarly comply with your obligations under the GDPR. These laws and regulations may require you to execute additional agreements prior to sharing data (e.g., a Business Associate Agreement or Data Processing Agreement) with the relevant entities involved in your processing activities. It is also the responsibility of app developers to determine whether their activities require such agreements. Developers must provide evidence of such agreement or compliance to Google upon request.
+Except as explicitly noted in the labeling or information provided by Google for specific Google products or services, Google does not endorse the use of or warrant the accuracy of any data contained in Health Connect for any use or purpose, and, in particular, for research, health, or medical uses. Google disclaims all liability associated with use of data obtained through Health Connect.
+Limited Use
+When using Health Connect, data access and use must adhere to specific limitations:
+Data use should be limited to providing or improving the appropriate use case or features visible in the application's user interface.
+User data may only be transferred to third parties with explicit user consent: for security purposes (for example, to investigate abuse), to comply with applicable laws or regulations, or as part of mergers/acquisitions.
+Human access to user data is restricted unless explicit user consent is obtained, for security purposes, to comply with laws, or when aggregated for internal operations as per legal requirements.
+All other transfers, uses, or sale of Health Connect data is prohibited, including:
+Transferring or selling user data to third parties like advertising platforms, data brokers, or any information resellers.
+Transferring, selling, or using user data for serving ads, including personalized or interest-based advertising.
+Transferring, selling, or using user data to determine credit-worthiness or for lending purposes.
+Transferring, selling, or using user data with any product or service that may qualify as a medical device, unless the medical device app complies with all applicable regulations, including obtaining necessary clearances or approvals from relevant regulatory bodies (e.g., U.S. FDA) for its intended use of Health Connect data, and the user has provided explicit consent for such use.
+Transferring, selling, or using user data for any purpose or in any manner involving Protected Health Information (as defined by HIPAA) unless user-initiated and in compliance with HIPAA regulations.
+Minimum Scope
+You must only request access to the permissions that are necessary to implementing your product's features or services. Such access requests should be specific and limited to the data which is needed.
+Transparent and Accurate Notice and Control
+Health Connect handles health and fitness data that includes personal and sensitive information. Developers must provide clear and accessible disclosures about their data practices through a comprehensive privacy policy. These disclosures must include:
+Accurate representation of the identity of the application or service requesting access to user data.
+Clear and accurate information explaining the types of data being accessed, requested, and/or collected. The data must be related to a user-facing feature or recommendation offered in your app.
+Explanation for how the data will be used and/or shared: if you request data for one reason, but the data will also be utilized for a secondary purpose, you must disclose all use cases to users.
+User help documentation explaining how users can manage and delete their data from the app, and what happens to the data when an account is deactivated and/or deleted.
+Information regarding handling all personal and sensitive user data securely, including transmitting it using modern cryptography (for example, over HTTPS).
+For more information on requirements for apps connecting to Health Connect, please see this
+Help Center
+article.
+VPN Service
+The
+VpnService
+is a base class for applications to extend and build their own VPN solutions. Only apps that use the VpnService and have VPN as their core functionality can create a secure device-level tunnel to a remote server. Exceptions include apps that require a remote server for core functionality such as:
+Parental control and enterprise management apps
+App usage tracking
+Device security apps (for example, anti-virus, mobile device management, firewall)
+Network related tools (for example, remote access)
+Web browsing apps
+Carrier apps that require the use of VPN functionality to provide telephony or connectivity services
+The VpnService cannot be used to:
+Collect personal and sensitive user data without prominent disclosure and consent.
+Redirect or manipulate user traffic from other apps on a device for monetization purposes (for example, redirecting ads traffic through a country different than that of the user).
+Apps that use the VpnService must:
+Document use of the VpnService in the Google Play listing, and
+Must encrypt the data from the device to VPN tunnel end point, and
+Abide by all
+Developer Program Policies
+including the
+Ad Fraud
+,
+Permissions
+, and
+Malware
+policies.
+Exact Alarm Permission
+A new permission, USE_EXACT_ALARM, will be introduced that will grant access to
+exact alarm functionality
+in apps starting with Android 13 (API target level 33).
+USE_EXACT_ALARM is a restricted permission and apps must only declare this permission if their core functionality supports the need for an exact alarm. Apps that request this restricted permission are subject to review, and those that do not meet the acceptable use case criteria will be disallowed from publishing on Google Play.
+Acceptable use cases for using the Exact Alarm Permission
+Your app must use the USE_EXACT_ALARM functionality only when your app’s core, user facing functionality requires precisely-timed actions, such as:
+The app is an alarm or timer app.
+The app is a calendar app that shows event notifications.
+If you have a use case for exact alarm functionality that’s not covered above, you should evaluate if using SCHEDULE_EXACT_ALARM as an alternative is an option.
+For more information on exact alarm functionality, please see this
+developer guidance
+.
+Full-Screen Intent Permission
+For apps targeting Android 14 (API target level 34) and above,
+USE_FULL_SCREEN_INTENT
+is a
+special apps access permission
+. Apps will only be automatically granted to use the USE_FULL_SCREEN_INTENT permission if the core functionality of their app falls under one of the below categories that require high priority notifications:
+setting an alarm
+receiving phone or video calls
+Apps that request this permission are subject to review, and those that do not meet the above criteria will not be automatically granted this permission. In that case, apps must request permission from the user to use USE_FULL_SCREEN_INTENT.
+As a reminder, any usage of the USE_FULL_SCREEN_INTENT permission must comply with all
+Google Play Developer Policies
+, including our
+Mobile Unwanted Software
+,
+Device and Network Abuse
+, and
+Ads
+policies. Full-screen intent notifications cannot interfere with, disrupt, damage, or access the user’s device in an unauthorized manner. Additionally, apps should not interfere with other apps or the usability of the device.
+Learn more about the USE_FULL_SCREEN_INTENT permission in our
+Help Center
+.
+Help us improve this policy article by taking a
+2-minute survey
+.
+Give feedback about this article
+Choose a section to give feedback on
+Was this helpful?
+How can we improve it?
+Yes
+No
+Submit
+Post to the help community
+Get answers from community members
+Contact us
+Tell us more and we’ll help you get there
+true
+Privacy, Deception and Device Abuse
+1 of 7
+User Data
+2 of 7
+Permissions and APIs that Access Sensitive Information
+3 of 7
+Device and Network Abuse
+4 of 7
+Deceptive Behavior
+5 of 7
+Misrepresentation
+6 of 7
+Google Play's Target API Level Policy
+7 of 7
+Preview: Deceptive Behavior
+5986258957246789000
+true
+Search Help Center
+true
+true
+true
+Google Help
+Help Center
+Play Console Help
+Policy Center
+Community
+Play Console
+Privacy Policy
+Terms of Service
+Submit feedback
+Get started
+Popular articles
+Manage your developer account
+Create, upload, and publish
+Distribute your app
+Run tests and check performance
+Paid apps, in-app products & subscriptions
+Protect your app
+Comply with Google Play policies
+Fix an issue
+Central Play Help Center
+Restricted Content
+Intellectual Property
+Privacy, Deception and Device Abuse
+Use of SDKs In Apps
+Malware
+Impersonation
+Mobile Unwanted Software
+Monetization and Ads
+Store Listing and Promotion
+Spam, Functionality, and User Experience
+Other Programs
+Families
+Enforcement
+Updates and Other Resources
+How Google Play Works for Developers
+Search
+Clear search
+Close search
+Main menu
+Google apps
+true
+true
+92637
+false
+false
+Inaccurate - doesn't match what I see in the product
+Hard to understand - unclear or translation is wrong
+Missing info - relevant but not comprehensive
+Irrelevant - doesn’t match the title and / or my expectations
+Minor errors - formatting issues, typos, and / or broken links
+Other suggestions - ideas to improve the content
+Share additional info or suggestions
+​
+​
+Do not share any personal info
+Cancel
+Submit
+By continuing, you agree Google uses your answers,
+account & system info
+to improve services, per our
+Privacy
+&
+Terms
+.
+false

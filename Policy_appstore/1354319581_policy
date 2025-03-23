@@ -1,0 +1,94 @@
+Yang.Y
+yang
+CEO & Co-founder
+5
+Feb 2018
+Security and privacy are fundamental to
+Core Series
+apps (include
+Core Shell
+,
+Codinn Tunnel
+), we have put much efforts to improve the security.
+And here are "Dos and Don'ts" that we (
+Codinn Technologies Co., Ltd.
+) are following to protect your privacy:
+Data storage
+Core Series
+apps store all their data locally on the device you use them and in your
+iCloud Drive
+if sync is enabled.
+Learn more about iCloud security
+30
+.
+Passwords / passphrases stored locally
+All your saved passwords / passphrases are stored in macOS Keychain locally. None of these sensitive information is sent to remote.
+You can wipe your saved passwords or passphrases from
+Core Series
+, or from macOS Keychain Access.app directly.
+Private key and certificate files stored locally
+All of your imported private keys and certificates are stored in local folders:
+~/Library/Group\ Containers/E78WKS7W4U.io.coressh.ssh/.ssh/certificate/
+~/Library/Group\ Containers/E78WKS7W4U.io.coressh.ssh/.ssh/privatekey/
+You can delete them from the app or just remove the files from above folders, there is no other place retains copies.
+No statistics of usage
+Core Series
+apps DON'T send any data to our or other vendor's server.
+We don't push Ads to you, and we don't collect your usage data.
+Core Series
+apps only connect to your own servers, and do the right job, no more.
+Security
+Based on XPC and OpenSSH
+Each of
+Core Series
+apps leverages the security and stability by using
+Apple's XPC technology
+17
+to control the standard OpenSSH.
+XPC is widely used by Apple itself, e.g. Safari, Xcode, App Store and other system services.
+OpenSSH
+11
+is the most widespread and de-facto standard implementation of SSH protocol.
+Conform to Apple's App Sandbox
+Core Series
+apps conform to
+App Sandbox
+15
+.
+App Sandbox is an access control technology provided in OS X, enforced at the kernel level. Its strategy is twofold:
+App Sandbox force the app describes how to interact with the system. The system then grants the app the access it needs to get its job done, and no more.
+App Sandbox allows the user to transparently grant the app additional access by way of Open and Save dialogs, drag and drop, and other familiar user interactions.
+A non-sandboxed app has the full rights of the user who is running that app, and can access any resources that the user can access. If an attacker can potentially exploit that app, the attacker gains the ability to do anything that the user can do.
+By limiting access to resources on a per-app basis, App Sandbox provides a last line of defense against the theft, corruption, or deletion of user data if an attacker successfully exploits the app.
+Notarized by Apple and is available on the App Store
+Core Series
+apps passed the notarization with Apple that guarantees apps are free from malicious components and thus is safe for distribution.
+Core Series
+apps also distribute on App Store, which means
+Core Series
+apps follow the
+strict review policy
+8
+, Apple witnesses apps are quality, safety, and compliance with the Apple's software standards.
+Apple reviews all apps submitted to the App Store to ensure that they are reliable, perform as expected, and are free of offensive material.
+Changes to this Privacy Policy
+This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy here and informing you via the app. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+Questions about the Privacy Policy
+If you have any questions regarding privacy while using
+Core Series
+apps, or have questions about our practices, please contact us via email at
+privacy@codinn.com
+.
+This Policy was last revised: May 3, 2024.
+1
+Why does Core Tunnel need a copy of all my personal files?
+6
+Getting "Operation not permitted" on Connect
+2
+Core Shell does not authenticate via public key but plain "ssh" does?
+1
+Core Tunnel – Difference between Codinn Store and App Store versions
+1
+Howtos – Core Tunnel
+1
+7 more

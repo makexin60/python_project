@@ -1,0 +1,82 @@
+Updated:
+August 7, 2023
+Your privacy is our priority, therefore your personal information is protected by this Privacy Policy in a way that does not allow our company Biggerpan, Inc. (“Biggerpan”) nor any of its affiliates to store nor make use of it under any circumstance, unless properly anonymized and/or encrypted beforehand and either to ensure our Services or for logging, debugging or machine learning purposes only. This Privacy Policy describes how and when we collect, use, and share your information when you use our Services (“Usage Information”) through the Android app Smart Messages. Biggerpan receives your Usage Information mainly through your interactions with our Services. When using any of our Services you consent to the collection, transfer, manipulation, storage and other uses of this information as described in this Privacy Policy. Irrespective of which country you reside in or supply information from, you authorize Biggerpan to anonymously use this information in the United States, in France and in any other country where Biggerpan operates.
+1. Information Collection and Use
+Account
+We do not require to create an account to use our Services. We may use your encrypted phone number as a way to privately collect meta information required by our Rich Communication Services in Smart Messages, such as the time and date of when your messages are received and read, or when someone is writing to you. We do not store the content of your communications on our servers.
+Contact Information
+We don’t collect any contact information by default. You may provide your email address when reporting a bug in case you want to be notified of a possible response we may send you.
+Messaging Services
+Our Software Smart Messages and the Magic Cards require certain permissions on your smartphone:
+• READ AND WRITE SMS: permission required to read, write and send SMS/MMS/RCS messages
+• CAMERA: this permission is needed to send photos/videos via MMS
+• AUDIO RECORD: required to send audio messages via MMS
+• ACCESS LOCATION: this set of permissions (coarse and fine locations) allow us to geolocate you
+• READ PHONE STATE: cellular information allowing a faster and more responsive user experience
+• READ CONTACTS: allows you to select the contacts you want to send SMS/MMS messages to
+We are not storing any of your personal data, images, photos, audios or videos in any of our servers, and we don’t sell your data to anyone. Whatever data is collected is for the sole purpose of providing our Services to you. Upon acceptance of our Terms of Service and Privacy Policy, if your phone number can be read from your SIM card, we privately send your phone number via an SSL encrypted connection to our server on https://status.bgr.pn, which in turns silently sends a verification code to your phone in order to automatically activate the Rich Communication Services in Smart Messages. During this process, we communicate your phone number to transactional SMS service providers
+Twilio
+and/or
+Plivo
+in order to route the verification code to your phone via SMS.
+Messaging History
+Our Software will handle your SMS, MMS and RCS messages and have access to your messaging history. In order to provide contextually relevant services and/or intent-based advertisement, after accepting the present terms, each new message you send or receive and each previously sent or received message you select will be privately and securely analyzed by our natural language understanding (NLU) cloud services. When transferred to our cloud computing infrastructure, your data, which may also comprise your time zone and geolocation coordinates, is encrypted using the SSL protocol on the https://api.biggerpan.com address, then stripped out of any personal information that would allow us to associate it with your identity (such as phone numbers, email addresses, full names, addresses, social security numbers, etc.). Once anonymized, the data may be used for machine learning and in the sole purpose of improving our Services. None of the personal information contained in your messages is ever stored on our servers, nor shared with, nor sold to any third-party entity.
+Images and videos
+When reporting a bug to us through our in-app bug reporting functionality, you have the ability to attach a screenshot, a video, or any image that you deem relevant to illustrate the issue you are encountering. When submitting your bug report to us, any attached image or video is automatically transmitted to our cloud-based bug reporting service provider, which is currently
+Instabug
+, and stored on their servers indefinitely in order for us to be able to view such attachment(s) when accessing your bug report.
+Links
+We may keep track of some of the links you click on in our Software in order to improve the relevance of the links we provide or to be able to share aggregate click statistics such as how many times a particular link was clicked on. This information is part of the Usage Information we collect anonymously. When transferred to our cloud computing infrastructure, this information is stripped out of the properties that would allow us to associate it with your identity. This information may be stored locally on your device in association with other personal information.
+Identifiers and cookies
+We may perform requests to content providers on your behalf to retrieve relevant information to show you. When retrieving such information, we ensure that the requests are sent from a new connection session so that no cookie or other tracker can build your user profile from past requests.
+Log Data
+Our servers automatically record information (“Log Data”) generated upon your connection to the Services. Our Log Data is anonymous, therefore it will NOT include information such as your IP address, user ID, phone number, cookie information, browser type, operating system or device model, location, carrier or internet service provider information.
+Third-Party Service Providers
+We use a variety of third-party services to help provide our Services, such as hosting services, including
+Google Cloud Platform
+,
+Amazon Web Services
+and
+Microsoft Azure
+, analytics services, such as
+Google Analytics
+,
+MixPanel
+,
+Flurry
+,
+Fabric
+and
+Google Firebase
+, bug report services, such as
+Instabug
+, and transactional SMS services, such as
+Twilio
+and
+Plivo
+. The analytics service providers may collect information about your device, including its brand, model, operating system, package names of installed apps, and software features, and are not communicated to us on a personal basis but only on a pseudonymous basis using an abstract identifier which we have no means to turn back into your actual identity. The Company is also a participant in the Amazon Services LLC Associates Program, an affiliate program designed to provide a means for apps and sites to earn revenue sharing fees by linking to
+amazon.com
+.
+Advertisement
+Smart Messages contains ads in the form of clickable links. Advertisement providers for those ads may collect data resulting from displays and clicks on their ads. Clicking on ads may also result in the collection of tracking and anti-fraud data, including your Android Advertising ID, IP address, phone model, language, Android version, cookies, pixels, anonymized identifiers, clicks, timestamps or ad topics. Our advertisement providers as of today are
+Google AdMob
+,
+Twitter MoPub
+,
+Facebook Audience Network
+and
+Smaato
+. Users who don’t provide their consent when presented with the present terms will see arbitrary ads in the app since our advertisement providers will be informed that they are not allowed to collect user data to display personalized ads. Users willing to learn more about targeted and behavioural advertising or willing to opt-out of this type of advertising can visit the websites of the
+Digital Advertising Alliance
+website and the
+Networking Advertising Initiative
+.
+Privacy Consent Management
+In compliance with the European General Data Protection Regulation (GDPR) and the California Consumer Privacy Act (CCPA), we display a privacy disclosure inside the app where users can unambiguously provide their consent for the collection of the data described in the present terms. User consent is collected and stored inside the app and can be revoked by the user at any time by resetting the app storage from their Android settings (Apps > Messages > Storage > Manage Storage > Clear Data) or by uninstalling and reinstalling the app. Users may also exercise their right to be forgotten by third-party advertisers by resetting their Android Advertising identifier in their Android settings (Privacy or Google then Ads > Reset Advertising ID) or by contacting directly any of our advertisement providers listed in the ‘Advertisement’ section.
+2. Information Sharing and Disclosure
+Law and Harm
+Notwithstanding anything to the contrary in this Policy, we may preserve or disclose the information we collected, including Log Data and Usage Information, if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to address security or technical issues; or to protect Biggerpan’s rights or property. However, nothing in this Privacy Policy is intended to limit any legal defenses or objections that you may have to a third-party’s, including a government’s, request to disclose the information we have, which is non-personal and anonymized
+Business Transfers
+In the event that Biggerpan is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your personal information may not be sold or transferred as part of that transaction, while the Log Data and Usage Information may be sold or transferred as part of that transaction. The promises in this Privacy Policy will apply to your information as transferred to the new entity.
+3. Changes to this Policy
+We may revise this Privacy Policy from time to time. If we make a change to this Policy that, in our sole discretion, is material, we will notify you via an email to the email address associated with your account or through the Services. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.

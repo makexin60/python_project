@@ -1,0 +1,205 @@
+Privacy Statement and Cookie Directive
+Privacy statement and cookie policy
+for the Official Bundesliga Fantasy Manager app ('
+App
+') for DFL Deutsche Fußball Liga GmbH, Guiollettstrasse 44-46, 60325 Frankfurt am Main, Germany ('
+the DFL
+').
+The DFL processes and uses personal data collected and stored during the installation and use of the App in compliance with the data privacy regulations applicable in the Federal Republic of Germany. This privacy statement and cookie policy (hereinafter collectively referred to as '
+the Statement
+') sets out which data regarding users (hereinafter collectively referred to as '
+the User
+') are collected and how this information is processed and used.
+1. Permissions
+For the App to work correctly, it is necessary for the User to grant the App access to certain functions and data on the user's device. During installation, the User will be asked once to grant the relevant permissions. The way in which permissions are granted varies depending on the device manufacturer. In some cases, access permissions have different names, while individual permission categories are sometimes combined, meaning that the User can approve only the entire permission category. By granting permission, the User is consenting to his/her data being processed accordingly.
+Note that if you do not grant one or more of the permissions requested, some functions of the App may not be usable. If the User nonetheless attempts to activate such a function, the App will again ask the User to grant permission. The User can at any time use the device settings to revoke permission that has previously been granted.
+If the User has granted permission, the DFL will use it as follows:
+Files and media: The App requires access to files and media when creating user feedback so that it can access screenshots taken by the User to show problems occurring in the App.
+Camera: The App requires access to the camera when creating user feedback so that it can access screenshots taken by the User to show problems occurring in the App.
+Background app refresh: This function is used to run the App regularly in the background to ensure that its content is kept up to date and, if it is not, that it can update the content. On iOS devices, these functions can be disabled in the device settings.
+Cellular data: This function is used to check that the device is connected to the internet, if the User is not logged on to a Wi-Fi network. On iOS devices, these functions can be disabled in the device settings.
+2. Data collection and processing during use of the App
+2.1 Installation and use of the App
+The following data will automatically be logged on the DFL server when the App is installed and used:
+IP address of the requesting device
+Date and time of installation
+Date and time of access
+Quantity of data transferred
+Access status (file transferred, file not found etc.)
+Name and version of operating system used
+Time zone settings
+Identification data of device used
+Name of the User's internet service provider and information about the mobile network used
+The collection, processing and use of this data occur for the purposes of enabling the use of the App, system security and the technical administration of the network infrastructure. The data will not be compared with other sets of data or passed on to third parties either in whole or in part.
+The legal basis for processing is Art. 6 para. 1 sentence 1 f) of the EU General Data Protection Regulation ('
+GDPR
+'). The DFL's legitimate interest is based on the aim of providing the User with a secure and functioning App.
+2.2 Crashlytics
+In the App, the DFL uses Crashlytics, a service of Google LLC (USA) ('
+Crashlytics
+') that collects information about user behaviour and the devices used so as to diagnose and resolve potential problems with the App. This data is stored anonymously. However, data may be transferred to the USA as part of the process. More detailed information about Firebase Crashlytics can be found via the following
+link
+and in the privacy information from
+Firebase Crashlytics
+.
+The legal basis for processing is Art. 6 para. 1 sentence 1 f) GDPR. The DFL's legitimate interest is based on the aim of providing the User with the most stable App possible.
+3. Data collection and processing in the context of registration and login
+3.1 Registration and login
+The DFL uses the customer identity management platform provided by Okta, Inc., 101 1st Street, San Francisco, CA 94105, USA ('
+Okta
+') for the registration and login functions for the Official Bundesliga Fantasy Manager. During registration and the further onboarding process, the App will request the following data from the User:
+Full name
+E-mail address
+Username
+Country
+Team name
+Favourite club
+Gender (optional)
+Date of birth (optional)
+Password
+Okta stores and manages this data in Germany, but sometimes uses international support teams from Australia, Canada, Singapore and Japan as well as the USA for support inquiries. Insofar as there is no data protection level comparable to the one in the EU in these countries and, in particular in the USA, there is the possibility for security authorities to largely access personal data stored there, Okta safeguards this data transfer by means of EU standard contractual clauses.
+The data will be used only for the operation and management of the Official Bundesliga Fantasy Manager and to establish, maintain or terminate the underlying agreement with the User for participation in the Official Bundesliga Fantasy Manager. Providing this data is necessary to enable the DFL to provide the User with the functions and services associated with use of the App. The legal basis for processing for the purposes of establishing, maintaining and terminating the user agreement is Art. 6 para. 1 sentence 1 b) GDPR.
+3.2 Social logins
+The social login function, which is also provided by Okta (see Clause 3.1), allows the User to log in with his/her (social media) account with Facebook, Google or Apple. If the User chooses to use one of these social logins, the relevant social media provider will establish the User's identity and transfer the data about the User outlined below to the DFL.
+The transfer of usage data (pages visited, fields activated) to the respective provider does not take place. The DFL implemented the social logins via OAuth (Open Authorization).
+The legal basis for the transmission of data is the User's consent according to Art. 6 para. 1 sentence 1 a) GDPR, which the User grants by choosing to use a social login. The User can revoke this consent at any time with future effect. The DFL will then process the transferred data for the purposes of establishing, maintaining and terminating the user agreement in accordance with Art. 6 para. 1 sentence 1 GDPR.
+The following privacy information regarding data transfer apply to social logins; see also Clause 7 on sharing content.
+3.2.1 Facebook
+IF THE USER DOES NOT WISH DATA TO BE SYNCHRONISED IN THIS WAY, THE USER MUST USE ONE OF THE OTHER AVAILABLE LOGIN OPTIONS.
+3.2.2 Google
+If the User logs in via Google, the following types of data transfer to the DFL by Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland, ('
+Google
+') will be initiated:
+The transmission of certain information from the User's Google account to the DFL with the consequence that in addition to the usage data outlined in this Statement (e.g. the IP address), the following information will be transmitted to the DFL:
+Profile picture
+Full name
+E-mail address
+IF THE USER DOES NOT WISH DATA TO BE SYNCHRONISED IN THIS WAY, THE USER MUST USE ONE OF THE OTHER AVAILABLE LOGIN OPTIONS.
+3.2.3 Apple
+If the User logs in via Apple, the following types of data transfer to the DFL byApple Inc., One Apple Park Way, Cupertino, CA 95014, USA, ('
+Apple
+') will be initiated:
+The transmission of certain information from the User's Apple account to the DFL with the consequence that in addition to the usage data outlined in this Statement (e.g. the IP address), the following information will be transmitted to the DFL:
+Full name
+E-mail address
+IF THE USER DOES NOT WISH DATA TO BE SYNCHRONISED IN THIS WAY, THE USER MUST USE ONE OF THE OTHER AVAILABLE LOGIN OPTIONS.
+3.3 'Keep me logged in' function
+If the User selects the 'Keep me logged in' function when logging in, the User’s login details (e-mail address and password) will be saved. Only once the session has expired (because the User has either logged out, deleted the browser history or cleared the cache), after 14 days of inactivity or after six months at the latest will the User have to log in again. To prevent unauthorised account access, the User should not choose this function on any device also used by others. If the User does not select this function, the User will be logged out automatically after 3 hours of inactivity or 24 hours.
+The information about whether the User has made use of the 'Keep me logged in' function is stored locally in the User's browser using the keys okta-cash-storage and okta-token-storage and deleted after the deadlines set out above as soon as the User has to log in again. Further information on this can be found under the following
+link
+.
+3.4 Publication of information
+The User agrees that in the event that he/she wins, the DFL may, at its discretion, publish the User’s first name, the first letter of the User’s surname and the User’s country of residence through the official DFL tele media and/or social media accounts, while the User’s first name and the first letter of the User’s surname will also be made publicly accessible on the Official Fantasy Manager rankings, on the official website at www.bundesliga.com and in the App. Processing for this purpose is permitted on the basis of the User's consent in accordance with Art. 6 para. 1 sentence 1 a) GDPR and the User may revoke this consent at any time with future effect.
+4. Push notifications
+The DFL uses technology provided by Airship Group, Inc., 1225 West Burnside, Suite 401, Portland, OR 97209, USA, ('
+Airship
+') to enable it so send push notifications to the User. This will take place only if the User has consented to corresponding push notifications during the registration process or later in the App settings. The legal basis for processing is the User's consent in accordance with Art. 6 para. 1 sentence 1 a) GDPR. The User can revoke this consent at any time by disabling push notifications again in the App or device settings.
+In certain circumstances, Airship may also process the User's data for push notifications in the USA, which does not have the same level of privacy as the EU, particularly due to the possibility of data being accessed by security agencies. The transfer of data in this way is legally protected by the EU's standard contractual clauses. Further information can be found in the
+Airship privacy statement
+.
+5. Special terms and conditions for newsletters
+During registration and, later, in the account settings, the User will have the option to subscribe to newsletters (Bundesliga Newsletter, Game Updates).
+Insofar the User subscribes during registering for the Official Fantasy Manager (see Section 3.1), the registration will be processed via Okta. The DFL uses the service of Mapp Digital Germany GmbH (Germany) to send the newsletters and the associated management of user data.
+The DFL will place what is known as a tracking pixel in the HTML code of the relevant newsletter and assign a user ID to the User to determine the time at which the newsletter in question was opened and which links or functions were activated from that newsletter. This tracking takes place for the purpose of internal optimisation of the applicable newsletter. This data will not be passed on.
+The legal basis for this data processing is Art. 6 para. 1 sentence 1 a) GDPR. If the User does not want this tracking to take place, they can unsubscribe from the newsletter in question (e.g. via the unsubscribe link in each newsletter or through the account settings).
+6. SDKs used
+With the App, the DFL has implemented some services using SDKs (software development kits). Some of the various SDKs process personal User data by establishing a direct link between the device and the SDK provider when the User uses the App. Users may decline the use of SDKs used for statistical purposes or individual App functions.
+For technical reasons, the DFL cannot remove the SDKs in such cases but will merely configure settings to prevent further data being retrieved via the SDKs. However, as the provider of the App, the DFL cannot control which data the SDK providers retrieve (even if settings to that effect forbid data retrieval).
+The App incorporates the following SDKs:
+Provider/name of SDK
+Description
+Category
+Okta
+This SDK is associated with customer identity management used for registration for the DFL services (such as the Official Fantasy Manager) and for both the normal login and the social logins with Facebook, Google and Apple. This customer identity management service is provided by the processor, Okta, Inc. (USA). Further information can be found in
+Okta's privacy statement
+.
+Technical necessary
+React Native
+This SDK is required for programming the App for iOS and Android devices. Further information can be found
+here
+.
+Technical necessary
+Airship
+This SDK is used for sending push notifications and other notifications in the App. The SDK is provided by Airship, Inc. (USA). The Airship, Inc. privacy statement can be found
+here
+. The User may disable push notifications via Airship at any time in the App or device settings.
+Functional
+Firebase Crashlytics (Google)
+This SDK is used to collect data on crashes in the App to enable the most stable product possible to be provided. This involves gathering information about user behaviour and the devices used so as to diagnose and resolve potential problems with the App. This data is stored anonymously. However, data may be transferred to the USA as part of the process. More detailed information about Firebase Crashlytics can be found via the following
+link
+and in the privacy information from
+Firebase Crashlytics
+.
+Functional
+Usabilla (by SurveyMonkey)
+This SDK enables users to give the DFL feedback about the App. In addition, the DFL can invite users to take part in surveys and send in-app messages to inform users about important news. Further information can be found in the
+Usabilla privacy notice
+.
+Functional
+Firebase Analytics (Google)
+This SDK is used to collect information on basis tracking events for Crashlytics. The Analytics SDK uses SQLite for the purpose of persistence for events and other app-specific data. Further information can be found in
+Google's privacy policy
+. A User can prevent such an analysis by choosing to opt out in the App settings.
+Performance
+The DFL used other SDKs as tools during development of the app, not all of which are identified individually in the above list. The use of these SDKs is strictly necessary for the App to run and cannot be stopped.
+7. Sharing content
+The DFL provides users of the App with the opportunity to share the App's content as described in the following section.
+7.1 Using the Facebook, X, Google+, Instagram and WhatsApp social media services
+Users can share content from this App on the social media services provided by Facebook, X, Google+, Instagram and WhatsApp. To prevent User data being shared with the providers without the User's consent, the DFL offers only social sharing links in the App. This ensures that no data will be transferred to third parties without the permission of the User. Only when the User activates the social media services by clicking the relevant icon, thereby consenting to connect with Facebook, X, Google+, Instagram and WhatsApp, will a connection to the applicable service be established and the social sharing links created, and the User can then publish these links through the service. Further information on data processing by the providers can be found in the applicable privacy statements:
+Facebook
+,
+X
+,
+Google+
+,
+Instagram
+and
+WhatsApp
+.
+7.2 E-mail forwarding
+The User can also share and recommend content from this App via e-mail by clicking the relevant button. The DFL will not use, process or store in any way the recipient e-mail addresses that the User enters in the e-mail application that opens when the User clicks the relevant icon.
+7.3 Sharing via Android and iOS
+If a User uses an Android or iOS device and clicks the Share button, the App will - in addition to the aforementioned social media platforms and e-mail forwarding function - show all applications that are installed on the User's device and that offer a share function. The DFL has no influence on which data is shared with the corresponding platforms and recommends referring to the respective privacy statements.
+8. Feedback service
+The DFL uses the Usabilla (by SurveyMonkey) feedback service from Usabilla B.V. (Netherlands) ('
+Usabilla
+') to provide the User with the opportunity to provide feedback on the App and its functions and to participate in online surveys. The DFL uses the resultant feedback and surveys to improve the App and its functions in line with user requests. When a User uses the feedback form or the feedback button or participates in an online survey, the User’s device will establish a direct link to Usabilla's server and the information entered by the User (e.g. full name, e-mail address), the User's IP address and other device-related information will be transmitted. Further details can be found in
+Usabilla's privacy policy
+. The legal basis for processing is the User's consent in accordance with Art. 6 para. 1 sentence 1 a) GDPR, which the User may revoke at any time with future effect.
+9. Data forwarding to third parties
+Aside from the cases outlined, the DFL will forward personal data to third parties only if it is authorised or obliged to do so. This is the case particularly if the DFL transfers personal data to government agencies and authorities in accordance with mandatory national legislation or if forwarding is necessary for the purpose of legal action or criminal prosecution in the event of attacks on network infrastructure. The legal basis for this processing is Art. 6 para. 1 sentence 1 c) GDPR in conjunction with Section 24 para. 1 no 1 of the German Federal Data Protection Act [
+Bundesdatenschutzgesetz,
+“BDSG”].
+10. Storage and deletion of personal data
+All stored personal data and pseudonymised usage data will be deleted immediately and permanently as soon as they are no longer needed for the purposes for which they were collected or if the User demands this, unless the DFL is required or entitled by law to preserve the data. If the DFL is required or entitled by law to preserve the data, the stored personal data and pseudonymised usage data will be permanently deleted upon expiry of the statutory retention periods.
+11. Security
+The DFL uses technical and organisational security measures to protect personal User data against accidental or intentional tampering, loss, destruction or access by unauthorised persons. These security measures are regularly adapted in accordance with technological developments. Nonetheless, the DFL advises the User that absolute security can never be guaranteed in online data transmission.
+12. Links to other websites
+The App may contain links to other websites. This Statement applies solely to this App. DFL has no influence over content from other providers and does not control whether other providers comply with the applicable data protection regulations or other legal requirements. If a user alerts the DFL to the presence of unlawful content on linked websites, the DFL will remove the links from the App immediately.
+13. Rights of the User
+The GDPR grants a number of rights to the User. In particular, the User has
+a right of access to personal data concerning themselves (Art. 15 GDPR)
+a right to rectification of inaccurate data (Art. 16 GDPR)
+a right to erasure of data under the conditions stipulated in Art. 17 GDPR
+a right to restriction of processing (Art. 18 GDPR)
+a right to data portability in accordance with Art. 20 GDPR
+a right to object to processing, unless this takes place to protect the legitimate interests of the DFL (Art. 21 GDPR).
+If data processing is based on the User's consent, the User may revoke this at any time with future effect.
+The User can contact the DFL via e-mail to
+info@bundesliga.de
+. The DFL's privacy officer can be contacted at
+datenschutz@bundesliga.de
+. This e-mail address is used to respond solely to enquiries pertaining to privacy.
+Furthermore, the User can submit a complaint about the data processing to an appropriate supervisory authority. The authority responsible for the DFL is the Hessian Commissioner for Data Protection and Freedom of Information, and the User can submit a complaint via the following
+link
+.
+14. Applicability, validity and up-to-date status of this Statement
+The regulations in this Statement on collection, processing and use of the User's data apply to the User when the latter uses the App. This Statement is up to date as at 1 July 2021. The DFL reserves the right to amend this Statement at any time with future effect, especially for the purposes of adapting to later versions of the App or implementing new technologies. The User can view the current Statement in the App at any time by going to Privacy on the menu.
+WE RESPECT PRIVACY ALWAYS
+We use strictly necessary cookies and functional cookies so our website can be operated safely and its contents and services can be used. By clicking on “Accept all cookies" you agree that we also set performance cookies, marketing and analysis cookies and social media cookies. Some of these may be set by these
+third-party suppliers
+. For further information, please refer to our
+cookie policy
+or to the cookie settings, where you can also manage your cookie preferences at any time.
+Accept All Cookies
+Cookies Settings

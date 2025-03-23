@@ -1,0 +1,10 @@
+GeoCaches iOS app Pricacy Policy
+This document describes how your data handled by GeoCaches iOS App.
+Application uses 3-rd party backends, like geocaching.com, geocaching.su, and opencaching.* nodes. Application interacts with this services through official API. API requests does not contains your exact position, although this services may guess your position based on geocaches you request, geocaches which are marked by you as 'found' / 'not found'. This services also receives information you post as 'found'/'not found' notes. Please refer pricacy policies of this services to obtain information how they handle your data.
+Application uses Google Analytics to collect data about app usages and application errors and/or crashes. Please refer Google Analytics privacy policy to check how this data may be used. Although it's very important for me to receive this data, you may opt-out of sending this data to Google. To do this - please open Settings app on your device, find 'GeoCaches' and turn on 'Disable Statistics' switch.
+Application also may show Ads provided by Google. Please refer Google Privacy Policy for details.
+Application requests access to CloudKit, some information about geocaches may be stored in iCloud. This data does not contains your location, your login or passwords. If you want to opt-out, please disable iCloud Drive on your device. (refer to Apple documentation how to do this)
+Application uses maps provided by 3rd parties (Apple, MapBox) - this services potentially may calculate your location. Please refer Privacy Policy of this services for details.
+No other backends are used. All your data processed on device locally.
+If you have any questions, suggestions, etc, please feel free to contact me using this address:
+ios@dflab.net

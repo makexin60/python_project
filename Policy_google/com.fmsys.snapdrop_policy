@@ -1,0 +1,356 @@
+PairDrop for Android Privacy Policy
+"PairDrop for Android" is an open-source project designed to provide an easy-to-use, cross-platform file-sharing solution that integrates well with the Android™ system.
+Unlike standalone services, our app does not have its own backend or servers. Instead, it relies entirely on web-based services selected by the user within the app (e.g.
+https://pairdrop.net/
+by default). Because of this, the privacy and security of your data depend on the specific website you choose to use. We strongly recommend that users review the privacy policy of the selected web service before using it.
+Server Connections
+To enable device discovery on your local network, the app connects to the chosen web-based service. For example, if you use
+https://pairdrop.net/
+, your public IP address is temporarily processed to create a shared "room" for all devices in the same network. Any information handled by the web service is subject to its own privacy policy.
+User Rights
+Since we do not operate our own servers or store any user data, we cannot provide options to delete your information. If you want to stop using the app, simply uninstall it from your device. Any files received through the app will remain on your device until you manually delete them.
+Permissions
+The app requires the following permissions:
+Storage Access:
+Necessary for sending and receiving files on some Android versions. We do not process your files beyond what is explicitly selected for sharing.
+WiFi State Access:
+Used only locally to check network conditions and is not transmitted outside your device.
+Support Email
+For support inquiries, you can contact us at:
+snapdrop-android[at]googlegroups.com
+Emails sent to this address will be forwarded to our core developers. We do not share your emails with third parties. Emails are not automatically deleted, but you can request removal by contacting us.PairDrop for Android Privacy Policy
+"PairDrop for Android" is an open-source project designed to provide an easy-to-use, cross-platform file-sharing solution that integrates well with the Android™ system.
+Unlike standalone services, our app does not have its own backend or servers. Instead, it relies entirely on web-based services selected by the user within the app (e.g.
+https://pairdrop.net/
+by default). Because of this, the privacy and security of your data depend on the specific website you choose to use. We strongly recommend that users review the privacy policy of the selected web service before using it.
+Server Connections
+To enable device discovery on your local network, the app connects to the chosen web-based service. For example, if you use
+https://pairdrop.net/
+, your public IP address is temporarily processed to create a shared "room" for all devices in the same network. Any information handled by the web service is subject to its own privacy policy.
+User Rights
+Since we do not operate our own servers or store any user data, we cannot provide options to delete your information. If you want to stop using the app, simply uninstall it from your device. Any files received through the app will remain on your device until you manually delete them.
+Permissions
+The app requires the following permissions:
+Storage Access:
+Necessary for sending and receiving files on some Android versions. We do not process your files beyond what is explicitly selected for sharing.
+WiFi State Access:
+Used only locally to check network conditions and is not transmitted outside your device.
+Support Email
+For support inquiries, you can contact us at:
+snapdrop-android[at]googlegroups.com
+Emails sent to this address will be forwarded to our core developers. We do not share your emails with third parties. Emails are not automatically deleted, but you can request removal by contacting us.
+Sub-section Policy: 
+Sub-policy 0
+https://github.com/fm-sys/snapdrop-android/commit/537f43b1cd35c45739b337231808b4750f54007b:
+fm-sys
+/
+snapdrop-android
+Public
+Sponsor
+External links
+https://www.buymeacoffee.com/snapdropandroid
+Learn more about funding links in repositories
+.
+Report abuse
+Notifications
+You must be signed in to change notification settings
+Fork
+63
+Star
+930
+Code
+Issues
+12
+Pull requests
+7
+Actions
+Projects
+0
+Security
+Insights
+Additional navigation options
+Code
+Issues
+Pull requests
+Actions
+Projects
+Security
+Insights
+File tree
+1
+file
+changed
++
+14
+-
+26
+lines changed
+Top
+PRIVACY.md
+1 file changed
++14
+-26
+lines changed
+Original file line number
+Diff line number
+Diff line change
+@@ -1,38 +1,26 @@
+1
+-
+#
+Snapdrop
+for Android Privacy Policy
+1
++
+#
+PairDrop
+for Android Privacy Policy
+2
+2
+3
+-
+"
+Snapdrop
+for Android" is an open
+source project
+which pursues the goal of providing
+an easy-to-use cross-platform file
+sharing solution
+, which is integrated
+well
+into
+the Android™ system.
+3
++
+"
+PairDrop
+for Android" is an open
+-
+source project
+designed to provide
+an easy-to-use
+,
+cross-platform file
+-
+sharing solution
+that integrates
+well
+with
+the Android™ system.
+4
+4
+5
+-
+To be able to provide our services, the app is powered
+by the
+open-source web
+app
+https://
+snapdrop
+.net
+(Hereinafter simply called "Snapdrop").
+5
++
+Unlike standalone services, our app does not have its own backend or servers. Instead, it relies entirely on web-based services selected
+by the
+user within the
+app
+(e.g.
+https://
+pairdrop
+.net
+/
+by default). Because of this, the privacy and security of your data depend on the specific website you choose to use. We strongly recommend that users review the privacy policy of the selected web service before using it.
+6
+6
+7
+-
+##
+Server
+connections
+7
++
+##
+Server
+Connections
+8
+8
+9
+-
+To
+allow discovering of other devices running Snapdrop in
+your local network, the app
+makes requests
+to the
+Snapdrop server while the app is being executed in the foreground. The server will progress
+your public IP address
+and will
+create a "room" for
+every IP. If you open Snapdrop on multiple
+devices in the same network
+, they will share the same public IP and room, and will therefore "see" each other. However, none of your data will be stored permanently on any server. The data
+is
+only kept in RAM for the time the app is opened.
+9
++
+To
+enable device discovery on
+your local network, the app
+connects
+to the
+chosen web-based service. For example, if you use
+https://pairdrop.net/
+,
+your public IP address
+is temporarily processed to
+create a
+shared
+"room" for
+all
+devices in the same network
+. Any information handled by the web service
+is
+subject to its own privacy policy.
+10
+10
+11
+-
+##
+Users rights
+11
++
+##
+User Rights
+12
+12
+13
+-
+We cannot provide you an option to delete your user data, because we simply store nothing permanently. All data we process is required for the service to work and is used for nothing else than as described here. We do not share any personal data with third parties.
+14
+-
+If you don't want to use our app any longer, just uninstall the app from your device. This will delete all app data (except user files which where received).
+13
++
+Since we do not operate our own servers or store any user data, we cannot provide options to delete your information. If you want to stop using the app, simply uninstall it from your device. Any files received through the app will remain on your device until you manually delete them.
+15
+14
+16
+-
+##
+Permissions
+15
++
+##
+Permissions
+17
+16
+18
+-
+This app requires storage access on your device. This permission is necessary for using this app, if you want to share (send) and receive (download) files. We will not process your files (even not locally!), except the ones you have explicitly selected for sharing.
+19
+-
+Furthermore, the app can read the WiFi state. This status info is only progressed locally and will not leave your device.
+17
++
+The app requires the following permissions:
+20
+18
+21
+-
+##
+Progressed data
+19
++
+-
+**
+Storage Access:
+**
+Necessary for sending and receiving files on some Android versions. We do not process your files beyond what is explicitly selected for sharing.
+20
++
+-
+**
+WiFi State Access:
+**
+Used only locally to check network conditions and is not transmitted outside your device.
+22
+21
+23
+-
+The following data will be progressed and is visible for other devices ("peers") in the same network:
+24
+-
+-
+A randomly generated UUID
+25
+-
+-
+A pseudo random user displayable device identifier generated out of the UUID
+26
+-
+-
+The device model name (or a custom name if set)
+22
++
+##
+Support Email
+27
+23
+28
+-
+When you select files to share with a specific peer, a WebRTC connection will be established. WebRTC needs a server for establishing the connection, but the server is not involved in the file transfer itself. None of your files are ever sent to any server, but are transferred directly peer-to-peer between your devices inside your local network. Furthermore, WebRTC encrypts all files on transmission, so nobody could read them anyway.
+24
++
+For support inquiries, you can contact us at:
+**
+snapdrop-android
+[
+at
+]
+googlegroups.com
+**
+29
+25
+30
+-
+##
+Exceptions
+31
+-
+32
+-
+In addition, this app allows configuring a custom snapdrop server instance. However, we cannot guarantee about the privacy of third party snapdrop instances you have configured.
+33
+-
+34
+-
+##
+Support email
+35
+-
+36
+-
+We provide you our support email address: snapdrop-android
+[
+at
+]
+googlegroups.com
+37
+-
+38
+-
+All emails sent to that address will automatically be forwarded to our core developers. We do not share your emails with third parties. Support emails aren't deleted automatically by default. If you want, that we delete your previous emails, please let us know.
+26
++
+Emails sent to this address will be forwarded to our core developers. We do not share your emails with third parties. Emails are not automatically deleted, but you can request removal by contacting us.
+0
+commit comments
+Comments
+0
+(
+0
+)
+Please
+sign in
+to comment.
+You can’t perform that action at this time.

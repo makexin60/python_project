@@ -1,0 +1,211 @@
+Home
+/ K-9 Mail Privacy Notice
+K-9 Mail Privacy Notice
+Last updated February 12, 2025
+The Thunderbird Desktop, Thunderbird for Android, and K-9 Mail applications (together, “Thunderbird”) allow users to privately integrate and manage their online communications. K-9 Mail is a variant of Thunderbird for Android. All references to “Thunderbird” or “Thunderbird for Android” apply equally to K-9 Mail.
+This Privacy Notice explains what data Thunderbird collects and shares, and why. We also adhere to the
+Mozilla Privacy Policy
+for how we receive, handle, and share information.
+This privacy notice is for the most recent general release version of Thunderbird distributed by MZLA Technologies Corporation (a subsidiary of Mozilla Foundation). If you obtain Thunderbird elsewhere, or are running an older version, your copy of Thunderbird may contain different privacy characteristics.
+Thunderbird Collects Data To:
+Improve Performance, Stability, and Functionality For Our Users
+Thunderbird sends telemetry about your interactions with Thunderbird to us. There are two types of telemetry data: interaction data and technical data.
+Interaction data
+: Thunderbird receives measurements about how you use Thunderbird and how well it’s working, such as, whether calendars and filters are being used, and how many email accounts a user has.
+Technical data
+: Thunderbird also receives environment data from your device, such as, application version, hardware configuration, device operating system, and language preference. When Thunderbird sends technical data to us, your IP address is temporarily collected as part of our server logs.
+We use this information to make better decisions on which features should remain included or need to be changed, identify improvements for new features we implement, and find other ways to improve Thunderbird for all our users. Read the telemetry documentation for
+Thunderbird Desktop
+or
+Thunderbird for Android
+to learn how to opt-out of this data collection. Mozilla’s
+data dictionary
+contains information on some of the data points collected.
+Set-Up, Configure, and Process Your Email
+Thunderbird collects your email domain and other technical data to set-up and configure your email account. Other information, like your name, your email messages, and your account’s address book are stored and processed locally on your device and never sent to us. Learn more
+here
+.
+Email domain
+: Thunderbird receives your email address domain. Your full email address is never processed or stored on our servers (unless you choose to share it when you send a crash report).
+Sending Email
+: When using Thunderbird to send an email, you can choose recipients from your contacts. You may optionally attach data such as photos, videos, and audio files to your message. This data is exchanged via your email server between you and the recipient of your email and is never shared with us.
+Technical data
+: Thunderbird also receives information about the application’s version and device operating system. When Thunderbird sends technical data to us, your IP address is temporarily collected as part of our server logs.
+Set Up and Configure Your Calendar (Desktop Only)
+Thunderbird collects the domain for your email/calendar, as well as technical data to set up and configure your calendar. Other information, like your name, your calendar events, and event attendees are stored and processed locally on your computer and never sent to us. If you are using a remote calendar such as Google, Microsoft, or Apple, calendar content is solely shared with the respective calendar provider and anyone you specifically choose to send appointments to. Calendar contents and personal data are used only to display and enable you to use your calendar in Thunderbird.
+Set Up and Schedule Calendar Appointments with Thunderbird Appointment
+With Thunderbird Appointment, you can allow others to schedule appointments on your calendar.
+You can connect your Google, Microsoft, or Apple calendar to Thunderbird Appointment to assist with scheduling.
+If you choose to connect your Apple Calendar, Microsoft 365, or Google Calendar to Thunderbird Appointment, we will receive basic information about your calendar invites such as the title, date, stated location, the name and emails of the attendees, and any text in the appointment to display them within Thunderbird Appointment and allow you to invite others to schedule time in your calendar. We will receive technical and interaction data about your interactions with this feature such as how many events you create, whether you have connected to a Google, Microsoft, or Apple account.
+We will only use your data to provide and improve the Thunderbird Appointment service.
+Review Crash Reports
+Thunderbird Desktop
+If Thunderbird crashes, we will ask you to share a report with more detailed information about the crash, but you always have the choice to decline. Thunderbird uses the information in the crash report to diagnose and correct the problem that caused the crash.
+Sensitive data
+: Crash reports include a “dump file” of Thunderbird’s memory contents at the time of the crash, which may contain data that identifies you or is otherwise sensitive to you.
+Webpage data
+: Crash reports include any active URLs at time of crash.
+Add-on data
+: Crash reports include a list of all add-ons that you were using at the time of the crash, and the time since: the start-up of the program, the last crash, and the last install.
+Technical data
+: Crash reports include data on why Thunderbird crashed and the state of device memory and execution during the crash. When Thunderbird sends technical data to us, your IP address is temporarily collected as part of our server logs.
+Email address
+: If you choose, crash reports include your email address.
+Read the full documentation
+here
+.
+Thunderbird for Android
+Google collects crash reports for all Android apps installed via the Play Store. These reports are accessible to us, together with other analytics automatically collected by Google.
+Improve Security for Our Users Everywhere
+Technical data for updates
+: To ensure you have the most up-to-date version of the product, Thunderbird Desktop checks for updates by periodically connecting to Thunderbird’s servers. Your application version, language, and device operating system are used to apply the correct updates.
+Learn more
+.
+Technical data for add-ons blocklist
+: To help to protect you from any malicious add-ons, Thunderbird Desktop periodically checks for blocklisted add-ons. Your Thunderbird version and language, device operating system, and list of installed add-ons are needed to apply and update the add-ons blocklist.
+Learn more
+.
+Install and Update Add-Ons (Desktop Only)
+You can install add-ons for Thunderbird Desktop from addons.thunderbird.net or from the Thunderbird Add-ons Manager, which is accessible by clicking on Tools > Add-ons. To keep your installed add-ons up to date—like add-on descriptions, download counts, and ratings—the Thunderbird application periodically connects to our servers to install any updates.
+Search queries
+: If you enter keywords into the search field for the Add-ons Manager, those keywords will be sent to Thunderbird to perform the search.
+Interaction data
+: We receive aggregate data about visits to the Thunderbird website and the Add-ons Manager in Thunderbird, as well as interactions with content on those pages. Read about data practices on
+Mozilla websites
+.
+Technical data for updates
+: Thunderbird periodically connects to our server to install updates to add-ons. Your installed add-ons, application version, language, and device operating system are used to apply the correct updates. When Thunderbird sends technical data to us, your IP address is temporarily collected as part of our server logs.
+Use of OAuth Information
+OAuth is a secure authorization protocol that allows third-party applications to access resources without sharing login credentials. Thunderbird uses OAuth to connect with certain email or calendar providers that mandate or prefer its use, such as Google, Yahoo and Microsoft.
+OAuth authentication and user data synchronization occur directly between Thunderbird and the respective service provider over an encrypted connection, without involving any Mozilla-operated services. Mozilla does not collect, access, retain, or store any sensitive information exchanged during this process.
+Data protection on your device:
+Login credentials are not stored on your device; instead, they are exchanged for OAuth tokens. These tokens, along with your email and calendar data, are secured within the application sandbox (on Android) or confined within your user profile (on Desktop). Additional security measures such as operating system level full disk encryption increase the security of your data.
+Email and calendar data reside solely on your device for the duration required to operate Thunderbird. This includes sensitive user data associated with your Apple Calendar, Microsoft 365 or Google Calendar.
+Thunderbird does not share OAuth tokens, email contents, calendar events, contact lists, or account details with third parties, except as necessary to provide the services requested by the user (e.g., sending an email or scheduling a calendar event).
+Retention and deletion:
+OAuth tokens are stored only as long as necessary to maintain the authorized connection.
+When you remove an account, all associated sensitive user data and OAuth tokens are immediately deleted from your device.
+On Thunderbird Desktop, the OAuth tokens are retained until manually deleted in the password manager.
+If you revoke Thunderbird’s access to your account via your OAuth provider’s account settings (e.g., Google security settings), Thunderbird will be unable to refresh the connection. Locally stored data will remain on your device until you remove the account from Thunderbird.
+Thunderbird May Disclose Information To:
+Mozilla Affiliates
+: Thunderbird is a project of MZLA Technologies Corporation, a subsidiary of Mozilla Foundation and an affiliate of Mozilla Corporation, and as such, shares some of the same infrastructure. This means that, from time to time, your data (e.g., crash reports, and technical and interaction data) may be disclosed to Mozilla Corporation and Mozilla Foundation. If so, it will be maintained in accordance with the commitments we make in this Privacy Notice.
+DNS servers, Standard Autoconfiguration URIs, and Mozilla’s Configuration Database
+: To simplify the email set-up process, Thunderbird tries to determine the correct settings for your account by contacting Mozilla’s configuration database as well as external servers. These include DNS servers and standard autoconfiguration URIs. During this process, your email domain may be sent to Mozilla’s configuration database, and your email address may be disclosed to your network administrators.
+Amazon Web Services
+: Thunderbird uses Amazon Web Services (AWS) to host its servers and as a content delivery network. Your device’s IP address is collected as part of AWS’s server logs.
+Email address providers (Desktop Only Legacy)
+: Prior to version 128, Thunderbird partnered with Gandi.net and Mailfence to allow you to create a new email address through Thunderbird. If you choose to use this feature, your email address search terms are sent to Gandi.net and Mailfence to return available addresses. In addition, your country location is also shared to provide the correct prices. You can learn more about
+Gandi.net’s
+and
+Mailfence’s
+data practices by reading their privacy notices.
+Contact Us
+If you want to make a correction to your information, or you have any questions about our privacy policies, please get in touch with:
+MZLA Technologies Corporation
+Attn: Mozilla - Privacy
+149 New Montgomery St, 4th Floor,
+San Francisco, CA 94105
+USA
+compliance@mozilla.com
+See here for Data Subject Access Requests
+. If you are under 13, we don’t want your personal information, and you must not provide it to us. If you are a parent and believe that your child who is under 13 has provided us with personal information, please contact us to have your child’s information removed.
+For product support requests, please
+visit our forums
+.
+Sub-section Policy: 
+Sub-policy 0
+https://www.mozilla.org/privacy/:
+Help us improve your Mozilla experience
+In addition to Cookies necessary for this site to function, we’d like your permission to set some additional Cookies to better understand your browsing needs and improve your experience. Rest assured — we value your privacy.
+Accept All Additional Cookies
+Reject All Additional Cookies
+Cookie settings
+Menu
+Firefox browsers
+Close Firefox browsers menu
+Firefox for Desktop
+Firefox for iOS
+Firefox for Android
+Firefox Focus
+Firefox blog
+Products
+Close Products menu
+Mozilla VPN
+Mozilla Monitor
+Firefox Relay
+Pocket
+MDN Plus
+Fakespot
+Thunderbird
+All products
+About us
+Close About us menu
+Our Mission
+About Mozilla
+The Mozilla Manifesto
+Get Involved
+Innovation Projects
+Blog
+Our Work
+Mozilla Foundation
+Mozilla.ai
+Mozilla Ventures
+Mozilla Advertising
+Mozilla Builders
+What do we mean by "personal information?"
+For us, "personal information" means information which either directly identifies you (like your name, email address, or billing information) or can be reasonably linked or combined to identify you (like an account identification number or IP address). We’ll always tell you what personal information we’re collecting from you. See each product’s Privacy Notice for specific details.
+Any information that falls outside of this is "non-personal information."
+If we store your personal information with information that is non-personal, we will consider the combination as personal information. If we remove all personal information from a set of data then the remaining is non-personal information.
+How do we learn information about you?
+We learn information about you when:
+you give it to us directly (e.g., when you choose to send us crash reports);
+we collect it automatically through our products and services (e.g., when your Firefox browser checks with us to see if it is up to date);
+someone else tells us information about you (e.g., when Thunderbird works with your email providers to set up your account); or
+when we try and understand more about you based on information you've given to us (e.g., when we use your IP address to customize language for some of our services).
+What do we do with your information once we have it?
+When you give us information, we will use it in the ways for which you've given us permission. Generally, we use your information to help us provide and improve our products and services for you.
+For users in the EU, EEA, Switzerland, and California: see
+here
+for more information.
+When do we share your information with others?
+When we have asked and received your permission to share it.
+For processing or providing products and services to you, but only if those entities receiving your information are contractually obligated to handle the data in ways that are approved by Mozilla.
+When we are fulfilling our
+mission of being open
+. We sometimes release information to make our products better and foster an open web, but when we do so, we will remove your personal information and try to disclose it in a way that minimizes the risk of you being re-identified.
+When the law requires it. We follow the law whenever we receive requests about you from a government or related to a lawsuit. We'll notify you when we're asked to hand over your personal information in this way unless we're legally prohibited from doing so. When we receive requests like this, we'll only release your personal information if we have a good faith belief that the law requires us to do so. Nothing in this policy is intended to limit any legal defenses or objections that you may have to a third party's request to disclose your information.
+When we believe it is necessary to prevent harm to you or someone else. We will only share your information in this way if we have a good faith belief that it is reasonably necessary to protect the rights, property or safety of you, our other users, Mozilla or the public.
+If our organizational structure or status changes (if we undergo a restructuring, are acquired, or go bankrupt) we may pass your information to a successor or affiliate.
+How do we store and protect your personal information?
+We are committed to protecting your personal information once we have it. We implement physical, business and technical security measures. Despite our efforts, if we learn of a security breach, we'll notify you so that you can take appropriate protective steps.
+We also don't want your personal information for any longer than we need it, so we only keep it long enough to do what we collected it for. Once we don't need it, we take steps to destroy it unless we are required by law to keep it longer.
+What if we change this privacy policy or any of our privacy notices?
+We may need to change this policy and our notices.  The updates will be posted online. If the changes are substantive, we will announce the update through Mozilla's usual channels for such announcements such as blog posts and forums. Your continued use of the product or service after the effective date of such changes constitutes your acceptance of such changes. To make your review more convenient, we will post an effective date at the top of the page.
+Menu
+Mozilla Privacy
+Mozilla Privacy
+Mozilla Websites, Communications & Cookies
+Mozilla Accounts
+Mozilla Subscription Services
+Firefox Browser
+Firefox Focus
+Thunderbird
+MDN Plus
+Data Privacy Principles
+Mozilla’s
+Data Privacy Principles
+inspire our practices that respect and protect people who use the internet. Learn how these principles shape Firefox and all of our products in this
+FAQ
+Transparency Report
+As an open source project, transparency and openness are an essential part of Mozilla’s founding principles. Our codebases are open and auditable. Our development work is open. Our bi-annual
+Transparency Report
+also demonstrates our commitment to these principles.
+Get Involved
+To review and comment on proposed changes to our privacy policies,
+subscribe to Mozilla’s governance group
+.
+Read more about our ongoing privacy and security public policy work on
+Mozilla’s Open Policy and Advocacy Blog
+.
+Outdated Policies

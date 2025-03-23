@@ -1,0 +1,1177 @@
+Paku Privacy Policy
+Personal Information
+Paku’s app developer cares deeply about your privacy. Paku doesn’t collect any personal information.
+Location
+Paku uses the location services of your device to determine which AQI values to display. The location data never leaves your device, and is not included in analytics.
+When you add a private sensor to Paku, the location of that sensor is reported to us by PurpleAir. That location is stored on our servers so that the application can display the sensor on the map (just like public sensors). The location may be revealed to other users, in the form of the sensor appearing on the map, or through our API. If you’re uncomfortable with the location of your private sensor being used this way, you should not add the private sensor to Paku.
+Analytics
+Paku uses TelemetryDeck to collect anonymous usage data, such as app launches. By using Paku, you are subject to
+TelemetryDeck’s Privacy Policy
+. Paku also uses Bugsnag to collect anonymous debugging information when the application crashes. By using Paku, you are subject to
+Bugsnag’s Privacy Policy
+. Apple may also send anonymous analytics information to the developer.
+PurpleAir
+Paku uses PurpleAir sensor data. By using Paku, you are subject to
+PurpleAir’s Privacy Policy
+. Your location is never sent to PurpleAir.
+RevenueCat
+Paku uses RevenueCat to manage subscriptions. By using Paku, you are subject to
+RevenueCat’s Privacy Policy
+.
+Updates
+This policy may be updated at any time. You should check this page occasionally to ensure you are familiar with any changes.
+Contact
+If you have questions or complaints concerning your data or this privacy policy, please email
+support@paku.app
+.
+Last updated March 2, 2023
+Made with
+♥
+in Portland
+Sub-section Policy: 
+Sub-policy 0
+https://telemetrydeck.com/privacy/:
+This document has last been updated March 4, 2024
+TelemetryDeck was designed from the ground up with privacy in mind. An important principle of TelemetryDeck is to only save the least amount of data it absolutely needs, and to not save any data that can be used to identify specific users' identities.
+That is why the
+TelemetryDeck Client code
+is completely open source, so that users and developers can see for themselves the data that TelemetryDeck saves.
+TelemetryDeck has never installed any law enforcement software or equipment anywhere on our network.
+Data Transmitted
+Any data that is transmitted to the analytics server consists of the following:
+An anonymized user identifier. The identifier is constant for each app install but cannot be traced back to any personally identifiable information.
+An action taken, such as “App Launched” or “Settings Opened”. The developer defines these actions.
+A time stamp when the action was taken.
+Device metadata, namely platform, system version, app version, build number, if the build was downloaded via App Store or TestFlight, and the device model type (i.e., iPhone X, iPad Air, or iPhone 12).
+Additional metadata as defined by the developer, such as “Number of Items in the Database” or “Setting X is enabled”. Developers should note this metadata in their own privacy policy.
+For Web SDK API requests, we look at the first 3 triplets of incoming IP addresses in order to determine a possible country the request came from.
+IP addresses are never stored on the TelemetryDeck Server, neither in the database nor in any log files, nor at any other place.
+Terms Used
+A
+developer
+is a person who creates or maintains an app which includes the TelemetryDeck Client code. They are responsible for making sure they only hand anonymized data to the TelemetryDeck Client.
+The
+TelemetryDeck Client
+is the code that transmits data to the TelemetryDeck Server. It can be viewed on
+GitHub
+in its entirety.
+A
+user
+is a person who uses any app created by a
+developer
+. It is our job to make sure their data stays safe.
+A
+signal
+is one instance of data sent from the app to the TelemetryDeck Server using the TelemetryDeck Client.
+TelemetryDeck Viewer
+is the app that developers use to see signal data, both raw and in aggregated form, as
+Insights
+.
+User Identifiers
+Developers have three choices on how to identify users. They should note which they are using in their app's privacy policy:
+Using no user identifier at all. This will give them the greatest piece of mind, while still allowing TelemetryDeck to help them out with statistical analysis.
+Using Apple's “IdentifierForVendor” API. This is the default behaviour for TelemetryDeck. The identifier generated out with this method has no relation to any of the user's identifiable information or private data. Deleting and reinstalling the app will generate a new identifier and sever any connection to the old one.
+Using a custom string identifier, such as the user's username or email address. This string will never be transferred directly to the server. Instead, the TelemetryDeck Client will create a hash out of that string and only ever transmit that hash. This allows TelemetryDeck to detect the same user on multiple devices, but it is impossible for both the developer and any person having access to TelemetryDeck's database to retrieve the original custom string identifier.
+Metadata
+Developers can include any metadata they wish with signals they send using TelemetryDeck Client. They are urged to not send any data that might identify their users. They must include the types of data they send in their own apps' privacy policies.
+Using TelemetryDeck Viewer
+Developers using the TelemetryDeck Viewer app are sending signals to the TelemetryDeck Server as well. These do not contain any user data. The types of data are:
+App was launched
+Which part of the app was navigated to?
+Standard metadata: platform, system version, app version, build number, if the build was downloaded via App Store or TestFlight, and the device model type (i.e. iPhone X, iPad Air, or iPhone 12).
+Our Customers and Prospects
+We use the integrated software solution Hubspot for managing the address and contact data (contact management) of our customers and prospects. The service provider is HubSpot Inc., a software company from the USA (Hubspot, Inc. 25 First Street Cambridge, MA 02141 USA).
+We use Hubspot to document appointments and agreements, as well as to evaluate our activities in the sales area. Personal data such as name, email address, phone numbers, business addresses, and the content of business communication may be processed.
+The legal basis for processing in the context of contacting for the conclusion or performance of a contract is Art. 6 para. 1 lit. b GDPR or Art. 6 para. 1 lit. f GDPR. Our legitimate interest lies in the use for the purpose of the CRM system as contact management.
+Data will be deleted as soon as they are no longer required for their intended purpose and there are no legal retention obligations, e.g. for data that must be kept for commercial or tax reasons. In accordance with legal requirements in Germany, storage may be necessary for up to 10 years due to commercial and tax regulations. We delete prospect data within a reasonable period of time, within which no more contract conclusion or the like is to be expected.
+The data of TelemetryDeck GmbH is stored in European data centers by Hubspot. However, personal data may be transferred to the USA and other third countries where HubSpot subsidiaries are located. HubSpot meets the minimum requirements for legally compliant order data processing by concluding the EU standard data protection clauses. We have concluded a contract for order processing (Data Processing Agreement, DPA) with HubSpot.
+Further information on data processing by Hubspot can be found at:
+https://legal.hubspot.com/privacy-policy
+.
+Newsletter
+You have the option to subscribe to the newsletter offered on our website. If you would like to receive the newsletter, we require an e-mail address from you as well as information that allows us to verify that you are the owner of the specified e-mail address and agree to receive the newsletter. For this purpose, we use the so-called double opt-in procedure: After your registration, you will receive an e-mail to the specified e-mail address, in which we ask for confirmation of the registration.
+The following information is then saved with the confirmation:
+E-mail address
+Date of subscription
+Activity (delivered, opened, clicked)
+For customers who subscribe to our newsletter when opening an account, the following information is also stored:
+First name
+Last name
+Country
+Organization
+Further data is not collected or only on a voluntary basis. We use this data exclusively for sending the requested information and for proving your registration.
+Your consent is the exclusive basis for processing the data provided in the newsletter registration form (Art. 6 para. 1 lit. a GDPR). You can revoke your consent to the storage of the data, the e-mail address and their use for sending the newsletter at any time by unsubscribing from the newsletter, for example via the “unsubscribe” link in the newsletter. The legality of the data processing operations carried out up to that point remains unaffected by the revocation.
+Please note that unsubscribing from our newsletter list does not result in the deletion of your data. If you wish to delete your personal data from Mailjet, please inform us informally by e-mail.
+Mailjet
+Newsletters and customer information are sent via the service provider Mailjet. The provider is Sinch AB Lindhagensgatan 74 Stockholm, 112 18 Sweden. The data is stored in secure data centers located exclusively in the European Union, with Google Cloud Platform in Frankfurt (Germany) and St. Ghislain (Belgium).
+Mailjet is a service that, among other things, organizes and analyzes the sending of newsletters and customer information. Mailjet processes the following information on our behalf regarding the status of the subscription (subscribed, unsubscribed) as well as the status of the newsletters (delivered, opened, clicked and the exact button or link).
+For more information about Mailjet, please visit
+Mailjet's privacy policy
+.
+Sub-policy 1
+https://smartbear.com/privacy/:
+About cookies on this site
+We use cookies to collect and analyze information on site performance and usage, to provide social media features and to enhance and customize content and advertisements.
+Learn more
+Cookie settings
+Allow all cookies
+❮
+❯
+Categories
+Cookie declaration
+Cookies used on the site are categorized and below you can read about each category and allow or deny some or all of them. When categories than have been previously allowed are disabled, all cookies assigned to that category will be removed from your browser.
+Additionally you can see a list of cookies assigned to each category and detailed information in the cookie declaration.
+Learn more
+Allow all cookies
+Deny all
+
+Necessary cookies
+Some cookies are required to provide core functionality. The website won't function properly without these cookies and they are enabled by default and cannot be disabled.
+CookieHub
+CookieHub is a Consent Management Platform (CMP) which allows users to control storage and processing of personal information.
+Privacy Policy
+cookiehub
+Cloudflare
+Cloudflare is a global network designed to make everything you connect to the Internet secure, private, fast, and reliable.
+__cf_bm
+__cf_bm
+__cf_bm
+__cf_bm
+Amazon Web Services
+Amazon Web Services offers a broad set of global cloud-based products including compute, storage, databases, analytics, networking, mobile, developer tools, management tools, IoT, security, and enterprise applications.
+AWSALB
+Shopify
+Shopify is an eCommerce platform that allows businesses to create, manage, and scale online stores.
+secure_customer_sig
+cart_currency
+_shopify_y
+_orig_referrer
+_landing_page
+_shopify_s
+_shopify_sa_t
+_shopify_sa_p
+shopify_pay_redirect
+Microsoft ASP.Net
+ASP.NET is an open source web framework, created by Microsoft, for building modern web apps and services.
+Privacy Policy
+ASP.NET_SessionId
+ASP.NET_SessionId
+Marketo
+Privacy Policy
+_mkto_trk
+Google reCaptcha
+Google reCaptcha enables web hosts to distinguish between human and automated access to websites.
+Privacy Policy
+_GRECAPTCHA
+
+Preferences
+Preference cookies enables the web site to remember information to customize how the web site looks or behaves for each user. This may include storing selected currency, region, language or color theme.
+Zendesk
+AWSALBCORS
+Drift
+Privacy Policy
+drift_campaign_refresh
+drift_aid
+driftt_aid
+
+Analytical cookies
+Analytical cookies help us improve our website by collecting and reporting information on its usage.
+Google Analytics
+Google Analytics is a web analytics service offered by Google that tracks and reports website traffic.
+Privacy Policy
+_gid
+_ga_*
+_ga
+test_cookie
+_ga
+_gid
+
+Marketing cookies
+Marketing cookies are used to track visitors across websites to allow publishers to display relevant and engaging advertisements. By enabling marketing cookies, you grant permission for personalized advertising across various platforms.
+Google Ads
+Google Ads is an advertising service by Google for businesses that want to display ads on Google search results and its advertising network.
+Privacy Policy
+_gcl_au
+IDE
+test_cookie
+Facebook Pixel
+A piece of code that lets businesses measure, optimise and build audiences for advertising campaigns.
+Privacy Policy
+_fbp
+LinkedIn Insight
+The LinkedIn Insight tag powers conversion tracking, website audiences, and website demographics within the LinkedIn system.
+Privacy Policy
+bcookie
+lidc
+li_gc
+AnalyticsSyncHistory
+UserMatchHistory
+bscookie
+Microsoft Ads
+Microsoft Advertising (formerly Bing Ads) is a service that provides pay per click advertising on the Bing, Yahoo!, and DuckDuckGo search engines.
+Privacy Policy
+MUID
+MSPTC
+_uetsid
+_uetvid
+Twitter
+Twitter is an online news and social networking site where people communicate in short messages called tweets.
+muc_ads
+guest_id_marketing
+guest_id_ads
+personalization_id
+guest_id
+6sense
+Privacy Policy
+_an_uid
+_gd_visitor
+_gd_session
+Convert
+Privacy Policy
+_conv_v
+_conv_s
+
+Other cookies
+The cookies in this category have not yet been categorized and the purpose may be unknown at this time.
+Cookies used on the site are categorized and below you can read about each category and allow or deny some or all of them. When categories than have been previously allowed are disabled, all cookies assigned to that category will be removed from your browser.
+Additionally you can see a list of cookies assigned to each category and detailed information in the cookie declaration.
+Learn more
+Some cookies are required to provide core functionality. The website won't function properly without these cookies and they are enabled by default and cannot be disabled.
+Necessary cookies
+Name
+Hostname
+Vendor
+Expiry
+CMSCsrfCookie
+smartbear.com
+Session
+These cookies are linked to advertising and tracking the products users were looking at.
+ASP.NET_SessionId
+smartbear.com
+Microsoft
+Session
+Used by Microsoft ASP.Net web applications to maintain anonymous user's session state between page views
+sbcart
+smartbear.com
+31 days
+Used to remember which products are in the shopping cart
+_mkto_trk
+.smartbear.com
+Marketo, Inc.
+400 days
+This cookie is associated with an email marketing service provided by Marketo. This tracking cookie allows a website to link visitor behavior to the recipient of an email marketing campaign, to measure campaign effectiveness.
+__cf_bm
+.www2.smartbear.com
+Cloudflare, Inc.
+1 hour
+The __cf_bm cookie supports Cloudflare Bot Management by managing incoming traffic that matches criteria associated with bots. The cookie does not collect any personal data, and any information collected is subject to one-way encryption.
+BIGipServer
+www2.smartbear.com
+Session
+Cookie used for connection persistence and routing the request to proper server in server pool
+LiSESSIONID
+community.smartbear.com
+Session
+LithiumVisitor
+community.smartbear.com
+182 days, 16 hours
+AWSALB
+community.smartbear.com
+7 days
+Amazon Web Services cookie. This cookie enables us to allocate server traffic to make the user experience as smooth as possible. A so-called load balancer is used to determine which server currently has the best availability. The information generated cannot identify you as an individual.
+AWSALBCORS
+community.smartbear.com
+Zendesk
+7 days
+Amazon Web Services cookie. This cookie enables us to allocate server traffic to make the user experience as smooth as possible. A so-called load balancer is used to determine which server currently has the best availability. The information generated cannot identify you as an individual.
+__cf_bm
+.post.getzephyr.com
+Cloudflare, Inc.
+1 hour
+The __cf_bm cookie supports Cloudflare Bot Management by managing incoming traffic that matches criteria associated with bots. The cookie does not collect any personal data, and any information collected is subject to one-way encryption.
+cookiehub
+.smartbear.com
+CookieHub
+365 days
+Used by CookieHub to store information about whether visitors have given or declined the use of cookie categories used on the site.
+__cf_bm
+.smartbear.com
+Cloudflare, Inc.
+1 hour
+The __cf_bm cookie supports Cloudflare Bot Management by managing incoming traffic that matches criteria associated with bots. The cookie does not collect any personal data, and any information collected is subject to one-way encryption.
+ASP.NET_SessionId
+support.smartbear.com
+Microsoft
+Session
+Used by Microsoft ASP.Net web applications to maintain anonymous user's session state between page views
+secure_customer_sig
+swag.smartbear.com
+365 days
+Used by Shopify in connection with customer login.
+localization
+swag.smartbear.com
+365 days
+This cookie is used to store an interface language.
+cart_currency
+swag.smartbear.com
+14 days
+Used by Shopify to show the content of your cart in the right currency
+shopify_pay_redirect
+swag.smartbear.com
+1 hour
+Used by Shopify in connection with checkout
+_tracking_consent
+.smartbear.com
+365 days
+Used by Shopify to store a user's preferences if a merchant has set up privacy rules in the visitor's region.
+__cf_bm
+.t.co
+Cloudflare, Inc.
+1 hour
+The __cf_bm cookie supports Cloudflare Bot Management by managing incoming traffic that matches criteria associated with bots. The cookie does not collect any personal data, and any information collected is subject to one-way encryption.
+_GRECAPTCHA
+www.google.com
+Google
+180 days
+Used by Google reCaptcha for risk analysis
+Preference cookies enables the web site to remember information to customize how the web site looks or behaves for each user. This may include storing selected currency, region, language or color theme.
+Preferences
+Name
+Hostname
+Vendor
+Expiry
+CMSPreferredCulture
+smartbear.com
+365 days
+lidc
+.linkedin.com
+LinkedIn Ireland Unlimited Company
+1 day
+Used by LinkedIn for routing.
+li_gc
+.linkedin.com
+LinkedIn Ireland Unlimited Company
+180 days
+Used by LinkedIn to store consent of guests regarding the use of cookies for non-essential purposes
+Analytical cookies help us improve our website by collecting and reporting information on its usage.
+Analytical cookies
+Name
+Hostname
+Vendor
+Expiry
+_gid
+.smartbear.com
+Google
+1 day
+Contains a unique identifier used by Google Analytics to determine that two distinct hits belong to the same user across browsing sessions.
+_ga_
+.smartbear.com
+Google
+400 days
+Contains a unique identifier used by Google Analytics 4 to determine that two distinct hits belong to the same user across browsing sessions.
+bcookie
+.linkedin.com
+LinkedIn Ireland Unlimited Company
+365 days
+This is a Microsoft MSN 1st party cookie for sharing the content of the website via social media.
+_ga
+.smartbear.com
+Google
+400 days
+Contains a unique identifier used by Google Analytics to determine that two distinct hits belong to the same user across browsing sessions.
+mktLP
+.smartbear.com
+Session
+userId
+smartbear.com
+400 days
+_ga
+.support.smartbear.com
+Google
+400 days
+Contains a unique identifier used by Google Analytics to determine that two distinct hits belong to the same user across browsing sessions.
+_gid
+.support.smartbear.com
+Google
+1 day
+Contains a unique identifier used by Google Analytics to determine that two distinct hits belong to the same user across browsing sessions.
+_shopify_y
+.smartbear.com
+365 days, 6 hours
+Shopify analytics.
+_orig_referrer
+.smartbear.com
+14 days
+Used by Shopify to track landing pages.
+_landing_page
+.smartbear.com
+14 days
+Used by Shopify to track landing pages.
+_shopify_s
+.smartbear.com
+1 hour
+Shopify analytics.
+Marketing cookies are used to track visitors across websites to allow publishers to display relevant and engaging advertisements. By enabling marketing cookies, you grant permission for personalized advertising across various platforms.
+Marketing cookies
+Name
+Hostname
+Vendor
+Expiry
+_gcl_au
+.smartbear.com
+Google Advertising Products
+90 days
+Used by Google AdSense to understand user interaction with the website by generating analytical data.
+_an_uid
+smartbear.com
+6Sense Insights, Inc.
+7 days
+6sense cookie that presents the user with relevant content and advertisement. The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.
+_gd_visitor
+smartbear.com
+6Sense Insights, Inc.
+400 days
+6sense cookie that collects visitor data related to the user’s visit to the website, such as number of visits, average time spent on the website and which pages have been loaded, for the purpose of serving targeted advertisements.
+_gd_session
+smartbear.com
+6Sense Insights, Inc.
+4 hours
+6sense cookie that collects visitor data related to the user’s visit to the website, such as number of visits, average time spent on the website and which pages have been loaded, for the purpose of serving targeted advertisements.
+muc_ads
+.t.co
+Twitter, Inc.
+400 days
+This is a cookie that is set by twitter.com. It is used for optimizing ad relevance by collecting visitor navigation data.
+guest_id_marketing
+.twitter.com
+Twitter, Inc.
+400 days
+guest_id_ads
+.twitter.com
+Twitter, Inc.
+400 days
+This cookie is used by Twitter for advertising when logged out
+personalization_id
+.twitter.com
+Twitter, Inc.
+400 days
+This cookie carries out information about how the end user uses the website and any advertising that the end user may have seen before visiting the said website.
+guest_id
+.twitter.com
+Twitter, Inc.
+400 days
+This cookie is used by Twitter for authentication
+drift_campaign_refresh
+smartbear.com
+Drift.com, Inc.
+1 hour
+Used by Drift to provide Website Chat functionality.
+drift_aid
+smartbear.com
+Drift.com, Inc.
+400 days
+Used by Drift to provide Website Chat functionality.
+driftt_aid
+smartbear.com
+Drift.com, Inc.
+400 days
+This is the anonymous identifier token. It is used to tie the visitor on your website with the profile within the Drift system.
+IDE
+.doubleclick.net
+Google Advertising Products
+390 days
+Used by Google's DoubleClick to serve targeted advertisements that are relevant to users across the web. Targeted advertisements may be displayed to users based on previous visits to a website. These cookies measure the conversion rate of ads presented to the user.
+MUID
+.bing.com
+Microsoft
+390 days
+Microsoft User Identifier tracking cookie used by Bing Ads. It can be set by embedded microsoft scripts. Widely believed to sync across many different Microsoft domains, allowing user tracking.
+_conv_v
+.smartbear.com
+Convert Insights Inc.
+182 days, 12 hours
+Visitor cookie for convert.com, used for A/B testing content in order to improve the website.
+_conv_s
+.smartbear.com
+Convert Insights Inc.
+1 hour
+Session cookie for convert.com, used for A/B testing content in order to improve the website.
+_fbp
+.smartbear.com
+Meta Platforms
+90 days
+Facebook Pixel advertising first-party cookie. Used by Facebook to track visits across websites to deliver a series of advertisement products such as real time bidding from third party advertisers.
+test_cookie
+.doubleclick.net
+Google
+1 hour
+Used to check if the user's browser supports cookies
+MSPTC
+.bing.com
+Microsoft
+390 days
+AnalyticsSyncHistory
+.linkedin.com
+LinkedIn Ireland Unlimited Company
+30 days
+Used by LinkedIn to store information about the time a sync with the lms_analytics cookie took place for users in the Designated Countries
+UserMatchHistory
+.linkedin.com
+LinkedIn Ireland Unlimited Company
+30 days
+Contains a unique identifier used by LinkedIn to determine that two distinct hits belong to the same user across browsing sessions.
+bscookie
+.www.linkedin.com
+LinkedIn Ireland Unlimited Company
+365 days
+Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+_shopify_sa_t
+.smartbear.com
+1 hour
+Shopify analytics relating to marketing & referrals.
+_shopify_sa_p
+.smartbear.com
+1 hour
+Shopify analytics relating to marketing & referrals.
+_uetsid
+.smartbear.com
+Microsoft
+1 day
+This cookie is used by Bing to determine what ads should be shown that may be relevant to the end user perusing the site.
+_uetvid
+.smartbear.com
+Microsoft
+390 days
+Used by Microsoft Advertising to store a unique, anonymized visitor ID to personalize marketing.
+receive-cookie-deprecation
+.adnxs.com
+400 days
+Privacy Sandbox testing cookie to preview how site behavior and functionality work without third-party cookies.
+receive-cookie-deprecation
+.doubleclick.net
+180 days
+Privacy Sandbox testing cookie to preview how site behavior and functionality work without third-party cookies.
+The cookies in this category have not yet been categorized and the purpose may be unknown at this time.
+Other cookies
+Name
+Hostname
+Vendor
+Expiry
+userId
+community.smartbear.com
+400 days
+CMSPreferredCulture
+support.smartbear.com
+365 days
+userId
+swag.smartbear.com
+400 days
+trackalyzer
+lltrck.com
+365 days
+csrf-aurora
+community.smartbear.com
+Session
+CMSCurrentTheme
+smartbear.com
+1 day
+Save settings
+SmartBear Terms of Use
+Website Terms of Use
+Privacy Notice
+Software License and Services Types
+Data Processing Addendum
+Acceptable Use Policy
+Trial Terms of Use
+SmartBear Privacy Notice
+Effective Date: July 8, 2022
+Last Updated: July 8, 2022
+This Privacy Notice (the “Notice”) applies to personal information collected by, or provided to, SmartBear Software Inc., and/or its affiliates and subsidiaries (collectively "SmartBear”, "we", “us", “our") via the websites, applications, and electronic communications from which it is linked (collectively, the “Platform”). This Notice describes how SmartBear uses the personal information that it collects, receives, maintains, and stores about you. This Notice does not apply to Customer Data (as defined in the SmartBear Terms of Use) processed, stored, or hosted by our customers using SmartBear’s products and services. Our customers are responsible for deciding how Customer Data is used, so please see their applicable privacy notice for more information.
+1. Types of personal information Collected
+We may collect personal information from or about you in order to provide, enhance, market, and offer our products and services offered via the Platform, and to otherwise communicate with you. This section describes the categories of personal information we may collect, including personal information we have collected in the past twelve months. You are not required to give us all the personal information identified in this Notice; however, if you do not provide requested personal information, we may not be able to provide you with some or all of our services.
+Contact and Demographic Information –
+name; address (including billing and shipping address); telephone number; email address; and fax number.
+Payment Information
+– If you make a purchase, we will collect your payment information including your credit card information and billing address, together with your purchase details.
+Account Information
+– We may also collect user ID and password, and screen name.
+Location Data
+–While navigating the Platform, your mobile device or browser may share your location data, both through WiFi and GPS, and IP address or MAC address. We will collect this information based on the settings of your phone and browser.
+Usage Information
+– We may also collect usage and device information when you visit the Platform. This may include information relating to your Internet activity or other electronic network activity, which includes device information; web server type and version; PHP version; database type and version; cookie information; device information; browsing activities, and platform or mobile application use data; referring domain; destination domain and destination path; performance, security, software configuration and availability of our software on your servers and network; website user statistics and website and portal use and viewing activity records; and communication preferences.
+Education and Employment Information –
+If you apply for employment with SmartBear, we will collect your employment and work history, as well as personal information related to your potential employment. This may include, but is not limited to, your education and employment history, address and contact information, demographic information, and the contents of your resume.
+Communication Information
+- We may collect audio, electronic, or visual information, which includes screen sharing views; any data in any files uploaded, emailed or otherwise provided by customers; the contents of your communications with SmartBear, whether via email, social media, telephone or otherwise; and inferences we may make from other personal information we collect.
+2. Method of Information Collection
+We collect personal information in a variety of ways. We collect personal information directly from you; for example, when you visit our websites, respond to a survey, participate in a telephone interaction, fill out a registration form or otherwise use our software, or communicate with us through one of our websites to receive information about our business to business services or to schedule a demonstration of our products or programs, and if you expressed interest in being contacted by us at a trade show in which we participated or hosted.
+We may also collect personal information from third parties. For example, we may collect personal information from service providers that help us to build and maintain our contact lists, that integrate their services into ours, or in other ways work with us for our mutual benefit.
+We also collect personal information from you passively. For example, our Platform uses tracking tools like cookies, pixels, and web beacons to collect usage and browser information. For more information about the trackers that we use, please see Section 6 of this Notice. Additionally, if you enable location data on your device, this data will be collected based on the location settings on your device.
+3. Combining Personal Information
+We may combine personal information we obtain. For example, we may combine personal information that we have collected online with personal information that we have collected offline, for instance during calls between you and our support team. We may also combine personal information that we have collected across other third party sites or from other third parties with personal information we already have.
+4. How We Use Personal Information
+To the extent permitted by applicable law, we may use personal information to:
+operate our Platform and provide support to our business functions;
+fulfill customer requests, such as to create a SmartBear account or complete customer purchases;
+protect against criminal activity, claims and other liabilities;
+send customers information regarding SmartBear, our Platform, and our products and services;
+respond to reviews, comments, or other feedback provided to us;
+support and personalize our Platform, products and services, websites, mobile services, and advertising;
+protect the security and integrity of our Platform, content, and our business;
+provide customer support;
+the extent required for benchmarking, data analysis, audits, developing new products, enhancing our Platform, facilitating product, software and applications development, improving our services, conducting research, analysis, studies or surveys, identifying usage trends, as well as for other analytics purposes;
+meet our contractual requirements;
+comply with applicable legal or regulatory requirements and our policies;
+communicate with our customers, including to provide them with information about our products, programs, services and promotions;
+market, advertise, and provide our Platform; and
+the extent necessary for any other lawful purpose for which the personal information is collected.
+5. Sharing personal information
+We may share your personal information in the following circumstances:
+Within SmartBear
+– We may share your personal information within our family of companies.
+Service Providers –
+When we hire a service provider to help operate the Platform or our business, we may allow access to personal
+information
+as necessary to perform the service for us. This may include service providers that operate our Platform, send our communications, or run our promotions.
+Business Partners –
+We may share personal information with our trusted business partners. For example, we may share your personal information with a company when we co-sponsor a promotion or service. These partners may use your personal information to, among other things, send you information or contact you about their services and products.
+Third Parties for Marketing Purposes
+–To the extent permitted by applicable law, we may share personal information with third parties for purposes of our marketing, advertising, promotions, contests, or other similar purposes.
+Legal Obligation or Protection from Harm -
+When we have a good faith belief that access, use, preservation or disclosure of the personal information is reasonably necessary to (a) satisfy or comply with any requirement of law, regulation, legal process, or enforceable governmental request, (b) enforce or investigate a potential violation of the Terms of Use, (c) detect, prevent, or otherwise respond to fraud, security or technical concerns, (d) support auditing and compliance functions, or (e) protect the rights, property, or safety of SmartBear, its users, or the public against harm.
+Mergers, Acquisitions, Divestitures-
+If we are involved in a merger, acquisition, or any form of transfer or sale of some or all of our business, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, personal information may be transferred along with the business. Where legally required we will give you prior notice and, if you have a legal right to do so, an opportunity to object to this transfer.
+Purposes described to you –
+We may share your personal information for other purposes, as we describe to you and as permitted by applicable law.
+6. Cookies and Other Technologies
+We collect information about users over time on the Platform by using several common types of cookies and other tracking technologies including log files, pixel tags, web bugs, web beacons, clear GIFs, Local Storage Objects (LSOs) such as HTML5 and Flash or other similar technologies to collect information about the ways you interact with and use the SmartBear Platform, to support and enhance features and functionality, to monitor performance, to personalize content and experiences, for marketing and analytics, and for other lawful purposes. We may also permit third parties that collect information in this way on our behalf and for their own purposes. Cookies are small files that download when you access certain websites. For more information about cookies visit:
+http://www.allaboutcookies.org/
+.
+To assist us with analyzing our website traffic through cookies and similar technologies, we use analytics services such as Google Analytics. For more information on Google Analytics’ processing of your information, please see
+“How Google uses data when you use our partners' Platforms or apps.”
+You can opt-out of Google Analytics by installing
+Google’s opt-out browser add-on
+.
+These cookies may be placed by us (first-party) or by a third party. These cookies may also be Flash Cookies. To learn how to manage privacy and storage settings for Flash cookies
+click here
+. We may use cookies that are session-based or persistent. Session cookies expire when you close your browser or turn off your device. Persistent cookies remain on your device after you close your browser or turn off device.
+We may use a variety of cookies:
+Type of Cookies
+Description
+Required
+Required cookies are essential for the operation of SmartBear Products and Services. They include, for example, cookies that allow you to access secure areas of the Platform and using our services.
+Performance
+These cookies collect information about how you use the SmartBear Products and Services, including which pages you go to most often and if they receive error messages from certain pages. The information collected via these cookies is only used to improve how the Platform functions and performs.
+Functionality
+Functionality cookies allow the Platform to remember information you have entered or choices you make (such as your username, language, or your region) and provide enhanced, more personal features. These cookies also enable you to optimize your use of the Platform after logging in. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customize.
+Targeting or Advertising
+From time-to-time, we may engage third parties to track and analyze usage and volume statistical information from individuals who visit the Platform. We sometimes use cookies delivered by third parties to track the performance of our advertisements. For example, these cookies remember which browsers have visited the Platform. The information provided to third parties does not include Personal Data, but this information may be re-associated with Personal Data after we receive it.
+By way of example, as you visit the Platform, advertising cookies may be placed on your computer so that we can understand what you are interested in. Our advertising partners then enable us to present you with retargeted advertising on other sites based on your previous interaction with the Platform.
+Third parties, with whom we partner to provide certain features on the Platform or to display advertising based upon your web browsing activity, use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored.
+Most internet browsers accept cookies by default. You can accept, or block cookies by activating the setting on your browser that allows you to reject all or some cookies. You may also be able to change your cookie preferences via the Platform. The help and support area on your internet browser should have instructions on how to block or delete cookies. Some web browsers (including some mobile web browsers) provide settings that allow you to control or reject cookies or to alert you to when a cookie is placed on your computer, tablet or mobile device. Although you are not required to accept cookies, if you block or reject them, you may not have access to all of the features available through the SmartBear Products and Services.
+Cookie settings in Internet Explorer
+Cookie settings in Firefox
+Cookie settings in Chrome
+Cookie settings in Safari web
+and
+iOS
+.
+To find out more on how to manage and delete cookies, visit aboutcookies.org. For more details on your choices regarding use of your web browsing activity for interest-based advertising you may visit the following sites:
+networkadvertising.org
+optout.aboutads.info
+youradchoices.com
+youronlinechoices.eu
+On a mobile device, you may also be to adjust your settings to permit or limit ad tracking.
+7. Children Under the Age of 13
+The Platform is meant for adults and we will not knowingly collect personal information from any person under the age of 13 without permission from a parent or guardian. The Platform is not designed to attract the attention of persons under the age of 13. If you are a parent or legal guardian and think your child has given us information you can email us at
+Privacy@smartbear.com
+. You can also write to us at the address listed in the “Contact Us” section of this Notice. Please mark your inquiries “COPPA Inquiry.”
+8. Your Choices
+Depending on where you are located, you may have certain choices about how we use your personal information, including the right to access, receive a copy of, correct, delete, and opt-out of the processing of, your Personal Data. To exercise your rights (including to opt-out of marketing communications) please email us at
+Privacy@smartbear.com
+or by following the instructions included in the email or text correspondence.
+Please note that, even if you unsubscribe from certain correspondence, we may still need to contact you with important transactional or administrative information, as permitted by law. Additionally, if you withdraw your consent or object to processing, or if you choose not to provide certain personal information, we may be unable to provide some or all of the services to you.
+9. California Privacy Rights
+Pursuant to California’s Shine the Light statute (Cal. Civ. Code § 1798.83), you can control if we share personal information with third parties for their marketing purposes. To opt-out of us sharing your personal information with third parties for such purposes, email us at
+Privacy@smartbear.com
+include “Marketing Opt-Out” in your request.
+In addition, pursuant to the California Consumer Privacy Act of 2018 (“
+CCPA
+”), California residents may have certain other rights concerning their personal information. This section describes (i) the categories of personal information collected and disclosed by SmartBear, subject to CCPA, (ii) your privacy rights under CCPA, and (iii) how to exercise those rights.
+When we use the term “personal information” in this section, we mean information that identifies, relates to, describes, is capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular consumer or household.
+a. Personal Information We Collect.
+During the past twelve (12) months we and our service providers have collected the categories of personal information set forth below. We may disclose each of these categories of personal information to our service providers for our business purposes (to enable the service providers to provide their services) and as otherwise described in the “How We Disclose Personal Information” section above. We will not collect additional categories of personal information or use personal information collected for additional purposes without providing you notice.
+Identifiers (for example, name, postal address, date of birth, email address, IP address, and online identifiers);
+Categories of personal information as defined by Cal. Civ. Code § 1798.80 (for example, name, signature, Taxpayer Identification Number, telephone number, passport number, driver’s license number, insurance policy number, account numbers);
+Protected classifications under California or federal law (for example, age, citizenship status, national origin or ancestry);
+Commercial information (for example, transaction history);
+Internet or other electronic network activity information, including information on your usage of our Sites;
+Geolocation data;
+Sensory data (for example, audio from call recordings);
+Employment related information; and
+Inferences drawn from any information identified above to create a profile.
+b. Your Privacy Rights.
+In accordance with the CCPA, California residents may exercise, under certain conditions, the following privacy rights with respect to their personal information.
+Please note
+: you will
+not
+be discriminated against in any way if you exercise the rights listed below, which means we will not deny goods or services to you, provide different prices or rates for goods or services to you, or provide a different level or quality of goods or services to you.
+Privacy Right
+Description
+Notice
+You may have the right to be notified, at or before the point of collection, of the categories of personal information we collect and the purposes for which they will be used and shared.
+Access
+You may have the right to request the categories of personal information that we collected in the previous twelve (12) months, the categories of sources from which the personal information was collected, the specific pieces of personal information we have collected about you, and the business purposes for which such personal information is collected and shared. You may also have the right to request the categories of personal information which were disclosed for business purposes, and the categories of third parties in the twelve (12) months preceding your request for your personal information.
+Data Portability
+You may have the right to receive a portable copy of the personal information you have previously provided to us.
+Erasure
+You may have the right to ask us to delete (and have us direct our service providers to delete) your personal information. However, please be aware that we may not fulfill your request for deletion if we (or our service provider(s)) are required or permitted to retain your personal information for one or more of the following categories of purposes: (1) to complete a transaction for which the personal information was collected, provide a good or service requested by you, or complete a contract between us and you; (2) to ensure our website integrity, security, and functionality; (3) to comply with applicable law or a legal obligation, or exercise rights under the law (including free speech rights); or (4) to otherwise use your personal information, internally, in a lawful manner that is compatible with the context in which you provided the information.
+To Opt-Out
+We do not sell your personal information. If in the future we do sell your personal information, we will notify you and you may have the right to opt-out of such sale.
+c. How to Exercise Your Rights.
+If you would like to exercise your rights listed above, please send (or have your authorized agent send) an email to
+Privacy@smartbear.com
+, or call us toll free at +1 (617) 684 2600.
+d. How We Respond to Your Requests.
+In all cases, we will respond to your request within 45 days. However, where reasonably necessary, we may extend our response time by an additional 45 days, provided we send you notice of such extension first. We will provide the information to you via your preferred delivery mechanism. If the information is provided to you electronically, we will provide you the information in a portable format and, to the extent technically feasible, in a machine readable, readily usable format that allows you to freely transmit this information without hindrance.
+Please note that we will not charge you for making a request, provided that you make no more than two (2) requests per year. If you make three (3) or more requests in any given twelve (12) month period, we may refuse to respond to such requests, if determined by us to be unfounded or excessive (e.g. repetitive in nature), or we may charge a reasonable fee taking into account the administrative costs of providing the information or communication or taking the action requested. If we refuse to act on the request, we will provide you notice and the reason for our refusal to act.
+10. Information for Individuals in the EU and UK
+In accordance with European and UK law (collectively, the “GDPR”), individuals in the EU and/or UK may have additional rights relating to the collection and processing of personal information.
+a. Basis for Processing
+Our legal basis for processing the personal information described in this Notice will depend on the personal information concerned and the context in which we process it. We process personal information from you:
+where we need it to perform a contract with you;
+where the processing is in our legitimate interests (including the purposes described, above, in
+How We Use personal information
+);
+where the processing is necessary for us to meet our applicable legal obligations; or
+if we otherwise have your consent.
+b. Your Privacy Rights
+Depending on applicable law, you may have the right to:
+Request access
+to your personal information.
+Request correction
+of your personal information.
+Request erasure
+of your personal information. Note, however, that we may not always be able to comply with your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request.
+Object to processing
+of your personal information.
+Request restriction of processing
+of your personal information..
+Request the transfer
+of your personal information to you or to a third party.
+Withdraw consent
+at any time where we are relying on consent to process your personal information.
+If you wish to exercise any of these rights or would like further information please contact us at
+Privacy@smartbear.com
+. Depending on the nature of your request, we may need to verify your identity.
+Depending on where you are located, you may have a right to lodge a complaint with a supervisory authority or other regulatory agency if you believe that we have violated any of the rights concerning personal information. We encourage you to first reach out to us at
+Privacy@smartbear.com
+or using the address in the “Contact Us” section below, so we have an opportunity to address your concerns directly before you do so.
+11. Storage, Security and Retention of Information
+We take reasonable steps to protect the personal information users share with us, including, but not limited to, setup of processes, equipment and software to avoid unauthorized access or disclosure of this information. No transmission of information via the Internet can be entirely secure, however, so please always use caution when submitting personal information. We will retain your personal information in compliance with the uses described in this Notice, as well as to comply with our legal, financial reporting, or compliance obligations.
+12. Transfers of Personal Information
+We process and store personal information both inside the United States and overseas. If you live outside of the United States, be advised that we may transfer your personal information to the United States and other countries, whose laws may not provide the same protections as the laws in your country. Personal information transferred outside of the European Economic Area will be subject to the appropriate safeguards pursuant to GDPR and other applicable law, including without limitation, standard contractual clauses approved by the European Commission.
+13. Data Privacy Framework
+SmartBear complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce.  SmartBear has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF.  SmartBear has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF.  If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern.  To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit
+https://www.dataprivacyframework.gov/
+. The Federal Trade Commission has jurisdiction over SmartBear’s compliance with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF).
+In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, SmartBear commits to resolve DPF Principles-related complaints about our collection and use of your personal information.  EU and UK and Swiss individuals with inquiries or complaints regarding our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF should first contact SmartBear at:
+Legal Department
+SmartBear Software Inc.
+450 Artisan Way
+Somerville, MA 02145
+Phone: +1 (617) 684-2600
+privacy@smartbear.com
+In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, SmartBear commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF to JAMS, an alternative dispute resolution provider based in the United States.  If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit
+https://www.jamsadr.com/DPF-Dispute-Resolution
+for more information or to file a complaint.  The services of JAMS are provided at no cost to you. If you have a complaint that we have violated the DPF Principles that has not been resolved by other means, you may have the ability to invoke binding arbitration as outlined more fully at
+https://www.dataprivacyframework.gov/
+.
+We may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+If we transfer your personal data onward to a third party, we will continue to remain liable under the DPF Principles if the information is processed in a manner inconsistent with the DPF Principles.
+14. Links to Third Parties and their Sites
+Our Platform may include third party content and links to third party websites and services that collect personal information. We do not control these third parties and this Notice does not apply to their privacy practices. We are not responsible for the practices of these third parties or how they use information you provide to them. Please read the third parties’ privacy policies carefully.
+15. Contacting SmartBear
+If you have any questions about this Notice or the privacy practices of SmartBear please email us at
+Privacy@smartbear.com
+Our European representative can be contacted by email at
+Privacy@smartbear.com
+, or by writing to:
+General Counsel, Legal Dept.
+Mayoralty House, Flood Street
+Galway, Ireland
+Our United Kingdom representative can be contacted by email at
+Privacy@Smartbear.com
+, or by writing to:
+General Counsel, Legal Dept.
+3 More London Riverside
+London, SE1 2AQ
+England
+If you are contacting us to exercise your rights with respect to your personal information as detailed in this Notice, we ask you to please adhere to the following guidelines:
+Tell Us Which Right You Are Exercising
+: Specify which right you want to exercise and the personal information to which your request relates (if not to you). If you are acting on behalf of another consumer, please clearly indicate this fact and your authority to act on such consumer’s behalf;
+Help Us Verify Your Identity
+: Provide us enough information to verify your identity. For example, provide us (at a minimum) your full name, address, and phone number. Please note that if we cannot initially verify your identity, we may request additional information to complete the verification process. Any personal information you disclose to us for purposes of verifying your identity will solely be used for the purpose of verification.
+Direct Our Response Delivery
+: Inform us of the delivery mechanism with which you prefer to receive our response. You may specify, for example, email, mail, or through your account (if you have one with us).
+Please note that you do not need to create an account with us in order to make a request to exercise your rights hereunder.
+16. Updates
+This Notice may be amended from time-to-time. Unless otherwise indicated, any changes to this Notice will apply immediately upon posting to the Platform so please check our site periodically for updates. You can see when this Notice was last updated by reviewing the “Last Updated” legend at the top of this page. We will provide notice of material changes by updating the Notice here, and communicating with you in the manner and format in which we typically communicate with you in our regular course of business, as required by applicable law.
+LOGIN
+Additional SmartBear Tools
+AlertSite
+QAComplete
+BitBar
+SwaggerHub
+CucumberStudio
+VisualTest
+LoadNinja
+Additional Links
+SmartBear Community
+Case Management
+License System
+Sub-policy 2
+https://www2.purpleair.com/policies/privacy-policy:
+Skip to content
+Submit
+Close search
+Privacy policy
+PurpleAir Privacy Policy
+(Last Updated May 25, 2018)
+In order for PurpleAir to provide services and specifically the PurpleAir services outlined in the Terms of Service including but not limited to the websites, www.purpleair.com; map.purpleair.org; www.purpleair.com; map.purpleair.com and family of websites and or blogs owned by PurpleAir, we may store, collect, and process various forms of information. This site in its entirety is owned by Adrionics, LLC doing business as “PurpleAir.” PurpleAir ("PurpleAir," "we" or "us") provides an online service. The terms "you" and "user" means all individuals and entities that access the Service.
+This Privacy Policy describes how we use Personal Information (defined below) that we collect from you as part of you using our service. For EU users, please see our special provisions under the “Special Information for EU Users” section below. This Privacy Policy also describes the choices available to you regarding our use of your Personal and how you can access and update this information, and what information you provide that we will retain even if you decide to delete the App or stop using the Service. Our Privacy Policy is not a contract, and it does not create any legal rights or obligations.
+You should also read our Terms of Service, available at www.purpleair.com/terms which contains important information about the scope and nature of the Service, and the rules that apply to your use of our Service. All capitalized terms used in this Privacy Policy that are not defined in this Privacy Policy have the meaning given to them in the Terms of Service for PurpleAir.
+Your use of the Service indicates that you consent to our collection, storage, use and disclosure of your personal information and other information as described in this Privacy Policy and the PurpleAir Terms of Service. If you do not consent to the use of your Personal Information as described in this Privacy Policy or do not agree to the Terms of Service, do not use the Service.
+Data Controller
+PurpleAir provides services to users throughout the world. If you use our services in the United States or in the European Union or elsewhere, Adrionics LLC is the data controller. The address for the data controller of the information you provide or that is collected by PurpleAir or its affiliates is:
+ATTN: Privacy Officer
+PurpleAir.com
+12411 S 265 W STE B
+Draper, UT 84020
+privacy@purpleair.com
+Types of Information We Collect and How We Use Your Information
+A. Personal Information. In order to access and utilize the PurpleAir services, one is required to become a registered user. As part of the registration process, one is required to provide the following: (1) name; (2) email address; (3) user name; (5) password; (6) phone number; and (7) log in credentials from third party providers including Google. All registration information provided to us must comply with the PurpleAir Terms of Use Agreement.
+As part of the user experience, you may also exchange information with us that would be part of the personal information we collect. Examples include but are not limited to the following: (1) information provided when you download or use applications from us; (2) information you enter into our system and post as part of using our services (e.g. photos, videos, comments, voice recordings and other multimedia communication materials); (3) information you provide to us when contacting us for help; (4) profile information you provide for your personal user profile (e.g. age, first and last name, picture, image or likeness, phone number, etc.);and (5) data accumulated via our air sensors and processed and/or analyzed by our third-party partners. For example, PurpleAir uses ThingSpeak™ to aggregate and analyze your sensor derived data in order for us to deliver the services. In order to receive the PurpleAir services, you expressly agree to be bound by the ThingSpeak privacy policies located at https://www.mathworks.com/company/aboutus/policies_statements.html?s_tid=gf_priv
+1. Specific Use of Personal Information. The information we collect allows us to provide you with a relevant user experience as well as a mechanism to keep you informed on PurpleAir’s latest product announcements, software updates, and promotional information. If you so desire, you can remove yourself from our mailing list by opting out by updating your profile preferences. In order to receive the benefits of the Services offered, your email address is shared with our third party providers and you shall comply with their sensor registration requirements. However, you may opt out of uploading data to our third-party providers by updating your sensor preferences or by contacting us at privacy@purpleair.com.
+Other uses of personal information may be for validating a user account, fraud prevention, or other data safety precautions PurpleAir may elect to implement. Additionally, we may use personal information for our internal purposes such as data analysis, auditing, and research to improve our services to you.
+B. Non-Personal Information and Its Use. PurpleAir collects information that in and of itself does not permit direct association with any specific person. In the case of non-personal information PurpleAir has the right to collect, transfer, use, and disclose this information for any purpose. Examples of non-personal information and its intended use:
+1. Device related information. We may collect information such as the user device identifier (IDFA), type of mobile device, IP address of your mobile device, mobile operating system, and type of mobile Internet browsers. The device identifier itself may deliver the information to us directly or we may obtain this information via a third-party partner and/or affiliate. We use the information for the express purpose of better understanding customer behavior and improving our products and services.
+2. User activity with our services. We may collect and store details on how you interact with our services. This may help us improve our service offerings and to provide a better user experience.
+3. Metadata. Metadata is unique technical data that is generally associated with User Content. Metadata allows one to make their User Content more searchable when interacting with our Service. An example of metadata would be a hashtag or some form of geotag that would allow others to more readily find your submitted content and/or its given location.
+C. Location Based Information. Use of the PurpleAir services, permits us to collect precise information about the location of your particular device. Location may include but is not limited to background location information between Users. We may use your location information to provide requested location services and to allow tagging of files. You may opt out by changing your geo-location settings consistent with your device protocol.
+D. Information from Other Sources. This may include:
+1. User feedback;
+2. Requesting services for or on your behalf;
+3. Users or others providing information in relation to any claim or dispute;
+4. PurpleAir business partners including those with whom you may create or access your account, such as payment providers, social media users, or websites who use PurpleAir’s APIs or whose API Purple Air uses;
+5. Publicly available sources.
+6. Marketing service providers.
+PurpleAir may combine the information gathered from these other sources with other information in its possession.
+Cookies and Other Tracking Technologies
+"Cookies" are small data files that are sent to your web browser when you access a website, and the files stored on your device's hard drive. We use "session" cookies to keep you logged in while you use the Site, to track your preferences and to track trends and monitor usage and web traffic information on the Site. These are erased when you close your browser. We use "persistent" cookies to relate your use of our Service to other information about you and store information about your preferences to make your user experience consistent and customized. For example, we may create a persistent cookie that includes some basic information about you, like your favorite website locations and whether customer support responded to your inquiry. These cookies stay on your hard drive until you erase them or they expire and associate your information with your account even if you are logged out.
+Most browsers automatically accept cookies, but you can change your settings on the browser settings to refuse cookies or prompt you before accepting cookies. You can also use your browser settings or other tools to delete cookies you already have. However, if you disable or refuse cookies, then certain features of the Site may be inaccessible or not function properly.
+Our cookies do not, by themselves, contain Personal Information, and we do not combine the general information collected through cookies with other Personal Information to tell us who you are. As noted, however, we do use cookies to identify that your web browser has accessed aspects of the Service and may associate that information with your account if you have one.
+Certain features of the Site may use local shared objects (or "flash cookies"). Flash cookies are small files similar to browser cookies that collect and store information about your preferences and where you browse and what you look at on the Site. Flash cookies are not managed by the same browser or device settings that are used for browser cookies. You may adjust your Adobe Flash Player settings to prevent flash cookies from being placed on your hard drive.
+This Privacy Policy covers our use of cookies only and does not cover the use of cookies by third parties. We do not control when or how third parties place cookies on your computer. For example, third party websites to which a link points may set cookies on your computer.
+We may use "clear GIFs" (aka "web beacons" or "pixel tags") or similar technologies, on our Service or in our communications with you to enable us to know whether you have visited a part of our Service or received a message. A clear GIF is typically a one-pixel, transparent image (although it can be a visible image as well), located on a website or in an email or other type of message, which is retrieved from a remote website on the Internet enabling the verification of an individual's viewing or receipt of a website or message.
+We do not automatically collect Personal Information, but we may tie Personal Information with the automatically collected information using the above tools or information collected from other sources.
+We may also log information using digital images called web beacons on our Site or in our emails. We may use web beacons to manage cookies, count visits, and to learn what marketing works and what does not. We may also use web beacons to tell if you open or act on our emails.
+We also use third party analytics services to collect usage data from our Site in order to help us understand how users are interacting with our Site. Third party analytic services are used to track general location information, and events that occur without our Site, such as how often you use our Site. This information, including your IP address, is transmitted and stored by 3rd parties as determined by us.
+IP Address Information and Other Information Collected Automatically
+We automatically receive and record log file information from your web browser when you interact with the Site, including your IP address and cookie information. Generally, the Site automatically collects usage information, such as the number and frequency of visitors to the Site. We may use this data in aggregate form, that is, as a statistical measure, but not in a manner that would identify you personally. This type of aggregate data enables us and third parties authorized by us to figure out how often individuals use parts of the Service so that we can analyze and improve them.
+Third-Party Sites and Services
+PurpleAir products, services, and Site may contain links to third-party services (e.g. Facebook, Twitter, Google etc.), products, and websites. Information collected by third parties is governed by their privacy policies and practices. We encourage you to read and learn about their specific privacy practices.
+Information Sharing and Disclosure
+From time-to-time, PurpleAir may make certain personal information available to product and service partners. Specific ways PurpleAir shares with third parties are described below:
+A. Third-Party Service Providers. PurpleAir may elect to outsource some of its technical and customer support, tracking and reporting functions, quality assurance testing, and other services that it may deem necessary. Examples of the service partners or third-parties we may provide your information to includes but is not limited to our vendors, marketing partners, research firms, and consultants. Additional examples may include:
+1. Payment processors and facilitators.
+2. Cloud storage providers.
+3. Data analytics providers including ThingSpeak™.
+4. Research partners.
+5. Consultants, accountants, lawyers, and other professional service providers.
+In these specific instances, we may share information about or from you in order for them to provide their services.
+B. Business Affiliates and Transfers. PurpleAir may share information from or about you with its subsidiaries, joint ventures, or companies under common control, in which case we will require them to adhere to this Privacy Policy. In the event PurpleAir, Inc. is acquired in total or by a substantial amount of its assets, we will make best efforts to ensure that the purchaser will assume the rights and obligations of this Privacy Policy. However, PurpleAir cannot make any guarantees or promises with respect to a purchaser adopting the current rights and obligations of this Privacy Policy.
+C. Investigations. As described in the PurpleAir Terms and Conditions of Use, PurpleAir reserves the right to provide and/or disclose necessary information for investigatory matters. Examples include but are not limited to: 1) compliance with law enforcement or the necessary legal process; 2) behavior and/or use violative of the Terms and Conditions of Use, and 3) instances whereby it is necessary to protect our rights and obligations.
+D. User Request. This includes sharing your information with:
+1. PurpleAir business partners. For example, we may share your location and/or that of the PurpleAir sensor(s) when you engage the services we may make available to you through our business partners and their affiliates.
+E. General public when submitting content to a public forum. Use of our services may enable you communicate with public forums such as PurpleAir blogs, social media, and features that may be offered with our services. If you communicate with use via these channels, your communications may be viewable by the public.
+F. With your consent. PurpleAir may share your information other than as we have described in this policy if we notify you and you consent to the sharing.
+Storage of Your Information
+The information you provide PurpleAir may be collected through our services and processed in the United States or any other country in which PurpleAir, its subsidiaries, affiliates, and/or service providers maintain facilities.
+As a result, PurpleAir its subsidiaries, affiliates, and/or service providers may transfer information we collect about you, including personal information, across borders and from your country or jurisdiction to other countries or jurisdictions around the world. For example, you may reside in another country or region with differing data protection and privacy laws than the United States. Consequently, when you register to use the Service you acknowledge and consent to PurpleAir transmitting your information to the United States or to any country in which PurpleAir and/or its subsidiaries, affiliates, and/or service providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy.
+In turn, PurpleAir uses commercially reasonable standards, measures and/or protocol to keep the information collected through the Service secure and as a result we take cautionary steps to verify your identify before granting you Service access. Moreover, PurpleAir cannot ensure the security of any information submitted or transmitted by you to PurpleAir nor can we guarantee that said information may not be disclosed, destroyed, and/or altered.
+Protection of Personal Information
+PurpleAir preserves the security of your personal information with the utmost caution. As such, we follow the generally accepted industry standards to protect all user information submitted to us. Although we implement accepted industry standards, we cannot guarantee absolute security with respect to your personal information. Given the fact that no one method of transmission over the Internet or via mobile device is 100% secure, we urge you to take the utmost care when transmitting personal information.
+When you use some of the features of the PurpleAir services, the personal information and content you share is visible to other users and can be read, collected, or used by them. You are responsible for the personal information you choose to share or submit in these instances. Please take care when using these features.
+Data Retention and Deletion
+PurpleAir will retain your personal information for a minimum of 7 years in connection with regulatory, tax, insurance or other requirements in the places in which it operates. PurpleAir thereafter deletes or anonymizes such information with applicable laws. Users may request deletion of their account at any time. Following such request, PurpleAir deletes the information that it is not required to retain and restricts to or use of an information it is required to retain. You may request deletion of your account by contacting us here at privacy@purpleair.com.
+PurpleAir may also retain certain information if necessary for its legitimate business interests, such as fraud prevention and enhancing users’ safety and security. For example, if PurpleAir shuts down a user’s account, PurpleAir may retain certain information about that account to prevent that user from opening a new PurpleAir account in the future.
+Access to Personal Information
+In order to ensure that your personal information is current and accurate, please log in to your account using PurpleAir app and go to user profile.
+Children
+PurpleAir is aware of the importance of protecting the privacy and safety of children who may use our services. In that regard, we do not knowingly solicit data from or market to children under the age of 13. In the event a child’s parent and/or legal guardian becomes aware that their child has provided us with information without their consent, please contact us immediately at privacy@purpleair.com. Once notified, we will delete the information as soon as reasonably possible.
+Privacy Concerns
+In the event you believe there to be a conflict and/or concern with the terms of this Privacy Policy, you may contact us directly at:
+ATTN: Privacy Officer
+PurpleAir.com
+12411 S 265 W SUITE B
+Draper, UT 84020
+privacy@purpleair.com
+Privacy Policy Modifications
+PurpleAir reserves the exclusive right to change, modify, or alter the terms of this Privacy Policy. The most current version of this policy will govern our use of your information. Continued access and use of the PurpleAir services after changes to our Privacy Policy occur indicate that you agree to be bound by the revised Privacy Policy.
+Consent
+Your continued access and use of the PurpleAir services, subject to the Terms of Use and Conditions, signifies your unequivocal consent to the terms of this Privacy Policy.
+Special Information for EU Users
+Beginning May 25, 2018, the processing of personal data of users in the European Union is subject to the EU General Data Protection Regulation (“GDPR”). This section summarizes PurpleAir’s grounds for processing personal information under the GDPR, and the rights of EU users as relates to PurpleAir’s handling of personal information. This section provides information as relates to EU users' rights, and PurpleAir's responsibilities, under this regulation.
+A. EU User Rights
+If you are an PurpleAir user in the EU, you have the following rights with respect to PurpleAir's handling of your personal information. To exercise these rights, please see below or submit your request at privacy@purpleair.com.
+Users outside the EU may also request explanation correction deletion or copies of their personal data by contacting us at privacy@purpleair.com.
+1. Explanation and copies of your data
+You have the right to request an explanation of the information that PurpleAir has about you and how PurpleAir uses that information.
+You also have the right to receive a copy of the information that PurpleAir collects about you if collected on the basis of consent or because PurpleAir requires the information to provide the services that you request.
+2. Correction
+If PurpleAir has information about you that you believe is inaccurate, you have the right to request correction of your information. Please see the section titled “Explanation, Copies and Correction” below for more information on correcting, or requesting correction of, your information.
+3. Deletion
+Users may request the deletion of their accounts at any time. Users may request via PurpleAir's website at privacy@purpleair.com. We may retain certain information about you as required by law and for legitimate business purposes permitted by law.
+Please see the “Data Retention & Deletion” section above for more information regarding PurpleAir's retention and deletion practices.
+4. Objections and complaints
+Users in the EU have the right to object to PurpleAir's processing of personal data, including for marketing purposes based on profiling and/or automated decision-making. PurpleAir may continue to process your information notwithstanding the objection to the extent permitted under GDPR.
+You may also submit questions, comments or complaints to PurpleAir directly at
+ATTN: Privacy Officer
+PurpleAir.com
+12411 S 265 W STE B
+Draper, UT 84020
+privacy@purpleair.com
+B. Grounds for Processing
+The GDPR requires that companies processing the personal data of EU users do so on the basis of specific legal grounds. As described below, PurpleAir processes the information of EU users based on one or more of the grounds specified under the GDPR:
+1. The processing is necessary to provide the services and features you request
+PurpleAir must collect and use certain information in order to provide its services. This includes:
+User profile information that is necessary to establish and maintain your account, including to verify your identity; enable communications with you about the products you order from us, orders and accounts; and to enable you to make payments.
+PurpleAir sensor locations which will enable you to use the services with us and/or our service partners.
+PurpleAir sensors require the sharing of this data with our third-partner partners to interpret and analyze the data in order to provide the PurpleAir services.
+Usage information, which is necessary to maintain, optimize and enhance PurpleAir's services, including to determine, sometimes in combination with other information, incentives, etc.
+Collection and use of this information is a requirement for using PurpleAir's website and services.
+2. The processing is necessary to protect the vital interests of our users or of others
+PurpleAir may process personal information, including disclosing data with law enforcement authorities in case of threats to the safety of users or of others.
+3. The processing is necessary for PurpleAir's legitimate interests
+PurpleAir collects and uses personal information to the extent necessary for its legitimate interests. This includes collecting and using information:
+To prevent, detect and combat fraud in connection with the use of our services. For example, PurpleAir uses user profile, location, PurpleAir sensors, device and usage information, to identify and prevent circumstances when users attempt to defraud PurpleAir or other users.
+To inform law enforcement officials regarding criminal acts or threats to public safety.
+To provide customer support.
+To optimize our service and develop new services. This includes, for example, identifying the PurpleAir sensors for use of the services.
+To aggregate, analyze, and interpret the data collected by the PurpleAir sensors by our third-party service providers, e.g. ThinkSpeak™
+For research and analytical purposes. This includes, for example, analyzing usage trends to improve the user experience and enhance the safety and security of our services.
+For direct marketing purposes. This includes, for example, analyzing data to identify trends and tailor marketing messages to user needs.
+To enforce PurpleAir's Terms of Service.
+4. The processing is necessary for the legitimate interests of other persons or parties
+PurpleAir collects and uses personal information to the extent necessary for the interests of other persons or the general public. This includes sharing information in connection with legal or insurance claims, to protect the rights and safety of others.
+PurpleAir may also process personal information when necessary in regard to a substantial public interest, on the basis of applicable laws.
+5. The processing is necessary to fulfill PurpleAir's legal obligations
+PurpleAir is subject to legal requirements in the jurisdictions in which it operates that require us to collect, process, disclose and retain your personal data. For example, PurpleAir is subject to laws and regulations in many cities and countries that require it to collect and retain information about the PurpleAir products, to retain such information for extended periods of time, and to provide copies of such information to governmental or other authorities. PurpleAir uses your information to comply with such laws to the extent they apply to your use of the PurpleAir apps.
+PurpleAir may also share information with law enforcement, or requests by third parties pursuant to legal processes.
+6. Consent
+PurpleAir may collect and use your information on the basis of your consent. You may revoke your consent at any time. If you revoke your consent, you will not be able to use any service or feature that requires collection or use of the information we collected or used on the basis of consent.
+PurpleAir relies on consent in connection with data collections or uses that are necessary to enhance the user experience, to enable optional services or features, or to communicate with you. If you are an EU user, the following types of data collections or uses are done on the basis of your consent.
+Location Information (Users and PurpleAir products)
+PurpleAir sensor data aggregation, analysis, and interpretation by our third-party partners, e.g. ThingSpeak™
+Notifications: Account Updates
+Notifications: Discounts and News
+Address Book / Contacts
+Please see the Choice & Transparency section below for further information about these data collections and uses, how to opt in or out of them, and the effect of opting out of these on your use of PurpleAir's apps.
+PurpleAir may also collect personal information about you through voluntary surveys. Your responses to such surveys are collected on the basis of consent and will be deleted once no longer necessary for the purposes collected.
+Choice And Transparency
+PurpleAir provides means for you to see and control the information that PurpleAir collects, including through:
+device permissions
+marketing opt-outs
+You may also request that PurpleAir provide you with explanation, copies or correction of your data.
+A. DEVICE PERMISSIONS
+Most mobile platforms (iOS, Android, etc.) have defined certain types of device data that websites cannot access without your consent. And these platforms have different permission systems for obtaining your consent. The iOS platform will alert you the first time the PurpleAir website wants permission to access certain types of data and will let you consent (or not consent) to that request. Android devices will notify you of the permissions that the PurpleAir website seeks before you first use the website, and your use of the website constitutes your consent.
+B. EXPLANATIONS, COPIES AND CORRECTION
+You may request that PurpleAir:
+Provide a detailed explanation regarding the information PurpleAir has collected about you and how it uses that information.
+Receive a copy of the information PurpleAir has collected about you.
+Request correction of any inaccurate information that PurpleAir has about you.
+You can make these requests by contacting PurpleAir at privacy@purpleair.com.
+You can also edit the name, phone number and email address associated with your account through the Settings menu in PurpleAir's website You can also look up your transactions, history, etc. in the PurpleAir website.
+C. MARKETING OPT-OUTS
+You may opt out of receiving promotional emails from PurpleAir at privacy@purpleair.com. You may also opt out of receiving emails and other messages from PurpleAir by following the instructions in those messages. Please note that if you opt out, we may still send you non-promotional messages, such as receipts for your rides or information about your account.
+Privacy Policy Modifications and Updates
+PurpleAir reserves the exclusive right to change, modify, or alter the terms of this Privacy Policy. The most current version of this policy will govern our use of your information. Continued access and use of the PurpleAir services after changes to our Privacy Policy occur indicate that you agree to be bound by the revised Privacy Policy.
+Use left/right arrows to navigate the slideshow or swipe left/right if using a mobile device
+choosing a selection results in a full page refresh
+press the space key then arrow keys to make a selection
+Opens in a new window.
+Opens external website.
+Opens external website in a new window.
+Sub-policy 3
+https://www.revenuecat.com/privacy/:
+Privacy Policy
+This is the Privacy Policy for the website hosted at https://www.revenuecat.com/ (
+“our site”
+), our products and services, and for other RevenueCat activities at which you may provide your personal data, such as sponsored events or trade shows. The site is operated by or on behalf of RevenueCat, Inc. (
+“we”
+,
+”us”
+,
+“our”
+). We are committed to protecting and respecting your privacy.
+This policy (together with our terms of service and any other documents referred to in it) sets out:
+Information we collect
+Cookies and other tracking technologies
+How we use your information
+Our promotional updates and communications
+Lawful Bases
+Who we share your information with
+Where we store your information
+How we respond to DNT signals
+How we protect your information
+How long we keep your information
+EU Citizen Rights
+Note to Users Outside the United States
+Changes to this policy
+Contact us
+Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By engaging in our site and services, you acknowledge you have read and understood this privacy policy. To the extent  applicable privacy law includes the European Economic Area General Data Protection Regulation, (the “GDPR”) with respect to personal data collected by us, the data controller for purposes of GDPR is: RevenueCat, Inc., 1032 E BRANDON BLVD #3003 BRANDON, FL 33511
+UNITED STATES
+Our site may, from time to time, contain links to external sites. We are not responsible for the privacy policies or the content of such sites.
+Information we collect
+We will collect and process the following personal data from you:
+Information you give us, which may consist of:
+Information about you that you give us by filling in forms on our site or by corresponding with us by phone, e-mail or otherwise. It includes information you provide when you register to use our site, subscribe to our service, search for a product, in discussion boards or other social media functions on or via our site, enter a competition, promotion or survey, submit a query, providing information at trade shows or sponsored events and when you report a problem with our site;
+Your name, address, e-mail address and phone number, financial and credit card information, personal description and photograph, login and password details; and
+Employment details if you send us a CV, resumé or other details of your employment history in connection with an advertised job vacancy or a general inquiry regarding employment opportunities with us.
+Technical information, which may include the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, operating system and platform;
+Information about your visit, which may include the full Uniform Resource Locators (URL), clickstream to, through and from our site (including date and time), page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), methods used to browse away from the page, and any phone number used to call our customer service number or social media handle used to connect with our customer service team.
+IP Location data, where IP addresses are collected and location is inferred based on IP location.
+Information collected from other platform activities.
+If you are using our products or services as a developer, the following information regarding your end users may be received and processed by us:
+“End User Technical Information”: This refers to technical information related to an end user’s mobile device or computer, such as: device type, operating system,
+“End User Transaction Information”: This refers to transaction information related to an end user’s activities with respect to your app or other digital product, and may include:
+Last seen time that the end user used your app or digital product;
+Apple receipt file; and
+Google purchase token,
+“Optional End User Information”: This refers to information that we may receive if you select or enable this option in our products, which may include:
+User ID of the end user in your app or digital product; and
+Additional attribution or metadata associated with an end user.
+End User Technical Information, End User Transaction Information, and Optional End User Information are collectively referred to as “End User Information”.
+Information we receive from other sources
+We may receive other personal data about you:
+If you use any of the other websites or apps we operate or the other services we or our affiliates provide.
+From third parties we work with:, which may include Zapier Lead Scoring.
+Cookies and other tracking technologies
+Our site uses cookies and/or other similar technologies such as device-IDs, in-app codes, pixel tags or web beacons to collect and store certain information. These typically involve pieces of information or code that a website transfers to or accesses from your computer hard drive or mobile device to store and sometimes track information about you. Cookies and similar technologies enable you to be remembered when using that computer or device to interact with websites and online services and can be used to manage a range of features and content as well as storing searches and presenting personalized content. Our site uses cookies and similar technologies to distinguish you from other users of our site. This helps us to provide you with a good experience when you browse our site and use our service and also allows us to improve our site. Most web browsers automatically accept cookies and similar technologies, but if you prefer, you can change your browser to prevent that and your help screen or manual will tell you how to do this. However, you may not be able to take full advantage of our website if you do so. A number of cookies and similar technologies we use last only for the duration of your web or app session and expire when you close your browser. Others are used to remember you when you return to the site and will last for longer. We use these cookies and other technologies on the basis that they are necessary for the performance of a contract with you, or because using them is in our legitimate interests (where we have considered that these are not overridden by your rights), and, in some cases, where required by law, where you have consented to their use.
+How we use your information
+Information we collect:
+We will use this information in our legitimate interests, where we have considered these are not overridden by your rights:
+To administer our site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes.
+To keep our site safe and secure.
+For measuring or understanding the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you.
+To improve our site to ensure that content is presented in the most effective manner for you and for your computer.
+To allow you to participate in interactive features of our site and service, when you choose to do so.
+To deliver and improve our products and services and your overall user experience.
+Information we receive from other sources:
+We may combine this information with information you give to us and information we collect about you in our legitimate interests (where we have considered that these are not overridden by your rights). We will use this information and the combined information for the purposes set out above (depending on the types of information we receive).
+‍
+End User Information:
+We will only use End User Information to provide our services and products to you, in accordance with the agreement agreed to and signed by us.
+Our promotional updates and communications
+Where permitted in our legitimate interest or with your prior consent where required by law, we will use your personal information for marketing analysis and to provide you with promotional update communications by email about our products and services. You can object to further marketing at any time by checking and updating your contact details within your account, or selecting the “unsubscribe” link at the end of all our marketing and promotional update communications to you, or by submitting your email address here.
+Lawful Bases
+We will only collect and process personal data where we have lawful bases. Lawful bases include consent(where you have given consent), contract (where processing is necessary for the performance of a contract with you (e.g. to operate the site or deliver any products or services you have requested) and “legitimate interests”. We rely on our legitimate interests as our lawful basis only where those interests are not overridden by the impact on you (unless we have your consent or our processing is otherwise required or permitted by law). If you have questions about the lawful bases of how we process your personal information, contact us at
+compliance@revenuecat.com
+.
+Who we share your information with
+We may share your information with:
+Any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, who support our processing of personal data under this policy. If any of these parties are using your information for direct marketing purposes, we will only transfer the information to them for that purpose with your prior consent.
+Selected third parties which may include:
+Organizations who process your personal data on our behalf and in accordance with our instructions and applicable law. This includes organizations supporting the services we offer through the site, in particular organizations providing website and data hosting services, providing fulfillment services, distributing any communications we send, supporting or updating marketing lists, and facilitating feedback on our services. These organizations (which may include third party suppliers, agents, sub-contractors and/or other companies in the RevenueCat group of companies) will only use your information to the extent necessary to perform their support functions.
+Analytics and search engine providers that assist us in the improvement and optimization of our site and subject to the cookie section of this policy (this will not identify you as an individual).
+Payment processing providers, such as Stripe, who provide secure payment processing services. (Your payment card details are not shared with us by the provider.)
+We will disclose your personal information to third parties:
+In the event that we sell or buy any business or assets, in which case we will disclose your personal data to the prospective seller or buyer of such business or assets, subject to the terms of this Privacy Policy.
+If RevenueCat or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of service, terms of use, and other agreements with you; or to protect the rights, property, or safety of RevenueCat, our customers, or others.
+Where we store your information
+The data that we collect from you will be stored securely on Amazon Web Services (“AWS”) in the USA.
+How We Respond to DNT Signals
+Your browser settings may allow you to automatically transmit a Do Not Track signal to websites and other online services you visit. We do not alter our practices when we receive a Do Not Track signal from a visitor’s browser because we do not track our visitors to provide targeted advertising. To find out more about Do Not Track, please visit
+http://www.allaboutdnt.com
+.
+Public forums
+The site may, from time to time, make chat rooms, message boards, news groups and/or other public forums available to its users. Any information that is disclosed in these areas becomes public information and you should exercise caution when using these and avoid posting any personal information.
+Child safety
+The site is intended for use only by persons who are at least 16 years of age. By using the site, you confirm to us that you meet this requirement. If you are under the age of 16, you confirm you have received permission from your parent or guardian before using this site or sending us personal information.
+Payment processing
+Payment details you provide will be encrypted using secure sockets layer (SSL) technology before they are submitted to us over the internet. Payments made on the site are made through our payment gateway provider. You will be providing credit or debit card information directly to the operator which operates a secure server to process payment details, encrypting your credit/debit card information and authorizing payment. Information which you supply is not within our control and is subject to the operator’s own privacy policy and terms and conditions.
+How we protect your information
+Security is one of our biggest priorities at RevenueCat. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorized access.
+All application data is secured in transit using TLS.
+Any payment transactions will be encrypted using SSL.
+RevenueCat audits changes to the application throughout the development lifecycle: architecture reviews are performed as well as stringent automated and manual code review processes.
+RevenueCat monitors application servers, infrastructure, and the RevenueCat network environment to detect potential abuse.
+RevenueCat uses Amazon Web Services (“AWS”) to persistently store Customer data and does not host Customer data on its premises. AWS is a leading cloud provider, and holds industry best security certifications, such as SOC2 and ISO 27001. Customer data sent to RevenueCat from around the world is sent to AWS data centers located in the United States.
+How long we keep your information
+We retain personal data during any period in which you have expressed an interest in our products and services, for as long as you have an account with us in order to meet our contractual obligations to you, and for six years after that to identify any issues and resolve any legal proceedings. We may also retain aggregate information beyond this time for research purposes and to help us develop and improve our services. You cannot be identified from aggregate information retained or used for these purposes.
+EU Citizen Rights Under GDPR
+You have the right under certain circumstances:
+to be provided with a copy of your personal data held by us.
+to request the rectification or erasure of your personal data held by us.
+to request that we restrict the processing of your personal data (while we verify or investigate your concerns with this information, for example).
+to object to the further processing of your personal data, including the right to object to marketing.
+to request that your provided personal data be moved to a third party.
+You may opt out at any time from allowing further access by us to your location data by emailing compliance@revenuecat.com.
+Your right to withdraw consent:
+Where the processing of your personal information by us is based on consent, you have the right to withdraw that consent without detriment at any time by going here.
+You can also exercise the rights listed above at any time by contacting us at
+compliance@revenuecat.com
+. We will respond to your requests within a reasonable timeframe. Please note these rights may be limited in certain circumstances as provided by applicable law.
+We would appreciate the opportunity to directly address any GDPR issues you may have. Please contact us at compliance@revenuecat.com. You do, however, have the right to approach your local data protection authority, (see http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.html for data protection authorities in the EU).
+Data processed on behalf of our Customers
+RevenueCat may process End User Information on behalf of its customers. We are not the controllers of this data and act as data processors, and have no direct relationship with the individuals or end users whose personal information it processes. The processing of personal data sent from our Customers is governed by our
+Terms of Use
+,
+Data Processing Addendum
+or any other agreement agreed to and signed by us with our Customers. These agreements cover data transfers to third parties that may occur as part of RevenueCat’s provision of its services to the customer. We will process such data on behalf of the customer as prescribed in the respective agreements between RevenueCat and the customer. The customer’s privacy policy or other agreement between the customer and you (or your organization) will apply to such processing, and not this policy.
+If your personal data is processed by RevenueCat on behalf of one of our customers and you wish to discontinue such processing, or if you seek to correct, amend, or delete inaccurate data, please contact the RevenueCat customer (the data controller) directly. The RevenueCat customer should then provide instructions to us, if necessary. If requested to remove data by the data controller we will respond within a reasonable timeframe. We will retain personal information pursuant to our retention policy and will retain this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+Note to users outside the United States
+RevenueCat is based in the United States. The Site and our products and services are controlled and operated by us from the United States and are not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States. Your personal data may be stored and processed in any country where we have facilities or in which we engage service providers, and by using the Services you consent to the transfer of information to countries outside of your country of residence, including the United States, which may have data protection rules that are different from those of your country. In certain circumstances, courts, law enforcement agencies, regulatory agencies or security authorities in those other countries may be entitled to access your personal data.
+Changes to this policy
+Any changes we make to our privacy policy in future will be posted on this page and, in relation to substantive changes, will be notified to you by email.
+Contact Us
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to:
+Compliance Officer
+RevenueCat, Inc.
+1032 E BRANDON BLVD #3003 BRANDON, FL 33511 UNITED STATES
+compliance@revenuecat.com
+‍
+Sub-policy 4
+https://paku.app/privacy/index.html:
+Paku Privacy Policy
+Personal Information
+Paku’s app developer cares deeply about your privacy. Paku doesn’t collect any personal information.
+Location
+Paku uses the location services of your device to determine which AQI values to display. The location data never leaves your device, and is not included in analytics.
+When you add a private sensor to Paku, the location of that sensor is reported to us by PurpleAir. That location is stored on our servers so that the application can display the sensor on the map (just like public sensors). The location may be revealed to other users, in the form of the sensor appearing on the map, or through our API. If you’re uncomfortable with the location of your private sensor being used this way, you should not add the private sensor to Paku.
+Analytics
+Paku uses TelemetryDeck to collect anonymous usage data, such as app launches. By using Paku, you are subject to
+TelemetryDeck’s Privacy Policy
+. Paku also uses Bugsnag to collect anonymous debugging information when the application crashes. By using Paku, you are subject to
+Bugsnag’s Privacy Policy
+. Apple may also send anonymous analytics information to the developer.
+PurpleAir
+Paku uses PurpleAir sensor data. By using Paku, you are subject to
+PurpleAir’s Privacy Policy
+. Your location is never sent to PurpleAir.
+RevenueCat
+Paku uses RevenueCat to manage subscriptions. By using Paku, you are subject to
+RevenueCat’s Privacy Policy
+.
+Updates
+This policy may be updated at any time. You should check this page occasionally to ensure you are familiar with any changes.
+Contact
+If you have questions or complaints concerning your data or this privacy policy, please email
+support@paku.app
+.
+Last updated March 2, 2023
+Made with
+♥
+in Portland

@@ -1,0 +1,22 @@
+privacy statement
+Privacy statement as of August 15, 2017
+Privacy is cool. Spooky Group's apps are all local apps. At this time they do not require (nor do we have) servers to route or store your information. That may change in the future, but for now, this is just how it is. The apps do share information, but this is entirely under your control.
+wevew
+sends photos over an encrypted connection to other devices that you authenticate by being very near to them.
+imjoy uses the standard iOS sharing tools allowing you to send photos and videos through iMessage, email, wevew, and other services you have installed on your device.
+FlipTraq, currently unavailable for download, used the standard iOS sharing APIs to send your project information and track notes through iMessage, email, and other text services you have installed on your device.
+FlipTraq provided for downloading music from your dropbox account, but no uploads.
+faff displays ads from Google AdMob and provides for In App Purchases through the App Store.
+​
+We use a third party tool for understanding the use of the app and making it better:
+Fabric
+Answers
+(
+www.fabric.io
+), now part of Google,
+is used to collect and understand the features you use the most. For example, with
+wevew, events like “shared photo" or "unshared photo" are counted and later uploaded to Fabric's services.  There is no personally identifiable information collected. Also n
+othing about your or your photos (EXIF data, location of the photo, etc.) is logged.
+You'll sometimes notice than the app (any app) will suddenly disappear and you are sent back to your home screen. This is a crash. It happens. We use Crashlytics, also part of Fabric, to collect information about our app when it crashes.  Be it a bug in the code or something entirely unexpected that happened on your device, information about what happened is transmitted to fabric.io which, in turn, sends us a notification. This allows us to see what happened in the code and helps us diagnose and correct the issue. no information about you or your photos is sent with the crash dump.
+​
+The apps do store data on the device. when you back up your device to iTunes or iCloud, your information, including your this data, is saved within the backup. This is standard behavior for all Apple AppStore apps and allows you to restore your information if you lose or upgrade devices.

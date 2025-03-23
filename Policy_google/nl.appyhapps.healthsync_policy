@@ -1,0 +1,54 @@
+Health Sync Privacy Policy
+How your data is used
+Health Sync is a service application designed to facilitate the synchronization of your health and fitness data across various health and fitness apps and platforms. The synchronization process exclusively involves the data of apps for which you grant Health Sync access permissions (read or write). Importantly, Health Sync does not collect your data within the Health Sync application or on cloud servers. Instead, your data remains securely stored within the specific apps you’ve designated and permitted for synchronization.
+Health Sync only processes your data for the health data synchronization that you configured in the Health Sync app.
+Health Sync is committed to safeguarding your privacy. We want to make it clear that Health Sync does not collect your personal health data, and it does not share your health data with any third parties other than the specific health apps and platforms you have selected to synchronize your data with through Health Sync. Your data remains secure and private, only accessible within the apps you’ve chosen for synchronization.
+Data processing
+Health Sync does not store your health data on the phone or on a server.
+Instead, it transfers the data during the sync operation. The synchronization process is entirely handled on the phone, utilizing a background service process within Health Sync to facilitate data syncing. However, in a few cases, such as when syncing weight data to Huawei Health (not available on iOS) or location data to Apple Health, Health Sync can temporarily store some data in the app’s secure local storage on your phone. Once the data is synced, it is deleted from the local storage.
+Health Sync maintains a sync log with information about the sync operation. Personal data is not part of the sync log. The log only contains information about the sync process of the last two days. Older log data is deleted automatically. The log data contains some health data information that has been synced, but no identifying information such as personal data or location data. The health data in the sync log can’t be read by other apps. The sync log data is stored within the app storage space on your phone and will be removed when you uninstall the app.
+Data deletion
+Health Sync does not collect your health and fitness data, so the concept of deleting your health and fitness data is not applicable.
+Authorization access for the apps you’ve linked with Health Sync is immediately removed when you disconnect them within the Health Sync application. This can be done by removing the connected app from the synchronization configuration or by selecting the ‘Deauthorize’ button within the connected app’s page in the Health Sync application. Once the authorization access is deleted, Health Sync will no longer have the ability to access the previously connected app until you reauthorize Health Sync to connect with that app again.
+Cloud servers used for the synchronization
+For some connected apps, a secure cloud server from appyhapps.nl is used for the synchronization logistics: the server receives messages when new data is available from the connected app (for example Garmin Connect or Strava). The server will inform Health Sync on your phone that new data is available and Health Sync will retrieve and process the data on the phone. The cloud server does not receive or process your health and fitness data and does not have the authorization data to access your health and fitness data.
+Physical activity permission
+On Android, Health Sync could require the ‘physical activity’ app permission. This permission is required when syncing steps and/or activity data with Google Fit. Google Fit only allows to read or write steps and activity data when this permission has been given. Health Sync doesn’t use this permission for tracking activity or steps data itself.
+Required app permissions
+For health and fitness apps involved in the sync, you must authorize Health Sync. Health Sync requires permissions for each app to read and write the data. Health Sync always requests only the permissions necessary for synchronization. It depends on the connected app whether different permissions can be requested or whether no distinction is made between different permissions.
+For some apps we need to provide additional information about the rights and authorizations:
+Google Fit permissions
+(Android only): Health Sync needs permission to access the Google Fit data when you sync with Google Fit. Health Sync only asks for the permissions it really needs. Without these permissions, the data can’t be synced. Read permissions are required for reading data from Google Fit. Write permissions are required for writing data to Google Fit. When you sync to Google Fit, Health Sync will ask some read permissions also. The read permissions are needed when writing data to Google Fit, because Health Sync will check if there is other data in Google Fit that could cause sync conflicts.
+Access to your Google profile is required to show the Google account that is used for Google Fit in the Google Fit Authorization page in Health Sync. Only the account name is stored. Other profile information is not used or stored. Your Google account name is stored in the private storage space of the app and not on an external server.
+The use of information received from Google Fit will adhere to the
+Google Fit Developer and User Data Policy
+, including the
+Limited Use requirements
+.
+Huawei Health permissions
+: Health Sync needs permission to access the Huawei Health data when you sync with Huawei Health. Health Sync only asks for the permissions it really needs. Without these permissions, the data can’t be synced. Health Sync asks for the country where you live, because the Huawei Health integration doesn’t work in all countries. The country is stored with the private data of Health Sync and is never shared with others.
+Health Connect permissions
+(Android only): Health Sync needs permission to read or write data to Health Connect on your phone, when you want to sync health or fitness data with Health Connect. Health Sync only asks for the permissions it really needs based on the data that you want to sync.
+The use of information received from Health Connect will adhere to the Health Connect Permissions Policy, including the
+Limited Use requirements
+.
+Fitbit permissions
+: Health Sync needs permission to access your Fitbit data when you sync with Fitbit. Without these permissions, the data can’t be synced.
+The use of information received from Fitbit APIs and/or Developer Tools will adhere to the
+Fitbit Platform Developer and User Data Policy
+, including the
+Limited Use requirements
+.
+Authorization
+Health Sync does not receive the account password of the accounts you use for any of the linked health and fitness apps. Health Sync uses the secure mechanisms of the fitness apps and platforms to get authorization for the connection. When you need to give your account credentials, you only do this on a secure site of the fitness app/platform. Health Sync does not have access to these authorization pages. This safe authorization mechanism is known as OAuth 1 or OAuth 2.
+Payment
+Health Sync only uses information from your account for the synchronization of the health data. When you purchase Health Sync unlimited usage or subscribe to Health Sync, the financial operation is handled by the app store payment service (Google Play, Huawei AppGallery, Apple App Store). Health Sync does not receive information from Google, Huawei or Apple about your bank account, credit card, or other payment method you may use.
+Log data protection
+When you choose the option in the Help Center to ‘Report another problem’, the log data is sent to the app developer together with the email address you provided when sending the report. This email address and the log data is only used for support reasons and can only be accessed by the app developer. The log data is sent to a secure server that can’t be accessed by others than the app developer, using a secure connection between Health Sync on your phone and the appyhapps.nl secure server (in the Google Cloud). The log data will be analyzed and then deleted, within one week after you sent the information. Log data and your email address will never be given to others or published outside the secure systems of appyhapps.nl.
+Anonymous crash and log data
+When you download Health Sync through the Google Play Store,  anonymous crash data will be sent to a Google server when a crash occurs. Only appyhapps.nl has access to this anonymous usage and crash data. This data doesn’t contain any information about personal data or about the synced data.
+If you have questions about the Health Sync privacy policy, you can use the
+contact page
+on this site or you can send an email to
+info@appyhapps.nl
+This privacy policy was last updated on July 14, 2024.

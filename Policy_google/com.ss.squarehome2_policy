@@ -1,0 +1,39 @@
+Used Permissions
+This launcher uses the following permissions for the purpose of implementing the features. It collects no personal information at all.
+# for general purpose of the launcher
+"android.permission.SET_WALLPAPER"
+"android.permission.SET_WALLPAPER_HINTS"
+"android.permission.EXPAND_STATUS_BAR"
+#  for the long-click call feature in contacts page
+"android.permission.CALL_PHONE"
+# for the "Contacts" page
+"android.permission.READ_CONTACTS"
+# for notifications on tiles
+"android.permission.READ_CALENDAR"
+"android.permission.GET_ACCOUNTS"
+"com.google.android.gm.permission.READ_CONTENT_PROVIDER"
+# for the "Smart" sorting feature of the app drawer
+When you set the sorting order of the app drawer to "Smart", the best apps are pulled to the top by the using patterns (location, time of day and device conditions)
+"android.permission.READ_PHONE_STATE"
+"android.permission.ACCESS_WIFI_STATE"
+"android.permission.ACCESS_NETWORK_STATE"
+# for the "Flashlight" widget
+"android.permission.CAMERA"
+# for fingerprint authentication on password input
+"android.permission.USE_FINGERPRINT"
+# for Private space support
+"android.permission.ACCESS_HIDDEN_PROFILES"
+Share
+Get link
+Facebook
+X
+Pinterest
+Email
+Other Apps
+Share
+Get link
+Facebook
+X
+Pinterest
+Email
+Other Apps

@@ -1,0 +1,627 @@
+FBReader
+Favourite Book Reader
+Platform
+Android
+iOS
+Windows
+Mac
+Linux
+Chrome OS
+Obsolete versions
+News
+All news
+Blog
+Telegram channel
+RSS
+Get Help
+F.A.Q.
+Chat
+Book formats
+Book sources
+ЛитРес book store
+About us
+More
+The book network
+FBReader SDK
+Support the project
+The book network
+The SDK
+Support the project
+Сайт на русском
+Terms and conditions
+This is a legal agreement between users of this service ("you", "your") and FBReader.ORG Limited ("we", "our"), the company behind FBReader. This agreement covers your usage of the FBReader app and fbreader.org site and its subdomains ("the service").
+FBReader.ORG Limited
+Our company
+is registered in the United Kingdom. We are working under British jurisdiction.
+Privacy
+We do not share any information received from you during usage of the service, implicitly or explicitly, with any third party. We do our best to protect your data stored on our servers from leaks.
+We do not send spam. If you share your email with our site or app for signing in to the FBReader Book Network, we never use it for sending you messages.
+The information is stored on cloud servers provided by
+Linode
+. The servers are physically located in London, UK. Please read
+their privacy notes
+for details.
+Disclaimer of Warranties
+THE SERVICE IS PROVIDED "AS IS". WHEN ALLOWED BY LOCAL LAW, WE HEREBY DISCLAIM ALL WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE MAKE NO WARRANTY THAT THE SERVICE WILL BE ERROR FREE OR THAT ACCESS WILL BE CONTINUOUS OR UNINTERRUPTED. YOU UNDERSTAND THAT USE OF THE SERVICE IS ENTIRELY AT YOUR DISCRETION AND RISK.
+In simple words, you use the service at your own risk. We do our best to keep your data safe, but the final responsibility is in your hands.
+Limitation of Liability
+TO THE EXTENT NOT PROHIBITED BY LAW, IN NO EVENT SHALL WE BE LIABLE FOR ANY GENERAL, SPECIAL, CONSEQUENTIAL, INCIDENTAL OR OTHER DAMAGES, INCLUDING, WITHOUT LIMITATION, LOSS OF DATA, INCORRECT DATA, BUSINESS INTERRUPTION, OR ANY OTHER DAMAGES OR LOSSES INCURRED BY YOUR USE OF, OR INABILITY TO USE THIS SERVICE, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, AND REGARDLESS OF THE THEORY OF LIABILITY.
+Last updated: 2nd August 2022.
+Our site uses cookies to make your browsing convenient. Some cookies are necessary. Please, select your preferred variant below to continue to the FBReader site.
+Sub-section Policy: 
+Sub-policy 0
+https://www.linode.com/compliance:
+Twitter
+LinkedIn
+Email
+Close
+X
+Skip to main content
+Legal
+Compliance
+Information Security Compliance
+One way that Akamai demonstrates its commitment to ensuring the safety of ourselves, our customers, and internet end users around the world is by ensuring that we comply with a variety of global and regional information security compliance programs. A summary of these programs, with links to more resources, is available below.
+Read about Akamai’s information security program.
+Read about Akamai’s data protection and privacy programs
+.
+Global
+PCI DSS
+Payment Card Industry Data Security Standard
+Learn more
+SOC 2
+System and Organization Controls 2, Type 1 and 2
+Learn more
+ISO 27001
+International Organization for Standardization, Security Management Controls
+Learn more
+ISO 27017
+International Organization for Standardization, Public Cloud Security Controls
+Learn more
+ISO 27018
+International Organization for Standardization, Public Cloud Privacy Controls
+Learn more
+ISO 27701
+International Organization for Standardization, Privacy Management Controls
+Learn more
+ProcessUnity Global Risk Exchange (formerly CyberGRX)
+Third-party risk exchange
+Learn more
+Regional
+FedRAMP
+The Federal Risk and Authorization Management Program, U.S. Government Cloud Service Provider Authorization
+Learn more
+HIPAA
+Health Insurance Portability and Accountability Act, Protected Health Information
+Learn more
+Cyber Essentials
+Cyber Security Standard of the UK National Cyber Security Centre
+Learn more
+BSI
+Bundesamt für Sicherheit in der Informationstechnik, Approved Critical Infrastructure Provider, Germany
+Learn more
+C5
+Operational Cloud Security Attestation in Germany: Cloud Computing Compliance Criteria Catalogue
+Learn more
+TISAX
+Trusted Information Security Assessment Exchange (TISAX) used by the European Auto Industry
+Learn more
+IRAP
+Infosec Registered Assessors Program, Australian Government Security Standards
+Learn more
+Korea Financial Security Institute
+CSP Safety Assessment
+Learn more
+PCI DSS Level 1
+Overview
+Payment Card Industry Data Security Standard (PCI DSS) compliance is required for any business that stores, processes, or transmits payment card data. Developed by the major credit card companies, the PCI DSS defines measures for ensuring data protection and consistent security processes and procedures around online financial transactions. As formulated by the PCI Security Standards Council, the mandate of PCI DSS compliance includes:
+Developing and maintaining a security policy that covers all aspects of the business
+Installing firewalls to protect data
+Encrypting cardholder data that is transmitted over public networks
+Using antivirus software and updating it regularly
+Establishing strong passwords and other cybersecurity protocols
+Enforcing rigid access controls and monitoring access to account data
+For large merchants and service providers that process high volumes of online financial transactions, PCI DSS compliance is enforced by annual validations performed by an independent Qualified Security Assessor (QSA).
+Resources
+PCI Security
+Akamai Certification
+Akamai’s Attestation of Compliance (AoC) serves as evidence for our customers that our in-scope services are compliant with the PCI DSS v4.0 security standard.
+In connection with our PCI DSS compliance, Akamai performs semiannual third-party external penetration tests of the systems included in the scope of our assessment. Results of these penetration tests, and compliance documentation and/or certification, are available for customers under nondisclosure agreement (NDA) in the Download Center section of the Akamai Control Center customer portal.
+Downloads / Links
+Attestation of Compliance
+Responsibility Matrix
+Responsibility Matrix (Cloud Computing Services)
+Applicable Akamai Services
+Secure CDN with Enhanced TLS (Secure CDN)
+Content delivery products, such as Ion, Dynamic Site Accelerator, API Acceleration, and Adaptive Media Delivery, when running on the Secure CDN
+EdgeWorkers, when running on the Secure CDN
+mPulse digital performance management services
+App and API security products, such as App & API Protector (including the Malware Protection add-on), Account Protector, API Gateway, Cloudlets, and Bot Manager, when running on the Secure CDN
+API Security (formerly Noname Security)
+API Security (formerly Neosec)
+Client-Side Protection & Compliance
+Audience Hijacking Protector
+Secure Internet Access Enterprise (formerly known as Enterprise Threat Protector)
+Akamai MFA
+Akamai Guardicore Segmentation
+The following cloud computing solutions: Dedicated CPU, Shared CPU, and High Memory
+Q&A
+Is Akamai PCI DSS Certified?
+Yes, Akamai is certified as a PCI DSS Level 1 Service Provider, the highest level of assessment available. The PCI DSS Attestation of Compliance and Responsibility Matrices are publicly available at the links above.
+If my website is using Akamai, how can I be sure that it is PCI DSS compliant?
+Customers are responsible for their own PCI DSS certification and should engage a Qualified Security Assessor (QSA) to validate their controls and obtain certification. Customers and their QSAs may rely on Akamai’s Attestation of Compliance for the portion of their cardholder data environment to use Akamai’s PCI DSS compliant services. Akamai’s PCI DSS Responsibility Matrices (see links above) spell out the responsibilities of Akamai and our customers with respect to each of the PCI DSS requirements. Our PCI DSS Customer Configuration Guide, which provides more details, is available in the Download Center section of the Akamai Control Center customer portal, or your account team can provide it to you.
+Can I review an executive summary of Akamai’s quarterly Approved Scanning Vendor (ASV) vulnerability scans and external penetration tests?
+Yes. Your account team may provide this information subject to standard nondisclosure agreement (NDA). It is also available in the Download Center section of the Akamai Control Center customer portal.
+Return to top
+SOC 2
+Overview
+SOC (System and Organization Controls) is a security standard promulgated by the American Institute of Certified Public Accountants (AICPA) that reports on controls that directly relate to the security, availability, processing integrity, confidentiality, and privacy at a service organization.
+Resources
+AICPA SOC Suite of Services
+Akamai Compliance
+Akamai receives annual SOC 2 Type 2 reports, which demonstrate that our security controls are continuously audited over the course of the year.
+Applicable Akamai Services
+AAkamai’s primary SOC 2 Type 2 report covers the Security and Availability Trust Services Criteria. The Akamai services in scope for this report are as follows:
+Content Delivery services such as Ion and Dynamic Site Delivery
+App and API security services including App & API Protector, Kona Site Defender, Kona DDoS Defender, and Web Application Protector
+Abuse and fraud protection solutions, including Account Protector, Bot Manager,  and Content Protector
+Prolexic DDoS mitigation services
+Akamai Control Center customer portal
+Edge DNS
+Global Traffic Management
+Additional systems supporting access management, key management, and other infrastructural systems
+Akamai’s SOC 2 Type 2 reports for Akamai Guardicore Segmentation, API Security (formerly Neosec), and API Security (formerly Noname Security) cover the Security, Availability, and Confidentiality Trust Services Criteria.
+Akamai’s SOC 2 Type 2 report for the Akamai Identity Cloud service covers all five Trust Services Criteria.
+Akamai also has SOC 2 Type 1 reports covering the Security and Availability Trust Services Criteria with respect to the following services:
+Cloud Computing Services:
+Compute:
+Dedicated CPU Compute
+Shared CPU Compute
+High Memory Compute
+GPU Compute
+Storage:
+Object Storage
+Block Storage
+Backups
+Networking:
+Cloud Firewalls
+DDoS Protection
+NodeBalancers
+Virtual Private Cloud (VPC)
+VLANs
+Developer Tools:
+API
+Cloud Manager Portal
+Security Services:
+Shield NS53
+Akamai MFA
+AnswerX Cloud / Managed
+Secure Internet Access Essentials 1.0
+Q&A
+How do I get a copy of the SOC 2 reports?
+Your Akamai account team can provide you with copies. The reports are also available in the Download Center section of the Akamai Control Center customer portal.
+What regions are covered?
+Akamai’s SOC 2 reports cover Akamai’s services as a whole, and are not limited to particular regions.
+Do you have a bridge letter covering the period since the last covered period?
+Your account team can provide you with a bridge letter covering the period since the last issued report.
+Does Akamai have a certificate of SOC 2 compliance?
+SOC 2 does not offer a certificate of compliance. Instead, qualified third-party assessors produce a report on compliance for the assessed organization, discussing its system description, scope, control descriptions for meeting common criteria, evidence, and suitability of the organization’s descriptions and evidence.
+Why are there multiple SOC 2 reports for Akamai?
+Akamai now has SOC 2 reports covering Identity Cloud, Akamai Guardicore Segmentation, API security solutions, and cloud computing services. These services were a result of recent acquisitions by Akamai. For the time being, Akamai has chosen to keep these reports separate.
+Does Akamai have a SOC 1 report?
+Akamai does not undergo a SOC 1 audit. The purpose of a SOC 1 report is to address a service provider’s internal controls that may impact their customers’ financial reporting. Akamai’s customers do not outsource to Akamai business processes that are critical to their financial reporting, so a SOC 1 audit is not relevant to the services that Akamai provides.
+Return to top
+ISO/IEC 27001:2022
+Overview
+ISO 27001 is an international standard for information security management systems (ISMS). It provides a framework for organizations to manage their sensitive information and data in a secure manner, protecting it against unauthorized access, disclosure, destruction, or loss. The standard is risk-based and outlines a set of best practices, controls, and processes for ensuring information security. It is widely adopted by organizations around the world, and is often used as a benchmark for information security management.
+Resources
+ISO/IEC 27001:2022
+Downloads / Links
+Akamai’s ISO/IEC 27001:2022 Certificate
+Applicable Akamai Services
+Ion (when configured to run on Akamai’s Secure CDN with Enhanced TLS)
+Dynamic Site Accelerator (when configured to run on Akamai’s Secure CDN with Enhanced TLS)
+App & API Protector (when configured to run on Akamai’s Secure CDN with Enhanced TLS)
+API Acceleration (when configured to run on Akamai’s Secure CDN with Enhanced TLS)
+Global Traffic Management Protect & Perform
+Edge DNS
+Shield NS53
+Secure Internet Access Enterprise (formerly known as Enterprise Threat Protector)
+Enterprise Application Access
+Akamai MFA
+Bot Manager Premier
+Account Protector
+Content Protector
+Akamai Control Center portal
+Akamai Guardicore Segmentation
+Prolexic IP Protect
+Prolexic Routed Primary Location
+Prolexic Routed Additional Location
+Akamai Identity Cloud
+Secure Internet Access IoT Private Access
+Secure Internet Access Mobile Platform
+Secure Internet Access Mobile Private Access
+Secure Internet Access Mobile Standard
+Compute
+Dedicated CPU Plans
+Shared CPU Plans
+High Memory Plans
+GPU Plans
+Premium CPU Plans
+Storage
+Object Storage
+Block Storage
+Images
+Backups
+Networking
+NodeBalancers
+VPC
+Free bundled cloud computing services
+No-cost security, networking, maintenance, and monitoring solutions
+Cloud Manager Portal
+Q&A
+How do I obtain a copy of Akamai’s Statement of Applicability?
+In addition to the certificate provided above, your Akamai account team can provide you with a copy of the related Statement of Applicability, which applies to all of our ISO certifications. It is also available in the Download Center section of the Akamai Control Center customer portal.
+Return to top
+ISO/IEC 27017:2015
+Overview
+ISO/IEC 27017:2015 gives guidelines for information security controls applicable to the provision and use of cloud services by providing additional implementation guidance and controls to supplement those used for ISO 27001, and specifically tailored to cloud service providers and cloud service customers.
+Resources
+ISO/IEC 27017:2015
+Downloads / Links
+Akamai’s ISO/IEC 27017:2015 certificate
+Applicable Akamai Services
+Ion (when configured to run on Akamai’s Secure CDN with Enhanced TLS)
+Dynamic Site Accelerator (when configured to run on Akamai’s Secure CDN with Enhanced TLS)
+App & API Protector (when configured to run on Akamai’s Secure CDN with Enhanced TLS)
+API Acceleration (when configured to run on Akamai’s Secure CDN with Enhanced TLS)
+Global Traffic Management Protect & Perform
+Edge DNS
+Shield NS53
+Secure Internet Access Enterprise (formerly known as Enterprise Threat Protector)
+Enterprise Application Access
+Akamai MFA
+Bot Manager
+Account Protector
+Content Protector
+Akamai Control Center portal
+Akamai Guardicore Segmentation
+Prolexic IP Protect
+Prolexic Routed Primary Location
+Prolexic Routed Additional Location
+Akamai Identity Cloud
+Secure Internet Access IoT Private Access
+Secure Internet Access Mobile Platform
+Secure Internet Access Mobile Private Access
+Secure Internet Access Mobile Standard
+Compute
+Dedicated CPU Plans
+Shared CPU Plans
+High Memory Plans
+GPU Plans
+Premium CPU Plans
+Storage
+Object Storage
+Block Storage
+Images
+Backups
+Networking
+NodeBalancers
+VPC
+Free bundled cloud computing services
+No-cost security, networking, maintenance, and monitoring solutions
+Cloud Manager Portal
+Q&A
+How do I obtain a copy of Akamai’s Statement of Applicability?
+In addition to the certificate provided above, your Akamai account team can provide you with a copy of the related Statement of Applicability, which applies to all of our ISO certifications. It is also available in the Download Center section of the Akamai Control Center customer portal.
+Return to top
+ISO/IEC 27018:2019
+Overview
+This standard provides guidance aimed at ensuring that cloud service providers offer suitable information security controls to protect the privacy of their customers’ clients by securing the personally identifiable information (PII) entrusted to them.
+The standard serves as a reference for selecting PII protection controls when implementing a cloud computing information security management system based on ISO/IEC 27018. It also provides guidance on implementing PII protection controls.
+Resources
+ISO/IEC 27018:2019
+Downloads / Links
+Akamai’s ISO/IEC 27018:2019 certificate
+Applicable Akamai Services
+Ion (when configured to run on Akamai’s Secure CDN with Enhanced TLS)
+Dynamic Site Accelerator (when configured to run on Akamai’s Secure CDN with Enhanced TLS)
+App & API Protector (when configured to run on Akamai’s Secure CDN with Enhanced TLS)
+API Acceleration (when configured to run on Akamai’s Secure CDN with Enhanced TLS)
+Global Traffic Management Protect & Perform
+Edge DNS
+Shield NS53
+Secure Internet Access Enterprise (formerly known as Enterprise Threat Protector)
+Enterprise Application Access
+Akamai MFA
+Bot Manager
+Account Protector
+Content Protector
+Akamai Control Center portal
+Akamai Guardicore Segmentation
+Prolexic IP Protect
+Prolexic Routed Primary Location
+Prolexic Routed Additional Location
+Akamai Identity Cloud
+Secure Internet Access IoT Private Access
+Secure Internet Access Mobile Platform
+Secure Internet Access Mobile Private Access
+Secure Internet Access Mobile Standard
+Compute
+Dedicated CPU Plans
+Shared CPU Plans
+High Memory Plans
+GPU Plans
+Premium CPU Plans
+Storage
+Object Storage
+Block Storage
+Images
+Backups
+Networking
+NodeBalancers
+VPC
+Free bundled cloud computing services
+No-cost security, networking, maintenance, and monitoring solutions
+Cloud Manager Portal
+Q&A
+How do I obtain a copy of Akamai’s Statement of Applicability?
+In addition to the certificate provided above, your Akamai account team can provide you with a copy of the related Statement of Applicability, which applies to all of our ISO certifications. It is also available in the Download Center section of the Akamai Control Center customer portal.
+Return to top
+ISO 27701:2019
+Overview
+ISO/IEC 27701:2019 is an information security standard published by the International Organization for Standardization (ISO) and by the International Electrotechnical Commission (IEC) to expand the information security management system (ISMS) of ISO/IEC 27001 to further address protection of privacy in the context of the processing of PII through a privacy information management system (PIMS). An organization complying with the requirements of ISO/IEC 27701 must generate documentary evidence of how it handles the processing of PII as a processor and/or as a controller.
+Resources
+About ISO
+ISO/IEC 27701:2019
+Downloads / Links
+Akamai’s ISO/IEC 27701:2019 certificate
+Applicable Akamai Services
+Ion (when configured to run on Akamai’s Secure CDN with Enhanced TLS)
+Dynamic Site Accelerator (when configured to run on Akamai’s Secure CDN with Enhanced TLS)
+App & API Protector (when configured to run on Akamai’s Secure CDN with Enhanced TLS)
+API Acceleration (when configured to run on Akamai’s Secure CDN with Enhanced TLS)
+Global Traffic Management Protect & Perform
+Edge DNS
+Shield NS53
+Secure Internet Access Enterprise (formerly known as Enterprise Threat Protector)
+Enterprise Application Access
+Akamai MFA
+Bot Manager Premier
+Account Protector
+Content Protector
+Akamai Control Center portal
+Akamai Guardicore Segmentation
+Prolexic IP Protect
+Prolexic Routed Primary Location
+Prolexic Routed Additional Location
+Akamai Identity Cloud
+Secure Internet Access IoT Private Access
+Secure Internet Access Mobile Platform
+Secure Internet Access Mobile Private Access
+Secure Internet Access Mobile Standard
+Compute
+Dedicated CPU Plans
+Shared CPU Plans
+High Memory Plans
+GPU Plans
+Premium CPU Plans
+Storage
+Object Storage
+Block Storage
+Images
+Backups
+Networking
+NodeBalancers
+VPC
+Free bundled cloud computing services
+No-cost security, networking, maintenance, and monitoring solutions
+Cloud Manager Portal
+Q&A
+How do I obtain a copy of Akamai’s Statement of Applicability?
+In addition to the certificate provided above, your Akamai account team can provide you with a copy of the related Statement of Applicability, which applies to all of our ISO certifications. It is also available in the Download Center section of the Akamai Control Center customer portal.
+Return to top
+ProcessUnity Global Risk Exchange (formerly CyberGRX)
+Overview
+The ProcessUnity Global Risk Exchange (formerly CyberGRX) provides an extensive enterprise security assessment that is validated by third parties and made available to companies to help evaluate their vendors’ enterprise security risk.
+Resources
+Global Risk Exchange
+Akamai Certification
+To access Akamai’s ProcessUnity assessment report,
+please complete this form
+.
+Downloads / Links
+Akamai’s Global Risk Exchange page
+Return to top
+FedRAMP
+Overview
+A U.S. government compliance program, the Federal Risk and Authorization Management Program (FedRAMP) provides a standardized approach to security assessment, authorization, and continuous monitoring for cloud products and services.
+FedRAMP created and manages a core set of processes to ensure effective and repeatable cloud security for the U.S. government. It established a mature marketplace to increase utilization and familiarity with cloud services.
+Resources
+FedRAMP
+Akamai Certification
+Since 2013, Akamai has a FedRAMP Joint Authorization Board (JAB) Provisional Authorization to Operate (ATO) for a Moderate baseline, as an infrastructure as a service (IaaS) provider.
+Downloads / Links
+Akamai’s FedRAMP Marketplace page
+Applicable Akamai Services
+Akamai’s content delivery network for HTTP and HTTPS delivery (known as the ESSL and FreeFlow Networks) and services running on them
+Web Application Edge Protection such as App & API Protector and Kona Site Defender
+Edge DNS (with DNSSEC)
+NetStorage
+Media streaming services
+Akamai Control Center
+Global Traffic Management
+Q&A
+How do I access Akamai’s FedRAMP documentation?
+Customers can get the “Package Access Request Form” from the FedRAMP Marketplace
+website
+.
+What is Akamai’s FedRAMP Impact level?
+Akamai’s FedRAMP authorization is at the Moderate Impact level. According to
+FedRAMP
+, a Moderate Impact system comprises “nearly 80% of CSP applications that receive FedRAMP authorization and is most appropriate for CSOs where the loss of confidentiality, integrity, and availability would result in serious adverse effects on an agency’s operations, assets, or individuals. Serious adverse effects could include significant operational damage to agency assets, financial loss, or individual harm that is not loss of life or physical.”
+At this time, Akamai has not sought FedRAMP authorization for the High Impact level.
+Return to top
+HIPAA/HITECH
+Overview
+The U.S. Health Insurance Portability and Accountability Act of 1996 (HIPAA) set forth the requirements for the processing of individually identifiable health information by healthcare service and insurance providers.
+The Health Information Technology for Economic and Clinical Health Act of 2009 (HITECH) defines access rights to health data and mechanisms for patients to maintain control over their data. It expands HIPAA to cover the exchange of electronic protected health information (ePHI) as well as the scope of privacy and security protections under HIPAA.
+Resources
+HIPAA Security Rule
+HITECH Act Breach Notification Requirements
+Akamai Compliance
+Where Akamai is engaged by its healthcare customers to process healthcare data, it may be considered a Business Associate, and a Business Associate Agreement might be required between Akamai and the healthcare customer. A copy of Akamai’s standard Business Associate Agreement is available upon request.
+Akamai undergoes regular third-party assessments in accordance with the HIPAA Security Rule, which requires that business associates “conduct an accurate and thorough assessment of the potential risks and vulnerabilities to the confidentiality, integrity, and availability” of ePHI held by the business associate. The Executive Summary of our most recent assessment and/or the related letter by the assessors is available to Akamai customers and partners subject to nondisclosure agreement (NDA).
+Downloads / Links
+Akamai’s HIPAA and HITECH Act Compliance Statement
+Applicable Akamai Services
+Secure CDN with Enhanced TLS (Secure CDN), and the services running on it
+Content Delivery products such as Ion, API Acceleration, and Adaptive Media Delivery, when running on the Secure CDN
+App and API security products such as App & API Protector, Account Protector, Kona Site Defender, and Bot Manager (Standard and Premier), when running on the Secure CDN
+API Security (formerly Noname Security)
+Akamai Guardicore Segmentation
+Enterprise Application Access
+Akamai Identity Cloud
+Akamai Control Center
+Compute
+Dedicated CPU Plans
+Shared CPU Plans
+High Memory Plans
+GPU Plans
+Linode Kubernetes Engine
+Storage
+Object Storage
+Block Storage
+Images
+Backups
+Networking
+NodeBalancers
+Free bundled cloud computing services
+No-cost security, networking, maintenance, and monitoring solutions
+Cloud Manager Portal
+Return to top
+Cyber Essentials
+Overview
+Cyber Essentials is a comprehensive and trusted certification scheme, endorsed by the U.K. government, designed to protect organizations of all sizes against a variety of common cyberattacks. The standard is centered around a set of best practices that organizations can implement to bolster their cybersecurity defenses.
+With Cyber Essentials, organizations can take proactive measures to safeguard against these types of attacks. By adhering to a set of guidelines, organizations can significantly reduce the likelihood of falling victim to cybercrime. This includes implementing measures such as firewalls, malware protection, and secure network configuration, among others.
+The scope of Akamai’s Cyber Essentials certification is as follows:
+Akamai facilities on the territory of the United Kingdom
+Akamai employees and devices in their use on the territory of the United Kingdom
+Corporate services that are used to deliver service to the United Kingdom by said employees
+Devices and workstations on the territory of the United Kingdom applicable to Akamai’s services performed in the United Kingdom
+Resources
+Cyber Essentials Website
+Akamai Compliance
+Akamai’s Cyber Essentials Certificate
+Return to top
+Bundesamt für Sicherheit in der Informationstechnik (BSI)
+Approved Critical Infrastructure Provider, Germany
+Overview
+Since June 2017, Akamai has fulfilled the requirements for critical infrastructure service providers for its content delivery network services in Germany, implemented by the German BSI (Federal Office for Information Security). In accordance with the underlying legislation, the BSI Act, Akamai performs a third-party audit every two years to prove that its technical and organizational measures appropriately protect its system and ensure the availability, integrity, authenticity, and confidentiality of its services.
+As part of the audit, Akamai Germany provides evidence to the BSI of its state-of-the-art security ensuring the availability, integrity, authenticity, and confidentiality of its critical systems. The basis for these audits is Akamai’s SOC 2 Type 2 report, ISO 27001 certification assessment, and several on-site audits by the auditor in data centers across Germany.
+In addition to Akamai’s classification as a critical service provider for its content delivery services, the BSI also
+recommends several of Akamai’s application and infrastructure security services
+to other critical service providers.
+Resources
+BSI Home Page
+BSI Act
+BSI Critical Infrastructures
+Applicable Akamai Services
+Akamai CDN, which includes all of Akamai’s content delivery services such as Ion and Dynamic Site Accelerator.
+Return to top
+C5 (Germany)
+Overview
+The German C5 (Cloud Computing Compliance Criteria Catalogue) program specifies minimum requirements for secure cloud computing and is primarily intended for professional cloud providers and their auditors and customers. The German Federal Office for Information Security (BSI) published the first version in 2016 and published a completely revised version in 2019.
+The C5 has established itself successfully on the market and in the EU region as the foundation of a customer-specific system of risk management for cloud compute services.
+Resources
+C5 Home Page
+Applicable Akamai Services
+Compute:
+Dedicated CPU Compute
+Shared CPU Compute
+High Memory Compute
+GPU Compute
+Storage:
+Object Storage
+Block Storage
+Backups
+Networking:
+Cloud Firewalls
+DDoS Protection
+NodeBalancers
+Developer Tools:
+API
+Cloud Manager
+Return to top
+TISAX
+Overview
+The Trusted Information Security Assessment Exchange (TISAX) program provides a standard for the European automotive industry and its service providers to standardize their evaluations of information security systems. Akamai has completed this assessment, and it is available to customers via the TISAX portal.
+TISAX, governed by the
+ENX Association
+on behalf of the German
+VDA
+(Verband der Automobilindustrie, the German Association of the Automotive Industry), provides a single industry-specific security framework for assessing information security for the wide landscape of suppliers, OEMs, and partners that contribute to the automobile supply chain.
+As a part of the process, Akamai Technologies GmbH (Garching, Germany) is audited for assessment level 2 (AL2), meaning it is assessed against the applicable objectives and has received the following labels: Information with High Protection, Data Protection according to EU-GDPR Art. 28 (“Processor”), and High Availability under the definition of TISAX.
+TISAX assessments are conducted by accredited audit providers that demonstrate their qualification at regular intervals. TISAX results are exclusively retrievable over the
+ENX portal
+.
+If you’re an industry representative registered with ENX, you can find the TISAX assessment details on the
+ENX portal
+.
+To access Akamai assessment results:
+Sign in to your existing TISAX account and search for Akamai Technologies, Inc.
+Alternatively, you may narrow your search using the following information:
+Akamai Assessment ID:
+ANFKLC-1
+Assessment Level 2 (AL2) scope ID:
+SYT6PR
+Resources
+ENX Portal
+VDA Publications
+German Association of the Automotive Industry (
+Verband der Automobilindustrie
+, VDA)
+TISAX Frequently Asked Questions
+Return to top
+IRAP (Australia)
+Overview
+Australia’s Infosec Registered Assessors Program (IRAP) provides Australian government customers a validation that appropriate security controls are in place per the Australian Government Information Security Manual (ISM). The purpose of the ISM is to outline a cybersecurity framework that organizations can apply to protect their information and systems from online threats.
+The ISM consists of more than 870 security controls that define security requirements in more than 80 areas, such as:
+Cybersecurity incidents
+System hardening
+Vulnerability management
+Patching
+Cryptography
+Network design
+Application development
+Resources
+Australian Signals Directorate (ASD)
+Infosec Registered Assessors Program (IRAP)
+Akamai Compliance
+Akamai is assessed every two years by an independent auditor for compliance with the IRAP Security Controls defined in the ISM. The assessment covers both Akamai’s production and corporate network environments. Akamai has been assessed for a Protected IRAP level. A letter certifying the completion of the assessment the IRAP Official Assessor is available subject to nondisclosure agreement (NDA).
+Please contact your Akamai account team for more information.
+Applicable Akamai Services
+Secure CDN with Enhanced TLS, and the services running on it
+Content Delivery products such as Ion and Dynamic Site Accelerator, when running on the Secure CDN with Enhanced TLS
+Bot Manager
+App and API security products, such as App & API Protector, Kona Site Defender, Web Application Protector, and Bot Manager, when running on the Secure CDN with Enhanced TLS
+Edge DNS
+Global Traffic Manager
+Return to top
+CSP Safety Assessment by Korea Financial Security Institute (Korea)
+Overview
+The Korea Financial Security Institute (K-FSI) conducts the CSP Safety Assessment to ensure compliance with the Regulation on Supervision of Electronic Financial Transactions. This evaluation is a mandatory requirement for cloud solutions to be adopted by financial institutions in Korea. The evaluation assesses the safety and reliability of cloud services, and enables financial institutions to meet regulatory standards.
+Akamai has completed the 2024 CSP Safety Assessment, making the services listed below available to Korean financial services customers.
+Resources
+Korean Financial Security Institute
+Applicable Akamai Services
+Secure CDN with Enhanced TLS
+Content Delivery products such as Ion and Dynamic Site Accelerator, when running on the Secure CDN with Enhanced TLS
+App and API security products such as App & API Protector and Bot Manager, when running on the Secure CDN with Enhanced TLS
+Edge DNS
+Return to top
+Your cookie choices for this website
+We use cookies to ensure the fast reliable and secure operation of this website, to improve your website experience, to enable certain social media interactions and to manage your cookie choices. Some cookies process personal data. By agreeing to the placement of the cookies you also agree to the related personal data processing activities, where applicable. Click “Manage Preferences” to make individual choices and get details on the cookies in use and the processing activities in the Cookie Details section, click “Accept Cookies” to agree to the storing of all cookies except for strictly necessary cookies and the data processing activities or click “Reject Cookies” to reject all cookies except for strictly necessary cookies. You can withdraw your consent at any time by clicking on the Cookie Icon that appears at the lower left corner when scrolling the website. For additional information relating to your privacy take a look at our
+Privacy Statement.
+Accept Cookies
+Manage Preferences
+Reject Cookies

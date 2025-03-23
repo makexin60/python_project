@@ -1,0 +1,116 @@
+Welcome to LaterLinks
+LaterLinks
+is an intuitive application that helps you save, organize, and access links anytime,
+      anywhere.
+      Whether it’s an article, a video, a webpage, or any online resource, LaterLinks ensures you never lose track of
+      important content.
+Key Features
+Save links from any app using the share menu.
+Access your saved links anytime, even offline.
+Sync links with Google Drive
+for seamless access across multiple devices.
+Organize links efficiently for quick retrieval.
+Lightweight, privacy-focused, and free from ads.
+Why LaterLinks Requests Google Drive Access
+LaterLinks offers
+syncing capabilities
+with Google Drive, allowing you to access your saved links from
+      different devices. Here’s why:
+Cross-Device Access:
+Your links are saved in a secure file on your Google Drive, so they are
+        available on all devices linked to your Google account.
+Backup & Restore:
+If you switch devices or reinstall the app, your saved links will be
+        automatically restored.
+Important:
+LaterLinks only accesses the folder it creates in your Google Drive. It does
+not
+access any other files or folders. You can also revoke access at any time from
+      your Google account
+      settings.
+Privacy & Data Security
+We take privacy seriously. LaterLinks is designed to ensure that your data remains in
+your control
+. Here’s
+      how we handle your information:
+We do
+not
+collect, store, or sell any personal data.
+Your saved links are stored
+only on your device
+and in your Google Drive (if
+        sync is enabled).
+We do
+not
+track your activity or share your data with third parties.
+For full details, please review our
+Privacy Policy
+.
+How to Get Started
+Using LaterLinks is simple:
+Install the app from the Play Store.
+Share links from any app and select
+LaterLinks
+as the destination.
+Access saved links within the LaterLinks app.
+(Optional) Enable
+Google Drive sync
+for cross-device access.
+Questions?
+If you have any questions or feedback, feel free to reach out. We’re always looking to improve the experience for
+      our users.
+Privacy Policy
+Terms and Conditions
+Sub-section Policy: 
+Sub-policy 0
+https://holdmylink-4e816.firebaseapp.com/privacy_policy.html:
+Privacy Policy
+Welcome to
+LaterLinks
+! Your privacy is important to us. This page outlines what
+      data we collect, how it is used, and our commitment to protecting your information.
+Data Collection and Usage
+LaterLinks
+does not collect, store, or process any personal data. All saved links are stored
+      locally on your device unless you enable Google Drive sync.
+Google Drive Integration
+LaterLinks offers **optional** Google Drive integration to sync saved links across devices. Here’s how it works:
+A dedicated folder is created in your **Google Drive**.
+Your saved links are stored in a CSV file within this folder.
+Only LaterLinks has access to this specific folder—**no other files on your Google Drive are accessed**.
+Why We Request Google Drive Access
+To **sync your saved links** across multiple devices logged into the same Google account.
+To allow users to **restore their links** after reinstalling the app or switching devices.
+To provide a **secure and private** backup option without relying on third-party servers.
+How to Revoke Access
+If you no longer wish to sync your data with Google Drive, you can revoke access:
+Go to
+Google Account Permissions
+.
+Find **LaterLinks** in the list of connected apps.
+Select **Remove Access** to disconnect the app.
+Crash Reporting
+We use
+Firebase Crashlytics
+to collect crash data and improve app stability.
+      Crashlytics gathers non-personally identifiable data, such as device type, OS version, and app state during
+      crashes. This data is used **solely for debugging purposes**. Firebase's privacy policy can be found
+here
+.
+In-App Purchases
+The app uses the
+Google Play Billing Library
+to manage in-app purchases, granting
+      access to premium features. LaterLinks **does not store or process any payment information**. All transactions
+      are securely handled by Google Play. More details can be found in
+Google Play's privacy policy
+.
+Your Data, Your Control
+Since saved links are stored locally or in your Google Drive, **you have full control over your data**. You can:
+Delete or manage saved links within the app.
+Remove Google Drive access at any time.
+Manually delete the LaterLinks folder from your Google Drive.
+Contact Us
+If you have any questions about this privacy policy, feel free to contact us at
+dci.development.121@gmail.com
+.

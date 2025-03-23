@@ -1,0 +1,24 @@
+Winmail.dat Opener iOS App
+About
+Winmail.dat Opener is an app to open those pesky winmail.dat attachments.
+These attachment occur, when an email is sent through a badly configured MS Email infrastructure. Sometimes Outlook or the Exchange Server packs all attachments into a TNEF envelope.
+        Most of the non MS email clients cannot handle those TNEF envelopes. They will instead show an attachment called winmail.dat.
+The app itself registers as a handler for *.dat files. When you try to open a "winmail.dat" attachment from your email client, the app will be launched. You will get a list the content of the winmail.dat file.
+        You then can preview, resend, save to album and icloud or open the contained files with an external application.
+Support
+Please send all your questions to
+kontakt@t-reinhardt.ch
+Sorry, you need Javascript on to email me.
+FAQ:
+I can't open my "somename.dat" file?
+This Opener can only handle TNEF files (usually named 'winmail.dat'). There are quite a few other filetypes with a '.dat' suffix, which can not be opened with the winmail.dat Opener.
+The app doesn't find any attachments?
+Not all winmail.dat files contain attachments. Sometimes the winmail.dat file only contains the message text and some style information for Outlook.
+        If your winmail.dat file is small (less than 20KB) it is likely that there are no attachments contained.
+Privacy Policy
+What information do we collect?
+We do not use, save, or have access to the files you open with our app. Those files are processed on your device and we do not send those data (neither content nor metadata) to any external address.
+We use third-party tools to collect analytical data on how our Service is performing, to help identify what needs to be fixed, and to serve advertisements in all our free apps. Please see the "Third-party tools" section for more information.
+Third-party tools
+Google/Firebase Analytics: Firebase helps analyze how users use our app. For a list of data collected please refer to Google: https://support.google.com/firebase/answer/6318039. To further learn more about the technologies they use via cookies on your smartphone(s) and how to opt-out: https://www.google.com/policies/technologies/ads/.
+Google/Firebase Admob: Admob serves advertisements in our app. You can opt out of AdMob by following the instructions described by Google: https://support.google.com/ads/answer/2662922?hl=en. For more details about Admob and how they collect information please refer to these links: https://www.google.com/policies/privacy/partners/and https://www.google.com/policies/privacy/.

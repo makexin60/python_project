@@ -1,0 +1,91 @@
+Core Beacons
+Core Beacons
+is a free developer tool for iOS. It lists the advertisements of Bluetooth LE devices in range, as provided to applications by the CoreBluetooth API of iOS.
+Core Beacons
+lets you explore your “Bluetooth environment”, and shows how your iOS device presents this environment to applications.
+Core Beacons
+shows general CoreBluetooth information and if advertised by a device, service, and manufacturer-specific data. Detailed parsing support is available for:
+ruuvi tag
+sensor formats
+:
+3 (raw data v1)
+4 (sensor data encoded in Eddystone-URL)
+5 (raw data v2)
+Eddystone
+: UID, URL (incl. Physical Web) & TLM frame types
+AltBeacon
+Contact Detection
+Exposure Notification Service
+v1.1 (see ‘Known Limitations’ below)
+Mijia temperature & relative humidity sensor BLE beacons (sort of experimental since these proprietary formats are not publicly documented)
+Core Beacons
+may be of most use when working with “beacon“ type BLE devices, but it will also happily show your neighbor’s smart tv… ;)
+Documentation
+Scanning
+for BLE devices starts when
+Core Beacons
+becomes the active (foreground) application, and stops when it’s deactivated. To restart scanning when CoreBluetooth slows down or stops scanning (see
+Known Limitations
+below), drag down the device list or tap the cogwheel for additional options.
+Please note: Scanning can have an impact on energy consumption and may drain the battery of an iOS device faster than usual
+Naming a device
+: By default, Core Beacon shows beacons under the UUID assigned by CoreBluetooth. Since these can be a bit hard to work with, a beacon can be given a name via the Edit function.
+Core Beacons
+will link this name to whatever persistent identifier is available in the beacons advertisement data, but if there is no other identifier than the CoreBluetooth UUID, assigned names may get lost under certain circumstances (see
+Known Limitations
+below)
+Reset
+the device list by dragging it down or selecting
+Reset
+from the cogwheel menu
+Please Note:
+‘Interval’ shows the time interval between the two last advertisements as handed over by CoreBluetooth to Core Beacons. This may be different than the advertisement interval of the peripheral, for several reasons.
+Known Limitations
+Functionality and performance are limited by the iOS Bluetooth API, CoreBluetooth. While many of the limitations seem justifiable, it may not be exactly the kind of API one would expect:
+Slow Scanning:
+Detection of devices can be slow. It may take seconds before device advertisements are reported to an app, without a discernible reason for the delay. It’s not the fault of the beacon - under Android, the same beacon shows up almost immediately.
+Reduction of scanning frequency:
+After a couple of dozens of seconds or so, CoreBluetooth reduces the frequency with which it reports advertisements to an application. See above under
+Documentation / Scanning
+on how to restart scanning when this happens.
+No reproducible identifiers:
+CoreBluetooth denies access to the mac address of a BLE device; instead it assigns a UUID, which will be different on each iOS device. This makes it impossible to identify a beacon across platforms or even iOS devices.
+Limited background scanning:
+While in the background, apps can receive advertisements the first time a new beacon is seen. Advertisements of known beacons are not delivered to apps. This, for example, prevents any useful form of sensor data logging.
+No access to iBeacon data:
+CoreBluetooth reports iBeacon advertisements to scanning applications, but it cuts out all iBeacon-specific data. iOS has a separate API, CoreLocation, for interaction with iBeacons, but this API requires some prior knowledge about the iBeacons to be detected, which makes it useless for general beacon scanning So, ironically, if you want to scan for Apple’s own iBeacon format, your best option is probably Android.
+Exposure Notification Service
+announcements are delivered to apps only on older iOS versions, which do not implement the Exposure Notification framework (which, from the privacy perspective, should be an unnecessary limitation, since the whole Exposure Notification protocol is designed to be privacy-preserving - so why not make transparent what’s going on?)
+Support
+Feedback is welcome. Please send bug reports, questions, feature requests, etc. to: corebeacons
+0x40
+fluthaus
+0x2E
+com *
+*) 0x40 = ‘@’, 0x2E = ‘.’
+Privacy
+Core Beacons
+stores names you associate with device identifiers inside its preferences. No other data about beacons or anything else is collected or stored, and no data is transmitted anywhere (
+Core Beacons
+does not contain any network code).
+PLEASE NOTE: Eddystone URLs are opened in the iOS web browser. The targeted web service may learn that you were in the range of a specific beacon, and apply its own privacy policy to this fact and the data transmitted by the web browser.
+Version History
+1.3.7 maintenance update
+1.3.6 improved parsing of Xiaomi / Mijia BLE advertisement payloads
+1.3.5 fixes a minor display problem for Eddystone/ruuvi v4 payloads
+1.3.4 pure maintenance update: Built with the latest toolchain against the current SDK
+1.3.3 built against the latest SDK, which should resolve minor UI layout issues, plus a few other minor improvements
+1.3.2 updated parser to reflect changed spec and naming of Exposure Notification (formerly: Contact Detection) Service
+1.3.1 Dark Mode support fixed
+1.3: Added support for AltBeacon and Contact Detection Service, improved handling of ruuvi unofficial/custom formats
+1.2: Parsing support for mijia temperature & relative humidity sensor BLE beacons. Since these protocols are (to my best knowledge) not officially documented, please consider support for this as experimental and report any problems (or additional information about the protocols, if you have such).
+1.1.1: Improved, more robust parsing of BLE advertisement data
+1.1 Features and improvements:
+Display of time interval between last received advertisements
+(experimental)
+Support for user-adjustable text sizes (Dynamic Type)
+Improved accessibility
+1.0.1: Small fixes and improvements
+Fixed ruuvi icons
+Eddystone URL no longer “jumping” when ruuvi sensor readings change
+1.0: Initial release

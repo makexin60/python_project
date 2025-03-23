@@ -1,0 +1,98 @@
+Privacy Policy
+(English)
+隐私政策
+(中文)
+Sub-section Policy: 
+Sub-policy 0
+https://neutroncode.com/privacy-policy-nmp/10-privacy-policy/64-privacy-policy-nmp-en_us:
+Toggle Navigation
+Apps
+Player
+Recorder
+Devices
+Technology
+Manual
+FAQ
+Forum
+Download
+Subscription
+License
+Store
+Console
+Application: Neutron Player (Full title: Neutron Music Player)
+Developer: Neutron Code Limited
+This Privacy Policy describes your privacy rights in connection with our collection, use, disclosure, retention, and protection of your personal information. This Privacy Policy applies to our Application. Parts of the policy apply to the specific platforms and versions of Application and will be clearly marked as such.
+
+By using Application, you are accepting the terms of this Privacy Policy, and you are consenting to our collection, use, disclosure, retention, and protection of your personal information as described in this Privacy Policy. If you do not provide the information we require, some functionality of our Application may become limited.
+
+Information collection scenario:
+Application functionality
+
+-----------------------
+Information we collect.
+-----------------------
+
+We collect, process, and/or retain personal information from your use of our Application. This information includes:
+
+1) Device information:
+We collect device-specific information (such as device hardware model, operating system version, device identifier [Android ID]) in order to generate a unique identification number (UID) for use in conjunction with our license and trial period checking service. Generated UID is not associated with any other personal information and therefore is fully anonymous.
+
+Applies to:
+Android OS.
+
+2) Accelerometer: 
+We process accelerometer values for device orientation detection.
+
+Applies to:
+Android OS.
+
+3) Network credentials:
+We may collect and store network credentials locally on your device in the Application’s settings database when you create a network source inside the Application in a strongly encrypted form. Network credentials are used for automatic authentication when Application is using files from the created network sources.
+
+Applies to:
+Android OS, Apple iOS OS, Windows 10 OS.
+
+----------------------------------------
+How do we use the collected information.
+----------------------------------------
+
+We use collected information to provide the following Application functionality:
+
+1) Device information:
+Functionality: trial mode. Application is using the obtained UID to uniquely identify your device in its license database. In case Application does not detect that it was purchased a trial expiry period will be assigned to the UID in the license database. The UID is automatically pruned from the license database after 30 days since the date of its registration.
+
+Applies to:
+Android OS.
+
+2) Accelerometer: 
+Functionality: portrait/landscape orientation detection. Detected orientation allows to re-orient user interface depending on device position. Orientation values are processed only in real-time and never retained.
+
+Applies to:
+Android OS.
+
+3) Network credentials:
+Functionality: automatic authentication of the network source. Application is using stored network credentials to automatically login to the network endpoint which is referenced by the created network source entry in order to read/write a source's audio files when requested by the user during music playback or audio recording tasks.
+
+Applies to:
+Android OS, Apple iOS OS, Windows 10 OS.
+
+---------------------
+Information we share.
+---------------------
+
+We never share any collected or stored personal information with companies, organizations and individuals.
+
+---------------------
+Information security.
+---------------------
+
+All collected information is transferred (in case of UID) and stored only in a strongly encrypted form. UID is fully anonymous and does not bear any personal identifying information.
+
+----------------------
+Changes to the policy.
+----------------------
+
+We may change some parts of our Privacy Policy at our sole discretion and will post it with applied modifications on our official web-site or inside the Application package.
+
+Modification date:
+12.03.2024

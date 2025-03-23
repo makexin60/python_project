@@ -1,0 +1,48 @@
+Your connection is not private
+Attackers might be trying to steal your information from
+folly.studio
+(for example, passwords, messages, or credit cards).
+Learn more about this warning
+net::ERR_CERT_AUTHORITY_INVALID
+Subject:
+sni-support-required-for-valid-ssl
+Issuer:
+sni-support-required-for-valid-ssl
+Expires on:
+Nov 29, 2029
+Current date:
+Mar 20, 2025
+PEM encoded chain:
+-----BEGIN CERTIFICATE-----
+MIIDOzCCAiOgAwIBAgIUQM9n8smlr+6+Ea1P1Z18S/7f0kswDQYJKoZIhvcNAQEL
+BQAwLTErMCkGA1UEAwwic25pLXN1cHBvcnQtcmVxdWlyZWQtZm9yLXZhbGlkLXNz
+bDAeFw0xOTEyMDIyMzU5MDJaFw0yOTExMjkyMzU5MDJaMC0xKzApBgNVBAMMInNu
+aS1zdXBwb3J0LXJlcXVpcmVkLWZvci12YWxpZC1zc2wwggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQC2aROCVTeNL4z/gyE7FzCzdJUMo3Cz6R5W7XU9W/98
+zZP+2YJL2ROEZ4lqnhEuTqNTnGBVSJ2wlzuIv0AcpMs2RSVXhAWF55K7cRZ8vtzj
+dzytavt5vLcm9/mghx7q6c9UTf8mylOP3NUS1mXkGK4WS44G9EU1jcmljapX3Zzj
+D37220dtkPgcO3NnzjiXiDqkxz0ld57HxbwlSHebO0DIjDRvuDOhNrE6ZSLhWZg7
+bTPXWD82wX8CJpdVguPFL3YpyUYInxnOt9flWdH3ZNSkeUbOm92wG4LTLy+EFWzD
+AObDnyqxaCk8/8FeSOMA9WW8IYhTaMu4Ml8p057gJd3dAgMBAAGjUzBRMB0GA1Ud
+DgQWBBQzxq0VWJVko7s3HUIKUM4QgZPMyTAfBgNVHSMEGDAWgBQzxq0VWJVko7s3
+HUIKUM4QgZPMyTAPBgNVHRMBAf8EBTADAQH/MA0GCSqGSIb3DQEBCwUAA4IBAQCQ
+So5qVo/jibSDPPTzQAwk1IDhoBi7N9+y/rPpy70+AuQdIMx21K3NOcxYkqnryzMf
+Qy465cWo1NS0mJJnNKpOts/Luvpa5mWJV6Ab7vxWFUV4AA4Cz6a7S7vx+Y183b/Y
+uvb99PmcAEadhdR9hJZu/LboTJhT6F0Ad01LPGxGp5KlBsFaaA+JrHhWP1/Bk6kX
+DwuGoRADewe3J9ryDzVLaEdDDJWUc2/V0AmvHJW7/b+EYcvc+4D2kZUVdcCyBpNc
+mZ5OWccklXRff/w3kB/8Gv0MuMvHEKkmXjnkdRIuX61YTod0E4hUOQrs1pAaUXvd
+uujuSfCzHQ4Ga8HsjCRH
+-----END CERTIFICATE-----
+Warnings may be common while websites update their security. This should improve soon.
+Help improve security on the web for everyone by sending
+URLs of some pages you visit, limited system information, and some page content
+to Google.
+Privacy policy
+Turn on enhanced protection
+to get Chrome's highest level of security
+Back to safety
+Advanced
+This server could not prove that it is
+folly.studio
+; its security certificate is not trusted by your computer's operating system. This may be caused by a misconfiguration or an attacker intercepting your connection.
+Proceed to folly.studio (unsafe)

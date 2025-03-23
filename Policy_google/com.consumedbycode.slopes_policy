@@ -1,0 +1,155 @@
+Privacy Policy - Human Readable Version
+We don't want to do anything creepy with your data. We charge users directly for Slopes Passes so we can avoid having to sell your data or do anything else questionable to make money and stay in business. We may use some of your data responsibly to improve Slopes, but that's it.
+Let's unpack how I use and store your data:
+A) Identifiable Data: If You Don't Have a Slopes Account
+All your recorded GPS data stays local to your phone and never hits the Slopes servers.
+You don't have an account or any purchase history, so there's nothing there to send to my servers, either.
+B) Identifiable Data: With a Slopes Account
+What specifically do we store about your recordings, and how?
+At this point we're giving you free online backup / sync, which does mean your recorded data is now on my servers.
+Data transmitted via the app to and from Slopes servers is encrypted following industry best practices.
+To provide sync the GPS data tracking your movements throughout the day is stored on my servers. This data is encrypted and stored in such a way to prevent public access.
+Personality identifiable account information, such as name and email, are stored separate from your private GPS data (so it is hard to match all that GPS data to your specific account unless
+all
+my servers are compromised).
+More generic data about your recordings (metadata) such as the resort it was at, time spent on lifts vs runs, speeds & verticals, notes, etc are also stored on my servers along side your account information to provide sync.
+Your purchase history within Slopes is stored on my servers along side your account information, too, to make all Slopes Pass purchases work on any device you log in from.
+We
+do not
+upload any of your Apple Health data to my servers. Calories burned, weight, and heart rate all stay local to your phone inside of HealthKit.
+What data is shared with people you friend in Slopes?
+Your first + last name & avatar.
+Agregated stats for the month / season. Every friend will be able to see key stats (vertical, distance, top speed, time on runs) based on your recordings, but they won't see the recordings themselves.
+When you tag someone that you rode with, they'll get to see your daily stats for that day. In addition to stats, if they are a Slopes Premium user, your avatar will appear on their map of the day reflecting your location.
+What about the group location sharing feature?
+Once turned on (off by default), your location will be sent to Slopes's server periodically as you record. If you leave it off, your live location never touches the Slopes servers.
+You can turn location sharing off at any time while you record, which will erase your location from the Slopes servers and hide your location from your friends instantly.
+Who can see your location? People you've friended on Slopes that are recording at the same resort on the same day. Or, if your're in the backcountry, friends recording within 2 miles.
+You can also share your location via a web link. Anyone with the link can view your location, but the link expires shortly after you finish recording.
+After 48 hours your location is completely erased from the Slopes servers.
+We don't do anything with this location data, and access to it is limited. It does not leave the Slopes servers except to your friends in-app or via that link. My one exception to this rule is if ski patrol or a similar group reaches out to Slopes to help find a missing skier; if we can help save a life we will look up your last known location.
+OK dude, you have my data, what do you
+do
+with it?
+We act responsibly with it. Beyond what is needed to run Slopes we will not share your data with third parties, unless you enable a third-party integration such as connecting your Slopes account to Strava. But at that point sharing your data with a third party was kinda the point, right?
+We will never, ever, sell your data.
+How is your data shared with third parties so we can run Slopes?
+Your GPS data, account information, purchase history, and other data outlined above are stored on the third-party servers we pay for to run Slopes (Digital Ocean, Amazon AWS, etc).
+If you email in and ask for assistance your email address and our conversations are also then stored within my customer service helpdesk provider.
+Your email address + events you trigger (ex: "started 2019/20 season", "recorded first activity", "purchased a day pass") are sent to Vero if you opted into emails from Slopes. We use Vero to send automated emails based on key events, season recaps, and more personalized messages.
+How is your data used inside Slopes?
+If you email in with a problem we will access your data, as needed, to assist with the problem.
+We may privately use your GPS data or generic activity data (anonymously, without knowing who it belongs to) to improve Slopes. For example, we may use some of your GPS data to help test improvements to my tracking algorithms, we may query for random users' days recorded at a specific resort to help track down new lifts or runs to identify, or we may aggregate a bunch of recorded data to help get the average wait times at lifts at a given resort. When we do this we take care to not look up account information about who the data belongs to; we just grab the anonymous raw GPS data or activity metadata.
+If we do access your GPS data anonymously we will never publish it, even combined with a lot of other users' GPS data at that same location to make it anonymous, publically. We may publish resort-level information like "the average wait time for the Mountain Tripple is 3min" based on it, but not the GPS data itself.
+How do I delete my data?
+If at any point you'd like to remove all of your data from the Slopes servers you can do so in-app under Account -> Edit Account & Profile -> Delete. If you don't have an account, just delete the app!
+C) Anonymous Data Captured in-app to Improve Slopes
+Beyond your account, purchase, and activity data outlined above, there is some anonymous/pseudonymous usage data Slopes tracks in-app:
+We do track pseudonymous usage data through
+Firebase
+: for example "someone recorded a day at Whistler for 7hrs" or "someone just started recording via Watch". Firebase doesn't get access to your account data, email, or any of the GPS data you recorded; just high level events about what is happening in the app. We do this so we can track popularity of resorts to prioritize improvements, gauge what kind of battery usage targets we should aim for, if people are even using certain features, etc.
+My premium map provider, MapBox, reports some annonymous non-identifiable data when using their maps to help them improve their mapping data and service (more
+here
+).
+You can turn off both of these anonymous trackings in-app under More -> Settings.
+Slopes also uses a crash reporter (
+Crashlytics
+) to aggregate and track crashes. These reports include non-identificable information such as what iPhone or Android you have, where the crash occurred, my own logs we create to help me track down what happened, and an installation unique identifier to help correlate how many users experienced the crash vs repeat crashes for the same user.
+We do occasionally advertise Slopes on Instagram, so We have the Facebook advertising SDK (code library) in Slopes which is pseudonymous. We do not share any data you enter into or capture with Slopes with Facebook; it is only used to track how many installs come from Instagram ads so they can accurately charge me.
+Removed in 2019.12, because Facebook is creepy and can't be trusted.
+Privacy Policy - Legalese Version
+Slopes is owned, operated, and maintained by Breakpoint Studio LLC (“us”). Breakpoint Studio respects your right to privacy and shares your concern about the security of any data you may submit via our mobile application (“Slopes”, or the “app”) or through our web site (the “site”), currently accessible at getslopes.com (collectively, the “Services”).
+Your privacy is critically important to us. We don’t want to be creepy stalkers or evil spammers. We have a few fundamental principles:
+We don’t ask you for personal information unless we truly need it.
+We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
+We don’t store personal information on our servers unless required for the on-going operation of one of our Services.
+The following statement discloses the guidelines Breakpoint Studio has established for protecting the information you provide to us during your visit to the site and while using the app.
+What & Why
+If you do not create an account with Slopes, all of your GPS data stays local to your phone, and no personal data is ever sent to Slopes.
+If you create a Slopes account, we collect and use the following information to provide, improve, protect, and promote our Services.
+Your Stuff
+Slopes is designed as a way to track, relive, and share your days skiing and snowboarding. To do that, we need to gather and process certain information about you. (“Your Stuff”).
+Account information
+We collect, and associate with your account, the information you provide to us when you do things such as sign up for your account, subscribe to a paid plan, and set up two-factor authentication (like your name, email address, phone number, payment info, and physical address) Personally identifiable account information is stores separately from GPS and location data.
+Location Data
+Slopes includes various location-based features such as tracking outdoor winter sports activities. To provide these location-based features Slopes will use precise location data, including the real-time geographic location of your mobile device, when you use the app.
+This location data is stored locally on your phone and you may delete it at any time. If you sign up for a Slopes account, we will store a copy of this location data on our servers to provide online backup and synchronization between all your devices.
+For third-party partners, such as social media networks, this information will only be shared with your explicit permission, and only if you choose to share it.
+Photo Data
+Slopes's photo integration on both iOS and Android keeps all photos and photo-metadata on-device, unless you manually attach a photo to a recording. In that case we'll upload a backup to our servers to sync with other devices.
+Google API Integration for Photos and Fitness
+Slopes's use and transfer to any other app of information received from Google APIs will adhere to
+Google API Services User Data Policy
+, including the Limited Use requirements.
+We don't transfer your data to any other app, though. All that data stays local to Slopes on-device.
+Marketing
+If you register for our Services, we will, from time to time, send you information about the Services. Users who receive these marketing materials can opt out at any time. If you don’t want to receive a particular type of marketing material from us, click the ‘unsubscribe’ link in the corresponding emails. However, you may not opt out of certain essential system notice communications.
+Aggregated Statistics
+We may collect statistics about the behavior of visitors to our website and users of the app. For example, we may aggregate anonymous location data to report resort popularity or publish a report on trends in the usage of Slopes.
+If you're a Premium Pass holder, you'll be using MapBox for terrain maps. They collect anonymous information about how people use their mapping service. Opting out of anonymous statistics for Slopes will also opt you out of their metrics. You can read about how they use your anonymous data here TL;DR? They're cool, and not creepy, otherwise we wouldn't be using them.
+Website Visitors
+Like most website operators, Breakpoint Studio collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Our purpose in collecting non-personally identifying information is to better understand how our visitors use the site.
+Email Communications
+If you choose to stop receiving emails regarding Slopes, please follow the unsubscribe instructions within each email communication or send an email to hello@getslopes.com. We will not provide or share any mailing lists or other information about you to another company or service for promotional purposes.
+Any service-related emails (help requests, feedback, etc.) generally do not offer an option to unsubscribe as they are necessary to provide the service you requested.
+Data Security
+Slopes uses industry standard Secure Sockets Layer (SSL) technology to allow for the encryption of personal and location information during transmissions to our servers.
+We restrict access to data to our employees, contractors and agents who need to know that information in order to operate, develop or improve the app. These individuals are bound by confidentiality obligations and may be subject to discipline if they fail to meet those obligations.
+Bases for Processing Your Data
+We collect and use the personal data described above in order to provide you with the Services in a reliable and secure manner. We also collect and use personal data for our legitimate business needs. To the extent we process your personal data for other purposes, we ask for your consent in advance or require that our partners obtain such consent. Slopes processes your data (1) to provide the Slopes Services to you pursuant to our contract with you; (2) in furtherance of Slopes’ legitimate interests in operating our Services and business; and (3) with your consent. In some cases, Slopes may process your data to comply with applicable law, legal process, or regulation; protect any person from death or serious bodily injury; or to carry out a task in the public interest.
+Examples of Slopes processing your data to provide you with the Slopes Services include:
+Providing, updating, maintaining, and protecting our Services and business. We also analyze how you use the Services to help you prioritize Your Stuff.
+We may process information that you choose to share with us if you participate in a focus group, contest, activity or event, interact with our social media accounts, or otherwise communicate with Slopes.
+Troubleshooting issues you may encounter with the Slopes Services. If you contact us with questions or concerns about the Services, we may use your personal information to respond.
+Billing, account management, and administrative purposes. If you purchase a paid Slopes plan, we may collect and process payment information, including your name, credit or debit card information, billing address, and details of your transaction history.
+Sending you emails and other communications. We may contact you about important changes to our Services and Service-related notices. These communications are considered part of the Slopes Services and you may not opt out of them.
+Examples of Slopes processing your data in furtherance of its legitimate interests in operating our Services and business include:
+Understanding how you use our Services and improving them.
+Promoting Slopes Services that are most relevant to your interests.
+Investigating and preventing security issues and abuse of the Slopes Services or Slopes users.
+Examples of Slopes processing your data with your consent include:
+Sending you marketing materials about our Services. If you do not wish to receive these materials, simply click the Unsubscribe link in any email, or update your preferences in the Notifications section of your Slopes account.
+Connecting your Slopes account with other third-party services via Slopes APIs.
+Collecting feedback from you to improve our Services and develop new features.
+Law & Order and the Public Interest
+We may disclose your information to third parties if we determine that such disclosure is reasonably necessary to: (a) comply with any applicable law, regulation, legal process, or appropriate government request; (b) protect any person from death or serious bodily injury; (c) prevent fraud or abuse of Slopes or our users; (d) protect Slopes’ rights, property, safety, or interest; or (e) perform a task carried out in the public interest.
+Stewardship of your data and information is critical to us and a responsibility that we embrace. We believe that your data and information should receive the same legal protections regardless of whether it’s stored on our Services or on your own computer’s hard drive. We’ll abide by the following Government Request Principles when receiving, scrutinizing, and responding to government requests (including national security requests) for your data and information:
+Be transparent
+Fight blanket requests
+Protect all users, and
+Provide trusted services.
+Where We Process Your Data
+Around the world
+. To provide you with the Services, we may store, process, and transmit data in the United States and locations around the world—including those outside your country. Data may also be stored locally on the devices you use to access the Services.
+EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield
+. When transferring data from the European Union, the European Economic Area, the United Kingdom, and Switzerland, Slopes relies upon a variety of legal mechanisms, including contracts with our customers and affiliates. Slopes complies with the EU-U.S. and Swiss–U.S. Privacy Shield Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data transferred from the European Union, the European Economic Area, the United Kingdom, and Switzerland to the United States. You can learn more about Privacy Shield at
+https://www.privacyshield.gov
+.
+Your Control of and Access to Your Data
+You have control over your personal data and how it’s collected, used, and shared. For example, you can:
+Delete Your Stuff in your Slopes account.
+Change or correct personal data. You can manage your account and the content contained in it, as well as edit some of your personal data, through your account settings page.
+Access and take your data elsewhere. You can access your personal data from your Slopes account via the mobile application, and you can export a copy of your Stuff in a machine-readable format. You can also ask us for a copy of personal data you provided to us or that we’ve collected, the business or commercial purpose for collecting it, the types of sources we got it from, and types of third parties we’ve shared it with.
+Object to the processing of your personal data. Depending on the processing activity, you can request that we stop or limit processing of your personal data.
+If you would like to submit a data access request, request that your personal data be deleted, or object to the processing of your personal data, please email us at hello@getslopes.com.
+Slopes as controller or processor
+. If you reside in North America (the United States, Canada, and Mexico), Breakpoint Studio acts as your service provider and processor of your data. For all other users, Breakpoint Studio acts as a controller of your personal data.
+Apple Health
+Slopes can optionally integrate with Apple's HealthKit framework to save off calorie data, and read heart rate information, via your on-device health database. If fitness tracking is enabled for an activity this health data will be saved locally and in the health store, but will not be stored online in any way or shared with any other third-party services. If you export copies of your activities that health data is not included.
+Children
+We do not knowingly collect Personal Data from children under the age of 13 and do not target our websites to children under 13. If you are under thirteen, please do not submit any data through the app or site.
+We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our privacy policy by instructing their children to never provide personal data through any of our app or site without their permission. If you have reason to believe that a child under the age of 13 has provided personal data to us, please contact us, and we will endeavor to delete that information from our servers.
+Exclusions
+This privacy policy does not apply to any unsolicited information you provide to us, such as feature requests and feedback sent via our support channels. All unsolicited information shall be deemed to be non-confidential and we shall be free to reproduce, use, disclose, and distribute such unsolicited information to others without limitation or attribution.
+Disclaimer
+While we continue to work hard to protect your data, no transmission over the Internet can be guaranteed to be absolutely secure, and we cannot ensure or warrant the security of any information you transmit to Breakpoint Studio. Transmitting personal information is done at your own risk.
+Privacy Policy Changes
+If Breakpoint Studio makes changes to any terms or conditions of this privacy policy, these changes will be posted on the site in a timely manner. We reserve the right to modify this privacy policy at any time, so please review it frequently. In case of a business transaction in which a portion or all of Breakpoint Studio’s business is acquired, we will notify you as described above in this paragraph.
+Contact Us
+If you have any additional questions or concerns about this policy or our information practices, please feel free to contact us at any time at hello@getslopes.com.
+Sub-section Policy: 
+Sub-policy 0
+https://www.privacyshield.gov/:
+You need to enable JavaScript to run this app.
+Please wait while application initialize...
+;

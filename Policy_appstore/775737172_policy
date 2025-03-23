@@ -1,0 +1,28 @@
+This Privacy Policy is for iA Writer for Android (“iA Writer”), a focused text editor by Information Architects, Inc. To make informed decisions on what to improve, we collect some usage data for iA Writer, as detailed below.
+What Information Does iA Writer Obtain?
+Firebase Crashlytics
+To help us begin fixing any problems right away, iA Writer will automatically send crash reports and app not responding (ANR) reports to
+Google Firebase
+. Crash reports contain information on the crash, including device model, system version, plus the application’s version and build number.
+Google Analytics
+We collect the following statistical data: timestamp, device model, system version, device language, plus app version, build number, app usage, feature usage, and anonymous installation identifier.
+Documents Using Online Collaboration
+If you choose to share a document with the online collaboration feature, its contents will be stored in a Firebase database. The contents will be made accessible to anyone you provide with the collaboration URL. Deleting the document from Online Collaboration will remove it from this database.
+How Is the Information Used?
+With regards to crashlytics and analytics, this data is collected for the sole purpose of helping us to improve iA Writer and does not include any personal information. No other data is collected.
+Documents using online collaboration are not viewed or processed by iA or any third party other than for the purpose of storage, retrieval and deletion from the Firebase database.
+Do Third Parties Have Access to this Information?
+Crash and app not responding (ANR) reports may be shared with Google when reporting bugs. They are not shared with anyone else outside Information Architects. Anonymous statistics are not shared with anyone outside Information Architects, except in aggregate.
+Why Does iA Writer Request Permission for Contacts on Android?
+In order to connect to the full Google Drive API, permission for Contacts is required. iA Writer itself makes no use of these permissions, nor does Information Architects collect or store any information of this type.
+How is data from Google Drive handled?
+iA Writer allows you to connect to your Google Drive account so that you can read, edit and create documents directly in Google Drive.
+Security procedures are in place to protect the confidentiality of your data. At no point does iA or any third party gain access to your data in Google Drive. It is kept on your device and synced through Google’s APIs. Likewise, the sign-in to your account is done through Google’s standard Oauth functionality. A token is kept on your device to ensure you retain access to Drive across relaunches of the app; this too is never sent to iA or any third party. This token is only ever retained on your device and will be removed if you sign out of Google Drive.
+In short, iA does not access or store any of your personal information or data associated with Google Drive.
+Your Consent
+By using iA Writer, you are consenting to our processing of this collected data. “Processing” means using or touching the data in any way, including collecting, storing, deleting, using, combining, and disclosing data, in accordance in this Privacy Policy. All of these activities will take place in Switzerland. If you reside outside Switzerland, collected data will be transferred, processed, and stored there under Swiss privacy standards.
+Contact Us
+If you have any questions regarding privacy and iA Writer or our practices, or if any aspect of this Privacy Policy is unclear, please contact us via email at
+support@ia.net
+.
+Last updated on 3 September 2024.

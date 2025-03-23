@@ -1,0 +1,394 @@
+We value your privacy
+We and our
+partners
+store and/or access information on a device, such as cookies and process personal data, such as unique identifiers and standard information sent by a device for personalised advertising and content, advertising and content measurement, audience research and services development.  With your permission we and our partners may use precise geolocation data and identification through device scanning. You may click to consent to our and our 240 partners’ processing as described above. Alternatively you may access more detailed information and change your preferences before consenting or to refuse consenting.  Please note that some processing of your personal data may not require your consent, but you have a right to object to such processing. Your preferences will apply to this website only. You can change your preferences or withdraw your consent at any time by returning to this site and clicking the "Privacy" button at the bottom of the webpage.
+Skip to main content
+Press enter to begin your search
+Terms of Service | Kochava
+Your use of the Platform is governed by this Terms of Service (“TOS”) and any applicable License and Services Agreement Insertion Order (“IO”) entered into between Kochava, Inc., a Delaware corporation (“Kochava”) and the company set forth on the IO (“Company”). This TOS is effective as of the effective date set forth on the IO (“Effective Date”). Kochava and Company may be referred to herein collectively as the “Parties” and individually as a “Party.” Unless otherwise provided herein, all capitalized terms used in this TOS have the meaning ascribed to them on Exhibit A (Explanation of Features & Fees).
+BACKGROUND
+Kochava provides advertising measurement analytics and attribution services to marketers through its proprietary online software platform, available at kochava.com. Marketers integrate a single SDK into their apps, websites, or connected devices, which enables the Kochava platform to collect and process certain electronic data relating to the installation and use of the marketers’ apps or websites. Marketers customize the platform through a user interface to configure attribution and analytics, determine exactly which data they want to capture, which analyses they want to perform, and which reports they want to run. All data belongs to, and remains the exclusive property of, the marketers at all times. Marketers grant Kochava a limited license to process data for the purpose of providing these attribution and analytics services.
+WHEREAS, Kochava desires to perform measurement analytics and attribution services for Company, and Company desires to grant a limited license to Kochava to process Company Data under the terms and conditions of this TOS.
+WHEREAS, Company desires to acquire analytics and attribution services via the Platform (defined below) and Kochava desires to grant a limited license to Company to access and use the Platform under the terms and conditions of this TOS.
+NOW, THEREFORE, in consideration of the following mutual covenants and agreement, and for other good and valuable consideration, the Parties hereby agree as follows:
+1.0 SCOPE OF SERVICES
+1.1
+SERVICES
+. Kochava hereby grants a limited, non-exclusive, non-transferable, revocable license to Company and its Affiliates during the Term (defined in Section 6.1) to access and use the Platform, subject to the limitations of this TOS. “Affiliate” means any entity that, directly or indirectly through one or more intermediaries, controls, is controlled by, or is under common control with, Company. “Platform” means, collectively, the Site and SDKs. “Site” means the web-based platform available at kochava.com through which Kochava renders attribution, analytics, and related modeling and reporting services, and the content thereon. “SDKs” means software development kits. Kochava shall make available and license to Company all application program interfaces (“API”) necessary for Company to fully exercise the rights and licenses granted hereunder.
+1.2
+ACCOUNT REGISTRATION
+. Company must create a user account to access and use the Platform (“User Account”). The online registration process requires Company to create a username and password. Company is solely responsible for all activities occurring under its User Account and for maintaining the confidentiality and security of its username and password.
+1.3
+MODIFICATION OF PLATFORM
+. Kochava makes continuous improvements to the Platform and will notify Company in the event of any material modification. Kochava reserves all rights to modify the Platform in its sole discretion. Company acknowledges if it instructs the Platform to use a newly added feature following the Effective Date, then Company’s use of the feature may be subject to additional fees upon notice by Kochava.
+1.4
+SERVICE LEVELS
+. Refer to https://www.kochava.com/support-privacy/#SLS for the Kochava service level standards.
+1.5
+PROHIBITED ACTIVITIES
+. Company shall not: (i) allow a third party to access or use its User Account without prior authorization from Kochava; (ii) share any documentation, data, or insight derived from its use of the Platform with an unauthorized third party; (iii) create, or undertake to create, a product or service that may compete with, or replicate the functionality provided by, the Platform; (iv) assist, or undertake to assist, a third party in the creation of a product or service that may compete with, or replicate the functionality provided by, the Platform; (v) use the Platform in any manner that may damage, disable, overburden, or impair the Platform, regardless of foreseeability; (vi) use the Platform in any manner that may give rise to civil or criminal liability or other damages, including without limitation, capturing, handling, or otherwise processing PII (defined in Section 4.2), sending or delivering unsolicited bulk or commercial messages, or using the Platform for an illegal purpose or activity; or (vii) use the Platform for any purpose not contemplated and intended by this TOS.
+1.6
+RESERVATION OF RIGHTS
+. Kochava reserves the right to refuse Company access to the Platform or terminate this TOS if Kochava reasonably determines Company engaged in any of the activities described in Section 1.5 (Prohibited Activities).
+2.0 OWNERSHIP
+2.1
+PLATFORM & KOCHAVA MARKS
+. Kochava is the sole and exclusive owner of the Platform. Kochava owns or licenses the Kochava Marks. “Kochava Marks” means trademarks, trade names, domain names, logos, and related intellectual property. The Platform and Kochava Marks are protected by applicable intellectual property and other laws. Kochava reserves all rights, title, and interest in the Platform, the Kochava Marks, and all intellectual property rights not expressly granted under this TOS.
+2.2
+COMPANY MARKS & COMPANY DATA
+. Company is the sole and exclusive owner of all Company-owned or licensed trademarks, trade names, domains names, and logos (“Company Marks”). Company is the sole and exclusive owner of all electronic information and data processed by the Platform via SDKs or server-to-server (“S2S”) on behalf of and relating to Company (“Company Data”). Kochava explicitly disclaims any ownership in Company Marks and Company Data. Company reserves all rights, title, and interest in all Company Marks, Company Data, and all intellectual property rights not expressly granted under this TOS.
+2.3
+COMPANY DATA LICENSE
+. Kochava has no rights in or to any Company Data not expressly authorized under this TOS. Company hereby grants a limited, non-exclusive, non-transferable, royalty-free, revocable license to Kochava to collect, process, and use Company Data for the purpose of providing attribution, analytics, and related modeling and reporting services via the Platform. If Company uses Kochava Engagement (push notification feature), then Company grants a limited, non-exclusive, non-transferable, royalty-free, revocable license to Kochava to deliver in-app notifications to End Users via the Platform, as instructed by Company.
+2.4
+COMPANY DATA PROCESSING
+. In order to utilize the Platform, Company must integrate the SDK or engineer an S2S integration. Company configures the SDK upon integration to collect only that data which Company intends Kochava to process. Similarly, if Company integrates via S2S, then Company determines which data elements it transfers to Kochava for processing. As a result, Company acknowledges and agrees that it, not Kochava, determines the composition of Company Data which Kochava processes.
+2.5
+THIRD-PARTY TRANSFER
+. Kochava shall not transfer Company Data to any third party unless Company specifically instructs the Platform to do so. If Company instructs the Platform to transfer Company Data to a third party (i.e. sending postbacks to a network), then Company acknowledges and agrees all third party use thereof is solely governed by the contractual obligations between third party and Company. Kochava disclaims all liability for third-party use of Company Data.
+2.6
+REMOVAL OF COMPANY DATA
+. Company may extract or delete its Company Data from the Platform at any time during the Term or within thirty days following the termination or expiration of this TOS. In the event Company is unable to extract or delete its Company Data through no fault of Company, Kochava will provide Company with reasonable assistance to do so.
+3.0 CONFIDENTIAL INFORMATION
+3.1
+CONFIDENTIAL INFORMATION
+. Confidential Information means any nonpublic information or material pertaining to a Party’s business, whether or not marked “proprietary” or “confidential.” Confidential Information includes, without limitation, Company Data, the Platform, this TOS and its terms, all business processes and technical information, and all other information the receiving Party should reasonably understand to be confidential.
+3.2
+OWNERSHIP
+. All Confidential Information is, and remains, property of the disclosing Party. Unless expressly granted herein, no license or rights to the disclosing Party’s Confidential Information is granted or implied hereunder.
+3.3
+DISCLOSURE
+. The Parties shall only use or disclose Confidential Information on a need-to-know basis for the limited purposes of performing their obligations under this TOS, using the Platform, or exercising their rights granted hereunder. If either Party engages the services of a third party relating to such performance, use, or rights, then the Party shall require the third party to be bound by a non-disclosure agreement of equal or greater force than that required of the Parties under this TOS. The Parties may disclose Confidential Information in response to a judicial or governmental requirement or order, provided that (i) the receiving Party has given the disclosing Party reasonable prior notice, (ii) the receiving Party reasonably cooperates with the disclosing Party so it may object or seek a protective order or other appropriate remedy, and (iii) the receiving Party in any event discloses only that portion of the Confidential Information that it is legally required to disclose.
+3.4
+NON-CONFIDENTIAL INFORMATION
+. For purposes of this TOS, Confidential Information does not include information that: (i) enters the public domain (other than as a result of a breach of this TOS); (ii) was in the receiving Party’s possession prior to its receipt from the disclosing Party; (iii) is independently developed by or on behalf of the receiving Party without the use of or reference to the disclosing Party’s Confidential Information; (iv) is obtained by the receiving Party from a third party under no obligation of confidentiality to the disclosing Party; or (v) is derived from aggregated, anonymized, and de-identified row-level Click data that does not identify Company or its users (either expressly or implicitly). The confidentiality obligations set forth in this Section 3.0 continue for two years following termination or expiration of this TOS.
+4.0 PRIVACY
+4.1
+PERSONALLY IDENTIFIABLE INFORMATION
+. The Platform is not intended to collect or handle information that can be used to contact or identify an individual person (“PII”). For purposes of this TOS, the Parties do not include IP address or mobile advertising identifiers (“MAID”) in their definition of PII.
+4.2
+PRIVACY POLICY
+. Kochava’s publicly accessible privacy policy (www.kochava.com/support-privacy/) is incorporated into and made part of this TOS. Kochava will comply with its privacy policy and all applicable privacy and data protection regulations and laws. Kochava acknowledges that it is under a continuing obligation to modify and update its privacy practices with respect to the treatment of Company Data, and will reasonably cooperate with Company to execute additional agreements as required by Company to comply with such privacy obligations.
+4.3
+DATA PROCESSING POLICY
+. Kochava’s publicly accessible data processing policy (www.kochava.com/data-processing-policy/) is incorporated into and made part of this TOS.
+4.4
+GDPR
+. In accordance with the General Data Protection Regulation (EU) 2016/679 (“GDPR”), and for purposes of this TOS, Company is the “Data Controller” and Kochava is the “Data Processor.” Kochava will abide by the data processing requirements under GDPR. Kochava is a certified participant in the EU-U.S. Privacy Shield and will adhere to its framework and principles.
+5.0 FEES & PAYMENT
+5.1
+FEES & PAYMENT
+. Company shall make payment to Kochava based upon the pricing set forth on the IO. Following the first day of each month, Kochava will email (unless otherwise instructed) an accurate invoice to the Accounting Representative identified on the IO for the fees incurred by Company during the previous calendar month. All amounts invoiced to Company by Kochava in accordance with this Section 5.0 are payable within seven days of delivery of the invoice (“Due Date”). If Kochava delivers an invoice via email, then the invoice is deemed delivered to Company on the date sent by Kochava. If Company fails to pay an invoice in full by the Due Date, Kochava will notify the Accounting Representative. If any invoice remains unpaid thirty days following such notice, then Company grants Kochava a perpetual, irrevocable, royalty-free, fully-paid, unrestricted license to use the Company Data. Notwithstanding the foregoing, Company remains liable for an invoice until it is paid in full. Kochava reserves all rights to collect payment.
+5.2
+ONGOING LIABILITY
+. Notwithstanding any cessation of Company’s use of the Platform, Company remains liable, and Kochava shall continue to invoice Company, for all fees set forth on the IO unless Company provides notice of termination pursuant to Section 6.0 (Term & Termination).
+5.3
+ACCESS SUSPENSION
+. Without limiting this Section 5.0, Kochava may suspend Company access to the Platform during such time that an invoice remains unpaid following its Due Date (“Suspension Period”). Kochava may, in its sole discretion, continue to perform the services during the Suspension Period. Notwithstanding the foregoing, Company will continue to incur the fees set forth on the IO during the Suspension Period. Following receipt of payment in full, Kochava may, in its sole discretion, reinstate Company access to the Platform or terminate this TOS pursuant to Section 6.3 (Termination For Cause).
+5.4
+TAXES
+. Each Party is responsible for taxes based on its net income or gross receipts. Company is responsible for all sales, use, excise, and all other taxes derived from the fees set forth on the IO.
+6.0 TERM & TERMINATION
+6.1
+TERM
+. This TOS begins on the Effective Date and continues in effect for a period of one year (“Initial Term”) and automatically renews on a month-to-month basis thereafter (“Monthly Term”), unless otherwise terminated as provided herein. Either Party may terminate this TOS upon the expiration of the Initial Term by providing the non-terminating Party with advance, written notice of termination no fewer than thirty days prior to the expiration of the Initial Term. Either Party may terminate this TOS for convenience during the Monthly Term with thirty days’ written notice to the non-terminating Party. The Initial Term and the Monthly Term (if any) are herein referred to collectively as the “Term.”
+6.2
+SERVICE PLAN & PRICING CHANGES
+. Company may upgrade its service plan at any time upon request; however, Company may not downgrade its service plan during the Initial Period. Kochava reserves the right to modify the pricing set forth on the IO upon or following expiration of the Term with thirty days’ written notice to Company.
+6.3
+TERMINATION FOR CAUSE
+. Without limiting Section 5.3 (Access Suspension) or Section 1.6 (Reservation Of Rights), either Party may terminate this TOS if the other Party breaches any material provision of this TOS and has not cured the breach within ten days following receipt of written notice of the breach from the non-breaching Party. If Kochava removes a feature from the Platform from which Company derives twenty percent or more of its monthly billing activity, then Company may terminate this TOS for cause by delivering thirty days’ advance written notice to Kochava. If Company provides notice of breach pursuant to this SECTION 6.3, then Kochava shall continue to provide Company with access to and use of the Platform hereunder until termination is effective, in which case Kochava shall thereafter invoice Company in accordance with Section 5.1 (Fees & Payment) for services provided through the date of Company’s notice of breach but which have not otherwise already been invoiced. If Kochava provides notice of breach pursuant to this Section 6.3 and terminates this TOS for failure to cure such breach, then Company is liable for the fees set forth on the IO throughout the remainder of the Initial Term or, if termination occurs during the Monthly Term, through the end of the particular month in which termination is effective.
+6.4
+TERMINATION WITHOUT CAUSE
+. If Company terminates this TOS without cause, then Company is liable for the fees set forth on the IO throughout the remainder of the Initial Term or, if termination occurs during the Monthly Term, through the end of the particular month in which termination is effective. If Kochava terminates this TOS without cause, then Company is only liable for the fees incurred through the effective date of termination.
+6.5
+OTHER TERMINATION RIGHTS
+. Either Party may terminate this TOS with thirty days’ written notice to the non-terminating Party if at any time a Party: (i) becomes insolvent; (ii) is voluntarily or involuntarily named in a filing for bankruptcy; (iii) undergoes any assignment for the benefit of creditors; or (iv) undergoes dissolution. Upon such termination, Company shall pay Kochava all fees Company incurred up to the effective date of termination or expiration.
+6.6
+REFUNDS
+. In the event Company terminates this TOS pursuant to Section 6.3 (Termination For Cause) or Section 6.5 (Other Termination Rights), Company is entitled to a pro-rata refund of the payments made for services it did not receive, if any.
+6.7
+SDK REMOVAL
+. Within a reasonable time following termination or expiration of this TOS, but in no case more than thirty days, Company shall remove the SDK from all of its applications. Company acknowledges and agrees that Kochava is under no obligation whatsoever to continue collecting or processing Company Data following termination or expiration of this TOS.
+6.8
+SURVIVAL
+. The definitions contained herein and SECTIONS 2.0, 3.0, 5.0, 6.7, 6.8, 8.0, 9.0, 10.0, 11.0, and Exhibit A (Explanation of Features & Fees) survive the expiration or termination of this TOS.
+7.0 INFORMATION SECURITY
+7.1
+INFORMATION SECURITY
+. Kochava is ISO 27001-certified. A qualified third party audits Kochava against the ISO/IEC 27001:2013, which encompasses security practices throughout all levels of the organization. Refer to www.kochava.com/support-privacy/#ISS for further information regarding the Kochava InfoSec policy.
+8.0 REPRESENTATIONS; WARRANTIES; DISCLAIMER
+8.1
+KOCHAVA REPRESENTATIONS
+. Kochava represents that: (i) it has the authority to enter into this TOS, to carry out its obligations under this TOS, and to grant the rights and licenses granted in this TOS to Company; (ii) Company is not obligated to secure separate or independent licenses to any materials from any third party in connection with Company’s use of the Platform; (iii) the Platform, and the use thereof, does not infringe, violate, or misappropriate any confidentiality obligation or intellectual property rights of any person or entity; and (iv) the Platform conforms in all material respects with the descriptions provided hereunder and those descriptions sufficiently describe the features and functionalities of the Platform.
+8.2
+KOCHAVA WARRANTIES
+. Kochava warrants that: (i) it will process Company Data in conformance with applicable laws and privacy regulations; (ii) the Platform will operate and function on a 99.99% uptime basis in all material respects in conformance with its service level policy; and (iii) the Platform will not contain spyware, viruses, or any other malicious code.
+8.3
+COMPANY REPRESENTATIONS
+. Company represents that: (i) it has the authority to enter into this TOS, to carry out its obligations under this TOS, and to grant the rights and licenses granted in this TOS to Kochava; (ii) it has provided legally sufficient notice to, and received legally sufficient consent from, its End Users to collect their data and transfer it to Kochava for processing; (iii) if it uses the Kochava Engagement feature, then it has received all necessary consents and permissions from its End Users to deliver in-app notifications; (iv) Company Data does not contain any information that infringes, violates, or misappropriates any confidentiality obligation or intellectual property rights of any person or entity; and (v) it complies with all applicable laws and privacy regulations.
+8.4
+COMPANY WARRANTIES
+. Company warrants that: (i) it will limit its use of the Platform pursuant to SECTION 1.7 (Prohibited Activities); (ii) it will comply with all applicable laws and privacy regulations throughout the course of its use of the Platform; (iii) if any of its products or services target children, then Company will not use the Platform to process any PII of children, as defined by, and pursuant to, the Children’s Online Privacy Protection Act of 1998 (COPPA); (iv) if it uses the Kochava Engagement feature, then it will continue to receive legally sufficient consent from its End Users throughout Company’s use of this feature to deliver in-app notifications; and (v) if it uses the Platform in conjunction with media purchased on Facebook, then Company will comply with Facebook’s terms of use and privacy policy.
+8.5
+DISCLAIMER OF WARRANTIES
+. EXCEPT AS OTHERWISE SET FORTH IN THIS TERMS OF SERVICE, EACH PARTY HERETO DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, AND ANY WARRANTIES ARISING OUT OF ANY COURSE OF DEALING, PERFORMANCE, OR USAGE OF TRADE.
+9.0 INDEMNIFICATION
+9.1
+MUTUAL INDEMNIFICATION
+. Each Party shall indemnify, defend at its own cost and expense, and hold the other Party (including its Affiliates and each of their respective officers, directors, employees, and agents) harmless from and against all third party claims, demands, costs, liabilities, losses, expenses and damages (including reasonable attorneys’ fees) arising out of any claim that, taking the claimants allegations to be true, would result in the indemnifying Party’s: (a) gross negligence or willful misconduct in performing any of its obligations under this TOS; or (b) material breach of any of its representations or warranties set forth in Section 8.
+9.2
+CONDITIONS
+. The indemnified Party must: (a) provide the indemnifying Party with all reasonable assistance, and (b) give the indemnifying Party sole control of the defense and settlement of the matter, provided that, unless such settlement unconditionally releases the indemnified Party of all liability, the indemnifying Party may not settle any matter without the indemnified Party’s written consent, which will not be unreasonably withheld.
+10.0 LIMITATION OF LIABILITY
+10.1
+NO GUARANTEE
+. Kochava does not guarantee: (i) any particular outcome as a result of the use of the Platform; (ii) the Platform will meet all expectations of Company; or (iii) the Platform will be entirely error-free.
+10.2
+LIMITATIONS
+. WITH THE EXCEPTION OF A PARTY’S INDEMNIFICATION AND DEFENSE OBLIGATIONS UNDER SECTION 9.0 (INDEMNIFICATION) AND LIABILITY AND DAMAGES ARISING OUT OF GROSS NEGLIGENCE, NO PARTY HERETO IS LIABLE FOR ANY CONSEQUENTIAL, PUNITIVE, INCIDENTAL, OR INDIRECT DAMAGES, HOWEVER ARISING, INCLUDING, WITHOUT LIMITATION, LOST PROFITS OR LOST BUSINESS OPPORTUNITIES.
+10.3
+AGGREGATE LIABILITY LIMITATION
+. If the limitations and exclusions specified in Section 10.2 (Limitations) are unenforceable, then a Party’s aggregate liability to the other Party will not exceed the amounts, if any, actually paid by Company to Kochava in the three-month period prior to the event giving rise to the liability.
+11.0 GENERAL
+11.1
+GOVERNING LAW
+. To the fullest extent permitted by law, this TOS is governed by and construed in accordance with the laws of the State of California, USA, without regard to its conflicts of law principles or provisions.
+11.2
+DISPUTE RESOLUTION
+. The Parties shall submit all disputes, controversies, or claims arising out of or relating to this TOS to binding arbitration administered by the American Arbitration Association under its Commercial Arbitration Rules in Spokane, Washington. One arbitrator shall finally determine the arbitration, and judgment on the award rendered may be entered in any court of competent jurisdiction.
+11.3
+DISPUTE LIMITATION
+. With the exception of a claim relating to Section 5.1 (Fees & Payment), the Parties must file any claim arising out of or relating to this TOS or the use of the Platform within one year after the event giving rise to it, or the claim is forever barred.
+11.4
+SEVERABILITY
+. If a court of competent jurisdiction or an arbitrator holds or deems any provision of this TOS to be invalid or unenforceable, then that provision is deemed to have been deleted from this TOS, while the remaining provisions of this TOS remain in full force according to its terms.
+11.5
+RELATIONSHIP BETWEEN THE PARTIES
+. The Parties acknowledge and agree that their employees, agents, and contractors, are independent contractors, rather than agents or employees of the other Party. Nothing herein creates an employment, joint venture, agency, or partnership relationship between the Parties.
+11.6
+NON-SOLICITATION
+. Company acknowledges that it is reasonable to refrain from soliciting for employment any employee of Kochava during the Term and for a period of one year thereafter; therefore, it agrees to not solicit any employee of Kochava during such time.
+11.7
+PUBLICITY
+. For the limited purpose of promoting the Platform, Company provides its consent to Kochava to publish a case study regarding Company’s use of the Platform, use Company’s name and logo, and use Company’s feedback regarding its use of the Platform.
+11.8
+ASSIGNMENT
+. Except as a result of a sale or transfer of a Party’s voting control, neither Party may, without the prior written consent of the other Party, whose consent shall not be unreasonably withheld: (i) assign this TOS, (ii) assign any of its underlying rights, or (iii) delegate any of its underlying duties. Any assignment or delegation in the absence of the other Party’s prior written consent is void.
+11.9
+MODIFICATION & WAIVER
+. Neither Party may modify this TOS in the absence of a signed writing by the Parties referencing this TOS. No failure or delay by a Party in exercising any right, power, or remedy under this TOS operates as a waiver of any such right, power, or remedy. A waiver of one provision is not a waiver of any other provision. A waiver does not operate as a waiver of any future event.
+11.10
+HEADINGS; INTEGRATION; COUNTERPARTS
+. The section headings in this TOS do not define or limit the scope of their associated provisions. This TOS, together with all Exhibits hereto, constitutes the complete agreement between the Parties and supersedes all prior or contemporaneous written or oral agreements, conditions, or understandings between the Parties. The terms and conditions of this TOS supersede all conflicting terms or conditions included in any invoice or ordering document. This TOS may be executed in counterparts, each of which is deemed an original, and both of which, when taken together, constitutes one and the same instrument.
+11.11
+FORCE MAJEURE
+. If a Party delays or fails to perform its obligations under this TOS as a result of events beyond the Party’s reasonable control, then the Party is not liable to the other Party for the delay or failure. Such events include, without limitation, acts of God, natural disasters, vandalism, strikes, national emergencies, terrorism, governmental acts, computer hacking, and internet, network, and telecommunications failure. Each Party will use reasonable efforts to mitigate the impact of a force majeure event impeding its performance hereunder.
+11.12
+NOTICES
+. Notwithstanding Section 5.0 (Fees & Payment), the Parties shall deliver all required notices or communications under this TOS to the physical or electronic address provided on the IO (if to Company) and to 201 Church Street Sandpoint, ID 83864 (if to Kochava). Notices and communications are deemed delivered to the receiving Party on the date sent by the sending Party. For purposes of this TOS, an electronic communication has the same force and effect as a signed, physical writing.
+11.13
+INCORPORATION OF EXHIBITS
+. Each reference to the “TOS” includes and incorporates Exhibit A attached hereto.
+EXHIBIT A
+EXPLANATION OF FEATURES & FEES
+90 DAY DATA RETENTION
+means access to “Reporting” and “Analytics” of 90 days of row-level Click and Event data.
+ADVANCED ATTRIBUTION
+provides Company unrestricted use of Configurable Attribution.
+ALERTING
+is the means by which Kochava informs Company of changes in critical metrics associated with Company’s product, app, or website.
+AUDIENCE ACTIVATION
+means the ability to export a set of End Users from the Platform for targeting by advertisement, email, push notification, or other method.
+BASIC ANALYTICS SUITE
+is a visualization of app transaction and attribution data across 13 of 14 “Analytics” views (Cost & ROI not available); “Standard Named Events” included with up to 16 custom parameters per Event. “Standard Named Events” include: Achievement, Add to Cart, Add to Wish List, Checkout Start, Level Complete, Purchase, Rating, Registration Complete, Search, Start Trial, Tutorial Complete, and View.
+BASIC ATTRIBUTION
+provides Company with partial use of the Configurable Attribution; reconciliation lookback windows are set at the partner level-only with limited intervals.
+CAMPAIGN TRACKERS
+are the mechanisms by which Kochava collects Click meta data from an ad network.
+CLICK
+means the occurrence of an End-User click on a Company ad, and the related information the Platform collects therefrom.
+CLIENT SUCCESS MANAGER
+is a dedicated point of contact for all service and technical matters, and includes timely email response, scheduled conference calls, and live chat capability.
+CLIENT SUCCESS TEAM
+is a dedicated group of contacts for all service and technical matters, and includes timely email response, scheduled conference calls, and live chat capability.
+CONFIGURABLE ATTRIBUTION
+enables Company to determine the specific methodologies by which a Conversion is defined at the tracker level (e.g. custom lookback windows by partner and tracker, event association lookback).
+CONVERSION
+means the occurrence of: (i) an Attributed Install of a Company app (meaning, the install is attributed to an originating Click; whereas “unattributed” installs are free), or (ii) a Conversion Event (meaning, an activity occurring on an End User device or website which Company instruments the Platform to reconcile to a Campaign Tracker (e.g. re-engagement conversion)).
+END USER
+means a device identifier associated to a person who downloads, installs, utilizes, or otherwise interacts with a Company product.
+ENGAGEMENT
+enables Company to send in-app notifications to End Users directly through the Platform.
+ENTERPRISE ANALYTICS SUITE
+is a visualization of app transaction and attribution data across all 14 “Analytics” views; unlimited “Named Events” included, with up to 16 custom parameters per Event.
+EVENTS
+are the specified activities occurring on an End User device or Company website which Company instruments the Platform to track. Events reconciled to a Campaign Tracker are “Attributed Events;” Events not reconciled to a Campaign Tracker are “Organic Events.”
+FRAUD BLOCKLIST
+is comprised of a dynamic list of device IDs, IP addresses, and network/site ID’s which have been flagged as repeat offenders of fraudulent activity. Once activated by Company at the account, app, or tracker level, each Click originating from a “blocklisted” entity is excluded from attribution. Company incurs this fee on a per Click basis.
+FRAUD CONSOLE
+means a collection of interactive reports, which provide a visualization of abnormal, potentially fraudulent, activity from across Company’s products, apps, or websites.
+IDENTITYLINK®
+enables Company to link an End User across multiple devices based on a unique internal identifier.
+IMPRESSIONS
+means the occurrence of a Company ad served by an ad network.
+KOCHAVA INTELLIGENCE
+means access to the Kochava Intelligence Suite, which includes churn modeling in “Analytics,” “Query” for custom SQL reporting, “Optimization Insights” reporting, and “What if?” for campaign back-testing.
+LONG TERM DATA RETENTION
+means row-level data is retained in “Reporting” and “Query” for 180 days (cold storage thereafter); unlimited install data is retained in perpetuity (includes matched attribution detail and deduplication windows); and “Analytics” visualization of all transactions for 15 months.
+MAU (Monthly Active Users)
+means the number of unique End User “App Open” sessions per app during the preceding month, as measured by the Platform.
+MEDIA COST & ROI
+allows Company to view the costs incurred and return on investment for media purchased from each of its ad network sources.
+MEDIA PLANNING
+means access to the “Kochava Media Planning” suite, which includes “Media Guide” and “Kochava Traffic Index.”
+MEDIA SPEND
+is the calculation of Company’s media cost, as received by Kochava from Company’s ad network sources and measured by Kochava.
+MONTHLY MINIMUM
+is the minimum amount Company is obligated to pay each month to Kochava throughout the Term; Company is billed the greater of the Monthly Minimum or the sum total of monthly transactions multiplied by their respective transaction rates.
+NETWORK POSTBACKS
+are real-time feeds of Conversions and Events which Company instructs the Platform to send to a network endpoint.
+OVERAGE RATE
+is the fee Company incurs for each Event in excess of the monthly allotment of included Events.
+SESSION TRACKING
+, in the context of utilizing the Kochava SDK, means the measurement of instances in which an End User launches a Company app and the duration of time the app remains opened. If Company runs the Platform on a server-to-server basis, then this feature is charged as an Event. In the context of utilizing the Web SDK, Session Tracking means the measurement of instances in which an End User arrives on a Company website and the duration of time the End User remains on the site. Session Tracking does not include device-level information.
+SMARTLINKS
+are URLs that send End Users to predefined destinations based on defined targeting criteria.
+STANDARD ANALYTICS SUITE
+is a visualization of app transaction and attribution data across all 14 “Analytics” views; unlimited “Named Events” included, with up to 16 custom parameters per Event; Organic Events auto-configured off; Attributed Events are free, but exclude high frequency Events, such as Ad Views, App Open, Session, and others. Organic Events and high frequency Attributed Events can be tracked, subject to pricing set forth on the IO.
+SUPPORT TICKET
+means Company receives email support within a 24-hour response time.
+TRAFFIC VERIFIER
+is a real-time fraud mitigation tool that ensures only qualified traffic proceeds from Impression to Conversion by tracking Clicks associated to certain Campaign Trackers.
+TRUE LTV
+is a visualization of an End User’s monetary value, as derived from various revenue sources (i.e. app purchase, in-app purchase, subscription, ad-revenue).
+UNINSTALLS
+means the sending of silent push messages to track app uninstalls; metrics available in the “Analytics” and “Reporting” sections of the Platform.
+WEB SDK
+provides web tracking capabilities through real-time analytics.
+Refer to the Kochava Glossary for detailed descriptions of the above features, available at the
+reference glossary
+.
+This TOS was last updated on October 16, 2018
+Quick Links
+Resources
+Company
+© 2008 - 2025
+Chat with us
+,
+	powered by
+LiveChat
+Deutsch
+Español
+日本語
+한국어
+Русский
+中文(简体)
+Powered by
+Localize
+English
+Sub-section Policy: 
+Sub-policy 0
+https://www.kochava.com/website-visitor-privacy-policy/?int-link=menu-website-privacy:
+We value your privacy
+We and our
+partners
+store and/or access information on a device, such as cookies and process personal data, such as unique identifiers and standard information sent by a device for personalised advertising and content, advertising and content measurement, audience research and services development.  With your permission we and our partners may use precise geolocation data and identification through device scanning. You may click to consent to our and our 240 partners’ processing as described above. Alternatively you may access more detailed information and change your preferences before consenting or to refuse consenting.  Please note that some processing of your personal data may not require your consent, but you have a right to object to such processing. Your preferences will apply to this website only. You can change your preferences or withdraw your consent at any time by returning to this site and clicking the "Privacy" button at the bottom of the webpage.
+Skip to main content
+Press enter to begin your search
+Website Visitor Privacy Policy
+How do I remove my data from Kochava?
+Visit the
+OPT OUT & DO NOT SELL
+page.
+Is the Kochava.com website intended for persons under thirteen years of age?
+No. The Kochava.com website is not intended for the use of persons under thirteen years of age. Kochava does not knowingly solicit or collect personally identifying information (“PII”) from or about children, nor does Kochava knowingly market its products or services to children.
+What is CCPA and how does it apply to me?
+Visit Kochava’s
+CCPA FAQ
+page for answers to your CCPA questions.
+Is a website visitor able to access its PII?
+Yes. A visitor may request access to all of its PII.
+Does this Privacy Policy apply to linked websites?
+No. Although the Kochava.com website may contain links to other sites, Kochava is not responsible for the content, security, or privacy practices employed by those sites. Kochava neither owns nor controls the third-party websites; thus, this Website Visitor Privacy Policy does not apply to information provided to or gathered by them.
+What type of information does Kochava collect from users of the Kochava.com website?
+By way of industry-standard web log files and similar tools, each time a user visits the Kochava.com website, Kochava collects the URL from which the user visited, the pages visited, the computer’s browser information, and the IP address.
+Does Kochava use web cookies on the Kochava.com website?
+Yes. Kochava uses web cookies to track the pages viewed during each visit to the Kochava.com website. Kochava uses this information to help improve the user’s experience and to better understand how users use the site. Kochava does not attempt to link web cookie data to PII.
+Is a user able to block Kochava from placing web cookies on its computer?
+Yes. A user may set its browser to refuse web cookies before accessing the Kochava.com website. In doing so, however, certain features of the site may not function properly and the user assumes all responsibility for any resulting loss of functionality.
+Does Kochava comply with the EU and Swiss Data Privacy Frameworks?
+Kochava complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. Kochava has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF. Kochava has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit
+https://www.dataprivacyframework.gov/
+Does Kochava collect any PII from website visitors?
+No, unless it is voluntarily provided by the visitor. Kochava does not collect any PII when a user visits the Kochava.com website unless the user voluntarily provides such information as a result of: (a) submitting an inquiry through the Kochava.com “Contact” page; (b) submitting a request for a product demonstration through the “Request a Demo” page; (c) registering as a client on the “Sign Up” page; or (d) submitting an application for employment on the “Careers” page. Such PII may include, among other information, a user’s full name, physical address, email address, phone number, company name, and website URL. Users are under no obligation to provide Kochava with PII of any kind; however, refusal to do so may prevent the user from using certain features of the site.
+How does Kochava use the PII it receives from website visitors?
+Kochava may use a visitor’s PII to: (a) inform the user of customized business solutions; (b) directly communicate with the user regarding the use of the Kochava services; or (c) review a user’s application for employment. By using the forms found on the Kochava.com website, the visitor consents to the use of PII in order for Kochava to contact and deliver information to them. Additionally, if a visitor voluntarily provides PII for the purposes of attending a webinar or a comarketing event, the visitor consents to such information being shared with third parties, and the information may be used as such.
+What are some of the major rights consumers have under CCPA?
+Right to Opt Out:
+Consumers have the right to direct a business that sells personal information to third parties not to sell the consumer’s personal information.
+Cal. Civ. Code §1798.120(a)
+Right to Deletion:
+Consumers have the right to request that a business delete any personal information about the consumer which the business has collected from the consumer. Furthermore, the business must direct its service providers to delete the consumer’s personal information.
+Cal. Civ. Code §1798.105(a) and (c)
+Right to Disclosure:
+Consumers have the right to request that the business disclose to the consumer (i) the categories of personal information collected, (ii) the categories of personal information sold to third parties, (iii) the categories of third parties to whom personal information was sold, and (iv) the categories of personal information the business disclosed for a business purpose.
+Cal. Civ. Code §1798.115(a)
+Right of Data Portability:
+Consumers have the right to receive their personal information from a business in a readily useable format to enable the consumer to transmit the information from one entity to another without any hindrance.
+Cal. Civ. Code §§1798.100(d) and 1798.130(a)(2)
+Does Kochava share the PII it receives from website visitors with third-parties?
+No, unless Kochava is unable to meet a visitor’s particular business objective. Under such circumstances, Kochava may elect to disclose a visitor’s PII in order to match them with a registered Kochava partner. These partners are contractually obligated to treat the PII with at least the same level of confidentiality as does Kochava. Despite taking these precautionary measures, Kochava may be liable in some circumstances for the onward transfer of personal information to a third party that violates the Data Privacy Framework Principles.
+How may a website visitor opt-out from receiving communications from Kochava?
+A user may opt-out from receiving communications from Kochava by contacting Kochava via email (
+privacy@kochava.com
+) or by contacting the legal department via telephone (855-862-4282).
+Is a website visitor able to limit the use or disclosure of its PII?
+Yes. A visitor may instruct Kochava to limit the use of its data and PII to that which is strictly necessary for Kochava to directly service the visitor. A visitor may also instruct Kochava to limit the use of its data and PII to the express reason Kochava provided for such use. A visitor may also instruct Kochava to permanently delete its PII in the event the visitor no longer desires any communication from Kochava. Furthermore, a visitor may instruct Kochava to withhold disclosure of its PII to third-parties. A visitor may request the above limitations by contacting Kochava via email (
+privacy@kochava.com
+) or by contacting the legal department via telephone (855-862-4282).
+Is a website visitor able to access its PII?
+Yes. A visitor may request access to all of its Kochava-collected PII by contacting Kochava via email (
+privacy@kochava.com
+) or by contacting the legal department via telephone (855-862-4282).
+Does Kochava process PII on behalf of its commercial clients?
+It depends on how PII is characterized under the terms of the contractual relationship between Kochava and the client. Some jurisdictions define PII more broadly than others to include things like device ID or IP address. Other jurisdictions define PII more narrowly to only include things like email address or first/last name. Kochava almost always processes device ID and IP address, while Kochava almost never processes email address or first/last name. By default, Kochava’s software is programmed to not collect the most obvious types of PII (e.g. email, first/last name). Kochava’s standard license contract requires clients to obtain consent and post privacy policies in order to use Kochava’s services. Furthermore, app stores like iTunes and Google Play have safeguards in place to ensure app developers have proper consent mechanisms and privacy policies in place if the app is programmed to collect certain types of PII.
+How should a website visitor lodge a privacy complaint against Kochava?
+A user should contact Kochava with its privacy complaint via email (
+privacy@kochava.com
+) or by contacting the legal department via telephone (855-862-4282).
+Is an independent dispute resolution mechanism in place to resolve privacy complaints brought by citizens of an EU member nation or Switzerland?
+Yes. In the event a citizen of an EU member nation or Switzerland seeks to have an unresolved privacy complaint against Kochava addressed by an independent third-party, the website visitor may contact JAMS. For more information or to file a complaint, a user is encouraged to visit the JAMS website:
+https://www.jamsadr.com/
+. Such services may be provided to the user free of cost. Furthermore, if a user privacy complaint is not resolved through these means, a binding arbitration option may be available before the Data Privacy Framework Panel in certain limited circumstances.
+Must Kochava disclose PII in response to lawful requests by public authorities?
+Yes, in accordance with the Data Privacy Framework Principles, Kochava may be required under certain circumstances to disclose PII in response to lawful requests by public authorities.
+Is Kochava subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC)?
+Yes. Kochava voluntarily subjects itself to the investigatory and enforcement powers of the FTC, as required by its participation in the EU-U.S. Data Privacy Framework and Swiss-U.S. Data Privacy Framework programs.
+Where does Kochava store its collected information?
+Kochava distributes and stores all of the information it collects in secure servers located in the United States. As such, all PII provided by a website visitor to Kochava is hosted on servers located in the United States.
+To whom should a user direct its questions regarding this Privacy Policy?
+A website visitor may direct its questions regarding this Privacy Policy to the legal department via email (
+privacy@kochava.com
+), via telephone (855-862-4282), or via U.S. Mail (201 Church Street, Sandpoint, ID 83864).
+In compliance with the EU-U.S. DPF and the Swiss-U.S. DPF, Kochava commits to resolve DPF Principles-related complaints about our collection and use of your personal information. EU individuals and Swiss individuals with inquiries or complaints regarding our handling of personal data received in reliance on the EU-U.S. DPF and the Swiss-U.S. DPF should first contact Kochava at
+privacy@kochava.com
+.
+This Website Visitor Privacy Policy was last updated April 15, 2024.
+Quick Links
+Resources
+Company
+© 2008 - 2025
+Chat with us
+,
+	powered by
+LiveChat
+Deutsch
+Español
+日本語
+한국어
+Русский
+中文(简体)
+Powered by
+Localize
+English

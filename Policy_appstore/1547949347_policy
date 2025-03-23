@@ -1,0 +1,17 @@
+The StarSign
+®
+Key Fob app (hereinafter “App”) is used to register and manage fingerprints and FIDO keys on the Key Fob, a device with a fingerprint sensor used for the authentication of individuals by means of the FIDO
+®
+protocol from FIDO
+®
+Alliance. To this end, an encrypted electronic template is generated using the fingerprint’s individual features and is stored on the Key Fob. The template cannot be viewed by us or other third parties at any time. The template is also not transferred.
+In order to enable management in the app, individual IDs are assigned to the templates stored on the Key Fob, and these are displayed in the App. Individual naming via a free text field enables templates to be individually assigned or deleted. Equally, FIDO keys stored on the Key Fob can be managed and assigned using the App.
+Depending on the system used (Android/iOS), the following authorizations are needed for use of the App:
+BLUETOOTH: Use of Bluetooth (Android/iOS)
+ACCESS_FINE_LOCATION: Use of Bluetooth (Android)
+ACCESS_COARSE_LOCATION: Use of Bluetooth (Android)
+CAMERA: Scanning of QR Codes (Android/iOS)
+The authorizations are used exclusively for the provision of App functions. No usage beyond this takes place.
+The duration of storage for the data in the App and respectively on the mobile end device, as well as on the Key Fob, is managed exclusively by the user. The data are physically deleted as soon as deletion is triggered via management of the templates and FIDO keys, or if a factory reset is performed in the App. Details of how to do this are available in the user handbook.
+We reserve the right to amend or update this data protection information to adapt it to the App’s functions and procedures.
+Version 1.2, date: 21th February 2023

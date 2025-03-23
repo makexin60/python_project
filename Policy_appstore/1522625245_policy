@@ -1,0 +1,14 @@
+Your Data Inside of Jellycuts
+While you use Jellycuts,
+no
+data about your usage is collected. When the app first starts, it requests a JSON file from a server. This file contains information about the Jellycuts helper and the current app version. When you connect, this is
+not
+visible by the developer and is
+not
+used to track any data about you. All of your projects and files are stored within iCloud, and Cloud Kit storage.
+Your Data Outside of Jellycuts
+On iOS and iPadOS 15, Jellycuts will connect to a server for signing the current Jellycut file. This is needed because of changes in iOS 15 and iPadOS Shortcuts sharing which required verified shortcuts. Each file you upload is not saved, and
+never
+seen by a human, these files are uploaded and then sent back to you signed. When you connect to this server, your IP may be logged temporarily by Heroku but is
+not
+used for tracking.

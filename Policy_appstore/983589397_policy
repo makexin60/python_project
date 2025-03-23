@@ -1,0 +1,38 @@
+Mihez fér hozzá a telefonon a program, és mire használja a hozzáférést?
+A program a következő hozzáférésekhez kéri a felhasználó engedélyét telepítéskor:
+A felhasználó helyzetének meghatározásához:
+Pontos helyzet
+Az adatok letöltéséhez:
+Háttérben történő letöltés
+Naptárbejegyzés mutatásához az óra számlapon (csak olvasásra):
+Naptár
+Riasztás, figyelmeztetés közlésére:
+Értesítések megjelenítése
+Hogyan kezeli személyes adataimat a program?
+A Meteora program a működése során elküldi a telefon, és így a felhasználó földrajzi helyzetét a HungaroMet szerverének. Annak érdekében,
+      			hogy ezt az érzékeny adatot ne lehessen összekapcsolni a felhasználó személyével a következőket végzi a program:
+Nem használjuk a telefon egyedi azonosítóit (MAC address, IMEI, telefonszám, stb...), helyette telepítéskor csak a Meteora program kap egyedi Apple push azonosítót. A földrajzi koordinátát ezzel az azonosítóval rendeljük csak össze.
+Azért, hogy az egyedi Meteora Apple push azonosítót se lehessen követni, vagy jogosulatlanul felhasználni, randomizált blokk alapú titkosítással küldi az üzenetek ezen részét a program.
+A programban néhány kényelmi funkció személyes adatok hozzáférésével valósul meg, de ezeket az adatokat semmilyen módon nem továbbítja a készülékről a program, és azokat nem
+      			is módosítja:
+Naptár olvasása: csak bekapcsolt naptárkijelzési funkció esetén használjuk az esemény időpontjának kijelzésére.
+A program ezeken kívül névtelen adatokat küld a Google Analytics rendszerbe a működéséről. Ezek az adatok az esetleges programhibák javítását szolgálják,
+      			nem tartalmaznak személyes, vagy személyhez kapcsolható adatokat, és ezen adatok megosztását sem harmadik fél, sem a Google számára nem engedélyeztük az Analytics rendszerben. További információk:
+Google Analytics - Magánélet Védelme.
+A widget nem frissül, mit tegyek?
+A Meteora program adatainak frissítését az iOS rendszer több ok miatt is leállíthatja:
+A készülék újraindulása után nem indítja el az iOS automatikusan a frissítést. Ehhez be kell lépni a Meteora alkalmazásba az ikonján vagy a widgeten keresztül, ezután az adatok újra frissülni fognak.
+Ki lett szedve a Meteora a futó alkalmazások listájából, ezt megjegyzi az iOS, és amíg újból el nem lett indítva a Meteora, addig nem fog frissülni. Ilyenkor is be kell lépni a Meteora alkalmazásba az ikonján vagy a widgeten keresztül, ezután az adatok újra frissülni fognak.
+Le lett tiltva a háttérben történő adatfrissítés a telefonon. Ezt engedélyezni kell, erre telepítéskor rákérdez a Meteora program is.
+Milyen beállításokat javasolnak iOS készüléken a Meteora használatához?
+A Meteora program összes funkciójának használatához a következő beállításokra van szükség a Beállítások oldalon:
+Adatvédelem → Helyzet → Helymeghatározás: Be
+Meteora → Helyzet: Mindig
+Meteora → Naptárak: Be
+Meteora → Éretsítések → Értesítések engedélyezése: Be
+Meteora → Éretsítések → Megjelenítés az Értesítési központban: 5 vagy több
+Meteora → Éretsítések → Hangok: Be
+Meteora → Éretsítések → Jelvény-alkalmazásikon: Be
+Meteora → Éretsítések → Megjelenítés a zárolási képernyőn: Be
+Meteora → Éretsítések → Jelzések stílusa amikor fel van oldva: Szalaghird vagy Jelzések
+Meteora → Alkalmazásfrissítés a háttérben: Be

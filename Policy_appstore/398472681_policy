@@ -1,0 +1,2084 @@
+Deutschlandticket
+Busse und Bahnen deutschlandweit nutzen.
+Mehr erfahren
+Sub-section Policy: 
+Sub-policy 0
+https://wiki.osmfoundation.org/wiki/Privacy_Policy:
+Jump to:
+content
+,
+navigation
+,
+search
+Privacy Policy
+From OpenStreetMap Foundation
+Contents
+1
+Introduction
+2
+Why do we store and process personal data?
+3
+What data do we store and process?
+3.1
+Data from contributions to OpenStreetMap
+3.2
+OSMF Membership Data
+3.3
+Conference and Event Registration Data
+3.4
+Personal Data from Your Communications with OpenStreetMap
+4
+Who has access to the data
+5
+Where do we store the data
+6
+How can you control the processing of your data and reduce privacy related issues
+7
+Right to Object
+8
+Detailed Information
+8.1
+GPS Trace Data
+8.2
+Map Data
+8.3
+User 'home' location
+8.4
+Email Addresses
+8.4.1
+Gravatar
+8.5
+Data you may voluntarily add to your profile or diary posts
+8.6
+Personal data we receive automatically
+8.7
+Third party provided services and data
+8.8
+Unrelated Third-Party-Providers of Services and Data
+8.9
+Communication via OSMF provided Systems
+8.10
+Account Removal
+8.11
+Cookies
+9
+Other Relevant Policies
+10
+Contact
+Introduction
+This document states the OpenStreetMap
+privacy policy
+applicable to OpenStreetMap Foundation (OSMF) activities. In particular, these activities include:
+the OpenStreetMap.org website and associated services and APIs,
+the OpenStreetMap data distribution,
+the OpenStreetMap wiki and help sites, and
+the OpenStreetMap mailing lists and forums.
+It describes what personal information we may be gathering from you, who can see this information, and what options you have for controlling this. We value your privacy and strive to achieve a balance between the legitimate interests of the OpenStreetMap project and your interests and rights.
+This document is mainly intended for OpenStreetMap contributors, if you are not an OpenStreetMap contributor, but are using services provided by the OSMF, we believe the
+Data we receive automatically
+section will be most relevant for you.
+As the OSMF has many legacy systems and practices that have currently not been fully reviewed and documented, it is possible that a subject of particular interest to you has not been covered yet or is inaccurately described. Please see the
+contact
+section, below, to reach us if you have any such questions or believe that you have found a discrepancy. As we will be updating this document regularly to reflect our better understanding of these issues, please check from time to time for updates.
+OpenStreetMap developers, contributors and related companies will often use the OpenStreetMap name and logo to set up groups or services on third-party web sites. For example, there might be a Facebook page, a Google Plus page, a Slack channel, a page on Xing or LinkedIn, a Meetup group, and so on. The privacy practices of such services are outside of OSMF's control and might be located in countries with different data protection rules. Data you share on these platforms cannot, therefore, be covered by this policy. Please refer to the privacy policies of those third-party services.
+Why do we store and process personal data?
+The purpose of the OpenStreetMap project and the OSMF is to provide open geographic data, such as street maps, to anyone.
+To fulfill the goal of distributing data that is truly open, untethered by rights of third parties and of high quality, we do not support anonymous contributions and retain additional, non-geographic, data on a legitimate interest basis (see
+GDPR article 6.1f
+), to enable:
+identifying all the contributions made by an account,
+contacting the contributor in the case of questions in respect to the nature and source of the  contributions,
+detecting, removing and correcting spam accounts, vandalism, and violations of the rights of third parties,
+facilitating the communication between OpenStreetMap contributors, and
+researching and analysing aggregate contributions to improve or prioritise OSMF services, such as evaluating mapping efficacy, map completeness, and determining if locations or mappers are disproportionately represented.
+What data do we store and process?
+Data from contributions to OpenStreetMap
+Besides the geographic data  contributed (points lines, and areas with associated attributes and GPS trace data), and communications related data (diary posts and comments, the user page, changeset comments, and messages) we store
+editing session meta-data. For example comments added by the user, any version and similar information added by the editing application, which editing application and which aerial imagery layers where used.
+user id and login name of the author of every change to an object and a timestamp indicating when that change occurred.
+the e-mail address associated with your account,
+any blocks the user has received and associated messages, and
+network access data (example IP addresses) for the systems and services operated by the OSMF. see
+Data we receive automatically
+.
+OSMF Membership Data
+The full personal name and residential address of members of the organisation according to the Companies Act are, by law, required to be added to the OSMF register of members. Terminating membership does not lead to the entry being deleted. Associate members are not required to provide their full details and the information can be deleted if membership is terminated. Payment details for both classes of members are retained for accounting purposes as long as required by law. The processing of this data is necessary for compliance with a legal obligation (see
+GDPR article 6.1c
+).
+More details on OSMF membership options can be found on
+https://supporting.openstreetmap.org/#Membership-Categories
+.
+Conference and Event Registration Data
+Some events organized by the OSMF require prior registration to be able to participate, most notably our annual State of the Map conference. This data is required to verify payment of entry fees, planning of venues, catering and scheduling of talks and presentations and is visible to the group organizing the event. The processing of this data is necessary for the performance of a contract (see
+GDPR article 6.1b
+).
+Personal Data from Your Communications with OpenStreetMap
+Personal data such as your name and contact information submitted as a result of communicating with OpenStreetMap, joining mailing lists, participating in the forum, or requesting information is retained to facilitate our ability to correspond with you.
+Who has access to the data
+We do not share email addresses associated with accounts with any third party and they are only accessible to operations and working group personnel who have signed confidentiality agreements. User-to-user messages are visible to the sender and the recipient; other access is limited to our operations staff and only if required for operational reasons, to enforce our acceptable use policies, to fulfil any legal obligations, and, most notably, to prevent spam.
+Similarly, network access data is only used to support network operations and access is limited to operating personnel performing operational tasks and to combat vandalism and minimize spam.
+The remainder of the personal data collected by us is made available, depending on the use case, via the website, via the editing API and from our data dumps, to users with accounts who are logged in.
+To reduce the distribution of the non-geographic information we offer our data dumps with and without the additional personal data. Entities that require and process the additional data can register with the OSMF and you can find contact information for them here:
+Registered data controllers
+. We do not contract with them, and any processing of the data carried out by such entities is done on their own behalf.
+Where do we store the data
+Personal data other than any associated with a tile request (for instance, IP addresses and request details) is stored in the United Kingdom and the Netherlands. Backups are stored in the EU.
+Map tiles are provided by a global network of cache servers; which tile server your browser or app accesses is determined by the operation of the content distribution network at the time of the request.
+How can you control the processing of your data and reduce privacy related issues
+While not required by law, we provide the following mechanisms to reduce the exposure of your personal data:
+you can select a non-identifying login name and change it at will,
+you are not required to include personal data in diary posts, comments, email listserv, the wiki, or other OSM communications methods, and you may delete diary posts at any time through your account,
+you can
+request that your account be deleted
+(restrictions apply, see below) and this will be conveyed to registered entities that are utilizing your personal data.
+You should not enable gravatar support or use an e-mail address you have associated with a gravatar if privacy is a concern.
+You can further reduce exposure by not adding personal information to the map data (personal names and such) that you submit. Such information is in general not considered to be a useful addition to our data and you should refrain from adding it.
+Right to Object
+You have a
+right to object
+against processing based on legitimate interests of the data controller.
+Detailed Information
+GPS Trace Data
+The uploading of GPS data is entirely optional and not a prerequisite for contributions to OpenStreetMap. If you do submit GPS data, it is uploaded in the form of individual GPX files. These are kept as raw files, as well as being imported into the database. GPX files can be marked "
+public
+" by the uploader; this is completely unrelated to the option of making one's
+edits
+"public".
+When GPS data for an area is downloaded via the API, no indication is provided of which user uploaded a point or of the timestamp that is associated with the point. Points are, however, returned in timestamp order. GPS data downloaded in this way will include points from traces which were not marked as public.
+If a GPS trace is marked as public when it is uploaded then the raw trace may be downloaded from the web site or by using an API call. In this case the user's display name is shown (regardless of whether the user has made their
+edits
+public or not) and the timestamps in the GPX file will be included. Also, any additional information placed in the GPX file will still be present, e.g., waypoints with their names and/or notes entered, associated symbols, elevation data, etc. You should remove any such information from the data and trim enough  information from the beginning and the end of the trace to obscure the start and destination of it before uploading it if you have privacy concerns.
+Map Data
+All edits made to the map are recorded in the database with the user ID of the user making the change, and a timestamp at the time of change upload. In general all of this information is also made available to everyone via the website, including links to allow everyone to easily cross-reference which user has made which edit.
+Editing programs (such as JOSM and iD) can store further data in the database that may be relevant to your privacy. Please refer to the respective authors and distributors of the programs for more information. For example, iD and JOSM may add the language settings of your device to the metadata of each changeset and the make and operating system of the device may be visible from the transmitted version strings.
+User 'home' location
+If a user sets a home location then it will appear on the "nearby mappers" list for other people with a home location near the user's home location. This is an option on your account settings page.
+Email Addresses
+The registered email address for an OSM user account will never intentionally be published on the internet anywhere, shared with third party organisations, or revealed directly to other users. Email addresses will be used by the server to notify the user if another user has sent a message through the website, and for other system generated notifications.
+Only
+System Administrators
+will have direct access to email address data associated with the OSM account. It may be used by these people to contact users directly about their edits or other OpenStreetMap-related issues.
+Email addresses associated with wiki, forum and help site accounts are stored separately from the OSM user account data in the respective systems. These address are used for notifications and user-to-user communication (if enabled). These addresses are not publicly visible or shared with third parties, but may be visible to the administrators of the systems.
+Note that some other types of
+Accounts
+used by developers/community do expose email address information more publicly (due to technical limitations of the software used, rather than policy decisions). The Trac system exposes your email address in plaintext on the page if the email address (rather than the display name) is used to login. The mailing list system exposes email addresses of people posting messages to everyone who receives the message, as well as in the archive web pages. If you want to post to the list, the system also requires you to register with your proper 'from' address, not a forwarding address.
+Gravatar
+The openstreetmap.org website supports the display of
+Gravatars
+, these are retrieved from gravatar.com by generating a globally unique key from your e-mail address. Our website software will check on the initial signup and on every email address change if you have a Gravatar for the new address and start displaying it if one exists. You can stop this behaviour by explicitly turning Gravatar support off in your account settings. You should be aware that, if a Gravatar is displayed, the key can be used to track your account over any website that has Gravatar support.
+Data you may voluntarily add to your profile or diary posts
+You are not required to fill out your profile or make diary posts. By voluntarily entering personal data in your user profile or diary posts, you consent to that information being publicly available and stored by OSMF as long as you maintain an OSM account. You may edit your public profile or your diary posts at any time to remove such information if you change your mind.
+Personal data we receive automatically
+The OSMF operates a number of services for the OpenStreetMap community, examples are the openstreetmap.org website, the "Standard" style online map, the OSM API and the nominatim search facility.
+When you visit an OSMF website, access any of the services via a browser or via applications that utilize the provided APIs, records of that use are produced, we collect information about your browser or application and your interaction with our website, including (a) IP address, (b) browser and device type, (c) operating system, (d) referring web page, (e) the date and time of page visits, and (f) the pages accessed on our websites.
+Further we may operate user interaction tracking software that will generate additional records of user activity, for example Piwik.
+Additionally, OSMF may engage third party service providers to assist in the delivery of services to the OpenStreetMap community.  Those third party service providers may gather personal data in connection with the provision of services. For example, Content Distribution Networks (a “CDN”) may  use Geo-DNS or similar mechanisms to allocate load to geographically distributed servers and could potentially generate a record of your location at a large scale. See
+Third party provided services and data
+below
+These records are used or can be used in the following ways:
+in support of the operation of the services from a technical, security and planning point of view.
+as anonymised, summarised data for research and other purposes. Such data may be offered publicly via
+https://planet.openstreetmap.org
+or other channels and used by 3rd parties.
+to improve the OpenStreetMap dataset. For example by analysing nominatim queries for missing addresses and postcodes and providing such data to the OSM community.
+The data collected on the systems will be accessible by the system administrators and the appropriate OSMF working groups, for example the Data Working Group. No personal information or information that is linked to an individual will be released to third parties, except except to the extent the third party is a service provider or as required by law. See
+Third party provided services and data
+below.
+IP addresses stored by Piwik are shortened to two bytes and detailed usage information is retained for 180 days.
+Given the temporary nature of this storage, it is generally not feasible for us to provide access to IP addresses or the logs associated with them.
+The above mentioned data is processed on a legitimate interest basis (see
+GDPR article 6.1f
+).
+Third party provided services and data
+We may share personal data with vendors or agents working on our behalf for the purposes described in this privacy policy. For example, we may hire companies to assist with protecting and securing our systems or services, increasing their efficiency, and to support the OSMF activities described herein.  For instance, OSMF recently engaged a CDN provider to allocate demand generated by OSM users efficiently across a global network.
+Any vendor or agent that we retain must comply with our data privacy and security requirements and this privacy policy and are not allowed to use personal data they receive from us for any other purpose other than to provide the services requested by OSMF. Like us, they will never barter, trade, or sell access to your personal data. We remain responsible and liable under data protection laws if third-party agents we engage to process personal data on our behalf do so in a manner inconsistent with the applicable data protection laws, unless we prove that we are not responsible for the event giving rise to the damage.
+Unrelated Third-Party-Providers of Services and Data
+Some sites or services provided by OSMF may be linked with third party applications or websites that provide content or services that is unrelated to OSMF. Such third party applications or websites are not associated with OSMF and personal data collected by them is not covered by the terms of this privacy policy. You will need to refer to the respective third party provider of such content or services for more information about how they handle personal data collected by them. Using these services will typically transmit at least your Internet address and browser information to the operator.
+Some such unrelated third-party providers are:
+Cycle and Transport Map layers available via the openstreetmap.org website operated by
+Gravitystorm Limited, New Malden, United Kingdom
+Humanitarian map layer available via the openstreetmap.org website operated by the
+OpenStreetMap France c/o Maison des Associations du 2ème Arrondissement, 23 rue Greneta, 75002 Paris
+overpass-api used by the query function on the openstreetmap.org website operated by
+FOSSGIS e.V., Römerweg 5, 79199 Kirchzarten, Germany
+3rd party service integrations in editing applications available from openstreetmap.org:
+background layers, see the
+Editor Layer Index
+for information on the operators of the numerous imagery layers.
+iD Editor is an open source OpenStreetMap editor that is not operated by the OSMF.
+Privacy Policy
+.
+Mapillary street-level imagery is provided by Mapillary AB, Bredgatan 4, 211 30 Malmö, Sweden.
+Privacy Policy
+.
+KartaView street-level imagery is provided by Grab Taxi Holdings Pte. Ltd.
+Privacy Policy
+.
+Gravatar images in user profiles that display these are provided by Aut O’Mattic A8C Ireland Ltd., Business Centre, No.1 Lower Mayor Street, International Financial Services Centre, Dublin 1, Ireland.
+Privacy Policy
+.
+Communication via OSMF provided Systems
+The OSM community uses a number of channels for public and inter-personal communication. Some of the systems are operated and controlled by third parties and can be located in countries other than the UK. You will need to refer to the respective service providers for more information.
+These 3rd party operated systems are:
+Mailboxes for the OSMF e-mail addresses are provided by Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043. USA
+IRC channels on the
+OFTC network
+openstreetmap Organisation and source code repositories on
+Github
+By using those systems that are provided by the OSMF, for example the messaging system on openstreetmap.org, you agree to your communications being intercepted by OSMF system managers when necessary to address operational issues, to enforce our acceptable use policies, most notably to prevent spam, and to fulfil any legal obligations.
+You should be aware of the above when communicating sensitive information and you should employ encryption to protect your communications content.
+Account Removal
+You can
+request your account to be removed
+and we will honor such requests as far as possible.
+If you have not actively contributed to the project we will not retain any records, user page, diary posts and similar will be removed.
+If you have contributed your account will be renamed to user_
+USERID
+and contributions and changeset comments will be retained with this name, diary entries and your user page will be removed. Since we do not allow anonymous edits we will non-publicly retain your email address in case you need to be contacted with respect to your contributions.
+Wiki and forum accounts will be renamed to a pseudo-anonymous name, but otherwise will remain as is. You can unsubscribe yourself from any mailing lists, however you need to realize that personal copies held by the recipients of any mails you sent to the lists and the archives on lists.openstreetmap.org cannot be removed.
+In your request for account removal you need to identify all accounts that are affected as we do not have information on which accounts belong to which OpenStreetMap id.
+Cookies
+Numerous OSMF-operated services use cookies to store information on your login and site navigation state. We also use cookies and similar technologies to recognize and improve your use of our websites. You may delete cookies from your computer, and most browsers provide the option to block them. If you block cookies placed by us (first party cookies), you will not be able to access parts of the OSMF websites and services that require a login. However, your access to our websites will not be affected if you disable cookies placed by third parties.
+Other Relevant Policies
+As well as privacy issues, users and contributors must also be aware of the
+OpenStreetMap License
+. This includes
+disclaimers
+. We also have an
+Acceptable Use Policy
+covering various types of server usage.
+Contact
+If you have questions or concerns with respect to this policy, please contact the OSMF via our
+Contact channels
+.
+If you believe that we hold information that would allow us to correct, amend, or delete inaccurate information about you or if you believe that information about you has been processed in violation of this privacy policy please email us at
+privacy@osmfoundation.org
+.  
+Note that you may change your username, email associated with your account, and ‘home’ location through your account without contacting the OSMF.
+Sub-policy 1
+https://liquidm.com/privacy-policy/:
+Skip to content
+Privacy Policy
+Opt Out
+You can choose to decline the web-based tracking features by visiting our opt-out page on your mobile web browser:
+Opt Out
+The privacy policy of the LiquidM Technology GmbH in accordance with the General Data Protection Regulation (GDPR)
+This Privacy Policy applies to the web services and websites of  LiquidM Technology GmbH, Invalidenstr. 74, 10557 Berlin, Germany
+, represented by
+Philipp Simon and Thomas Hille
+,
+hereinafter referred to as LiquidM
+.
+“This Privacy Policy is always to be regarded as part of the respective web presence which directly refers to this site (e.g. under “Privacy” or “Privacy Policy”).
+As a controller in accordance with the EU General Data Protection Regulation (“GDPR”), LiquidM takes the protection of your personal data very seriously. We would like to inform you about when we collect what data and how we use it. We have implemented extensive technical and organizational measures (Art. 32 GDPR) to ensure compliance with and adherence to applicable provisions on data protection and data security by LiquidM and as well contracted third party providers. Please note that amendments to this Privacy Policy may be required due to the ongoing development of our websites and the implementation of new technologies to improve our web services. We, therefore, recommend frequently referring back to this Privacy Policy and reading through the current up-to-date version, which is always available online under
+https://www.liquidm.com/privacy-policy
+.
+I. WHAT IS PERSONAL INFORMATION?
+According to Art.4 No. 1 GDPR, personal data is any information relating to an identified or identifiable natural person, therefore can be used to obtain personal or factual details about the data subject (such as name, address, telephone number, date of birth or e-mail address). Information that cannot (directly or indirectly) be associated with a natural person (or only with disproportionate effort), for example, anonymous information, is not personal information.
+II. WHAT INFORMATION DO WE COLLECT AND PROCESS?
+You can use a portion of our online content without providing personal information.
+a) Contact forms
+If you, however, decide to request further information via the contact forms provided on our website, we may ask for your name and further personal information in order to handle your personal request or to provide the services you requested from us or our customers. You can freely decide whether or not you want to provide that information. However, without this information, we are unable to make the desired services available to you.
+b) User account (LiquidM Platform)
+Certain services of our Online-Service called “LiquidM Platform” with which you can create and display advertising campaigns on your own, upload list of advertising IDs for retargeting campaigns and specify targeting criteria for your campaigns, can only be used by registered users with a user account. We store your e-mail address during registration. The e-mail address serves as a username to identify your member account, and to conduct relevant correspondence with you (e.g. setting up and maintaining your user account). As part of the registration process, we also collect your first and last name, your salutation and information about your company affiliation, mailing address, to ensure that you receive personalized, competent service. All mandatory information required in order to register is marked accordingly. All further information is provided voluntarily; this data is used for the purposes stated, or to improve our online services.
+By registering with our websites, you declare your agreement with the
+General Terms and Conditions
+of LiquidM and the use of your abovementioned personal information in accordance with this Privacy Policy.
+If you wish to register as a user of our LiquidM App and open a user account, please select for your own safety a secret and secure password in order to ensure the confidentiality of your data. Your password is transmitted to and stored on our servers in encrypted form, in the event that you forget your password, please use the “Forgot your password?” function provided on the website to create a new, secure password.
+If you want to delete your account, please contact us at info@liquidm.com. If deletion is not possible for legal reasons, access to the data in question shall instead be blocked. Please note, however, that we may be unable to continue offering some or all of the services provided on our websites requiring registration in the event that your data is deleted or blocked.
+c) LiquidM newsletter
+As part of our web services, we offer a regular subscription to our LiquidM newsletter. When requested, the newsletter provides you with free, up-to-date information on our services. To register without LiquidM newsletter service, we need your first and last name, your gender, and the e-mail address at which you wish to receive the newsletter. If you wish to subscribe to the LiquidM newsletter, we ask that you provide us with the following declaration of consent:
+I would like to regularly receive the LiquidM newsletter and agree that my e-mail address, my first and last name, and my gender, as well as any data voluntarily provided, be used for this purpose. I can revoke this declaration of consent at any time by using the “Opt-Out function” in the respective LiquidM Newsletter or via an e-mail notice to
+newsletter@liquidm.com
+, as well as by writing to LiquidM GmbH, Invalidenstr. 74,
+10557
+Berlin, Germany, such revocation to take effect for the future. No additional fees beyond the normal transmission fees of my e-mail or Internet provider shall apply. In the event that my consent is revoked, I shall not, or shall no longer, be able to receive the LiquidM newsletter. I have read and accepted the current privacy policy.
+III. DELIVERY OF PERSONALISED OR BEHAVIOUR-BASED ADVERTISING (BEHAVIORAL TARGETING)
+In certain cases, we showcase advertising to you on the websites of our partners and for our customers, which are automatically selected on the basis of your surfing behaviour, in order to optimise the quality of the advertising notices for you (so-called “personalised” or “behaviour-based” advertising delivery and “behavioral targeting”). The objective of this system is to only demonstrate to you content that corresponds to your interests. Advertisements which are unlikely to be of interest to you or which are irrelevant will not be shown to you by the activated behavioral targeting system of LiquidM and will be disabled.
+In such a case, this section IV. of the data protection declaration applies as part of the respective web-based services of our partners or customers, from which (for example under “data protection” or “data protection declaration” direct reference was made or a link was created. We wish to disclose to you in a transparent manner how the behavioral targeting works, which data is gathered in the process, how this data is used and for what purpose and how you can object to the behavioral targeting function at any time and block it.
+As a German/European company, the protection of your data is a priority for LiquidM, also in the course of the delivery of behavior-based advertising and LiquidM only uses anonymized data to improve advert quality. Therefore, an identification of your person is not possible either for LiquidM or the respective operator of the website of our partners and customers which you are visiting. You can yourself decide at any time whether you would like to continue seeing the personalized banner from LiquidM.
+a) How does behavioral targeting work in individual cases?
+We take part in a programmatic auction system where placements for advertisement in apps and websites are sold. In this process, we may collect information about you and your use of the website or app. This information cannot be used to identify you in real life but it does enable us to recognize your device when you use sites or apps that have partnered with us.
+Another way we may deliver personalized advertising to you is when you visit the website of one of our partners or customers. On some of these sites, a cookie file is stored on your computer. Cookies are small text files which are deposited by your web browser in a folder on your computer which is designated for this purposes and which contains a single character string as a means of identification. (The cookie does not store your IP address.) The same character string is also saved on our servers. The next time you visit one of our partners’ websites, only the character string is read which identifies the Internet browser you are using. This allows us, for example, to identify which page you have accessed for our partner and which advert you have been shown, without this being linked to your identity. Furthermore, all of the cookies created by us are given an expiry data and automatically expire after no more than 13 months. Without a valid cookie file, the character strong saved on our servers is no longer to be assigned for us.
+Important:
+Using cookies we cannot ever collect any other personal data. For example, when you enter an email address or delivery address, or any other personal data, we cannot see your input and cannot, therefore, process or store it. We do not know your name, address or workplace, nor do we know your gender, age, email address or any other personally identifiable information about you. Even the IP address of your computer is not stored! You can view the data stored in the cookie on your computer. Please refer to your web browser’s help directory or your web browser’s FAQ to learn how cookies are stored and how to read their content. The information contained within the cookie is the exact data that we can see Cookie technology does not allow viruses, trojans or other harmful programs to be placed on your computer.
+A full list of the cookies used by LiquidM and their individual functions can be downloaded
+here
+at any time. Should you not agree to the saving of cookies on our part, you can examine your cookie status at the very top of this page at any time, and also deactivate the saving of behavioral targeting cookies by us. Therefore you can object to the personalized adverts from LiquidM at any time.
+b) How can I disable personalized advertising from LiquidM banners?
+If you do not agree to the storing of cookies by us, you can check your cookie status at any time at the very top of this page and disable the storage of retargeting cookies by us and therefore decline personalized adverts from LiquidM.
+This means that in future you will receive random advertising that is not targeted to your interests.
+Please note that the “opt-out” and “opt-in” functions offered are, for technical reasons, also controlled via cookies. This means that deleting all cookies on your computer means that you will have to opt-out again.
+It is also the case that the deletion of all cookies on your computer does not lead to no personalized advertising being notified to you on a permanent basis. Therefore, you must use the  “opt-out” function as described.
+Finally, please note that we are continuously expanding our range of products. As this will technically involve a new system, the introduction of a new opt-out may be necessary, even if you have already opted prior to its introduction.
+c) Can other forms of personalized advertising be disabled in addition to LiquidM?
+The options described in this section refer only to the personalized adverts offered by LiquidM. If you wish to disable personalized advertising from other providers, you can do this via their respective websites.
+There is an option to change your settings collectively for various providers under preference management on “Your Online Choices”:
+http://www.youronlinechoices.com/de/praferenzmanagement/
+.
+If you want to opt-out from the usage of the Advertising ID, please refer to your operating system settings, or follow the instructions below:
+Android Users (version 2.3 and above) To use the “opt-out of interest-based advertising” option, follow the instructions provided by Google here:
+Google Play Help
+.
+iOS users (version 6 and above) To use the “Limit Ad-Tracking” option, follow the instructions provided by Apple here:
+Apple Support Center
+Please note that these are device settings and will disable interest-based ads from all providers, and not just for us
+d) We also collect information about the advertisements that have been served to you by LiquidM and match them we the Advertising ID from the programmatic buying process.
+Information about the ads can contain:
+the details of the ad delivered (e.g. advertiser’s name, type of advert, etc);
+the website or the app where the ad was delivered;
+your interaction with the ad (i.e. whether you clicked, hid, muted or otherwise interacted with the ad);
+whether you performed certain actions after clicking on the ad (e.g. downloading an application, making a purchase, etc).
+e)
+How do we use the collected information?
+We use the information we collect to display interest-based advertising customized to individuals’ inferred interests, preferences and locations, and to perform analysis aimed at improving our services and technologies. We also need the information in the billing process with our customers and to validate the billings we receive from our partners. The information we collect also helps us to provide filtering options for publishers and developers to manage ads appearing on their sites and in their apps, and to provide targeting options for advertisers. In the end, this helps publishers and developer clients, for example, not to present you ads that you have already seen, and helps our advertiser clients serve adverts that are most likely to be of interest to you.
+Important:
+We do not store the IP-Addresses un-anonymized or the Geographic location
+f)
+LiquidM and Google Authorized Buyers Program
+As part of the Google Authorized Buyers Program, LiquidM has agreed to adhere to the following
+Program guidelines
+. We highly encourage you to learn more about how Google’s products use data from sites and apps that use their services from the following partner-facing
+documentation
+. For more information, please consult Google’s
+Platform program policies
+.
+IV. ANONYMOUS DATA/USE OF COOKIES
+We also use cookies on the LiquidM websites. Cookies are small text files, stored by your web browser in a dedicated directory on your computer or mobile device. Cookies are solely used to identify your web browser in an anonymous manner. Our cookie files only contain automatically generated ID numbers and a time stamp. We neither know your name, the place you live or work nor do we know your gender, your age, your e-mail address or any other similar information about you. The IP address of your device will also not be stored. You can view the data stored in the cookie on your computer. Please refer to your web browser’s help directory to learn how cookies are managed. The information contained within the cookie is the exact data that we can see Cookie technology does not allow viruses, trojans or other malware to be placed on your computer.
+You can also use our websites without the use of cookies enabled. Most browsers accept cookies automatically. You can disable the storage of cookies or set your browser to notify you before accepting the storage of cookies. Please note that users who do not accept the storage of cookies may not be able to access certain functionality of our websites, or can only use our websites with considerable difficulty.
+Further information and a full list of the cookies which are used by LiquidM on its own websites or on those of customers or partners, as well as their individual functions, can be downloaded
+here
+at any time. In addition, you can generally prevent the storing of cookies by adjusting your browser settings accordingly.
+V. LEGAL BASIS
+The legal bases for the processing of your data could be the following:
+Your consent to the use of data in accordance with Art. 6 (1) lit. a) GDPR;
+The performance of our service obligations arising from contracts concluded with you in order to provide the services you request in accordance with Article 6 (1) lit. (b) GDPR;
+Our legitimate interest in accordance with Art. 6 (1) lit. f) GDPR, e. g.
+Our business interests in improving our services so that we can better understand your needs and expectations and thus improve the services we provide to you;
+To prevent fraud and to ensure that our websites are used completely and without any fraudulent behavior;
+To ensure and guarantee the security of our services, making sure that our offer is technically secure and properly functioning;
+to ensure and enforce our contractual requirements and claims.
+Legal reasons in accordance with Art. 6 (1) lit. c) GDPR if the collection, storage, transfer or other processing of data is prescribed by law or processing is necessary to fulfill our legal obligations.
+VI. DATA STORAGE
+We store personal information you submit to us only for as long as is necessary to fulfill the purposes for which such information was transmitted, or as required by law:
+If you conclude contracts with us, we store and process your personal data for the duration of the contractual relationship and beyond for the fulfillment of post-contractual obligations and handling of issues as well as for the duration of statutory retention periods (maximum 10 years);
+If you have consented to the promotional use of your e-mail address, we will store your e-mail address with our mail service provider until you unsubscribe, requesting us to delete the data;
+If you send us an inquiry, we process your personal data while we handle your request.
+VII. IS PERSONAL INFORMATION FORWARDED TO THIRD PARTIES?
+We forward your Advertising ID  we received from our Partners to companies running the advertising campaigns on our service or companies providing anonymous audience data in case we register that you saw one of our advertisements or in case you clicked on an advertisement. This is only done for billing and statistical reasons. In certain cases, we are also required by law to disclose your personal information to third parties. This is, for example, the case when the suspicion of a criminal offense or a misuse of our websites occurs. We are then required to disclose your data to law enforcement authorities.
+Outside of the cases described in this data protection declaration, your data is not forwarded on to third parties and, your information is solely stored in our databases / on our servers (or on the servers of third-party providers).
+VIII. HYPERLINKS TO OTHER WEBSITES
+In addition, our websites contain hyperlinks to websites offered by third parties When clicked, the hyperlinks redirect you from our website directly to the website of another provider. You can recognize this redirection process by the change of the URL in your web browser’s address bar. If you have been forwarded to the website of a cooperation or promotional partner, the use of your personal information will only be subject to the privacy policy of the relevant provider. We cannot take any responsibility for the privacy practices of third parties´ websites because we do have no control over their compliance with data protection regulations.
+IX. PROTECTION OF MINORS
+Persons under 18 years are excluded from our services and from providing any personal information without the consent of their parents or guardians. We do not request personal information from children and adolescents. We do not knowingly gather or collect such data and do not disclose it to third parties.
+X. HOW WE KEEP YOUR INFORMATION SECURE
+When we collect information, we solely store your data on highly protected servers in Germany and the EU. Access to our IT infrastructure is strictly limited to authorized persons who are involved in the technical, commercial or editorial support.
+In order to avoid loss or misuse of data stored by us, we have taken all necessary and extensive technical and organizational safety precautions, which are regularly checked and updated based on technological advancements in accordance to the GDPR.
+However, we would like to inform you that because of the nature of the Internet, the provisions of data protection and data security measures described in this Privacy Policy may not be observed by any third parties or institutions beyond our control. Especially unencrypted data transmission – even when sent via e-mail – can be read by third parties. We have no technical influence on this. The user has the responsibility to protect the information he provides from misuse by encryption, selection of a secure password or other means.
+XI. RIGHTS OF THE “DATA SUBJECT” ACCORDING TO THE RULES OF THE GDPR:
+According to the EU General Data Protection Regulation, you deserve the right to request access to your personal data (see Art. 15), as well as rectification (see Art. 16), erasure (see Art. 17) or at least restriction of processing (see Art. 18) of your personal data.
+Furthermore, you have a right to data portability (see Art. 20) and, of course, the right to revoke any consent given to the processing of personal data at any time (see Art. 7) and to object to processing based on the balancing of legitimate interests (see Art. 21(4) GDPR). In addition, you have a right to appeal to the competent data protection supervisory authority.
+If you have any questions or other feedback on the subject of data protection or would like to exercise your rights regarding data protection, please contact our Data Protection Officer or ourselves:
+Rechtsanwalt Stephan Krämer, LL.M.,
+Kinast & Partner Rechtsanwälte
+https://www.kinast-partner.de/
+LiquidM Technology GmbH
+Invalidenstr. 74
+10557 Berlin
+Germany
+E-Mail:
+privacy@liquidm.com
+Version: May 2018 – We reserve the right to adapt this data protection declaration and will announce any changes in good time.
+Sub-policy 2
+https://www.google.de/intl/de/policies/privacy/:
+Datenschutzerklärung & Nutzungsbedingungen
+Übersicht
+Datenschutzerklärung
+Nutzungsbedingungen
+Technologien
+Häufig gestellte Fragen
+Google-Konto
+Datenschutzerklärung
+Einführung
+Von Google erhobene Daten
+Gründe für die Datenerhebung durch Google
+Datenschutzeinstellungen
+Datenweitergabe
+Gewährleistung der Datensicherheit
+Löschen und Exportieren Ihrer Daten
+Aufbewahrung Ihrer Informationen
+Compliance und Zusammenarbeit mit Regierungsbehörden
+Anforderungen in Europa
+Informationen über diese Datenschutzerklärung
+Weitere Informationen zum Datenschutz
+Rahmenbedingungen für Datenübermittlungen
+Wichtige Begriffe
+Partner
+Aktualisierungen
+Google-Datenschutzerklärung
+Wenn Sie unsere Dienste nutzen, vertrauen Sie uns Ihre Daten an. Wir sind uns bewusst, dass dies eine große Verantwortung ist und setzen alles daran, Ihre Daten zu schützen und zu gewährleisten, dass Sie die Kontrolle darüber behalten.
+In dieser Datenschutzerklärung erfahren Sie, welche Daten von uns erhoben werden, welche Zwecke wir damit verfolgen und wie Sie Ihre Daten aktualisieren, verwalten, exportieren und löschen können.
+Wenn das Datenschutzrecht der Europäischen Union oder des Vereinigten Königreichs auf die Verarbeitung Ihrer Daten Anwendung findet, finden Sie unten im Abschnitt
+Anforderungen in Europa
+weitere Informationen zu Ihren Rechten sowie zur Einhaltung dieser Gesetze durch Google.
+Privatsphärecheck
+Sie möchten Ihre Datenschutzeinstellungen ändern?
+Privatsphärecheck machen
+Wirksam ab dem 16. September 2024
+|
+Archivierte Versionen
+|
+PDF herunterladen
+Inhalt
+Einführung
+Von Google erhobene Daten
+Gründe für die Datenerhebung durch Google
+Datenschutzeinstellungen
+Datenweitergabe
+Gewährleistung der Datensicherheit
+Löschen und Exportieren Ihrer Daten
+Aufbewahrung Ihrer Informationen
+Compliance und Zusammenarbeit mit Regierungsbehörden
+Anforderungen in Europa
+Informationen über diese Datenschutzerklärung
+Weitere Informationen zum Datenschutz
+Wir entwickeln eine Vielzahl von Diensten, die Millionen von Menschen Tag für Tag helfen, die Welt ganz neu zu entdecken und mit ihr zu interagieren. Zu unseren Diensten zählen:
+Google-Apps, -Websites und -Geräte, wie die Google-Suche, YouTube und Google Home
+Plattformen wie der Chrome-Browser und das Android-Betriebssystem
+Produkte, die in Apps und Websites von Drittanbietern integriert sind, wie Werbe- und Analyseprodukte und das eingebettete Google Maps
+Sie können unsere Dienste auf vielfältige Weise nutzen, um Ihre Privatsphäre zu verwalten. So haben Sie beispielsweise die Möglichkeit, sich für ein Google-Konto zu registrieren, wenn Sie Inhalte wie E-Mails und Fotos erstellen und verwalten oder relevantere Suchergebnisse erhalten möchten. Sie können auch zahlreiche Google-Dienste nutzen, ohne sich anzumelden oder ein Konto zu erstellen, beispielsweise wenn Sie die Google Suche verwenden oder sich YouTube-Videos ansehen. Außerdem ist es möglich, in einem privaten Modus im Web zu surfen, etwa im
+Inkognitomodus von Chrome
+, sodass andere Personen, die Ihr Gerät verwenden, nicht sehen können, welche Inhalte Sie aufgerufen haben. Bei allen unseren Diensten können Sie Ihre Datenschutzeinstellungen ändern und so festlegen, ob wir manche Arten von Daten erheben und wie wir sie verwenden.
+Um Ihnen unsere Datenschutzerklärung möglichst verständlich zu machen, haben wir Beispiele, Videos und Definitionen für
+Schlüsselbegriffe
+angefügt. Wenn Sie dennoch Fragen dazu haben,
+können Sie uns gern kontaktieren
+.
+Von Google erhobene Daten
+Im Folgenden erklären wir Ihnen, welche Arten von Daten wir erheben, während Sie unsere Dienste nutzen
+Wir erheben Daten, um allen unseren Nutzern bessere Dienste zur Verfügung zu stellen – von der Feststellung grundlegender Informationen wie zum Beispiel Ihrer Sprache bis hin zu komplexeren Fragen wie zum Beispiel
+Werbung, die Sie besonders nützlich finden
+, den
+Personen, mit denen Sie online am häufigsten zu tun haben
+, oder den YouTube-Videos, die Sie interessant finden. Welche Daten Google erhebt und wie diese verwendet werden hängt davon ab, wie Sie unsere Dienste nutzen und wie Sie Ihre Datenschutzeinstellungen verwalten.
+Wenn Sie nicht in einem Google-Konto angemeldet sind, speichern wir die von uns erhobenen Daten mit
+eindeutigen Kennungen
+, die mit dem Browser, der App oder dem
+Gerät
+verknüpft sind, welche Sie verwenden. Auf diese Weise können wir verschiedene Dinge tun, wie beispielsweise Ihre Einstellungen über Browsersitzungen hinweg beibehalten, zum Beispiel Ihre bevorzugte Sprache oder ob Sie relevantere Suchergebnisse oder Werbung auf Grundlage Ihrer Aktivitäten sehen möchten.
+Wenn Sie in einem Google-Konto angemeldet sind, erheben wir auch Daten, die wir in Ihrem Google-Konto speichern und als
+personenbezogene Daten
+erachten.
+Daten, die Sie uns bei der Nutzung unserer Dienste bereitstellen
+Wenn Sie ein Google-Konto erstellen, stellen Sie uns
+personenbezogene Daten
+zur Verfügung, darunter Ihren Namen und ein Passwort. Sie können Ihrem Konto auch eine
+Telefonnummer
+oder
+Zahlungsinformationen
+hinzufügen. Selbst wenn Sie nicht bei einem Google-Konto angemeldet sind, können Sie uns Daten zur Verfügung stellen, etwa eine E-Mail-Adresse, um mit Google zu kommunizieren oder Benachrichtigungen zu unseren Diensten zu erhalten.
+Wir erheben auch die Inhalte, die Sie bei der Nutzung unserer Dienste erstellen, hochladen oder von anderen erhalten. Dazu gehören beispielsweise E-Mails, die Sie verfassen und empfangen, Fotos und Videos, die Sie speichern, Dokumente und Tabellen, die Sie erstellen, und Kommentare, die Sie zu YouTube-Videos schreiben.
+Daten, die wir bei der Nutzung unserer Dienste erheben
+Ihre Apps, Browser und Geräte
+Wir erheben Daten über die Apps, Browser und
+Geräte
+, die Sie beim Zugriff auf Google-Dienste verwenden. Das hilft uns, Funktionen wie automatische Produktupdates anzubieten oder Ihren Bildschirm zu dimmen, wenn Ihr Akku schwach ist.
+Zu den von uns erhobenen Daten zählen
+eindeutige Kennungen
+, der Typ und die Einstellungen des Browsers, der Typ und die Einstellungen des Geräts, das Betriebssystem, Informationen zum Mobilfunknetz wie der Name des Mobilfunkanbieters und die Telefonnummer sowie die Versionsnummer der App. Wir erheben auch Daten über die Interaktion Ihrer Apps, Browser und Geräte mit unseren Diensten. Hierzu zählen u. a. die
+IP-Adresse
+, Absturzberichte, Systemaktivitäten sowie das Datum, die Uhrzeit und die Verweis-URL Ihrer Anfrage.
+Wir erheben diese Daten, wenn ein Google-Dienst auf Ihrem Gerät unsere Server kontaktiert, beispielsweise wenn Sie eine App vom Play Store installieren oder wenn ein Dienst automatische Updates abfragt. Wenn Sie ein
+Android-Gerät mit Google Apps
+verwenden, kontaktiert Ihr Gerät regelmäßig die Google-Server, um Daten über Ihr Gerät und die Verbindung zu unseren Diensten bereitzustellen. Zu diesen Daten zählen beispielsweise
+der Typ Ihres Geräts und der Name Ihres Mobilfunkanbieters
+, Absturzberichte, die von Ihnen installierten Apps und, abhängig von den Einstellungen auf Ihrem Gerät,
+weitere Informationen dazu, wie Sie Ihr Android-Gerät verwenden
+.
+Ihre Aktivitäten
+Wir erheben in unseren Diensten Daten zu Ihren Aktivitäten. Diese Daten verwenden wir beispielsweise, um Ihnen ein YouTube-Video zu empfehlen, das Ihnen gefallen könnte. Unter anderem könnten folgende Aktivitätsdaten erhoben werden:
+Begriffe, nach denen Sie suchen
+Videos, die Sie sich ansehen
+Inhalte und Werbeanzeigen, die Sie sich ansehen und mit denen Sie interagieren
+Sprach- und Audiodaten
+Kaufaktivitäten
+Personen, mit denen Sie kommunizieren oder Inhalte austauschen
+Aktivitäten auf Websites und Apps von Drittanbietern, die unsere Dienste nutzen
+Der Chrome-Browserverlauf, den Sie
+mit Ihrem Google-Konto synchronisiert
+haben
+Wenn Sie unsere
+Dienste nutzen, um Anrufe zu tätigen und zu erhalten oder um Nachrichten zu senden und zu empfangen
+, erheben wir möglicherweise Anruf- und Nachrichteninformationen wie Ihre Telefonnummer, die Anrufernummer, die Nummer des Angerufenen, Weiterleitungsnummern, die E-Mail-Adressen von Sender und Empfänger, das Datum und die Uhrzeit von Anrufen und Nachrichten, die Dauer von Anrufen, Routing-Informationen und die Art und Anzahl von Anrufen und Nachrichten.
+Die in Ihrem Konto gespeicherten Aktivitätsdaten können Sie sich in Ihrem Google-Konto ansehen und sie dort auch verwalten.
+Zum Google-Konto
+Ihre Standortdaten
+Wenn Sie unsere Dienste nutzen, erheben wir Standortinformationen. Dadurch können wir Ihnen Funktionen wie Wegbeschreibungen, Suchergebnisse für Dinge in Ihrer Nähe und Werbung auf Grundlage Ihres Standorts anbieten.
+Je nachdem, welche Produkte Sie nutzen und welche Einstellungen Sie auswählen, kann Google verschiedene Arten von Standortinformationen verwenden, um bestimmte Dienste und Produkte hilfreicher zu gestalten. Dazu gehören unter anderem:
+GPS- und andere
+Sensordaten von Ihrem Gerät
+IP-Adresse
+Aktivitäten in Google-Diensten
+, zum Beispiel von Ihren Suchanfragen oder
+Orte, die Sie mit einem Label versehen, etwa Ihr Zuhause oder Ihr Arbeitsplatz
+Informationen über Objekte in der Nähe Ihres Geräts
+, wie etwa WLAN-Zugriffspunkte, Funkmasten und Bluetooth-fähige Geräte
+Die durch uns erhobenen Arten von Standortdaten und wie lange wir diese speichern hängen zum Teil von Ihren Geräte- und Kontoeinstellungen ab. Zum Beispiel können Sie mit der App „Einstellungen“ auf Ihrem Android-Gerät
+die Standorterfassung Ihres Geräts aktivieren oder deaktivieren
+. Wenn Sie eine private Karte mit Orten erstellen möchten, die Sie mit Ihren angemeldeten Geräten besuchen, können Sie auch den
+Standortverlauf
+aktivieren. Und wenn die Einstellung „Web- & App-Aktivitäten“ aktiviert ist, werden Ihre Suchanfragen und anderen Aktivitäten in Google-Diensten, die möglicherwiese ebenfalls Standortinformationen enthalten, in Ihrem Google-Konto gespeichert. Weitere Informationen dazu, wie wir Standortinformationen verwenden,
+finden Sie hier
+.
+In manchen Fällen erhebt Google auch Daten über Sie aus
+öffentlich zugänglichen Quellen
+. Wenn beispielsweise Ihr Name in Ihrer lokalen Zeitung erwähnt wird, kann die Google-Suchmaschine diesen Artikel indexieren und anderen Personen zeigen, wenn sie nach Ihrem Namen suchen. Unter Umständen erhalten wir auch Daten über Sie von vertrauenswürdigen Partnern. Dazu zählen Verzeichnisdienste, die uns in Google-Diensten anzuzeigende Informationen zu Unternehmen liefern, Marketingpartner, die uns Daten über potenzielle Kunden unserer Geschäftsdienste bereitstellen, und Sicherheitspartner, die uns Daten liefern, mit denen wir uns
+vor Missbrauch schützen
+können. Wir erhalten auch Daten von
+Partnern, damit wir in deren Auftrag Werbung und Recherchedienste zur Verfügung stellen können
+.
+Zum Erheben und Speichern von Daten verwenden wir verschiedene Technologien. Dazu zählen
+Cookies
+,
+Pixel-Tags
+, die lokale Speicherung wie etwa
+Browser-Webspeicher
+oder
+Anwendungsdaten-Caches
+, Datenbanken und
+Serverprotokolle
+.
+Gründe für die Datenerhebung durch Google
+Wir verwenden Daten zur Verbesserung unserer Dienste
+Wir nutzen die von uns im Rahmen unserer Dienste erhobenen Daten für folgende Zwecke:
+Bereitstellung unserer Dienste
+Wir nutzen Ihre Daten zur
+Bereitstellung unserer Dienste
+. Hierzu zählen beispielsweise die Verarbeitung Ihrer Suchbegriffe, um Suchergebnisse einzublenden, oder das Vorschlagen von Empfängern aus Ihren Kontakten, wenn Sie Inhalte teilen möchten.
+Wartung und Verbesserung unserer Dienste
+Wir verwenden Ihre Daten,
+um zu gewährleisten, dass unsere Dienste ordnungsgemäß funktionieren
+. Beispielsweise verwenden wir sie zur Überprüfung von Störungen oder zur Beseitigung von Problemen, die Sie uns gemeldet haben. Außerdem nutzen wir Ihre Daten, um
+unsere Dienste zu verbessern
+. Dazu zählt beispielsweise die Feststellung, welche Suchbegriffe am häufigsten falsch geschrieben werden, damit wir die in unseren Diensten verwendete Rechtschreibprüfung verbessern können.
+Entwicklung neuer Dienste
+Wir nutzen die im Rahmen unserer bestehenden Dienste erhobenen Daten zur Entwicklung neuer Dienste. Beispielsweise halfen uns Erkenntnisse darüber, wie Personen Fotos in Picasa, der ersten Foto-App von Google, organisiert haben, bei der Entwicklung von Google Fotos.
+Bereitstellung personalisierter Dienste, einschließlich Inhalte und Werbeanzeigen
+Wir nutzen die von uns erhobenen Daten zur Personalisierung unserer Dienste. Dazu zählen die Bereitstellung von Empfehlungen, von personalisierten Inhalten und
+von personalisierten Suchergebnissen
+. Beispielsweise erhalten Sie im
+Sicherheitscheck
+Sicherheitstipps, die auf Ihre persönliche Nutzung von Google-Produkten zugeschnitten sind. Je nach Ihren verfügbaren Einstellungen kann Google Play Daten nutzen, etwa über Apps, die Sie installiert haben, und Videos, die Sie sich auf YouTube angesehen haben, um neue Apps zu empfehlen, die Ihnen gefallen könnten.
+Je nach Ihren Einstellungen zeigen wir Ihnen möglicherweise auch auf Ihre Interessen und Aktivitäten in Google-Diensten bezogene
+personalisierte Werbung
+. Wenn Sie beispielsweise nach „Mountainbikes“ suchen, kann auf YouTube Werbung für Sportausrüstung eingeblendet werden. In Ihren Einstellungen für Werbung unter
+Mein Anzeigen-Center
+können Sie festlegen, welche Daten wir zur Auswahl der präsentierten Werbung verwenden.
+Wir zeigen Ihnen keine personalisierte Werbung, die auf
+sensiblen Kategorien
+, wie der ethnischen Zugehörigkeit, Religion, sexuellen Orientierung oder Gesundheit beruht.
+Wir zeigen Ihnen keine personalisierte Werbung auf Grundlage von Ihren Inhalten aus Google Drive, Gmail oder Google Fotos.
+Wir geben Daten, durch die Sie persönlich identifizierbar sind, wie beispielsweise Ihren Namen oder Ihre E-Mail-Adresse, nur dann an Werbetreibende weiter, wenn Sie uns dazu auffordern. Wenn Sie beispielsweise Werbung für einen Blumenladen in Ihrer Nähe sehen und die Schaltfläche "Zum Anrufen tippen" auswählen, verbinden wir Ihren Anruf und geben Ihre Telefonnummer möglicherweise an den Blumenladen weiter.
+Zu „Mein Anzeigen-Center“
+Messung der Leistung
+Wir nutzen die Daten zur Analyse und Messung, um zu verstehen, wie unsere Dienste verwendet werden. Beispielsweise analysieren wir Daten über Ihre Besuche auf unseren Websites, um das Design unserer Produkte zu optimieren. Zusätzlich nutzen wir Daten der Werbeanzeigen, mit denen Sie interagieren, einschließlich Ihrer zugehörigen Aktivitäten in der Google Suche, um Werbetreibenden ein besseres Verständnis ihrer Werbekampagnen zu ermöglichen. Dazu nutzen wir verschiedene Tools, wie z. B. Google Analytics. Wenn Sie Websites besuchen oder Apps verwenden, bei denen Google Analytics eingesetzt wird, kann ein Google Analytics-Kunde sich dafür entscheiden, es Google zu ermöglichen,
+Daten über Ihre Aktivitäten auf dieser Website oder in dieser App mit Aktivitäten auf anderen Websites oder in anderen Apps zu verknüpfen
+, bei denen ebenfalls unsere Werbedienste genutzt werden.
+Kommunikation mit Ihnen
+Wir nutzen die von uns erhobenen Daten, wie Ihre E-Mail-Adresse, um uns direkt mit Ihnen in Verbindung zu setzen. So könnten wir Ihnen beispielsweise eine Benachrichtigung senden, wenn wir verdächtige Aktivitäten feststellen, wie einen Versuch, sich von einem ungewöhnlichen Standort aus in Ihrem Google-Konto anzumelden. Außerdem könnten wir Sie auch über bevorstehende Änderungen oder Verbesserungen in Bezug auf unsere Dienste informieren. Und wenn Sie Google kontaktieren, zeichnen wir Ihre Anfrage auf, um Ihnen bei der Lösung etwaiger Probleme behilflich zu sein.
+Schutz von Google, unserer Nutzer und der Öffentlichkeit
+Wir nutzen Daten, um die Verbesserung der
+Sicherheit und Zuverlässigkeit
+unserer Dienste zu unterstützen. Dazu zählen das Erkennen, Verhindern und Bekämpfen von Betrug, Missbrauch, Sicherheitsrisiken und technischen Problemen, die Google, unseren Nutzern oder
+der Öffentlichkeit
+schaden könnten.
+Um Ihre Daten zu diesen Zwecken zu verarbeiten, verwenden wir verschiedene Technologien. Wir nutzen automatisierte Systeme, die Ihre Inhalte analysieren, sodass wir Ihnen personalisierte Suchergebnisse, personalisierte Werbung oder andere Funktionen bereitstellen können, die auf Ihre Nutzung unserer Dienste zugeschnitten sind. Zusätzlich analysieren wir Ihre Inhalte, damit wir
+Missbrauch erkennen können
+, wie Spam, Malware und illegale Inhalte. Wir verwenden auch
+Algorithmen
+, um Muster in Daten zu erkennen. Google Übersetzer hilft beispielsweise Personen, über Sprachbarrieren hinweg zu kommunizieren, indem der Dienst geläufige Sprachmuster in Sätzen erkennt, die übersetzt werden sollen.
+Unter Umständen werden
+die durch uns erhobenen Daten zu den oben beschriebenen Zwecken dienst- und geräteübergreifend verwendet
+. Wenn Sie sich beispielsweise, je nach Ihren verfügbaren Einstellungen, Videos von Gitarrenspielern auf YouTube ansehen, kann eine Werbeanzeige für Gitarrenunterricht auf einer Website ausgeliefert werden, auf der unsere Anzeigenprodukte verwendet werden. Je nach Ihren Kontoeinstellungen könnten
+Ihre Aktivitäten auf anderen Websites und in Apps
+mit Ihren personenbezogenen Daten verknüpft werden, um die Dienste von Google und die von Google ausgelieferten Werbeanzeigen zu verbessern.
+Wenn andere Nutzer bereits über Ihre E-Mail-Adresse oder andere Sie identifizierende Daten verfügen, zeigen wir diesen Nutzern möglicherweise die öffentlich sichtbaren Daten Ihres Google-Kontos an, wie Ihren Namen und Ihr Foto. Damit können andere Personen beispielsweise eine von Ihnen stammende E-Mail identifizieren.
+Bevor wir Daten zu anderen als den in dieser Datenschutzerklärung aufgeführten Zwecken nutzen, bitten wir Sie um Ihre Einwilligung.
+Datenschutzeinstellungen
+Sie haben Entscheidungsmöglichkeiten in Bezug auf die durch uns erhobenen Daten und ihre Verwendung
+In diesem Abschnitt werden die wichtigsten Einstellungen beschrieben, mit denen Sie Ihre Privatsphäre in unseren Diensten verwalten können. Sie können auch den
+Privatsphärecheck
+verwenden, um wichtige Datenschutzeinstellungen zu überprüfen und anzupassen. Zusätzlich zu diesen Tools bieten wir auch spezifische Datenschutzeinstellungen in unseren Produkten. Mehr dazu erfahren Sie in unserem
+Leitfaden zum Datenschutz in Google-Produkten
+.
+Zum Privatsphärecheck
+Daten verwalten, überprüfen und aktualisieren
+Wenn Sie angemeldet sind, können Sie Ihre Daten jederzeit in den von Ihnen verwendeten Diensten überprüfen und aktualisieren. Beispielsweise ermöglichen Ihnen Fotos und Drive die Verwaltung bestimmter auf Google gespeicherter Inhaltstypen.
+Wir stellen Ihnen auch einen Ort zur Verfügung, an dem Sie die in Ihrem Google-Konto gespeicherten Daten überprüfen und deren Speicherung steuern können. Ihr
+Google-Konto
+beinhaltet:
+Datenschutzeinstellungen
+Aktivitätseinstellungen
+Hier können Sie festlegen, welche Arten von Aktivitäten in Ihrem Konto gespeichert werden sollen. Wenn Sie zum Beispiel den YouTube-Verlauf aktiviert haben, werden die Videos, die Sie sich ansehen, und die Dinge, nach denen Sie suchen, in Ihrem Konto gespeichert, damit Sie bessere Empfehlungen erhalten und Videos an der zuletzt angesehenen Stelle fortsetzen können. Und wenn die Einstellung „Web- & App-Aktivitäten“ aktiviert ist, werden Ihre Suchanfragen und Aktivitäten in anderen Google-Diensten in Ihrem Google-Konto gespeichert. So können Dienste persönlicher für Sie gestaltet werden, damit Sie unter anderem schneller Suchergebnisse und nützlichere Empfehlungen zu Apps und Inhalten erhalten. „Web- & App-Aktivitäten“ hat auch eine Untereinstellung, mit der Sie festlegen können, ob
+Informationen zu Ihren Aktivitäten auf anderen Websites, in anderen Apps und auf Geräten, die Google-Dienste nutzen
+, in Ihrem Google-Konto gespeichert und zur Verbesserung von Google-Diensten verwendet werden. Zu diesen Informationen gehört beispielsweise, welche Apps Sie auf Android installieren und verwenden.
+Aktivitätseinstellungen aufrufen
+Einstellungen für Werbung
+Hier können Sie Ihre Einstellungen zu Werbeanzeigen verwalten, die auf Google sowie auf Websites und in Apps im Rahmen einer
+Partnerschaft mit Google
+von Google ausgeliefert werden. Sie können Ihre Interessen verändern, auswählen, ob Ihre personenbezogenen Daten verwendet werden sollen, um sich relevantere Werbung präsentieren zu lassen, und bestimmte Werbedienste aktivieren oder deaktivieren.
+Zu „Mein Anzeigen-Center“
+Über mich
+Personenbezogene Daten in Ihrem Google-Konto verwalten und festlegen, wer sie in Google-Diensten sehen kann.
+Zu "Über mich"
+Soziale Empfehlungen
+Hier können Sie auswählen, ob Ihr Name und Ihr Foto neben Ihren Aktivitäten wie Rezensionen und Empfehlungen in Werbeanzeigen erscheinen sollen.
+Zu "Soziale Empfehlungen"
+Websites und Apps, auf bzw. in denen Google-Dienste genutzt werden
+Daten von Websites und Apps, auf bzw. in denen Google-Dienste wie Google Analytics genutzt werden, verwalten, die eventuell an Google weitergegeben werden, wenn Sie ihre Dienste aufrufen oder damit interagieren.
+Zu Wie wir Daten von Websites oder Apps verwenden, auf bzw. in denen unsere Dienste genutzt werden
+Möglichkeiten zur Überprüfung und Aktualisierung Ihrer Daten
+Meine Aktivitäten
+In „Meine Aktivitäten“ können Sie überprüfen und festlegen, welche Daten in Ihrem Google-Konto gespeichert werden, wenn Sie angemeldet sind und Google-Dienste verwenden, zum Beispiel Ihre Suchanfragen oder Nutzung von Google Play. Sie können sich die Inhalte nach Datum und Thema sortiert ansehen und Ihre Aktivitäten teilweise oder vollständig löschen.
+Zu "Meine Aktivitäten"
+Google Dashboard
+Google Dashboard ermöglicht Ihnen die Verwaltung von Daten, die mit bestimmten Produkten verknüpft sind.
+Zu Google Dashboard
+Ihre personenbezogenen Daten
+Hier können Sie Ihre Kontaktdaten wie Ihren Namen, Ihre E-Mail-Adresse und Ihre Telefonnummer verwalten.
+Zu den personenbezogenen Daten
+Wenn Sie abgemeldet sind, können Sie Daten verwalten, die mit Ihrem Browser oder Gerät verknüpft sind, z. B.:
+Personalisierte Suche:
+Hier können Sie auswählen
+, ob Ihnen anhand Ihrer Suchaktivitäten relevantere Ergebnisse und Empfehlungen bereitgestellt werden sollen.
+YouTube-Einstellungen: Hier können Sie Ihren
+YouTube-Suchverlauf
+und Ihren
+YouTube-Wiedergabeverlauf
+pausieren und löschen.
+Einstellungen für Werbung: Hier können Sie
+Ihre Einstellungen für Werbeanzeigen verwalten
+, die Ihnen auf Google und Websites sowie in Apps von Google-Anzeigenpartnern präsentiert werden.
+Daten exportieren, entfernen und löschen
+Sie können eine Kopie Ihrer Inhalte aus Ihrem Google-Konto exportieren, um diese zu sichern oder sie mit einem anderen Dienst als den von Google zu nutzen.
+Daten exportieren
+Zum Löschen Ihrer Daten haben Sie folgende Möglichkeiten:
+Inhalte aus
+bestimmten Google-Diensten
+löschen
+Bestimmte Elemente in Ihrem Konto unter Verwendung von
+Meine Aktivitäten
+suchen und dann löschen
+Bestimmte Google-Produkte
+einschließlich Ihrer mit diesen Produkten verknüpften Daten löschen
+Gesamtes Google-Konto löschen
+Daten löschen
+Sie können über den
+Kontoinaktivität-Manager
+auch einer anderen Person Zugriff zu Teilen Ihres Google-Kontos gewähren, falls Sie unerwarteterweise nicht in der Lage sind, Ihr Konto zu verwenden.
+Und schließlich können Sie auch basierend auf dem anwendbaren Recht und unseren Richtlinien eine
+Anfrage zum Entfernen von Inhalten
+aus bestimmten Google-Diensten stellen.
+Es gibt auch andere Möglichkeiten festzulegen, welche Daten von Google erhoben werden dürfen, und zwar unabhängig davon, ob Sie in einem Google-Konto angemeldet sind oder nicht. Hierzu zählen:
+Browsereinstellungen: Ihr Browser lässt sich beispielsweise so konfigurieren, dass angezeigt wird, wenn von Google ein
+Cookie
+in Ihrem Browser gesetzt wurde. Ihr Browser lässt sich auch so konfigurieren, dass alle Cookies von einer bestimmten Domain oder allen Domains blockiert werden. Beachten Sie aber, dass Cookies erforderlich sind,
+damit unsere Dienste ordnungsgemäß funktionieren
+und etwa Ihre Spracheinstellungen gespeichert werden können.
+Geräteeinstellungen: Ihr Gerät verfügt möglicherweise über Steuerelemente, mit denen Sie festlegen können, welche Daten wir erheben. So können Sie beispielsweise auf Ihrem Android-Gerät
+Standorteinstellungen anpassen
+.
+Datenweitergabe
+Datenweitergabe durch Sie
+In vielen unserer Dienste können Sie Daten mit anderen Personen teilen. Sie bestimmen in diesem Fall, wie dabei vorgegangen werden soll. Beispielsweise können Sie entscheiden, welche Ihrer Videos auf YouTube öffentlich geteilt werden und welche vertraulich bleiben sollen. Bedenken Sie, dass, wenn Sie Daten öffentlich teilen, Suchmaschinen, einschließlich der Google-Suche, möglicherweise auf diese Daten zugreifen können.
+Wenn Sie angemeldet sind und mit Google-Diensten interagieren, z. B. wenn Sie Kommentare zu einem YouTube-Video verfassen oder eine App bei Play rezensieren, werden Ihr Name und Ihr Foto neben Ihrer Aktivität angezeigt. Diese Daten werden wir gegebenenfalls
+entsprechend Ihren Einstellungen für "Soziale Empfehlungen"
+auch in Werbeanzeigen veröffentlichen.
+Datenweitergabe durch Google
+Wir geben personenbezogene Daten an Unternehmen, Organisationen oder Personen außerhalb von Google nur in folgenden Fällen weiter:
+Mit Ihrer Einwilligung
+Wir geben personenbezogene Daten außerhalb von Google weiter, wenn wir Ihre Einwilligung dazu haben. Wenn Sie beispielsweise
+Google Home verwenden, um eine Tischreservierung vorzunehmen
+, holen wir Ihre Zustimmung ein, bevor wir dem Restaurant Ihren Namen oder Ihre Telefonnummer weitergeben. Wir bieten Ihnen außerdem Steuerungsmöglichkeiten, damit Sie
+Drittanbieter-Apps und -Websites einsehen und verwalten
+können, denen Sie Zugriff auf Daten in Ihrem Google-Konto gewährt haben. Vor der Weitergabe von
+sensiblen personenbezogenen Daten
+holen wir Ihre ausdrückliche Einwilligung ein.
+Im Falle von Domain-Administratoren
+Wenn Sie Mitglied einer Bildungseinrichtung oder Mitarbeiter einer Organisation sind, die Google-Dienste nutzt, haben der
+Domainadministrator
+und Reseller, die Ihr Konto verwalten, Zugriff auf Ihr Google-Konto. Diese haben folgende Möglichkeiten:
+Auf die in Ihrem Konto gespeicherten Daten zugreifen und diese speichern, z. B. Ihre E-Mail
+Statistiken zu Ihrem Konto ansehen, z. B. wie viele Apps Sie installieren
+Das Passwort für Ihr Konto ändern
+Den Zugriff auf Ihr Konto sperren oder beenden
+Ihre Kontodaten abrufen, um anwendbare Gesetze, Vorschriften und gerichtliche Verfahren einzuhalten oder einer vollstreckbaren behördlichen Anordnung nachzukommen
+Ihre Möglichkeiten einschränken, Daten oder Datenschutzeinstellungen zu löschen oder zu bearbeiten
+Für die Verarbeitung durch andere Stellen
+Wir stellen personenbezogene Daten unseren
+verbundenen Unternehmen
+, anderen vertrauenswürdigen Unternehmen oder Personen zur Verfügung, die diese in unserem Auftrag verarbeiten. Dies geschieht auf der Grundlage unserer Weisungen und im Einklang mit unserer Datenschutzerklärung sowie anderen geeigneten Vertraulichkeits- und Sicherheitsmaßnahmen. Beispielsweise nutzen wir Dienstanbieter zur Unterstützung beim Betrieb unserer Rechenzentren, Bereitstellen unserer Produkte und Dienste, Verbessern unserer internen Geschäftsprozesse und Anbieten zusätzlichen Supports für unsere Kunden und Nutzer. Außerdem arbeiten wir mit Dienstanbietern zusammen, die uns beim Prüfen von Videoinhalten auf YouTube aus Gründen der öffentlichen Sicherheit unterstützen und uns durch das Analysieren und Anhören von Beispielausschnitten gespeicherter Audioaufnahmen von Nutzern helfen, die Audioerkennungstechnologien von Google zu verbessern.
+Aus rechtlichen Gründen
+Wir geben personenbezogene Daten an Stellen außerhalb von Google weiter, wenn wir nach Treu und Glauben davon ausgehen dürfen, dass die Offenlegung dieser Daten vernünftigerweise notwendig ist, um folgende Zwecke zu erfüllen:
+Geltende Gesetze, Vorschriften oder
+gerichtliche Verfahren einzuhalten oder einer vollstreckbaren behördlichen Anordnung nachzukommen
+. In unserem
+Transparenzbericht
+veröffentlichen wir Daten über die Anzahl und die Art der Anfragen, die wir von Behörden erhalten.
+Geltende Nutzungsbedingungen durchzusetzen, einschließlich der Untersuchung möglicher Verstöße.
+Betrug, Sicherheitsmängel oder technische Probleme aufzudecken, zu verhindern oder anderweitig zu bekämpfen.
+Die Rechte, das Eigentum oder die Sicherheit von Google,
+unserer Nutzer
+oder der Öffentlichkeit vor Schaden zu schützen.
+Wir geben möglicherweise
+nicht personenbezogene Daten
+an die Öffentlichkeit und unsere Partner, beispielsweise an Publisher, Werbetreibende, Entwickler oder Rechteinhaber, weiter. Beispielsweise veröffentlichen wir Daten,
+um Trends bezüglich der allgemeinen Nutzung unserer Dienste aufzuzeigen
+. Darüber hinaus erlauben wir
+bestimmten Partnern
+, Daten von Ihrem Browser oder Gerät unter Verwendung ihrer eigenen Cookies oder ähnlicher Technologien zu Werbe- und Messzwecken zu erheben.
+Falls Google an einem Unternehmenszusammenschluss, einem Unternehmenserwerb oder einem Verkauf von Vermögensgegenständen beteiligt ist, werden wir weiterhin dafür sorgen, die Vertraulichkeit Ihrer personenbezogenen Daten sicherzustellen. Zusätzlich werden wir betroffene Nutzer benachrichtigen, bevor personenbezogene Daten übermittelt oder Gegenstand einer anderen Datenschutzerklärung werden.
+Gewährleistung der Datensicherheit
+Wir integrieren Sicherheitsfunktionen in unsere Dienste, um Ihre Daten zu schützen
+Alle Google-Produkte sind mit starken Sicherheitsfunktionen ausgestattet, die Ihre Daten fortwährend schützen. Die Erkenntnisse, die wir durch die Bereitstellung unserer Dienste gewinnen, helfen uns, Bedrohungen der Sicherheit automatisch abzufangen und zu verhindern, dass Sie mit solchen konfrontiert werden. Wenn wir tatsächlich ein Risiko erkennen, von dem Sie unserer Meinung nach erfahren sollten, benachrichtigen wir Sie und schlagen Ihnen Maßnahmen vor, um sich besser zu schützen.
+Wir bemühen uns intensiv darum, Sie und Google vor unbefugtem Zugriff auf Daten oder vor unbefugter Veränderung, Offenlegung oder Vernichtung von Daten zu schützen. Unsere Maßnahmen umfassen Folgendes:
+Wir verschlüsseln Ihre Daten, um sie während der Übertragung zu schützen.
+Wir bieten eine Vielzahl von Sicherheitsfunktionen, wie
+Safe Browsing
+, Sicherheitscheck und die
+Bestätigung in zwei Schritten
+, um Ihnen zu helfen, Ihr Konto zu schützen.
+Wir überprüfen laufend unsere Praktiken zur Erhebung, Speicherung und Verarbeitung von Daten, einschließlich der physischen Sicherheitsmaßnahmen, um unsere Systeme vor unbefugtem Zugriff zu schützen.
+Der Zugriff auf personenbezogene Daten wird durch uns beschränkt und nur Mitarbeitern, Auftragnehmern und Kundenservicemitarbeitern von Google gewährt, die diese Daten für die weitere Datenverarbeitung unbedingt benötigen. Alle Personen mit diesen Zugriffsrechten sind strengen Vertraulichkeitsverpflichtungen unterworfen und können disziplinarischen Maßnahmen unterzogen oder entlassen werden, falls sie diese Verpflichtungen nicht einhalten.
+Löschen und Exportieren Ihrer Daten
+Sie können Ihre Daten jederzeit exportieren oder aus Ihrem Google-Konto löschen.
+Sie können eine Kopie Ihrer Inhalte aus Ihrem Google-Konto exportieren, um diese zu sichern oder sie mit einem anderen Dienst als den von Google zu nutzen.
+Daten exportieren
+Zum Löschen Ihrer Daten haben Sie folgende Möglichkeiten:
+Inhalte aus
+bestimmten Google-Diensten
+löschen
+Bestimmte Elemente in Ihrem Konto unter Verwendung von
+Meine Aktivitäten
+suchen und dann löschen
+Bestimmte Google-Produkte
+einschließlich Ihrer mit diesen Produkten verknüpften Daten löschen
+Gesamtes Google-Konto löschen
+Daten löschen
+Aufbewahrung Ihrer Informationen
+Wir speichern erhobene Daten über verschiedene Zeiträume, abhängig davon, um welche Daten es sich handelt, wie wir sie nutzen und wie Sie Ihre Einstellungen konfigurieren:
+Einige Daten können Sie jederzeit löschen, beispielsweise Ihre
+personenbezogenen Daten
+oder selbst erstellte oder hochgeladene Inhalte, wie
+Fotos
+und
+Dokumente
+. Darüber hinaus können Sie in Ihrem Konto gespeicherte
+Informationen zu Ihren Aktivitäten
+löschen oder
+festlegen, dass diese nach einer bestimmten Zeit automatisch gelöscht werden
+. Wir speichern diese Daten in Ihrem Google-Konto, bis Sie sie entweder selbst entfernen oder entfernen lassen.
+Andere Daten werden nach einer bestimmten Zeit automatisch gelöscht oder anonymisiert, etwa
+Werbedaten
+in Serverprotokollen.
+Einige Daten, etwa dazu, wie oft Sie unsere Dienste nutzen, speichern wir, bis Sie Ihr Google-Konto löschen.
+Einige Daten speichern wir für längere Zeit, wenn dies aus legitimen geschäftlichen oder rechtlichen Gründen erforderlich ist. Diese Gründe können Sicherheit, Betrugs- und Missbrauchsabwehr oder eine Dokumentationspflicht im Finanzbereich sein.
+Wenn Sie Daten löschen, beginnen wir mit einem Datenlöschvorgang, um dafür zu sorgen, dass die Daten sicher und vollständig von unseren Servern entfernt werden oder nur in anonymisierter Form gespeichert bleiben. Wir bemühen uns, Daten mithilfe unserer Dienste davor zu schützen, irrtümlich oder mutwillig gelöscht zu werden. Aus diesem Grund kann es zwischen der von Ihnen durchgeführten Löschung von Inhalten und dem Zeitpunkt, zu dem Kopien aus unseren aktiven Systemen und Sicherungssystemen gelöscht werden, zu Verzögerungen kommen.
+Weitere Informationen zur Dauer der Datenspeicherung bei Google und Angaben dazu, wie lange es dauert, bis wir Ihre Informationen löschen,
+finden Sie hier
+.
+Compliance und Zusammenarbeit mit Regierungsbehörden
+Wir überprüfen die vorliegende Datenschutzerklärung regelmäßig und verarbeiten Ihre Daten entsprechend dieser Datenschutzerklärung.
+Datenübermittlung
+Wir betreiben
+Server auf der ganzen Welt
+. Deshalb können Ihre Daten auf Servern verarbeitet werden, die außerhalb des Landes liegen, in dem Sie leben. Datenschutzgesetze sind von Land zu Land unterschiedlich und einige bieten mehr Schutz als andere. Unabhängig davon, wo Ihre Daten verarbeitet werden, wenden wir grundsätzlich dieselben, in der Datenschutzerklärung beschriebenen Schutzmaßnahmen an. Ferner halten wir bestimmte
+rechtliche Rahmenbedingungen
+zu Datenübermittlungen ein.
+Sobald wir formale schriftliche Beschwerden erhalten, nehmen wir mit der Person, die die Beschwerde eingereicht hat, Kontakt auf. Wir arbeiten mit den jeweils zuständigen Regulierungsbehörden einschließlich der lokalen Datenschutzaufsichtsbehörden zusammen, um alle Beschwerden bezüglich der Übermittlung Ihrer Daten beizulegen, die wir nicht direkt mit Ihnen klären können.
+Anforderungen in Europa
+So können Sie Ihre Rechte ausüben und Google kontaktieren
+Wenn das Datenschutzrecht der Europäischen Union (EU) oder des Vereinigten Königreichs (UK) auf die Verarbeitung Ihrer Daten Anwendung findet, stellen wir Ihnen die in dieser Datenschutzerklärung beschriebenen
+Steuerungsmöglichkeiten
+zur Verfügung, damit Sie Ihre Rechte ausüben können, Auskunft über Ihre Daten zu erhalten, sie zu aktualisieren, zu
+löschen
+und deren Verarbeitung einzuschränken. Darüber hinaus haben Sie das Recht, der Verarbeitung Ihrer Daten zu widersprechen oder Ihre Daten in einen anderen Dienst zu exportieren.
+Bei weiteren Fragen oder Anliegen hinsichtlich Ihrer Rechte können Sie sich
+an Google und an unsere Datenschutzabteilung wenden
+. Falls Sie Bedenken bezüglich Ihrer Rechte gemäß lokalem geltenden Recht haben, können Sie sich außerdem an Ihre lokale Datenschutzaufsichtsbehörde wenden.
+Datenverantwortlicher
+Der für die Verarbeitung Ihrer Informationen zuständige Datenverantwortliche
+hängt von Ihrem gewöhnlichen Aufenthaltsort ab, sofern dies in den Datenschutzhinweisen eines bestimmten Dienstes nicht anders angegeben ist:
+Google Ireland Limited, mit Sitz in Gordon House, Barrow Street, Dublin 4, Irland, für Nutzer von Google-Diensten, die ihren gewöhnlichen Aufenthalt im Europäischen Wirtschaftsraum oder der Schweiz haben.
+Google LLC, mit Sitz in 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA, für Nutzer von Google-Diensten, die ihren gewöhnlichen Aufenthalt im Vereinigten Königreich haben.
+Google LLC ist unabhängig von Ihrem Wohnort der zuständige Datenverantwortliche für die Verarbeitung von Informationen, die in Diensten wie der
+Google Suche
+und Google Maps indexiert und angezeigt werden. Google Ireland Limited ist der zuständige Datenverantwortliche für die Verarbeitung von Informationen, mit denen Google AI-Modelle trainiert werden, um sie in Diensten einzusetzen, die Google Ireland Limited im Europäischen Wirtschaftsraum oder in der Schweiz bereitstellt.
+Rechtsgrundlagen der Verarbeitung
+Wir verarbeiten Ihre Daten zu den in dieser Datenschutzerklärung beschriebenen
+Zwecken
+auf der Basis der folgenden rechtlichen Grundlagen:
+Wir verarbeiten Ihre Daten, um Ihnen einen Dienst bereitzustellen, den Sie im Rahmen eines Vertrags angefordert haben.
+Wir verarbeiten Ihre Daten, soweit wir oder
+Dritte
+ein berechtigtes Interesse daran haben, dies zu tun. Dabei wenden wir
+geeignete Maßnahmen
+zum Schutz Ihrer Privatsphäre an.
+Wir verarbeiten Ihre Daten, wenn dies zum Schutz Ihrer lebenswichtige Interessen oder denen einer anderen Person erforderlich ist.
+Wir verarbeiten Ihre Daten, wenn wir dazu eine rechtliche Verpflichtung haben.
+Wir bitten Sie um Ihre Einwilligung zur Verarbeitung Ihrer Daten für bestimmte Zwecke. Sie haben das Recht, Ihre Einwilligung jederzeit zu widerrufen.
+Ihre Datenschutzeinstellungen sowie die Art, wie Sie Google-Dienste verwenden, bestimmen, welche Daten verarbeitet werden, zu welchem Zweck dies geschieht und was die Rechtsgrundlagen dafür sind. In der folgenden Tabelle werden diese Verarbeitungszwecke, die Arten der verarbeiteten Daten sowie die rechtlichen Grundlagen für die Verarbeitung ausführlicher erläutert.
+Warum und wie wir Daten verarbeiten
+Welche Daten wir verarbeiten
+Rechtliche Gründe
+Bereitstellung von Google-Diensten, ‑Produkten und ‑Funktionen
+Beispiele für Verarbeitungsaktivitäten:
+Wir verarbeiten die Begriffe, nach denen Sie suchen, um Ihnen entsprechende Suchergebnisse anzuzeigen.
+Wir verwenden die IP-Adresse Ihres Geräts, um Ihnen die angeforderten Daten senden zu können, beispielsweise ein YouTube-Video.
+Wir verwenden eindeutige IDs, die in Cookies auf Ihrem Gerät gespeichert sind, um Sie als die Person zu authentifizieren, die auf Ihr Google-Konto zugreifen darf.
+Fotos und Videos, die Sie in Google Fotos hochladen, werden verwendet, um Ihnen zu helfen, Alben, Collagen und andere Kreationen zu erstellen, die Sie mit anderen teilen können.
+Wenn Sie Dienstleistungen oder Artikel von uns kaufen, verwenden wir Informationen wie Ihre Lieferadresse oder Lieferanweisungen – beispielsweise für die Bearbeitung und Lieferung Ihrer Bestellung sowie zur Bereitstellung des Supports für das Produkt oder die Dienstleistung, die Sie kaufen.
+Wir verarbeiten Ihre Zahlungsinformationen, wenn Sie zusätzlichen Speicherplatz für Google Drive kaufen.
+Wir können Kontaktdaten (wie Namen und E‑Mail-Adressen) von Personen verwenden, mit denen Sie in Google-Produkten interagieren. So können wir Ihnen helfen, diese Personen zu finden, wenn Sie in Google-Diensten wie Gmail, Fotos und Assistant etwas mit ihnen teilen oder mit ihnen kommunizieren möchten.
+Eine E‑Mail mit einer Flugbestätigung kann verwendet werden, um eine Check‑in-Schaltfläche in Gmail zu erstellen.
+Google erhebt auch Daten über Sie aus öffentlich zugänglichen Quellen. Wenn beispielsweise Ihr Name in Ihrer lokalen Zeitung erwähnt wird, kann die Google-Suchmaschine diesen Artikel indexieren und anderen Personen zeigen, wenn sie nach Ihrem Namen suchen. Oder wenn Ihre Unternehmensinformationen auf einer Website erscheinen, können wir sie indexieren und in Google-Diensten anzeigen.
+Wir können Ihnen helfen, Ihren Standort mithilfe der
+Google-Standortfreigabe
+zu teilen. So können andere Sie auf einer Karte finden oder Ihre voraussichtliche Ankunftszeit abschätzen.
+Wie im Abschnitt
+Datenweitergabe
+beschrieben, geben wir personenbezogene Daten außerhalb von Google weiter, wenn wir Ihre Einwilligung dazu haben. Wir bieten Ihnen außerdem Einstellungen, mit denen Sie
+Apps und Websites von Drittanbietern überprüfen und verwalten
+können, denen Sie Zugriff auf Daten in Ihrem Google-Konto gewährt haben.
+Welche Daten verarbeitet werden, hängt von Ihren Einstellungen sowie von der Art ab, wie Sie die Google-Dienste nutzen. Die Daten können Folgendes umfassen:
+Daten, die Sie uns bei der Nutzung unserer Dienste zur Verfügung stellen:
+Inhalte, die Sie erstellen, hochladen oder empfangen (z. B. Fotos, Videos, E‑Mails, Dokumente und Tabellen).
+Google Dashboard
+: Damit können Sie Daten verwalten, die mit bestimmten Produkten verknüpft sind.
+Personenbezogene Daten, die Sie angeben, wenn Sie ein Google-Konto erstellen (z. B.
+Ihr Name
+und Ihr Passwort,
+Ihre Telefonnummer
+, Ihr Geburtsdatum oder
+Zahlungsinformationen
+).
+Daten, die wir erheben, wenn Sie unsere Dienste nutzen:
+Informationen zu Ihren Apps, Browsern und Geräten
+wie
+eindeutige IDs
+, die mit dem Browser, der App oder dem Gerät verknüpft sind, den, die bzw. das Sie verwenden, sowie Informationen über die Interaktion Ihrer Apps, Browser und Geräte mit unseren Diensten (z. B. IP-Adresse, Absturzberichte und Systemaktivitäten).
+Informationen zu Ihren Aktivitäten in unseren Diensten
+wie Ihre Suchbegriffe, der mit Ihrem Google-Konto synchronisierte Chrome-Browserverlauf, Ihre Aufrufe und Interaktionen von bzw. mit Inhalten und Werbung sowie Ihre Aktivitäten auf Websites und in Apps von Drittanbietern, in denen unsere Dienste genutzt werden. Die in Ihrem Google-Konto gespeicherten Aktivitäten können Sie auf der Seite
+Meine Aktivitäten
+einsehen und verwalten.
+Standortinformationen
+, die etwa anhand von GPS, IP-Adresse und anderen Daten von Sensoren an Ihrem Gerät oder in dessen Nähe ermittelt werden können. Dies hängt zum Teil von Ihren Geräte- und Kontoeinstellungen ab.
+Informationen aus öffentlich zugänglichen Quellen
+wie Informationen, die online (z. B. wenn Ihr Name in Ihrer lokalen Zeitung erwähnt wird) oder aus anderen Quellen öffentlich verfügbar sind.
+Informationen von unseren vertrauenswürdigen Partnern
+, z. B. von Verzeichnisdiensten, die uns Informationen zu Unternehmen liefern, die in Google-Diensten angezeigt werden sollen, oder von Sicherheitspartnern, die uns Daten liefern, um vor Missbrauch zu schützen.
+Die rechtlichen Grundlagen für die Verarbeitung dieser Informationen hängen von Ihren Einstellungen sowie von der Art ab, wie Sie die Google-Dienste nutzen. Diese Grundlagen können Folgendes umfassen:
+Erfüllung eines Vertrags
+mit Ihnen, beispielsweise durch das Bereitstellen eines YouTube-Videos oder durch die Bearbeitung und Lieferung Ihrer Bestellung, wenn Sie Dienstleistungen oder physische Waren von uns kaufen.
+Wahrung unserer
+berechtigten Interessen
+und derer von Dritten, einschließlich:
+Bereitstellung, Verwaltung und Optimierung von Diensten, um die Anforderungen unserer Nutzer zu erfüllen.
+Beispiel: Verwendung von Kontaktdaten (wie Namen und E‑Mail-Adressen) von Personen, mit denen Sie in Google-Produkten interagieren, damit Sie diese Personen leichter finden, wenn Sie in Google-Diensten wie Gmail, Fotos und Assistant etwas mit ihnen teilen oder mit ihnen kommunizieren möchten.
+Ihre
+Einwilligung
+, z. B. wenn Sie Ihren Standort über die Google-Standortfreigabe teilen.
+Aufrechterhaltung und Verbesserung von Google-Diensten, ‑Produkten und ‑Funktionen
+Aufrechterhaltung des Dienstes, damit er wie vorgesehen funktioniert, z. B. durch Fehlerbehebung sowie Nachverfolgung und Behebung von Problemen.
+Beispiele für Verarbeitungsaktivitäten:
+Wir überprüfen fortlaufend die ordnungsgemäße Funktion unserer Dienste, um Probleme zu erkennen. Wenn wir feststellen, dass eine Funktion fehlerhaft ist, ermöglichen uns die vor dem Eintreten des Problems erhobenen Aktivitätsdaten, das Problem schneller zu beheben.
+Wir erfassen die Interaktionen von Nutzern mit Schaltflächen in Anwendungen wie Google Maps und der Google Suche, um festzustellen, ob sie wie vorgesehen funktionieren.
+Verbesserung der Google-Dienste sowie der Sicherheit und Zuverlässigkeit dieser Dienste, z. B. durch Erkennung, Verhinderung und Reaktion von bzw. auf Betrug, Missbrauch, Sicherheitsrisiken und technische Probleme, die den Dienst oder Nutzer beeinträchtigen könnten.
+Beispiele für Verarbeitungsaktivitäten:
+Wir analysieren Daten zu Ihren Interaktionen mit unseren Diensten, damit wir die Produkte weiter optimieren können. So können wir beispielsweise besser feststellen, wenn Nutzer zu lange brauchen, um eine bestimmte Aufgabe auszuführen, oder manche Schritte überhaupt nicht beenden können. In diesem Fall können wir diese Funktion überarbeiten und das Produkt für alle verbessern.
+Wir analysieren, welche Suchbegriffe am häufigsten falsch geschrieben werden, damit wir die Rechtschreibprüfung für alle unsere Dienste verbessern können.
+Wir analysieren die Nutzung von Google Übersetzer, um die Übersetzungsqualität zu verbessern und Google Übersetzer in weiteren Sprachen verfügbar zu machen.
+Wir analysieren Suchanfragen bei Google Shopping, um festzustellen, welche Produkte, Händler und Marken für verschiedene Arten von Suchanfragen relevant sind.
+Die Safe Browsing-Funktion von Google Chrome kann Informationen zu verdächtigen Websites zwischen dem Browser eines Nutzers und Google-Servern teilen und dadurch z. B. zum Schutz vor Phishing, Malware und schädlicher Werbung beitragen.
+Welche Daten verarbeitet werden, hängt von Ihren Einstellungen sowie von der Art ab, wie Sie die Google-Dienste nutzen. Die Daten können Folgendes umfassen:
+Daten, die Sie uns bei der Nutzung unserer Dienste zur Verfügung stellen:
+Inhalte, die Sie erstellen, hochladen oder empfangen (z. B. Fotos, Videos, E‑Mails, Dokumente und Tabellen).
+Google Dashboard
+: Damit können Sie Daten verwalten, die mit bestimmten Produkten verknüpft sind.
+Personenbezogene Daten, die Sie angeben, wenn Sie ein Google-Konto erstellen (z. B.
+Ihr Name
+und Ihr Passwort,
+Ihre Telefonnummer
+, Ihr Geburtsdatum oder
+Zahlungsinformationen
+).
+Daten, die wir erheben, wenn Sie unsere Dienste nutzen:
+Informationen zu Ihren Apps, Browsern und Geräten
+wie
+eindeutige IDs
+, die mit dem Browser, der App oder dem Gerät verknüpft sind, den, die bzw. das Sie verwenden, sowie Informationen über die Interaktion Ihrer Apps, Browser und Geräte mit unseren Diensten (z. B. IP-Adresse, Absturzberichte und Systemaktivitäten).
+Informationen zu Ihren Aktivitäten in unseren Diensten
+wie Ihre Suchbegriffe, der mit Ihrem Google-Konto synchronisierte Chrome-Browserverlauf, Ihre Aufrufe und Interaktionen von bzw. mit Inhalten und Werbung sowie Ihre Aktivitäten auf Websites und in Apps von Drittanbietern, in denen unsere Dienste genutzt werden. Die in Ihrem Google-Konto gespeicherten Aktivitäten können Sie auf der Seite
+Meine Aktivitäten
+einsehen und verwalten.
+Standortinformationen
+, die etwa anhand von GPS, IP-Adresse und anderen Daten von Sensoren an Ihrem Gerät oder in dessen Nähe ermittelt werden können. Dies hängt zum Teil von Ihren Geräte- und Kontoeinstellungen ab.
+Informationen aus öffentlich zugänglichen Quellen
+wie Informationen, die online (z. B. wenn Ihr Name in Ihrer lokalen Zeitung erwähnt wird) oder aus anderen Quellen öffentlich verfügbar sind.
+Informationen von unseren vertrauenswürdigen Partnern
+, z. B. von Verzeichnisdiensten, die uns Informationen zu Unternehmen liefern, die in Google-Diensten angezeigt werden sollen, oder von Sicherheitspartnern, die uns Daten liefern, um vor Missbrauch zu schützen.
+Die rechtlichen Grundlagen für die Verarbeitung dieser Informationen hängen von Ihren Einstellungen sowie von der Art ab, wie Sie die Google-Dienste nutzen. Diese Grundlagen können Folgendes umfassen:
+Erfüllung eines Vertrags
+mit Ihnen, beispielsweise bei der Verwendung der Interaktionsprotokolle von Google-Apps, um sicherzustellen, dass diese wie vorgesehen funktionieren.
+Wahrung unserer
+berechtigten Interessen
+und derer von Dritten, einschließlich:
+Bereitstellung, Verwaltung und Optimierung von Diensten, um die Anforderungen unserer Nutzer zu erfüllen.
+Beispielsweise analysieren wir, welche Suchbegriffe am häufigsten falsch geschrieben werden, damit wir die Rechtschreibprüfung für alle unsere Dienste verbessern können.
+Erkenntnisse darüber, wie Personen unsere Dienste nutzen, um die Leistung unserer Dienste zu gewährleisten und zu verbessern.
+Beispielsweise analysieren wir die Nutzung von Google Übersetzer, um die Übersetzungsqualität zu verbessern und Google Übersetzer in weiteren Sprachen verfügbar zu machen.
+Durchführung von Recherchen, mit denen unsere Dienste für unsere Nutzer verbessert werden und die für die Öffentlichkeit von Vorteil sind.
+Beispielsweise arbeiten wir daran, die Übersetzungsqualität von Google Übersetzer zu verbessern und Google Übersetzer in weiteren Sprachen verfügbar zu machen.
+Entwicklung neuer Google-Dienste, ‑Produkte und ‑Funktionen
+Beispiele für Verarbeitungsaktivitäten:
+Erkenntnisse darüber, wie Nutzer Fotos in Picasa, der ersten Foto-App von Google, organisiert haben, halfen uns bei der Entwicklung von Google Fotos.
+Erkenntnisse darüber, wie kurze Inhalte von Creatorn erstellt und von Nutzern angesehen werden, halfen Google dabei, neue YouTube-Dienste zu entwickeln.
+Je nach Ihren Einstellungen können wir Audioaufnahmen von Sprachinteraktionen mit Diensten wie der Google Suche, Assistant, Maps und Gboard speichern, um die Audiotechnologien von Google weiterzuentwickeln und zu verbessern.
+Wir verwenden Informationen, die online oder aus anderen Quellen öffentlich verfügbar sind, um neue Modelle für maschinelles Lernen zu trainieren und grundlegende Technologien zu entwickeln, die für verschiedene Google-Produkte wie Google Übersetzer, Gemini-Apps und Cloud AI-Funktionen eingesetzt werden.
+Wir nutzen Ihre Interaktionen mit KI-Modellen und ‑Technologien wie Gemini-Apps, um diese Modelle zu entwickeln, zu trainieren, zu optimieren und zu verbessern, damit sie besser auf Ihre Anfragen reagieren. Wir verwenden sie auch, um Klassifikatoren und Filter zu aktualisieren und dadurch z. B. die Sicherheit, das Sprachverständnis und die Genauigkeit zu verbessern.
+Welche Daten verarbeitet werden, hängt von Ihren Einstellungen sowie von der Art ab, wie Sie die Google-Dienste nutzen. Die Daten können Folgendes umfassen:
+Daten, die Sie uns bei der Nutzung unserer Dienste zur Verfügung stellen:
+Inhalte, die Sie erstellen, hochladen oder empfangen (z. B. Fotos, Videos, E‑Mails, Dokumente und Tabellen).
+Google Dashboard
+: Damit können Sie Daten verwalten, die mit bestimmten Produkten verknüpft sind.
+Personenbezogene Daten, die Sie angeben, wenn Sie ein Google-Konto erstellen (z. B.
+Ihr Name
+und Ihr Passwort,
+Ihre Telefonnummer
+, Ihr Geburtsdatum oder
+Zahlungsinformationen
+).
+Daten, die wir erheben, wenn Sie unsere Dienste nutzen:
+Informationen zu Ihren Apps, Browsern und Geräten
+wie
+eindeutige IDs
+, die mit dem Browser, der App oder dem Gerät verknüpft sind, den, die bzw. das Sie verwenden, sowie Informationen über die Interaktion Ihrer Apps, Browser und Geräte mit unseren Diensten (z. B. IP-Adresse, Absturzberichte und Systemaktivitäten).
+Informationen zu Ihren Aktivitäten in unseren Diensten
+wie Ihre Suchbegriffe, der mit Ihrem Google-Konto synchronisierte Chrome-Browserverlauf, Ihre Aufrufe und Interaktionen von bzw. mit Inhalten und Werbung sowie Ihre Aktivitäten auf Websites und in Apps von Drittanbietern, in denen unsere Dienste genutzt werden. Die in Ihrem Google-Konto gespeicherten Aktivitäten können Sie auf der Seite
+Meine Aktivitäten
+einsehen und verwalten.
+Standortinformationen
+, die etwa anhand von GPS, IP-Adresse und anderen Daten von Sensoren an Ihrem Gerät oder in dessen Nähe ermittelt werden können. Dies hängt zum Teil von Ihren Geräte- und Kontoeinstellungen ab.
+Informationen aus öffentlich zugänglichen Quellen
+wie Informationen, die online (z. B. wenn Ihr Name in Ihrer lokalen Zeitung erwähnt wird) oder aus anderen Quellen öffentlich verfügbar sind.
+Informationen von unseren vertrauenswürdigen Partnern
+, z. B. von Verzeichnisdiensten, die uns Informationen zu Unternehmen liefern, die in Google-Diensten angezeigt werden sollen, oder von Sicherheitspartnern, die uns Daten liefern, um vor Missbrauch zu schützen.
+Die rechtlichen Grundlagen für die Verarbeitung dieser Informationen hängen von Ihren Einstellungen sowie von der Art ab, wie Sie die Google-Dienste nutzen. Diese Grundlagen können Folgendes umfassen:
+Wahrung unserer
+berechtigten Interessen
+und derer von Dritten, einschließlich:
+Entwicklung neuer Produkte und Funktionen, die für unsere Nutzer hilfreich sind.
+Beispielsweise haben uns Erkenntnisse darüber, wie Personen Fotos in Picasa, der ersten Foto-App von Google, verwendet haben, bei der Entwicklung von Google Fotos geholfen. Oder wir nutzen Daten, die online oder in anderen öffentlichen Quellen verfügbar sind, um die KI-Modelle von Google zu trainieren sowie Produkte und Funktionen weiterzuentwickeln, die diese grundlegenden Technologien nutzen – wie Google Übersetzer, Gemini-Apps und Cloud AI.
+Bereitstellung, Aufrechterhaltung und Optimierung von Diensten, um die Anforderungen unserer Nutzer zu erfüllen.
+Zum Beispiel verwenden wir Informationen über Ihre Aktivitäten in unseren Diensten – wie Ihre Interaktionen mit Gemini-Apps – um Modelle für maschinelles Lernen zu trainieren und zu verbessern und um ihr Sprachverständnis sowie ihre Sicherheitsklassifikatoren und -filter zu aktualisieren.
+Mit Ihrer
+Einwilligung
+, beispielsweise das Speichern von Audioaufnahmen von Sprachinteraktionen mit der Google Suche, Assistant, Maps und Gboard, um Technologien zur Audioerkennung von Google zu entwickeln und verbessern.
+Zur Bereitstellung personalisierter Dienste, einschließlich Inhalte und Werbeanzeigen
+Um unsere Dienste für Sie anzupassen, etwa über Empfehlungen, personalisierte Inhalte und personalisierte Suchergebnisse.
+Beispiele für Verarbeitungsaktivitäten:
+Der Sicherheitscheck von Google bietet Ihnen Sicherheitstipps, die an Ihre Nutzung von Google-Produkten angepasst sind.
+Google News bietet Ihnen möglicherweise lokale Nachrichten, die auf Ihrem ungefähren Standort basieren.
+Die Google Suche bietet Ihnen möglicherweise Ergebnisse, die auf ihrem ungefähren Standort basieren.
+Google Assistant kann Ihre Kontakte verwenden, um auf Anfrage Nachrichten zu senden, z. B. „SMS an Max Mustermann“.
+Google Play nutzt Daten, etwa über Apps, die Sie installiert haben, und Videos, die Sie sich auf YouTube angesehen haben, um neue Apps zu empfehlen, die Ihnen gefallen könnten.
+Möglicherweise zeigen wir ein Google-Doodle auf der Startseite der Google Suche, das sich speziell auf einen feierlichen Anlass in Ihrem Land bezieht.
+Google kann Werbung basierend auf dem Kontext der von Ihnen besuchten Website anzeigen, beispielsweise Anzeigen für Gartengeräte auf einer Seite mit Tipps zum Gärtnern.
+Wenn Sie in Ihrem Google-Konto angemeldet sind und „Web- & App-Aktivitäten“ aktiviert haben, können Sie relevantere Suchergebnisse erhalten, die auf Ihren bisherigen Suchanfragen und Aktivitäten in anderen Google-Diensten basieren.
+Je nach Ihren Einstellungen, um auf Ihre Interessen bezogene personalisierte Werbung anzuzeigen.
+Beispiele für Verarbeitungsaktivitäten:
+Wenn Sie nach „Mountainbikes“ suchen oder Videos über Mountainbiken ansehen, kann in Ihren Suchergebnissen oder auf YouTube Werbung für Sportausrüstung eingeblendet werden.
+Wenn Sie sich auf YouTube Videos zum Thema Backen ansehen, wird Ihnen beim Surfen im Web möglicherweise mehr Werbung zu diesem Thema präsentiert.
+Möglicherweise wird Ihnen auch personalisierte Werbung präsentiert, die auf den Daten des Werbetreibenden basiert. Wenn Sie beispielsweise auf der Website eines Werbetreibenden eingekauft haben, kann dieser die Daten über Ihren Besuch zum Einblenden von Werbeanzeigen nutzen.
+Welche Daten verarbeitet werden, hängt von Ihren Einstellungen sowie von der Art ab, wie Sie die Google-Dienste nutzen. Die Daten können Folgendes umfassen:
+Daten, die Sie uns bei der Nutzung unserer Dienste zur Verfügung stellen:
+Inhalte, die Sie erstellen, hochladen oder empfangen (z. B. Fotos, Videos, E‑Mails, Dokumente und Tabellen).
+Google Dashboard
+: Damit können Sie Daten verwalten, die mit bestimmten Produkten verknüpft sind.
+Personenbezogene Daten, die Sie angeben, wenn Sie ein Google-Konto erstellen (z. B.
+Ihr Name
+und Ihr Passwort,
+Ihre Telefonnummer
+, Ihr Geburtsdatum oder
+Zahlungsinformationen
+).
+Daten, die wir erheben, wenn Sie unsere Dienste nutzen:
+Informationen zu Ihren Apps, Browsern und Geräten
+wie
+eindeutige IDs
+, die mit dem Browser, der App oder dem Gerät verknüpft sind, den, die bzw. das Sie verwenden, sowie Informationen über die Interaktion Ihrer Apps, Browser und Geräte mit unseren Diensten (z. B. IP-Adresse, Absturzberichte und Systemaktivitäten).
+Informationen zu Ihren Aktivitäten in unseren Diensten
+wie Ihre Suchbegriffe, der mit Ihrem Google-Konto synchronisierte Chrome-Browserverlauf, Ihre Aufrufe und Interaktionen von bzw. mit Inhalten und Werbung sowie Ihre Aktivitäten auf Websites und in Apps von Drittanbietern, in denen unsere Dienste genutzt werden. Die in Ihrem Google-Konto gespeicherten Aktivitäten können Sie auf der Seite
+Meine Aktivitäten
+einsehen und verwalten.
+Standortinformationen
+, die etwa anhand von GPS, IP-Adresse und anderen Daten von Sensoren an Ihrem Gerät oder in dessen Nähe ermittelt werden können. Dies hängt zum Teil von Ihren Geräte- und Kontoeinstellungen ab.
+Informationen aus öffentlich zugänglichen Quellen
+wie Informationen, die online (z. B. wenn Ihr Name in Ihrer lokalen Zeitung erwähnt wird) oder aus anderen Quellen öffentlich verfügbar sind.
+Informationen von unseren vertrauenswürdigen Partnern
+, z. B. von Verzeichnisdiensten, die uns Informationen zu Unternehmen liefern, die in Google-Diensten angezeigt werden sollen, oder von Sicherheitspartnern, die uns Daten liefern, um vor Missbrauch zu schützen.
+Die rechtlichen Grundlagen für die Verarbeitung dieser Informationen hängen von Ihren Einstellungen sowie von der Art ab, wie Sie die Google-Dienste nutzen. Diese Grundlagen können Folgendes umfassen:
+Um einen
+Vertrag mit Ihnen auszuführen
+, zum Beispiel wenn Google Assistant Ihre Kontakte verwendet, um auf Ihre Anfrage hin eine Nachricht zu senden, wie „Sende eine SMS an Max Mustermann“.
+Wahrung unserer
+berechtigten Interessen
+und derer von Dritten, einschließlich:
+Personalisierung unserer Dienste, um sie nutzerfreundlicher zu gestalten.
+Beispielsweise können wir ein Google-Doodle auf der Startseite der Google Suche zeigen, das sich speziell auf einen feierlichen Anlass in Ihrem Land bezieht, Sicherheitstipps passend zu Ihrer Nutzung von Google-Produkten geben oder gegebenenfalls die Nutzung altersgerecht anpassen.
+Einblenden von Werbung, um viele unserer Dienste kostenlos anbieten zu können.
+Zum Beispiel zeigen wir möglicherweise Werbung, die auf dem Kontext einer besuchten Website basiert, wie Werbeanzeigen für Gartengeräte auf einer Seite mit Gartentipps. Bei personalisierter Werbung bitten wir Sie um Ihre Einwilligung.
+Mit Ihrer
+Einwilligung
+– beispielsweise Empfehlungen bei Google Play basierend auf Videos, die Sie sich auf YouTube angesehen haben, oder personalisierte Werbung auf Grundlage Ihrer Interessen. Zum Beispiel könnte Ihnen Werbung rund um das Thema Backen angezeigt werden, wenn Sie im Web surfen, nachdem Sie auf YouTube Videos über Backen angesehen haben.
+Zur Leistungsmessung – Wir nutzen die Daten zur Analyse und Messung, um zu verstehen, wie unsere Dienste verwendet werden.
+Beispiele für Verarbeitungsaktivitäten:
+Wir analysieren Daten über Ihre Besuche auf unseren Websites, um das Design unserer Produkte zu optimieren.
+Wir nutzen Daten zu der Werbung, mit der Sie interagieren, um Werbetreibenden ein besseres Verständnis ihrer Werbekampagnen zu ermöglichen.
+Wir verwenden Daten darüber, welche Orte Nutzer in Google Earth am häufigsten anklicken, um zu erfahren, welche Funktionen beliebt sind, und um Fehler zu identifizieren.
+Die Google Suche erhebt, wie oft eine bestimmte Anfrage gestellt wurde und wie Nutzer die Qualität ihrer Suchergebnisse wahrnehmen, um die Google Suche noch hilfreicher zu gestalten.
+Google Übersetzer analysiert Daten über die Anzahl der angefertigten Übersetzungen und die Häufigkeit, mit der eine Übersetzung als minderwertig eingestuft wird, um mögliche neue Funktionen zu ermitteln und Probleme bei der Nutzung des Dienstes zu beheben.
+Wir geben möglicherweise nicht personenidentifizierbare Informationen an unsere Partner – beispielsweise Lizenzgeber von Inhalten – weiter, wenn wir Lizenzgebühren zahlen.
+Welche Daten verarbeitet werden, hängt von Ihren Einstellungen sowie von der Art ab, wie Sie die Google-Dienste nutzen. Die Daten können Folgendes umfassen:
+Daten, die Sie uns bei der Nutzung unserer Dienste zur Verfügung stellen:
+Inhalte, die Sie erstellen, hochladen oder empfangen (z. B. Fotos, Videos, E‑Mails, Dokumente und Tabellen).
+Google Dashboard
+: Damit können Sie Daten verwalten, die mit bestimmten Produkten verknüpft sind.
+Personenbezogene Daten, die Sie angeben, wenn Sie ein Google-Konto erstellen (z. B.
+Ihr Name
+und Ihr Passwort,
+Ihre Telefonnummer
+, Ihr Geburtsdatum oder
+Zahlungsinformationen
+).
+Daten, die wir erheben, wenn Sie unsere Dienste nutzen:
+Informationen zu Ihren Apps, Browsern und Geräten
+wie
+eindeutige IDs
+, die mit dem Browser, der App oder dem Gerät verknüpft sind, den, die bzw. das Sie verwenden, sowie Informationen über die Interaktion Ihrer Apps, Browser und Geräte mit unseren Diensten (z. B. IP-Adresse, Absturzberichte und Systemaktivitäten).
+Informationen zu Ihren Aktivitäten in unseren Diensten
+wie Ihre Suchbegriffe, der mit Ihrem Google-Konto synchronisierte Chrome-Browserverlauf, Ihre Aufrufe und Interaktionen von bzw. mit Inhalten und Werbung sowie Ihre Aktivitäten auf Websites und in Apps von Drittanbietern, in denen unsere Dienste genutzt werden. Die in Ihrem Google-Konto gespeicherten Aktivitäten können Sie auf der Seite
+Meine Aktivitäten
+einsehen und verwalten.
+Standortinformationen
+, die etwa anhand von GPS, IP-Adresse und anderen Daten von Sensoren an Ihrem Gerät oder in dessen Nähe ermittelt werden können. Dies hängt zum Teil von Ihren Geräte- und Kontoeinstellungen ab.
+Informationen aus öffentlich zugänglichen Quellen
+wie Informationen, die online (z. B. wenn Ihr Name in Ihrer lokalen Zeitung erwähnt wird) oder aus anderen Quellen öffentlich verfügbar sind.
+Informationen von unseren vertrauenswürdigen Partnern
+, z. B. von Verzeichnisdiensten, die uns Informationen zu Unternehmen liefern, die in Google-Diensten angezeigt werden sollen, oder von Sicherheitspartnern, die uns Daten liefern, um vor Missbrauch zu schützen.
+Die rechtlichen Grundlagen für die Verarbeitung dieser Informationen hängen von Ihren Einstellungen sowie von der Art ab, wie Sie die Google-Dienste nutzen. Diese Grundlagen können Folgendes umfassen:
+Wahrung unserer
+berechtigten Interessen
+und derer von Dritten, einschließlich:
+Erkenntnisse darüber, wie Personen unsere Dienste nutzen, um die Leistung unserer Dienste zu gewährleisten und zu verbessern.
+Beispielsweise analysieren wir die Nutzung von Google Übersetzer, um die Übersetzungsqualität zu verbessern und Google Übersetzer in weiteren Sprachen verfügbar zu machen.
+Aufdecken, Verhindern oder anderweitiges Bekämpfen von Betrug, Missbrauch, Sicherheitsmängeln oder technischen Problemen bei unseren Diensten.
+Beispielsweise beobachten wir Nutzungsmuster in Google Earth, um Programmfehler zu identifizieren.
+Bereitstellung, Aufrechterhaltung und Optimierung von Diensten, um die Anforderungen unserer Nutzer zu erfüllen.
+Beispielsweise analysieren wir, wie oft eine Übersetzung bei Google Übersetzer als minderwertig eingestuft wird, um Probleme bei der Nutzung des Dienstes zu beheben.
+Entwicklung neuer Produkte und Funktionen, die für unsere Nutzer hilfreich sind.
+Zum Beispiel analysieren wir Daten zur Anzahl der in Google Übersetzer angefertigten Übersetzungen, um mögliche neue Funktionen zu ermitteln.
+Einhalten von Verpflichtungen gegenüber unseren Partnern wie Entwicklern und Rechteinhabern.
+Zum Beispiel erstellen wir Berichte für die Lizenzgeber von Inhalten, die mit der Zahlung von Lizenzgebühren einhergehen.
+Für die Kommunikation mit Ihnen – Wir verwenden die von uns erhobenen Daten, wie etwa Ihre E-Mail-Adresse, um direkt mit Ihnen zu interagieren.
+Beispiele für Verarbeitungsaktivitäten:
+So könnten wir Ihnen beispielsweise eine Benachrichtigung senden, wenn wir verdächtige Aktivitäten feststellen, z. B. einen Versuch, sich von einem ungewöhnlichen Standort aus in Ihrem Google-Konto anzumelden.
+Möglicherweise informieren wir Sie über anstehende Änderungen oder Verbesserungen unserer Dienste.
+Wenn Sie Google kontaktieren, zeichnen wir Ihre Anfrage auf, um Ihnen bei der Lösung eventuell auftretender Probleme behilflich sein zu können.
+Google-Dienste wie Google Fotos können Ihnen, abhängig von Ihren Einstellungen, Marketingmitteilungen über Angebote wie beispielsweise Rabattaktionen für Fotodrucke senden.
+Google-Dienste wie YouTube Premium und YouTube Music Premium können Sie über anstehende Änderungen Ihres Abonnements informieren.
+Welche Daten verarbeitet werden, hängt von Ihren Einstellungen sowie von der Art ab, wie Sie die Google-Dienste nutzen. Die Daten können Folgendes umfassen:
+Daten, die Sie uns bei der Nutzung unserer Dienste zur Verfügung stellen:
+Inhalte, die Sie erstellen, hochladen oder empfangen (z. B. Fotos, Videos, E‑Mails, Dokumente und Tabellen).
+Google Dashboard
+: Damit können Sie Daten verwalten, die mit bestimmten Produkten verknüpft sind.
+Personenbezogene Daten, die Sie angeben, wenn Sie ein Google-Konto erstellen (z. B.
+Ihr Name
+und Ihr Passwort,
+Ihre Telefonnummer
+, Ihr Geburtsdatum oder
+Zahlungsinformationen
+).
+Daten, die wir erheben, wenn Sie unsere Dienste nutzen:
+Informationen zu Ihren Apps, Browsern und Geräten
+wie
+eindeutige IDs
+, die mit dem Browser, der App oder dem Gerät verknüpft sind, den, die bzw. das Sie verwenden, sowie Informationen über die Interaktion Ihrer Apps, Browser und Geräte mit unseren Diensten (z. B. IP-Adresse, Absturzberichte und Systemaktivitäten).
+Informationen zu Ihren Aktivitäten in unseren Diensten
+wie Ihre Suchbegriffe, der mit Ihrem Google-Konto synchronisierte Chrome-Browserverlauf, Ihre Aufrufe und Interaktionen von bzw. mit Inhalten und Werbung sowie Ihre Aktivitäten auf Websites und in Apps von Drittanbietern, in denen unsere Dienste genutzt werden. Die in Ihrem Google-Konto gespeicherten Aktivitäten können Sie auf der Seite
+Meine Aktivitäten
+einsehen und verwalten.
+Standortinformationen
+, die etwa anhand von GPS, IP-Adresse und anderen Daten von Sensoren an Ihrem Gerät oder in dessen Nähe ermittelt werden können. Dies hängt zum Teil von Ihren Geräte- und Kontoeinstellungen ab.
+Informationen aus öffentlich zugänglichen Quellen
+wie Informationen, die online (z. B. wenn Ihr Name in Ihrer lokalen Zeitung erwähnt wird) oder aus anderen Quellen öffentlich verfügbar sind.
+Informationen von unseren vertrauenswürdigen Partnern
+, z. B. von Verzeichnisdiensten, die uns Informationen zu Unternehmen liefern, die in Google-Diensten angezeigt werden sollen, oder von Sicherheitspartnern, die uns Daten liefern, um vor Missbrauch zu schützen.
+Die rechtlichen Grundlagen für die Verarbeitung dieser Informationen hängen von Ihren Einstellungen sowie von der Art ab, wie Sie die Google-Dienste nutzen. Diese Grundlagen können Folgendes umfassen:
+Zur
+Ausführung eines Vertrags
+mit Ihnen, beispielsweise wenn Sie den Google-Support kontaktieren oder sich für Mitteilungen über Produktupdates anmelden.
+Wahrung unserer
+berechtigten Interessen
+und derer von Dritten, einschließlich:
+Bereitstellung, Aufrechterhaltung und Optimierung von Diensten, um die Anforderungen unserer Nutzer zu erfüllen.
+Wir informieren Sie beispielsweise über unsere Dienste, beispielsweise über anstehende Änderungen oder Verbesserungen.
+Marketing, um Nutzer über unsere Dienste zu informieren.
+Zum Beispiel können wir eine E-Mail an Nutzer von Google Fotos senden, die Informationen zu einer Rabattaktion für Fotodrucke enthält.
+Zum Schutz von Google, unserer Nutzer und der Öffentlichkeit
+Zur Verbesserung der Sicherheit und Zuverlässigkeit unserer Dienste. Dazu zählen das Erkennen, Verhindern und Bekämpfen von Betrug, Missbrauch, Sicherheitsmängeln und technischen Problemen, die Google, unseren Nutzern oder der Öffentlichkeit schaden könnten.
+Beispiele für Verarbeitungsaktivitäten:
+Wir erheben und analysieren IP-Adressen und Cookiedaten, um unsere Dienste durch automatisierte Mechanismen vor Missbrauch zu schützen. Dieser Missbrauch kann viele verschiedene Formen annehmen, zum Beispiel das Senden von Spam an Gmail-Nutzer. Außerdem könnte Werbetreibenden durch betrügerisches Klicken auf Werbung Geld gestohlen werden oder Inhalte durch das Starten eines Distributed-Denial-of-Service-Angriffs (DDoS) unterdrückt werden.
+Mit der Funktion "Letzte Kontoaktivität" in Gmail können Sie feststellen, ob und wann eine andere Person ohne Ihr Wissen auf Ihre E-Mail zugegriffen hat. In dieser Funktion finden Sie Informationen zu den letzten Aktivitäten in Gmail, wie etwa die IP-Adressen, über die auf Ihre E-Mails zugegriffen wurde, sowie wo und wann der Zugriff erfolgt ist.
+Wir analysieren Ihre Inhalte, um
+Missbrauch wie Spam, Malware und illegale Inhalte zu erkennen
+.
+Wir verarbeiten Informationen zu Ersuchen um Entfernung von Inhalten aus unseren Diensten gemäß den Richtlinien von Google zur Entfernung von Inhalten oder gemäß anwendbarem Recht, um das betreffende Ersuchen zu prüfen, Transparenz zu gewährleisten, die Fähigkeit zur Rechenschaftslegung zu verbessern und Missbrauch und Betrug bei diesen Verfahren zu verhindern.
+Zur Einhaltung geltender Gesetze, Verordnungen sowie Rechtsverfahren oder Befolgung eines vollstreckbaren behördlichen Ersuchens.
+Beispiele für Verarbeitungsaktivitäten:
+Wie andere Technologie- und Kommunikationsunternehmen auch erhält Google regelmäßig Anfragen von staatlichen Behörden und Gerichten auf der ganzen Welt, in denen wir zur Offenlegung von Nutzerdaten aufgefordert werden. Die Achtung Ihrer Privatsphäre und die Sicherheit Ihrer gespeicherten Daten sind zwei wesentliche Aspekte, an denen wir uns bei der Frage orientieren, ob wir diesen rechtlichen Anfragen nachkommen. Unsere Rechtsabteilung prüft jede einzelne Anfrage unabhängig von ihrer Art. Häufig werden Anfragen abgelehnt, die zu allgemein gehalten sind oder bei denen das korrekte Verfahren nicht eingehalten wurde.
+Aufgrund rechtlicher Verpflichtungen müssen wir bestimmte Daten speichern, etwa aufgrund einer Dokumentationspflicht im Finanzbereich. Beispielsweise speichern wir aus steuerrechtlichen oder buchhalterischen Gründen Daten zu Zahlungen, die Sie an Google geleistet haben.
+Verschiedene Gesetze und Vorschriften verpflichten uns dazu, Maßnahmen zu ergreifen, um sicherzustellen, dass unsere Nutzer alt genug sind, um unsere Dienste zu nutzen. Um Ihr Alter zu bestimmen, verarbeiten wir das von Ihnen angegebene Geburtsdatum. Wir verarbeiten auch Informationen über Ihre Aktivitäten in unseren Diensten, sowohl wenn Sie in einem Google-Konto angemeldet als auch wenn Sie abgemeldet sind, und verwenden maschinelles Lernen, um festzustellen, ob Sie wahrscheinlich über 18 Jahre alt sind. In bestimmten Fällen, wenn wir nicht bestätigen können, dass Sie alt genug sind, um unsere Dienste zu nutzen, können wir andere Informationen anfordern, um Ihr Alter zu überprüfen, beispielsweise Ihren Personalausweis, Ihre Kreditkarte, ein Foto von Ihnen oder Ihre Telefonnummer.
+Welche Daten verarbeitet werden, hängt von Ihren Einstellungen sowie von der Art ab, wie Sie die Google-Dienste nutzen. Die Daten können Folgendes umfassen:
+Daten, die Sie uns bei der Nutzung unserer Dienste zur Verfügung stellen:
+Inhalte, die Sie erstellen, hochladen oder empfangen (z. B. Fotos, Videos, E‑Mails, Dokumente und Tabellen).
+Google Dashboard
+: Damit können Sie Daten verwalten, die mit bestimmten Produkten verknüpft sind.
+Personenbezogene Daten, die Sie angeben, wenn Sie ein Google-Konto erstellen (z. B.
+Ihr Name
+und Ihr Passwort,
+Ihre Telefonnummer
+, Ihr Geburtsdatum oder
+Zahlungsinformationen
+).
+Daten, die wir erheben, wenn Sie unsere Dienste nutzen:
+Informationen zu Ihren Apps, Browsern und Geräten
+wie
+eindeutige IDs
+, die mit dem Browser, der App oder dem Gerät verknüpft sind, den, die bzw. das Sie verwenden, sowie Informationen über die Interaktion Ihrer Apps, Browser und Geräte mit unseren Diensten (z. B. IP-Adresse, Absturzberichte und Systemaktivitäten).
+Informationen zu Ihren Aktivitäten in unseren Diensten
+wie Ihre Suchbegriffe, der mit Ihrem Google-Konto synchronisierte Chrome-Browserverlauf, Ihre Aufrufe und Interaktionen von bzw. mit Inhalten und Werbung sowie Ihre Aktivitäten auf Websites und in Apps von Drittanbietern, in denen unsere Dienste genutzt werden. Die in Ihrem Google-Konto gespeicherten Aktivitäten können Sie auf der Seite
+Meine Aktivitäten
+einsehen und verwalten.
+Standortinformationen
+, die etwa anhand von GPS, IP-Adresse und anderen Daten von Sensoren an Ihrem Gerät oder in dessen Nähe ermittelt werden können. Dies hängt zum Teil von Ihren Geräte- und Kontoeinstellungen ab.
+Informationen aus öffentlich zugänglichen Quellen
+wie Informationen, die online (z. B. wenn Ihr Name in Ihrer lokalen Zeitung erwähnt wird) oder aus anderen Quellen öffentlich verfügbar sind.
+Informationen von unseren vertrauenswürdigen Partnern
+, z. B. von Verzeichnisdiensten, die uns Informationen zu Unternehmen liefern, die in Google-Diensten angezeigt werden sollen, oder von Sicherheitspartnern, die uns Daten liefern, um vor Missbrauch zu schützen.
+Die rechtlichen Grundlagen für die Verarbeitung dieser Informationen hängen von Ihren Einstellungen sowie von der Art ab, wie Sie die Google-Dienste nutzen. Diese Grundlagen können Folgendes umfassen:
+Wahrung unserer
+berechtigten Interessen
+und derer von Dritten, einschließlich:
+Durchsetzen rechtlicher Forderungen, einschließlich der Untersuchung möglicher Verletzungen anwendbarer Nutzungsbedingungen.
+Wir analysieren beispielsweise Inhalte, um Missbrauch wie Spam, Malware und illegale Inhalte zu erkennen.
+Aufdecken, Verhindern oder anderweitiges Bekämpfen von Betrug, Missbrauch, Sicherheitsmängeln oder technischen Problemen bei unseren Diensten.
+Zum Beispiel erheben und analysieren wir IP-Adressen und Cookiedaten zum Schutz vor automatisiertem Missbrauch.
+Schutz der Rechte, des Eigentums und der Sicherheit von Google, unserer Nutzer und der Öffentlichkeit vor Schaden, einschließlich der Offenlegung von Informationen gegenüber Behörden.
+Beispielsweise reagieren wir auf gerichtliche Verfahren oder vollstreckbare Aufforderungen von staatlichen Stellen und Gerichten zur Offenlegung von Daten, nachdem jede Anfrage sorgfältig geprüft wurde, um sicherzustellen, dass sie den anwendbaren Gesetzen entspricht.
+Recherchen, durch die unsere Dienste für Nutzer verbessert werden und die für die Öffentlichkeit von Vorteil sind.
+Wir verarbeiten beispielsweise Informationen zu
+Ersuchen um Entfernung von Inhalten
+aus unseren Diensten, um die Öffentlichkeit zu informieren, Recherchen zu ermöglichen und Transparenz in Bezug auf diese Ersuchen zu bieten.
+Wenn dies zum Schutz Ihrer
+lebenswichtigen Interessen
+oder denen einer anderen Person erforderlich ist. Wir verarbeiten beispielsweise Daten, um sexuellen Missbrauch von Kindern im Internet zu erkennen und zu bekämpfen.
+Wenn wir eine
+rechtliche Verpflichtung
+haben, zum Beispiel zur Aufbewahrung bestimmter Informationen zu Zwecken der Dokumentationspflicht oder zur Verarbeitung und Aufbewahrung von Informationen, um dabei zu helfen sicherzustellen, dass die Nutzer alt genug sind, um unsere Dienste zu nutzen.
+Google-Dienste verknüpfen
+Wenn Sie ein Nutzer in der EU sind, bieten wir Ihnen die Wahl, eine Verknüpfung zwischen bestimmten Google-Diensten beizubehalten. Weitere Informationen zu Ihren verknüpften Diensten und zum Verwalten Ihrer Auswahl finden Sie unter
+Informationen zum GDM und zu Ihren verknüpften Diensten
+.
+Informationen über diese Datenschutzerklärung
+Anwendungsbereich dieser Datenschutzerklärung
+Diese Datenschutzerklärung gilt für alle Dienste, die von Google LLC und seinen
+verbundenen Unternehmen
+angeboten werden, einschließlich YouTube, Android und Dienste, die auf Websites Dritter bereitgestellt werden, wie Werbedienste. Diese Datenschutzerklärung gilt nicht für Dienste, für die gesonderte Datenschutzrichtlinien gelten und die die vorliegende Datenschutzerklärung nicht beinhalten.
+Diese Datenschutzerklärung gilt nicht für
+den Umgang mit Daten durch andere Unternehmen und Organisationen, die unsere Dienste bewerben,
+Dienste, die von anderen Unternehmen oder Personen angeboten werden, einschließlich von ihnen angebotene Produkte oder Websites, die möglicherweise Google-Dienste beinhalten, für die die Erklärung gilt, sowie Produkte oder Websites, die Ihnen in Suchergebnissen angezeigt werden oder die über einen Link in unseren Diensten erreicht werden können
+Änderungen an dieser Datenschutzerklärung
+Wir ändern diese Datenschutzerklärung von Zeit zu Zeit. Wir werden Ihre Rechte im Rahmen dieser Datenschutzerklärung ohne Ihre ausdrückliche Zustimmung nicht einschränken. Wir geben immer das Veröffentlichungsdatum der letzten Änderungen an und bieten Ihnen Zugriff auf
+archivierte Versionen
+. Bei wesentlichen Änderungen weisen wir deutlicher auf diese hin. So werden Sie zum Beispiel bei bestimmten Diensten per E-Mail über eine Änderung der Datenschutzerklärung benachrichtigt.
+Weitere Informationen zum Datenschutz
+Google-Dienste
+Die folgenden Datenschutzhinweise bieten zusätzliche Informationen zu manchen Google-Diensten:
+Payments
+Fiber
+Gemini-Apps
+Google Fi
+Google Workspace for Education
+Read Along
+YouTube Kids
+Mit Family Link verwaltete Google-Konten für Kinder unter 13 Jahren (in einigen Ländern gilt ein anderes Mindestalter für Google-Konten)
+Family Link-Leitfaden zum Datenschutz für Kinder und Teenager
+Erhebung von Sprach- und Audiodaten im Rahmen von Funktionen für Kinder in Google Assistant
+Wenn Sie Mitglied einer Organisation sind, die Google Workspace oder Google Cloud Platform verwendet, erfahren Sie in den
+Datenschutzhinweisen zu Google Cloud
+, wie diese Dienste Ihre personenbezogenen Informationen erheben und verarbeiten.
+Weitere hilfreiche Ressourcen
+Die folgenden Links bieten hilfreiche Ressourcen, um weitere Informationen über unsere Praktiken und Datenschutzeinstellungen zu erhalten.
+Ihr Google-Konto
+verfügt über zahlreiche Einstellungen, mit denen Sie Ihr Konto verwalten können.
+Der
+Privatsphärecheck
+führt Sie durch die wichtigsten Datenschutzeinstellungen für Ihr Google-Konto.
+Im
+Google Sicherheitscenter
+erhalten Sie Informationen zu unseren integrierten Sicherheitsmaßnahmen und Datenschutzeinstellungen. Außerdem können Sie hier die Tools kennenlernen, mit denen Sie innerhalb Ihrer Familie Grundregeln für die Nutzung digitaler Onlinemedien aufstellen können.
+In den
+Google-Datenschutzinformationen für Jugendliche
+finden Sie Antworten auf einige der uns am häufigsten gestellten Fragen zum Datenschutz
+Der Abschnitt
+Datenschutz & Nutzungsbedingungen
+bietet weitere Hintergrundinformationen zu dieser Datenschutzerklärung und zu unseren Nutzungsbedingungen.
+Unter
+Technologien
+finden Sie weitere Informationen zu folgenden Themen:
+So verwendet Google Cookies
+Die für
+Werbung
+verwendeten Technologien
+Wie wir Daten von Websites oder Apps verwenden, auf bzw. in denen unsere Dienste genutzt werden
+Wichtige Begriffe
+Algorithmus
+Ein Prozess oder Regelwerk, dem ein Computer beim Ausführen von Problemlösungsverfahren folgt.
+Applikationsdaten-Cache
+Ein Applikationsdaten-Cache ist ein Datenspeicher auf einem Gerät. Damit kann eine Webanwendung zum Beispiel ohne Internetverbindung ausgeführt oder die Leistung der Anwendung durch schnelleres Laden der Inhalte verbessert werden.
+Browser-Webspeicher
+Mithilfe des Browser-Webspeichers können Websites Daten in einem Browser auf einem Gerät speichern. Wenn der Speicher als "lokaler Speicher" verwendet wird, können Daten sitzungsübergreifend gespeichert werden. Dadurch sind sie auch nach dem Schließen und erneuten Öffnen des Browsers weiterhin abrufbar. Eine Technologie, die dies ermöglicht, ist HTML 5.
+Cookies
+Ein Cookie ist eine kleine Datei, die eine Zeichenkette enthält, die an Ihren Computer gesendet wird, wenn Sie eine Website aufrufen. Wenn Sie die Website das nächste Mal besuchen, kann diese anhand des Cookies Ihren Browser wiedererkennen. Cookies können Nutzereinstellungen und andere Informationen speichern. Ihr Browser lässt sich so konfigurieren, dass alle Cookies abgelehnt werden oder dass angezeigt wird, wenn ein Cookie gesendet wird. Einige Funktionen oder Dienste einer Website werden ohne Cookies möglicherweise nicht richtig ausgeführt. Lernen Sie mehr darüber,
+wie Google Cookies verwendet
+und wie Google Daten, einschließlich Cookies, verwendet,
+wenn Sie die Websites oder Apps unserer Partner nutzen
+Eindeutige IDs
+Bei einer eindeutigen ID handelt es sich um eine Zeichenfolge, anhand derer ein Browser, eine App oder ein Gerät eindeutig identifiziert werden kann. Solche IDs haben eine unterschiedliche Verwendungsdauer und unterscheiden sich darin, ob sie durch den Nutzer zurückgesetzt werden können und wie der Nutzer auf sie zugreifen kann.
+Eindeutige IDs werden zu verschiedenen Zwecken verwendet, etwa aus Sicherheitsgründen und zur Betrugserkennung, zum Synchronisieren von Diensten wie dem E-Mail-Posteingang oder zum Speichern von Einstellungen und Anbieten personalisierter Werbung. In Cookies gespeicherte eindeutige IDs dienen beispielsweise dazu, Websites die Darstellung von Browserinhalten in Ihrer bevorzugten Sprache zu ermöglichen. Ihr Browser lässt sich so konfigurieren, dass alle Cookies abgelehnt werden oder dass angezeigt wird, wenn ein Cookie gesendet wird. Weitere Informationen dazu,
+wie Google Cookies verwendet
+Auf anderen Plattformen als Browsern werden eindeutige IDs zur Erkennung eines bestimmten Geräts oder einer App auf diesem Gerät verwendet. Eine eindeutige ID wie die Werbe-ID wird beispielsweise verwendet, um Ihnen auf Android-Geräten relevante Werbung anzuzeigen. Dies können Sie in Ihren Geräteeinstellungen
+verwalten
+. Eindeutige IDs können auch vom Hersteller einem Gerät fest zugewiesen werden. Diese IDs werden gelegentlich auch als "Universally Unique ID" oder kurz "UUID" bezeichnet. Ein Beispiel hierfür ist die IMEI-Nummer eines Smartphones. Anhand dieser eindeutigen ID können wir etwa unseren Dienst an Ihr Gerät anpassen oder Geräteprobleme im Zusammenhang mit unseren Diensten analysieren.
+Gerät
+Ein Gerät ist ein Computer, mit dessen Hilfe auf Google-Dienste zugegriffen werden kann. Beispielsweise werden Desktop-Computer, Tablets, intelligente Lautsprecher und Smartphones als Geräte bezeichnet.
+Google-Konto
+Um einige unserer Dienste nutzen zu können, ist es erforderlich, ein
+Google-Konto
+zu erstellen und einige personenbezogene Daten (typischerweise Ihren Namen, Ihre E-Mail-Adresse und ein Passwort) anzugeben. Mithilfe dieser Kontoinformationen ist es möglich, Sie zu authentifizieren, wenn Sie auf Dienste von Google zugreifen, und Ihr Konto vor nicht autorisierten Zugriffen durch andere Nutzer zu schützen. Sie können Ihr Konto jederzeit über die Google-Kontoeinstellungen bearbeiten oder löschen.
+IP-Adresse
+Jedem Gerät, das mit dem Internet verbunden ist, wird eine Nummer zugewiesen. Diese wird als Internet Protocol(IP)-Adresse bezeichnet. Diese Nummern werden normalerweise in Blöcken zugewiesen, die bestimmten geografischen Gebieten zugeordnet sind. Anhand der IP-Adresse kann oftmals der Ort identifiziert werden, von dem aus sich das Gerät mit dem Internet verbindet.
+Weitere Informationen dazu, wie wir Standortinformationen verwenden
+Nicht-personenbezogene Daten
+Das sind Nutzer-Informationen, die erfasst werden, sodass sie nicht länger auf individuell identifizierbare Nutzer verweisen können.
+Personenbezogene Daten
+Hierbei handelt es sich um Daten, die Sie uns zur Verfügung stellen und anhand derer Sie persönlich identifiziert werden können (z. B. Ihr Name, Ihre E-Mail-Adresse oder Zahlungsinformationen), oder sonstige Daten, die von Google mit Informationen dieser Art in Verbindung gebracht werden können, beispielsweise Informationen, die wir mit Ihrem Google-Konto verknüpfen.
+Pixel-Tag
+Ein Pixel-Tag wird auf einer Website oder innerhalb einer E-Mail-Nachricht platziert, um bestimmte Aktivitäten wie das Aufrufen von Websites oder das Öffnen von E-Mails zu erfassen. Pixel-Tags werden häufig in Kombination mit Cookies eingesetzt.
+Sensible personenbezogene Daten
+Hierbei handelt es sich um besondere Kategorien personenbezogener Daten wie etwa vertrauliche medizinische Informationen, die Zugehörigkeit zu einer bestimmten ethnischen Gruppe, politische oder religiöse Gesinnungen oder sexuelle Neigungen.
+Serverprotokolle
+Wie bei den meisten Websites zeichnen unsere Server automatisch Ihre Aufrufe unserer Websites auf. Diese „Serverprotokolle“ enthalten normalerweise Ihre Webanfrage, die IP-Adresse, den Browsertyp, die Browsersprache, das Datum und die Uhrzeit Ihrer Anfrage sowie ein oder mehrere Cookies, die Ihren Browser eindeutig identifizieren können.
+Ein typischer Protokolleintrag für die Suche nach dem Begriff "Autos" sieht folgendermaßen aus:
+123.45.67.89 - 25/Mar/2003 10:15:32 -
+http://www.google.com/search?q=cars -
+Chrome 112; OS X 10.15.7 -
+740674ce2123e969
+123.45.67.89
+ist dabei die IP-Adresse, die der Internetanbieter dem Nutzer zuweist. Je nach Dienst kann dem Nutzer jedes Mal, wenn er eine Verbindung mit dem Internet herstellt, eine andere Adresse zugewiesen werden.
+25/Mar/2003 10:15:32
+sind das Datum und die Uhrzeit der Suchanfrage.
+http://www.google.com/search?q=cars
+ist die angeforderte URL einschließlich Anfrage.
+Chrome 112; OS X 10.15.7
+sind der verwendete Browser und das verwendete Betriebssystem.
+740674ce2123a969
+ist die eindeutige Cookie-ID, die diesem Computer beim ersten Besuch von Google zugewiesen wird. Hinweis: Cookies können von Nutzern gelöscht werden. Wenn der Nutzer seit dem letzten Aufruf von Google das Cookie vom Computer gelöscht hat, wird ihm beim nächsten Aufruf von Google auf dem entsprechenden Gerät erneut eine solche eindeutige Cookie-ID zugewiesen.
+Verbundene Unternehmen
+Ein verbundenes Unternehmen ist eine juristische Person, die zur Google-Unternehmensgruppe gehört, einschließlich der folgenden Unternehmen, die Dienstleistungen in der EU anbieten: Google Ireland Limited, Google Commerce Ltd, Google Payment Corp und Google Dialer Inc. Weitere Informationen zu den
+Unternehmen, die Geschäftsdienstleistungen in der EU anbieten
+Verweis-URL
+Eine Verweis-URL (Uniform Resource Locator) ist die Information, die ein Webbrowser in der Regel an eine Ziel-Website übermittelt, wenn Sie auf einen Link zu der betreffenden Website klicken. Die Verweis-URL enthält die URL der letzten Website, die im Browser aufgerufen wurde.
+Zusätzliche Informationen
+Ähnliche Informationen im Zusammenhang mit Ihrer körperlichen oder psychischen Gesundheit
+Wenn Sie von uns angebotene Fitnessprodukte und ‐Apps wie Fitbit, die Pixel Watch, Nest oder Google Fit verwenden, erheben wir Daten von Ihnen, z. B. Ihre Größe und Ihr Gewicht. Mithilfe dieser Apps und Geräte sammeln wir außerdem Daten wie Schlafrhythmus, Herzfrequenz, Hauttemperatur, verbrannte Kalorien und zurückgelegte Schritte.
+Aktivitäten auf Websites und in Apps von Drittanbietern, die unsere Dienste nutzen
+Websites und Apps, bei denen Google-Dienste wie Werbung und Analysen integriert sind, geben Daten an uns weiter.
+Diese Daten werden unabhängig vom verwendeten Browser oder Browsermodus erhoben. Beispielsweise kann der Inkognitomodus in Chrome zwar dazu beitragen, dass andere Personen, die Ihr Gerät verwenden, nicht sehen können, welche Inhalte Sie aufgerufen haben. Websites und Apps von Drittanbietern, bei denen unsere Dienste integriert sind, können dennoch Daten an Google weitergeben, wenn Sie sie öffnen.
+Hier finden Sie weitere Informationen
+zu einigen der Optionen, mit denen Sie festlegen können, welche Daten weitergegeben werden, wenn Sie Websites und Apps öffnen oder nutzen, die Google-Dienste verwenden.
+Aktivitäten in Google-Diensten
+Wenn Sie in Ihrem Google-Konto angemeldet sind und Web- & App-Aktivitäten aktiviert sind, können Daten zu Ihren Aktivitäten auf Websites, in Apps und in Diensten von Google in den Web- & App-Aktivitäten Ihres Kontos gespeichert werden. Einige Aktivitäten können Informationen über den ungefähren Ort enthalten, an dem Sie sich bei der Nutzung des Google-Dienstes aufgehalten haben. Wenn Sie unter Verwendung eines ungefähren Orts nach etwas suchen, wird dafür ein Gebiet von mindestens drei Quadratkilometern verwendet. Alternativ wird der Ort erweitert, bis der Bereich den Standort von mindestens 1.000 Personen umfasst. So wird Ihre Privatsphäre besser geschützt.
+In einigen Fällen werden Orte, an denen Sie in der Vergangenheit gesucht haben, möglicherweise dazu verwendet, einen relevanten Standort für Ihre Suche zu schätzen. Wenn Sie beispielsweise in Berlin nach Cafés suchen, zeigt Google bei zukünftigen Suchanfragen möglicherweise Ergebnisse für Berlin an.
+Unter
+Meine Aktivitäten
+können Sie Ihre Web- & App-Aktivitäten ansehen und verwalten.
+Android-Gerät mit Google-Apps
+Android-Geräte mit Google-Apps sind Geräte, die von Google oder einem unserer Partner verkauft werden und umfassen Smartphones, Kameras, Fahrzeuge, Wearables und Fernseher. Diese Geräte nutzen Google Play-Dienste und andere vorinstallierte Apps. Dazu zählen Dienste wie Gmail, Maps, die Kamera- und Telefon-App Ihres Smartphones, die Sprachausgabe, die Tastatureingabe und Sicherheitsfunktionen. Weitere Informationen über Google Play-Dienste
+finden Sie hier
+.
+Bereitstellung unserer Dienste
+Im Folgenden finden Sie Beispiele dafür, wie wir Ihre Daten zur Bereitstellung unserer Dienste nutzen:
+Wir verwenden die IP-Adresse Ihres Geräts, damit Sie die von Ihnen angeforderten Daten laden können, wie etwa ein YouTube-Video.
+Wir verwenden eindeutige IDs, die in Cookies auf Ihrem Gerät gespeichert sind, um Sie als die Person zu authentifizieren, die auf Ihr Google-Konto zugreifen darf.
+Fotos und Videos, die Sie in Google Fotos hochladen, werden verwendet, um Ihnen zu helfen, Alben, Collagen und andere Kreationen zu erstellen, die Sie mit anderen teilen können.
+Weitere Informationen
+Eine Flugbestätigung, die Sie per E-Mail erhalten, kann verwendet werden, um eine Check-in-Schaltfläche in Gmail zu erstellen.
+Wenn Sie Dienstleistungen oder Artikel von uns kaufen, teilen Sie uns möglicherweise Informationen wie Ihre Lieferadresse oder Lieferanweisungen mit. Wir verwenden diese Informationen beispielsweise für die Verarbeitung, die Durchführung und die Lieferung Ihrer Bestellung sowie zur Bereitstellung des Supports für den Artikel oder die Dienstleistung, die Sie kaufen.
+Bestimmte Google-Dienste
+Beispielsweise können Sie
+Ihren Blog
+aus Blogger oder
+eine Google-Website, die Ihnen gehört
+, aus Google Sites löschen. Zusätzlich können Sie
+Rezensionen
+löschen, die Sie zu Apps, Spielen und anderen Inhalten im Play Store verfasst haben.
+Bestimmte Partner
+Beispielsweise gestatten wir Creatorn und Werbetreibenden, mit Messunternehmen zusammenzuarbeiten, um mithilfe von Cookies oder ähnlichen Technologien mehr über die Zielgruppe ihrer YouTube-Videos oder Werbeanzeigen zu erfahren. Ein weiteres Beispiel sind Händler auf unseren Shopping-Seiten, die mithilfe von Cookies ermitteln, wie viele Nutzer ihre Produkteinträge sehen.
+Hier erhalten Sie weitere Informationen
+zu diesen Partnern und zu deren Verwendung Ihrer Daten.
+Cookies – Damit unsere Dienste ordnungsgemäß funktionieren
+Wir verwenden beispielsweise ein Cookie namens "lbcs", mit dessen Hilfe sich eine große Zahl von Google Docs-Dokumenten in einem einzigen Browser öffnen lässt. Wird dieses Cookie blockiert, kann Google Docs nicht korrekt ausgeführt werden.
+Weitere Informationen
+Daten über Ihre Aktivitäten auf dieser Website mit Aktivitäten auf anderen Websites verknüpfen
+Google Analytics nutzt eigene Cookies, also Cookies, die vom Google Analytics-Kunden gesetzt wurden. Bei der Verwendung unserer Systeme können Google Analytics-Kunden und Google über Google Analytics generierte Daten mit Drittanbieter-Cookies verknüpfen, die durch Besuche auf anderen Websites generiert wurden. Beispielsweise könnte ein Werbetreibender seine Google Analytics-Daten dazu verwenden, relevantere Werbung zu erstellen oder seinen Traffic genauer zu analysieren.
+Weitere Informationen
+Der für die Verarbeitung Ihrer Informationen zuständige Datenverantwortliche
+Das ist das mit Google verbundene Unternehmen, welches für die Verarbeitung Ihrer Daten und die Einhaltung der anwendbaren Datenschutzgesetze verantwortlich ist.
+der Öffentlichkeit
+Wir verarbeiten beispielsweise Informationen zu
+Ersuchen um Entfernung von Inhalten
+aus unseren Diensten gemäß den Richtlinien von Google zur Entfernung von Inhalten oder gemäß anwendbarem Recht, um das betreffende Ersuchen zu prüfen sowie Transparenz zu gewährleisten, die Rechenschaftspflicht zu verbessern und Missbrauch und Betrug bei diesen Verfahren zu verhindern.
+Dienste nutzen, um Anrufe zu tätigen und zu erhalten oder um Nachrichten zu senden und zu empfangen
+Beispiele für diese Dienste sind:
+Google Voice zum Tätigen und Empfangen von Anrufen, Senden von SMS und Verwalten der Mailbox
+Google Meet zum Tätigen und Empfangen von Videoanrufen
+Gmail zum Senden und Empfangen von E-Mails
+Google Chat zum Senden und Empfangen von Nachrichten
+Google Duo zum Tätigen und Empfangen von Videoanrufen und Senden und Empfangen von Nachrichten
+Google Fi für einen Telefontarif
+Dritte
+Beispielsweise verarbeiten wir Ihre Daten, um Rechteinhabern Nutzungsstatistiken bereitzustellen, sie also darüber zu informieren, wie ihre Inhalte in unseren Diensten genutzt wurden. Wir könnten Ihre Daten auch dann verarbeiten, wenn Personen nach Ihrem Namen suchen und wir Suchergebnisse von Websites anzeigen, die öffentlich verfügbare Daten über Sie enthalten.
+für die Öffentlichkeit von Vorteil sind
+Wir verarbeiten beispielsweise Informationen zu
+Ersuchen um Entfernung von Inhalten
+aus unseren Diensten, um die Öffentlichkeit zu informieren, Recherchen zu ermöglichen und Transparenz in Bezug auf diese Ersuchen zu bieten.
+Geeignete Sicherheitsmaßnahmen
+Beispielsweise können wir Daten anonymisieren oder verschlüsseln, damit sie mit keinen anderen Daten über Sie verknüpft werden können.
+Weitere Informationen
+Geräte
+Wir können beispielsweise Informationen von Ihren Geräten nutzen, um Ihnen bei der Entscheidung behilflich zu sein, welches Gerät Sie für die Installation einer App oder zum Ansehen eines Films verwenden sollten, die Sie bei Google Play gekauft haben. Diese Informationen verwenden wir außerdem zum Schutz Ihres Kontos.
+Gerichtliches Verfahren oder vollstreckbares behördliches Ersuchen
+Wie andere Technologie- und Kommunikationsunternehmen auch erhält Google regelmäßig Anfragen von staatlichen Behörden und Gerichten auf der ganzen Welt, in denen wir zur Offenlegung von Nutzerdaten aufgefordert werden. Die Achtung Ihrer Privatsphäre und die Sicherheit Ihrer gespeicherten Daten sind zwei wesentliche Aspekte, an denen wir uns bei der Frage orientieren, ob wir diesen rechtlichen Anfragen nachkommen. Unsere Rechtsabteilung prüft jede einzelne Anfrage unabhängig von ihrer Art. Häufig werden Anfragen abgelehnt, die zu allgemein gehalten sind oder bei denen das korrekte Verfahren nicht eingehalten wurde. Weitere Informationen finden Sie in unserem
+Transparenzbericht
+.
+Gewährleisten und verbessern
+Beispielsweise analysieren wir, wie Personen mit Werbung interagieren, um die Leistung unserer Werbeanzeigen zu verbessern.
+Gewährleisten, dass unsere Dienste ordnungsgemäß funktionieren
+Beispielsweise überprüfen wir fortlaufend, ob unsere Systeme ordnungsgemäß funktionieren, sodass Probleme erkannt werden können. Wenn wir feststellen, dass eine Funktion fehlerhaft ist, ermöglichen uns die vor dem Eintreten des Problems erfassten Aktivitätsdaten, das Problem schneller zu beseitigen.
+Ihre Aktivitäten auf anderen Websites und in Apps
+Diese Aktivitäten könnten durch die Nutzung von Google-Diensten entstehen. Beispiele dafür sind die Synchronisierung Ihres Kontos mit Chrome oder Besuche von Websites und Apps von Google-Partnern. Viele Websites und Apps arbeiten bei der Verbesserung ihrer Inhalte und Dienste mit Google zusammen. Beispielsweise können Websites unsere Werbedienste wie AdSense oder Analysetools wie Google Analytics verwenden oder andere Inhalte wie Videos von YouTube einbetten. Von diesen Produkten können Daten über Ihre Aktivitäten an Google weitergegeben werden. Je nach
+Ihren Kontoeinstellungen
+und den verwendeten Produkten können diese Daten mit Ihren personenbezogenen Daten verknüpft werden, zum Beispiel, wenn ein Partner Google Analytics in Verbindung mit unseren Werbediensten verwendet.
+Weitere Informationen über die Datennutzung durch Google
+, wenn Sie die Websites oder Apps unserer Partner verwenden
+In deren Namen Werbung und Recherchedienste bereitstellen
+Beispielsweise können Händler Daten von ihren Kundenkartenprogrammen hochladen, um Informationen zu diesen Programmen in die Such- oder Shopping-Ergebnisse aufzunehmen oder sich ein besseres Bild von der Leistung ihrer Werbekampagnen zu machen. Wir stellen Werbetreibenden nur zusammengefasste Berichte zur Verfügung, die keine Informationen über einzelne Personen preisgeben.
+in unseren Diensten erhobene Daten verwenden
+Je nach Ihren verfügbaren Einstellungen finden Sie im Folgenden Beispiele für die Verwendung der von uns in unseren Diensten erhobenen Daten:
+Wenn Sie in Ihrem Google-Konto angemeldet sind und eine Suche auf Google durchführen, erscheinen neben Suchergebnissen aus dem öffentlichen Web auch relevante Informationen aus den Inhalten, die in anderen Google-Produkten wie Gmail oder Google Kalender vorhanden sind. Dazu zählen unter anderem der Status Ihrer gebuchten Flüge, Restaurant- und Hotelreservierungen oder Ihre Fotos.
+Weitere Informationen
+Wenn Sie mit jemandem über Gmail kommuniziert haben und diese Person zu einem Google Docs-Dokument oder einem Termin in Google Kalender hinzufügen möchten, wird die E-Mail-Adresse automatisch vervollständigt, sobald Sie mit der Eingabe des Namens beginnen. Diese Funktion vereinfacht das Teilen von Inhalten mit Freunden und Bekannten.
+Weitere Informationen
+Die Google App kann Daten nutzen, die Sie in anderen Google-Produkten gespeichert haben, um Ihnen, entsprechend Ihren Einstellungen, personalisierte Inhalte einzublenden. Wenn Sie beispielsweise in Ihren Web- & App-Aktivitäten Suchanfragen gespeichert haben, kann Ihnen die Google App Nachrichtenartikel und andere zu Ihren Interessen passende Informationen auf der Basis Ihrer Aktivitäten zeigen, wie z. B. Sportergebnisse.
+Wenn Sie Ihr Google-Konto mit Google Home verknüpfen, können Sie über Google Assistant Ihre Daten verwalten und Dinge erledigen. So können Sie beispielsweise Ihrem Google Kalender Termine hinzufügen oder die Terminübersicht für einen bestimmten Tag aufrufen, Statusaktualisierungen zu einem gebuchten Flug abrufen oder Informationen wie Wegbeschreibungen an Ihr Smartphone senden.
+Weitere Informationen
+Wenn Sie ein Nutzer in der EU sind, wirken sich Ihre Entscheidungen zum Verknüpfen von Diensten darauf aus, wie bestimmte Google-Dienste die Daten dienstübergreifend verwenden können.
+Informationen über Objekte in der Nähe Ihres Geräts
+Wenn Sie die Standortdienste von Google unter Android nutzen, können wir die Leistung von Apps verbessern, die, wie Google Maps, Standortdaten benötigen. Wenn Sie den Standortdienst von Google nutzen, sendet Ihr Gerät über Sensoren wie den Beschleunigungsmesser, über nahe gelegene Mobilfunkmasten und über WLAN-Zugangspunkte, wie die MAC-Adresse und die Signalstärke, Informationen an Google. Diese Daten ermöglichen eine bessere Bestimmung Ihres Standorts. Den Google-Standortdienst können Sie in den Einstellungen Ihres Geräts aktivieren.
+Weitere Informationen
+Inhalte und Werbeanzeigen, die Sie sich ansehen und mit denen Sie interagieren
+Beispielsweise erheben wir Daten zu Aufrufen und Interaktionen mit Werbeanzeigen, damit wir Werbetreibenden zusammengefasste Berichte bereitstellen können, aus denen hervorgeht, ob wir ihre Werbeanzeige auf einer Seite ausgeliefert haben und ob die Werbeanzeige von einem Nutzer gesehen wurde. Darüber hinaus können auch andere Interaktionen gemessen werden, etwa wie Sie Ihre Maus über eine Werbeanzeige bewegen oder ob Sie mit der Seite interagieren, auf der die Werbeanzeige eingeblendet wird.
+löschen
+Sie können beispielsweise, wie oben beschrieben, basierend auf dem anwendbaren Recht (einschließlich Datenschutzrecht) und unseren Richtlinien das
+Entfernen von Inhalten aus bestimmten Google-Diensten beantragen
+, einschließlich Inhalten, in denen sich möglicherweise Ihre Daten befinden.
+Missbrauch erkennen
+Wenn wir auf unseren Systemen Spam, Malware, illegale Inhalte (einschließlich
+Darstellungen des sexuellen Missbrauchs und der Ausbeutung von Kindern
+) und andere Formen von Missbrauch feststellen, die gegen unsere Richtlinien verstoßen, können wir Ihr Konto deaktivieren oder andere angemessene Maßnahmen ergreifen. Unter bestimmten Umständen melden wir den Verstoß auch den zuständigen Behörden.
+Öffentlich zugängliche Quellen
+Beispielsweise erheben wir Daten, die online oder in anderen öffentlichen Quellen verfügbar sind, um die KI-Modelle von Google zu trainieren sowie Produkte und Funktionen wie Google Übersetzer, Gemini-Apps und Cloud AI weiterzuentwickeln. Wenn Ihre Unternehmensinformationen auf einer Website erscheinen, können wir sie indexieren und in Google-Diensten anzeigen.
+Orte, denen Sie ein Label hinzufügen, z. B. Ihr Zuhause oder Ihr Arbeitsplatz
+Sie können wichtige Orte in Ihrem Google-Konto speichern, z. B. Ihr Zuhause oder Ihren Arbeitsplatz. Wenn Sie Ihre Privat- oder Arbeitsadresse festlegen, werden damit bestimmte Aktionen einfacher, etwa das Abrufen von Wegbeschreibungen oder Ergebnissen in der Nähe Ihrer Privat- oder Arbeitsadresse. Außerdem sehen Sie relevantere Werbung.
+Sie können Ihre Privat- und Arbeitsadresse jederzeit in Ihrem
+Google-Konto
+bearbeiten oder löschen.
+Partnerschaft mit Google
+Es gibt mehr als zwei Millionen Partnerwebsites und -apps im Google-Werbenetzwerk.
+Weitere Informationen
+Personalisierte Suchergebnisse
+Wenn Sie beispielsweise in Ihrem Google-Konto angemeldet sind und die Einstellungen für Web- & App-Aktivitäten aktiviert sind, erhalten Sie relevantere Suchergebnisse auf der Basis Ihrer früheren Suchaktivitäten und Aktivitäten in anderen Google-Diensten.
+Weitere Informationen dazu erhalten Sie hier.
+Auch wenn Sie abgemeldet sind, können Sie personalisierte Suchergebnisse erhalten. Wenn Sie dieses Maß an Personalisierung bei der Suche nicht wünschen, können Sie
+privat suchen und surfen
+oder die
+personalisierte Suche in abgemeldetem Zustand
+deaktivieren.
+Personalisierte Werbung
+Möglicherweise wird Ihnen auch personalisierte Werbung präsentiert, die auf den Daten des Werbetreibenden basiert. Wenn Sie beispielsweise auf der Website eines Werbetreibenden eingekauft haben, kann dieser die Daten über Ihren Besuch zum Einblenden von Werbeanzeigen nutzen.
+Weitere Informationen
+Personalisierung unserer Dienste
+Beispielsweise können wir ein Google-Doodle auf der Startseite der Suche zeigen, das sich speziell auf einen feierlichen Anlass in Ihrem Land bezieht.
+Personen, mit denen Sie online am häufigsten zu tun haben
+Wenn Sie zum Beispiel beim Schreiben einer E-Mail eine Adresse in das Feld "Empfänger", "Cc" oder "Bcc" eingeben, schlägt Gmail Ihnen Adressen von Personen vor,
+die Sie am häufigsten kontaktieren
+.
+Sensible Kategorien
+Wenn wir Ihnen personalisierte Werbung präsentieren, so basiert diese auf Themen, von denen wir denken, dass Sie aufgrund Ihrer Aktivitäten daran interessiert sein könnten. Beispielsweise könnten wir Werbung für Themen wie "Kochen und Rezepte" oder "Flugreisen" einblenden. Wir verwenden jedoch nicht solche Themen und schalten nicht solche personalisierten Werbeanzeigen, die auf sensiblen Kategorien wie ethnischer Zugehörigkeit, Religion, sexueller Orientierung oder Gesundheit basieren.
+Dasselbe verlangen wie auch von unseren Werbetreibenden
+, die unsere Dienste nutzen.
+Sensordaten von Ihrem Gerät
+Ihr Gerät ist möglicherweise mit Sensoren ausgestattet, die zur genaueren Bestimmung Ihres Standorts und Ihrer Bewegungen verwendet werden können. Beispielsweise kann mithilfe eines Beschleunigungsmessers Ihre Bewegungsgeschwindigkeit erfasst werden und mit einem Gyroskop die Richtung festgestellt werden, in die Sie sich bewegen.
+Weitere Informationen dazu, wie wir Standortinformationen verwenden
+Server auf der ganzen Welt
+Wir betreiben Rechenzentren
+auf der ganzen Welt
+, um Nutzern unsere Produkte ununterbrochen zur Verfügung stellen zu können.
+Sicherheit und Zuverlässigkeit
+Im Folgenden finden Sie Beispiele für die Nutzung Ihrer Daten zur Gewährleistung von Sicherheit und Zuverlässigkeit unserer Dienste:
+Durch das Erheben und Analysieren von IP-Adressen und Cookiedaten können wir unsere Dienste durch automatisierte Mechanismen vor Missbrauch schützen. Dieser Missbrauch nimmt viele verschiedene Formen an, zum Beispiel das Senden von Spam an Gmail-Nutzer. Außerdem könnte Werbetreibenden durch betrügerisches Klicken auf Werbeanzeigen Geld gestohlen werden oder Inhalte durch das Starten eines Distributed-Denial-of-Service-Angriffs (DDoS) unterdrückt werden.
+Mit der Funktion "Letzte Kontoaktivität" in Gmail können Sie feststellen, ob und wann eine andere Person ohne Ihr Wissen auf Ihre E-Mail zugegriffen hat. In dieser Funktion finden Sie Informationen zu den letzten Aktivitäten in Gmail, wie etwa die IP-Adressen, über die auf Ihre E-Mails zugegriffen wurde, sowie wo und wann der Zugriff erfolgt ist.
+Weitere Informationen
+Sprach- und Audiodaten
+Sie können zum Beispiel entscheiden, ob Sie möchten, dass Google eine Audioaufnahme in Ihrem Google-Konto speichert, wenn Sie mit der Google Suche, Google Assistant und Google Maps interagieren. Wenn Ihr Gerät einen Befehl zur Aktivierung der Sprachsteuerung erkennt, beispielsweise „Hey Google“, zeichnet Google sowohl Ihre Stimme und Audio als auch einige Sekunden vor der Aktivierung auf.
+Weitere Informationen
+Synchronisation mit Ihrem Google-Konto
+Ihr Chrome-Browserverlauf wird nur dann in Ihrem Konto gespeichert, wenn Sie in Chrome die Synchronisierung mit Ihrem Google-Konto aktiviert haben.
+Weitere Informationen
+Telefonnummer
+Wenn Sie Ihrem Konto Ihre Telefonnummer hinzugefügt haben, kann diese abhängig von Ihren Einstellungen in Google-Diensten für unterschiedliche Zwecke verwendet werden. Beispielsweise kann Ihre Telefonnummer dazu genutzt werden, Ihnen zu helfen, wieder auf Ihr Konto zugreifen zu können, wenn Sie Ihr Passwort vergessen haben. Außerdem kann sie anderen Personen helfen, Sie zu finden und mit Ihnen Kontakt aufzunehmen. Schließlich kann sie verwendet werden, um für Sie relevantere Werbung einzublenden.
+Weitere Informationen
+Trends aufzuzeigen
+Wenn viele Nutzer nach etwas Bestimmtem suchen, kann dies Aufschluss über aktuelle Trends geben. Google Trends analysiert Suchanfragen in der Google Websuche, um die Anzahl der Suchanfragen in einem bestimmten Zeitraum zu ermitteln, und veröffentlicht eine Zusammenfassung dieser Ergebnisse.
+Weitere Informationen
+Unsere Dienste verbessern
+Beispielsweise können wir anhand von Cookies analysieren, wie Nutzer mit unseren Diensten interagieren. Diese Analyse kann uns helfen, unsere Produkte zu optimieren. So könnten wir zum Beispiel feststellen, dass Nutzern die Durchführung einer bestimmten Aufgabe zu lange dauert oder dass manche Schritte überhaupt nicht durchgeführt werden können. In diesem Fall können wir diese Funktion überarbeiten und das Produkt für alle verbessern.
+unserer Nutzer
+Beispielsweise gibt Google Daten zu Ersuchen um Entfernung von Inhalten aus unseren Diensten an Lumen weiter, um Missbrauch zu verhindern und die Transparenz und Rechenschaft in Bezug auf unsere Moderation von Online-Inhalten zu verbessern. Lumen erfasst und analysiert diese Ersuchen, um Forschung zu ermöglichen, mit deren Hilfe Internetnutzer ihre Rechte besser verstehen.
+Weitere Informationen
+Vor Missbrauch schützen
+Beispielsweise können uns Informationen über Sicherheitsbedrohungen helfen, Sie zu informieren, wenn wir denken, dass Unbefugte Zugriff auf Ihr Konto erlangt haben (an diesem Punkt können wir Ihnen helfen, Maßnahmen zum Schutz Ihres Kontos zu ergreifen).
+Werbung, die Sie besonders nützlich finden
+Wenn Sie sich beispielsweise auf YouTube Videos zum Thema Backen ansehen, werden Ihnen beim Surfen im Web unter Umständen mehr Werbeanzeigen zu diesem Thema eingeblendet. Anhand Ihrer IP-Adresse können wir auch Ihren ungefähren Standort ermitteln, damit wir Werbung für Pizza-Lieferservices in der Nähe einblenden können, wenn Sie den Suchbegriff "Pizza" eingeben. Hier finden Sie weitere Informationen
+über Werbung bei Google
+und
+warum Ihnen bestimmte Werbeanzeigen präsentiert werden
+.
+Zahlungsinformationen
+Wenn Sie Ihrem Google-Konto eine Kreditkarte oder eine andere Zahlungsmethode hinzufügen, können Sie damit in allen unseren Diensten Artikel einkaufen, wie z. B. Apps im Play Store. Unter Umständen bitten wir Sie um weitere Informationen, wie eine Unternehmenssteuernummer, um Ihre Zahlung verarbeiten zu können. In manchen Fällen müssen wir Ihre Identität überprüfen und könnten Sie dafür nach Informationen fragen.
+Wir können Zahlungsinformationen auch verwenden, um zu überprüfen, ob Sie die Altersbeschränkungen einhalten. Dies kann beispielsweise der Fall sein, wenn Sie ein falsches Geburtsdatum angegeben haben, das darauf schließen lässt, dass Sie für ein Google-Konto nicht alt genug sind.
+Weitere Informationen
+Google
+Über Google
+Datenschutz
+Nutzungsbedingungen
+Transparenz-Center
+Eine Drop‑down-Liste, um die Sprache der Website zu ändern. Jede Option ist der Name einer Sprache. Es gibt insgesamt 65 Optionen.
+Afrikaans
+Bahasa Indonesia
+Bahasa Melayu
+Català
+Čeština
+Dansk
+Deutsch
+Eesti
+English
+English (India)
+English (United Kingdom)
+Español
+Español (Latinoamérica)
+Euskara
+Filipino
+Français
+Français (Canada)
+Gaeilge
+Galego
+Hrvatski
+Isizulu
+Íslenska
+Italiano
+Kiswahili
+Latviešu
+Lietuvių
+Magyar
+Malti
+Nederlands
+Norsk
+Polski
+Português (Brasil)
+Português (Portugal)
+Română
+Slovenčina
+Slovenščina
+Srpski
+Suomi
+Svenska
+Tiếng Việt
+Türkçe
+অসমীয়া
+Ελληνικά
+Български
+ଓଡିଆ
+Русский
+Српски
+Українська
+‫עברית‬
+‫اردو‬
+‫العربية‬
+‫فارسی‬
+አማርኛ
+मराठी
+हिन्दी
+বাংলা
+ગુજરાતી
+தமிழ்
+తెలుగు
+ಕನ್ನಡ
+മലയാളം
+ไทย
+한국어
+中文 (香港)
+中文（简体中文）
+中文（繁體中文）
+日本語
+Hauptmenü
+Google-Apps
+Sub-policy 3
+https://docs.rollbar.com/docs/privacy-policy:
+Rollbar Docs
+Overview
+Languages and Frameworks
+Directory
+Apple
+Apple Unified Logging
+Legacy iOS SDK (Deprecated)
+Go
+Javascript (Browser & Node.js)
+Browser JS
+Node.js
+React
+React (Typescript)
+Angular 2
+Vue.js
+Next.js
+Using Rollbar.js inside an embedded component
+Upgrading from node_rollbar
+JavaScript Telemetry
+Configuration and Method Reference
+Importing or Requiring Rollbar
+Java
+Android
+Spring
+Web (Servlet)
+Reactive Streams
+.NET and .NET Core
+SDK Overview
+SDK Modules
+SDK Core Abstractions
+SDK Usage How-Tos
+.NET v4
+SDK Overview
+Rollbar .NET SDK Versioning & Releases
+Upgrade paths across incompatible version changes
+Basic Usage
+Logger Configuration
+More Advanced Logger Usages
+.NET Telemetry
+Monitoring the SDK Internal Events
+Deployment Client API
+Integrating as a TraceListener
+Integrating with ASP.NET Core 2 and Newer
+Integrating with ASP.NET MVC
+Integrating with ASP.NET Web Forms based Applications
+Integrating with Xamarin
+Integrating with Windows Forms based Applications
+Integrating with WPF based Applications
+Integrating with WorkerServices
+Integrating as a TraceListener
+Integrating with WPF based Applications
+Integrating with Windows Forms based Applications
+Integrating with Xamarin Forms Application
+Integrating with WorkerService
+Integrating with Blazor Webassembly application
+Integrating with Blazor Server application
+Integrating with ASP.NET Core Application
+Integrating with ASP.NET MVC
+Integrating with ASP.NET Web Forms based Applications
+PHP
+Basic PHP Installation & Setup
+Heroku
+Laravel
+WordPress
+Configuration Reference
+Integration with rollbar.js
+Upgrading to v4
+Python
+Celery
+Django
+FastAPI
+Flask
+Pyramid
+Configuration Reference
+React Native
+Legacy v0.9.3 SDK
+Migrating to v1.0.0
+Ruby
+Plain Ruby
+Rails
+Integration with rollbar.js
+Using with Zeus
+Using with rollbar-agent
+ActiveJob Integration
+DelayedJob Integration
+Sidekiq Integration
+Configuration Reference
+Plugins
+Community-Supported SDKs
+Java Community-Supported Frameworks
+Scala
+Logback
+Log4j2
+Gradle
+Javascript Community-Supported Frameworks
+AWS Lambda
+Browserify
+UMD
+Electron
+Sails.js
+Segment
+Browser Extensions
+JQuery
+Angular 1
+PHP Community-Supported Frameworks
+Monolog
+Zend Framework 3
+Symfony
+Magento 2
+CodeIgniter
+Python Community-Supported Frameworks
+Twisted
+Starlette
+Bottle
+AWS Lambda
+Ruby Community-Supported Frameworks
+AWS Lambda
+Shoryuken Integration
+sucker_punch Integration
+Resque Integration
+Goalie
+Rack
+Sinatra
+Grape
+Salesforce Apex
+Sync and Async Logging Methods
+Reporting Uncaught Errors
+Test Mocks
+Upgrading from < 1.10.0
+AutoIT
+Flutter
+Clojure
+ColdFusion
+Cordova
+Crystal
+Dart
+Elixir
+Erlang
+Fastlane
+Flash / ActionScript3
+Haskell
+Lisp
+Meteor
+NestJS
+perl
+R
+Rust
+Log Ingestion
+Rollbar Agent
+Fluentd
+Logstash
+Mailgun
+Proxying Requests
+Setting the API Endpoint
+JSON Proxy
+App Guide
+Trying Rollbar with the Error Simulator
+Setting up Rollbar
+Users, Teams, and Accounts
+Projects
+Environments
+Rollbar Terminology
+Rate Limits
+Enable Code Context in a Traceback
+Terraform
+User Settings
+Best Practices
+SDK Configurations
+Account Configurations
+Project Configurations
+Grouping (Reducing Noise)
+Default Grouping Algorithm
+Manually Merging Items
+Custom Fingerprinting Rules
+Configurable file path canonicalization
+Working with Rollbar Items
+Item Status (The Rollbar Workflow)
+Item Snooze
+Item Levels
+Item Owner
+Resolve in version
+Resolve via commits
+Automatically Resolving Items
+IP History
+Searching for Items
+Searchable Fields
+Timestamps
+Viewing Rollbar Occurrence Data
+Item Detail Page Overview Video
+Item Summarization
+Saved Views
+Related Items
+Securing your Rollbar Account
+Data Retention
+Encryption at Rest
+Enterprise Advanced Security Controls
+SAML Identity Providers
+SCIM - Users and Teams Provisioning
+Two Factor Authentication
+Rollbar IP Addresses
+Okta
+OneLogin
+Tips & Tricks
+Reduce Noisy Javascript Errors
+Unknown(Script Error)
+Send Log Messages to Rollbar
+Hiding Third Party Code
+Filtering Javascript Errors by Language
+Filter or Ignore Errors from Bots
+UUIDs
+IP Blocklist
+Adding Additional Data to the Occurrence
+Decision Support with Versions API
+Disabling Feature Flags
+Managing Rollbar across an Organization
+Latest SDK Versions
+Rollbar configuration in the build/deployment process
+Metrics API Code Examples
+Metrics API Occurrence Query Examples
+Deleting items & occurrences
+Download items & occurrences
+Avoiding billing surprises
+Custom Fields for Jira Issue Tracking
+Sending Rollbar Webhooks (Nearly) Anywhere
+Guides
+Enable GitHub Organization Access for Rollbar
+Error Grouping Best Practices
+How Rollbar helps ensure Low-Risk Releases
+Rollbar as a tool for DevOps Teams
+Manage Rollbar automatically through the Rollbar Terraform Provider
+Finding items by UUID
+Using Zapier to create Zendesk tickets
+Rollbar Solutions: Enabling Support Teams
+Intelligent alerting helps you stay on top of critical errors and reduce noise in your notification channels
+Introducing Automation-Grade Grouping
+Reduce noise with the help of Slack notifications integration
+Jira integration best practices
+Improve your Error Grouping with the help of Rollbar
+Source Map Troubleshooting
+Preventing Client-Side Access Token Abuse
+Disable Two Factor Authentication
+Hiding Third-Party Code
+Filtering Javascript errors by language
+Billing in Rollbar
+Personal vs. Organization Accounts
+Manual merging vs. Custom fingerprints
+Streamline your items workflow
+Auto-upgrading in Rollbar
+Could not compare commits between SHAs
+Get more insights and control over your errors
+"There was a problem trying to connect to your Asana account." message appears
+Sending Rollbar Notifications to Discord
+Billing FAQs
+Slack Notification Practical Examples
+Feature Reference
+Dashboard
+Issue Tracking Integration
+Asana
+Azure DevOps
+Bitbucket Issues
+Shortcut
+GitHub Issues
+GitLab Issues
+Jira
+Pivotal
+Sprintly
+Trello
+Notifications / Alerting
+AlertOps
+Datadog
+Flowdock
+OpsGenie
+PagerDuty
+Rootly
+Slack
+Spike.sh
+VictorOps
+Webex Teams
+Webhooks
+Zenduty
+Adaptive Alerts
+Path Filter
+Project Access Tokens
+People Tracking
+Version Tracking
+Deploy Tracking
+Ansible
+Bash
+Bitbucket Pipelines
+Buddy
+Capistrano
+CircleCI
+Codeship
+Engine Yard
+Fabric
+GitHub Actions
+Heroku
+Jenkins
+Octopus Deploy
+PowerShell
+Split.io
+Other tools
+Source Control Integration
+Bitbucket
+GitHub
+GitLab
+Service Links
+Source Maps
+Source Map Errors
+Telemetry
+JavaScript Telemetry
+iOS Telemetry
+.NET Telemetry
+Node.js Telemetry
+Analyze
+RQL
+Improve
+Rollbar REST API
+Usage
+More Integrations
+DevCycle
+GrowthBook
+Bird Eats Bug
+DataGrail
+Fivetran
+FullStory
+LogRocket
+Help Scout
+PlayerZero.app
+PostHog
+Scout
+Segment
+Selenium
+Splunk Observability
+Zipy.ai
+LaunchDarkly
+All Quiet - Incident Management
+Policy and Legal
+Billing
+Privacy Policy
+Terms of Service
+Responsible Disclosure Policy
+Security & Compliance Policy
+Rollbar & CCPA
+Rollbar & GDPR
+Data Processing Addendum
+Data Subprocessors
+Data Transfer Impact Assessment
+DMCA Notice
+Updates - Terms of Service
+Terms of Service
+Terms of Service
+Terms of Service
+Terms of Service
+Terms of Service
+Terms of Service
+Effective: October 2, 2024
+This Privacy Policy describes how and when Rollbar collects, uses and shares your information when you use our Services. Rollbar receives your information through our various websites, APIs, email notifications, integrations, and applications (the
+"Services"
+) and from our partners and other third parties. When using any of our Services you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. Irrespective of which country you reside in or supply information from, you authorize Rollbar to use your information in the United States and any other country where Rollbar operates.
+All capitalized terms that are not defined herein have the meanings given them in the Rollbar Terms of Service at
+https://docs.rollbar.com/docs/terms-of-service
+. If your access to the Services is granted subject to a Master Services Agreement or other agreement entered into by you and Rollbar (in either case, an
+“Alternative Agreement”
+), that Alternative Agreement may have modified the Privacy Policy below. Please contact for details.
+If you have any questions or comments about this Privacy Policy, please contact us at
+privacy@rollbar.com
+.
+INFORMATION COLLECTION AND USE
+We collect and use the following information to provide, improve, and protect our Services:
+Information You Provide:
+Basic Account Information.
+We ask you to log in and provide certain personal information (such as your email address, username, and password) in order to be able to save your profile and the accounts, projects, and other data associated with it.
+Payment and Billing Information.
+We also collect credit card or payment information for paid subscriptions. This information will be securely stored with a third party specialized in the handling of such information, such as a credit card payment gateway or other payment vendors.
+Messages.
+If you correspond with us, you may also provide us information when you respond to surveys, communicate with our engineering, sales, or support teams about a question regarding the Services, or post a question about your application or our Services in our public forums.
+Telephone Information.
+If we telephone you, or you telephone us, to discuss our Services, we may collect personal information from you, including your name, company name, business address, phone number, job title, email address, whether you use the Services, information about your business needs, the number of users of our Services you require, and, if you telephoned us, how you heard about us, and any other information you choose to share with us by telephone.
+Information We Collect Automatically:
+Device Information.
+Like most online service providers, we collect information that web browsers, mobile devices, and servers typically make available, such as the browser type, IP address, unique device identifiers, language preference, referring site, the date and time of access, operating system, and mobile network information. Your devices (depending on their settings) may also transmit location information to the Services. We collect log information when you use our Services–for example, when you create or make changes to your account on the Services.
+Usage Information.
+We collect information related to how you use the Services, including actions you take in your account (like sharing, viewing, and moving files or folders). We use this information to improve our Services, develop new services and features, and protect our Users.
+Location Information.
+We may determine the approximate location of your device from your IP address. We collect and use this information to, for example, calculate how many people visit our Services from certain geographic regions.
+Cookies and Similar Technologies.
+We use technologies like cookies and pixel tags to provide, improve, protect, and promote our Services. A cookie is a small text file containing a string of alphanumeric characters that may uniquely identify your browser that lets us help you log in faster and enhance your navigation through the Services. A cookie may also convey information to us about how you use the Services (e.g., the pages you view, the links you click, how frequently you access the Services, and other actions you take on the Services), and allow us to track your usage of the Services over time. You can set your browser to not accept cookies, but this may limit your ability to use the Services. Similarly, we may employ clear gifs (also known as web beacons) which are used to anonymously track your usage patterns on the Services, or place clear gifs in HTML-based emails we send you to track which emails are opened and which links you click. This information allows for more accurate reporting and improvement of the Services.
+Information We Collect from Other Sources:
+Authentication Services.
+We allow Users with certain third-party accounts (currently Users who have GitHub, Google, Heroku, Okta, OneLogin, or Bitium accounts) to authenticate on the Services using those third-party accounts (each, an “Identity Provider”). If you authenticate on the Services using an Identity Provider, the Identity Provider may send us your registration or basic profile information on that service and other information that you authorize. This information enables us to authenticate you and improve the Services, and is deleted from Rollbar within 30 days of your disconnecting your Identity Provider account from the Services.
+Third Party Analytics Services.
+We may also receive information from third party services to help us better understand you and how you use our Services.
+End Users.
+We also process information about end users of our Users’ Products, on behalf of our Users and in accordance with our user agreements. Typically, the information we receive from an end user may include the end user’s name, email address, and device information, such as a description of the error or bug the end user experienced while using a Product provided by one of our Users, as well as any other information the User elects to share with us in the context of reporting or tracking the error experienced by an end user in a User’s Product. Please note that our processing of that information on behalf of our Users for their Products isn’t covered by this Privacy Policy. We encourage our Users to post a privacy policy that accurately describes their practices on data collection, use, and sharing of personal information.
+Information Collected by Third Parties:
+As noted above, sometimes we receive information about you from third party analytics service providers, such as Google, Intercom, Wootric, and other third party service providers. In order to gain useful insights, these analytics providers may set tracking technologies (like cookies) to collect information about your use of our Services and across other websites and online services. These technologies allow these third parties to recognize your device to compile information about you or others who use your device. This information allows us and other companies to, among other things, analyze and track usage, determine the popularity of certain features, and deliver features or content that may be more targeted to your needs. Please note this Privacy Policy only covers the collection of information by Rollbar and does not cover the collection of information by any third party advertisers or analytics providers. We cannot be responsible for how these third party cookies are used, and you should consult the privacy policies of these third parties for more information about how they use cookies.
+Purposes for Collection:
+We use information about you as mentioned above and for the purposes listed below:
+To provide you the Services, including for example, reporting errors and bugs in your Products and billing you for the Services;
+To maintain, monitor, and improve the Services by adding new features, sharing new use cases, or making the Services easier to use;
+To monitor and analyze trends and better understand how you interact with our Services;
+For our own internal benchmarking, for example, to measure, and gauge the effectiveness of the Services, our advertising of the Services, and to better understand user retention and attrition–for example, we may analyze how many individuals purchased a plan after receiving a marketing message or the features used by those who continue to use our Services after a certain length of time;
+To prevent problems with our Services, protect the security of our Services, detect fraudulent transactions and other illegal activities, fight spam, and protect the rights and property of Rollbar and others, which may result in us declining a transaction or the use of our Services;
+To personalize your experience using our Services, remember your preferences on the Services so that you will not have to re-enter it during your visit or the next time you use the Services, target our marketing messages to groups of our Users (for example, those who have a particular plan with us or have been our user for a certain length of time), to serve relevant advertisements; and
+To communicate with you, for example through an email, about offers and promotions offered by Rollbar and others we think will be of interest to you, solicit your feedback, or keep you up to date on what we’re up to and our products. We give users the option to use some of our Services free of charge. These free Services are made possible by the fact that some users upgrade to one of our paid Services. If you register for our free Services, we will, from time to time, send you information about upgrades when permissible. For further information on your choices regarding your choices with regard to the use of your information for marketing purposes, see "Your Choices Regarding Your Information" below.
+LEGAL BASIS FOR COLLECTING AND USING INFORMATION
+We collect and use the personal data described above based on the following grounds:
+The use is necessary in order to fulfill our commitments to you under our Terms of Service at
+https://docs.rollbar.com/docs/terms-of-service
+or other agreements with you or is necessary to administer your account–for example, in order to enable access to our Services on your device or charge you for a paid subscription; or
+Compliance with a legal obligation necessitates the use; or
+The protection of your vital interests or those of another person require the use; or
+We have a legitimate interest in using your information–for example, to provide and update our Services, to improve our Services so that we can offer you an even better user experience, to safeguard our Services, to communicate with you, to measure, gauge, and improve the effectiveness of our advertising, and better understand user retention and attrition, to monitor and prevent any problems with our Services, and to personalize your experience; or
+You have given us your consent.
+INFORMATION SHARING AND DISCLOSURE
+We collect and use the personal data described above based on the following grounds:
+Others Working with Rollbar.
+We may share information about you within the United States and abroad, with third party vendors who need to know information about you in order to provide their services to us, or to provide their services to you. This group includes vendors that help us provide our Services to you, such as payment providers that process your credit and debit card information, fraud prevention services that allow us to analyze fraudulent payment transactions, postal and email delivery services that help us stay in touch with you, customer chat and email support services that help us communicate with you, those that assist us with our marketing efforts (e.g. by providing tools for identifying a specific marketing target group or improving our marketing campaigns), those that help us understand and enhance our Services (like analytics providers), and those that help us deliver our Services (like hosting and content delivery providers). We may share your private personal information with such service providers subject to confidentiality obligations consistent with this Privacy Policy, and on the condition that the third parties use your private personal data only on our behalf and pursuant to our instructions. Rollbar ensures that such recipients of your private personal data will offer an adequate level of protection, for instance by entering into an agreement with standard contractual clauses for the transfer of data as approved by the European Commission or, to the extent valid and available, by requiring that the recipients subscribe to the Data Privacy Framework Principles.
+Other Users.
+Our Services display information like your name, profile picture, and email address to other users in places like your user profile and sharing notifications. You can also share aspects of your Product with other users in certain forums and features of the Services intended to be public if you choose. When you register your Rollbar account with an email address on a domain owned by your employer, educational institution, or organization, we may help collaborators and administrators find you and your team by making some of your basic information—like your name, team name, profile picture, and email address—visible to other users on the same organization. This helps you sync up with teams you can join and helps other users share files and folders with you.
+Account Administrators.
+If your use of the Services is pursuant to an agreement entered into by your employer or other organization to which you belong, your administrator may have the ability to access and control your Rollbar team account. Please refer to your organization’s internal policies if you have questions about this.
+Your Consent.
+Certain features let you make additional information available to others.
+Other Applications.
+You can also give third-party providers access to your information and account—for example, via Rollbar APIs at
+https://docs.rollbar.com/reference/getting-started-1
+.  Just remember that their use of your information will be governed by their privacy policies and terms.
+Law & Order and the Public Interest. Third parties as required to (a) satisfy any applicable law, regulation, subpoena/court order, legal process or other government request, (b) enforce our Terms of Service, including the investigation of potential violations thereof, (c) investigate and defend ourselves against any third party claims or allegations, (d) protect against harm to the rights, property or safety of Rollbar, its users or the public as required or permitted by law and (e) detect, prevent or otherwise address criminal (including fraud or stalking), security or technical issues.
+Business Transfers and Affiliates.
+In the event that Rollbar is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction. This Privacy Policy will apply to your information as transferred to the new entity. We may also disclose information about you to our corporate affiliates in order to help provide, understand, and improve our Services and our affiliates’ services.
+Aggregated and De-Identified Information.
+We may share information that has been aggregated or reasonably de-identified, so that the information could not reasonably be used to identify you. For instance, we may publish aggregate statistics about the use of our Services.
+No Other Disclosures or Uses.
+We will not (i) disclose your personal information to any third party that is not acting as an agent, under contract with us, to perform tasks on our behalf and under our instructions, or (ii) use your personal information for a purpose that is materially different from the purpose for which it was originally collected or subsequently authorized by you.
+YOUR CHOICES REGARDING YOUR INFORMATION
+Account Data.
+All Rollbar account holders may review, update, correct or delete the personal information in their registration profile by logging into their account. Rollbar account holders may also contact us at
+privacy@rollbar.com
+to accomplish the foregoing or if you have additional requests or questions.
+Access to Data Controlled by Our Users.
+Rollbar has no direct relationship with the end users of our Users’ Products whose personal information is contained within the personal data processed by our Services. An individual who seeks access, or who seeks to correct, amend, or delete personal information provided by our Users should direct their request the specific User. You may also contact us at
+privacy@rollbar.com
+if you have additional questions or concerns.
+Marketing Communications.
+If you do not wish to receive promotional emails, you can click the "unsubscribe" button on promotional email communications. If you opt out of promotional messages, we may still send you other messages, like those about your account and legal notices. We sometimes contact people who do not have a Rollbar account. For recipients in the EU, we or a third party will obtain consent before contacting you. If you receive an email and no longer wish to be contacted by Rollbar, you can unsubscribe and remove yourself from our contact list via the message itself.
+Analytics Services.
+As noted above, analytics providers may set tracking technologies (like cookies) to collect information about your use of the Services, and potentially your use of other websites and online services. For more information about how to manage and delete cookies, visit aboutcookies.org. For further information on what information is collected by analytics service providers and why, see "What We Collect and Why."
+Set Your Browser to Reject Cookies.
+At this time, Rollbar does not respond to “do not track” signals across all of our Services. However, you can usually choose to set your browser to remove or reject browser cookies before using the Services, with the drawback that certain features of the Services may not function properly without the aid of cookies.
+Close Your Account.
+Of course, while it’s hard to say goodbye, we understand that sometimes you just need to move on. You can delete your information from within your account or close your account and keep in mind that we may continue to retain your information after closing your account, as described in How Store Your Information below–for example, when that information is reasonably needed to comply with (or demonstrate our compliance with) legal obligations such as law enforcement requests, or reasonably needed for our legitimate business interests.
+Access and Take Your Data.
+You can download a copy of your content in a machine readable format as outlined in your account settings. If the export option is ever unavailable for any reason, you can also request a copy of the personal data you provided to us by sending a request to
+privacy@rollbar.com
+.
+HOW WE STORE YOUR INFORMATION
+Security
+. We use commercially reasonable physical, electronic, and administrative safeguards to protect the information we collect from loss, misuse and unauthorized access, disclosure, alteration, destruction, and to ensure that the information we process is reliable for its intended use, accurate, complete, and current to the extent necessary for the purposes for which we use the information. Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure. Please contact us immediately if you have reason to believe that your interaction with us is no longer secure. Our Security and Compliance page at
+https://docs.rollbar.com/docs/security
+describes the measures we take to secure the Services and your data.
+Location of Storage
+. To provide you with the Services, we may store, process, and transmit information in the United States and locations around the world—including those outside your country. Information may also be stored locally on the devices you use to access the Services.
+Retention
+. When you sign up for an account with us, we’ll retain information you store on our Services for as long as your account is in existence or as long as we need it to provide you the Services. If you delete your account, we will immediately initiate deletion of your information. Deletion of your information, including deletion of your information from our backup storage, will be completed within 30 days of your request. But please note we may retain this information if necessary to comply with our legal obligations, resolve disputes, or enforce our agreements.
+Your Rights
+Depending on your location, you may have the following data protection rights.
+For personal information we have about you, you can:
+Access your personal information or request a copy.
+You have the right to be notified of what personal information we collect about you and how we use it, disclose it and protect it.
+Change or correct your personal information.
+Delete or erase your personal information.
+Object to the processing of your personal information.
+Ask us to restrict the processing of your personal information.
+Export your personal data.
+You also have the right to lodge a complaint with the local organizations in charge of enforcing the privacy legislation applicable in your territory.
+You have the right to request that we export to you in a machine-readable format all of the personal information we have about you.
+If you would like to exercise any of the rights described above, please contact us at
+privacy@rollbar.com
+.
+TRANSFERRING YOUR DATA
+Because the Services are offered worldwide, the information about you that we process when you use the Services in the EU may be used, stored, and/or accessed by individuals operating outside the European Economic Area (EEA) who work for us, other members of our group of companies, or third party data processors. This is required for the purposes listed in the What We Collect and Why section above. When providing information about you to entities outside the EEA, we will take appropriate measures to ensure that the recipient protects your personal information adequately in accordance with this Privacy Policy as required by applicable law. These measures include, for instance, entering into European Commission approved standard contractual arrangements with them or, to the extent valid and available, ensuring they have signed up to the EU-US DPF or Swiss-US DPF.
+Rollbar complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. Rollbar has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union and the United Kingdom in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF. Rollbar has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. You can find Rollbar’s Data Privacy Framework certification at
+https://www.dataprivacyframework.gov/list
+. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit
+https://www.dataprivacyframework.gov/
+.
+In cases of onward transfers of personal data to third parties, Rollbar is potentially liable for the acts or omissions of such third parties that are in violation of the DPF Principles.
+Rollbar is subject to oversight by the U.S. Federal Trade Commission. JAMS is the US-based independent organization responsible for reviewing and resolving complaints about our Data Privacy Framework compliance—free of charge to you. We ask that you first submit any such complaints directly to us via
+privacy@rollbar.com.
+If you aren’t satisfied with our response, please contact JAMS at
+https://www.jamsadr.com/DPF-Dispute-Resolution
+. In the event your concern still isn’t addressed by JAMS, you may be entitled to a binding arbitration under Data Privacy Framework and its principles.
+CHILDREN'S PRIVACY
+Our application and services are intended for business use, and we do not expect them to be of any interest to minors. We do not intentionally collect any personal information of consumers below the age of 16.
+CCPA
+Rollbar values your privacy and we have implemented the steps to be in compliance with the California Online Privacy Protection Act. To learn more please visit
+https://docs.rollbar.com/docs/ccpa-rollbar
+GDPR
+Rollbar is compliant with GDPR. To learn more about the measures in place please visit
+https://docs.rollbar.com/docs/gdpr-rollbar
+CHANGES
+We may revise this Privacy Policy from time to time, and will post the most current version on our website. If a revision meaningfully reduces your rights, we will notify you.
+CONTACT
+Your personal information is controlled by Rollbar, Inc. Have questions or concerns about the Services or your privacy? Contact our Data Protection Officer at
+privacy@rollbar.com.
+If they can’t answer your question, you have the right to contact your local data protection supervisory authority.
+Updated
+5 months ago
+Billing
+Terms of Service
+Did this page help you?
+Yes
+No

@@ -1,0 +1,197 @@
+Social Steps
+Privacy Policy
+Contents
+Overview
+3
+Information you share with us
+3
+Basic Account Information
+3
+Login Credentials
+4
+Public Information
+4
+Access to Device’s Health Services
+4
+How You Control the Information You Share with Us?
+5
+Additional information we receive about you
+6
+Device Information
+6
+Log Data
+6
+Crash Reporting
+6
+Third party services we use
+7
+Google Firebase
+7
+Analytics Data
+7
+Encrypted Data Storage
+8
+Facebook
+8
+Google
+8
+Twitter
+8
+Policy Revisions
+8
+Overview
+When you use Social Steps, we receive some personal information from you like the type of device you’re using and your IP address. You can choose to share additional information, for example to help us monitor the performance of your installed app or to allow our service to send you push notifications from time to time.
+We give you control through your settings to limit the data we collect from you and how we use it. You can also always download the personal information related to you on Social Steps.
+Social Steps uses Google’s Firebase services as the underlying infrastructure. We will explain what this means to you and how Google’s privacy policy applies to your data.
+If you have questions about this policy, how we collect or process your personal data, or anything else related to our privacy practices, you can email us at privacy@snappmobile.io.
+Information you share with us
+We require certain information to provide our services to you. For example, you must have an account in order to use our service. When you choose to share the information below with us, we collect and use it to operate our services
+Basic Account Information
+You will have to create an account to use the Social Steps service. If you choose to create an account, you must provide us with some personal data so that we can provide our services to you.
+The personal data needed for your account are:
+display name
+(optionally) a profile picture
+This data is not shared publicly but we use it to display to those Social Steps users who you have invited to connect to you or those who’s invitation to connect you have accepted. They will see this information as part of the initial invitation as well as in screens that display the status of yours and their walking activity.
+Your display name and profile picture can be changed at any time. Information such as email address or social network contact information are not shared, either publicly or to your Social Steps connections.
+Login Credentials
+When creating a Social Steps account you can use an identity from Google, Facebook or Twitter. Social Steps will not have access to any of your login credentials (e.g. username or password) from these login services and will only have access to a token. A token is an identifier created by the login provider for Social Steps to use for the purpose of identifying you on their systems.
+We also ask for additional information from these login services.
+See below.
+If you choose to create login credentials specifically for Social Steps we store the following information you give us:
+E-Mail Address
+Password
+We use the email address provided solely for the purposes of login. It is not shared or used for any email communications by Social Steps or any other party.
+The password you give us is stored using a encryption algorithm that means individuals with access to the Social Steps database cannot see or guess the characters that comprise your password.
+Public Information
+The information you provide Social Steps is not available publicly. Only individuals with a Social Steps account who you explicitly connect with using the Social Steps service can see this information.
+Access to Device’s Health Services
+In order to track the steps you take, Social Steps uses the Health Services provided by the mobile device on which the Social Steps app is installed.
+For iOS you will be asked for permission for us to access Apple Health. This provides the Social Steps app access to the following information provided by your iOS Device:
+Steps - the amount of steps taken every day. This can also be seen in the Sources tab in the Health app.
+The information that we gather from the device and store is:
+Your name. This was either retrieved by your Facebook login or you might have entered it in the app yourself when signing up with a username.
+Steps goal. The daily goal of steps that you wish to take. Either the default value is stored (8.500 steps) or a value that you set in the settings of the app.
+For Android you will be asked for permission to access Google Fit. This provides the Social Steps app access to the following information provided by your Android Device:
+Your daily step count summary
+This data is not shared publicly but we use it to display to those Social Steps users who you have invited to connect to you or those who’s invitation to connect you have accepted. They will see this information as part of the initial invitation as well as in screens that display the status of yours and their walking activity.
+How You Control the Information You Share with Us?
+Your basic account information and information from your device’s health services are fundamental to providing our services. You can remove access to these by closing your account and requesting all personal data is erased. You can delete your account in the app in privacy setting screen. Or you can email us at privacy@snappmobile.io.
+Additional information we receive about you
+Device Information
+We use of Google Analytics for Firebase to understand the usage of Social Steps in order to improve our product for users.
+A list of data captured by default by Google Analytics for Firebase
+can be found here
+.
+In addition, we capture data about the following events that occur during your usage of the Social Steps app.
+Event
+Data Captured
+Purpose
+fb_profile_found
+Anonymised analytics data
+Improve app usability
+friend_profile_viewed
+Anonymised analytics data
+Improve app usability
+friend_removed
+Anonymised analytics data
+Improve app usability
+friend_removed_undo
+Anonymised analytics data
+Improve app usability
+friend_request_accepted
+Anonymised analytics data
+Improve app usability
+friend_request_accptd_by_friend
+Anonymised analytics data
+Improve app usability
+friend_request_received
+Anonymised analytics data
+Improve app usability
+friend_request_rejected
+Anonymised analytics data
+Improve app usability
+friend_request_sent
+Anonymised analytics data
+Improve app usability
+nearby_profile_found
+Anonymised analytics data
+Improve app usability
+profile_name_updated
+Anonymised analytics data
+Improve app usability
+profile_picture_updated
+Anonymised analytics data
+Improve app usability
+profile_rate
+Anonymised analytics data
+Improve app usability
+profile_shared
+Anonymised analytics data
+Improve app usability
+profile_steps_goal_updated
+Anonymised analytics data
+Improve app usability
+ratings_begging_closed
+ratings_begging_liked
+Anonymised analytics data
+Anonymised analytics data
+Improve app usability
+Improve app usability
+ratings_begging_liked_nvr
+Anonymised analytics data
+Improve app usability
+ratings_begging_liked_rate
+Anonymised analytics data
+Improve app usability
+ratings_begging_not_liked
+Anonymised analytics data
+Improve app usability
+ratings_begging_not_liked_nvr
+Anonymised analytics data
+Improve app usability
+ratings_begging_not_lkd_feedback
+Anonymised analytics data
+Improve app usability
+ratings_begging_shown
+Anonymised analytics data
+Improve app usability
+Crash Reporting
+When technical errors occur in the Social Steps app, we use the Firebase Crashlytics service to store data about the error. This is also known as ‘crash reporting’.
+The data stored includes details of the technical error (known as a ‘stack trace’) along with device information.
+This allows us to analyse the cause of the technical error and update the Social Steps source code with technical fixes, sometimes specific to the make and software version of a device.
+Third party services we use
+Google Firebase
+Firebase is a suite of tools and services for mobile app developers. Provided by Google, the Firebase services provides Social Steps with functionality like analytics, databases, messaging and crash reporting.
+Social Steps uses the following Firebase tools and services.
+Firebase Service
+What we use it for
+Firebase Realtime Database
+Storing steps data for the Social Steps service.
+Google Analytics for Firebase
+Understanding use of the Social Steps app to improve and extend product features.
+Crashlytics Reporting
+Understanding of technical errors that happen in the Social Steps apps.
+Performance Monitoring
+Understanding with the Social Steps app software is operating at speed.
+Cloud Functions for Firebase
+Code that runs inside the Firebase platform for handling workflows such as Social Steps friend requests.
+Firebase Hosting
+Hosting for the Social Steps product website.
+Firebase Authentication
+Integration with login services from Google, Facebook and Twitter. Maps a user’s identify from external services to a Firebase identifier.
+Firebase Predictions
+Predicts user behaviour based on analytics data from Google Analytics for Firebase
+Analytics Data
+Social Steps uses the default Firebase configuration which shared data gathered by Google Analytics for Firebase with the Firebase services. This is done to improve how these service work.
+Details of how the different Firebase service use shared data from Google Analytics for Firebase is found here:
+https://support.google.com/firebase/answer/6383877
+Encrypted Data Storage
+The following Firebase Services used by Social Steps stores data in an encrypted format. This means that the data cannot be read without knowing the necessary decryption keys and process.
+Firebase Authentication
+Cloud Functions for Firebase
+Firebase Realtime Database
+Facebook
+Social Steps uses Facebook Login to allow users to login to a Social Steps account via Facebook. Public profile, including email is needed for login. Email is not used for any other purpose.  Friends list is used to find friends who also use Social Steps to make it easier to add friends.
+Google
+Basic Google Profile for login purposes
+Policy Revisions

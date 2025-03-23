@@ -1,0 +1,82 @@
+Last updated on May 21, 2023
+This page informs you about how I, Patrick Ellis, handle your data when you are playing my games, browsing my websites, or using another service I offer.
+As someone who values privacy in my everyday life, I take your privacy as seriously as mine. That’s also why I took it a step further by removing all ads and analytics services from Seashine. I do my best to protect your information and I make sure to follow all the necessary data protection regulations, including the General Data Protection Regulation (GDPR).
+I only collect the bare minimum amount of data to make sure my products and services can do their job properly and keep getting better.
+By playing my game and using my services, you agree to me collecting and using this data according to this policy.
+1.
+Data I collect
+1.1. Type and usage
+When you contact me using this website’s contact form, using my email address, or by leaving a comment on this website, I will collect your email address in addition to the title and message to provide support and/or reply to your inquiries.
+When you submit a bug report from the in-game bug report form, I will collect your email address (optional), your description of the bug (optional but recommended), an automatic screenshot of the game created at the moment you press the “report a bug” button, and a game log with anonymous game log data allowing me to spot potential errors.
+When you register for the beta testing program, I will collect your name (or nickname), the device model you intend to use in the beta, and your email address. The name/nickname helps me better manage the registrations (e.g. updating the email address). The device model helps with debugging. Finally, the email address is required for me to let Google Play or the Apple AppStore know that your account is allowed to access the beta. The email address must be the one you use for your Google Play and/or Apple AppStore account.
+When you browse one of my websites, I may collect your IP address through the use of Wordfence, a wordpress plugin I use to protect my websites from malicious activities (e.g. preventing hackers from accessing the administration of my website or adding malware code to the site). This data is only used for security purposes.
+1.2. Data Retention
+In accordance with the principle of data minimization and storage limitation, I retain your personally identifiable information only for as long as necessary to fulfill the purposes for which it was collected, including for the purposes of satisfying any legal, accounting, or reporting requirements.
+For example, if you provide your email address for support or for bug reporting, I will retain your email address only for as long as it is necessary to address your concern, provide support, or resolve the reported issue. Once the purpose for retaining the data has been fulfilled, I will securely delete the data, unless a longer retention period is required.
+I regularly review my data retention practices to ensure that I am not retaining personal data for longer than necessary. When your data is no longer needed, I will securely delete or anonymize it in accordance with my data deletion and anonymization procedures.
+2.
+Third-Party Services
+2.1. Unity In-App Purchases (IAP)
+I use Unity IAP, a service provided by Unity Technologies, to facilitate in-app purchases within the game. Unity IAP enables you to purchase virtual items or currency to enhance your gaming experience. These purchases are processed securely through the respective app store, such as Google Play and the Apple AppStore.
+When you make an in-app purchase, the game collects the following transaction data:
+Transaction ID
+Date and time of the transaction
+Purchased item(s) or in-game currency
+This transaction data is used solely for the purpose of processing your in-app purchase and ensuring that you receive the purchased items or currency in the game. I do not store this data on my own servers, and Unity does not store transaction data related to IAPs since I use a version of Unity IAP with analytics disabled. Your transaction data is securely handled and stored by the respective app store, i.e. Google Play or the Apple App Store.
+By making in-app purchases, you agree to the collection and use of your transaction data as described in this section. Please note that the processing of in-app purchases is subject to the privacy policy and terms of service of the respective app store.
+2.2. Apple’s Game Center and Google Play Games Services
+If you have installed my game using Apple’s App Store it integrates Game Center, a platform provided by Apple, to enhance your gaming experience by offering features such as leaderboards.
+If you have installed my game using Google Play, it integrates a similar service on Android called Google Play Games Services, a platform provided by Google.
+You are not required to sign-in to these services to play the game. However, if you sign-in to these services, you will be sharing certain information with Apple or Google, which is subject to their respective privacy policy and terms of service.
+If you are signed-in to these services, the game may collect from these services or share with these services the following information:
+Your unique player ID on the service
+Your achievements for the game
+Your high scores for the game
+Progress data (Google Play Games Services only as this is saved on iCloud on iOS/iPadOS)
+This information is used to provide you with additional features such as leaderboards, achievements, and cloud save functionality (Google Play), allowing you to compare your progress with other players and synchronize your game progress across multiple devices (Google Play).
+Your data collected through these services is processed and stored by Apple or Google depending on your platform. I do not store this data on my own servers. Apple’s use of your data and Google’s use of your data is governed by their respective privacy policy.
+By using these services in my game, you agree to the collection and use of your data as described in this section and in accordance with Apple’s Privacy Policy and Terms of Service or Google’s Privacy Policy and Terms of Service depending on your platform.
+2.3. Apple iCloud
+If you have installed my game using Apple’s App Store, the game will automatically save or load your progress using iCloud. This allows you to synchronize your game progress across multiple Apple devices and recover your progress after uninstalling the game.
+Your progress data is collected and stored by Apple. I do not store this data on my own servers. Apple’s use of your data is governed by Apple’s privacy policy.
+2.4. SRDebugger
+I use SRDebugger, a service provided by Stompy Robot Ltd, to allow sending bug reports from within the game.
+When you send a bug report, it first goes to Stompy Robot Ltd’s server to be processed. Then the server uses SendGrid to send your bug report to my support email address.
+In the process, Stompy Robot Ltd keeps your IP address to prevent abuse of their service by bad actors (e.g. spamming bug reports). Your email address (if provided) and your description of the bug (if provided) are not retained on the server after the bug report has been transmitted to me.
+By sending a bug report using the in-game bug report form, you agree to the collection of the aforementioned data and the storage of your IP address on Stompy Robot Ltd’s server.
+2.5. Wordfence security plugin
+I use Wordfence, a security plugin for WordPress websites, to keep my websites safe from malicious activities. Wordfence helps me identify and block security threats. If you visit my websites, Wordfence may collect some data to ensure the safety of my websites and its visitors.
+The data collected by Wordfence is used solely for security purposes. Wordfence will collect your IP address if it detects suspicious activity, such as tempering of the code or attempts to sign-in as admin. This data is only collected to identify and block malicious site visitors and bots that might attempt to compromise the security of my websites.
+The data collected by Wordfence is not sold or shared with third parties for their use.
+Wordfence is committed to maintaining the privacy and security of the collected data and has implemented industry-standard security measures to protect it. You can read more about the data collected by Wordfence and its use in
+Wordfence’s Privacy Policy
+.
+3.
+Use of older versions of the game
+I am committed to ensuring that my game complies with the latest privacy standards, including the General Data Protection Regulation (GDPR). To provide the best user experience and maintain compliance with these standards, I have updated my game to remove non-compliant SDKs (Software Development Kits).
+If you are using a version of my game older than 1.2.0 on Android or 1.2.4 on iOS, I strongly encourage you to update to the latest version immediately. Older versions of the game are no longer supported and may contain non-compliant SDKs that do not adhere to the latest privacy standards.
+To better protect users of older versions, I have disabled ad delivery on Unity Services. However, please note that the non-compliant SDKs are still present in the older versions of the game and may still communicate personally identifiable information such as the advertising ID.
+By continuing to use an older version of the game, you acknowledge and accept the potential privacy risks associated with the non-compliant SDKs. I shall not be held responsible for any data collection, usage, or sharing by these SDKs in the older versions of the game.
+For the most secure and privacy-compliant gaming experience, please update to the latest version of my game.
+4.
+Children’s privacy
+If you are a parent or guardian and you are aware that your child has provided me with personal data, please contact me. If I become aware that I have collected personal data from children without parental consent, I will take steps to remove that information from my servers and files.
+5.
+Your rights
+You have the right to access, update, or delete your personal data. If you wish to exercise any of these rights, please use
+this form
+to contact me.
+6.
+Changes to this privacy policy
+I may update my privacy policy from time to time. I will notify you of any changes by posting the new privacy policy on this page. You are advised to review this privacy policy periodically for any changes. Changes to this privacy policy are effective when they are posted on this page.
+7.
+Contacting me
+If you have any questions or concerns about this privacy policy, please use
+this form
+to contact me.
+Sub-section Policy: 
+Sub-policy 0
+https://www.wordfence.com/privacy-policy/:
+JavaScript is disabled
+In order to continue, we need to verify that you're not a robot.
+        This requires JavaScript. Enable JavaScript and then reload the page.

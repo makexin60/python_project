@@ -1,0 +1,93 @@
+FAQ
+What can I do with SpaceStationAR?
+SpaceStationAR is your best reliable and easiest satellite
+			tracking tool using augmented reality technology.
+Which satellites does it support?
+This app is intended to support watching satellites with naked eyes. Large satellites, such as ISS (International Space Station), Hubble Space Telescope, Tiangong 1 (Chinese space station) and Tiangong 2 are listed. Newly launched satellites will be automatically added to the app.
+Flares of Iridium satellites are also supported in PRO edition.
+When can satellites be seen?
+Space Station rotates around earth in every 90mins, but we rarely can see it because it's in darkness or surroundings is too bright
+			with sunlight. 
+			SpaceStationAR predicts only when satellites are in sunlight, earth is in darkness at the same time.
+			So it's usually dawn or sunset.
+How accurate SpaceStationAR is?
+There is almost no problem to find satellite.
+			We do best not to exceed azimuth error more than 15 degree and time error more than 10 seconds. 
+			Error tends to be larger when it passes higher.
+Do I need any equipments to see satellites?
+In case of the Intl Space Station(ISS) or Space Shuttle, you
+			need nothing. ISS is now the brighter than any stars in sky and if you
+			can find single star in sky, you can find ISS too with naked eye.
+How can I find Satellites?
+They fly as fast as plane but it's easy to distinguish.
+A satellite doesn't blink!
+It gets brighter when it passes higher.
+Example movie
+Does it support newly launched satellites?
+Yes! 
+		Newly launched satellites are tracked by SpaceStationAR if they have any chance to be visible.
+		The orbit data of those satellites are automatically when your device is online.
+What do the numbers on the "MAP" stand for?
+The number next to the blue dot (your current position) shows brightness magnitude of the satellite at the given time.
+		When it is showing a pass of Iridium flare, the red line on the map and the red dot indicates its "flare center", the place where you have chance to observe it brightest.
+		The number next to the red dot shows the brightness observed at the flare center.
+Particular satellites never show up in the calendar
+Satellites don't have visible passes constantly. Sometimes a satellite gets visible frequently, sometimes it doesn't show up for some weeks.
+Visibilities of satellites depend on your latitude. Satellites which fly near the equator (satellites with small orbital inclinations) are invisible from high latitude areas.
+For example, ISS can be visible with 15 deg or larger elevation only if the latitude of your location is lower than 65. Hubble Space Telescope is always invisible if your place's latitude is larger than 51.
+Iridium satellites fly over both poles and therefore Iridium flares can be observed from all areas.
+How can I suppress the battery consumption?
+The augmented reality functionality consumes the battery relatively faster because it uses the device's camera and various sensors.
+		You can save battery by using the AR view only when it's necessary. Other views such as Map and Calendar are not very battery-consuming.
+		If your device's battery is running low, we recommend you to switch to the "Battery saving mode" on the "Settings" of iOS.
+My device doesn't support hardware compass.
+iPhone 3G and iPod touch doesn't support hardware. Don't
+			worry, you can adjust the heading by flicking the display. The
+			"Manual compass" mode is also useful for iPhone 3GS users when
+			accurate heading can't be obtained.
+I can't obtain my location on iPod touch.
+iPod touch doesn't support GPS. iPod touch obtains location
+			information by accessing Wi-Fi hotspots. Please use this app near
+			Wi-Fi hotspots which support Skyhook Wireless. For further
+			information, please refer
+Skyhook's
+				official contents
+.
+I concern about my privacy using Twitter in SpaceStationAR.
+When SpaceStationAR shows your tweet in camera mode as
+			you can see others, it obfuscates your location and protect zooming
+			too much at map mode.
+Does SpaceStationAR send device ID?
+UDID (device ID) is required for the service of
+			SpaceStationAR. Before it send your UDID to the server, an alert
+			dialog appears. Please select wether you agree sending UDID or not.
+Is internet indispensable?
+App needs to get data from server because prediction is too hard
+			to calc at your device. But try this:
+Get prediction at SIMulate camera mode
+Sleep your device&have a nice trip
+Turn on your device and it will show AR again without connecting!
+SpaceStationAR froze or crashed!
+This application requires the internet connection. 
+			So please check your condition first. Next try memory release(push home button longer than
+			10 seconds). 
+			iPhone3G is easy to freeze with background music. 
+			If you have crash log or know how to crash, send them to
+us
+and we will fix it as
+			soon as possible.
+I found a bug /  I have a request
+If you found a bug or have a request, please send us with the
+contact form
+.
+Who built this app?
+We're Toriningen Inc in Tokyo,Japan. Only but funny 2 geeks,
+@hisashin
+and
+@MaripoGoda
+are its
+			members. The former name of the app is "SightSpaceStation AR".
+We enjoy building things everyday and will be happy
+			to hear your impression about this app via Twitter or
+mail
+.

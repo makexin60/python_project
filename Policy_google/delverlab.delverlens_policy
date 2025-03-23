@@ -1,0 +1,758 @@
+DOWNLOAD
+FEATURES
+MEDIA
+TUTORIALS
+SCANNING CARDS
+EXPORTING TO SITES
+BUYING AND SELLING CARDS
+TRANSFER FROM OLD TO NEW DELVER
+CHANGELOG
+PRIVACY
+            POLICY
+Delver Lens (DL) is a scanner for Magic the Gathering cards designed to organize your collection.
+You can use DL to point your phone's camera to cards and quickly get a list of all the cards you own.
+You can also check card prices, build decks, buy and sell cards.
+Google Play
+APK (Combined ABI)
+Android only at the moment
+Apple's iOS, Mac, Windows, and ChromeOS coming soon
+FEATURES
+MEDIA
+Life Hacker
+Organize Your Trading Card Game Collections with These Apps
+Card Kingdom
+Top Tools for New MTG Players
+Card Kingdom
+How Much are Your Magic Cards Worth?
+Android Authority
+10 best Magic The Gathering apps for Android!
+Inked Gaming
+8 Great Apps for MTG Players
+Tech Crunch
+This robot automatically sorts and prices cards from Magic: The Gathering
+Smart Sense Lab
+Company co-founded by former Sense member develops a robot for automatic sorting of
+                cards from Magic
+Did I miss one? Please let me know so I can added it here.
+TUTORIALS
+Shows how to get the best condition for scanning cards.
+No glare, no shadows, good lighting, and high contrast between card and surface
+                    are the most important factors.
+Understanding when the recognition performs best, you can better handle
+                    recognition in challenging situations like when scanning a binder on-the-wild.
+Have questions? Send me an email
+Shows how to send scanned cards to different websites.
+Different websites may have slightly different card and set names. You'll likely
+                    need to adjust some names manually.
+Can also generate CSV files compatible with Microsoft Excel.
+Have questions? Send me an email
+Shows how to send scanned cards to different websites.
+Different websites may have slightly different card and set names. You'll likely
+                    need to adjust some names manually.
+Can also generate CSV files compatible with Microsoft Excel.
+Have questions? Send me an email
+Shows how transfer your collection from the old to the new Delver.
+The new Delver version is temporarily named "Delver Lens N".
+This tutorial is only useful if you installed Delver before January 15, 2021.
+Have questions? Send me an email
+Version 6.50
+2025/03/05
+[fix]
+* Some forests named _____
+* Duplicate doesn't copy over foil state
+* "Emblem" and "Token" being removed from Moxfield and Deckbox Exports
+Version 6.49
+2025/03/05
+[fix]
+* Updated database with newer cards
+Version 6.48
+2024/02/03
+[feats]
+* Aetherdrift
+Version 6.47
+2024/01/27
+[fix]
+* Set recognition
+Aetherdrift
+Version 6.46
+2024/01/13
+[feat]
+* Innistrad Remastered
+Version 6.41 - 6.45
+2025/12/25
+[fix]
+* Many attempts to fix overlay in Pixel phones
+Version 6.40
+2024/12/05
+[fix]
+* Status bar overlay in Pixel phones
+* Update packages
+* Moving card to same tab makes card disappear
+Version 6.37 - 6.38
+2024/12/05
+[fix]
+* Small database fixes
+* Swipe on price history doesn't swipe card
+* Subscription explainer changed for compliance
+Version 6.35-6.36
+2024/10/22
+[feat]
+* Foundations cards
+[fix]
+* Analytics calculation
+Version 6.34
+2024/10/22
+[fix]
+* Sorting/Grouping Arbor Elf
+* Analytics crashing
+Version 6.33
+2024/10/16
+[fix]
+* Set recognition and some recognized cards
+Version 6.32
+2024/10/15
+[fix]
+* Confirmation code on sign up
+* Updated database
+Version 6.30 - 6.31
+2024/10/04
+[fix]
+* Fix some foil-only issues with database
+* Fix MDFC lands in statistics
+Version 6.29
+2024/09/16
+[fix]
+* Rename some specific list names
+[misc]
+* Increase maximum lifespan and cooldown time from 10 to 20s
+Version 6.27 - 6.28
+2024/09/16
+[feat]
+* Duskmourn: House of Horror
+Version 6.26
+2024/08/14
+[feat]
+* Adding M3C ripple foils (collector's number #rip) - missing prices for now
+[fix]
+* Sign up
+* Detection of some cards
+Version 6.25
+2024/08/14
+[fix]
+* Manual detection getting wrong cards
+Version 6.24
+2024/08/12
+[fix]
+* Crashes
+Version 6.23
+2024/08/11
+[features]
+* Updated database
+* More efficient recognition
+[misc]
+* Updating dependencies
+Version 6.22
+2024/07/21
+[features]
+* Bloomburrow
+Version 6.20-21
+2024/07/12
+[features]
+* Adding MH3 Promos
+Version 6.19
+2024/06/27
+[features]
+* Assasin's Creed
+[fix]
+* Export TCG Sku IDs for etched foils
+Version 6.18
+2024/06/19
+[features]
+* Updated database
+* Adding option to not merge cards with different tags
+Version 6.17
+2024/06/02
+[features]
+* Modern Horizons 3
+* New MagusMarket pricing for Brazil
+Version 6.16
+2024/05/13
+[fix]
+* Some cards assigned as non-promos
+Version 6.15
+2024/04/17
+[fix]
+* Fix missing cards from Outlaws of Thunder Junction
+Version 6.14
+2024/04/07
+[features]
+* Outlaws of Thunder Junction
+Version 6.13
+2024/03/18
+[features]
+* Updated database
+Version 6.12
+2024/03/10
+[features]
+* Updated database
+* New custom field that combines (Condition,Language)
+[infrastructure]
+* Remove toast reminder from card menu
+[fix]
+* Past images appearing for newly added cards
+Version 6.10 - 6.11
+2024/02/27
+[features]
+* Fallout
+* Preset for CubeCobra
+[infrastructure]
+* Register subscriptions to be used in Delver X
+Version 6.09
+2024/02/11
+[features]
+* Updated database
+* Direct link to
+magusmarket.com.br
+Version 6.08
+2024/02/05
+[features]
+* Updated database
+* Preset for
+magusmarket.com.br
+Version 6.07
+2024/01/30
+[features]
+* Murders at Karlov Manor
+Version 6.06
+2023/12/06
+[features]
+* Ravnica Remastered
+[fix]
+              * Don't display add cards in "All Cards"
+Version 6.05
+2023/12/06
+[features]
+* Updated database with new cards
+* Updated Android dependencies
+Version 6.04
+2023/11/20
+[features]
+* Updated database with new cards
+[fix]
+* Low image resolution when downloading images
+* Text for cooldown time on scanner view
+* Exported timestamp uses digits instead of month name
+Version 6.03
+2023/11/05
+[features]
+* Updated database with new cards
+Version 6.02
+2023/10/17
+[features]
+* Updated database with new cards
+[fix]
+* Missing set symbols
+Version 6.01
+2023/10/17
+[feature]
+* Card Kingdom Buylist pricing
+Version 6.00
+2023/10/11
+[feature]
+* Doctor Who
+* Downloaded images use webp with varying qualities
+Version 5.99
+2023/09/24
+[feature]
+* New field to import "Acquired Price"
+* New option to display POST on share dialog but not auto-post on each scan
+* Updated database with scryfall as of today
+Version 5.98
+2023/09/06
+[feature]
+* Updated database
+[misc]
+* Subscription price increased from $3 to $4
+* Current subscribers maintain the $3 price
+Version 5.97
+2023/08/26
+[feature]
+* Wilds of Eldraine
+Version 5.96
+2023/08/22
+[feature]
+* Updated database - new cards
+Version 5.95
+2023/07/14
+[feature]
+* New TCGplayer SKU field to export
+[bugfix]
+* Fix TCGplayer export using productID instead of SKU
+Version 5.94
+2023/07/14
+[feature]
+* Commander Legends
+* Adding 0 mana value to hypergeometric stats and color bar
+* Adding collector's number as an option in the advanced search
+* Using new EchoMTG export format
+* New option to mirror camera image - necessary for Bluestacks
+[bugfix]
+* Fix grouping/sorting by price and price variation for price v2
+Version 5.93
+2023/07/14
+Updated database
+Card Kingdom Pricing
+CardHoarder Pricing
+Version 5.87 - 5.92
+2023/07/02
+Updated database
+Can now see price history for collection and arbitrary set of cards for the past 2 years
+Pricing history is available for every card, even if you're offline. Small files with the entire data
+                is downloaded only once.
+Version 5.86
+2023/06/21
+The Lord of the Rings: Tales of Middle-earth (updated dataset)
+Version 5.85
+2023/06/11
+The Lord of the Rings: Tales of Middle-earth
+Fix export - Revert "Reset CSV header when changing separator for preset"
+Version 5.84
+2023/05/14
+Update database with Scryfall and fixing some entries
+Adding market price to TCGPlayer preset and removing $ symbol
+Reset CSV header when changing separator for preset
+Version 5.83
+2023/05/05
+March of the Machine: The Aftermath
+Fix header sometimes not appearing
+Version 5.82
+2023/04/18
+Preset for pasting from clipboard on Topdecked decks
+Preset for Archidekt to include tag and foil - manual input
+Adding battle when sorting cards by type
+Fix sort/group toolbar sometimes disappears
+Version 5.81
+2023/04/18
+Update database with additional cards
+Fix Moxfield preset
+Version 5.80
+2023/04/08
+March of the Machines
+Version 5.79
+2023/03/19
+Updated database with new cards
+Adding new preset for TopDecked
+Version 5.78
+2023/03/04
+Updated database with new cards
+Renaming "Don't scan promos" to "Filter out online/alt/promos"
+Fix card swiping when tapping an entry on the main screen search result
+Version 5.77
+2023/02/15
+Fix recognition
+Version 5.76
+2023/02/11
+Fix Moxfield and TCGplayer CSV export presets
+Fix 3 dots button on lists and cards not responsive with scrollbar visible
+Fix not being able to import dlens file
+Version 5.75
+2023/02/10
+New preset for Card Conduit
+Update database and fix inconsistent etched foils
+Fix issue Downloading CSV files
+Version 5.73 - 5.74
+2023/01/29
+Phyrexia: All Will be One
+Display collector's number on enlarged card image
+New CSV column for MKM product ID
+New preset for TCGplayer Direct
+Fix scroll is too small in large lists
+Fix sorting number when changing collector's number
+Fix naming inconsistencies with Megatron // Blightsteel Colossus and other double sided cards
+Fix potential crash when creating backup files
+Version 5.72
+2022/12/24
+Adding some missing cards
+New sort option by price variation %
+New [NUMBER] option for URL shortcut
+[EDITION_CODE] URL shortcut is now lowercase
+Version 5.71
+2022/12/11
+Dominaria Remastered
+Fix more set symbol
+Version 5.70
+2022/12/04
+New option to export create date
+Fix Jumpstart recognition
+Fix BRR set symbol
+Version 5.69
+2022/11/30
+New options to export edition code as uppercase
+Version 5.68
+2022/11/27
+Fixing various database issues
+Version 5.66 - 5.67
+2022/11/13
+Adding missing BRO cards
+Using set language, condition, foil in manual added cards in scanner screen
+Fixed rotating screen resets language, condition, foil in scanner screen
+Version 5.64 - 5.65
+2022/11/05
+The Brothers' War
+Fixed duplicated etched foil entries
+Version 5.63
+2022/10/22
+Fix missing non-etched foils in MH1 and MH2 (still some duplicated entries, working on a fix)
+Version 5.61 - 5.62
+2022/10/16
+Fix exporting CSVs in Android 10 or lower
+Escape '_' to allow adding Unfinity cards
+Version 5.58 - 5.60
+2022/10/07
+Some more surge foils from 40k
+Fix importing large backup files
+Version 5.57
+2022/10/07
+Fix etched foils showing twice as card entries
+Fix many pricing issues, mainly on MKM
+Version 5.56
+2022/09/18
+Warhammer 40k
+Adding set symbol to enlarged card view
+Version 5.55
+2022/09/09
+Updated database with some missing cards
+Fix importing collector's number
+Version 5.50 - 5.54
+2022/08/22 - 2022/08/26
+Updated database with some missing cards
+Fix copying cards doesn't copy foil status
+Fix colorless incorrect grouping by color
+Version 5.49
+2022/07/12
+Fix crash when opening recognition
+Version 5.46 - 5.48
+2022/07/11
+Updating database with more cards
+Adding a card in "Maybe" that's already in "Main" or "Side" will make the title red (can
+                use to verify
+                a deck)
+Version 5.45
+2022/06/28
+Double Masters
+New option to show list names when grouping by "owned"/"being used"
+Version 5.44
+2022/06/12
+Adding option to change language and condition from 3 dots card menu
+Updated database with latest scryfall data
+Fix bug restoring old backup files
+Version 5.43
+2022/05/01
+Commander Legends: Battle for Baldur's Gate cards
+Version 5.42
+2022/05/01
+New column in export for Frame Type (regular, extended, borderless, showcase)
+New Capenna promo cards
+Some other missing cards
+Version 5.41
+2022/05/01
+New column in export for Reserved List cards
+Increased free limit for exporting to <= 105
+Added preset for UrzaGatherer
+Added more fields to Moxfield deck export
+New Capenna Gilded Foils not scanned by default
+Version 5.40
+2022/04/24
+New Capenna - Commander
+New Capenna - Art
+Version 5.39
+2022/04/17
+Streets of New Capenna
+Version 5.38
+2022/04/06
+Update database with Secret Lair cards
+Fix can't write file when attempting to generate CSV files
+Version 5.37
+2022/03/23
+Update database with NEO Art Cards
+Changed link for subscription to Google's form to cancel subscriptions
+Version 5.36
+2022/03/13
+Update database with NEO Tokens and promos
+Fix "can't access local files" when trying to download CSV files
+Fix some MKM pricing
+Version 5.35
+2022/02/25
+Update database with NEO Tokens and promos
+Update NEO set symbol
+Fix copying cards not copying foil status
+Version 5.34
+2022/02/05
+Update database with fixes to NEO and adding NEO Commander Precons
+Version 5.33
+2022/02/05
+Update database with NEO
+Adding missing etched Signet SLD
+Version 5.32
+2022/01/25
+List filter now can filter by legality
+Reverted displaying list names when "grouping/sorting" by "Owned"/"Being used". The
+                database structure is not prepared to do this efficiently
+Fix app not scanning A variants in Alliances
+Fix Moxfield export Edition field
+Version 5.31
+2022/01/04
+Fix potential "Can't connect with Google Play"
+Version 5.29 - 5.30
+2021/12/31 - 2022/01/02
+Fix slowdown
+Version 5.28
+2021/12/31
+Updated database (hopefully all etched from MH2 are here now)
+New presets for Moxfield deck and collection
+Fix minimum price with foreign currency
+Version 5.27
+2021/12/19
+Updated database
+You can now search UBW as color in advanced search
+Fix Unstable cards with same name but wrong rules text
+Version 5.26
+2021/11/21
+Updated database
+Fix Card Kingdom buylist links
+Fix creating CSV file in the Downloads folder
+Version 5.25
+2021/11/21
+New option to add a cooldown time between scanned cards
++ button creates a copy rather than increment quantity
+Move/copy shortcut in WANTs toolbar moves/copy to LISTs, DECKs or WANTs rather than only
+                LISTs
+Fix MKM pricing for Secret Lair and Zendikar Rising Commander
+Fix images being added to backup files even if "don't keep images" is unchecked
+Fix recognizing a bunch of random cards in some specific situations
+Version 5.24
+2021/11/12
+Adding some missing cards from Innistrad: Crimson Vow
+Fix not being able to manually add digital only cards
+Version 5.23
+2021/11/07
+Innistrad: Crimson Vow
+Fix moving cards between Main, Side and Maybe board
+Version 5.22
+2021/10/31
+Adding some missing cards like MID art cards and promos
+Fix export of double faced cards being only "front" rather than "front // back"
+Fix crash when creating backup file (attempt 3)
+Version 5.21
+2021/10/26
+Fix crash when creating backup file (attempt 2)
+Version 5.20
+2021/10/23
+Updated database
+Fixed snow symbol display
+Fixed untap symbol search
+Fix crash when creating backup file
+Version 5.19
+2021/09/26
+Modern Horizons 2 Etched Foil
+Hypergeometric information in the statistics window
+Select cards to display expected number of copies probability of drawing at least one of
+                these in the opening hand (
+demo
+)
+"Add Cards from Edition" only includes front facing card now
+Version 5.18
+2021/09/17
+Adding missing Innistrad: Midnight Hunt cards
+Small bug fixes
+Version 5.17
+2021/09/13
+Fix download images in bulk in the list menu
+Fix copy card from enlarged card view
+Fix scanning crash
+Version 5.15/5.16
+2021/09/12
+Attempt at fixing scanning crash
+Version 5.14
+2021/09/11
+Innistrad: Midnight Hunt
+Improved scanning speed
+Fix scanning crash
+Fix flipping double faced card to wrong version
+Version 5.11/5.12/5.13
+2021/09/07
+Bug fixes from 5.10
+Version 5.10
+2021/09/07
+Database structure is optimize for more cards (can handle 5x more cards gracefully).
+New option to optimize database in the app's Settings. If you're updating the app, you
+                may want to run this. Create a backup before you optimize your database.
+Version 5.09
+2021/08/29
+Rin and Seri can manually be added to a list
+Prefer not to use promos when importing text
+Fix infinite loading with Delver accounts
+Version 5.08
+2021/08/22
+New option to rename deck when importing text
+Foil/non-foil graph on enlarged card view shows only one curve now (prevent one curve
+                from overwhelming the other)
+Fix startup slowdown (again)
+Version 5.07
+2021/08/04
+Adding missing promos from Adventures in the Forgotten Realms
+Adding Jumpstart: Historic Horizons
+Fix startup slowdown
+Delver and Dropbox auto-backup should happen more often now
+Version 5.06
+2021/08/01
+Updating database with a few more cards
+Group by collector's number groups by edition first
+Revert last changes made on the recognition. Should be slightly slower but should fix
+                crashes.
+Version 5.05
+2021/07/25
+Updating database with missing cards
+Fix sort by List/Deck/Wants
+Version 5.04
+2021/07/12
+Prevent scanning art promos unless "don't scan promos" is not checked
+Fixed "VintageVintage" restricted text
+Remove text suggestion when confirming password when creating a Delver account
+Fix bug importing very old backup files
+Version 5.03
+2021/07/11
+Adventures in the Forgotten Realms cards
+Sort/Group by artist
+Enchantment/Artifact lands sorted/grouped as lands
+Version 5.02
+2021/06/26
+Fixed bug when confirming password on Delver account
+Version 5.01
+2021/06/24
+Fix open file in "Import text"
+Fix "Deckbox CSV - notradelist"
+Version 5.00
+2021/06/12
+Creating backups for Delver accounts on startup
+Fix type and text for cards missing them
+Version 4.99
+2021/06/06
+Modern Horizons 2 (missing promos)
+Fixed MKM pricing
+Fixed bug when importing text files would import just partially
+Updated billing library (attempt to fix can't connect with Google Play messages)
+Version 4.97 - 4.98
+2021/05/30
+New option not to group cards
+Separated order ascending/descending on group and sort
+Fix Kaldheim MDFCs
+Version 4.94 - 4.96
+2021/05/19
+Fix wrong data like CMC on some cards
+Fix slow main screen
+Fix crashes
+Version 4.93
+2021/05/16
+Updated database with Strixhaven (Mystical Archive etched foils have collector's number
+                with an "e")
+Attempt to fix some crashes
+Version 4.92
+2021/05/09
+Separate options to group and sort by
+Filter by rarity on the list "filter|manual add" bar
+Shortcut button for deck notes along the bottom
+Version 4.89 - 4.91
+2021/04/24
+Added breakdown of mana cost by mana value in the statistics page
+Fixed bug where links couldn't be opened
+Version 4.88
+2021/04/23
+MKM prices back but some prices will be missing
+A few promos added to the app
+Version 4.87
+2021/04/18
+MKM prices back but with a note that is outdated
+Version 4.83 - 4.86 (several bug fixes here :])
+2021/04/12
+Prices displayed on card headers
+New option to ignore prices less than X
+New option to ignore background images in lists
+MTGO set code now available in CSVs (updated MTGGoldfish preset)
+Fixed language, condition, tags not in copied cards
+Removed MKM prices until MKM releases the API again
+Version 4.82
+2021/03/25
+Fixed recognition being stuck every once in a while in some devices
+Version 4.81
+2021/03/12
+Time Spiral Remastered
+Fixed EchoMTG preset
+Fixed some MKM prices no KHM and CMR
+Fixed bug with Delver account
+Version 4.80
+2021/03/06
+Update database with promos and some TSR cards
+Fixed CardMarket pricing
+Fixed merging foil cards
+Fixed LigaMagic preset
+Version 4.79
+2021/02/01
+"Acquired Price" field available in export
+Fixed potential crash when moving collection from old to new app
+Version 4.78
+2021/01/31
+Updated with Scryfall as of 31/Jan/2021
+Confirmation dialog when downloading images on card view
+Prevent Android from deleting a downloaded backup file when Delver is deleted
+Sharing CSVs and dlens files will always ask for app to open now
+Recognition now handles corner case when scanning 2 cards with the same name
+Reduced probability that the app will scan "Plains" since it's a common false positive
+Fixed crash when copy notification is empty and potential crash when updating prices
+Fixed issues with price stability for MKM Trend
+Version 4.77
+2021/01/21
+Kaldheim
+Fixed links to Google Play again
+Version 4.76
+2021/01/17
+Fixed links to Google Play
+Version 4.75
+2021/01/17
+New field to export edition names between parenthesis
+Dark mode applies to price graph in individual cards
+Option and dialog to transfer collection from old to new app
+Version 4.74
+2020/12/27
+Fix bug with headers on sort by "Creation Date"
+Version 4.73
+2020/12/27
+Fix another bug with "auto-want"
+Version 4.71 - 4.72
+2020/12/24
+Sort by "insertion" renamed to sort by "creation"
+Fix bug with "auto-want" and "consider decks"
+Fixed small crash bugs
+Version 4.69
+2020/12/05
+Display card number on scanning screen
+Display entire card when changing edition or collector's number
+Center art crop on list background
+Update database with Super Drop Secret Lair (Dec/2020)
+Updated libraries
+We collect usage data to improve the efficiency, security and usability of Delver Lens. No personal data
+        is processed. We process the data anonymously or using pseudonyms. Whenever you complete actions using
+        Delver Lens, e.g. scan cards and/or fetch prices, data processing may take place. Information regarding
+        data collection and usage may be provided via email (contact@delverlab.com).
+When you create a Delver account, your email will be collected in order to create your account. Your
+        collection and email will be stored on Amazon servers in the US. Your email and collection are not used
+        to identify any other data collected. Your email and collection may be visible by third-party
+        contractors working on our behalf. You can ask us to delete your data from our servers by contacting us
+        at contact@delverlab.com.
+Delver Lens uses Firebase Analytics, an analytics service provided by Google, Inc. The information about
+        your use of Delver Lens (including your IP address) will be transmitted to and stored by Google on
+        servers in the United States. The IP address will be truncated before transmission. On our behalf,
+        Google will use this information for the purpose of evaluating your use of the app, compiling reports on
+        app activity and providing other services relating to app activity and internet activity in connection
+        with the use of the app. Google will not associate your IP address with any other data held by Google.
+Loading...

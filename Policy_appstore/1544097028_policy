@@ -1,0 +1,36 @@
+github
+We're sorry but this website doesn't work properly without JavaScript enabled. Please enable it to continue.
+menu button
+phoenix wallet logo
+Phoenix
+Home
+Download
+FAQ
+Support
+Go to GitHub
+GitHub
+Privacy
+ACINQ
+ACINQ is a French company registered with the Commission Nationale de l’Informatique et des Libertés (CNIL, French data protection authority).
+Lightning privacy
+Phoenix operates on the Lightning Network using Lightning channels connected to a node ("Peer") run by ACINQ, the developers of the wallet.
+Payments on the Lightning Network are not publicly broadcast. Instead, they are encrypted and routed from the payer to the payee via intermediate nodes, using a tor-like onion routing protocol.
+However, for convenience, your Phoenix application delegates the calculation of payment routes to the ACINQ node. In the current version of the wallet, this node will know the final recipient of the payment, and the amount sent. Work is being done to remove that limitation and have better privacy.
+On-chain privacy
+Phoenix can send or receive on-chain payments. These on-chain payments are broadcast to, and visible on the public Bitcoin blockchain.
+Electrum
+The wallet connects to Electrum servers to monitor the blockchain. You can instruct the app to connect only to a specific Electrum server, ideally one you manage yourself.
+Tor
+The wallet can use Tor when connecting to the ACINQ node and the Electrum server, which hides your IP to these servers.
+Third party services
+The wallet will fetch fiat/Bitcoin exchange rates from various third-party services. It will also connect to third-party APIs to get an estimation of the fees on the Bitcoin blockchain.
+Application permissions
+Camera access
+This allows scanning a Bitcoin adress or a Lightning payment request.
+Network access
+Network access is needed to:
+connect to the Bitcoin network (through Electrum servers);
+fetch data such as the current bitcoin price from various public APIs (Coindesk, Bitgo...) which are not operated by ACINQ;
+connect to the Lightning network.
+Notifications
+The application will sometimes receive push notifications, for example when payments are coming to you and the app is not on. The Apple Push Notification service and the Google Firebase Cloud Messaging service are used for this purpose, if your device supports it.

@@ -1,0 +1,28 @@
+Last update: 04.2021
+This privacy policy applies to your use of this website and the Call Filter app (Android and iOS)
+Personal data
+The
+Call Filter
+application does not request any personal data from the user, not does it receive personal data by technical means or store it. Moreover, the application does not receive, use or store any phone identifiers, such as the SIM card numbers, IMEI and MAC addresses, or any other IDs. This data is not required for the application to function.
+Android System Permissions
+The Call Filter
+is designed to request and use the minimal number of permissions. The application requires only 1 mandatory permission and 1 recommended permission to be fully operational.
+On
+Android versions 7, 8 and 9
+you need the Default Call App permission. It allows the
+Call Filter
+to get the incoming call number and check it in the unwanted numbers database, in the black and white lists. The
+Call Filter
+will not replace your standard call application. There will be no interface changes. The
+Call Filter
+, as well as other applications with the similar functionality, will not work without this permission.
+For
+Android 10 and above
+, you need the Default Spam Blocker App permission.
+The
+Read Contacts
+permission is not required for the application to work. However, this permission will be requested if the user enables the Ignore contacts option in the settings. In this case, the
+Call Filter
+will access your contacts only when there is an incoming call and check whether the incoming call number is in the contacts. The application does not interact with your contacts in any other way. We recommend that you enable this option, as it will allow the
+Call Filter
+to work more efficiently.

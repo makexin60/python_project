@@ -1,0 +1,507 @@
+Plain Org
+4.9 / 5
+★★★★★
+Peel the Kid:
+"The pleasure of Org on iOS" - Poland
+Raam Dev:
+"The best for Org-mode on iOS" - USA
+mshkrebtan:
+"Magnificent" - Germany
+Bring org to your iPhone
+built with 💙 by
+me
+- powered by
+org 🦄
+Why?
+Org mode
+on
+Emacs
+is wonderful. I'm a big fan and use it regularly on my laptop. As an iPhone user, I wanted
+quick access to org tasks while on the go
+... so
+I built
+Plain Org
+for iOS.
+News
+Jul 16th, 2023 - v1.7 Released
+Sep 14th, 2022 - v1.5 Released
+Apr 24th, 2022 - v1.4 Released (see
+rundown
+)
+Apr 15th, 2022 - v1.3 Released (see
+rundown
+)
+Mar 27th, 2022 - v1.2.1 Released (see
+rundown
+)
+Feb 9th, 2022 - v1.2 Released (see
+rundown
+)
+Dec 12th, 2021 - v1.1 Released (see
+rundown
+) 🎄☃️
+Nov 10th, 2021 - v1.0 Released
+v1.4 Features
+Org is a wonderfully rich markup language, so please check if your favorite feature is supported (it may not be):
+View and edit your org mode tasks while on the go.
+Beautifully rendered TODOs, links, tables, blocks, checkboxes, lists, drawers...
+Sync your org files using your favorite cloud provider.
+Control your display between regular and compact mode.
+Optimize wrapping using paragraph fill.
+Regroup your tasks so active ones bubble up.
+Toggle visibility for scheduling, tags, and stars.
+Create new files.
+Outline-style editing with toolbar
+Keywords
+Indent
+Priority
+Tags
+Formatting: bold, italic, underline, strikethrough, verbatim, and code.
+Lists and checkboxes
+Add links from Safari via share extension.
+Add new tasks via Spotlight.
+Reorder headings via drag/drop.
+Checkboxes
+Interactive toggling.
+Quickly reset multiple checkboxes.
+Open local links (including id links).
+Show inline images.
+File-local keywords and visibility.
+Filter open/closed tasks.
+Filter by keyword, tag, and priority.
+High fidelity org roundtripping.
+Show/hide stars.
+Edit raw text.
+Light/dark mode.
+Show inline images.
+Open either .org .org_archive or .txt files.
+Toggle recurring tasks.
+Log state transitions.
+Feature requests
+Org has a
+rich feature set
+. Plain Org is young and catching up. It's only me behind it, so I have to prioritize whatever is built next. If Plain Org v1 is missing a feature, file a request over at
+r/plainorg
+or upvote an existing one. You can also send feedback via Plain Org itself.
+What is org?
+Org
+is a powerful plain text markup, somewhat similar to markdown. It's got
+lots of features
+. Being pure text, you can view and edit using your favourite text editor (Emacs, Vim, VSCode, etc.) while you're at your computer.
+Here's a sample snippet:
+#+TITLE: My iPhone stuff
+* Inbox
+** DONE [#A] Publish Plain Org to App Store                        :plainorg:
+** NEXT [#B] Make [[https://xenodium.com/oatmeal-cookie-recipe][oatmeal cookies]] :cooking:
+[[file:oats.jpg]]
+** TODO [#A] Document unicorn sighting                       :research:truth:
+- [X] Talk to eyewitness.
+- [X] /Flesh/ _out_ ~evidence~ =table=
+|-----------+----------------+----------|
+| last seen | location       | country  |
+|-----------+----------------+----------|
+|      2017 | The Royal Mint | Scotland |
+|      1991 | Harz Mountains | Germany  |
+|-----------+----------------+----------|
+Syncing your data
+Plain Org syncs data using iOS
+file-providing extensions
+. If your favorite cloud service offers an iOS extension, Plain Org should be able to open, edit, and sync your data.
+Your mileage may vary creating new files or opening local links. These may not be possible using your provider's extension.
+Cloud provider support
+View file
+Edit file
+New file
+Open local links
+Dropbox
+○
+○
+○
+iCloud
+○
+○
+○
+○
+Google Drive
+○
+○
+Syncthing / Möbius Sync
+○
+○
+○
+○
+Working Copy / Git
+○
+○
+○
+○
+Enabling cloud syncing
+See iOS's
+using third-party apps in Files
+to enable syncing data with your cloud service.
+Paid app
+Plain Org is a paid app. At present, it is not
+FOSS
+. This may change in the future, but it is not something I can currently offer. I understand this may not be ideal for all, but hope there's partial relief in implementing a well-known text markup (ie. no vendor lock-in). Please help support its development if you can. Ping me if you need a free copy. Email me at "plainorg" + "@" + "xenodium.com".
+
+      https://www.gnu.org/philosophy/floss-and-foss.en.html
+Beta testing
+Please help support Plain Org by purchasing from the App Store. If you're feeling adventurous and have tolerance for a few rough edges, you can also get access to early beta builds via TestFlight. I'll need an email address to send you an invite. Ping me on
+reddit
+,
+twitter
+, or email me at "plainorg" + "@" + "xenodium.com".
+FAQ
+Can I use my own custom keywords?
+Yes. Plain Org recognizes
+per-file keywords
+. That is, in the org file itself, you can specify both active and inactive keywords. You can the following to an existing org file:
+#+TODO: TODO STARTED BLOCKED | DONE CANCELLED
+Note:
+Keywords on the left hand side of the "|" are considered active while those on the right are inactive.
+How do I sync my org files?
+All depends on your preferred provider. See
+syncing your data
+.
+What kind of links are supported?
+http(s):// links
+https://plainorg.com
+http://plainorg.com
+[[https://plainorg.com][Plain Org]]
+id: links (across files)
+To resolve id links, Plain Org needs granted access to a directory. When an id link is opened, the app searches the owning directory for other org files that may contain the id that's linked to. The following snippet shows a sample snippet:
+Note:
+Not all syncing providers support granting access to a directory. Without this, Plain Org is unable to resolve id links.
+Documents/bar.org
+:PROPERTIES:
+:ID:       90daa47c-3d6b-4d94-bf78-18d776c431c1
+:CREATED:  [2021-09-28 Tue 09:02]
+:END:
+#+TITLE: Bar
+* TODO Review [[id:e4453d79-227f-4a78-bf04-9bdff5e4675f][Foo]]
+Documents/foo.org
+:PROPERTIES:
+:ID:       e4453d79-227f-4a78-bf04-9bdff5e4675f
+:CREATED:  [2021-09-28 Tue 09:02]
+:END:
+#+TITLE: Foo
+* Some heading
+* Another heading
+file: links
+To resolve file links, Plain Org needs granted access to a directory. When an file link is opened, the app tries to access the referenced file within the owning directory. If the linked file is an image and is accessible, Plain Org renders it inline. For others, like pdfs, they are opened in a modal screen.
+Note:
+Not all syncing providers support granting access to a directory. Without this, Plain Org is unable to resolve file links.
+File structure
+Documents/report.org
+Documents/subdir/image.png
+Documents/subdir/foo.org
+Documents/subdir/document.pdf
+Documents/report.org
+[[file:subdir/foo.org][Foo]]
+[[file:subdir/image.png]]
+[[file:subdir/document.pdf]]
+Note:
+Relative link resolution requires the org file's owning directory (i.e. Documents) to be a parent of the linked file.
+Unsupported
+[[file:../Desktop/foo.org][Foo]]
+App Store reviews
+★★★★★
+Irrawaddy1
+23/12/21
+Australia
+An essential and beautiful app for org mode on the go
+This app has been a game-changer for me. I use it to write and edit todo lists, notes and journal when I’m away from my computer and the app seamlessly syncs these with files and backups through the cloud (I use iCloud). It is also fantastic for inserting links to items (like webpages, snippets of code) on my iPhone.
+
+I use emacs org mode for almost everything I do: keeping todo lists, plans, notes from meetings or research ideas, drafting papers, preparing presentations. (I transitioned to org mode after trying many other “productivity” programs, because none of them gave me the interface I needed between all of these functions.)
+
+Until Plainorg came along, I used org mode and accessed my org files only when I was sitting in front of a computer. None of the other mobile options gave me an easy sync with the cloud. (Maybe I’m just not tech-savvy enough!) I think I was also turned off by the other app’s clunky interfaces on an iPhone. This meant I carried around paper notebooks to jot down items, or ideas, as they occurred to me when away from a laptop or desktop. But, this was not ideal – I missed nuances: todo actions that would pop up when I’m writing notes, or detailed URLs (when I was too lazy to collect them under some easy-to-find-again bookmark).
+
+Plainorg is the first app I have found which works on an iPhone and it works brilliantly! I've reached out to the developer on a few small issues and he was very quick to respond. I recommend it very highly to anyone who is using org mode.
+
+The beautiful interface is incentive enough to start using org mode I think, if you’re not using it already.
+★★★★★
+SB sitting on bech
+15/02/22
+Canada
+Simple but powerful
+One of my favorite and most useful app on this store. It probably still needs some features but it does an important job in a simple good way.
+★★★★★
+jingmila
+01/03/22
+China
+代码高亮什么时候有啊
+代码高亮什么时候有啊
+★★★★★
+publiusnaso
+22/04/22
+Germany
+Great tool
+This is the implementation of org-mode for iOS I always wanted. It works, has a simple but functional interface and helps me keeping my org-files in check on my smart phone.
+★★★★★
+weissbai
+17/01/22
+Germany
+A pretty good org-mode App!
+Compare to another org-mode Apps for iOS-device, it supports many unique features like displaying inline images or rendering table perfectly even with full-width characters(like Chinese characters).
+And the most important: the author is very responsive so once you have any idea or advice, just talk to him!
+★★★★★
+eeee2018
+01/01/21
+Germany
+Great Org App
+Thank you for providing a plain text organizer. The author is very responsive and improves the app continually.
+
+ It provides a very good raw edit feature. Great for tasks.
+You can check the developer website for details.
+
+Agenda feature is missing so far, but the developer is constantly adding features. We are all invited to ask. :) That is wonderful.
+★★★★★
+mshkrebtan
+25/12/21
+Germany
+Magnificent
+The Org Mode app we needed so much!
+
+Indeed, the interface is plain and it is so easy to use. Moreover, the app supports a rich set of Org Mode features, it is magnificent!
+★★★★★
+nielsk
+24/11/21
+Germany
+Great org-mode-client
+Great org-mode-client that works better than beorg for notes. And it works together with WorkingCopy, so that I can sync my org-files with git. The developer is also very responsive and listens to his users.
+★★★★★
+lycopodiopsida
+23/11/21
+Germany
+A different take on org tables editing!
+Plain org is an org files editor, allowing to edit org tables, view images and so on. Also, the UX is quite good. I hope that one day the agenda functionality will also be added, but it is also useful as it is now.
+★★★☆☆
+Dooley2800
+24/06/22
+Great Britain
+A fine editor
+It does Org mode editing really well on a single file. However relying on the Files app to handle browsing and searching is a really poor experience. It finds nothing, even files by name. With a large collection this app doesn’t really work (at least with working copy).
+★★★★★
+Jason Braganza
+15/09/22
+India
+Absolutely wonderful companion app to Org Mode
+If what you want is something to complement your Org Mode needs, then this is the app you want
+
+Simple yet pretty!
+★★★☆☆
+__sptr__
+21/06/22
+Ireland
+Bugs + uncomfortable ui
+1. Dropbox files opening doesn't work sometimes
+2. Adding subitem isn't working
+3. Reordering expands all suites so it's very difficult to move items to the end of the file
+4. No syntax highlight in text edit mode
+★★★★★
+Constpetrov
+30/04/22
+Netherlands
+Easy way to get your lists on the go
+This app provides a possibility to create and view org mode lists while away from your pc.
+It may not have all the org related features now, but it moves fast and the developer is very approachable.
+★★★★★
+manuelgalup
+14/05/22
+Peru
+Excellent
+Excellent org mode app. Just what I was looking for
+★★★★★
+azmelanar
+10/02/22
+Poland
+awesome
+awesome! great app
+★★★★★
+Peel the Kid
+13/01/22
+Poland
+The pleasure of Org on iOS
+I've gone through each and every org-mode supporting (and "supporting") app that works on iPhone. Native, PWA, you name it. They all fell short with either being too focused on tasks or too clunky to work with. PlainOrg is a pleasure to work with. Not overpacked w features, not lacking anything of substance. Love it. Thanks a bunch for all the efforts u/xenodium!
+★★★★★
+ia_androsov
+03/04/22
+Russia
+Request
+Please add the ability to hide the top panel of the iPhone (fullscreen)
+★★★★★
+Cnoceda
+20/08/22
+Spain
+Lo mejor en iOS para ficheros Org
+Puedo leer y editar los ficheros org sin problemas. Faltan cosas por pulir, pero de momento me permite meter en workflow el iPad sin problemas.
+★★★★★
+monotux
+29/03/22
+Sweden
+Äntligen orgmode i mobilen!
+Helt fantastiskt att äntligen ha orgmode i telefonen! Går även utmärkt att använda på datorn parallellt, vilket gör det hela ännu bättre.
+★★★★★
+Fi5herLi
+17/08/22
+Taiwan
+Agenda function plz
+Like the title. I really need the org agenda function for this app.
+★★★★★
+Дощик
+13/05/22
+Ukraine
+Best iOS app for org mode
+First iOS application that is good for editing and READING org mode files. Developer is very helpful and already implemented so many feature requests I've sent that I simply run out of requests. Worth every cent.
+★★★★★
+congas69
+21/09/22
+United States
+Simple and functional
+Perfect for taking your todo file on the road. Just what I need as someone who prefers to do most of the work from a PC and carry the results in my pocket. Dropbox integration works well.
+★★★☆☆
+Carl in Oakland
+07/08/22
+United States
+Nice but needs work
+- Editing on iPad Pro doesn’t work
+- Can't copy and paste text from
+other sources.
+- Needs a tutorial
+- Inconsistent interface. (Edit and Add
+functions need to indicate WHAT
+they're editing or adding)
+- Good start, but not intuitive for an
+org mode novice
+★★★★★
+/MyTwoCents
+16/07/22
+United States
+Better than Beorg
+For my purposes, this is much better than the competitors in the “org-mode” editor space.  I use NextCloud to store my files, and since the NextCloud app on iPad/iPhone interfaces with the native Files app, I can access all my org files from NextCloud in this app!! So happy to have found this!
+★★★★★
+nnnosh
+19/06/22
+United States
+Fantastic app!
+This is great. Can't wait to use it more.
+
+I'm incredibly excited for Agenda mode!
+★★★★★
+The lilt train who could
+06/06/22
+United States
+This is exactly what I needed!
+I have started moving away from Apple notes and using org mode for everything again. But I needed a way to edit them from my phone. This works perfectly. Although having git tracking would be a cool future feature. Yes I know I am spoiled by magit.
+★★★★★
+鐘雲龍
+05/06/22
+United States
+Continuously Improving
+App is improving all the time. Keep it up!! It will soon be truly great.
+★★☆☆☆
+lesliesrussell
+25/05/22
+United States
+No Dropbox?
+No Dropbox connectivity? None that I can finger out. Not useful for my workflow
+★★★★★
+b0v1n
+22/04/22
+United States
+Fantastic
+Perfect app. I pair it with Working Copy and keep my Org notes in a GitHub private repo and this app works flawlessly. Love it!
+★★★★★
+EarlCecil
+21/04/22
+United States
+Finally
+Finally an org which I will use and makes sync just work with little overhead.
+★★★★★
+lhindir
+03/04/22
+United States
+A breath of fresh air
+Plain Org is the first time I’ve been genuinely excited about any iOS software in a while. The commitment to an iOS-native feel is greatly appreciated, and the developer has been pretty successful in sticking to it despite the complexity inherent to Org. Keeping to best practices also makes for a strong focus on reading and writing Org rather than having to manage externalities such as file backend implementations. It keeps the app small and free of unnecessary feature duplication. Combined with Working Copy, it’s an unmatched task management experience on iOS, and iCloud works too if you’re not much of a Git guru.
+
+The developer is very active on the app’s community page and is frequently testing new features. He’s also responded to every one of my emails. It won’t be long before I uninstall Beorg, I think 🤫.
+
+Worth every penny, highly recommend.
+
+Tiny request: it’s time for a proper settings screen. The context menu trees are getting a bit disorienting :)
+★☆☆☆☆
+Dublinus
+27/03/22
+United States
+I lost work to this
+If you type something in and close the keyboard your text disappears. I lost work I spent time on because of this. The app would be nice if it didn't do that but that makes it less than useless for me.
+Developer Response
+29/03/22
+Please get in touch ASAP "plainorg" + "@" + "xenodium.com" or use the feedback menu in the app. This sounds like a bug (I'll need steps to reproduce and fix). Most importantly, there are safeguards to recover local snapshots (if used soon).
+★★★★★
+Gfiz
+15/02/22
+United States
+Loving it!
+This is my go-to for working with org files on my iOS devices. Thank you for building it!
+★★★★★
+comfrey427
+14/02/22
+United States
+Nice
+Keep up the great work
+★★★★★
+jasonmj2
+11/01/22
+United States
+Clean, productive, task management
+Good software gets out of your way and provides clean, clear pathways to accomplish your goals. Plain org does exactly that for task management. It also happens to be compatible with org-mode, which makes it especially useful for Emacs users. Regardless of your org-mode experience level, Plain org presents you with an elegant interface for managing your task list along with the core features org-mode is revered for (statuses, nested tasks, tags, and more).
+★★★★★
+kohl(ed)
+24/12/21
+United States
+great app! talented & responsive developer.
+an excellent app. as elegant as it is pragmatic. very useful. increasing in power with each release. i could easily imagine someone with no experience with emacs using this app, deciding learning to use org-mode on their laptop and a few months later wondering how they used to live without it. kind of like what happened with me.
+★★★★★
+bytedude
+19/12/21
+United States
+gorgeous implementation of org-mode on iOS
+This is a gorgeous implementation of org-mode on iOS. It is rather spartan in functionality and options, which may be a draw for long-time Emacs users used to customizing everything under the sun, but makes org-mode more accessible and user-friendly for everyone else. Even I, the world's best Emacs user, very much appreciate the elegance and cleanness of the interface, and all of the features that the developer chose to implement work really well. I am also impressed by how closely the developer listens to feedback and how quickly changes are implemented. Kudos!
+★★★★★
+mbjonesan
+14/12/21
+United States
+Text based task management
+Recently purchased on a whim as I’ve been looking for a task management solution where I could make heavy use of text but still find it usable and easy to interface with on a phone. It fits the bill so far and I love how responsive the developer is and there commitment to improve it. Looking forward to seeing this app grow/mature.
+★★★★☆
+vrinek
+14/12/21
+United States
+I love the streamlined design
+I’m following GTD on org files and Plain Org is the best app I’ve found for capturing. And it can sync with anything that exposes a files API (eg my NextCloud).
+
+Once tags filtering is implemented, I’ll be able to use it for much more of my GTD workflow.
+★★★★★
+rlridenour
+27/11/21
+United States
+Excellent app for editing Org-mode files
+I’ve been testing this app for a few months now, and have been extremely impressed with how much the developer has worked to quickly add new features. It has the best UI for working with Org-mode agenda files that I’ve seen outside of Emacs itself. As soon as I saw that it was available on the App Store, I deleted my test versions and gladly paid for it. I’m grateful for the opportunity to send $8.99 to someone who has worked extremely hard to produce something I’ve needed for years.
+★★★★★
+Zucosane
+23/11/21
+United States
+Beautifully implemented Org Mode app
+The app is gorgeous and responsive, exactly what I need to interact with my org files on mobile. The developer is great and is consistently implementing new features, I’m always looking forward to updates.
+★★★★★
+Raam Dev
+14/11/21
+United States
+The best for Org-mode on iOS
+I've been using Org-mode for more than a decade and I've tried all kinds of other iOS apps in an attempt to make my Org files accessible on my iPhone / iPad. This is the first app that does this beautifully and in a way that feels intuitive. The developer is very friendly, responsive, and quick to implement fixes and I look forward to new releases!
+Privacy policy
+No personal data is sent to any server, as there is no server component to this app. There are neither third party server integrations, accounts, analytics, advertising, nor hidden trackers in this app. All your data is kept on your iPhone, unless you choose a cloud provider to sync or store your data. See your cloud provider's privacy policy for details on how they may handle it.
+Floral unicorn by
+Gordon Dylan Johnson
+.

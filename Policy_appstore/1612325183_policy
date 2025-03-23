@@ -1,0 +1,24 @@
+Privacy Policy
+This privacy policy is applies to both the AppDab app and the AppDab website.
+Information collected
+The website has no telemetry or tracking, so no user identifiable information is collected.
+The app uses telemetry and crash reporting with the privacy concius services, TelemetryDeck and Sentry. All data
+        the user enters in the app is stored locally on the device or sent to Apple's services to update items on the
+        user's developer account at Apple.
+Subscription information
+The app uses
+RevenueCat
+to facilitate the in-app
+        purchases and handling subscriptions. When a subscription is started, RevenueCat is notified. The information
+        sent to RevenueCat is anonymous.
+Security
+In the app some security measures has been implemented to protect the user's information. For the app to
+        communicate with Apple's services an API Key is needed. The API Key, generated on App Store Connect by the user,
+        is stored in the Keychain of the device runnning the app. The API Key can only be read from the Keychain by the
+        AppDab app.
+Your Consent
+By using our site or apps, you consent to our privacy policy.
+Questions
+If you have questions regarding the Privacy Policy, you may email
+privacy@appdab.app
+.

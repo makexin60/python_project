@@ -1,0 +1,14 @@
+Privacy Policy
+Termux does not record any personal information and only requests permissions required for termux and its plugin apps to function properly, without sending any data over the network in the background automatically.
+The
+primary packages repository
+which serves our packages is hosted by
+Hetzner
+and it records a log of remote IP, access time and what is being accessed. This information is only stored for troubleshooting purposes and is not shared with any third parties. You can also view the Hetzner's privacy policy
+here
+.
+The
+CloudFlare CDN endpoint
+for the primary packages repository and
+other termux mirrors
+hosted by the community and maintainers may have different policies.

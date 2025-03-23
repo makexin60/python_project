@@ -1,0 +1,231 @@
+Table of content
+Screenshots
+Release History
+3.0.0
+Search Syntax
+FAQ
+How does it work?
+Do I need to run ShellHistory in foreground to synchronize via iCloud?
+I configured everything, but I don’t see any history in the app?
+Can I search from terminal?
+I see a
+sudo
+command in your prompt integration. Is it safe?
+How large my history can be?
+Is my information safe?
+Does ShellHistory capture remote sessions (ssh)?
+Is the trial available?
+Difference between App Store and Web version
+Can I transfer the license from the App Store to the Web version?
+Not sure about ShellHistory, could you recommend alternatives?
+How to troubleshoot the error
+shhist could not parse inserted string
+?
+Privacy Policy
+Support
+Screenshots
+ShellHistory
+Notebooks and Statistics
+With the ShellHistory you can easily keep years of shell history, search history using Full Text Search,
+back it up to iCloud, create Notebooks.
+With ShellHistory you can:
+Run full-text search queries over your shell history.
+Extend your shell history by including information about the working directory, session, elapsed time, exit code, host, user, and more.
+Never lose your shell history. Backup and synchronize it between Macs using your private iCloud storage.
+Organize commands in notebooks to easily access the everyday workflow.
+Import existing shell history.
+See a complete terminal session in the order of the commands executed.
+Dark and light mode support.
+Multi-windows, multi-tabs support.
+Release History
+3.0.0
+Statistic view. Allows you to see the top commands you used and the most active dates.
+Redesigned notebooks with more native look for platforms.
+Placeholders in Notebooks.
+Improved iCloud synchronization for notebooks and history.
+Improved security for iCloud containers, storing everything encrypted.
+Compact form for showing history.
+Ability to copy command to clipboard from history with keyboard.
+Support only for macOS Sonoma and up
+(MAS only) iOS and iPadOS build available for viewing history and working with notebooks.
+Search Syntax
+ShellHistory uses SQLite as a storage, and leveraging FTS5 engine for search. You can read more about FTS5 syntax at
+SQLite FTS5 Extension
+There are 4 columns that ShellHistory is using for search:
+cmd
+- the shell command
+pwd
+- the working directory
+user
+- the username
+host
+- the host (useful if you are syncing history between multiple Macs)
+Examples:
+git
+- searching term
+git
+in all the columns
+^git
+- searching term
+git
+in the beginning of the column values
+gi*
+- searching terms that start with
+gi
+in all the columns
+"rm fr"
+- searching two terms that NEAR, search matches
+rm fr
+and
+rm -fR
+, but not
+rm --recursive -fR
+git AND commit
+- search for two terms in the columns, both terms should present
+git OR svn
+- search for two terms in the columns, at least one of the terms should present
+git NOT commit
+- search for term
+git
+but without term
+commit
+svn OR (git NOT commit)
+- use parentless to combine boolean operators
+cmd:git pwd:src
+- specify columns where you want to search for terms
+-pwd: src AND docker
+- exclude column “pwd” from search
+FAQ
+How does it work?
+ShellHistory includes a tiny CLI tool
+shhist
+that integrates with the shell’ prompt and writes the history in the
+database. ShellHistory provides the instructions how to integrate
+shhist
+with
+zsh
+,
+bash
+or
+fish
+. Integration
+does not change or break your custom prompt.
+Do I need to run ShellHistory in foreground to synchronize via iCloud?
+After you enable synchronization with iCloud, ShellHistory starts a tiny Background application, that backups and
+synchronizes history and notebooks in the background. You don’t need to run ShellHistory all the time.
+I configured everything, but I don’t see any history in the app?
+Please double-check that you configured the correct shell in the settings. ShellHistory relies on the shell prompt to
+be able to insert the command in the database. If you are using a custom prompt, you might need to adjust the configuration
+to make sure that the injected command in the prompt from ShellHistory is still there. Try to remove some other
+plugins from your shell configuration to see if it helps. You can also try to “debug” the prompt by inserting
+commands like
+echo "Is It Working?"
+in the prompt configuration. Try to roll back to the plain shell configuration,
+configure ShellHistory and see if that works. And after that, try to add your custom prompt back to see if it breaks it again,
+and you need to reconfigure it.
+Can I search from terminal?
+Absolutely! You can use
+shhist search
+in terminal to find a command you are looking for. That would allow you also
+to integrate with Alfred and similar tools if you need it.
+If you want to open ShellHistory from terminal just use
+shhist search-ui
+.
+I see a
+sudo
+command in your prompt integration. Is it safe?
+The reason why we run
+shhist
+with
+sudo
+is to lower the user back to regular user, if you are in the
+sudo
+session.
+Reason is simple, if you are running commands with
+root
+user we don’t want to break permissions on the ShellHistory
+database.
+How large my history can be?
+At the time when I created ShellHistory I already had close to
+100,000
+commands in my history.
+Is my information safe?
+By default, every shell writes history in the text file under your home directory. ShellHistory does something similar,
+only writes it in a sqlite database. ShellHistory and shhist util are both sandboxed applications, and only have access
+to a small number of data folders, that are available for them.
+If you by accident leaked a password in the history, you can easily find this command and delete it. Similarly, how you
+would do with regular history in the shell you are using.
+You can also configure a regular expression pattern, that can tell Shell History which commands to ignore.
+If you enabled iCloud synchronization, ShellHistory uses your private iCloud database, so only people with access to your
+AppleID will be able to access it.
+Does ShellHistory capture remote sessions (ssh)?
+Not at this moment. It only captures
+ssh
+command itself, but nothing you enter on the remote session. You can always
+use the import command to do it manually, but there is no automatic support for that. I am not planning yet to
+implement support for it.
+Please take a look at the list of alternatives below if this is important for you.
+Is the trial available?
+Yes, you can download the trial version from the website using the link above. The trial version is fully functional
+with alerts and notifications embedded. You can purchase the full version from the App Store or directly from the
+Loshadki Store
+.
+Difference between App Store and Web version
+Purchase of the App Store version includes iOS and iPadOS versions, when they will be published. Otherwise, they are
+identical by the functionality.
+Can I transfer the license from the App Store to the Web version?
+Unfortunately, no. The App Store and Direct versions are separate applications, and there is no way to transfer the license.
+Not sure about ShellHistory, could you recommend alternatives?
+dbhist
+- a shell script that I wrote in 2017 and used since then before I switched to ShellHistory.
+Atuin
+- open source, cli tool.
+iTerm2
+- iTerm2 has shell integration with history
+How to troubleshoot the error
+shhist could not parse inserted string
+?
+shhist
+tries to autodetect the shell based on the
+SHELL
+variable, sometimes it might not be set correctly, if your
+login shell is different, and you launched shell session from terminal. You can run
+shhist insert --help
+and see what
+is set by default for the
+--shell
+.
+One way to fix it, is to use
+chsh
+to actually change your login shell. Another way, you can force and tell
+shhist
+which shell you are using with a switch
+--shell ...
+.
+One more issue could be with the
+history
+built-in command, if that is an alias, it might not behave as expected. You can
+check it with
+type history
+, it should say
+history is a shell builtin
+, if it is something different, please use
+\
+in front of the
+history
+command in your configuration like
+\history
+that will call the built-in command instead of your alias.
+Privacy Policy
+We believe very strongly in our customers right to privacy.
+Our customer records are not for sale or trade, and we will not
+disclose our customer data to any third party except as may be
+required by law.
+Any information that you provide to us in the course of interacting with our
+sales or technical support departments is held in strict confidence.
+This includes your contact information (including, but not limited to your
+email address and phone number), as well as any data that you supply to us in
+the course of a technical support interaction.
+Support
+Please email us any suggestions, ideas, questions or discovered bugs to
+support@loshadki.app

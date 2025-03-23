@@ -1,0 +1,723 @@
+#GoMap!!
+#GoMap!!
+issue tracker
+GitHub Discussions
+Slack
+Go Map!!
+From OpenStreetMap Wiki
+Jump to navigation
+Jump to search
+Purge
+Help
+Go Map!!
+- Other languages
+Afrikaans
+asturianu
+azərbaycanca
+Bahasa Indonesia
+Bahasa Melayu
+bosanski
+brezhoneg
+català
+čeština
+Crnogorski
+dansk
+Deutsch
+eesti
+English
+español
+Esperanto
+euskara
+français
+Frysk
+Gàidhlig
+galego
+hrvatski
+Ido
+interlingua
+íslenska
+italiano
+Kreyòl ayisyen
+kréyòl gwadloupéyen
+kurdî
+latviešu
+Lëtzebuergesch
+lietuvių
+magyar
+Nederlands
+norsk
+norsk nynorsk
+occitan
+polski
+português
+română
+sardu
+shqip
+slovenčina
+slovenščina
+srpski (latinica)
+suomi
+svenska
+Tagalog
+Tiếng Việt
+Türkçe
+Zazaki
+Ελληνικά
+беларуская
+български
+македонски
+монгол
+русский
+српски / srpski
+українська
+հայերեն
+עברית
+العربية
+سرائیکی
+فارسی
+پنجابی
+پښتو
+नेपाली
+मराठी
+हिन्दी
+বাংলা
+ਪੰਜਾਬੀ
+தமிழ்
+മലയാളം
+සිංහල
+ไทย
+မြန်မာဘာသာ
+한국어
+ქართული
+ⵜⴰⵎⴰⵣⵉⵖⵜ
+中文（简体）
+中文（繁體）
+日本語
+粵語
+Other languages...
+Go Map!!
+Author:
+Bryce Cogswell
+License:
+ISC License
+(free of charge)
+Platforms:
+iPhone,  iPad,  macOS, and  visionOS
+Status:
+Active
+Version:
+4.3.0
+(2024-07-23)
+Languages:
+English, Spanish, Simplified Chinese, Traditional Chinese, Croatian, Czech, German, Japanese, Portuguese, Russian, Dutch, Estonian, and French
+Install:
+App Store
+Source code:
+bryceco/GoMap
+GitHub
+Programming language:
+Swift
+Easy to use iOS/iPadOS/macOS/visionOS editor for OSM, OHM, and OGF.
+Features
+Expand
+Feature
+Value
+Map Display
+Display map
+﻿yes
+Map data
+raster;vector
+Source
+online;cache;offline
+Rotate map
+﻿yes
+3D view
+﻿no
+Shows website
+﻿yes
+Shows phone number
+﻿yes
+Shows operation hours
+﻿yes
+Routing
+Routing
+﻿no
+Create route manually
+?
+Calculate route
+?
+Create route via Waypoints
+?
+Routing profiles
+?
+Turn restrictions
+?
+Calculate route without Internet (Offline routing)
+?
+Routing providers
+?
+Avoid traffic
+?
+Traffic Provider
+?
+Navigating
+Navigate
+﻿yes
+Find location
+﻿yes
+Find nearby POIs
+﻿no
+Navigate to point
+﻿no
+Navigation with voice / Voice guidance
+﻿no
+Keep on road
+﻿no
+Lane guidance
+﻿no
+Works without GPS
+﻿no
+Navigate along predefined route
+﻿no
+Tracking
+Make track
+﻿yes
+Customizable log interval
+﻿no
+Track formats
+gpx
+Geotagging
+?
+Fast POI buttons
+﻿no
+Upload GPX to OSM
+﻿yes
+Monitoring
+Monitoring
+﻿yes
+Show current track
+﻿yes
+Open existing track
+?
+Altitude diagram
+?
+Show POD value
+﻿no
+Satellite view
+﻿yes
+Show live NMEA data
+﻿no
+Show speed
+﻿no
+Send current position
+﻿no
+Editing
+Add POIs
+﻿yes
+Edit / Delete POIs
+﻿yes
+Add way
+﻿yes
+Edit geometries
+﻿yes
+Edit arbitrary tags of existing OSM objects
+﻿yes
+Edit relations
+﻿yes
+View notes
+﻿yes
+Create notes
+﻿yes
+Edit notes
+﻿yes
+Work offline
+online;cache;offline
+Support imagery offset DB
+﻿no
+Upload to OSM
+﻿yes
+Rendering
+?
+Accessibility
+Accessibility support
+?
+Complete non graphics text output
+﻿no
+Braille interface
+﻿no
+Exploration modus
+﻿no
+Public Transport mode
+﻿no
+Danger Warnings
+﻿no
+Screenreader
+?
+Screenreader languages
+?
+Go Map!!
+is an iOS and macOS app that lets you create and edit information in OpenStreetMap.
+Go Map!!
+supports editing nodes and ways and arbitrary tagging. The source code is published under the open ISC licence on
+GitHub
+.
+Opening the camera app and scanning this would direct you to Go Map!! in the AppStore.
+For a walkthrough on
+Go Map!!
+check out:
+Go Map!!/Guide
+Contents
+1
+Compatibility
+2
+Features
+3
+Screenshots
+4
+Usage
+4.1
+Go Map!!/Guide
+4.2
+Go Map!!/FAQ
+4.3
+Video Tutorials
+4.4
+Help with
+Go Map!!
+5
+Contribute
+5.1
+Issue Tracker
+5.2
+Test Pre-releases
+5.3
+Localization / translation
+6
+App History
+6.1
+Early Development
+6.2
+Recent Years
+7
+Privacy Policy
+8
+See also
+9
+References
+Compatibility
+iPhone
+Requires iOS 12.0 or later.
+iPad
+Requires iPadOS 12.0 or later.
+iPod touch
+Requires iOS 12.0 or later.
+Mac
+Requires macOS 11.3 or later.
+Apple Vision
+Requires visionOS 1.0 or later.
+Features
+Quickly add points of interest
+Edit nodes, ways, and areas
+Track your location and heading
+Create, upload, and download GPX traces. To import a GPX trace on Mac, just double click the GPX file.
+Bing, Mapnik, and user-defined backgrounds available.
+Supports arbitrary tag values
+Integrates tagging presets from
+iD Tagging Schema
+GitHub
+and
+NSI
+GitHub
+Full undo/redo support
+Work online or offline seamlessly
+See who last edited an object and when
+Find other mappers nearby
+Search for places using Nominatim
+Copy and paste tags
+Create and resolve notes
+Map rotation
+Free. No ads or in-app purchases
+Screenshots
+Usage
+Go Map!!
+Mac screenshot, editing a Starbucks.
+Go Map!!/Guide
+This
+Guide
+will help you get started, get familiar with the UI, and know basic editing. It is intended for beginners to read the guide from the beginning. This is a guide for any user who wants to edit OSM on a iPhone or iPad.
+See also
+Beginners' Guide
+OSM hand-book.
+A hand-book with illustrations to explain misconceptions and things in the OSM editing process for beginners. Made by
+bxl-forever.
+Go Map!! tutorial on learnosm.org
+(Outdated)
+Go Map!!/FAQ
+Covers common questions.
+Video Tutorials
+Video tutorials that are currently outdated but they have some similarities to the more recent version of the app.
+Go Map!! basic use
+Go Map!! Tutorial
+Help with
+Go Map!!
+You can get support in the
+Slack channel
+from the developer and also from other
+users
+.
+Additionally, you can create a
+discussion
+in GitHub.
+Contribute
+Issue Tracker
+There is a
+issue tracker
+GitHub
+for  feature suggestions and bug reporting.
+Test Pre-releases
+There is a
+TestFlight
+for
+Go Map!!
+to help test Pre-releases.
+Localization / translation
+Go Map!!
+uses
+Weblate
+for app translations and uses
+iD Tagging Schemas
+translated presets
+in-app.
+Additionally,
+translate
+the wiki!
+App History
+Its development would begin in December 2021. The app would be released on the App Store on January 24, 2013.
+Early Development
+On December 6, 2012 Bryce Cogswell
+announced
+in his diary that he will be working on a native Cocoa based editor mainly for desktop. (But then moved to only iOS.)
+In the early stages of the apps development when it was in beta the app would be called OSMiOS but when it would be released on the App Store Bryce ultimately changed the name to
+Go Map!!
+Go Map!!
+would have a proprietary license in its early years and would be coded in Objective-C and Cocoa. It would also be only available only on the iPhone and iPad.
+Please read this
+diary
+by Cogswell for a detailed background on the app.
+Recent Years
+On October 3, 2021 Bryce Cogswell would publish a diary on the change from the apps proprietary license to ISC and being open source on version 1.6 allowing its users to contribute to the app.
+[1]
+On version 2.0.7
+Go Map!!
+would go under a huge change on its look in which what it looks like today.
+[2]
+Later on
+Go Map!!
+would start moving away from objective-c to swift in order to be “faster, easier to understand, easier to debug, and [to be] in line with Apple’s direction for modern apps.”
+[3]
+On the 16th of October in 2021 Bryceco would release the app on Mac. (With this, mouse and keyboard support on iPad.)
+[4]
+Privacy Policy
+(Effective Date: September 21, 2014)
+This privacy policy governs your use of the software application
+Go Map!!
+for mobile devices that was created by
+Bryce Cogswell
+.
+Go Map!!
+allows you to edit and upload geographic information on the openstreetmap.org website.
+User Provided Information
+Go Map!!
+requires you to be a registered user on openstreetmap.org in order to upload changes you make to the map. You are required to provide your openstreetmap.org name and password to the application before uploading data. Your openstreetmap.org name and password are securely stored on your device and are not shared with or accessible to the application developer.
+The data you edit and upload to openstreetmap.org using
+Go Map!!
+is subject to the OpenStreetMap
+Privacy Policy
+.
+Location Information
+Go Map!!
+uses your device's GPS to locate and orient your position on the map, and to record and store GPX tracks on your device. Location information is not transmitted to any party.
+3rd Party Access
+Your openstreetmap.org login information is securely transmitted (using SSL) to openstreetmap.org when you upload data, solely for the purpose of authentication. Your information is not shared or transmitted to any other parties including the application developer.
+Opt-out Rights
+You can stop all collection of information by
+Go Map!!
+by uninstalling the application. You may use the standard uninstall processes available as part of your mobile device.
+Changes
+This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy here. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+See also
+If you are using Go Map!! for editing you can add this template on your wiki user page to let the world know:
+{{
+User Go Map!!
+}}
+References
+↑
+https://www.openstreetmap.org/user/bryceco/diary/45012
+↑
+https://www.openstreetmap.org/user/bryceco/diary/395242
+↑
+https://www.openstreetmap.org/user/bryceco/diary/397777
+↑
+https://www.openstreetmap.org/user/bryceco/diary/397864
+Categories
+:
+ISC
+IOS software
+MacOS software
+Software for miscellaneous platforms
+Cross-platform software
+Swift
+Mobile editors
+Go Map!!
+Hidden categories:
+Pages unavailable in Dutch
+Software with no website specified
+Navigation menu
+Personal tools
+English
+Create account
+Log in
+Namespaces
+Page
+Discussion
+English
+Views
+Read
+View source
+View history
+More
+Search
+Site
+Main Page
+The map
+Map Features
+Contributors
+Help
+Blogs
+Shop
+Donations
+Wiki discussion
+Recent changes
+Tools
+What links here
+Related changes
+Special pages
+Printable version
+Permanent link
+Page information
+Cite this page
+In other languages
+Add links
+Sub-section Policy: 
+Sub-policy 0
+https://wiki.openstreetmap.org/wiki/Privacy_Policy:
+Privacy Policy
+From OpenStreetMap Wiki
+Jump to navigation
+Jump to search
+Purge
+Help
+Privacy Policy
+- Other languages
+Afrikaans
+asturianu
+azərbaycanca
+Bahasa Indonesia
+Bahasa Melayu
+bosanski
+brezhoneg
+català
+čeština
+Crnogorski
+dansk
+Deutsch
+eesti
+English
+español
+Esperanto
+euskara
+français
+Frysk
+Gàidhlig
+galego
+hrvatski
+Ido
+interlingua
+íslenska
+italiano
+Kreyòl ayisyen
+kréyòl gwadloupéyen
+kurdî
+latviešu
+Lëtzebuergesch
+lietuvių
+magyar
+Nederlands
+norsk
+norsk nynorsk
+occitan
+polski
+português
+română
+sardu
+shqip
+slovenčina
+slovenščina
+srpski (latinica)
+suomi
+svenska
+Tagalog
+Tiếng Việt
+Türkçe
+Zazaki
+Ελληνικά
+беларуская
+български
+македонски
+монгол
+русский
+српски / srpski
+українська
+հայերեն
+עברית
+العربية
+سرائیکی
+فارسی
+پنجابی
+پښتو
+नेपाली
+मराठी
+हिन्दी
+বাংলা
+ਪੰਜਾਬੀ
+தமிழ்
+മലയാളം
+සිංහල
+ไทย
+မြန်မာဘာသာ
+한국어
+ქართული
+ⵜⴰⵎⴰⵣⵉⵖⵜ
+中文（简体）
+中文（繁體）
+日本語
+粵語
+Other languages...
+The content of this page has been
+archived
+to avoid confusion with the current privacy policy.
+Read current privacy policy on osmfoundation.org
+View archived, defunct wiki page
+See also
+Limitations on
+mapping private information
+Anonymous edits#What about my privacy?
+v
+·
+d
+·
+e
+openstreetmap.org
+Interface elements
+Share map with marker
+·
+Map Data layer
+·
+Query features tool
+·
+Routing
+·
+Changeset Discussions
+·
+Nearby users
+·
+Notes
+Top menu
+Edit
+·
+History
+·
+Export
+GPS traces
+How to upload a GPS
+(
+Troubleshooting
+)
+·
+Visibility of GPS traces
+Layers
+Standard
+·
+CyclOSM
+·
+OpenCycleMap
+·
+Transport Map
+·
+Tracestrack Topo
+·
+Humanitarian
+–
+Former:
+MapQuest Open
+Account
+and login
+Privacy Policy
+·
+Use existing login from popular websites with OpenID
+·
+Lost password
+·
+Account deletion
+See also
+Main OSM blog
+·
+User diaries
+·
+When do I see my work on OpenStreetMap?
+Categories
+:
+Legal
+Privacy
+Main OSM website
+Hidden categories:
+Pages unavailable in Italian
+Pages unavailable in Dutch
+Pages unavailable in Russian
+Pages unavailable in Japanese
+Navigation menu
+Personal tools
+English
+Create account
+Log in
+Namespaces
+Page
+Discussion
+English
+Views
+Read
+View source
+View history
+More
+Search
+Site
+Main Page
+The map
+Map Features
+Contributors
+Help
+Blogs
+Shop
+Donations
+Wiki discussion
+Recent changes
+Tools
+What links here
+Related changes
+Special pages
+Printable version
+Permanent link
+Page information
+Cite this page
+In other languages
+Add links

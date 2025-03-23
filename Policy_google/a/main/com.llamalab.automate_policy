@@ -1,0 +1,270 @@
+Automate
+Timesheet
+LlamaKISS
+JavaScript
+Automate
+Documentation
+Privacy policy
+Privacy policy
+Your privacy is very important to us, and we’re not in the business of selling personal information.
+  Therefore the app does not show ads nor gather usage statistics (analytics).
+  However some optional features do need basic information about a user to operate.
+Community
+The flow sharing community feature rely on Google to authenticate and identify a user.
+  The “personal information” provided by Google which we collect, store and use are:
+Unique user identifier
+— used to authorize the user. Never shared with anyone.
+Nickname
+or
+real name
+— displayed to other users.
+E-mail address
+— only used by us in case we need to contact the user. Never shared with anyone.
+If the user choose to share a flow, or a review thereof, with the community then it will be stored by us and published for other users to view and download.
+Cloud messaging
+The cloud messaging feature is accessible using the
+Cloud message send
+and
+Cloud message receive
+blocks,
+  or the
+online endpoint
+.
+  This feature rely on Google to authenticate and identify a user, and deliver the message.
+  The “personal information” provided by Google, and the user when using the blocks/endpoint, which we collect, store and use are:
+Unique user identifier
+provided by Google — used to authorize the user. Never shared with anyone.
+Secret
+provided by the endpoint user — used to authenticate the user. Never shared with anyone.
+E-mail address
+provided by Google or the user — used to identify the recipient. Sent to the recipient but never shared with anyone else.
+Device brand & model
+provided by the user — used to address the recipient device. Sent to the recipient but never shared with anyone else.
+Installation identifier
+provided by Google — used to address the recipient device. Never shared with anyone.
+Messages are not collected or stored, once delivered they’re removed from our servers.
+  We do not inspect or analyze the message
+Payload
+,
+  enable end-to-end encryption by using a
+Cipher account
+to ensure none except the recipient can access it.
+Google Play services
+If available on the Android device the
+Google Play services
+is used for
+community authentication
+,
+cloud messaging
+,
+  to
+access location data
+, for
+text recognition
+(ML Kit) and show maps,
+  it collects:
+Device brand, model, form factor and ML hardware
+Version of OS, the app and service components it use
+App used to install the app (e.g. Google Play store)
+Generated pseudonymous installation identifiers
+IP address
+Stack traces & crash metrics
+Performance metrics
+ML Kit configuration & usage events
+Map interaction events
+See also
+Google Privacy Policy
+.
+Google API services
+The
+Google API services
+are only accessed when a running automation
+flow
+includes and reach a block doing so:
+Google Drive delete
+— delete content on a
+Google Drive
+.
+Google Drive download
+— transfer content from a
+Google Drive
+to the Android device.
+Google Drive file exists
+— check if a file exists on a
+Google Drive
+.
+Google Drive list
+— retrieve a list of content on a
+Google Drive
+.
+Google Drive make directory
+— create a directory on a
+Google Drive
+.
+Google Drive share
+— enabled sharing of, and get a link to, content on a
+Google Drive
+.
+Google Drive upload
+— transfer content from the Android device to a
+Google Drive
+.
+Gmail send
+— send an email using
+Gmail
+.
+Gmail unread count
+— retrieve unread conversation count from installed
+Gmail
+app, not using an
+Google API service
+.
+The
+Google API services
+are accessed directly from the Android device, never through our or third-party servers.
+  We do not collect, analyze, store or share content (Google user data) retrieved from, sent to, or stored on,
+Google API services
+.
+Microsoft API services
+The
+Microsoft API services
+are only accessed when a running automation
+flow
+includes and reach a block doing so:
+OneDrive delete
+— delete content on a
+Microsoft OneDrive
+.
+OneDrive download
+— transfer content from a
+Microsoft OneDrive
+to the Android device.
+OneDrive file exists
+— check if a file exists on a
+Microsoft OneDrive
+.
+OneDrive list
+— retrieve a list of content on a
+Microsoft OneDrive
+.
+OneDrive make directory
+— create a directory on a
+Microsoft OneDrive
+.
+OneDrive upload
+— transfer content from the Android device to a
+Microsoft OneDrive
+.
+The
+Microsoft API services
+are accessed directly from the Android device, never through our or third-party servers.
+  We do not collect, analyze, store or share content retrieved from, sent to, or stored on,
+Microsoft API services
+.
+Accessibility API
+The Android
+Accessibility API
+is used to
+interact with the UI
+,
+intercept key presses
+,
+  read
+notifications
+&
+“toast” messages
+,
+take screenshots
+,
+determine foreground app
+,
+capture fingerprint gestures
+and
+access accessibility button
+.
+  It’s only accessed when a feature that require it is being deliberately and actively used,
+  on the block configuration screen while designing an automation
+flow
+,
+  or when a running flow includes and reach a block doing so.
+  We do not collect or share data accessed through the
+Accessibility API
+.
+Location data
+Location data is only accessed when a feature that require it is being deliberately and actively used,
+  on the block configuration screen while designing an automation
+flow
+,
+  or when a running flow includes and reach a block doing so, even while the app is in the background.
+  We do not collect or share location data.
+Body sensor data
+Body sensor data is only accessed when a feature that require it is being deliberately and actively used,
+  on the block configuration screen while designing an automation
+flow
+,
+  or when a running flow includes and reach a block doing so, even while the app is in the background.
+  We do not collect or share body sensor data.
+Image information
+Users’ images and the information they contain is only accessed when a feature that require it is being deliberately and actively used,
+  on the block configuration screen while designing an automation
+flow
+,
+  when a running flow includes and reach a block doing so,
+  or the user choose to manually import an image, e.g. to be used as an icon.
+  We do not collect or share users’ images or the information they contain.
+Files & directory access
+Access to file storage on the Android device or a connected storage volume is only done when a feature that require it is being deliberately and actively used,
+  on the block configuration screen while designing an automation
+flow
+,
+  when a running flow includes and reach a block doing so,
+  or the user choose to manually export or import content.
+  We do not collect or share files and directory attributes/information.
+Installed app information
+Information about apps being or already installed on the Android device is only accessed when a feature that require it is being deliberately and actively used,
+  on the block configuration screen while designing an automation
+flow
+,
+  or when a running flow includes and reach a block doing so.
+  We do not collect or share installed app information,
+  except for version of the app, and the app used to install it, that the
+Google Play services
+collect as described
+above
+.
+App data
+Data such as user made
+flows
+and app settings are only stored locally on the Android device.
+  We do not collect or share data stored on the device, except when the user explicitly choose to do so using the
+Community
+feature.
+Age restriction
+The
+community
+,
+cloud messaging
+and features using
+Google API services
+are not permitted for use by children and therefore require age verification, i.e. the “access age restricted features” privilege.
+  The age of a “child” varies depending on country.
+  We do not collect or share the age information, it’s only stored locally on the device.
+Data protection
+All communication with online services, as described above, are made though secure (HTTPS) connections.
+  Security procedures are in place to protect the confidentiality of user data.
+  See also
+security
+.
+Data deletion
+To request that we delete all data stored in relation to a particular user as described above,
+  see
+data deletion
+.
+Contact
+For additional inquiries please contact us at
+info@llamalab.com
+.
+Note!
+This documentation is also accessible within the app from
+Help & feedback
+menu.

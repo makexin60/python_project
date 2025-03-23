@@ -1,0 +1,39 @@
+Privacy
+At BodyState, we value your privacy and are committed to protecting your personal data. This Privacy Policy explains how BodyState collects, processes, and protects your data in compliance with applicable privacy laws, including the General Data Protection Regulation (GDPR).
+Key Principles
+No Personal Identifiable Information (PII): BodyState does not collect or store any data that can directly identify you, such as names, email addresses, or physical addresses.
+Anonymous Data Processing: All data collected is anonymized and cannot be linked to specific individuals.
+Data Minimization: We collect only the data strictly necessary to improve app performance and functionality.
+No Data Sharing: We do not share any user data with third parties for advertising or other non-functional purposes.
+1. Data We Collect
+We collect anonymized data for the purposes of app functionality, diagnostics, and performance analytics. This includes:
+a. Crash Reporting and Diagnostics
+Tool: Sentry
+Purpose: To monitor app performance, identify crashes, and ensure the app operates reliably.
+Data Collected: Diagnostic data such as crash logs and performance metrics.
+Anonymization: Data collected by Sentry is anonymous and cannot be linked to specific users. No personal data is collected or stored.
+Data Storage: EU region
+b. Analytics
+Tool: PostHog
+Purpose: To analyze user interactions and improve app performance.
+Data Collected: Interaction events (e.g., feature usage) and performance metrics.
+Anonymization: All data is anonymized; no PII is captured, stored, or processed.
+Data Storage: EU region
+c. In-App Purchases
+Tool: RevenueCat
+Purpose: To manage subscriptions and in-app purchases.
+Data Collected: Device identifiers and purchase details (e.g., subscription type).
+Anonymization: No personal identifiers (e.g., names or emails) are associated with transaction data.
+2. Data Retention and Deletion
+Data Retention
+All data collected by BodyState is anonymized, aggregated, and used only for improving app functionality and ensuring performance stability. As such, individual data points are retained only as necessary for these purposes and in accordance with the retention policies of our third-party services.
+Data Deletion
+If you no longer wish for BodyState to collect or process your data:
+You can delete the app from your device.
+Deleting the app will stop all future data collection, as no data is stored outside of the third-party tools integrated into BodyState.
+3. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time to reflect changes in our practices, legal requirements, or app functionality. All updates will be posted on this page, and the “Last Updated” date will be revised accordingly.
+4. Contact Us
+If you have any questions or concerns about this Privacy Policy or how your data is handled, please contact us
+here
+.

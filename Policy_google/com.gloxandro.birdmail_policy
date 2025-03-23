@@ -1,0 +1,113 @@
+BIRD MAIL
+PRIVACY POLICY
+Bird Mail is an Android email client that utilizes the user's email provider for sending and receiving messages, with a focus on privacy and security.
+Contacts Permission:
+The app requests permission to device's contacts list, to provide Auto complete suggestions for email addresses, while composing emails, also to display contact names on message list, contact pictures on incoming emails and to display profile picture of your configured accounts.
+Bird Mail ensures that sensitive user information is only used for basic email functionality and is not automatically collected or shared with developers or third parties.
+Bird Mail is an Email Application made for Android devices & tablets, it connects to your email providers directly using IMAP,POP3 SMTP setup Bird Mail don’t use cloud base system, Bird Mail app functionality is limited to your device only Bird Mail does not operate via cloud server and has no access to your accounts data, email address or your typed passwords.
+Below are some important information on how we use permissions.
+Sensitive user information is only used to perform the basic functionality of the app, sending and receiving email. Bird Mail does not automatically collect and send data to the developers of the app or any third party. Sensitive information is also not included in application logs unless this is enabled by the user
+OAUTH2: With OAUTH2 Bird Mail request access token from the provider and it send request to renew access token in the background on time to time so that the access token don't get expire and your email account remain active on Bird Mail, currently Bird Mail support
+Gmail
+and
+Microsoft Accounts
+for
+Hotmail
+,
+Outlook
+,
+Msn
+&
+Live for OAUTH2 setup
+, below are the permission which we required while configuration
+.
+Google User data -
+is only used to setup a account for Gmail using Secure Authentication OAUTH2
+,The app will not see, store, or transmit your account’s password ,We do not collect personally identifiable information about you,We do not store or share any data from your Gmail Account this permission is only required to Perform A Basic Email Client functionality for Receiving & Sending emails ,Mark Flag , Composing emails & Deleting emails from Your account (Deleting email from Your Account) is only done if you select to (Delete from server) option by enabling from the app setting page.
+Microsoft Account User data
+- Microsoft Account User data is only used to setup a account for Outlook, Live, Msn, Hotmail using Secure Authentication OAUTH2,The app will not see, store, or transmit your account’s password
+,We do not collect personally identifiable information about you, We do not store or share any data from your Microsoft Account this permission is only required to Perform A Basic Email Client functionality for Receiving & Sending emails ,Mark Flag , Composing email &
+Deleting emails from Your account (Deleting email from Your Account) is only done if you select to (Delete from server) option by enabling from the app setting page.
+We required following android permission to perform the functionality of the app:
+License  Check
+–To check App license through Google Play licensing server to validate the genuine purchase.
+Internet Access
+- In order to connect to your email server, we needs the ability to create and manage network connections. We do this with careful consideration for both battery life and security - only opening connections as needed.
+Storage Access
+-  Attachments and settings can be loaded and saved onto storage. In order read and write these files we need access to do so.
+Read Contacts-
+To show contact pictures in Message List/Message View & to provide email address auto completion, we need access to your contacts.
+Write Contacts
+- To save a contact from new email recipients we need write access to contacts.
+Control Vibration
+- One of the settings of Bird is to vibrate on receiving an email. In order to do this we need control of vibration.
+Prevent Device from Sleeping
+- When we are in the middle of downloading email we want to be able to finish sending / receiving that request .
+Automatically Start on Boot
+- In order to pick up your email when the device is started we need to be able start on boot.
+View Network State
+In order to determine whether we should try and connect we need to be able to know the network state .
+Read Sync Settings
+In order to fetch contacts properly we need this permission.
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+If you have any questions or suggestions about our Privacy Policy, Please do not hesitate to contact us at
+support@dewords.org
+.
+Sub-section Policy: 
+Sub-policy 0
+https://dewords.org/privacy-policy:
+BIRD MAIL
+PRIVACY POLICY
+Bird Mail is an Android email client that utilizes the user's email provider for sending and receiving messages, with a focus on privacy and security.
+Contacts Permission:
+The app requests permission to device's contacts list, to provide Auto complete suggestions for email addresses, while composing emails, also to display contact names on message list, contact pictures on incoming emails and to display profile picture of your configured accounts.
+Bird Mail ensures that sensitive user information is only used for basic email functionality and is not automatically collected or shared with developers or third parties.
+Bird Mail is an Email Application made for Android devices & tablets, it connects to your email providers directly using IMAP,POP3 SMTP setup Bird Mail don’t use cloud base system, Bird Mail app functionality is limited to your device only Bird Mail does not operate via cloud server and has no access to your accounts data, email address or your typed passwords.
+Below are some important information on how we use permissions.
+Sensitive user information is only used to perform the basic functionality of the app, sending and receiving email. Bird Mail does not automatically collect and send data to the developers of the app or any third party. Sensitive information is also not included in application logs unless this is enabled by the user
+OAUTH2: With OAUTH2 Bird Mail request access token from the provider and it send request to renew access token in the background on time to time so that the access token don't get expire and your email account remain active on Bird Mail, currently Bird Mail support
+Gmail
+and
+Microsoft Accounts
+for
+Hotmail
+,
+Outlook
+,
+Msn
+&
+Live for OAUTH2 setup
+, below are the permission which we required while configuration
+.
+Google User data -
+is only used to setup a account for Gmail using Secure Authentication OAUTH2
+,The app will not see, store, or transmit your account’s password ,We do not collect personally identifiable information about you,We do not store or share any data from your Gmail Account this permission is only required to Perform A Basic Email Client functionality for Receiving & Sending emails ,Mark Flag , Composing emails & Deleting emails from Your account (Deleting email from Your Account) is only done if you select to (Delete from server) option by enabling from the app setting page.
+Microsoft Account User data
+- Microsoft Account User data is only used to setup a account for Outlook, Live, Msn, Hotmail using Secure Authentication OAUTH2,The app will not see, store, or transmit your account’s password
+,We do not collect personally identifiable information about you, We do not store or share any data from your Microsoft Account this permission is only required to Perform A Basic Email Client functionality for Receiving & Sending emails ,Mark Flag , Composing email &
+Deleting emails from Your account (Deleting email from Your Account) is only done if you select to (Delete from server) option by enabling from the app setting page.
+We required following android permission to perform the functionality of the app:
+License  Check
+–To check App license through Google Play licensing server to validate the genuine purchase.
+Internet Access
+- In order to connect to your email server, we needs the ability to create and manage network connections. We do this with careful consideration for both battery life and security - only opening connections as needed.
+Storage Access
+-  Attachments and settings can be loaded and saved onto storage. In order read and write these files we need access to do so.
+Read Contacts-
+To show contact pictures in Message List/Message View & to provide email address auto completion, we need access to your contacts.
+Write Contacts
+- To save a contact from new email recipients we need write access to contacts.
+Control Vibration
+- One of the settings of Bird is to vibrate on receiving an email. In order to do this we need control of vibration.
+Prevent Device from Sleeping
+- When we are in the middle of downloading email we want to be able to finish sending / receiving that request .
+Automatically Start on Boot
+- In order to pick up your email when the device is started we need to be able start on boot.
+View Network State
+In order to determine whether we should try and connect we need to be able to know the network state .
+Read Sync Settings
+In order to fetch contacts properly we need this permission.
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+If you have any questions or suggestions about our Privacy Policy, Please do not hesitate to contact us at
+support@dewords.org
+.

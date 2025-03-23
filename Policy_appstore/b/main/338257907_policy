@@ -1,0 +1,126 @@
+Privacy policy
+Introduction
+Internet privacy is one of the big challenges we face in this decade. Exchanging data creates benefits and extra value for the user, but probably exposes information one wants to keep private too. For LapTimer (and all our apps), we try to run a policy that both creates great value from data exchange, and keep things private were they should be. Our key approach of doing this is transparency on what LapTimer is actually sending and receiving. Furthermore we collect data that generates value for you and other LapTimer users only.
+It is not part of our business model to make money with information collected. It is solely to support an active LapTimer racing community. We will not use any data we get access to for marketing purpose either.
+In addition to transparency on data exchange, this page includes a long list of privileges LapTimer requests from the smartphone operating systems and why. In all areas no explicit statement is made here, Privacy Policies included in Apple's and Google's End User Licenses apply.
+Please note everything on this page is applicable to unmodified operating systems. In case you root your Android device or jailbreak your iPhone no guarantee on anything can be given.
+Data Exchanged
+Before going into the details, it makes sense to give an overview on the situations your LapTimer app will communicate outside of its so called "sandbox". The concept of a sandbox is implemented in all modern operating system. It defines a set of resources strictly separated from the rest of the system. LapTimer apps and their local data areas are such a sandboxes. They cannot be accessed from outside (except by super users / administrators). Vice versa, an app operated in a sandbox is not allowed to access resources outside the sandbox – except it is explicitly requested and agreed on by the user as an extended privilege / permission (see below):
+LapTimer Server:
+LapTimer clients (all editions) communicate with our server to provide Online Racing features as described here. Online Racing features include submission of lap times and positions on track, requesting information from the server like shown in LapTimer's Online View (Petrolhead and GrandPrix editions), and exchanging challenges. The server is a dedicated machine operated by SiNMA GmbH, Wiclefstr 47, 10551 Berlin, Germany.
+Tracks Database:
+LapTimer provides a huge set of predefined tracks to LapTimer users. The track sets are hosted on a 3rd party web space, they are downloaded only.
+Track, Challenge, and Vehicle submissions / certifications
+: users can contribute their own track setups and vehicle definitions to LapTimer's repository, or share own recordings of laps with all users, or a private peer group.
+Group participation:
+users can participate in LapTimer groups. Being an active member of a group will reveal your current location for other active members of the group. Groups can follow real name policies, in this case, the real name you enter into LapTimer will be visible to others instead of a nickname.
+Internal and External Sensors:
+LapTimer clients access all kinds of sensors (GPS, acceleration, microphone, cam, etc.), both built-in and sensors connected externally. External sensors are connected wired or wireless.
+External Storage:
+LapTimer stores data and media to external storage. This external storage includes the Photo Library for iOS, an optional SD Card for Android, iCloud for iOS, Dropbox for both iOS and Android, and Mail for all platforms.
+Crash Reports:
+Both Google and iOS allow the user to select whether they want to report and send crash logs to allow the developer to fix them. On top of this mechanism, LapTimer uses tools named ACRA and Splunk MINT for Android apps to capture problems not reported by Google's system.
+Push Notifications:
+Starting with version 18.2, LapTimer supports push notifications. Push notifications are short messages shown as banners both for iOS and Android. These messages appear even while LapTimer is not started. Content: new track sets getting available for your country, new challenges submitted by users for one of your tracks, random messages from Harry ("Did you know?" and information on issues / workarounds).
+OPT OUT FROM DATA EXCHANGE
+In case you do not want to share data, or want to have all data submitted purged, please follow this steps:
+To opt out from future data sharing:
+inactivate
+any groups you have joined in LapTimer ‣ Friends ‣ Groups.
+To have purged all data submitted in the past: send a mail using the LapTimer Contact button with "please purge all of my data submitted".
+LapTimer Server
+In general, only data required to provide LapTimer functionality is transmitted to Harry‘s server. In detail, information sent is made up from the 3 character nickname (or the real name in case a group sets this policy), current positions as polar coordinates, a track identifier, times lapped in hundreds seconds, a device identifier, and the current vehicle. The device identifier is needed to match incoming data with existing data. It is generated when the app is started the first time after installing it and will be kept until the app is uninstalled. For privacy reasons, it is not possible to derive a specific device from this identifier once the app is uninstalled. The identifier can be compared to Cookies used by web browsers.
+Whether data is transmitted at all depends on a user's participation in groups. In case a user is not active in any group, LapTimer will use the server to generate the identifier discussed only. Besides user defined groups, LapTimer comes with two standard groups:
+LapTimer Community
+: users active in this group will be visible to other active LapTimer users. Data exchanged are the nickname, current vehicle, and current position. By default, users are disconnected from this group.
+Local Track Community
+: similar to LapTimer Community, active users in this group will see each other. While LapTimer Community is a global group, Local Track Community limits visibility to users on the same track. If e.g. a user drives on Nordschleife, other users active on Nordschleife will be able to see him/her. In addition, lap times achieved will be submitted to LapTimer's Hall of Fame.
+If you are in doubt about the data transmitted, please contact the author for the exact data scheme. A table compliant with
+Datenschutz-Grundverordnung (EU-DSGVO)
+is appended below. Data transmitted is made available to others by the Online View and Hall of Fame. The Online View is available in LapTimer Petrolhead and GrandPrix editions as well as in our Online View on
+www.gps-laptimer.de
+.
+Starting with version 18, LapTimer server provides track shapes to clients. These track shapes are derived from challenges submitted by users. They are completely anonymized and do not include any source information.
+More information on Online Racing is available
+here
+. Using online services requires a working Internet connections, your telco provider may charge you an extra fee for data transfer.
+Tracks Database
+This is a database of track sets submitted by users and developed by Harry and friends. The track sets are hosted on a 3rd party web server. Clients update the overall list of available track sets regularly when opening the Add-ons / Tracks List. Track sets are loaded on demand. Loading track sets requires a working Internet connections, your telco provider may charge you an extra fee for data transfer.
+Track, Challenge, and Vehicle submissions
+All of this actions are triggered by the user and will not take place except when explicitely requested. When sharing tracks and vehicles, the user transfers using rights for this data to us. For tracks, data transferred are triggers and points of interest. All data transferred is visible in the mail generated. The user can decide if his / her name is listed in LapTimer list of tracks once the track has been quality assured and placed on the server for others. Vehicle submissions do not use the old fashioned mail mechanismn any more. Data is send directly. The data transferred is a regular vehicle export (.hvehl format) stripped by any individual / personal data. The later includes vehicle identification number, actual maintenance events, an individual vehicle name, notes and picture attached. In addition, providing an email is mandatory to allow us to contact the submitter in case of questions. Like any email addresses visible for us, this address will never be used for anything but LapTimer related communication between us and the user. It will never be passed to 3rd parties.
+Challenges work similar to vehicle submissions. Users submit a lap recorded to our server. Other users can access and download this data to race and compare against it. LapTimer asks for the real name (mandatory) and will list this information in Challenges offered to other users. Data submitted is made up from lap event information (time, location) and the GPS, OBD, acceleration data recorded. LapTimer offers "private challenges" by generating a key which is required for others to see and access it.
+Health Data
+Starting with LapTimer v19, heart rates recorded by the user are retrieved from iOS Health Kit and displayed aligned to lap recordings. Any health kit data is displayed only and not stored locally or remotely, neither is it shared with any other party.
+Internal and External Sensors
+LapTimer is an extremely sensor intensive application. It records GPS, OBD, acceleration, and records video and audio. Although internal sensors (GPS, acceleration, video, audio) can be accessed through operation system interfaces, this channel is not "open" by default. Depending on the operating system, you will be asked to approve access to GPS and microphone when these services are accessed the first time (iOS) or when installing the app (Android). LapTimer will record data from all the named sensor and store this data into its local database. Recorded data will be partially transferred to Harry's Server as long as this service is not turned off, and will be exported to external storage if requested. There is no other transfer of data recorded.
+To access external sensors, LapTimer will access network interfaces. LapTimer will poll a number of local Wi-Fi addresses to check if specific sensors are available. These local Wi-Fi addresses are 192.168.0.74:23 (OBDKey and ElmCan), 192.168.0.10:35000 (Kiwi), 169.254.1.10:23 (OBDLink), 192.168.0.24:2000 (OBD2 4U), 10.5.5.9 (GoPro HERO), 192.168.1.2 (NavtracSLT), 239.1.1.1 (GFi), 192.168.2.1:2947 (Pi-GNSS), and any Wi-Fi address added by the user in LapTimer Expert Settings.
+Access to video and audio sources are treated just the same as the other sensors in LapTimer. Both Android and iOS take care LapTimer will not be able to access cam or audio without your confirmation. For more information, please see Privileges Requested below.
+External Storage
+LapTimer will transfer data (including video) to selected external storage on demand. All operations except iCloud transfer are user triggered and will not be initiated by LapTimer itself. In iOS iCloud is provided as storage and transfer space for video. As this iCloud storage is consider user owned and cannot be access from outside without authorization, this is not further detailed here. Export of LapTimer data is often done using standard mail. Please keep in mind that data transfer is not encrypted by default – you need to add encryption to the Mail client yourself. For Dropbox and iCloud, providers claim that the transfer is encrypted.
+Crash Reports
+Crash reporting is controlled by your iOS or Android device settings (see "Sharing Data with Developers"). Besides the operating system's native crash reporting features, we use ACRA and Splunk MINT on Android to get reports on low level error conditions. More information on Splunk MINT is available
+here
+. We strongly encourage the use of LapTimer crash reports (Apple, Google, and ACRA / Splunk MINT) as it helps you, others, and us to make LapTimer an even more enjoyable app.
+Privileges requested
+As introduced with the concept of a sandbox, LapTimer needs to be granted permissions to access resources outside its sandbox.
+iOS
+This is the list of permissions you will be prompted for in iOS:
+Photo Library:
+LapTimer stores overlaid video into the iOS Photo Library and request available video from the Photo Library. In case this permission is not grated, videos will stay in LapTimer's sandbox and cannot be distributed to youtube from here. Some minor features like adding a vehicle picture will be disabled too.
+Bluetooth Access:
+Bluetooth is used for the obvious BT sensor connections, and for device to device communication. The later is used for MultiCam operation and when transferring laps from one device to another.
+Location Service:
+although it is possible to reject this privilege and use an external GPS mouse instead, we recommend to grant access as this allows falling back to the internal sensor in case there is a problem with the external.
+Cam / Microphone:
+to allow the user to decide whether an app is allows to record video and audio or not, Apple has introduced this privilege in iOS7. You need to grant this permission because you will not be able to record footage without.
+Notifications:
+this permission allows LapTimer Server to send information on track updates, new Challenges available etc.
+Android
+For older Android versions, you need to grant permissions during the install process. In case you do not agree to grant any of the permissions below, you cannot install and use LapTimer.
+Read phone status and identity:
+LapTimer will use the phone identity to derive a simplified UDID (see Online Racing). It will not access the phone otherwise.
+Take pictures and videos:
+required to capture footage using the internal cams (both front and back).
+Record audio:
+should be obvious (see Microphone access in iOS).
+Precise locations:
+required to get the exact GPS position; please check the Online Racing section to understand in which situations this position is transferred to Harry's Server and how to block this operation.
+Modify or delete the contents of your USB storage:
+that one is a little misleading – it is actually about accessing your SD card (storing videos).
+Find accounts on the device:
+required by Android to establish a connection between Google server and the smartphone; used for Push Notifications
+Read Google service configuration:
+needed to access Google Maps utilized in LapTimer's Map view.
+Full network access etc.:
+used for communication with Harry's Server, for track database access, and for Wi-Fi sensor access.
+Access Bluetooth access:
+used to access Bluetooth GPS and OBD sensors.
+Google Play billing service:
+used to allow InApp purchases on user's request. LapTimer uses the InApp purchase mechanism to upgrade a Rookie Edition to the same functionality Petrolhead Edition offers (same for Petrolhead and GrandPrix) – without the need to purchase the app again.
+For recent Android versions, permissions are requested individually just like for iOS. Please see the list above for permissions requested and their effect.
+European Union’s GDPR
+(General Data Protection Regulation; for Germany, EU-DSGVO)
+As we are a small company, the data security officer is LapTimer's founder and owner Harald Schlangmann.
+Although not necessary to publish publically, the dictionary of data and its processing rules is appended below:
+Current Position
+Responsible: Harald Schlangmann
+Purpose: visualization of drivers for group members and track spectators (Local Track Community)
+Scope: active users of LapTimer Groups
+Accessible: through LapTimer Petrolhead, GrandPrix and our web site
+Data: position, current vehicle, nickname or real name, identifier
+Purging policy: when group is left or after 30 days of inactivity
+Hall of Fame
+Responsible: Harald Schlangmann
+Purpose: visualization of lap times achieved by drivers for group members and track spectators (Local Track Community)
+Scope: active users of LapTimer Groups
+Accessible: through LapTimer Petrolhead, GrandPrix and our web site
+Data: date / time, lap time, current vehicle, nickname or real name, identifier
+Purging policy: on request, see "Opt out from data exchange"
+Group Membership
+Responsible: Harald Schlangmann
+Purpose: definition of data exchanged and definition of accessibility
+Scope: active users of LapTimer Groups
+Accessible: using the app, visible to other active users only
+Data: nickname / real name, group status, identifier
+Purging policy: when group is left
+Any change in privacy policy is documented on this page. Last change: May 27th, 2018.

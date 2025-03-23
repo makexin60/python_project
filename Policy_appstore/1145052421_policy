@@ -1,0 +1,30 @@
+Page not found
+(404)
+Request Method:
+GET
+Request URL:
+http://www.wordsearch.mobi/privacy.html
+Using the URLconf defined in
+app.urls
+,
+      Django tried these URL patterns, in this order:
+[name='index']
+game/<category>/<difficulty>
+about
+                [name='about']
+admin/
+^static/(?P<path>.*)$
+en/
+robots.txt
+The current path,
+privacy.html
+,
+        
+        didn’t match any of these.
+You’re seeing this error because you have
+DEBUG = True
+in
+      your Django settings file. Change that to
+False
+, and Django
+      will display a standard 404 page.

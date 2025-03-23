@@ -1,0 +1,99 @@
+snapADDY
+Privacy and Security Hub
+Skip navigation
+IT Security
+Data protection
+Data sources
+Website
+Social Media
+IT Security
+The security of your data and our technologies is our priority at snapADDY. We use state-of-the-art approaches to anticipate and rule out all possible attack scenarios. For this purpose, we employ a dedicated DevOps team, carry out regular security training and internal and external reviews, and tailor our workflows according to the requirements of official certifications.
+Our IT information management system is
+ISO 27001-certified
+(
+PDF certificate
+) and
+audited
+according to
+STAR Level One criteria
+(
+find out more
+) and therefore fulfils the highest international standards.
+Data flow – How is data processed at snapADDY?
+Infrastructure
+The diagram above provides an overview of snapADDY's technical infrastructure. Our business logic is hosted exclusively in data centers in Frankfurt am Main (AWS zone: eu-central-1). Each service is protected in a private VPC and distributed across three independent availability zones to ensure the highest level of fail-safe operation.
+Open diagram in a new window
+snapADDY Clients Data Flow – General
+The data flow diagram shows the different data sources used by snapADDY to generate contact and suggestion data and to enrich existing data, as well as the connection to your CRM system used for each export.
+Open diagram in a new window
+DataQuality
+Open diagram in a new window
+Business Card Scanner
+Open diagram in a new window
+VisitReport
+The manual upload of inventory data via Excel or CSV files exported from your CRM or other data source is also explained.
+Open diagram in a new window
+CRM Connections
+The sequence diagram describes the technical process of our duplicate check in DataQuality and our two apps Business Card Scanner and VisitReport. First, data entered by the user is checked for duplicates in your CRM system. For this purpose and depending on the CRM, several connection options, such as OAuth, are offered. If a duplicate is found in your CRM, you will see the differences detected by snapADDY in a clear merge view. Here you can select which data you would like to transfer and which you want to discard. According to your choice, the data will then be created or updated in your CRM.
+Open diagram in a new window
+Backups and deletion periods
+Backups of all databases that snapADDY uses for the productive operation of its products are automatically created daily via RDS snapshots. In addition, snapshots of the transaction logs are created regularly so that we can restore our databases to a specific time (a few minutes before a possible crash). The RDS snapshots and transaction logs are stored in Amazon S3 and kept for 30 days.
+An object versioning is enabled for the S3 buckets used by snapADDY. Old versions and deleted objects can thus be restored within 30 days.
+Deleted data is first marked for deletion and finally deleted after 30 days. Within this time our support staff can recover any data that has been accidentally deleted.
+Is the data encrypted at snapADDY?
+All requests to and between our servers are protected with transport encryption. Through HSTS and redirection from HTTP to HTTPS, encryption of external traffic is ensured. Our servers support TLS 1.2 and 1.3 with strong cipher suites. The mTLS 1.3 is used for internal connections between our servers. These measures help us achieve an A+ rating in SSL Labs' SSL Server Test (
+https://www.ssllabs.com/ssltest/analyze.html?d=app.snapaddy.com
+).
+All databases and S3 buckets with customer data are encrypted with AES-256. The encryption keys of the databases are encrypted with master keys managed by AWS within the Key Management Service (KMS). The KMS master keys are stored on hardware security modules (HSMs) and validated at FIPS-140-2 Level 2 (Level 3 in some categories). For further information, please refer to ISMS (Chapter 3.2).
+Authentication & Authorization
+For the authentication at snapADDY, you can choose between different options. On the one hand, you can use a standard login using username and password with optional 2-factor authentication. On the other hand, we offer our customers a single sign-on either via OAuth (OpenID-Connect for the three identity providers Microsoft, Google, and Apple) or a SAML integration with the identity provider of your choice. For more information on setting up SAML, please refer to:
+How to set up SAML 2.0 Single Sign-On
+Administrators of a snapADDY organization can assign roles to your users based on user permissions. These roles restrict access to certain resources and can be assigned individually.
+You can find an overview of the available roles here:
+https://help.snapaddy.com/en/articles/2547674-what-do-the-user-roles-reporter-user-template-curator-template-manager-and-admin-mean
+Security and connection to email inboxes
+To use the Email Contact Suggestions feature, it is necessary to establish a connection between snapADDY and your email account. There are two ways to establish the connection. Either you establish the connection via a snapADDY OAuth application to a Microsoft account or you use a standard connection via IMAP. Since these two connection options are technically different from each other, we explain the respective security aspects separately below.
+Connection via snapADDY-OAuth application
+To connect your Microsoft email account, you need to grant the
+snapADDY Suggestions OAuth
+application access to the Mail.Read, User.Read, and offline_access permissions. If necessary, this access must be confirmed by your organization's Azure administrator. Next, snapADDY creates a
+subscription
+on your behalf using the Microsoft Graph API that notifies snapADDY through a webhook as soon as a new email is received for processing. Once snapADDY receives such a notification, we retrieve the email from your mailbox and extract possible signatures. During this process, at no time are the contents of the email stored or logged by us. All data is only available temporarily and only at the moment of processing (parsing).
+Connection via IMAP
+The connection via IMAP is made using the regular access data to your IMAP account. In addition to our general encryption of the database, the password is initialized with a randomized vector using a 256bit AES-CBC secret. The encryption key is derived from an internal secret and a randomized salt using PBKD2. The stored password is not retrievable by a user and is only required for the server-side connection to your mailbox. If you can use app passwords that allow a separate password for third-party integrations of your IMAP account, we recommend using this option. For more information, please refer to:
+https://support.google.com/mail/answer/185833?hl=de
+.
+In both cases, the content of your emails is
+never
+stored or logged. The emails are only in the main memory for the moment they are processed and are then discarded. Additionally, emails with certain sender domains can be completely excluded from processing by this feature.
+Furthermore, contact suggestions based on incoming emails are only stored in the snapADDY contact list selected by the user. Each user can individually define who has access to this list.
+Information on SMTP connections
+Why should I connect my (outgoing) email server?
+Some features of snapADDY VisitReport require you to define an outgoing email server for sending emails. This includes the automatic sending of so-called "notification emails" when exporting reports from the VisitReport app as well as sending follow-up emails to the captured leads.
+How can I establish the connection?
+We recommend setting up a separate SMTP user (hereafter: "technical user") for sending emails via snapADDY. This technical user should be provided with a secure password that is not used elsewhere and can thus be regarded as an API token.
+Depending on the functionality of your email server, the permissions of this technical user can also be significantly restricted (e.g., in the case of notification emails, limited to sending emails within your own domain, etc.).
+Is the connection via SMTP secure?
+The connection from snapADDY to your email server via SMTP is secured by modern encryption methods: snapADDY supports all industry standards for encrypted SMTP connections (SSL/TLS and STARTTLS) and the SMTP credentials you provide are in addition stored encrypted.
+If you set up the provided SMTP user as a "technical user" as recommended above, you do not have to pass on any password used elsewhere to snapADDY and also have full control over which recipients emails may be sent to. You also have full transparency over errors that may occur when sending emails (such as bounces) using your own email server.
+Do you also offer techniques such as SPF or DKIM?
+Currently, these techniques are not offered since snapADDY does not operate its own email server infrastructure. For the usage scenario of snapADDY VisitReport, SPF and DKIM also do not provide any additional security, but on the contrary would only allow the overall release of snapADDY IP addresses as legitimate senders for
+all
+email addresses in your domain.
+Thus, these techniques would force you to grant significantly more rights than needed (particularly sending emails on behalf of every possible sender address in your domain). With the above approach via SMTP users, a much more restrictive (and thus potentially more secure) configuration is possible.
+If you nevertheless do not want to pass SMTP credentials to snapADDY, but instead use SPF or DKIM, we recommend configuring an
+SMTP relay server
+via an external provider.
+Intrusion Detection System
+We use the Amazon GuardDuty intrusion detection system (IDS) to monitor network activity in our infrastructure. GuardDuty analyzes audit, DNS, and network logs and notifies us in case of suspicious activity. You can find more information about GuardDuty here:
+https://aws.amazon.com/guardduty/
+In addition, we regularly have our system tested externally by performing
+penetration tests
+. We work together with the renowned service provider CRISEC for this purpose.
+Access to customer data
+At the infrastructure level, only a few employees of many years standing at snapADDY have full access to production areas. This access is regulated via the AWS rights and roles concept and can be transparently tracked through audit logs.
+At the application level, an additional group of employees for support processes has restricted access to customer organizations. These accounts are additionally secured by two-factor authentication. All activities can be tracked via audit logs.
+Do you have any questions?
+We hope there are no more questions! If you do, please feel free to contact us at the email address below:
+Data protection
+datenschutz@snapaddy.com

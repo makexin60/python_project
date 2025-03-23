@@ -1,0 +1,561 @@
+GENERAL TERMS AND CONDITIONS (B2C)
+The Integrators
+FOREWORD
+The Integrators BV is a Dutch limited liability company (“The Integrators”) whose efforts are aimed at building open source software, including but not limited to the Xaman app (“Mobile Application”), related products and services (Products and Services) and Operating Network Infrastructure (the “Solutions”) to provide the users of the Solutions (“Users”) with direct and disintermediated access to the XRP Ledger Protocol chains (“XRPLP”), and all the features that come with it. Currently, the Mobile Application supports the XRP Ledger and Xahau.
+DEFINITIONS
+In these general terms and conditions:
+Account
+means your blockchain account, whether or not generated through the Mobile Application;
+Terms
+means these general terms and conditions;
+Content
+means any information, documentation or material uploaded on the Mobile Application by The Integrators.
+Devices
+means your mobile devices on which you use the Mobile Application;
+DEX
+means the decentralised exchange that lets anyone buy or sell any asset that exists on the XRP Ledger Protocol chains. The DEX is natively present on the XRPLP and interaction with the DEX is possible through the Mobile Application
+Digital Currencies
+means encrypted or digital tokens or cryptocurrencies with a certain value.
+dUNL
+means distributed Unique Node List: the (majority) accepted list of nodes on the XRPLP voting on transactions to be included in closing ledgers, and so: the nodes deciding on what the state (contents) of the XRPLP will be.
+(dUNL) Validator
+means an individual node voting on forward progress on the XRPLP
+End User Licence
+means licence following from section 6 of these Terms regarding the end user licence entered into between The Integrators and ser regarding the use of the (Services of the) Mobile Application.
+FI
+means Financial Institution, a regulated company that is prudentially supervised
+Gateway
+means provider issuing IOUs on the XRPLP, allowing users to deposit assets to their custodial services, then to issue the equivalent on the XRPLP and vice versa.
+Intellectual Property Rights
+means copyrights, database rights, patents, registered and unregistered design rights, registered and unregistered trademarks and all other industrial, commercial or intellectual property rights existing in any jurisdiction;
+IOU
+means any or
+all tokens in the XRPL.
+KYC
+means to ‘know your customer’ which is an effective way for an institution to confirm and thereby verify the authenticity of a customer.
+Party
+means individually The Integrators or you.
+Products
+means the various products The Integrators offer through the Mobile Application.
+Mobile Application
+means The Integrators’ Xaman application;
+Mobile Application User
+means a user that is using the Mobile Application without a Xaman Pro Subscription (i.e. not a Client/customer)
+Operating Network Infrastructure
+means the nodes & infrastructure used to sustain the XRPLP & for the Mobile Application to connect to and to interact with the XRPLP.
+Services
+means the various services provided to you by The Integrators through the Mobile Application. The Services include but are not limited to the non-custodial client (Wallet) for the XRPLP, the “Xaman Card Order” module, the "Track and Trace" module, the "Xaman Support" module and all other and future products and services (to be) provided by The Integrators through or in addition to the Mobile Application as further specified in section 4.
+Third Party Services
+means services provided through applications and platforms built by third parties which are interacting with the Mobile Application.
+Tokens
+means the combined XRP/XAH and IOUs that are managed on the XRP Ledger or Xahau. It is the general term for values and registrations on the XRP Ledger Protocol chains.
+Travel Rule Compliance Information
+means information that The Integrators need to obtain and process for providing its payment services.
+Sign Requests
+means a ‘message’ with a proposed transaction to sign to end users by, for instance, but not limited to, The Integrators’ third-party service providers, developers and retailers. The delivery method can be (but is not limited to) via QR code and push notification. The end user gets to review the proposed transaction, and if they agree, they can approve and thus sign the transaction and optionally have the Mobile Application submit it to the XRPLP.
+Solutions
+means the open-source software built by The Integrators, including but not limited to the Mobile Application and Operating Network Infrastructure.
+Wallet:
+non-custodial wallet on the XRPLP
+(aa)
+xApps
+means in-app applications embedded in the Mobile Application for a streamlined user experience. They add value (tooling, wizards) for end users, using Sign Requests and
+their Web User Interfaces to help users perform tasks on the XRPLP and beyond. xApps can be built, maintained & provided by third-party developers or The Integrators.
+(bb)
+Client/customer
+means a person with the Mobile Application, an Account, and a Xaman Pro subscription to use the Services.
+(cc)
+XRPLP Trust-Lines
+means an object owned by a wallet that specifies what address is trusted for which asset code.
+(dd)
+Xaman Card:
+hardware solution for key management;
+(ee)
+Xaman Pro Subscription
+means the paid Xaman Pro subscription with additional Products and Services.
+APPLICABILITY AND EXCLUSIVITY OF THE GENERAL CONDITIONS
+By using the Mobile Application and the Services offered through the Mobile Application, you agree to these Terms. That means that you agree to all the rights and obligations stated in the Mobile Application or presented to you through the use of the Services.
+These Terms apply to and govern:
+the access and usage of the Mobile Application and;
+the Content, Products and Services.
+Any other and/or additional terms and conditions other than those expressly set out in these Terms (
+Additional Terms
+) may apply to particular Products or Services. The Integrators will inform you regarding these Additional Terms on forehand. In case of contradictions and/or inconsistencies between the Terms and the Additional Terms, the Additional Terms will prevail.
+You can only deviate from one or more provisions when The Integrators explicitly accept this in writing.
+The Integrators have the right to unilaterally amend or supplement these Terms and Additional Terms, which changes will become effective upon notification to you. The Integrators shall be allowed to make any amendments to these Terms / Additional Terms of minor importance, such as an apparent error, omission or any other comparable amendment, without previously informing you thereof.
+In addition, when using Third Party Services through the Mobile Application, you may be subject to specific additional terms and conditions applicable to those Third Party Services (‘Third Party Terms’), which will be presented to you through the Mobile Application. The Integrators accept no liability, and you will not hold The Integrators liable for any claims in connection with the Third Party Services.
+YOUR USE OF THE MOBILE APPLICATION
+You have two ways to use the Mobile Application. You can either be a:
+Mobile Application User
+(not using any further services of The Integrators and/or having an account to use the Services), or
+Client/customer
+(having an account to use the XRRL Labs services, Xaman Pro subscription);
+Xaman Pro
+subscription
+Xaman Pro
+subscription plus additional subscription for exchange services
+Using the Mobile Application as a Mobile Application User
+When you use the Mobile Application as a Mobile Application User, you are able to use many Xaman features for free, like payment requests, signing 3rd party initiated transactions & sign requests, managing multiple XRPLP accounts, and easy access to the DEX.
+Using the Mobile Application as a Client/customer
+The Integrators is registered with De Nederlandsche Bank N.V. (DNB) as a provider of crypto services. DNB supervises The Integrators' compliance with the Prevention of Money Laundering and Terrorist Financing Act (Wet ter voorkoming van witwassen en financiering van terrorisme -Wwft) and the Sanctions Act (Sanctiewet - Sw). Therefore, when you use the Mobile Application as a Client/customer, you will undergo Know Your Customer (KYC) verification.
+As a Client/customer, with the Xaman Pro Subscription, you will be able to make use of additional Products and Services offered through the Mobile Application:
+INFORMATION ABOUT THE MOBILE APPLICATION AND THE SERVICES
+Features of the Mobile Application
+The Mobile Application allows for direct access to the XRPLP functionalities, Services and Third Party Services. The Mobile Application allows you to create XRPLP accounts, send and receive funds, track transactions, check balances and exchange tokens on the XRPLP.
+To facilitate these (Third-Party) Services, the Mobile Application contains embedded in-app applications (‘xApps’) offered by The Integrators (such as, but not limited to, the “Xaman Card Order” module, the "Track and Trace" module and the "Xaman Support" module) as well as in-app applications offered by third parties.
+Key characteristics and consequences of the XRP Ledger Protocol chains
+The Integrators’ Solutions and the Mobile Application are completely based on the XRPLP and its features. Therefore, before you start using the Mobile Application, you hereby agree to be aware of the following key characteristics of the XRPLP:
+The XRP Ledger Protocol chains are decentralised cryptographic ledgers powered by a network of independent peer-to-peer servers. The XRPLP hosts the digital asset s XRP and XAH, and, among other features, it offers censorship-resistant transaction processing, which means that:
+No individual party can decide which XRPLP transactions should succeed or fail, and
+No party can “roll-back” or reverse a transaction once it has been completed.
+The XRPLP allows for the issuance of non-XRP/XAH tokens that typically represent liabilities or payment obligations (“IOUs”) owed by the issuer itself (“Gateway”) to the IOU holders. Importantly, these IOUs (unlike XRP/XAH) have a counterparty – the Gateway –, which means that IOUs require their holders to trust that Gateways will honour its obligations (i.e. guarantee the redemption of the value represented by a given IOU).
+Note that the XRPLP allows Gateways to freeze their non-XRP IOUs to meet regulatory requirements or investigate unusual activities.
+The XRPLP has a built-in full-currency decentralised exchange (“DEX”). The DEX allows Gateways to freely issue IOUs to their customers, and those customers are allowed to freely trade IOUs on the XRPLP.
+The Ripple source code (the code behind the XRPLP) is an open-source project and is available under the ISC open-source licence, meaning that anyone can contribute software and propose modifications, additions or changes to the XRPLP code base. Such proposals must follow a strict governance procedure (amendments) to be adopted only after gaining widespread acceptance among the dUNL community. As a result, The Integrators cannot solely decide and/or control any modifications either proposed or merged into the XRPLP code base, which may or may not indirectly force The Integrators to modify the Mobile Application.
+In virtue of the foregoing, you hereby represent that you have been made duly aware of the abovementioned key characteristics of the XRPLP and, therefore, acknowledge the following:
+Although The Integrators runs and operates XRPLP infrastructure, including a validator role that forms part of the dUNL, it cannot guarantee either the liveness and/or security of the XRPLP infrastructure;
+The Mobile Application provides an interface to a non-custodial account and interaction with i.a., the XRPLP, allowing you to directly transact over the decentralised system itself. This means that The Integrators is not able to act as the custodian, administrator, manager, operator or any other related applicable concept with respect to the XRPLPaddresses or accounts either created by you through the Mobile Application or imported by you to the Mobile Application;
+In furtherance of the above, The Integrators is not able to control, authorise, reject, seize and/or censor any of the funds or the XRPLP accounts held and/or managed by you through the Mobile Application. In other words, The Integrators is not responsible and cannot be held liable by you for any loss of funds, loss of access to your XRPLP accounts, improper management of secrets or private keys, your mistakes and/or ignorance.
+For purposes of providing further clarity, once: (a) a transaction has been signed by you using the Mobile Application or (b) access to funds and or XRPLP accounts has been lost;
+there is no way back, transactions cannot be reversed, and funds cannot be recovered. The Integrators cannot be held liable.
+The Mobile Application allows you to directly interact with the XRPLP’s DEX, so that you can transact or trade any assets and/or tokens. You herewith represent to be aware that Gateways are statistically prone to issue IOUs that: (a) represent no value, (b) have no liquidity or (c) cannot be redeemed. The Integrators explicitly cannot and will not guarantee the reliability, trustworthiness or liquidity of the IOUs issued by any third-party Gateways. Moreover, The Integrators cannot, at any moment, guarantee that the Gateways will either honour its obligations or even redeem (entirely or partially) the value represented by their IOUs.
+To avoid doubt, The Integrators do not provide investment, tax, or legal advice, and you are solely responsible for determining whether it is appropriate for you based on your personal investment objectives, financial circumstances and risk tolerance.
+The Integrators do not provide transaction- or transaction history data. This data is publicly and permanently available on the blockchain.
+Gateways have the right to freeze their IOUs at their sole discretion, which means that you might experience IOU freezing through the Mobile Application without such circumstance being attributable to The Integrators, but to the relevant Gateways. The Integrators cannot unfreeze the IOUs that have been frozen by a Gateway and is not liable for any such event.
+Many components of the software used by The Integrators to provide the Mobile Application are  made  available  under  open-source  licences,  meaning  that  many  independent contributors who are unrelated to The Integrators may participate in the design, development and implementation of such components, which include among others, the translation of the Mobile Application from English into other languages. The Integrators do not take responsibility or accept liability regarding the contributions and/or translations of independent contributors. Likewise, such contributors have not entered into an agreement, legal or business relationship with The Integrators and, as such, have not undertaken any obligation or responsibility to guarantee or maintain the quality, effectiveness, accuracy and/or fitness of their contributions, nor any potential liability arising in connection therewith.
+The Integrators is currently not (i) charging any fees for the use of the Mobile Application, (ii) a Gateway, (iii) an IOU issuer, (iv) an asset or funds custodian, and (v) an asset or funds manager or administrator. In this sense, to the extent permitted by applicable law, The Integrators undertake no obligation and accept no liability whatsoever towards you.
+LICENCE AND ACCESS
+6.1.
+During the Term of these Terms, you are granted a limited, non-exclusive, non-transferable, non-sublicensable right to access and use the Mobile Application, Content and Services on any mobile device that you own or control (
+End User Licence
+). The End User Licence only provides for using the Mobile Application, Content and Services as set out in these Terms.
+The Mobile Application contains open-source software, the licence terms of which are available on written request to The Integrators.
+The End User Licence will immediately terminate upon breach of your obligations under these Terms and/or the applicable Additional Terms or Third Party Terms, if any, unless such breach is curable and is actually and immediately cured by you after you become aware of the breach or The Integrators provide notice of the breach to you. Upon the termination of this End User Licence, you will discontinue all use of the Mobile Application, Content and Services, promptly remove the software regarding the Mobile Application and Services and/or any copies thereof from your mobile devices, and, upon request by The Integrators, certify in writing to The Integrators, that such removal has taken place. These remedies are cumulative and in addition to any other remedies available to The Integrators. Any provision of this agreement that expressly or by implication is intended to come into or continue in force on or after termination of the End User Licence agreement and /or these Terms and/or the applicable Additional Terms shall remain in full force and effect.
+This End User Licence and the access to the Mobile Application, Content and Services automatically ends in case of termination by you or by The Integrators in accordance with this section 6.
+You are not allowed and shall not permit any person or entity to:
+Copy, modify, decompile, reverse engineer and/or disassemble the Mobile Application Content, Products and Services or any documentation comprised in it or provided under these Terms;
+use the Mobile Application, Content, Products and Services for the purpose of resell, lease, lend, redistribution, sublicensing and/or renting.
+Any attempt to do so is a violation of The Integrators’ rights. Any breach of these restrictions may lead to damage claims and prosecution.
+The Integrators observes sanction laws and regulations in The Netherlands, the European Union and the United States of America and will, therefore, currently not provide its Mobile Application, product and services to Users ordinarily resident or physically located in Cuba, Iran, Syria, North Korea, or the Donetsk, Luhansk or Crimea regions of Ukraine. The Integrators determines the location of a User at its sole discretion. The sanctioned countries can change occasionally, and The Integrators may then immediately implement changes, suspend services and/or terminate existing agreements without prior notification. The Integrators will never be liable for costs and/or damages in such cases.
+YOUR OBLIGATIONS AND RESPONSIBILITIES
+Your responsibilities following the characteristics of the Mobile Application
+Due to the characteristics of the Mobile Application as set out in section 5, you hereby agree that you are solely responsible for each of the following actions. The Integrators accepts no liability, and you will not, under any circumstances, try to hold The Integrators liable for any mistakes, mismanagements, negligent conduct, deliberate errors and/or the loss of funds or the loss of access to XRPLP accounts, potentially arising in connection therewith. More specifically, but not limited:
+You are solely responsible for maintaining the safety of either or all of the following: (i) your XRPLP accounts; (ii) family seeds; (iii) mnemonic keys and/or numbers; (iv) secret numbers and/or private keys; and (v) any other code, secret, password, key, phrase, alphanumeric word, that is somehow associated with your XRPLP accounts and the ability to manage the funds contained therein;
+You shall implement all necessary measures to keep offline backups of the abovementioned confidential information under (i) to (v) in multiple secure places. The Integrators does not store such information and is not a custodian of your funds and/or XRPLP accounts. The Integrators is not able to recover and is not liable with regard to lost funds or XRPLP accounts;
+Importantly, you have been made aware and hereby acknowledge that due to security reasons, the Mobile Application does not allow for the export of the above mentioned confidential information under (i) to (v) that has been either created through the Mobile Application or imported from external sources, meaning that whenever you intent to recover your XRPLP accounts, you will always be required to do so through the utilisation of your offline backups or otherwise safely stored secrets;
+You are responsible for maintaining your mobile devices (the “Devices”), as well as the relevant software, up to date and secure, for which you shall observe the following recommendations (if these recommendations are not followed, the Mobile Application can be installed but will not run):
+You shall, at all moments, install available operating system security updates.
+You shall not root or jailbreak your Device.
+You shall not connect your Device to untrusted devices, cables, chargers, WIFI and any other untrusted (hardware) equipment.
+You are responsible for verifying the reliability, trustworthiness and liquidity of the IUOs that you acquire from Gateways through the Mobile Application. This responsibility includes reviewing each Gateways’ terms and conditions, solvency and potential risk factors, which you must factor in when considering adding XRPLP trust-lines to their addresses. Note that the curated recommendation of Gateways and IOUs provided by The Integrators do not relieve you from this responsibility.
+When you use non-English versions of the Mobile Application, you are responsible for double-checking on the correctness and/or accuracy of the relevant translations, as language technicalities may lead to irreversible mistakes (e.g. sending funds to fraudulent addresses) or unintended utilisation of the Mobile Application.
+Regardless
+Your general responsibilities and obligations
+You are responsible for your usage of the Mobile Application and Services and shall comply with;
+All The Integrators’ instructions, including these Terms and any Additional Terms, if applicable;
+All applicable laws and regulations, specifically but not limited to the applicable laws and regulations that prevent you to harm or cause harm to The Integrators, the XRPLP, other parties legitimately operating on the XRPLP and legitimately licensed users.
+In addition, you shall not use the Mobile Application, Products and Services in a manner that could cause damage to The Integrators or third parties.
+You guarantee that all information provided to The Integrators is correct, complete, accurate and up-to-date at all times.
+You acknowledge that Products and Services offered to you through the Mobile Application are only offered to you for individual use. You can’t and won’t use these Products and Services on behalf of a business, a legal entity or vehicle.
+USAGE, MAINTENANCE AND SUPPORT
+Taking into account that The Integrators cannot guarantee either the liveness and/or security of the XRPLP, The Integrators will, in the best interest of the Mobile Application, undertake all reasonable efforts to maintain the availability and quality of such infrastructure.
+The Integrators may temporarily put the whole or a part of the Mobile Application, Products and Services out of operation for preventive, corrective or adaptive maintenance or other service reasons. The Integrators shall make reasonable efforts to ensure that the period during which the Mobile Application and Services are out of operation is no longer than necessary.
+The Integrators reserves the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Mobile Application, Products and Services (or any part thereof) without notice.
+The Integrators may, at its discretion, change the Content or scope of the Mobile Application and Services, including, but not limited to, changing, limiting the usage of, charging for continued usage of (requiring you to opt in before recurring any charges) and/or discontinue any Products, Service or part thereof at any point in time at any location.
+The Integrators may continue to provide the Mobile Application, Products and Services using a new or modified version of the software. If and when new versions become available, The Integrators will inform you.
+The Integrators is not obliged to:
+Maintain, modify or add certain features or functionalities of the Products and Services or software specifically for you, or;
+Ensure that Services as part of or for use in connection with the Mobile Application continue to work in a new or modified version of the Mobile Application. If an improved version has been made available to you, The Integrators shall no longer fix errors in the previous version and/or perform maintenance work with respect to a previous version.
+You agree that The Integrators shall not be liable to you or any third party for any modification, suspension, or discontinuance of the Mobile Application, Products and Services as mentioned in section 4.
+These Terms will govern any updates and upgrades provided by The Integrators that replace and/or update the Mobile Application, Products and Services or parts thereof. Unless such update or upgrade is accompanied by separate (licence) terms which will, in that case, qualify as Additional Terms as defined in these Terms, in which case the Additional Terms will apply.
+Except if explicitly agreed otherwise, the Mobile Application, the Products and the Services are provided as-is, and The Integrators do not provide any warranties in respect of the Mobile Application, the Products and the Services. In particular, The Integrators do not guarantee that the Mobile Application, Products and Services:
+Are free of malfunctions, defects, bugs and other errors, Trojan Horses, malware, and other incidents, including any incidents that lead to corruption or loss of other data;
+Function without interruption;
+Are suitable for your intended usage or any other particular purpose;
+Do not infringe upon any third party rights, and;
+Shall be adapted to changes in applicable legislation and regulations in time.
+You shall take appropriate measures based on the information provided by The Integrators concerning measures to prevent and limit the effects of malfunctions, defects in the Mobile Application, corruption or loss of data, or other incidents.
+FEES AND PAYMENTS
+When you use the Mobile Application as a Mobile Application User
+The Mobile Application and Services are free of charge.
+When you use the Mobile Application as a Client/customer with a Xaman Pro subscription
+In addition to the free Products and Services, The Integrators also offers a Xaman Pro subscription with additional Products and Services. The Xaman Pro Subscription costs 50 euros annually, or the equivalent in XRP/XAH at the time of payment.
+When you use the Mobile Application as a Client/customer with a Xaman Pro subscription plus a subscription for exchange services
+On top of the Xaman Pro Subscription, The Integrators also offers a subscription for exchange services for an extra 5 euros annually, or the equivalent in XRP at the time of payment.
+CONTENTS
+All Content available on the Mobile Application, Products and Services is the property of The Integrators.
+You only acquire a non-exclusive, non-transferable, non-pledgeable and non-sublicensable right to use the Content within the online environment of the Mobile Application in accordance with these Terms.
+LIABILITY
+The Integrators shall not be liable for any damages, losses or costs caused by it, its employees and/or third parties that it engages in connection with the Mobile Application, Content, Products and Services or arising out your access or use or inability to access or use the Mobile Application and Services and any Third Party Services, unless such damages and/or costs have been caused due to [wilful intent (
+opzet
+), deliberate recklessness (
+bewuste roekeloosheid
+) or gross negligence (
+grove schuld
+)] on the part of The Integrators, its employees and/or third parties engaged by it.
+You shall use the Mobile Application and Services as provided by The Integrators for their intended use only as set out in these Terms and relevant instructions, including support instructions. The Integrators is not liable for any damages if you use the Mobile Application, Products and Services for a different purpose than the intended use stated in the instructions.
+The Integrators is not liable for any damages that result from
+any use by you of the Mobile Application, Content and Services that is not in accordance with these Terms, the Additional Terms, if any, and the relevant instructions of The Integrators;
+incorrect, incomplete or unreliable information provided by or on behalf of you, or
+any acts or omissions of, or on behalf of, you.
+Without prejudice to the foregoing provisions, The Integrators shall only be liable for direct damages and costs sustained, which shall in no event exceed the amount of € 50,-.
+You will indemnify The Integrators for all damages, costs and other losses The Integrators incur as a result of any breach of these Terms, Order or other contract by or on your behalf.
+Unless explicitly agreed otherwise, or except where these Terms provide otherwise, any claim against The Integrators will, in any event, lapse after one (1) year from the moment you were or should have been, aware of the claim.
+Nothing in these Terms intends to limit or exclude liability that cannot be limited or excluded by law.
+TERM OF THESE TERMS
+These Terms between The Integrators and you are established by downloading the Mobile Application on your device, whereby you have accepted these Terms.
+These Terms will continue for as long as you use the Mobile Application.
+INTELLECTUAL PROPERTY RIGHTS
+All Intellectual Property Rights with respect to the Mobile Application, Content, Products and Services made (available) by The Integrators and any descriptions, technical data, specifications and/or other documents provided to you, will remain the property of The Integrators. Unless explicitly agreed otherwise, nothing in these Terms should be construed as the transfer of any of The Integrators’ Intellectual Property Rights to you.
+The Integrators grants you a non-exclusive, non-transferable, non-sub-licensable, royalty-free licence for the term of these Terms to use The Integrators’ Intellectual Property Rights insofar as necessary for the usage of the Mobile Application or the access to the Products and Services
+DATA PROTECTION
+Please see our
+Privacy Notice
+for information on how we process your personal data in accordance with de GDPR.
+MISCELLANEOUS
+If The Integrators do not invoke the Terms towards you, this does not entail a waiver of any right The Integrators may have.
+The invalidity, nullification or unenforceability of one or more of the provisions of the Terms and any additional Terms, if applicable, does not affect the validity of the other provisions. The Integrators and you will, in the spirit of these Terms, and good faith consultation, replace the invalid or non-binding provision with another provision that is valid and binding and whose legal consequences approach as closely as possible those of the invalid or non-binding provision.
+These Terms any additional Terms, if applicable, and your respective rights and obligations hereunder may not be assigned, pledged, transferred or sold by you without the prior written approval of The Integrators. The Integrators may assign, pledge, transfer or sell its rights and obligations under these Terms, and any Additional Terms without your prior written approval.
+The headings of these Terms are for convenience only and shall not affect the interpretation of any provision of the Terms.
+The singular includes the plural and vice versa, a gender includes all other genders.
+GOVERNING LAW AND JURISDICTION
+These Terms are governed by and construed in accordance with the laws of the Netherlands, with the exclusion of its conflicts of law rules. Applicability of the United Nations Convention on the International Sale of Goods (CISG, 1980) is explicitly excluded.
+The competent courts of Amsterdam (the Netherlands) shall have jurisdiction to the exclusion of any other court for all disputes and disagreements arising out or in connection with any of these Terms, including disputes regarding the existence and validity thereof. You shall have one month to object and choose to have the dispute and/or disagreement decided by the competent court according to the law.
+XRPL Labs
+PRIVACY NOTICE
+Your privacy matters to us. In this Privacy Notice we explain how The Integrators B.V., acting under the trade name XRPL Labs (
+XRPL Labs
+or
+we
+) uses your personal data we collect through our mobile application (
+XUMM App
+) and the third-party in-app apps, such as the XUMM Support, Tangem Backup, Account Worth, (
+xApps
+) (together, the
+mobile application
+), and our interactions with you via the mobile application.
+XRPL Labs is a Dutch registered and located company and we process your personal data under / in accordance with the General Data Protection Regulation (
+GDPR
+).
+We may change this Privacy Notice from time to time.
+At all times, we will publish the up-to-date version in our mobile application, together with a summary of key changes.
+If we make any important changes to this Privacy Notice (e.g. regarding the personal data we collect, how we use it or why we use it)
+,
+we will notify you.
+1
+Who is the data controller?
+The controller for our mobile application is The Integrators B.V., acting under the trade name ‘XRPL-Labs’, Joop Geesinkweg 901-999 - 1114AB Amsterdam-Duivendrecht, The Netherlands.
+If you have any questions or complaints in relation to the use of your personal data or if you would like to receive more information about how XRPL Labs processes your personal data, please contact us through the communication mechanism in the XUMM app (XUMM Support xApp), via e-mail:
+compliance@xumm.app
+,
+or by sending a registered letter to The Integrators BV (Xumm), Joop Geesinkweg 901-999 - 1114AB Amsterdam-Duivendrecht, The Netherlands.
+2
+How do we collect your personal data?
+Your personal data is (i) provided by you; and/or (ii) obtained from third parties (e.g. Veriff in relation to the AML and sanction checks, XRP Forensics for transaction monitoring, and Zendesk for support information).
+3
+The types of personal data we collect for our purposes and the applicable legal basis for our data processing?
+In the context of your use of the mobile application, we collect, store and use personal data about you as set out in the “personal data” column below. You will also find below the purpose of the processing and the legal basis we rely on for each type of personal data that we process about you.
+Depending on your use of the mobile application, we process different types of personal data from you. You can either be a:
+·
+Mobile application user
+(not using any further services of XRPL Labs and/or having an account to use the XRPL Labs services)
+·
+XRPL Labs client/customer
+(having an account to use the XRRL Labs services, XUMM Pro subscription).
+Based on the above, we created two tables:
+Mobile application user
+Personal data
+Purpose
+Legal basis
+Data related to the use of the mobile application,
+such as:
+·
+XRP ledger wallet address
+·
+Country connecting from
+Preferences regarding services and products.
+Facilitating the mobile application, including maintaining and
+ensuring a secured online environment on our mobile application
+and the services offered through them.
+Necessary for the purpose of our legitimate interests to provide the mobile application to you, and to maintain and improve the mobile application.
+XRPL Labs client/customer
+Personal data
+Purpose
+Legal basis
+Data related to the use of the mobile application,
+such as:
+·
+XRP ledger wallet address
+·
+Country connecting from
+Preferences regarding services and products.
+Facilitating the mobile application, including maintaining and
+ensuring a secured online environment on our mobile application
+and the services offered through them.
+Necessary for the purpose of our legitimate interests to provide the mobile application to you, and to maintain and improve the mobile application.
+Necessary for the purpose of our legitimate interest, namely, to maintain a secure online environment on our application
+Account data*
+, such as:
+·
+Full name
+·
+Address
+·
+Email address
+·
+Date of birth
+·
+Telephone number
+·
+IP address
+·
+User content (such as profile photo, comments and other materials (if uploaded by user))
+·
+KYC data (see below).
+*
+(onboarding XUMM Pro subscription
+,
+on-ramp/off-ramp onboarding)
+Keep and maintain an accurate and adequate profile administration.
+For general use of the mobile application, including, if applicable, onboarding identification and verification.
+User content: customizing your mobile application experience to your preferences, including sending push notific
+ations, personalizing your profile with a profile picture of you and your comments / chats in the mobile application.
+Necessary for the purpose of our contractual relationship with you.
+Necessary for the purpose of our legitimate interests to maintain an adequate profile administration.
+Necessary for compliance with a legal obligation to carry out an identification and verification process (e.g. the
+Money Laundering and Terrorism Financing Prevention Act).
+Processing user content is based on your consent.
+Order data,
+such as:
+·
+Full name
+·
+Delivery address
+·
+Email address
+·
+Telep
+hone number
+·
+Banking details (exchange only)
+·
+Order history
+.
+Manage and process the order. For example, ordering a Tangem card, or any other physical product from us.
+Necessary for the purpose of our contractual relationship with you to manage your order provided through the mobile application.
+Regulated currency exchange data,
+such as:
+·
+Bank account number
+·
+Bank account name
+·
+Transaction amount
+·
+Transaction history
+·
+XRP ledger wallet address
+For providing regulated currency exchange services.
+Necessary for the purpose of our contractual relationship with you.
+Customer experience data,
+such as:
+·
+Experience
+·
+Source of income
+·
+Why exchange functionality
+·
+Source owned XRP.
+For the Xumm Pro subscription onboarding identification and verification, and the use of third parties for verification and data completing purposes.
+For l
+egal obligations to process customer and transaction data and to provide personal data to supervisory authorities (AML and sanction law obligations).
+Necessary for the purpose of our contractual relationship with you.
+Necessary for compliance with a legal obligation which are applicable to XRPL Labs for AML and sanction law obligations.
+Communication data,
+such as:
+·
+Full name
+·
+Email
+·
+Communication history.
+Facilitate the provision of a communication tool.
+Necessary for the purpose of our legitimate interests to facilitate the provision of a communication tool.
+Promotion data (direct marketing communication),
+such as:
+·
+Full name
+·
+Email
+·
+Country.
+Sending direct marketing communications.
+Consent.
+Know
+Your Customer (KYC) data
+,
+such as:
+·
+Copy ID document
+·
+Copy utility bill
+·
+Bank statement
+·
+Credit card statement
+·
+Photo /
+video and metadata of the image (mobile phone type, operating system, provider)
+·
+GPS information about the image's location
+.
+For carrying out our standard due diligence process for identification and verification.
+Necessary for the purpose of our contractual relationship with you.
+Necessary for compliance with a legal obligation to carry out an identification and verification process (e.g. the
+Money Laundering and Terrorism Financing Prevention Act).
+4
+With whom we share the personal data?
+To the extent applicable, we will disclose or share your personal data with the following third parties:
+Party
+Purpose
+AFAS
+For our primary service offering and our backoffice processes, we use services and tools from AFAS. This (ERP) system will hold all personal data from customers.
+Cloudflare
+For data traffic from the application to our platform. Malware and DDOS management/monitoring.
+DigitalOcean
+Hosting provider for infrastructure, support and order form services.
+Firebase (by Google)
+For
+push notification
+delivery and
+crash report collection
+with the mobile application
+.
+(Google already has the data. If you decide to use this, the data can be connected to the mobile application users.)
+Hetzner
+Hosting provider for infrastructure, support and order form services. Fallback cluster if Digital Ocean would be unavailable.
+Stripe
+Online payments for creditcard payments for the Tangem cards.
+Veriff
+SDK
+For
+the KYC procedure, AML and sanction checks.
+External courier providers (for national and international shipments), including, but not limited to, DHL.
+For the sending and customs checks of products, such as the Tangem Card.
+Zendesk
+Support software related to customer support.
+Further, we may disclose or share your personal data:
+·
+to our group entities for business purposes, including administrative, management and accounting purposes, and as part of our regular reporting activities on company performance, in the context of a business reorganization or group restructuring exercise, for system maintenance support and hosting of data;
+·
+if we sell our company or part thereof (including separate assets), or if we merge with another company. In such event, we may share your personal data with the new owner or merging party respectively, but only to the extent necessary for the purpose for which your personal data are processed;
+·
+if we are subject to insolvency proceedings, as part of the sale of our assets by a liquidator (or similar); or
+·
+we are legally obliged or allowed to do so. In such event we shall share your personal data with the relevant supervisory authority, investigative authority or other governmental body.
+5
+How long do we retain your personal data?
+We do not process your personal data any longer than necessary for the processing purpose.
+In this context, we keep your personal data for as long as your account is active or as necessary to provide our services to you.
+More information
+Mobile application user
+Retention Period
+Data related to the use of the mobile application
+6 weeks (log files are deleted every 6 weeks).
+XRPL Labs client/customer
+Retention Period
+Data related to the use of the mobile application
+6 weeks (log files are deleted every 6 weeks).
+Account data
+·
+General: five years after the last exchange / transaction, or five years after our contractual relationship has ended (e.g. termination of the subscription (customer relationship with XRPL Labs)).
+·
+User content: for as long the user profile photo, comments and other materials (if uploaded by user)
+·
+KYC data: see retention period below.
+Order data
+Two weeks after delivery.
+Regulated currency exchange data
+Five years after the customer initiated the exchange transaction.
+Customer experience data
+Five years after we were required to report the exchange transaction.
+Communication data
+·
+30 days
+after the last contact with you.
+o
+If the communication data includes support data, this data is being anonymized after 30 days and retained for development, legal and business purposes.
+Promotion data
+Until you opt-out of receiving promotional emails or messages.
+KYC data
+Five years after completed KYC (verification / identification) procedure.
+If we are subject to a statutory retention period, we will retain your personal data for the period specified by the law. For example, financial administration needs to be retained for a period of 7 years after the relevant fiscal year.
+Notwithstanding the above, we may retain your personal data for the length of any applicable limitation period for claims that might be brought against us later.
+In some circumstances, we may anonymize your personal data so that it can no longer be associated with you, in which case we may use such data without further notice to you.
+6
+How do we apply automated decision-making and profiling
+The GDPR defines automated decision-making (including profiling) as the ability to make decisions by technological means without significant human involvement. Profiling involves the automated processing of personal data with a view to evaluating or predicting personal aspects such as the economic situation, reliability or likely behaviour of a person. In automated decision-making without profiling, personal aspects are not taken into account for evaluation or prediction.
+In providing you with our support we use our support platform Zendesk, which uses ticket information to auto-replay to your questions. This is based on machine learning, certain questions usually resolve with certain answers. Automated decisions without the use of profiling are permitted by the GDPR Implementation Act.
+In order to identify money laundering and, as such, fulfil regulatory requirements, we use customer contact data, transaction data from the historic exchanges with our mobile application and transaction data from the XRP ledger linked to the customer XRP Ledger wallet for the profiling of the customer (creating a customer profile). This profiling is required by law, and based on these profiles we can decide to not (or no longer) provide our services. We do not automatically decide on the basis of profiling as defined in the GDPR. However, we make use of personal aspects (contact data and transaction data) for identifying money laundering and fulfilling of regulatory requirements. Profiles created in this way are always assessed by a human being and that person also makes the decision.
+7
+Where do we store your personal data?
+Mobile application user
+XRPL Labs stores your personal data on servers located within the European Union, namely in the Netherlands.
+XRPL Labs client/customer
+XRPL Labs stores your personal data on servers located within the European Union, namely in the Netherlands.
+Our main processes and services are located and stored within the European Union. Some of our processors and other parties with whom we share your personal data may store your personal data in other locations.
+If we share your personal data in accordance with this Privacy Notice with third parties, we take steps to ensure that we meet any applicable requirements under the applicable privacy and data protection laws.
+8
+How we secure your personal data
+We maintain appropriate organisational and technological safeguards to help protect against unauthorised use, access to or accidental loss, alteration or destruction of personal data.
+See below more information regarding our safeguards
+Data limitation
+We limit the data that we collect. Only data we need to provide the services are collected and only stored for the time we need to process the data to provide the services, taking into account regulatory requirements on retention periods.
+Data that is not directly needed to provide the services in the mobile application, but are needed to fulfil contractual or legal requirements, are stored offline, meaning the data is not available on public networks and is not available on our private network. The data is held on a server or backup facility not connected to our network.
+Data encryption
+The data is encrypted, with solid key management tooling and techniques. The keys are managed by one person, with two additional people being able to access the keys if the first person is not available. However, all processes are implemented and automated not to have to access the keys.
+Access limitation
+Access to servers, databases and platforms is granted on a least privilege basis, and only accessible by employees using private key encryption, only from whitelisted IP addresses (e.g. work & home). For remote work a VPN connection is required. All machines & infrastructure are firewalled.
+Data minimisation
+When processing personal data is no longer necessary, but the data is needed for analytical purposes, the data is anonymised. For example, the support tickets, where after the ticket has been dealt with, we remove the personal data but keep the classified issue for historical purposes and trend analysis.
+Integrity and confidentiality
+All of our employees use password vaults to store their passwords. The vault is only accessible through multi factor authentication.
+Security audits
+We provide the source code of the XUMM App as open-source so that the security of the XUMM app can be checked and challenged by the general public. Also, w
+e subject the XUMM App (the app source code) to periodical & ongoing security audits (Cossack Labs).
+9
+What are your rights?
+You have the right to access your personal data, the right to have your personal data rectified or erased, the right to restriction of the processing, the right to data portability and the right to object to the processing. Most of these rights are not absolute and are subject to exemptions in the law.
+Below we set out your rights in more detail and give information on how you can exercise these.
+We will respond to your exercise of right request within one month, but have the right to extend this period to two months. If we extend the response period, we will let you know within one month from your request.
+·
+Access:
+you are entitled to ask us if we are processing your personal data and, if we are, you can request access to your personal data. This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it. If your request is clearly unfounded or excessive we reserve the right to charge a reasonable fee or refuse to comply in such circumstances.
+·
+Correction or updating:
+you are entitled to request that any incomplete or inaccurate personal data we hold about you is corrected.
+·
+Erasure (deletion):
+you are entitled to ask us to delete or remove personal data in certain circumstances. There are certain exceptions where we may refuse a request for erasure, for example, where the personal data is required for compliance with law or in connection with legal claims. When we need to rely on an exemption, we will inform you about this.
+·
+Restriction:
+you are entitled to ask us to suspend the processing of certain of your personal data about you, for example if you want us to establish its accuracy or the reason for processing it.
+·
+Data portability:
+you may request the transfer of a copy of certain of your personal data to you or another party (if technically feasible). You have the right to ask that we provide your personal data in an easily readable format to another company.
+Please note, this right applies to the personal data you have provided to us and only if we use your personal data on the basis of consent or where we used your personal data to perform a contract with you.
+·
+Objection:
+where we are processing your personal data based on our legitimate interest, you may object to processing on this ground.
+You also have a right to object where we are processing your personal data for the purposes of direct marketing or profiling. You can object at any time and we shall stop processing the information you have objected to, unless we can show compelling legitimate grounds to continue that processing.
+·
+Withdraw your consent.
+Where you have provided your consent to our processing of your personal data you can withdraw your consent at any time. If you do withdraw consent, it will not affect the lawfulness of what we have done with your personal data before you withdrew consent.
+If you exercise the rights above and there is any question about who you are, we may require you to provide information from which we can satisfy ourselves as to your identity.
+If you want to exercise any of these rights, or withdraw your consent, please send us an email via
+support@xumm.app
+.
+10
+How can you lodge a complaint with a supervisory authority?
+If you have any complaint about the way we process your personal data, you may lodge a complaint with a supervisory authority in the country of your residence, where you work or where an alleged infringement of the applicable data protection law took place.

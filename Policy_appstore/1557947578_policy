@@ -1,0 +1,49 @@
+PlomGit
+PlomGit is a basic, open source git client for iOS and Android. Although it only supports a limited number of features, it should be sufficient for version controlling personal files.
+It is programmed using Flutter and uses the
+libgit2 library
+.
+The source code for PlomGit is available on
+GitHub
+.
+Using PlomGit with GitHub
+First you should generate a passcode token with GitHub. This is only necessary if you need to access private repositories or push changes to repositories. If you're just cloning public repositories, it's not necessary to store credentials in PlomGit.
+Go to
+github.com
+website and login
+Go to the settings section of the website
+Go to the Developer Settings
+Go to the Personal Access Tokens section
+Generate a new token and configure the token to have "repo" access
+Copy the generated token to your clipboard
+You can then go into PlomGit and store your access token in the app.
+From the main screen on PlomGit, press the three dots in the upper-right to open the menu, and then choose Accounts
+Press the big + sign to create a new account
+Give a name to the account such as "GitHub"
+Put your github user name into the User section
+Paste the personal access token from your clipboard into the "password or token" box
+Hit create
+Go back to the main screen of PlomGit
+You can now clone a repository. First, get the URL of a repository
+In a web browser, find the repository on github that you want to clone
+If there is a green Code button, you can select it, and a menu will appear with the HTTPS clone URL for the repository
+On many mobile browsers, GitHub does not show the Code button, so you will need to guess what the Git URL for the repository is. In most cases, you can simply take the URL for the project and add ".git" on the end to get the URL for the git repository
+You can then clone the repository in PlomGit
+From the main screen, press the big + button
+Choose "clone repository" from the menu
+Supply a name for the repository
+Put the URL for the git repository in the "Remote URL" section
+If you set-up a passcode token earlier, then switch from "Optional Password Login" to "Saved Credentials" using the drop-down
+Then make sure it is using the correct saved credentials
+Choose "Clone" to clone the repository
+Downloads
+Packaged versions of PlomGit for different platforms can be downloaded from here:
+Android (Google Play Store)
+iPhones and iPads (Apple App Store)
+Android (direct apk download)
+Privacy Policy
+Storing user data properly and securely is a heavy responsibility, and I do not want to take on that burden. As such, the app does not intentionally gather information about users.
+Support
+If you need support, you can
+file an issue
+, or you can send an email to plomgit AT plom.dev.

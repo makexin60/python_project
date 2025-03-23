@@ -1,0 +1,70 @@
+Search this site
+Embedded Files
+Skip to main content
+Skip to navigation
+Cloud Storage: Data Backup Privacy Policy
+Privacy Policy for APPS GLOBAL Zone - FZCO
+By installing, accessing, connecting to, or using Cloud Storage Data Backup on your mobile device, you agree to the terms outlined in this Privacy Policy. If you or your legal guardian (if applicable) do not agree with any part of this Privacy Policy, you are required to immediately uninstall the app and delete any related data from your device.
+Links to Third-Party Websites and Services:
+APPS GLOBAL Zone - FZCO may include links to third-party websites or services, such as advertisements and User Analytics. Please be aware that once you access these external sites, any information you share will be governed by their own privacy policies and not this one. APPS GLOBAL Zone - FZCO does not share your data with these third-party sites, nor are we liable for their data practices.
+Children’s Privacy Policy:
+Our services are not intended for use by individuals under the age of 13. We do not knowingly collect any personally identifiable information from children under the age of 13. If you are a parent or guardian and become aware that your child has provided us with personal data, please contact us immediately. Upon discovery that personal data has been collected from a child without parental consent, we will promptly take action to delete the information from our systems.
+Cloud Storage Data Backup Use of Data:
+In our Cloud Storage Data Backup app, file sharing requires access to your device’s files. The app may ask for your email address, phone number, or Google account to facilitate registration. This information is securely stored on our servers for the purposes of user identification and data restoration. By continuing to use the app, you agree to its Privacy Policy, which outlines how your data is handled.
+How Cloud Storage Data Backup Works:
+Our Cloud Storage Data Backup app helps you back up data like photos, videos, and contacts. To use this functionality, you will need to provide access to your device's files. Similar to the File Sharing Manager, the app may request your email, phone number, or Google account information for registration purposes. This data is securely stored to identify you and assist with cloud data restoration. By using this app, you accept its Privacy Policy regarding data handling.
+Data Management and Security:
+All user data, including media files (photos, videos, audio) and documents (such as contacts), are encrypted and securely managed by APPS GLOBAL Zone - FZCO. The files you back up to our servers remain private and inaccessible to the public. Access to user files is limited to specific scenarios, such as:
+1.
+Legal obligations
+2.
+Debugging and performance testing to improve the user experience
+3.
+Enforcement of our Terms of Service
+Access to your files is restricted to a small number of authorized personnel, and strict access controls are in place.
+User Data Sharing Policy:
+We collect user data to enhance your experience. All information is encrypted using industry-standard protocols. While we may share non-personally identifiable information with third parties for advertising purposes, we do not disclose personal data unless required by law or in cases of suspected illegal activity or security threats.
+Compliance with Legal Requirements:
+APPS GLOBAL Zone - FZCO reserves the right to share user data with third parties in the following cases:
+1.
+To comply with legal obligations or respond to legal processes
+2.
+To protect the legal rights of APPS GLOBAL Zone - FZCO
+3.
+To investigate, prevent, or address illegal activities, suspected fraud, potential safety threats, or violations of our terms of service
+Permissions Requested by Our Apps:
+To provide core functionality, APPS GLOBAL Zone - FZCO may request the following permissions:
+1.
+Camera: To capture photos and videos
+2.
+Storage: To read, modify, or delete files from your device
+3.
+Internet: For connectivity purposes
+4.
+Billing: To handle in-app purchases
+5.
+Phone State: To read the state of your phone
+These permissions are used strictly to ensure the proper functioning of the app, and we do not use them for unauthorized or unethical purposes.
+Deleting Your Data and Account:
+We use the following steps to delete the user account:
+API ENDPOINT:  https://cloud-storage.sofit.ltd/user
+METHOD: DELETE
+HEADER: {{jwt_token}}
+File Deletion Process
+We use the following steps to delete the user files:
+API ENDPOINT:  https://cloud-storage.sofit.ltd/file
+METHOD: DELETE
+HEADER: {{jwt_token}}
+Alternatively, you can delete your Cloud Backup account directly through the app by navigating to Settings and selecting Delete Account.
+Security Measures:
+APPS GLOBAL Zone - FZCO employs used advanced technology and internal policies to protect your data from unauthorized access and misuse.
+Changes to This Privacy Policy:
+This Privacy Policy may be revised for reasons such as legal changes or user feedback. APPS GLOBAL Zone - FZCO reserves the right to modify this policy without providing prior notice. Users are encouraged to periodically review the policy for any updates.
+Contact Us:
+If you have any questions about this Privacy Policy or how we handle your data, feel free to reach out to us at appglobalzonefzco@gmail.com. By continuing to use APPS GLOBAL Zone - FZCO, you acknowledge and accept the terms of this Privacy Policy.
+Page updated
+Google Sites
+Report abuse
+This site uses cookies from Google to deliver its services and to analyze traffic. Information about your use of this site is shared with Google. By using this site, you agree to its use of cookies.
+Learn more
+Got it

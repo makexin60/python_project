@@ -1,0 +1,89 @@
+Search this site
+Embedded Files
+Skip to main content
+Skip to navigation
+Privacy Policy, Terms and Acknowledgements
+Privacy Policy
+This app stores data on your local device and on a secure server. The data stored is only used for the function of the app
+and
+for the improvement of the app.
+Your devices Android ID is stored for data integrity, n
+o other data is collected, stored, transmitted or used regarding the other information on your device. This app uses the network access to the internet to transfer app related data, but requires no special permissions or access to other data on your device .  No data is shared
+with any other parties. Data is held in a secure database on a secure server. The data is retained for future functionality, a user can request that their data be deleted at any time by contacting our privacy point of contact Lew Perren, who can be contacted on email at lewperren@googlemail.com
+This app was developed by Perren Consulting Ltd, our privacy point of contact is Lew Perren, who can be contacted on email at
+lewperren@googlemail.com
+.
+Copyright © 202
+2
+Perren Consulting Ltd
+Terms of use
+Care has been taken to make the information and calculations as accurate as possible, but the software is used at your own risk. The software developers and their associates are not responsible for any loss incurred due to using this software. This software is not intended to replace professional advice and users of the software should take professional advice before making decisions regarding their business.
+Acknowledgements
+The software developers would like to acknowledge and thank the following:
+http://stackoverflow.com – for providing helpful guidance in the numerous posts from the development community;
+https://developer.android.com/ – for providing helpful documentation;
+http://www.tutorialspoint.com/android/ – for proving excellent tutorials on most areas of Android development;
+http://hmkcode.com/android-simple-sqlite-database-tutorial/ – for providing an example database access class that inspired our work;
+http://www.android-ide.com – for providing an intuitive integrated development environment;
+http://www.androidhive.info/2015/09/android-material-design-working-with-tabs/ for providing material design code examples that inspired our design
+https://developer.android.com/reference/android/speech/tts/TextToSpeech.html – for helping to with text to speech features.
+http://www.achartengine.org – for providing the graph library used\n http://www.geeks.gallery/android-drawing-bar-chart-graph-using-achartengine-library/ – for providing an excellent example of using the achartengine library
+https://design.google.com/- for providing the material design icons, colour and other design suggestions
+https://developer.android.com/training/articles/security-ssl.html for an excellent article on Android ssl and security
+https://hc.apache.org/httpcomponents-client-ga/tutorial/html/fundamentals.html – helpful documentation on the basics of requests
+https://www.simplifiedcoding.net/php-android-tutorial-part-1/ – for providing a helpful tutorial that inspired our coding for the posting of data to the mysql server database
+http://programtalk.com/java-api-usage-examples/org.apache.http.conn.ssl.SSLSocketFactory/ – provided helpful examples from open source projects that inspired our coding for secure ssl posting to the mysql server database, particularly the curl.java example
+http://www.accaglobal.com\nhttp://www.accountingcoach.com\nwww.a4id.org › files › user › documents
+https://www.gov.uk\nhttp://www.investopedia.com
+https://en.m.wikipedia.org
+The structure and features of the business plan where informed by:
+Pannell, Kerr and Foster (1998) Preparing your business plan, in C. Barrow (Ed) The Sage Guide: Setting Up and Managing Your Own Business, Hong Kong: Kensington West, pp 70-74 – Helpful overview of the structure, an adapted version of this formed the main tab structure for the app
+Business Link, Coventry and Warwickshire (1998) Starting in Business, in C. Barrow (Ed) The Sage Guide: Setting Up and Managing Your Own Business, Hong Kong, Kensington West, pp. 23-27 – Helpful checklist of features
+MyBizPlan app from the Australian Government, see business.gov.au – provides an extensive list of possible features for a business plan
+http://www.startupdonut.co.uk/startup/business-planning/write-business-plan/writing-business-plan#WABP3 – helpful list of features
+https://www.princes-trust.org.uk/help-for-young-people/tools-resources/business-tools/business-plans – some helpful pointers to business plan features
+http://www.barclays.co.uk/insight/writing-a-business-plan – helpful template available as link on the page
+Business: Plan, Start, Succeed app from Alex Genadinik– a competitor app reviewed as part of the development process
+Business Plan in 5 minutes from HyperQuestions – a competitor app reviewed as part of the development process
+Start up Studio app from Oneiro Startup– a competitor app reviewed as part of the development process
+Startup Business Planner app from Ssaving Solutions– a competitor app reviewed as part of the development process
+Your One Page Business Plan app from Not so Freaky University – competitor app reviewed as part of the development process
+http://www.marketingdonut.co.uk/marketing/marketing-strategy/your-target-market/six-steps-defining-your-target-market – helpful guide from Grant Leboff to defining your customer and market
+Barney, J. (1991) ‘Firm resources and sustained competitive advantage’, Journal of Management, 17(1), 99-120 – definitive article on the Resource Based View of strategy
+Porter, M.E. (1980) Competitive Strategy, New York, Free Press – definitive text on industry analysis
+Porter, Michael E. (1985) Competitive Advantage, New York: Free Press – definitive text on industry analysis and competitive advantage
+Mintzberg, H., Ahlstrand, B. and Lampel, J. (2009) Strategy Safari: Your complete guide through the wilds of strategic management, Second Edition, Harlow: Pearson – helpful overview of schools of strategic thinking\n\n
+Notes on each section:
+The Business
+The aim was to keep the plan as succinct as possible for input on mobile devices, so tradeoffs had to be made between being comprehensive and having a usable app. This section is driven by what is termed the Resourced Based View of strategy, which suggests that competitive advantage can be gained through a firm’s internal resources (Barney, 1991). Pannell, Kerr and Foster (1998) suggest including a history of the business in this section. This would fit well with Barney’s (1991) ideas, but was excluded because it would involve too much typing on a small device and it is assumed that many businesses using the app will be startup companies. Many of the sources consulted suggest giving information on the key people who will be running the business (e.g. https://www.princes-trust.org.uk/help-for-young-people/tools-resources/business-tools/business-plans, http://www.barclays.co.uk/insight/writing-a-business-plan, Pannell, Kerr and Foster, 1998). Here key personnel are included with an emphasis on the abilities they will bring to the business. Focusing on abilities, rather than just a profile, draws upon the ideas from the Resource Based View of strategy (see Barney, 1991). The idea being that prompting on abilities puts the emphasis on core skills the people bring and how they might contribute to competitive advantage.
+The Market
+Again the aim was to keep the plan succinct. This section is driven by the notion of positioning the firm within its competitive situation (see helpful discussion of the positioning view of strategy in Mintzberg et al, 2009 and Porter’s, 1985 classic text). An explanation of the product/service offer is prompted in this section (as suggested by Porter, 1980), whereas it could be argued that this could be included under ‘The Business Tab’. The reason for including it here is that it focuses the mind of the user on their product/service just before they consider how their business will be positioned. Porter (1980) suggest that business can target the whole industry or a specific segment. Since it is assumed that most businesses using the app are likely to be of smaller scale, then positioning to a specific target segment was felt to be most applicable. This supported by the literature, see for example:
+Leitner, K. and Guldenberg,S. (2010) Generic strategies and firm performance in SMEs: a longitudinal study of Austrian SMEs, Small Business Economics, 35(2), 169-189
+Lester, D.L., Parnell, J.A., Crandall, W.R. and Menefee, M.L. (2008) Organzational life cycle and performance among high and low performers, International Journal of Commerce and Management, 18(4), 313-330
+Nandakumar,M.K., Ghobadian, A. and O Regan, N. (2011) Generic strategies and performance – evidence from manufacturing firms, International Journal of Productivity and Performance Management, 60(3), 222-251
+Parnell, J.A., Long, Z. and Lester, D. (2015) Competitive strategy, capabilities and uncertainty in small and medium sized enterprises (SMEs) in China and the United States, Management Decision, 53(2), 402-431.
+Pelham, A. M. (2000) Market orientation and other potential influences on performance in small and medium-sized manufacturing firms, Journal of Small Business Management, 38(1), 48–67.
+Porter, M.E. (1980) Competitive Strategy, New York, Free Press
+Porter, M.E. (1985) Competitive Advantage, New York, Free Press
+Savrul, M., Ineckara, A and Sener, S. (2014) The potential of e-commerce for SMEs in a globalizing business environment, Procedia Social and Behavioual Sciences, 150, 35-45
+Watkin, D. G. (1986) Toward a competitive advantage: A focus strategy for mall retailers, Journal of Small Business Management, 24(1), 9–16.
+Porter (1980, page 38) suggests that a business can target “a particular buyer group, segment of the product line, or geographic market”. The product/service offering prompt was already discussed above. The next form of focus is the buyer, in the app the term customer is used as it is felt to be more user friendly and is the term used by more practical sources. As would be expected, many of the sources consulted suggest plans should contain information on the customer, for example, The Prince’s Trust ask for a details of “typical customer” (see reference above), Barclays Bank ask for a “typical customer profile”, and Grant Leboff at Marketing Donut talks about “painting a picture” of target customers. The geographic market does not appear to feature so prominently in the practical sources reviewed. However, it is an important form of positioning and targeting within a market (Porter, 1980, 1985) and so is included. The geographic segment that a business targets is also a key feature of wider discussions of strategy (e.g. Prahalad, C.K. and Doz, Y, 1994, The Dynamics of Global Competition, in B de Witt and R. Meyer (Eds) Strategy: Process, Content, Context, St Paul: West Publishing).
+Porter (1980, 1985) suggests that competitive advantage can be achieved through selecting one of two generic strategies: cost leader or differentiation. However, Barney (1991) suggests that competitive advantage can be achieved through particular internal resources. There appears to be value in both perspectives, so to accommodate them the app has the general prompt ‘competitive advantage’ and then prompts related to both perspectives.
+Finally, the last prompts in the ‘market tab’ relate to competitors, a key component of Porterian analysis and his well known industry analysis framework. In this framework, Porter (1980/85) uses the term rivals, for the app the term competitor is used as it is thought to be more user friendly. Porter (1980) also uses the term competitor throughout the discussion in the text. He provides an excellent framework for competitor analysis in chapter three of his first text (1980), but this is too detailed for the app. In the app, only competitor weaknesses are considered, because it is this aspect that will feature in the discussion section of the plan. As you would expect, many of the practical guides suggest including an analysis of competitor weaknesses and strengths (e.g. (e.g. https://www.princes-trust.org.uk/help-for-young-people/tools-resources/business-tools/business-plans, http://www.barclays.co.uk/insight/writing-a-business-plan, Pannell, Kerr and Foster, 1998)
+The Strategy
+Pannell, Kerr and Forster (1998) suggest the plan should set the objectives for the business and give the steps that should be taken to achieve the objectives. They also suggest that the steps should be detailed with timescales, and the key person responsible. Some of the other practical guides take a similar detailed approach, for example Barclays Bank suggest setting objectives with different time scales, and then steps to achieve them each year. A similar approach is taken with the app, but given the need for mobile devices to have restricted input, the prompts have been simplified to a five year objective with five steps to achieve the objective, without specific details on responsibilities or time frames.
+The Finances
+Most of the practical guidance suggests some form of financial projections. Pannell, Kerr and Forster (1998) suggest projections for three years, Barclays ask for a projected profit and loss account (http://www.barclays.co.uk/insight/writing-a-business-plan) and sales/cost forecast. The app provides a five year profit and loss forecast, the period being inline with the five year objectives from the previous section.
+Formulas used in the projections were informed by:
+http://www.accaglobal.com
+http://www.accountingcoach.com
+www.a4id.org › files › user › documents
+https://www.gov.uk
+http://www.investopedia.com https://en.m.wikipedia.org
+We would like to give special thanks to Matthew Perren who provided the graphics for the app and David Perren who checked some of the logic, both sons of the developer. Any outstanding errors or issues are not their fault.
+Page updated
+Google Sites
+Report abuse
+This site uses cookies from Google to deliver its services and to analyze traffic. Information about your use of this site is shared with Google. By using this site, you agree to its use of cookies.
+Learn more
+Got it

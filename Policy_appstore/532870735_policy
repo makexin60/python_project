@@ -1,0 +1,256 @@
+Looking4Cache
+Geocaching App for iPhone and iPad
+Menu
+Home
+Functions
+Function overview
+Coming Functions
+Info
+Pricing
+Differences Lite and Pro Version
+Geocaching.com Basic Members
+Translations
+URL Scheme
+Manual
+Blog
+Language:
+Deutsch
+English
+Privacy Policy App
+The following privacy policy applies to the use of the app “Looking4Cache Pro” and “Looking4Cache Lite” (hereinafter “App”) of Looking4Cache UG (haftungsbeschrängt) (hereinafter “we” and “our”).
+1. General information about data processing
+We put great value on data protection. Your personal data is collected and processed in compliance with the applicable data protection regulations, in particular the German “Datenschutzgrundverordnung” (DSGVO). We collect and process your personal data to provide a functional app as well as its contents and services. Your personal data will only be processed with your permission.
+2. Legal basis for the processing of personal data
+The processing of personal data is carried out in accordance with Art. 6 Para. 1a of the DSGVO, unless otherwise indicated.
+3. Storage time
+Unless otherwise indicated, we store personal data on our server until a deletion is ordered by you.
+4. Name and address of the controller
+The controller in terms of the DSVGO and other national data protection laws of the member states as well as other data protection regulations is:
+Looking4Cache UG (haftungsbeschränkt)
+Oberer Wasen 12
+74626 Bretzfeld
+Germany
+E-Mail: info@looking4cache.com
+5. Data collected by Looking4Cache
+5.1. Log files Looking4Cache Server
+Every time our server is accessed, this access is logged in log files. This is done when starting the app (checking for news), when downloading maps for offline use (offline vector maps, hillshades), when fetching help content and when saving and loading DNF markers or cache solver variables.
+The following data is stored:
+called URL
+date and time
+app and version used
+anonymized IP address
+The purpose of logging is the traceability of errors and the analysis of the stability of the server. An assignment to your person does not take place. The logs are automatically deleted after 30 days.
+This is also our legitimate interest pursuant to Art. 6 para. 1f of the DSGVO.
+5.2. User-related data on the Looking4Cache Server
+Data related to geocaching that cannot be stored on the Geocaching Platform is stored in a database on our server. These are the variables of the Cache Solver.
+The following information is transferred and stored:
+user ID of the main user
+Geocache ID (GC-Code)
+variables
+date
+The purpose of storing this data is to make it accessible when a geocache is downloaded again after it has been deleted from the local database.
+5.3. Statistical data / Pro-Test data on the Looking4Cache Server
+Our server stores which version of the app was started and, in the case of the „Looking4Cache Lite“ app, whether a test of the functions of the Pro version has already been offered.
+The following information is transferred and stored:
+pseudonymized user ID of the main user
+app version
+date
+offered / accepted Pro Test
+The purpose of saving is to provide the test mode for the functions of „Looking4Cache Pro“ within the „Looking4Cache Lite“ app and to generate statistics on the use of this app (version distribution, number of active users).
+It is possible to access the respective data record with the full user ID (e.g. to offer the Pro Test again), but it is not directly possible for us to draw conclusions about the respective user based on the stored data.
+In the point of statistics is also our legitimate interest according to Art. 6 para. 1f of the DSGVO.
+6. Access to device data
+Our app uses various data from the iOS device. These accesses are deactivated by default and the authorization for them is not requested until required. All these accesses can be revoked individually in the iOS settings.
+6.1. Location
+The location is used for displaying your own position on the map, calculating the distance to geocaches and, if necessary, for searching for geocaches via the Geocaching LIVE API.
+Your location will not be transferred to us.
+Your location is not automatically transferred to third parties, only used locally. A manual transfer to Groundspeak Inc. via the Geocaching LIVE API only happens if you have requested it during a search for geocaches.
+6.2. Photos / Camera
+Accessing your photos or the camera is done manually through the cache solver (when adding photos) or when creating geocache logs, if you attach a photo to the geocache log.
+Photos are not transferred to our server.
+When photos are attached to Geocache logs, they are transferred to Groundspeak Inc. via the Geocaching LIVE API.
+6.3. Calendar / Contacts
+For Event Geocaches you can automatically create calendar entries. This requires access to the calendar. If the calendar is shared with other people, access to the contacts is also required (technically necessary). Calendar entries created from the app can be opened and deleted. The app does not access other calendar entries.
+If the profile of a geocacher is opened within the app, it can be called if its geocaching name is entered as a nickname in the contact of the address book. You can also search for geocache log entries for which you have a contact in the address book. To do this, the app searches the address book for contacts with corresponding nicknames. A nickname can also be automatically entered in a contact. This function is optional, the corresponding rights do not have to be granted if this function is not used.
+No calendar or contact information is transmitted to our server or to third parties.
+7. Third-party vendors
+7.1. Groundspeak Inc. / geocaching.com / Geocaching LIVE API
+It is possible to add one or more geocaching.com users to this app. For this the Geocaching LIVE API of Groundspeak Inc, the operator of geocaching.com, is used.
+This function requires an already existing user on this platform. To create it, you must accept Groundspeak Inc.’s privacy policy, which you can review here:
+https://www.geocaching.com/about/privacypolicy.aspx
+This function is optional, it is also possible to use this app without such a connection by importing GPX files.
+7.2. GCVote / gcvote.com
+It is possible to login one or more gcvote.com users to this app. This function is optional. GCVote is subject to its own privacy policy, which can be viewed here:
+http://gcvote.com/datenschutz.php
+7.3. Google Inc. / Crashlytics
+This app uses Crashlytics from Google Inc. to collect error messages in case of crashes. No personal data will be transferred from you. The error message contains a reference to the programming that caused the crash, information about the device used (model, iOS version, free RAM memory, free flash memory), information about the app version used (Lite / Pro and version number) and the GC-Code of the last opened geocache.
+This information is only used to improve the quality of this app.
+The privacy policy for Crashlytics can be viewed here:
+https://policies.google.com/privacy
+7.4. Google Inc. / AdMob (only with Looking4Cache Lite)
+Within the app „Looking4Cache Lite“ advertising by AdMob of Google Inc. is shown. AdMob’s privacy policy can be viewed here:
+https://policies.google.com/privacy
+Google AdMob uses personalized advertising, if activated. Google AdMob also integrates other advertising providers with whom data may be shared. The following link can be used to disable personalized advertising and display a list of partner networks, including their privacy statements: (This link is only available inside the app)
+If you do not want Google AdMob, you can switch to the app „Looking4Cache Pro“. The app „Looking4Cache Pro“ does not contain Google AdMob.
+7.5. Google Inc. / YouTube
+Help content available as video is provided by YouTube. As soon as such a video is viewed, YouTube may also collect personal data from you.
+The Google privacy policy can be viewed here:
+https://policies.google.com/privacy
+8. Rights of the data subject
+According to the applicable laws, you have various rights regarding your personal data. If you wish to assert these rights, please send your request by e-mail or by post to the address stated in section 4, clearly identifying yourself.
+Below you will find an overview of your rights.
+8.1. Right of confirmation and access
+You have the right to receive confirmation from us at any time as to whether personal data concerning you is being processed. If this is the case, you have the right to request from us free of charge information about the personal data stored about you together with a copy of this data. Furthermore, there is a right to the following information:
+the purposes of the processing;
+the categories of personal data being processed;
+the recipients or categories of recipients to whom the personal data have been or are still being disclosed, in particular recipients in third countries or international organisations;
+if possible, the planned duration for which the personal data will be stored or, if this is not possible, the criteria for determining this duration;
+the existence of a right to correction or deletion of personal data concerning you or to restriction of the processing by the controller or a right of objection to such processing;
+the existence of the right to lodge a complaint with a supervisory authority;
+if the personal data is not collected from you, all available information about the origin of the data;
+the existence of automated decision-making including profiling in accordance with Article 22(1) and (4) DSGVO and, at least in these cases, meaningful information on the logic involved and the scope and intended effects of such processing for you.
+If personal data are transferred to a third country or an international organisation, you have the right to be informed about the appropriate guarantees in accordance with Art. 46 DSGVO in connection with the transfer.
+8.2. Right to erasure (Right to be forgotten)
+In accordance with Art. 17 para. 1 DSGVO, you have the right to demand that we delete personal data concerning you without delay, and we are obliged to delete personal data without undue delay, provided that one of the following reasons applies:
+personal data are no longer necessary for the purposes for which they were collected or otherwise processed.
+you withdraw your consent on which the processing was based pursuant to Art. 6 para. 1 sentence 1 a) DSGVO or Art. 9 para. 2 a) DSGVO, and there is no other legal basis for the processing.
+you file an objection to the processing according to Art. 21 para. 1 DSGVO and there are no overriding legitimate reasons for the processing, or you file an objection to the processing according to Art. 21 para. 2 DSGVO.
+The personal data have been processed unlawfully.
+The personal data must be erased for compliance with a legal obligation in Union or Member State law to which the controller is subject.
+The personal data was collected in relation to information society services offered in accordance with Art. 8 para. 1 DSGVO.
+If we have made the personal data public and we are obliged to delete them according to art. 17 para. 1 DSGVO, we take appropriate measures, also of a technical nature, taking into account the available technology and the implementation costs, to inform those responsible for data processing who process the personal data that you have requested the deletion of all links to this personal data or of copies or replications of this personal data.
+8.3. Right to data portability
+You have the right to receive the personal data about yourself that you have provided to us in a structured, current and machine-readable format and you have the right to transmit this data to another controller without hindrance by us, in case of
+the processing is based on consent in accordance with Art. 6 para. 1 sentence 1 a) DSGVO or Art. 9 para. 2 a) DSGVO or on a contract in accordance with Art. 6 para. 1 s. 1 b) DSGVO and
+the processing is carried out using automated methods.
+When exercising your right to data transferability in accordance with Art. 20 para. 1, you have the right to request that the personal data be transferred directly by us to another controller, as far as this is technically feasible.
+8.4. Automated individual decision-making, including profiling
+You have the right not to be subject to a decision based solely on automated processing, including profiling, that has legal effect on you or significantly affects you in a similar manner.
+An automated decision making based on the collected personal data does not take place.
+8.5. Right to withdraw data protection consent
+You have the right to withdraw your consent to the processing of personal data at any time.
+8.6. Right of appeal to a supervisory authority
+You have the right of appeal to a supervisory authority, in particular in the Member State where you are staying, working or suspected of having infringed the law, if you believe that the processing of personal data concerning you is unlawful.
+9. Withdrawal
+You can withdraw this privacy policy by uninstalling this app. Any data already stored on our server will remain unaffected. Otherwise the right of data transfer could not be exercised. To request the deletion of your data, please send your request by e-mail or by post to the address stated in section 4.
+This website uses cookies.
+Read More
+Privacy & Cookies Policy
+Close
+Privacy Overview
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the ...
+Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
+Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.
+Sub-section Policy: 
+Sub-policy 0
+https://www.looking4cache.com/en/datenschutz:
+Looking4Cache
+Geocaching App for iPhone and iPad
+Menu
+Home
+Functions
+Function overview
+Coming Functions
+Info
+Pricing
+Differences Lite and Pro Version
+Geocaching.com Basic Members
+Translations
+URL Scheme
+Manual
+Blog
+Language:
+Deutsch
+English
+Privacy Policy
+The following privacy policy applies to the use of all websites under the domains looking4cache.com (incl. the forwarding from looking4cache.de) and offlinemap.info of Looking4Cache UG (haftungsbeschrängt) (hereinafter “we” and “our”).
+1. General information about data processing
+We put great value on data protection. Your personal data is collected and processed in compliance with the applicable data protection regulations, in particular the German “Datenschutzgrundverordnung” (DSGVO). We collect and process your personal data to provide functional websites and apps as well as its contents and services. Your personal data will only be processed with your permission.
+The use of our websites is usually possible without providing personal data. As far as on our sides personal data (for example name, address or e-mail addresses) are collected, this takes place, as far as possible, always on optional basis. This data will not be passed on to third parties without your explicit consent.
+We would like to point out that data transmission over the Internet (e.g. communication by e-mail) can have security gaps. A complete protection of data against access by third parties is not possible.
+2. Legal basis for the processing of personal data
+The processing of personal data is carried out in accordance with Art. 6 Para. 1a of the DSGVO, unless otherwise indicated.
+3. Storage time
+Unless otherwise indicated, we store personal data on our server until a deletion is ordered by you.
+4. Name and address of the controller
+The controller in terms of the DSVGO and other national data protection laws of the member states as well as other data protection regulations is:
+Looking4Cache UG (haftungsbeschränkt)
+Oberer Wasen 12
+74626 Bretzfeld
+Germany
+E-Mail: info@looking4cache.com
+5. Data collected by Looking4Cache
+5.1. Log files Looking4Cache Server
+Every time our server is accessed, this access is logged in log files.
+The following data is stored:
+called URL
+date and time
+app and version used
+anonymized IP address
+The purpose of logging is the traceability of errors and the analysis of the stability of the server. An assignment to your person does not take place. The logs are automatically deleted after 30 days.
+This is also our legitimate interest pursuant to Art. 6 para. 1f of the DSGVO.
+5.2. Cookies
+Our websites uses as few cookies as possible. Mainly the last selected language of the website is saved. If you create a comment, your name (or your pseudonym) and your e-mail address will be saved in cookies so that you do not have to fill them in again the next time you comment. Due to the obligation to indicate the use of cookies when accessing the website, an additional cookie is required to store the “Accept” button of the cookie information.
+It is possible that further cookies with technical background are set automatically, e.g. by our CDN provider and DDoS protection CloudFlare. These can normally be viewed and deleted in the settings of your web browser.
+Tracking and analytics cookies are not used by our site.
+5.3. Blog comments
+As far as you create a comment, personal data will be stored by you. These are:
+Your name (or a pseudonym)
+Your IP address
+Your e-mail address
+The text of your comment
+However, only your name and the text of your comment will be published.
+6. Third-party vendors
+6.1. Google Inc. / YouTube
+Help content available as video is provided by YouTube. As soon as such a video is viewed, YouTube may also collect personal data from you.
+The Google privacy policy can be viewed here:
+https://policies.google.com/privacy
+6.2. CloudFlare
+We use CloudFlare as CDN and to protect against attacks like DDoS and spam. A content delivery network stores static website content on servers distributed worldwide so that it can be delivered more quickly to the calling browsers and that fewer requests arrive on our server.
+The CloudFlare privacy policy can be viewed here:
+https://www.cloudflare.com/security-policy
+7. Rights of the data subject
+According to the applicable laws, you have various rights regarding your personal data. If you wish to assert these rights, please send your request by e-mail or by post to the address stated in section 4, clearly identifying yourself.
+Below you will find an overview of your rights.
+7.1. Right of confirmation and access
+You have the right to receive confirmation from us at any time as to whether personal data concerning you is being processed. If this is the case, you have the right to request from us free of charge information about the personal data stored about you together with a copy of this data. Furthermore, there is a right to the following information:
+the purposes of the processing;
+the categories of personal data being processed;
+the recipients or categories of recipients to whom the personal data have been or are still being disclosed, in particular recipients in third countries or international organisations;
+if possible, the planned duration for which the personal data will be stored or, if this is not possible, the criteria for determining this duration;
+the existence of a right to correction or deletion of personal data concerning you or to restriction of the processing by the controller or a right of objection to such processing;
+the existence of the right to lodge a complaint with a supervisory authority;
+if the personal data is not collected from you, all available information about the origin of the data;
+the existence of automated decision-making including profiling in accordance with Article 22(1) and (4) DSGVO and, at least in these cases, meaningful information on the logic involved and the scope and intended effects of such processing for you.
+If personal data are transferred to a third country or an international organisation, you have the right to be informed about the appropriate guarantees in accordance with Art. 46 DSGVO in connection with the transfer.
+7.2. Right to erasure (Right to be forgotten)
+In accordance with Art. 17 para. 1 DSGVO, you have the right to demand that we delete personal data concerning you without delay, and we are obliged to delete personal data without undue delay, provided that one of the following reasons applies:
+personal data are no longer necessary for the purposes for which they were collected or otherwise processed.
+you withdraw your consent on which the processing was based pursuant to Art. 6 para. 1 sentence 1 a) DSGVO or Art. 9 para. 2 a) DSGVO, and there is no other legal basis for the processing.
+you file an objection to the processing according to Art. 21 para. 1 DSGVO and there are no overriding legitimate reasons for the processing, or you file an objection to the processing according to Art. 21 para. 2 DSGVO.
+The personal data have been processed unlawfully.
+The personal data must be erased for compliance with a legal obligation in Union or Member State law to which the controller is subject.
+The personal data was collected in relation to information society services offered in accordance with Art. 8 para. 1 DSGVO.
+If we have made the personal data public and we are obliged to delete them according to art. 17 para. 1 DSGVO, we take appropriate measures, also of a technical nature, taking into account the available technology and the implementation costs, to inform those responsible for data processing who process the personal data that you have requested the deletion of all links to this personal data or of copies or replications of this personal data.
+7.3. Right to data portability
+You have the right to receive the personal data about yourself that you have provided to us in a structured, current and machine-readable format and you have the right to transmit this data to another controller without hindrance by us, in case of
+the processing is based on consent in accordance with Art. 6 para. 1 sentence 1 a) DSGVO or Art. 9 para. 2 a) DSGVO or on a contract in accordance with Art. 6 para. 1 s. 1 b) DSGVO and
+the processing is carried out using automated methods.
+When exercising your right to data transferability in accordance with Art. 20 para. 1, you have the right to request that the personal data be transferred directly by us to another controller, as far as this is technically feasible.
+7.4. Automated individual decision-making, including profiling
+You have the right not to be subject to a decision based solely on automated processing, including profiling, that has legal effect on you or significantly affects you in a similar manner.
+An automated decision making based on the collected personal data does not take place.
+7.5. Right to withdraw data protection consent
+You have the right to withdraw your consent to the processing of personal data at any time.
+7.6. Right of appeal to a supervisory authority
+You have the right of appeal to a supervisory authority, in particular in the Member State where you are staying, working or suspected of having infringed the law, if you believe that the processing of personal data concerning you is unlawful.
+8. Withdrawal
+You can withdraw this privacy policy by uninstalling this app. Any data already stored on our server will remain unaffected. Otherwise the right of data transfer could not be exercised. To request the deletion of your data, please send your request by e-mail or by post to the address stated in section 4.
+This website uses cookies.
+Read More
+Privacy & Cookies Policy
+Close
+Privacy Overview
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the ...
+Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
+Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.

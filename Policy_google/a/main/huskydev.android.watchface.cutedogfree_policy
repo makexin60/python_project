@@ -1,0 +1,81 @@
+Privacy Policy - HuskyDEV Watch Faces
+HuskyDEV (“us”, “we”, or “our”) is a developer of all the HuskyDEV Watch Faces on the Google Play store (
+link to all watch faces
+) - mobile applications (hereinafter referred to as the “Application”).
+Information Collection and Use
+Your privacy is very important to us. So check what we do:
+We don’t ask you for any personal information
+We don’t share/sell your personal information with anyone.
+We don’t store your personal information.
+We don’t transfer any personal information from your mobile or watch
+The Application does use third-party services that may collect information used to identify you.
+Link to the privacy policy of third-party service providers used by the app
+Google Play Services
+Core platform functionallity provided by Google Inc -
+Privaci policy
+Google Analytics / Firebase
+Firebase is an analytics service provided by Google Inc. You may opt-out of certain Firebase features through your mobile device settings, such as your
+        device advertising settings or by following the instructions provided by Google in their
+Privaci policy
+We also encourage you to review Google’s policy for safeguarding your data -
+Safeguarding your data document
+For more information on what type of information Firebase collects, please visit the -
+Google Privacy & Terms web page
+Google Play In-App Payment
+Payment functionality provided by Google Inc. -
+Privaci policy
+Google AdMob
+Google AdMob is an advertising service provided by Google Inc. -
+Privaci policy
+What information is stored in the internal memory of the watch face application
+Watch Face configuration settings
+The watch face application is storing all configuration settings like preferred color, language, dial type, type of complications, etc.
+Location Data
+We may use and store information about your approximate location if you give us permission to do so (“Location Data”). We use this data to provide
+        features such as weather forecast. You can enable or disable location services when you use our Application at any time by way of your device settings.
+You can also save your location (the city or district) manually without granting the location permission.
+Permission Usage
+In-app purchases
+(com.android.vending.BILLING)
+This permission is required to make a donation and get the Premium Features when using a free watch face.
+Body sensor
+(android.permission.BODY_SENSORS)
+This permission allows the watch face show HEART RATE value.
+Post notification
+(android.permission.POST_NOTIFICATIONS)
+This permission allows the watch face companion mobile app on Android 13+ show notification with information about new watch faces.
+Internet
+(android.permission.INTERNET)
+This permission is required to download a weather forecast from a weather provider, download an actual list of our watch faces (Icon and description),
+        download an ad from AdMob, etc.
+Network state
+(android.permission.ACCESS_NETWORK_STATE)
+This permission is required to check the active internet connection.
+Write settings
+(android.permission.WRITE_SETTINGS)
+This permission is required to ability change the screen brightness on the watch by custom launcher on the watch face.
+Coarse location
+(android.permission.ACCESS_COARSE_LOCATION)
+This permission allows an app to access the approximate location. This is important to provide a city or district to the weather to obtain the weather
+        forecast.
+Vibrate
+(android.permission.VIBRATE)
+This permission allows using the vibrations on the watch for example to vibrate every hour feature.
+Wake lock
+(android.permission.WAKE_LOCK)
+This permission allows using PowerManager WakeLocks to keep processor from sleeping or screen from dimming.
+Receive complications data
+(com.google.android.wearable.permission.RECEIVE_COMPLICATION_DATA)
+This permission allows the watch face receive data from the external complications providers.
+Provide background
+(com.google.android.permission.PROVIDE_BACKGROUND)
+This permission enabled using the application as a watch face.
+Get Install referrer
+(com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE)
+This permission is automatically added by the Google Play service.
+Receive C2DM
+(com.google.android.c2dm.permission.RECEIVE)
+Required by older versions of Google Play services to create IID tokens.
+Advertising ID
+(com.google.android.gms.permission.AD_ID)
+Required by Google AdMob to handle and obfuscate the device UID.

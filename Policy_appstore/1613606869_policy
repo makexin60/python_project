@@ -1,0 +1,38 @@
+Mental Crosswind
+is a flashcard like app to help you practice in your head situational awareness on the wind when hearing it on the radio from a controller in the tower.
+If you are like me, a student pilot or low hour private pilot, it can be hard to quickly process the wind announcement while you are busy flying in the circuit and preparing to land.
+This app is intended to let you practice quickly getting a mental picture of the wind while safely on the ground. You can download it
+here
+and the app is
+open sourced on github
+.
+Table of Contents
+Toggle
+Practice
+Analysis
+From your local airport
+Privacy Policy
+Practice
+Each time you press the Practice button, it will make an announcement that you can try to assess mentally.
+You can then press the display button to see the actual wind on the compass with respect to the compass, along with the computed value of the cross wind and direct component in % and speed. For the cross wind you also see the degree offset from the runway. This is especially useful if, like me, you use the
+clock mental proxy
+for quick mental maths…
+Analysis
+You can change the runway heading by rotating the compass or change the wind direction by dragging the wind red arrow: rotate change the direction, pull towards or away from the center changes the speed.
+The bottom section displays the corresponding direct and cross wind component, along with the percentage allocated to each (the cos or sin of the angle) along with the angle offset from the runway. This is useful to play and see how the components moves with the angle and visualise the
+clock analogy
+approximation .
+So for example the screen below, shows the wind 60 degree for runway 09. This is a 30 degree offset, which means 50% of the wind is the crosswind component, consistent with 30minutes being half an hour…
+Sample Wind View
+From your local airport
+You can also configure the app to start with the wind from your preferred local airport by selecting it after pressing the gear icon.
+The app on startup (or upon pressing the refresh icon), will pull the latest metar from your selected airport along with the best runway. In the above screenshot, you see it pulled the metal from Heathrow.
+Please note this is not showing gusts or variable wind, and
+should never be used for flight planning
+, this is only intended for practicing and to hear realistic current wind clearances from your local airport instead of random ones.
+Privacy Policy
+This app does not record, share or keep any personal data.
+Share this:
+Click to share on Facebook (Opens in new window)
+Click to share on Twitter (Opens in new window)
+Click to share on LinkedIn (Opens in new window)

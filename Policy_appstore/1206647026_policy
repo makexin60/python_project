@@ -1,0 +1,132 @@
+Dash Wallet
+Dash Wallet
+(breadwallet fork) is a real standalone
+Dash
+client. There is no server to get hacked or go down, so you can always access your money.
+Using
+SPV
+mode,
+Dash Wallet
+connects directly to the Dash network with the fast performance you need on a mobile device.
+Dash Wallet
+is designed to protect you from malware, browser security holes, even physical theft. With AES hardware encryption, app sandboxing,
+keychain and code signatures,
+Dash Wallet
+represents a significant security advantage over web and desktop wallets, and other mobile platforms.
+Simplicity is
+Dash Wallet
+’s core design principle. A simple backup phrase is all you need to restore your wallet on another device if yours is ever lost or broken.
+Because
+Dash Wallet
+is
+deterministic
+, your balance and transaction history can be recovered from just your backup phrase.
+Features
+"simplified payment verification"
+for fast mobile performance
+no server to get hacked or go down
+single backup phrase that works forever
+private keys never leave your device
+import
+password protected
+paper wallets
+“payment protocol”
+payee identity certification
+Uphold
+integration
+Download
+Getting Started
+To run
+Dash Wallet
+iOS app on your device or simulator clone the repo and make sure you installed needed
+Requirements
+.
+Then run
+pod install
+in the cloned directory.
+Open
+DashWallet.xcworkspace
+in Xcode and run the project.
+Requirements
+Xcode 11
+Dependency manager
+CocoaPods
+. Install via
+gem install cocoapods
+DashPay Requirements
+Currently, DashPay wallet is under active development so it requires a few additional steps to make it work.
+Clone
+DashSync
+and
+dapi-grpc
+repositories:
+git clone https://github.com/dashevo/dashsync-iOS.git DashSync
+git clone https://github.com/dashevo/dapi-grpc.git dapi-grpc
+To simplify developing process we use local podspec dependencies and it's important to preserve the following folder structure:
+../DashSync/
+../dapi-grpc/
+../dashwallet-ios/
+Install protobuf and grpc:
+brew install protobuf grpc
+Install last version of rust:
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+Install cmake and make sure it is located in one of the following folders:
+${PLATFORM_PATH}/Developer/usr/bin, ${DEVELOPER}/usr/bin:/usr/local/bin, /usr/bin, /bin, /usr/sbin, /sbin, /opt/homebrew/bin
+Run
+pod install
+in the wallet directory.
+Optional Requirements
+Objective-C Related
+Formatting tools:
+clang-format
+. Install via
+brew install clang-format
+.
+Swift Related
+SwiftFormat
+. Install via
+brew install swiftformat
+.
+SwiftLint
+.  Install via
+brew install swiftlint
+.
+Localization
+Localized files helper tool
+BartyCrouch
+. Install via
+brew install bartycrouch
+.
+Contribution Guidelines
+We use Objective-C for developing iOS App and underlying
+DashSync
+library and Swift for the Watch App.
+General information on developing conventions you can find at
+Apple Developer Portal
+.
+For more specific Objective-C guidelines we stick with
+NYTimes Objective-C Style Guide
+.
+Our code style is enforced by
+clang-format
+and
+SwiftFormat / SwiftLint
+.
+Documentation
+Official Dash documentation is available
+here
+.
+URL Schemes
+For more information follow this
+documentation page
+.
+WARNING
+Installation on jailbroken devices is strongly discouraged.
+Any jailbreak app can grant itself access to every other app's keychain data and rob you by self-signing as described
+here
+and including
+<key>application-identifier</key><string>*</string>
+in its .entitlements file.
+License
+Dash Wallet
+is available under the MIT license. See the LICENSE file for more info.

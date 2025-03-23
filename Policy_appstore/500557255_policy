@@ -1,0 +1,118 @@
+Published using Google Docs
+Report abuse
+Learn more
+BlindSquare Policy Document - BPS
+Updated automatically every 5 minutes
+POLICY DOCUMENT
+Privacy and security
+Beacon Positioning System
+Date: 2024
+BlindSquare, like all other apps in the Apple App Store, is bound by a privacy agreement. Quoting the agreement between Apple and MIPsoft (makers of BlindSquare), Google and Amazon web services.  Please find the following with comments.
+Table of contents
+POLICY DOCUMENT
+1. Privacy
+2. Terms of use, delivered by the app
+3. Beacon Ownership
+4. Non-Advertising
+5. Beacon Maintenance
+6. Access to data  <security>
+7. Information vs. instruction
+8. Security of data
+9. Data
+Ownership
+10. Google Server locations
+11. High-level architecture illustration
+1. Privacy
+Apple Term
+MIPsoft response
+17. Privacy
+17.1
+Apps can only transmit data about a user by obtaining the user's prior permission and providing the user with access to information about how and where the data will be used.
+BlindSquare gathers no information about the user beyond the device.
+17.2
+Apps that require users to share personal information, such as email address and date of birth, to function will be rejected
+BlindSquare gathers no information about the user beyond the device.
+17.3
+Apps may ask for date of birth (or use other age-gating mechanisms) only to comply with applicable children's privacy statutes but must include some proper functionality or entertainment value regardless of the user's age
+BlindSquare gathers no information about the user beyond the device.
+17.4
+Apps that collect, transmit or have the capability to share personal information (e.g. name, address, email, location, photos, videos, drawings, the ability to chat, other personal data, or persistent identifiers used in combination with any of the above) from a minor must comply with applicable children's privacy statutes and must include a privacy policy
+BlindSquare gathers no information about the user beyond the device.
+17.5
+Apps that include account registration or access a user’s existing account must include a privacy policy or they will be rejected
+BlindSquare does not require registration.
+2. Terms of use, delivered by the app
+Terms
+MIPsoft response
+"Accuracy and correctness of GPS data and location information displayed in BlindSquare cannot be guaranteed. BlindSquare can never substitute a cane, a guide dog, good orientation, mobility, and travelling skills and is only intended to provide additional information to support you in using these skills. By proceeding, you understand this and agree to use BlindSquare at your own risk.
+"
+The user presented the initial load of BlindSquare as a condition of use.
+3. Beacon Ownership
+Element
+MIPsoft response
+Beacon Manufacturer
+The end client owns beacons and is not sold or maintained by MIPsoft.
+4. Non-Advertising
+Element
+MIPsoft response
+Use of Beacons by a third-party application.
+At the client's will, the beacon data (coding) can be made available for third-party use.  The placement and/or configuration of the data (UUID/Major/Minor, Power/Interval), if changed, will have a negative impact on BlindSquare’s use of beacon data.
+Use of BPS for advertising purposes
+(ie, “BOGO or other mission-distracting messages)
+The exclusive mission of BlindSquare is the delivery of information that supports travel, independence and choice for persons who are blind/partially sighted/deaf-blind. Any messaging that detracts from this pure purpose is forbidden and,  if discovered, could affect the renewal of use.
+5. Beacon Maintenance
+Element
+MIPsoft response
+Maintenance of beacons is the client's responsibility.
+MIPsoft does not sell hardware.
+Beacons (generally) are battery-powered and the projected life of the battery is based on the manufacturer's data.
+Battery life depends on the make and model of the beacons in use. For example,
+Kontakt.io
+Beacon Pro beacons
+(3x batteries) have a projected battery life of 5 years. This will increase or decrease based on the local power setting (client-managed).
+Battery life extenders
+are also available through beacon configuration
+Instructions for battery replacement
+and the specifications of the batteries used are available from the manufacturer.
+6. Access to data  <security>
+Element
+MIPsoft response
+Who can access the beacon messaging data?
+Is there personal information stored about those who have access?
+Who has access to the data?.
+BlindSquare manages beacon data “in the cloud” and, based on version controls, will transfer new information from the cloud service whenever BlindSquare is loaded on the device.
+The front-end of this cloud-based service is Google Sheets (g.sheets).  Access to the client-specific g.sheet is provided by BlindSquare (as the g.sheet owner) to authorized parties.
+Access by authorized parties is protected by their personal Google password and, optionally, two-factor authentication.
+Access by any authorized account can be terminated or suspended by BlindSquare with cause or at the authority’s request.
+Personal information known to BlindSquare is limited to the email address.
+Access to data is limited to BlindSquare resources (for support only) and those authorized by the client.
+7. Information vs. instruction
+Element
+MIPsoft response
+Why do you recommend the review of Messaging by an Orientation and Mobility Instructor?
+BlindSquare, in the context of message delivery, provides access to information commonly available to persons with vision via text messaging.  This messaging is best presented in “the language of their O&M training,” where consistency and speech-brevity are used to speed comprehension and assimilation.
+Further, recognizing that the role of BlindSquare is to provide INFORMATION (not INSTRUCTION) that there is a learned review to ensure that “enough” (not more) information is presented to support the traveller in making an informed decision.
+8. Security of data
+Element
+MIPsoft response
+How is your data secured?
+all code is hosted locally, not in the cloud
+The server side is hosted in Google and Amazon web services. All data that is not public is encrypted and deployed, so even if data can be downloaded from the public site, it can’t be used without the secret key. For Google and Amazon, we refer to their statements on security measures.
+Amazon Web Services, Inc.
+AMAZON FAQ'S
+Google Cloud
+Google security overview
+Google security compliance
+9. Data ownership
+Element
+MIPsoft response
+Who owns the enterprise data?
+The data is owned by the enterprise
+The data is not used or accessed in any way for MIPsoft (makers of BlindSquare)
+10. Google Server locations
+Element
+MIPsoft response
+Where is BlindSquare cloud data stored?
+Google global data centre locations
+Where are Google Servers located?
+11. High level architecture illustration

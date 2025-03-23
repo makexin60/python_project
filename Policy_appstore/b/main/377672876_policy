@@ -1,0 +1,79 @@
+Privacy policy
+The Grizzly Labs fully respects your privacy and makes sure that your data is always protected. By using the application
+Genius Scan
+, you consent to the present policy.
+Your documents
+Your documents are only stored on your device and are never sent to a third-party unless you explicitly choose to (if your export them to other apps, if back them up to a cloud storage service, or if you activate Genius Cloud).
+They are also processed exclusively on your device (OCR, PDF generation, image processing...).
+Third-party services
+If you connect Genius Scan to third-party cloud services such as Box, Dropbox, Google Drive, etc., Genius Scan will request some permissions to be able to
+export
+documents to these services.
+Genius Scan interactions with these services are limited to:
+Listing the drives and/or folders available in the cloud service to let you select where to export your scans.
+Uploading your scanned documents to the chosen destination.
+These interactions happen directly between the mobile application and the cloud service, and your data does not transit by any server managed by The Grizzly Labs.
+If you activate Genius Cloud
+If your plan includes
+Genius Cloud
+and you choose to activate it — or if it is enabled automatically as part of your Genius Scan for Teams subscription —, your documents will be stored on our servers so that Genius Scan can synchronize them between your devices and back them up. We may provide additional services, such as indexing your documents for better search or suggesting better titles when saving new documents.
+Your data remains yours, and are processed with the following safeguards:
+All communications between our applications and servers (and between data centers, too) are encrypted. Your documents are also stored encrypted at rest.
+You can access, edit, export and delete your data by logging into your account in the mobile or web apps – where you can manage and close it too.
+We don’t share your data with anyone except for complying with the law, operating the service and respecting our rights.
+We may need to access your data to debug issues that you report to our customer support team.
+We don't collect personal information unless we truly need it to operate the services. That is: email address and password for registration, IP address and device info for document synchronization.
+Genius Scan for Teams
+If you are part of a Genius Scan for Teams plan, additional data processing applies:
+Data Control:
+Team members retain full control over their documents and can manage, export, or delete them independently, even while part of a team.
+Team Owner Visibility:
+Team owners can only see the status of invitations (accepted or pending) and cannot access or manage a team member’s data and documents.
+License Termination:
+If a team owner terminates a member’s license, the team member retains access to their synchronized documents for a grace period. During this time, they can view and download their documents but cannot upload or sync new ones. After the grace period, the documents stored in Genius Cloud are deleted.
+Billing information
+If you subscribe to Genius Scan for Teams through our website or other direct billing methods, billing details and payment methods are handled by Stripe. The Grizzly Labs does not store billing information but has access to it through Stripe for managing subscriptions and payments.
+If you subscribe through the Apple App Store or Google Play Store, please refer to their respective terms and privacy policies for details on how your billing information is handled. The Grizzly Labs doesn't have access to your billing information but only receives your subscription status from the payment providers.
+What data we may collect and how we process it
+Some of the export plugins available in Genius Scan may allow you to attach personal information to the exported document (e.g your location). In that case, Genius Scan will obtain the requested information and attach it to the document.
+We use third party services to collect and analyze usage data, such as which features are used and how often. We use this data in aggregate to know what to improve, refactor or remove from the application. This data is fully anonymized or pseudonimized.
+We use third party services to collect and analyze crash logs. This information is pseudonimized and kept for up to 90 days. Genius Cloud logs are used to debug our servers and are archived for up to a year. If you encounter a problem with Genius Scan, you may also send us your app logs by email so that our developers can investigate the situation and resolve the issue.
+We make sure to store data only in the EU or in countries that are deemed adequate by European regulators (e.g under EU-US or Swiss-US Privacy Shield Frameworks).
+Sub-processors
+Name
+Purpose
+HelpScout
+Customer Help Desk
+Amazon AWS
+Cloud infrastructure hosting
+Heroku
+Cloud application platform
+TelemetryDeck GmbH
+Analytics
+Sentry
+Crash reporting
+SolarWinds
+Log management
+MemCachier
+Memory cache
+Rollbar
+Error tracking
+Stripe
+Billing and payment processing
+Amplitude
+Analytics
+Restrictions
+Our services and applications are not directed at children. If you are a parent or guardian and believe your child has provided us with personal data without your consent, please contact us as described below and we will take steps to delete such data from our systems.
+Changes to this policy
+If we decide to change our privacy policy, we will post those changes on this page.
+How to contact us
+If you have any questions about your privacy, please email us at
+support@thegrizzlylabs.com
+. You can also contact us via our website at
+thegrizzlylabs.com
+or write to us at 39 rue de Châteaudun, 75009 Paris, France.
+Updates
+June 8, 2024:
+Updated to reflect new analytics service (Telemetry Deck) and crash reporting service (Sentry). Removed misleading mention about banner ads as Genius Scan doesn't show third-party ads.
+December 11, 2024:
+Adding Team-specific feature and Billing information sections. Adding Stripe and Amplitude, and removing Amakawa and New Relic from the list of sub-processors.

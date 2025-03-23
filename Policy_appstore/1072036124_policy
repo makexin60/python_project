@@ -1,0 +1,68 @@
+Regulamin portalu Jakość Powietrza i polityka prywatności
+ZASADY KORZYSTANIA Z INFORMACJI UDOSTĘPNIANYCH W SERWISIE
+Niniejszy serwis znajdujący się pod adresem
+powietrze.gios.gov.pl
+administrowany jest przez Główny Inspektorat Ochrony Środowiska. Korzystanie przez użytkowników z materiałów opublikowanych w serwisie
+powietrze.gios.gov.pl
+jest bezpłatne.
+Na stronach serwisu mogą Państwo zapoznać się z informacją na temat jakości powietrza, aktualizowaną w odstępach cogodzinnych, zawierającą dane z automatycznych stanowisk pomiarowych. W serwisie udostępniane są również wyniki pomiarów z manualnych stanowisk pomiarowych. Dane pochodzą z krajowej bazy danych jakości powietrza JPOAT2.0. Powyższe informacje udostępniane są w serwisie w formie danych na mapach, w tabelach i na wykresach. Główny Inspektorat Ochrony Środowiska za pośrednictwem API udostępnia listę aktywnych stacji i stanowisk pomiarowych,  jednogodzinne wyniki pomiarów do trzeciej doby wstecz, a także aktualne wskazania indeksu jakości powietrza stacji pomiarowych.
+Dostępne w serwisie informacje w postaci danych pomiarowych mogą być przez Państwa wykorzystane w celu zapoznania się z ich treścią, a także ponownie wykorzystywane w całości lub w istotnej części.
+Warunki ponownego wykorzystywania informacji sektora publicznego określone zostały w Biuletynie Informacji Publicznej w menu przedmiotowym w kategorii „
+Ponowne wykorzystywanie
+”.
+Użytkownik  wykorzystujący informacje zawarte na stronie
+powietrze.gios.gov.pl
+i dane udostępniane przez usługi API zobowiązany jest w sposób czytelny i wyraźny wskazać źródło pozyskania informacji oraz określić czas, w którym informacja publiczna została wytworzona, a w szczególności wskazać czy wykorzystuje informacje w całości czy we fragmentach, a jeżeli tak, to w jakich. Należy podawać źródło danych w następujący sposób:  "Źródło danych: GIOŚ - EKOINFONET", lub "Źródło danych: Dane gromadzone w systemie EKOINFONET GIOŚ".
+W przypadku przetworzenia (zmiany) ponownie wykorzystywanej informacji sektora publicznego użytkownik zobowiązany jest do zamieszczenia stosownej informacji o przetworzeniu (zmianie).
+Główny Inspektorat Ochrony Środowiska nie ponosi odpowiedzialności za treść informacji sektora publicznego po ich przetworzeniu przez użytkownika ponownie wykorzystującego te informacje.
+Użytkownik pobierający dane sektora informacji publicznej przy pomocy interfejsu programistycznego API zobowiązuje się do pobierania danych nie częściej niż dwa razy na godzinę. Limity zabezpieczające przed nadmiernym obciążeniem zasobów udostępnianych w ramach usług  dostępnych za pomocą automatycznej dokumentacji
+OPEN API
+:
+- zagregowane dane maksimum ze średnich 8-godzinnych z 1-godzinnych wyników pomiarów pyłu zawieszonego PM10 i średnia 24-godzinna z 1-godzinnych   wyników pomiarów pyłu zawieszonego PM10 dla ostatnich 3 dób (limit 2 żądania na minutę),
+- archiwalne dane pomiarowe, udostępniane w czasie UTC+ 01:00, środkowoeuropejski zimowy (limit 2 żądania na minutę),
+- informacje o przekroczeniu poziomu informowania, alarmowego, dopuszczalnego i docelowego zanieczyszczeń (limit 2 żądania na minutę),
+- dane prezentowane na mapach rozkładów stężeń zanieczyszczeń (limit 2 żądania na minutę),
+- metadane stacji i stanowisk pomiarowych (limit 2 żądania na minutę),
+- statystyki roczne (limit 2 żądania na minutę),
+- bieżące dane pomiarowe od ostatniej pełnej godziny do trzeciej doby wstecz, udostępniane w czasie lokalnym (limit 1500 żądań na minutę),
+- aktualne wskazania indeksu jakości powietrza (limit 1500 żądań na minutę),
+- lista stacji i stanowisk pomiarowych (limit 2 i 1500 żądań na minutę).
+W serwisie zamieszczane są także utwory (np. opracowania, analizy, prezentacje), co do których prawa autorskie przysługują osobom trzecim.  W przypadku naruszenia prawa autorskiego zastosowanie mają przepisy ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (t.j. Dz.U. z 2021 r. poz. 1062).
+Główny Inspektorat Ochrony Środowiska nie ponosi odpowiedzialności za dalsze udostępnianie informacji przez użytkowników ponownie je wykorzystujących z naruszeniem przepisów regulujących ich ochronę.
+W przypadku wątpliwości co do sposobu wykorzystania przez Państwa treści zawartych w serwisie prosimy o kontakt pod adresem
+gios@gios.gov.pl
+W przypadku wystąpienia problemów technicznych/informatycznych z API lub poprawnym prezentowaniem portalu, prosimy o kontakt na adres mailowy
+api@gios.gov.pl
+.
+Aplikacja mobilna wykorzystująca dane o jakości powietrza gromadzone przez GIOŚ, w celu poprawnego wskazania najbliższej stacji pomiarowej od lokalizacji użytkownika wykorzystuje lokalizację tego urządzenia. Użytkownik może nie wyrażać zgody na pobieranie informacji lokalizacyjnych i wyłączyć tą opcję w ustawieniach swojego urządzenia.
+POLITYKA DOTYCZĄCA COOKIES
+Portal Jakości Powietrza, zwany dalej Serwisem, używa plików cookies, aby ułatwić Państwu korzystanie z serwisu oraz do celów statystycznych. Jeżeli nie blokują Państwo tych plików, to zgadzają się Państwo na ich użycie oraz zapisanie w pamięci urządzenia. Można samodzielnie zarządzać cookies, zmieniając ustawienia przeglądarki.
+Pliki cookies to małe fragmenty tekstu, kodu, które są wysyłane do przeglądarki i które przeglądarka wysyła z powrotem. Niektóre cookies są czasem zapisywane na danym urządzeniu podczas przeglądania Serwisu
+www.powietrze.gios.gov.pl
+. Istnieją różne rodzaje plików cookies. Pliki cookies używane w Serwisie
+www.powietrze.gios.gov.pl
+zostały podzielone na następujące kategorie:
+- Niezbędne pliki cookies – zapewniają stabilne działanie Serwisu, umożliwiając m.in. wyświetlanie i zapamiętywanie akceptacji komunikatów oraz umożliwiają prawidłowe funkcjonowanie strony.
+- Funkcjonalne pliki cookies – przechowują preferencje użytkownika, takie jak ustawienia językowe czy kontrast, umożliwiając spersonalizowane korzystanie z Serwisu
+Podczas wizyty w Serwisie
+www.powietrze.gios.gov.pl
+zostanie wyświetlony komunikat informujący, że wykorzystuje on pliki cookies.
+W większości przeglądarek internetowych można: kasować pliki typu cookies z twardego dysku komputera (z poziomu ustawień przeglądarki), zablokować wszystkie przysyłane pliki typu cookies lub ustawić ostrzeżenie przed zapisaniem ich na dysku. Należy mieć na uwadze, że zmiany ustawień tych plików polegające na ograniczeniu ich stosowania mogą wpłynąć na niektóre funkcjonalności dostępne na stronach internetowych je stosujących. Poniżej wskazujemy sposób zmiany ustawień cookies w najbardziej popularnych wyszukiwarkach:
+-
+Google Chrome
+– Menu > Ustawienia > Prywatność i bezpieczeństwo > Ciasteczka i dane witryn – należy wybrać odpowiednią opcję.
+-
+Mozilla Firefox
+– Menu > Preferencje > Prywatność i bezpieczeństwo – należy wybrać odpowiednią opcję.
+-
+Internet Explorer
+– Menu > Ustawienia > Pliki cookie i uprawnienia witryny – należy wybrać odpowiednią opcję.
+-
+Opera
+– Menu > Ustawienia > Prywatność i bezpieczeństwo – należy wybrać odpowiednią opcję.
+-
+Safari
+– Menu > Preferencje > Prywatność > Pliki cookies – należy wybrać odpowiednią opcję.
+Prosimy pamiętać, że zmiany ustawień cookies mogą wpłynąć na funkcjonalność Serwisu
+www.powietrze.gios.gov.pl
+.

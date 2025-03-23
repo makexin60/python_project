@@ -1,0 +1,85 @@
+Privacy
+Policy
+Your privacy ts important to us. No, seriously, it is important to us. This
+      statement was written by the Founder & CEO of MetaCert. So it’s a promise
+      from management, rather than a typical legal statement copied from
+      another website.
+Your data is protected in your browser
+The security environment for an extension in a web browser is different from that in a desktop or mobile app. MetaCert protects your data in ways that are unique to that environment to make sure it’s not susceptible to known browser-based attacks.
+MetaCert runs in a sandboxed background page provided by the WebExtensions API, not in the untrusted web environment. Scripts running on web pages you visit have no way of interacting with the sandbox.
+The pop-up runs outside of the web pages you visit. Only you can open and control it.
+Inline menus are loaded in iframes, with their source set to a resource inside the extension bundle. The same-origin policy prevents pages from looking inside these iframes or interacting with their contents.
+Messages are passed between extension components and the page using the extension messaging API rather than DOM events, so they can’t be intercepted or spoofed by untrusted web pages.
+Parsing is done with safe, tested methods, and all input is sanitized before being displayed to prevent XSS (cross-site scripting) attacks.
+A restrictive CSP (Content Security Policy) prevents MetaCert from loading untrusted external resources.
+TypeScript enforces type safety and provides static analysis tools to make sure that MetaCert is just as robust as every other MetaCert app.
+Information Collected Through the MetaCert Services
+We collect some data from you, in order to provide you with our MetaCert products and Services, in addition to your use of our Website. You provide some data directly, such as when you create a MetaCert account, when you register for a MetaCert event or a webinar, or contact us for support. Such data is limited to your email address only. We get some limited data from your use of the MetaCert products and services. Such data includes your IP address, and the make and model of your device through which you access or use MetaCert products or services.
+We use your personal data to provide you with services associated with the use of MetaCert account and to provide you with a rich customer experience through our customer support. In particular, we use your data to provide MetaCert services, which includes updating, securing and troubleshooting, and providing support.
+The following is a more detailed description of MetaCert account user data: This data is treated securely with respect for customer privacy and data confidentiality, but there are important technical and usage differences.
+Service Data
+We inevitably acquire Service Data about your usage of MetaCert, your account, and your payments through operating our services. We retain only enough Service Data to operate and maintain the services. These data are never used for any other purpose.
+Service Data are kept confidential. It is visible to our staff and includes, but is not limited to, server logs, billing information, client IP addresses, company or family name, and email addresses. Service data includes the name and email address you provide us, as part of your account setup.
+As long as you are using our services, we retain the right to hold and use Service Data to provide our services, troubleshoot problems, analyze the performance and demands on our services, and to provide our payment processors with the information they need to process payments.
+Keeping Your Information Safe
+We understand and accept our responsibility to protect Service Data and Secure Data. We use strict access control mechanisms, network isolation, and encryption to ensure that Secure and Service Data is only available to authorized personnel. Additionally, Secure Data cannot be decrypted even by those who do have access to it.
+Information Collected from Your Use of Our Website
+In a few areas on Our Website, We ask you to provide personal information that will enable Us to enhance your site visit, to assist you with technical support issues or to follow up with you after your visit. It is completely optional for you to participate. For example, We request information from you when you:
+Subscribe to a newsletter
+Participate in promotional offers
+MetaCert uses your information for specific purposes. Your information may be used to:
+Send you requested information about MetaCert
+Provide support
+Market MetaCert products or Services to you
+Provide you with access to MetaCert Services
+The personal information
+you provide will be kept confidential and used to support your customer relationship with Our company.
+All email communication with you will be on an Opt-In basis. This is solely at your discretion. Occasionally, We will send you e-mail communications with information, which may be useful to you, including information about Our products and services or about offerings from affiliates or business partners. When you first provide Us with your e-mail address, you will be given the option of not receiving any such e-mail communications. We will include instructions in Our e-mail messages on how to unsubscribe if you later decide you do not want to receive any future e-mail communications. At any time, you can easily opt-out of receiving further marketing from MetaCert by contacting Us at the address below and requesting to have your name removed from Our lists.
+Information Sharing and Disclosure to Third Parties
+Administrative staff or employees of MetaCert may have access to your personal information for the purpose of performing services on behalf of MetaCert. All such agents or contractors who have access to your personal information have Data Processing and Confidentiality obligations to keep the information confidential and not use it for any other purpose than to carry out the services they are performing for MetaCert.
+Unless we tell you otherwise, or unless otherwise stated in this Privacy Policy or required by law, We do NOT sell or rent your personal information to any third parties. However, We might share your personal information with Our service providers, such as Our hosting services providers. If you choose to participate in a survey, a focus group etc., we may also share de-identified data with Our customers.
+Information collected from you is only used to complete and support your purchases from MetaCert and use of the Site and to comply with any requirements of law. MetaCert may disclose personal information if required to do so by law or in the good faith belief that such action is necessary to: (1) conform to the edicts of the law or comply with legal process served on MetaCert or this Site; (2) protect and defend the rights or property of MetaCert; or (3) act in urgent circumstances to protect the personal safety of users of MetaCert, its web sites or the public. We may collect and possibly share your information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Our terms and conditions posted on Our Websites, or as otherwise required by law.
+If MetaCert is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on Our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. We may also disclose your personal information to any other third-party with your prior consent.
+Data Location and Transfer
+MetaCert data are held on servers located within the European Union. Data originating in the European Union remains within the European Union. Service Data access is restricted to members of our staff residing in either the EU or the US.
+Customer support system
+Our customer support and email services are hosted primarily in the United States. Any information you choose send us through email or our customer support system may pass through and be stored on a variety of intermediate services.
+Third-Party Data Processors
+Your Secure and Service data are held by third-party data processors, who provide us with hosting and other infrastructure services. The locations of these are described above. In many cases (but we cannot promise that this will always be the case) even Service data held by these entities is encrypted with keys held only by us.
+Data needed to process payments is collected by our payment processor, Stripe, Inc., which conforms to the U.S.-E.U. Privacy Shield Framework. See https://stripe.com/privacy-shield-policy
+Contacting You
+We may use your contact information, that is, the contact email address provided by you, to communicate with you about Service activity, provide support, and send you other information such as product updates and announcements. You may choose to stop receiving communications from us, except certain important notifications such as billing and account security alerts.
+Data Protection Principles that We Practice
+Your Right to Know to What We Know
+You have the right to know what we know about you and to see how that data is handled. You may request a screenshot of what we can see about you in our back office systems. However, to protect customer privacy, such requests must be carefully authenticated beyond demonstrating control of the customer’s email address.
+Your Right to Have Your Data Erased
+As we are merely custodians of your data, account owners have the right to instruct us to remove data permanently from our systems. To ensure that no one’s data is deleted without their consent, you must first delete your account through an authenticated session. After your account has been deleted, the account owner may contact us and ask for the data to be expunged. Once the request is authenticated, the data will be removed from our active systems within 72 hours. Disaster recovery and data availability requirements mean that MetaCert has a legitimate interest in maintaining secure and immutable backups. Backups are kept for 35 days. Erasure requests will leave those backups untouched, and we will only remove data from backups if legally compelled to.
+Your right to access and control your personal data
+You can also make choices about collection and use of your data by MetaCert. You can control your personal data and exercise your data protection rights by contacting MetaCert at the address and information provided below. If you are an affiliate of an organization which provides you with the access to MetaCert account and services, there may be certain restrictions to the above, based on your affiliate organization’s privacy or other similar policies.
+Cookies and Tracking
+We do set and use cookies (small text files placed on your device) on our own domains and subdomains to store settings that assist with identifying your account for sign-in. We also use third-party packages and trackers for our public pages that may set cookies on your computer. These cookies are used to understand broad and anonymous user behavior when you visit MetaCert.com or MetaCert.ca. Such user behavior includes time spent by a visitor on the website, most visited webpage, aggregated clicks on signups etc. We also use these third-party cookies to serve more relevant advertisements to visitors once they have left the MetaCert website on our partner sites across the web.
+You may disable cookies in your browser and continue to use our services without impact. We do not use third-party trackers in our web browser extension.
+Consent for Underage Enrollment
+Those under the age of 16 may not use the services without the consent or authorization of their parent or legal custodian. Family account organizers and team owners are responsible for that authorization when they add someone under the age of 16 to an account.
+Disclosure
+We will comply with applicable laws and the contracts with our customers to provide Service Data and encrypted Secure Data to law enforcement agencies. If permitted, we will notify you of such a request and whether or not we have complied. Your Secure Data remains encrypted with keys which we do not possess, and so we can only hand over Secure Data in encrypted form. Some Service Data is made available to family account organizers and team owners. In some limited circumstances, we may provide some information to non-owner members of these accounts. Account owners will be informed in these circumstances.
+Breach Notification
+In an event of a breach, we recognize our responsibility to our customers and to the public to disclose the nature of the risk and provide a transparent account of the events without undue delay. We follow applicable requirements under the laws, that is, the US data privacy breach notification requirements and the requirements related to data breach notification under the GDPR.
+MetaCert Product or Account provided by your Organization
+When we offer MetaCert products and services to you through your organization, we continue to adhere to the privacy laws and the data protection requirements under the GDPR, in addition to any requirements under the contracts with your organization, to ensure that your data are located, and if applicable, appropriately transferred.
+If you use a MetaCert product or MetaCert account to access our products and services, and such MetaCert product or MetaCert account was provided by the organization that you are affiliated with, that organization is the controller or the administrator of your MetaCert product or MetaCert account. Your organization can access and process your data associated with your MetaCert product or account. If your organization provides you with access to MetaCert product or MetaCert account, your use of the product or account is subject to your organisation’s policies, if any. You should direct your privacy inquiries, including any requests to exercise your data protection rights, to your organization’s administrator. We are not responsible for the privacy or security practices of your organization, which may differ from those set out in this privacy policy. If you lose access to the organization that you are affiliated with (for example, if you change your employment), you may lose access to the MetaCert product or MetaCert account and the content or data associated with such product or account.
+Updates to our Privacy Policy
+At our discretion, we may make changes to this Policy and note the date of the last revision. You should check here frequently if you need to know of updates to our Privacy Policy. We maintain the right to send you an email informing you of substantive changes. Previous versions will be made available from this page.
+Contact Us
+If you have any questions about this Policy, you can contact our support team at info@metacert.com
+Supervisory Authority
+If you have concerns or complaints about this policy or practices with regard to that you do not feel you can resolve through contacting us, you should bring those concerns to your local regulatory authority.
+For residents of the European Union, our primary Supervisory Authority is the Berlin Commissioner for Data Protection and Information Freedom.
+Berliner Beauftragte für Datenschutz und Informationsfreiheit
+Friedrichstr. 219
+10969 Berlin, Germany
+Tel.: +49 30 13889-0
+Fax: +49 30 2155050
+E-Mail: mailbox@datenschutz-berlin.de
+https://www.datenschutz-berlin.de/
+Thanks for reading!

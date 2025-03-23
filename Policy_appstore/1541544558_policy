@@ -1,0 +1,32 @@
+ON-STAGE for iOS
+The ON-STAGE app can be used to switch a Bluetooth LE attached LED sign on or off.
+The LED sign has to be modified to use an HM10 or HM11 BLE module provided by the building instructions at:
+http://blog.io-expert.com/remote-on-stage
+Screenshots
+Schematic
+Building Instructions
+1
+Hardware Connection
+The base is an "ON STAGE" LED sign powered by 2x AA 1.5V batteries. The connection of the LED sign has to be changed, so it matches to the following schematic by adding a HM-10 BLE module:
+2
+Initiate the HM10 module
+a
+Baudrate
+Connect to the HM-10 module via serial converter with 9600,8,N,1. (some configurations are 115200 baud)
+b
+Check Module Version
+Sending AT+VERS? or AT+VERR? should generate the answer HMSoft V540. If not, the firmware has to be updated.
+c
+Setup Modes
+As next the module has to be changed to be accessed by BLE:
+AT+MODE1 // makes it possible to receive AT commands via BLE
+AT+PWRM0 // Activates 0.4 mA unconnected, 8 mA connected
+3
+Details
+The ON-STAGE App will send following commands:
+AT+PIO20 // turn off the PIO2 GPIO, so LED will turned off
+AT+PIO21 // turn on the PIO2 GPIO, so LED will turned on
+You can use the iOS App provided in the Apple AppStore:
+https://apple.co/3mDDcEA
+Find the BLE library for iOS and macOS and more at GitHub:
+https://github.com/schreinerman/onstage

@@ -1,0 +1,172 @@
+estimote
+UWB Tags
+programmable in JavaScript
+track valuable assets
+automate team work
+prototype innovations
+Buy dev kit with 3 tags for $199
+Contact us
+How does it work?
+UWB Tags are handy little gadgets that can detect other nearby tags with inch-level precision. They can trigger actions based on how close they are to each other. With built-in IMU and pressure sensors, they can also track movement and elevation. They can send real-time location and other data over LTE directly to your endpoints, making them a perfect platform for asset tracking, productivity and safety applications.
+67 cm / 26.8"
+What are they used for?
+They are used to easily and precisely locate things both indoors and outdoors. Since they are programmable and have connectivity, they are often used for automation. For example, team members can wear them and things can happen automatically just by entering different rooms or approaching equipment.
+Download PDF with 200+ use-cases
+How do they work technically?
+Each UWB Tag has a very precise clock and an ultra wideband transmitter. When they communicate, they measure the time these radio signals travel from one to another. By multiplying this time by the speed of light, they estimate distances to each other with inch-level accuracy. This precision allows them to deliver magical experiences or automations.
+Silicone enclosure
+QR with unique serial
+Prominent last 3 digits
+Attachment point
+Tactile button
+4 RGB LEDs
+Bluetooth chip
+UWB radio
+IMU with ML
+LTE-M & NB-IoT
+Pressure sensor
+Vibration motor
+400 mAh battery
+USB-C slot
+40 min full charging
+How is UWB different from Bluetooth?
+UWB is a popular emerging technology for positioning. Every Apple iPhone since 2019 has a UWB chip that is used for precision finding, and there are 300+ million of them. Cars like Tesla and BMW  use them for keyless car entry and hands-free experiences. If you are already familiar with Bluetooth Low Energy and its applications for IoT, beacons and proximity use-cases, you should think about UWB as the next-gen positioning technology. It is far more accurate, equally low power, relatively inexpensive and also easy to deploy quickly at massive scale.
+How to get started?
+To learn and evaluate UWB technology, simply buy our UWB Tags dev kit. It includes everything you need to quickly build location-based applications.
+3 UWB Tags
+Access to web programming IDE
+Access to API documentation
+Active data plan for 90 days
+USB-C charging wire
+Javascript API for BLE/UWB/LTE/IMU
+RESTful API for Cloud events
+Free support via Developer Forum
+Buy dev kit for $199
+How can they be programmed?
+UWB Tags can be programmed directly from your computer using Bluetooth. By using the Chrome browser and our Web IDE, you simply connect with a nearby UWB Tag via Web Bluetooth. You can write JavaScript code and upload it directly to your tag. It will act as you programmed it to.
+Here is an example JavaScript micro-app for Estimote UWB Tag that turns on LEDs and prints to console when the main button on the tag is pressed:
+// sample JavaScript demo app
+io.press(()
+=>
+{
+io.led(
+true
+);
+timers.single(
+"3s"
+,()
+=>
+{
+io.led(
+false
+);
+});
+print(
+"Button was pressed"
+);
+});
+You can also upload JavaScript code to your tags remotely via LTE.
+Below is an example asset tracker app which reports every 1 hour their outdoor position using ID of the nearby cell tower:
+// sample JavaScript outdoor tracking app
+function
+scanForCellTowers()
+{
+modem.getStatus().then((status) => {
+print(
+"Obtaining modem scan data"
+);
+var
+data = {"carrier":status.name,
+"cellTowerID":status.cell,
+"LAC":status.lac,
+"MNC":status.mnc,
+"MCC":status.mcc,
+"signal":status.rssi};
+cloud.enqueue(
+'scanResult'
+, data);
+sync.now();
+// sending data to Cloud via LTE
+});
+}
+timers.repeat(
+'1h'
+, scanForCellTowers);
+Can they push data directly to my cloud?
+Yes, UWB Tags have a built-in modem, just like your smartphone. They connect to the nearest cell tower using LTE-M or NB-IoT and can send data directly to your own cloud. In our Web IDE, there is a section called "Cloud code" which is executed as a serverless Lambda. You can program it to structure and send data to your own end-points.
+Here is an example app that forward data to your AWS end point:
+// sample JavaScript cloud code
+const
+superagent = require(
+'superagent'
+)
+const
+ENDPOINT =
+'https://your_endpoint_here'
+const
+TOKEN =
+'YOUR-AUTH-TOKEN
+module.
+exports
+=
+function
+(
+event
+) {
+const
+payload = {
+asset: event.identifier,
+cell: event.payload.cell
+}
+return
+superagent
+.post(ENDPOINT)
+.set(
+'Authorization', `Bearer
+${TOKEN}
+`
+)
+.
+send
+(payload)
+}
+Why JavaScript?
+Because it is the most popular language among developers. There are milions of web developers who are fluent in JS, working on client or server-side. This is far more than embedded engineers who are typically required to program IoT devices. JavaScript has native support for events, and in the modern IoT it's all about events and reactions to things that happen in the physical world. JavaScript can also be generated with modern AI tools, allowing you to come up with any real-world application you want.
+Why I should buy this dev kit?
+It is simply the best way to learn and evaluate UWB technology. You don't need embedded engineering skills since you can program UWB tags in JavaScript direcly from your laptop.
+You can use them to prototype various use cases, from asset tracking to smart badges. Since they have LTE, you can also use them to pilot your solution and collect data or update remotely. It is the best IoT prototyping platform on the market.
+Buy dev kit for $199
+What is the battery life of a UWB tag?
+Each tag has a 400 mAh rechargeable battery. Battery life depends on the configuration. For simple UWB or BLE beaconing, they can last years on a single charge. When programmed to act as wearables detecting proximity and sending data, they can last a few weeks. For continuous scanning and real-time asset tracking, they require permanent power via USB-C.
+How accurate are the tags?
+It depends on tag orientation, but on average, without any filtering, you should expect approx. 20cm. With sensor fusion including the IMU, accuracy could improve to sub-10cm. Their responsiveness can be as low as 10ms, and the range is up to 30-40m, extendable to 100-200m with an LNA amplifier.
+Do they work in any environment?
+UWB signals are 3-9 GHz frequency and can easily go through concrete, wood or glass. As every radio wave it might be blocked by metal structures so in a complex industrial environments it is important to install more of them to ensure line of sight. They be deployed indoor or outdoor and they survive from -40°C up to +40°C.
+What industries are they suited for?
+Our tags are used in warehousing, logistics, healthcare, retail, and hospitality. They enhance safety, improve asset tracking, and provide precise location data where GPS is insufficient. During the pandemic, they were used for contact tracing and social distancing. In hospitality, they can serve as panic buttons for cleaning personnel.
+Download PDF with 200+ use-cases
+Can smartphones detect UWB tags?
+Yes, UWB Tags can be configured in JavaScript to act as BLE beacons, broadcasting for example, iBeacon packets. Smartphones can detect these packets and react to the presence of tags.
+They can also range with UWB-enabled iPhones or Androids with high precision, but that requires using non-JavaScript firmware since the interoperability standard defined by FiRa requires strict configuration.
+Is location tracking better with smartphones or UWB tags?
+Well, it really depends on your objectives. If you are working on a consumer solution and need to provide indoor location or proximity experiences to hundreds of thousands of users,
+it would be easier to build a smartphone app. Although it might take time and might be a significant investment, it might also require the users to download an app compatible with their device, grant all the permissions, etc. On the other hand, if you are building a solution for a workplace of hundreds or even thousands of employees, it might be easier to give UWB Tags to your team members. You just ship the tags to them, push software remotely and the device work out of the box.
+How many UWB tags can range with each other?
+When it comes to BLE, there is actually no limit and a tag can detect hundreds of other tags nearby. With UWB, it is also possible to range with 100 tags or so. Since ranging requires exchanging some packets, it might be less responsive for 100 tags compared to 10 tags.
+Can UWB tags be used for RTLS?
+Yes, UWB Tags can be programmed for Real-Time Location Systems (RTLS). Some will act as tags, broadcasting their presence and others will be anchors scanning for tags and computing their precise (X,Y) location using a technique called time difference of arrival (TDoA).
+What are the security features?
+Our tags are protected by industry standard encryption to ensure only authorized users who own them can program and communicate with them. We also offer private cloud deployments in your AWS, GCP or Azure to ensure data are end-to-end encrypted and securely stored for your most sensitive applications.
+Do you offer support?
+Yes, we offer comprehensive online API documentation, templates, demos and best practices. Additionally, we provide paid technical support to assist customers with integrating our tags into existing systems. We have deployed millions of tags globally for various applications and are always more than happy to share our experience.
+How about custom form-factors?
+We offer different sizes and shapes and also help our customers design custom form-factors for their domain-specific applications. Customisations can also include additional sensors, firmware, mobile SDK or Cloud app modifications.
+How can I contact you?
+Simply shoot us a note to
+contact@estimote.com
+and our team will get back to arrange a discovery call. Once we know more about your vision and your use-case, we will recommend the best hardware and software and provide bulk pricing.
+Contact us
+Why should we work with you?
+Estimote, Inc. has been a market leader in location and proximity technologies for over a decade, developing cutting-edge solutions for a wide range of applications. Founded in 2012, Estimote has revolutionized the way businesses interact with physical spaces through the use of small, wireless sensors that leverage modern IoT radio technologies like Bluetooth, Ultra Wideband (UWB), and LTE/NB-IoT​.
+
+The company has successfully deployed millions of sensors worldwide for the most progressive clients, including Apple, Amazon, Nike, or NASA. These implementations have demonstrated the scalability and versatility of Estimote's technology in various industries, enhancing operational efficiency and customer engagement​.

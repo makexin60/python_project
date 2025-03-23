@@ -1,0 +1,74 @@
+Available on the App Store
+Privacy Policy
+If you have any questions, you can contact us directly by email:
+info@mapout.app
+Summary
+We don't track your location. We don't sell your user data or share your emails and don't send promotional emails. Generally, we try to minimize the amount of personal data we collect.
+What personal data do we collect and store?
+MapOut.me Account
+In the MapOut app, you can optionally sign-up for a MapOut.me account. You get your personal xyz@mapout.me email address and can send tours (GPX, KML, ...) to this email so they get imported into the MapOut app. This is completely optional - if you don't need this functionality you can import tours directly:
+Direct Import
+. All other functionality of MapOut remains the same.
+When you sign-up for a MapOut.me account, we ask for your
+email
+(your email is only used for account related matter - e.g. if you forgot your password, we send a password-reset email to that address. We don't send promotional content, and don't sell/share you email with a 3rd party. You can also supply a "fake" email, but then you won't be able to rescue your account if you forgot your password), an
+account password
+(which is securely stored in an unrecoverable hashed form), the
+last time you accessed our server
+(this is for support related questions), the
+language
+your MapOut app runs (so we can give you proper localized text, e.g. if you imported a tour and receive an error message) and the
+imported tours
+(we only keep the tours you imported for the last 2 weeks. Older tours are automatically removed to limit the amount of storage we need).
+While processing your incoming emails toward your xyz@mapout.me email address we generate log files for troubleshooting and support. So all incoming emails are recorded with your FROM and TO address. If we have problems converting the tours in your email, we additionally store that email-content for later analysis on what went wrong. We delete our log files or email-content after 30 days.
+All data is stored in encrypted form on Google App Engine and all traffic to/from our server is SSL/TLS encrypted.
+Email
+If you send support or other emails to info@mapout.app (or any other affiliated email-address) - we use best practices to protect them. We don't automatically delete your emails (but of course you can request us to do so), because of support related matter (e.g. to follow-up on your questions).
+What anonymized data do we collect and store?
+Map Download
+When you download map data from inside the MapOut app, we keep anonymized statistical data (web-server access logs) for 100 days, e.g. what regions are requested more frequently than others. We also record your
+IP address
+(to potentially detect abuse, so we could block fraudulent traffic). We can't link this information to your account.
+Crash Reports
+By default, we detect crashes in our MapOut app and send crash-reports to our server (Google App Engine). We don't use a 3rd party "Crash-Analytics-Product" so we know exactly what information gets recorded. Again this information is anonymized and can't be linked to your account. You can opt-out sending crash-reports at all, by turning it off in "Settings - Privacy".
+Data included in the crash reports are: The
+date/time
+when the crash happened, your device
+IP
+, the
+stack trace
+(this is the information which pin-points where exactly inside the app - basically the line number in our code - the crash occurred), a randomized
+application-id
+(which allows us to see if a certain user experienced multiple crashes in succession), the
+MapOut version
+and
+the last 50 steps
+a user did, which might have led to the crash (E.g. you entered the tour editor, drawn a tour, edited a waypoint, tapped on save).
+Apple Statistical Data
+When you upgrade your iOS device or during your first setup, Apple asks if you like to share some anonymized and aggregated data with app developers:
+Share analytics, diagnostics, and usage information with Apple
+. This data is stored by Apple, and Apple shares some aggregated information with us, including how often our app is used, how often our app crashed and the reason why it crashed. We can't link this information to your account.
+Google Analytics
+We use Google Analytics on our websites (but not in the MapOut app) - to get better insights where and how MapOut is found. We configured Google Analytics to anonymize your IP but you can opt-out on Google Analytics by installing a dedicated Google plugin:
+http://tools.google.com/dlpage/gaoptout?hl=en
+. We can't link this information to your account.
+Cookies
+On our website, we use a language cookie. When you change the default language of our site (e.g. from English to German) we store this information into a cookie, so the next time you access our site, the displayed language matches your preference. We can't link this information to your account.
+Your Consent
+By using MapOut and our website you authorize us to collect, use and store your information outside of the European Union. Currently, we store data in the U.S. & European Union (Google App Engine: mapout.me account), Germany (Hetzner: map download, mapout.me attachment processing) and Switzerland (Metanet: website, emails).
+By using our site or app, you consent to our privacy policy.
+Company Information
+MapOut is developed by Stefan Frey and Michael Kussmaul and distributed by:
+Valnova GmbH
+Industriestrasse 7
+CH-6300 Zug
+Switzerland
+UID: CHE-113.516.897
+Director: Michael Kussmaul
+Contacting Us
+If you want to delete or request a download of your data, please send an email to
+info@mapout.app
+with your mapout.me account name.
+Privacy Policy
+–
+Press Kit

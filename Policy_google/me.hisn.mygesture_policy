@@ -1,0 +1,22 @@
+PRIVACY POLICY
+We do not collect and save from your social account in any form or sell any information to advertisers or other operators.
+Personal informationWhen you share information through social accounts may be asked to enter the account and password, but that information is management by the system.
+App does not save account and password in any form or collect and save any personal information in any form on your social account.
+Privacy Policy TermsUse this App mean you agree to the terms and conditions of this Privacy Policy.
+If you do not agree to this policy, please do not use this App. We reserve the right, in our decision to change, modify, add or remove portions of this policy at any time.
+Please check this page periodically for any changes. Publish any changes to these terms if you continue to use our App future will mean that you have accepted these adjustments.
+Declaration of use The AccessibilityService API
+[MyGesture] uses the AccessibilityServices API primarily for the following functions:
+1. Display the trigger area at the edge of the screen on the application overlay, and perform ations such as BACK, HOME, and RECENTS when the user touches it, so as to help the user operate the phone with one hand.
+2. Record recently opened applications to help users quickly switch to recently used applications.
+android.permission.VIBRATE:Gesture feedback
+android.permission.SYSTEM_ALERT_WINDOW:Gesture triggers
+android.permission.RECEIVE_BOOT_COMPLETED:Auto start gesture on boot
+android.permission.ACCESS_NOTIFICATION_POLICY:Show breathing lamp for notification
+android.permission.PACKAGE_USAGE_STATS:Gesture switching apps
+android.permission.ACCESS_WIFI_STATE:Gesture or panel toggle wifi
+android.permission.CHANGE_WIFI_STATE:Gesture or panel toggle wifi
+android.permission.BLUETOOTH:Gesture or panel toggle bluetooth
+android.permission.BLUETOOTH_ADMIN:Gesture or panel toggle bluetooth
+android.permission.WRITE_EXTERNAL_STORAGE:Read wallpaper for panel background, change panel item icon
+android.permission.WRITE_SETTINGS:Read wallpaper for panel background, change panel item icon
