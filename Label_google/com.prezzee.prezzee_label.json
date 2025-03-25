@@ -1,0 +1,153 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "App info and performance": "Crash logs and Diagnostics",
+                "Data shared and for what purpose": [
+                    {
+                        "Crash logs": "Analytics, Fraud prevention, security, and compliance",
+                        "Diagnostics": "Analytics"
+                    }
+                ]
+            },
+            {
+                "Audio": "Voice or sound recordings and Other audio files",
+                "Data shared and for what purpose": [
+                    {
+                        "Voice or sound recordings": "App functionality",
+                        "Other audio files": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Photos and videos": "Videos",
+                "Data shared and for what purpose": [
+                    {
+                        "Videos": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name, Email address, User IDs, Address, and Phone number",
+                "Data shared and for what purpose": [
+                    {
+                        "Name": "Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+                        "Email address": "Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+                        "User IDs": "Analytics, Personalization",
+                        "Address": "Analytics, Fraud prevention, security, and compliance",
+                        "Phone number": "Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization"
+                    }
+                ]
+            },
+            {
+                "Financial info": "User payment info",
+                "Data shared and for what purpose": [
+                    {
+                        "User payment info": "App functionality, Account management"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions, In-app search history, Other user-generated content, and Other actions",
+                "Data shared and for what purpose": [
+                    {
+                        "App interactions": "Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management",
+                        "In-app search history": "Analytics",
+                        "Other user-generated content": "Analytics",
+                        "Other actions": "Analytics"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Device or other IDs": "Fraud prevention, security, and compliance, Account management"
+                    }
+                ]
+            },
+            {
+                "Contacts": "Contacts",
+                "Data collected and for what purpose": [
+                    {
+                        "Contacts · Optional": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Audio": "Voice or sound recordings and Other audio files",
+                "Data collected and for what purpose": [
+                    {
+                        "Voice or sound recordings": "App functionality",
+                        "Other audio files · Optional": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Photos and videos": "Photos and Videos",
+                "Data collected and for what purpose": [
+                    {
+                        "Photos · Optional": "App functionality",
+                        "Videos · Optional": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name, Email address, User IDs, Address, and Phone number",
+                "Data collected and for what purpose": [
+                    {
+                        "Name": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management",
+                        "Email address": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management",
+                        "User IDs": "App functionality, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management",
+                        "Address · Optional": "App functionality, Fraud prevention, security, and compliance, Account management",
+                        "Phone number": "App functionality, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management"
+                    }
+                ]
+            },
+            {
+                "Financial info": "User payment info and Purchase history",
+                "Data collected and for what purpose": [
+                    {
+                        "User payment info · Optional": "App functionality, Account management",
+                        "Purchase history": "App functionality, Developer communications, Account management"
+                    }
+                ]
+            },
+            {
+                "Location": "Approximate location and Precise location",
+                "Data collected and for what purpose": [
+                    {
+                        "Approximate location": "Fraud prevention, security, and compliance",
+                        "Precise location": "Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions, In-app search history, Installed apps, Other user-generated content, and Other actions",
+                "Data collected and for what purpose": [
+                    {
+                        "App interactions": "Analytics, Fraud prevention, security, and compliance, Personalization",
+                        "In-app search history": "Analytics",
+                        "Installed apps": "Fraud prevention, security, and compliance",
+                        "Other user-generated content": "App functionality, Analytics, Advertising or marketing, Account management",
+                        "Other actions": "Analytics"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            },
+            {
+                "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

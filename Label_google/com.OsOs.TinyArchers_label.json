@@ -1,0 +1,115 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "App info and performance": "Diagnostics",
+                "Data shared and for what purpose": [
+                    {
+                        "Diagnostics": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Financial info": "Purchase history",
+                "Data shared and for what purpose": [
+                    {
+                        "Purchase history": "Analytics, Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data shared and for what purpose": [
+                    {
+                        "Device or other IDs": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "Location": "Approximate location",
+                "Data shared and for what purpose": [
+                    {
+                        "Approximate location": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "Personal info": "User IDs",
+                "Data shared and for what purpose": [
+                    {
+                        "User IDs": "App functionality"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions and Other actions",
+                "Data shared and for what purpose": [
+                    {
+                        "App interactions": "App functionality",
+                        "Other actions": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "App info and performance": "Diagnostics",
+                "Data collected and for what purpose": [
+                    {
+                        "Diagnostics": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Financial info": "Purchase history",
+                "Data collected and for what purpose": [
+                    {
+                        "Purchase history": "Analytics, Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Device or other IDs": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "Location": "Approximate location",
+                "Data collected and for what purpose": [
+                    {
+                        "Approximate location": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "Personal info": "User IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "User IDs": "App functionality"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions and Other actions",
+                "Data collected and for what purpose": [
+                    {
+                        "App interactions": "App functionality",
+                        "Other actions": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            }
+        ]
+    }
+]

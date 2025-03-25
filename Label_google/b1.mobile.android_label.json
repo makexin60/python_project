@@ -1,0 +1,68 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "Calendar": "Calendar events",
+                "Data shared and for what purpose": [
+                    {
+                        "Calendar events": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Contacts": "Contacts",
+                "Data shared and for what purpose": [
+                    {
+                        "Contacts": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data shared and for what purpose": [
+                    {
+                        "Device or other IDs": "Account management"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Phone number",
+                "Data shared and for what purpose": [
+                    {
+                        "Phone number": "App functionality"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "Contacts": "Contacts",
+                "Data collected and for what purpose": [
+                    {
+                        "Contacts · Optional": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Device or other IDs": "Account management"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            },
+            {
+                "Data can’t be deleted": "The developer doesn’t provide a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

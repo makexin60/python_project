@@ -1,0 +1,100 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "Personal info": "Name and Address",
+                "Data shared and for what purpose": [
+                    {
+                        "Name": "Fraud prevention, security, and compliance",
+                        "Address": "Fraud prevention, security, and compliance, Account management"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data shared and for what purpose": [
+                    {
+                        "Device or other IDs": "App functionality, Analytics"
+                    }
+                ]
+            },
+            {
+                "Messages": "Emails, SMS or MMS, and Other in-app messages",
+                "Data shared and for what purpose": [
+                    {
+                        "Emails": "Advertising or marketing",
+                        "SMS or MMS": "Advertising or marketing, Fraud prevention, security, and compliance",
+                        "Other in-app messages": "Advertising or marketing"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "App activity": "App interactions and In-app search history",
+                "Data collected and for what purpose": [
+                    {
+                        "App interactions": "Analytics",
+                        "In-app search history": "Analytics"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name, Email address, Address, and Phone number",
+                "Data collected and for what purpose": [
+                    {
+                        "Name · Optional": "Fraud prevention, security, and compliance, Account management",
+                        "Email address · Optional": "App functionality, Account management",
+                        "Address · Optional": "Fraud prevention, security, and compliance, Account management",
+                        "Phone number · Optional": "Fraud prevention, security, and compliance, Personalization, Account management"
+                    }
+                ]
+            },
+            {
+                "Financial info": "Purchase history",
+                "Data collected and for what purpose": [
+                    {
+                        "Purchase history": "App functionality, Fraud prevention, security, and compliance, Account management"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Device or other IDs": "App functionality, Analytics"
+                    }
+                ]
+            },
+            {
+                "Location": "Approximate location",
+                "Data collected and for what purpose": [
+                    {
+                        "Approximate location": "Analytics"
+                    }
+                ]
+            },
+            {
+                "Messages": "Emails and SMS or MMS",
+                "Data collected and for what purpose": [
+                    {
+                        "Emails · Optional": "App functionality, Advertising or marketing, Account management",
+                        "SMS or MMS · Optional": "Advertising or marketing, Fraud prevention, security, and compliance, Account management"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            },
+            {
+                "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "Financial info": "Purchase history",
+                "Data shared and for what purpose": [
+                    {
+                        "Purchase history": "Analytics, Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data shared and for what purpose": [
+                    {
+                        "Device or other IDs": "Advertising or marketing, Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Crash logs and Diagnostics",
+                "Data shared and for what purpose": [
+                    {
+                        "Crash logs": "Analytics",
+                        "Diagnostics": "Analytics"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "Financial info": "Purchase history",
+                "Data collected and for what purpose": [
+                    {
+                        "Purchase history": "Analytics"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Device or other IDs": "App functionality"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Crash logs and Diagnostics",
+                "Data collected and for what purpose": [
+                    {
+                        "Crash logs": "Analytics",
+                        "Diagnostics": "Analytics"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions and Other actions",
+                "Data collected and for what purpose": [
+                    {
+                        "App interactions": "Analytics",
+                        "Other actions": "Analytics"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            }
+        ]
+    }
+]

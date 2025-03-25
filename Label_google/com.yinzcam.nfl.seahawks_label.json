@@ -1,0 +1,113 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data shared and for what purpose": [
+                    {
+                        "Device or other IDs": "App functionality, Analytics, Developer communications, Advertising or marketing, Personalization"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions",
+                "Data shared and for what purpose": [
+                    {
+                        "App interactions": "App functionality, Analytics, Developer communications, Advertising or marketing, Personalization"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name, Email address, User IDs, Address, Phone number, and Other info",
+                "Data shared and for what purpose": [
+                    {
+                        "Name": "App functionality, Advertising or marketing, Personalization, Account management",
+                        "Email address": "App functionality, Advertising or marketing, Personalization, Account management",
+                        "User IDs": "App functionality, Analytics, Developer communications, Advertising or marketing, Personalization, Account management",
+                        "Address": "App functionality, Advertising or marketing, Personalization, Account management",
+                        "Phone number": "App functionality, Advertising or marketing, Personalization, Account management",
+                        "Other info": "App functionality, Advertising or marketing, Personalization, Account management"
+                    }
+                ]
+            },
+            {
+                "Location": "Approximate location and Precise location",
+                "Data shared and for what purpose": [
+                    {
+                        "Approximate location": "App functionality, Analytics, Developer communications, Advertising or marketing, Personalization",
+                        "Precise location": "App functionality, Analytics, Developer communications, Advertising or marketing, Personalization"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Device or other IDs": "App functionality, Analytics, Developer communications, Advertising or marketing, Personalization"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions",
+                "Data collected and for what purpose": [
+                    {
+                        "App interactions": "App functionality, Analytics, Developer communications, Advertising or marketing, Personalization"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name, Email address, User IDs, Address, Phone number, and Other info",
+                "Data collected and for what purpose": [
+                    {
+                        "Name": "App functionality, Developer communications, Advertising or marketing, Personalization, Account management",
+                        "Email address": "App functionality, Developer communications, Advertising or marketing, Personalization, Account management",
+                        "User IDs": "App functionality, Analytics, Developer communications, Advertising or marketing, Personalization, Account management",
+                        "Address · Optional": "App functionality, Advertising or marketing, Personalization, Account management",
+                        "Phone number · Optional": "App functionality, Advertising or marketing, Personalization, Account management",
+                        "Other info · Optional": "App functionality, Developer communications, Advertising or marketing, Personalization, Account management"
+                    }
+                ]
+            },
+            {
+                "Photos and videos": "Photos and Videos",
+                "Data collected and for what purpose": [
+                    {
+                        "Photos · Optional": "App functionality, Personalization",
+                        "Videos · Optional": "App functionality, Personalization"
+                    }
+                ]
+            },
+            {
+                "Location": "Approximate location and Precise location",
+                "Data collected and for what purpose": [
+                    {
+                        "Approximate location · Optional": "App functionality, Analytics, Developer communications, Advertising or marketing, Personalization",
+                        "Precise location · Optional": "App functionality, Analytics, Developer communications, Advertising or marketing, Personalization"
+                    }
+                ]
+            },
+            {
+                "Audio": "Voice or sound recordings",
+                "Data collected and for what purpose": [
+                    {
+                        "Voice or sound recordings · Optional": "App functionality"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            },
+            {
+                "Data can’t be deleted": "The developer doesn’t provide a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

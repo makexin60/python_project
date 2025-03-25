@@ -1,0 +1,55 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "Location": "Approximate location and Precise location",
+                "Data shared and for what purpose": [
+                    {
+                        "Approximate location": "Personalization",
+                        "Precise location": "Personalization"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "Photos and videos": "Photos",
+                "Data collected and for what purpose": [
+                    {
+                        "Photos · Optional": "App functionality"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Crash logs",
+                "Data collected and for what purpose": [
+                    {
+                        "Crash logs": "Analytics"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name, Email address, and User IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Name": "App functionality, Account management",
+                        "Email address": "App functionality, Account management",
+                        "User IDs": "App functionality, Account management"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            },
+            {
+                "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

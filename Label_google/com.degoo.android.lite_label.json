@@ -1,0 +1,85 @@
+[
+    {
+        "No data shared with third parties ( The developer says this app doesn't share user data with other companies or organizations. Learn more about how developers declare sharing. )": []
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "Personal info": "Name, Email address, and User IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Name · Optional": "App functionality, Account management",
+                        "Email address": "App functionality, Developer communications, Account management",
+                        "User IDs": "App functionality, Analytics, Developer communications"
+                    }
+                ]
+            },
+            {
+                "Photos and videos": "Photos and Videos",
+                "Data collected and for what purpose": [
+                    {
+                        "Photos · Optional": "App functionality, Personalization",
+                        "Videos · Optional": "App functionality"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions, In-app search history, Other user-generated content, and Other actions",
+                "Data collected and for what purpose": [
+                    {
+                        "App interactions · Optional": "Analytics",
+                        "In-app search history · Optional": "Analytics",
+                        "Other user-generated content · Optional": "Analytics",
+                        "Other actions · Optional": "Analytics"
+                    }
+                ]
+            },
+            {
+                "Files and docs": "Files and docs",
+                "Data collected and for what purpose": [
+                    {
+                        "Files and docs · Optional": "App functionality"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+                "Data collected and for what purpose": [
+                    {
+                        "Crash logs · Optional": "Analytics",
+                        "Diagnostics · Optional": "Analytics",
+                        "Other app performance data · Optional": "Analytics"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Device or other IDs · Optional": "Analytics, Account management"
+                    }
+                ]
+            },
+            {
+                "Audio": "Voice or sound recordings, Music files, and Other audio files",
+                "Data collected and for what purpose": [
+                    {
+                        "Voice or sound recordings · Optional": "App functionality",
+                        "Music files · Optional": "App functionality",
+                        "Other audio files · Optional": "App functionality"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            },
+            {
+                "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

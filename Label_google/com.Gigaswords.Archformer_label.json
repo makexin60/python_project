@@ -1,0 +1,109 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "Location": "Approximate location and Precise location",
+                "Data shared and for what purpose": [
+                    {
+                        "Approximate location": "App functionality, Analytics, Advertising or marketing",
+                        "Precise location": "App functionality, Analytics, Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "Financial info": "Purchase history",
+                "Data shared and for what purpose": [
+                    {
+                        "Purchase history": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data shared and for what purpose": [
+                    {
+                        "Device or other IDs": "App functionality, Analytics, Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions and Other actions",
+                "Data shared and for what purpose": [
+                    {
+                        "App interactions": "App functionality, Analytics",
+                        "Other actions": "App functionality, Analytics"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+                "Data shared and for what purpose": [
+                    {
+                        "Crash logs": "App functionality, Analytics",
+                        "Diagnostics": "App functionality, Analytics",
+                        "Other app performance data": "App functionality, Analytics"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "Location": "Approximate location and Precise location",
+                "Data collected and for what purpose": [
+                    {
+                        "Approximate location": "App functionality, Analytics, Advertising or marketing",
+                        "Precise location": "App functionality, Analytics, Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "Financial info": "Purchase history",
+                "Data collected and for what purpose": [
+                    {
+                        "Purchase history": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Device or other IDs": "App functionality, Analytics, Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions, Installed apps, and Other actions",
+                "Data collected and for what purpose": [
+                    {
+                        "App interactions": "App functionality, Analytics",
+                        "Installed apps": "Advertising or marketing",
+                        "Other actions": "App functionality, Analytics"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+                "Data collected and for what purpose": [
+                    {
+                        "Crash logs": "App functionality, Analytics",
+                        "Diagnostics": "App functionality, Analytics",
+                        "Other app performance data": "App functionality, Analytics"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data isn’t encrypted": "Your data isn’t transferred over a secure connection"
+            },
+            {
+                "Data can’t be deleted": "The developer doesn’t provide a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

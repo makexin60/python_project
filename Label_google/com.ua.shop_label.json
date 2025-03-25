@@ -1,0 +1,97 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "App activity": "App interactions and In-app search history",
+                "Data shared and for what purpose": [
+                    {
+                        "App interactions": "Analytics, Advertising or marketing, Personalization",
+                        "In-app search history": "App functionality, Analytics, Advertising or marketing, Personalization"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name, Email address, and Phone number",
+                "Data shared and for what purpose": [
+                    {
+                        "Name": "App functionality, Analytics",
+                        "Email address": "App functionality, Analytics, Advertising or marketing, Personalization",
+                        "Phone number": "App functionality, Developer communications, Advertising or marketing"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+                "Data collected and for what purpose": [
+                    {
+                        "Crash logs": "Analytics",
+                        "Diagnostics": "Analytics",
+                        "Other app performance data": "Analytics"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Device or other IDs · Optional": "App functionality, Analytics, Advertising or marketing, Personalization"
+                    }
+                ]
+            },
+            {
+                "Financial info": "User payment info and Purchase history",
+                "Data collected and for what purpose": [
+                    {
+                        "User payment info · Optional": "App functionality",
+                        "Purchase history · Optional": "App functionality, Analytics, Advertising or marketing, Personalization"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions and In-app search history",
+                "Data collected and for what purpose": [
+                    {
+                        "App interactions · Optional": "Analytics, Advertising or marketing, Personalization",
+                        "In-app search history · Optional": "App functionality, Analytics, Advertising or marketing, Personalization"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name, Email address, User IDs, Address, Phone number, and Other info",
+                "Data collected and for what purpose": [
+                    {
+                        "Name · Optional": "App functionality, Analytics",
+                        "Email address": "App functionality, Analytics, Advertising or marketing, Personalization",
+                        "User IDs": "App functionality",
+                        "Address": "App functionality, Analytics, Advertising or marketing",
+                        "Phone number · Optional": "App functionality, Developer communications, Advertising or marketing",
+                        "Other info · Optional": "App functionality, Analytics, Advertising or marketing, Personalization"
+                    }
+                ]
+            },
+            {
+                "Location": "Approximate location and Precise location",
+                "Data collected and for what purpose": [
+                    {
+                        "Approximate location · Optional": "App functionality, Analytics, Advertising or marketing, Personalization",
+                        "Precise location · Optional": "App functionality, Advertising or marketing, Personalization"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            },
+            {
+                "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

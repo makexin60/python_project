@@ -1,0 +1,107 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "App info and performance": "Crash logs and Diagnostics",
+                "Data shared and for what purpose": [
+                    {
+                        "Crash logs": "Analytics",
+                        "Diagnostics": "Analytics"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions and Other actions",
+                "Data shared and for what purpose": [
+                    {
+                        "App interactions": "Analytics",
+                        "Other actions": "Analytics"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "App info and performance": "Crash logs and Diagnostics",
+                "Data collected and for what purpose": [
+                    {
+                        "Crash logs": "Analytics",
+                        "Diagnostics": "Analytics"
+                    }
+                ]
+            },
+            {
+                "Photos and videos": "Photos",
+                "Data collected and for what purpose": [
+                    {
+                        "Photos · Optional": "Personalization"
+                    }
+                ]
+            },
+            {
+                "Audio": "Voice or sound recordings",
+                "Data collected and for what purpose": [
+                    {
+                        "Voice or sound recordings · Optional": "App functionality"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions and Other actions",
+                "Data collected and for what purpose": [
+                    {
+                        "App interactions": "Analytics",
+                        "Other actions": "Analytics"
+                    }
+                ]
+            },
+            {
+                "Health and fitness": "Fitness info",
+                "Data collected and for what purpose": [
+                    {
+                        "Fitness info": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Financial info": "User payment info",
+                "Data collected and for what purpose": [
+                    {
+                        "User payment info · Optional": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name, Email address, User IDs, and Other info",
+                "Data collected and for what purpose": [
+                    {
+                        "Name · Optional": "Personalization",
+                        "Email address": "App functionality, Account management",
+                        "User IDs": "App functionality",
+                        "Other info · Optional": "Personalization"
+                    }
+                ]
+            },
+            {
+                "Messages": "Other in-app messages",
+                "Data collected and for what purpose": [
+                    {
+                        "Other in-app messages · Optional": "App functionality"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            },
+            {
+                "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

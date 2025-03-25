@@ -1,0 +1,88 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+                "Data shared and for what purpose": [
+                    {
+                        "Crash logs": "App functionality, Analytics, Fraud prevention, security, and compliance",
+                        "Diagnostics": "App functionality, Analytics, Fraud prevention, security, and compliance",
+                        "Other app performance data": "App functionality, Analytics, Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "Location": "Approximate location",
+                "Data shared and for what purpose": [
+                    {
+                        "Approximate location": "App functionality, Analytics, Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data shared and for what purpose": [
+                    {
+                        "Device or other IDs": "App functionality, Analytics, Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "App activity": "Other actions",
+                "Data shared and for what purpose": [
+                    {
+                        "Other actions": "App functionality, Analytics, Fraud prevention, security, and compliance"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+                "Data collected and for what purpose": [
+                    {
+                        "Crash logs": "App functionality, Analytics, Fraud prevention, security, and compliance",
+                        "Diagnostics": "App functionality, Analytics, Fraud prevention, security, and compliance",
+                        "Other app performance data": "App functionality, Analytics, Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "Location": "Approximate location",
+                "Data collected and for what purpose": [
+                    {
+                        "Approximate location": "App functionality, Analytics, Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Device or other IDs": "App functionality, Analytics, Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "App activity": "Other actions",
+                "Data collected and for what purpose": [
+                    {
+                        "Other actions": "App functionality, Analytics, Fraud prevention, security, and compliance"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data isn’t encrypted": "Your data isn’t transferred over a secure connection"
+            },
+            {
+                "Data can’t be deleted": "The developer doesn’t provide a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

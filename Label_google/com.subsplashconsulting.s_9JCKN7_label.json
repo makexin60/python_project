@@ -1,0 +1,145 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "Audio": "Voice or sound recordings, Music files, and Other audio files",
+                "Data shared and for what purpose": [
+                    {
+                        "Voice or sound recordings": "App functionality",
+                        "Music files": "App functionality",
+                        "Other audio files": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Photos and videos": "Photos and Videos",
+                "Data shared and for what purpose": [
+                    {
+                        "Photos": "App functionality",
+                        "Videos": "App functionality"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Crash logs",
+                "Data shared and for what purpose": [
+                    {
+                        "Crash logs": "Analytics"
+                    }
+                ]
+            },
+            {
+                "Files and docs": "Files and docs",
+                "Data shared and for what purpose": [
+                    {
+                        "Files and docs": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Messages": "Other in-app messages",
+                "Data shared and for what purpose": [
+                    {
+                        "Other in-app messages": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name",
+                "Data shared and for what purpose": [
+                    {
+                        "Name": "Account management"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "App activity": "App interactions, Other user-generated content, and Other actions",
+                "Data collected and for what purpose": [
+                    {
+                        "App interactions": "Analytics",
+                        "Other user-generated content · Optional": "App functionality",
+                        "Other actions · Optional": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Audio": "Voice or sound recordings, Music files, and Other audio files",
+                "Data collected and for what purpose": [
+                    {
+                        "Voice or sound recordings · Optional": "App functionality",
+                        "Music files · Optional": "App functionality",
+                        "Other audio files · Optional": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Device or other IDs": "Analytics"
+                    }
+                ]
+            },
+            {
+                "Photos and videos": "Photos and Videos",
+                "Data collected and for what purpose": [
+                    {
+                        "Photos · Optional": "App functionality",
+                        "Videos · Optional": "App functionality"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Crash logs",
+                "Data collected and for what purpose": [
+                    {
+                        "Crash logs": "Analytics"
+                    }
+                ]
+            },
+            {
+                "Files and docs": "Files and docs",
+                "Data collected and for what purpose": [
+                    {
+                        "Files and docs · Optional": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Messages": "Other in-app messages",
+                "Data collected and for what purpose": [
+                    {
+                        "Other in-app messages · Optional": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name, Email address, User IDs, Address, Phone number, and Other info",
+                "Data collected and for what purpose": [
+                    {
+                        "Name · Optional": "App functionality, Account management",
+                        "Email address · Optional": "App functionality, Account management",
+                        "User IDs · Optional": "App functionality, Account management",
+                        "Address · Optional": "Account management",
+                        "Phone number · Optional": "Account management",
+                        "Other info · Optional": "Developer communications, Account management"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            },
+            {
+                "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

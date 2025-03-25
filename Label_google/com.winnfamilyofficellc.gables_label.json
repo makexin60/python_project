@@ -1,0 +1,124 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data shared and for what purpose": [
+                    {
+                        "Device or other IDs": "Analytics"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name, Email address, User IDs, and Phone number",
+                "Data shared and for what purpose": [
+                    {
+                        "Name": "Analytics",
+                        "Email address": "App functionality, Analytics",
+                        "User IDs": "App functionality, Analytics",
+                        "Phone number": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Location": "Approximate location",
+                "Data shared and for what purpose": [
+                    {
+                        "Approximate location": "Analytics"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Crash logs and Diagnostics",
+                "Data shared and for what purpose": [
+                    {
+                        "Crash logs": "Analytics",
+                        "Diagnostics": "Analytics"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions",
+                "Data shared and for what purpose": [
+                    {
+                        "App interactions": "Analytics"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Device or other IDs": "Analytics"
+                    }
+                ]
+            },
+            {
+                "Photos and videos": "Photos and Videos",
+                "Data collected and for what purpose": [
+                    {
+                        "Photos · Optional": "App functionality",
+                        "Videos · Optional": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name, Email address, User IDs, Address, Phone number, and Other info",
+                "Data collected and for what purpose": [
+                    {
+                        "Name": "App functionality, Analytics, Account management",
+                        "Email address": "App functionality, Analytics, Account management",
+                        "User IDs": "App functionality, Analytics, Account management",
+                        "Address": "App functionality, Account management",
+                        "Phone number": "App functionality",
+                        "Other info · Optional": "App functionality, Analytics"
+                    }
+                ]
+            },
+            {
+                "Files and docs": "Files and docs",
+                "Data collected and for what purpose": [
+                    {
+                        "Files and docs · Optional": "App functionality"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Crash logs and Diagnostics",
+                "Data collected and for what purpose": [
+                    {
+                        "Crash logs": "Analytics",
+                        "Diagnostics": "Analytics"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions",
+                "Data collected and for what purpose": [
+                    {
+                        "App interactions": "Analytics"
+                    }
+                ]
+            },
+            {
+                "Financial info": "User payment info",
+                "Data collected and for what purpose": [
+                    {
+                        "User payment info · Optional": "App functionality"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            }
+        ]
+    }
+]

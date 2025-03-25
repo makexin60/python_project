@@ -1,0 +1,94 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "Financial info": "User payment info and Purchase history",
+                "Data shared and for what purpose": [
+                    {
+                        "User payment info": "App functionality, Analytics, Fraud prevention, security, and compliance, Account management",
+                        "Purchase history": "App functionality, Analytics, Fraud prevention, security, and compliance, Account management"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data shared and for what purpose": [
+                    {
+                        "Device or other IDs": "Analytics"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Crash logs",
+                "Data shared and for what purpose": [
+                    {
+                        "Crash logs": "Analytics"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name, Email address, Address, and Phone number",
+                "Data shared and for what purpose": [
+                    {
+                        "Name": "App functionality, Analytics, Fraud prevention, security, and compliance, Account management",
+                        "Email address": "App functionality, Analytics, Fraud prevention, security, and compliance, Account management",
+                        "Address": "App functionality, Analytics, Fraud prevention, security, and compliance, Account management",
+                        "Phone number": "App functionality, Fraud prevention, security, and compliance, Account management"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "Financial info": "User payment info and Purchase history",
+                "Data collected and for what purpose": [
+                    {
+                        "User payment info": "App functionality, Analytics, Fraud prevention, security, and compliance, Account management",
+                        "Purchase history": "App functionality, Analytics, Fraud prevention, security, and compliance, Account management"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Device or other IDs": "Analytics"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Crash logs",
+                "Data collected and for what purpose": [
+                    {
+                        "Crash logs": "Analytics"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name, Email address, User IDs, Address, Phone number, and Sexual orientation",
+                "Data collected and for what purpose": [
+                    {
+                        "Name": "App functionality, Analytics, Fraud prevention, security, and compliance, Account management",
+                        "Email address": "App functionality, Analytics, Fraud prevention, security, and compliance, Account management",
+                        "User IDs": "App functionality, Analytics, Fraud prevention, security, and compliance, Account management",
+                        "Address": "App functionality, Analytics, Fraud prevention, security, and compliance, Account management",
+                        "Phone number": "App functionality, Fraud prevention, security, and compliance, Account management",
+                        "Sexual orientation": "App functionality, Account management"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            },
+            {
+                "Data can’t be deleted": "The developer doesn’t provide a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "Location": "Approximate location",
+                "Data shared and for what purpose": [
+                    {
+                        "Approximate location": "Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data shared and for what purpose": [
+                    {
+                        "Device or other IDs": "Advertising or marketing"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "No data collected ( The developer says this app doesn’t collect user data )": []
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            }
+        ]
+    }
+]

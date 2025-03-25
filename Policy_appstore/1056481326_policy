@@ -52,4 +52,654 @@ EULA
 Biometric Card Enrolment
 Privacy Policy for Biometric Card Enrolment - Android store
 Privacy Policy for Biometric Card Enrolment - Apple store
+EULAThales DIS General Terms & Conditions and Privacy Policies
+Click on each of the titles below to access to the relevant documents.
+Terms & Conditions
+General Sales Terms & Conditions
+(per country)
+Specific Terms & Conditions for Mobile Communications Solutions
+(DIS/MCS)
+Mobile Application Terms of Use
+Application Name
+Privacy Policy
+End-User licence agreement
+Thales UK HOB BSEFT 2024
+Privacy Policy for Thales UK HOB BSEFT 2024
 EULA
+ID Probe 300 OTP
+Privacy Policy for ID Prove 300 OTP
+EULA
+Mobile Driver License (mDL)
+Mobile Driver License (mDL) Privacy Policy
+EULA
+Thales SoftTEE
+Privacy Policy for Thales SoftTEE
+EULA
+SafeNet Know Plugin
+Privacy Policy for SafeNet Knox Plugin
+EULA
+TrustID Wallet App
+Privacy Q&A for TrustID Wallet App
+EULA
+IdCloud Auth POC
+Privacy Q&A for IdCloud Auth POC sample app
+EULA
+DDL
+DDL Privacy Q&A for Mobile App
+EULA
+DocReaderEx
+Privacy Policy for DocReaderEx
+EULA
+Provisioner
+Privacy Policy for Provisioner
+EULA
+Magnificient Reader
+Privacy Q&A for Magnificient Reader Mobile App
+EULA
+Voice Card Companion
+Privacy Policy for Voice Card Companion - Android store
+Privacy Policy for Voice Card Companion - Apple store
+EULA
+Thales POS Simulator
+Privacy Policy for Mobile Testing Applications
+EULA
+Biometric Card Enrolment
+Privacy Policy for Biometric Card Enrolment - Android store
+Privacy Policy for Biometric Card Enrolment - Apple store
+EULA
+Sub-section Policy: 
+Sub-policy 0
+https://www.thalesgroup.com/sites/default/files/database/document/2024-11/Thales%20Privacy%20Policy%20for_Thales%20UK%20HOB%20BSEFT%202024_Mobile%20application%20updated.pdf:
+
+Sub-policy 1
+https://www.thalesgroup.com/en/markets/digital-identity-and-security/policies/privacy-policy-idproveotp:
+Skip to main content
+You are here :
+Home
+Markets
+Digital Identity and Security
+Privacy Policy for ID Prove 300 OTP
+Latest update: March 8, 2017
+1- Who we are
+Gemalto Pte (Ltd) a company organized under the laws of Singapore.
+2- What we do
+We have developed this mobile application based on a One-Time Password (OTP) technology allowing a secure and convenient authentication to internet services via an OTP server.
+3- Location of the OTP server?
+Depending on the terms of the contract between us and your organization that acquires the OTP service, the OTP server can be located at the premises of your organization or in our data center located in Ottawa (Ontario - Canada).
+4- Information collected by the Application
+To activate the OTP service via the mobile application you will have to enter a PIN number, registration code, or OTP server URL. This information is entered by you to authenticate and to register to the OTP server of your organization. You also have the option to perform the activation via QR code.
+5- Information that could be
+automatically collected by the Application
+Information automatically collected
+Reasons for the automatic collection
+Read phone status and identity
+It allows to identify the phone and to derive some parameters used for security functions
+Take picture and videos
+It lets the app control the camera function on your phone. In theory this could be used maliciously to snap unsuspecting photos, but it would be unlikely and difficult to get a worthwhile picture or video. However, it is not impossible to make malicious use of cameras.
+Modify, read or delete the content of the SD card
+The SD card is used to store some logs used for debugging or maintenance purpose
+Find accounts on the device
+This is required by GCM service while getting a unique device ID.
+View network connections
+This is required for accessing ConnectivityManager (mainly for monitoring network connections in general)
+View WiFi connections
+Allows the app to view information about wi-fi networking, such as whether wi-fi is enabled.
+Control flashlight
+This allows apps to turn on or off the LED "flash" light used by the camera
+Prevent phone from sleeping
+This is required to keep processor from sleeping, in our case we are using WakefulBroadcastReceiver for handling push notifications, which keeps the processor from sleeping until the push notification message is processed.
+6- Third parties access to information obtained by the Application
+Third parties do not have access to the information obtained by the Application.
+7- Sharing of data with third parties
+We share information with your organization that has acquired the OTP service. We may also disclose personal information to respond to legal requirements (for example, in response to requests by federal, state or local authorities, including tax authorities, subpoenas, court orders or other legal processes) or in the good-faith belief that disclosure is legally required, enforce our policies, establish or exercise our legal rights or protect anyone's rights, property or safety.
+8- Sharing of data for marketing purposes.
+We do not share the data for marketing or advertising purpose.
+9- Security and Retention
+If your information is stored on our servers located in Ottawa (Ontario - Canada): we treat data as an asset that must be protected and use tools (encryption, passwords, physical security, etc.) to protect your personal information against unauthorized access and disclosure. However, as you probably know, third parties may unlawfully intercept or access transmissions or private communications, and other users may abuse or misuse your personal information that they collect from the site. Therefore, although we work very hard to protect your privacy, we do not promise, and you should not expect, that your personal information will always remain private.
+We retain information in accordance with the duration of the agreement with your organization. In addition, we may retain personal information from closed accounts to comply with the law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigation, enforce the agreement and take other actions permitted by law.
+Sub-policy 2
+https://www.thalesgroup.com/en/markets/digital-identity-and-security/policies/privacy-policy-mdl:
+Skip to main content
+You are here :
+Home
+Markets
+Digital Identity and Security
+Thales mobile Driver License (mDL) Privacy Policy Terms
+Last update: June 2021
+This document acts as Privacy Policy Terms for any Thales mobile Driver License (mDL) applications for the end user groups including citizens (using a Thales mDL app) and verifying entities (using a Thales mDL Verifier app). General Thales Privacy Policy information can be found at:
+https://www.thalesgroup.com/en/privacy-notice
+.
+As Thales contracts directly with US State and/or Canadian Province jurisdictions for these services, a Thales mDL app may be branded under the Thales brand or under the individual State/Province identity along with a “by Thales” descriptor in the app name.
+Device & App history
+Does the mDL App allow someone to view one or more pieces of information about activity on the registered mobile device, such as which apps are running, browsing and bookmarks?
+Answer: No. The mDL App does not provide access to, or information about, any activity on the individual’s mobile device.
+Location
+Does the mDL App use the device's location – either approximate (network based) or precise (GPS and network based)?
+If yes, does the mDL App notify and obtain user consent before collecting, transmitting or using location data?
+Answer: No. The mDL App does not use or track the device location.
+Identity
+Does the mDL App find a user’s account on the device? Is the mDL App able to add or remove accounts?
+Answer: No. The mDL App does not use any accounts on the mobile device.
+The mDL account created for the  users and/or verifying entities are managed at the DMV level when a person, or business, enrolls for the mDL and registers their mobile device into the DMV’s mDL ecosystem. This happens completely on the secure mDL backend systems and not on the individual mobile device.
+Photos/media/files
+Does the mDL App use one or more of: files on the mobile device such as images, videos or audio; the device's external storage?
+Answer: The mDL App does not access the external storage or the user content except for the content managed by the mDL. The mDL App does access the mobile device’s camera during initial enrollment (if using remote enrollment processes), and to scan bar codes for verification.
+Wi-Fi connection information
+Does the mDL App allow for viewing information about Wi-Fi networking, such as whether Wi-Fi is enabled and names of connected devices?
+Answer: No, this functionality is through the actual mobile device and not the mDL App.
+Device ID & Call information
+Does the mDL App provide information about the mobile phone number and device IDs, whether a call is active and the remote number connected by a call?
+Answer: No. The mDL App is purely used as a digital form of identification, to verify an individual’s age, identity and/or driving privileges.
+Analytics and data
+Does the mDL App collect, record, and transmit any personal data?
+Answer: No. The mDL App will only record and transmit anonymized, not personally identifiable, information for analytic, network performance, and quality of service purposes. No personally identifiable information is recorded or transmitted, including no key press information, no geolocation tagging, no contact information, no location information, etc.
+App description
+A Thales mDL App is provided in partnership with a State or Province Department of Motor Vehicles, currently as a companion form of ID to your physical driver’s license or ID card. If available in your State or Province, it can be used to verify age, identity, or driving privileges throughout the state and across the nation wherever mobile driver licenses are accepted.
+Once available in your locale, you can request an mDL through your DMV. Upon successful enrollment and app download, you can begin using your mDL App. State or Province issued mDLs are legal forms of identification and can be used as a companion to your primary physical Driver’s License or ID card.
+For more information on the mobile Driver’s License, please visit
+https://justaskthales.com/us/the-mobile-drivers-license/
+.
+App Permissions
+Does the mDL App require access to certain systems within your device?
+Answer: Yes. When you install an application, you are notified of the following permissions required to run that application.
+Android App:
+Permission
+Comments
+Bluetooth
+The apps uses Bluetooth for communicating with verification applications
+Fingerprint
+The apps uses PIN and/or fingerprints protection to access the application
+Internet, Network State
+The apps requires internet access to interact with the DDL backend and checks if internet access is available
+Receive
+For push notifications (Credential downloads, updates)
+Vibrate
+To alert for notifications
+Camera
+To scan bar codes
+iOS App:
+Permission
+Comments
+Camera
+To scan bar codes
+Receive
+For push notifications (Credential downloads, updates)
+Bluetooth
+The apps uses Bluetooth for communicating with verification applications
+Fingerprint/TouchID
+The apps uses PIN and/or fingerprints protection to access the application
+Internet, Network State
+To alert for notifications
+Encryption
+Does the mDL App send data over unencrypted (HTTP) or an encrypted (HTTPS) connection?
+Answer: All data for the mDL App is sent via encrypted (HTTPS) connection.
+Data Collection
+Explain the data being collected with the mDL App, along with when and for what purpose.
+Answer: The mDL app is the digital version of a Driver's License issued by the State or Province, and as such it retains the Driver’s License information. During the mDL registration and enrollment process, the Driver’s License data is stored in the mDL App, using encrypted secure storage and protected by user PIN and/or biometrics (fingerprint or facial scan, if supported by the device).
+Rating
+Do you assign an appropriate rating to the mDL App?
+Answer: Each State or Province-specific mDL App will have its own rating; however, in general Thales mDL apps are assigned an “Everyone” rating for Android, and a “4+” rating for iOS.
+Suitability for Children
+Can the mDL App be downloaded by children?
+Answer: The mDL App is not intended for children under 16 years of age. The mDL App can only be activated through an enrollment and registration process with the DMVs, which includes validation of the individual’s current Driver's License or non-driver’s ID. Once activated, the individual can access their mDL through secure login to their registered mobile device with PIN and/or biometrics.
+Sub-policy 3
+https://www.thalesgroup.com/en/markets/digital-identity-and-security/policies/privacy-policy-softtee:
+Skip to main content
+You are here :
+Home
+Markets
+Digital Identity and Security
+Privacy Policy for Gemalto SoftTEE
+Latest update: October 17th, 2017
+This privacy policy governs your use of the software application Gemalto SoftTEE.
+By using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us.
+1- Device & App history
+Does the App allow to view one or more of information about activity on the device, which apps are running, browsing and bookmarks?
+No.
+2- Location
+Does the App use the device's location: Approximate location (network-based)
+Precise location: GPS and network-based?
+No, not using location at all.
+Does the App notify and obtain user consent before collecting, transmitting or using location data?
+NA.
+3- Identity
+Does the App find account on the device? Add or remove accounts?
+No.
+4- Photos/media/files
+Does the App use one or more of: files on a device such as images, videos or audio, the device's external storage?
+No.
+5- wi-fi connection information
+Does the App allow to view information about wi-fi networking, such as whether wi-fi is enabled and anmeas of connected devices?
+No.
+6- Device ID & Call information
+Does the App allow to determine the phone number and device IDs, whether a call is active and the remote number connected by a call?
+The App
+reads the IMEI/IMSI and generate UUID to identify the device from the server.
+Does the App also record and transmit anonymized network performance data for analysis by Analytic Engine?
+This data is used for the purpose of assessing network quality of service issues. No personally identifiable information is recorded or transmitted, including no essential press information, no contact information, etc.?
+No.
+7- App description
+This is an App for our IoT solution to serve our value customers. You can upload your Trusted Application (TA) to our backend server. After that, you can download the TA and run it.
+You can use this app to lock and unlock the car, start and stop the car engine, depends on the TA you uploaded to our backend server.
+To be able to operate it, you need to "Install TA" first, then you can click "Run TA" to test the application you uploaded.
+8- App Permissions
+Does the App require access to certain systems within your device? When you install an application, you are notified of all of the following permissions required to run that application:
+READ_PHONE_STATE (please revert to question 6 above for additional information)
+INTERNET
+WRITE_EXTERNAL_STORAGE
+9- Encryption
+Does the App send data over unencrypted (HTTP) or an encrypted (HTTPS) connection?
+HTTPS
+.
+10- Explain why the data are being collected, when and for what purpose
+For a server to identify the device and bootstrap the data to the device.
+11- Do you assign an appropriate rating to the App?
+Yes.
+12- Can the App be downloaded by children?
+Yes.
+13- Does the App comply will all the terms and conditions explained in the Apple iOS Human Interface Guidelines?
+Yes.
+14- Does the App use trademark, service mark or images of Google, Apple, BlackBerry or other market store owners?
+No.
+15- Security and Retention
+The app has been developed in a secure manner. It includes specific security features.
+Data storage: The app stores all the data insecure in the phone internal storage with encryption.
+Data usage: The UUID generated to identify the device is sent to the Gemalto server.
+Data Transmission: The data transfer from device to Gemalto server is also encrypted.
+Sub-policy 4
+https://www.thalesgroup.com/en/markets/digital-identity-and-security/policies/privacy-policy-for-safenet-knox-plugin:
+Skip to main content
+You are here :
+Home
+Markets
+Digital Identity and Security
+Privacy Policy for SafeNet Knox Plugin
+​Latest update: May 29, 2018
+This privacy policy governs your use of the software application [___SafeNet Knox Plugin _].
+By using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us.
+1- Device & App history
+Does the App allow to view one or more of information about activity on the device, which apps are running, browsing and bookmarks?
+No
+2- Location
+Does the App use the device's location: Approximate location (network-based)
+Precise location: GPS and network-based?
+Yes. The location needs to be enabled for Bluetooth LE to work.
+Does the App notify and obtain user consent before collecting, transmitting or using location data?
+Yes. The App obtains user consent to use the location permission through Android's runtime request: a dialogue asking to access your location with ALLOW and DENY as choices. Location data does not leave the device. Location data is not used by the app.
+3- Identity
+Does the App find account on the device? Add or remove accounts?
+No
+4- Photos/media/files
+Does the App use one or more of: files on a device such as images, videos or audio, the device's external storage?
+No
+5- Wi-Fi connection information
+Does the App allow to view information about wi-fi networking, such as whether wi-fi is enabled and anmeas of connected devices?
+No
+6- Device ID & Call information
+Does the App allow to determine the phone number and device IDs, whether a call is active and the remote number connected by a call?
+The phone identity (IMEI) is used to calculate a device fingerprint, used to encrypt and store some secret data in the phone memory. Determining whether a call is active and determining the remote number connected by a call is not used.
+Does the App also record and transmits anonymized network performance data for analysis by Analytic Engine? This data is used for the purpose of assessing network quality of service issues. No personally identifiable information is recorded or transmitted, including no key press information, no contact information, etc.?
+No
+7- App description
+SafeNet Knox Plugin is a mobile application developed based on Samsung Knox SDK, particularly on the Knox Universal Credential Management (UCM) SDK, for Samsung devices running on the Android platform. With the Knox UCM framework, SafeNet Knox Plugin brings the highest possible security level to other Knox compliant applications by providing access to the Gemalto PKI Secure Elements and acting as a standardized middleware. It is a BYOD-ready technology that protects the confidential information by separating the private and professional environments of the users in two isolated containers. The security policy of the professional container is completely controlled by the IT Administrator, possibly using an MDM (Mobile Device Manager) from Samsung or other vendors.
+8- App Permissions
+Does the App require access to certain systems within your device? When you install an application, you are notified of all of the following permissions required to run that application:
+READ_PHONE_STATE: needed to get device identifiers to calculate a device fingerprint. This is used to encrypt and store secret data.
+LOCATION: needed to use Bluetooth LE.
+STORAGE: needed to access the microSD card.
+9- Encryption
+Does the App send data over an unencrypted (HTTP) or an encrypted (HTTPS) connection?
+No
+​10- Explain why the data are being collected, when and for what purpose
+No
+11- Do you assign an appropriate rating to the App?
+No
+12- Can the App be downloaded by children?
+Yes
+13- Does the App comply will all the terms and conditions explained in the Apple iOS Human Interface Guidelines?
+This is an Android app.
+14- Does the App use trademark, service mark or images of Google, Apple, BlackBerry or other market store owners?
+Samsung Knox
+15- Security and Retention
+Data storage: The app stores all the data in secure in the phone internal storage with encryption.
+Data usage: No identifier to identify the device is sent to the Gemalto server.
+Data Transmission: There is no data transfer from device to Gemalto server.
+Sub-policy 5
+https://www.thalesgroup.com/en/markets/digital-identity-and-security/policies/privacy-policy-qa-for-trustid-wallet-app:
+Skip to main content
+You are here :
+Home
+Markets
+Digital Identity and Security
+Privacy Q&A for TrustID Wallet App
+​​​As part of the delivery of a mobile application to be published by a customer, Gemalto has to provide the following information to the customer:
+1- Device & App history
+Does the App allow to view one or more of information about activity on the device, which apps are running, browsing and bookmarks?
+NO
+2- Location​​​
+Does the App use the device's location: Approximate location (network based)
+Precise location: GPS and network based?
+NO
+Does the App notify and obtain user consent before collecting, transmitting or using location data?
+N.A
+3- Identity
+Does the App find account on the device. Add or remove accounts?
+NO
+4- Photos/media/files
+Does the App uses one or more of: files on device such as images, videos or audio, the device's external storage?
+NO, its own files that user creates within this APP
+5- Wi-Fi connection information
+Does the App allow to view information about wi-fi networking, such as whether wi-fi is enabled and anmeas of connected devices :
+NO
+6- Device ID & Call information
+Does the App allow to determine the phone number and device IDs, whether a call is active and the remote number connected by a call?
+NO
+Does the App also records and transmits anonymized network performance data for analysis by Analytic Engine. This data is used for the purpose of assessing network quality of service issues. No personally identifiable information is recorded or transmitted, including no key press information, no contact information, etc.?
+NO
+7- App description
+Trust-ID Wallet Demo App (A Secure Mobile Self-Sovereign Identity Wallet)
+​Trust-ID Wallet App stores User Identity information such as user's unique Id and claims issued by Certifiers. The Wallet app computes the proof according to the request from Verifier, and then submit to the later for verification.
+8- App Permissions
+Does the App require access to certain systems within your device? When you install an application, you are notified of all of the following permissions required to run that application:
+YES, access to camera for taking pictures under the control of user, and notifications targeted for this own app
+9- Encryption
+Does the App send data over unencrypted (HTTP) or an encrypted (HTTPS) connection?
+YES
+10- Explain why the data are being collected, when and for what purpose
+User information is used to certify the user identity to enable access to the service providers such as banks with which user wants to open account or access services. Data is from the phone is only shared with specific consent from the use everytime user wants to share it with the specific service provider the needs to verify the identity of the user.
+11- Do you assign an appropriate rating to the App?
+YES
+12- Can the App be downloaded by children?
+YES, but not useful for children.
+13- Does the App comply will all the terms and conditions explained in the Apple iOS Human Interface Guidelines?
+YES
+14- Does the App use trademark, service mark or images of Google, apple, BlackBerry or other market store owners?
+NO
+Sub-policy 6
+https://www.thalesgroup.com/en/markets/digital-identity-and-security/policies/privacy-policy-idcloud-auth-poc-sample-app:
+Skip to main content
+You are here :
+Home
+Markets
+Digital Identity and Security
+Privacy Q&A for Mobile App
+As part of the delivery of a mobile application to be published by a customer, Gemalto has to provide the following information to the customer:
+1- Device & App history
+Does the App allow to view one or more of information about activity on the device, which apps are running, browsing and bookmarks?
+NO
+2- Location
+Does the App use the device's location: Approximate location (network based)
+Precise location: GPS and network based?
+NO
+Does the App notify and obtain user consent before collecting, transmitting or using location data?
+NO
+3- Identity
+Does the App find account on the device, add or remove accounts?
+NO
+4- Photos/media/files
+Does the App uses one or more of: files on device such as images, videos or audio, the device's external storage?
+NO
+5- Wi-Fi connection information
+Does the App allow to view information about wi-fi networking, such as whether wi-fi is enabled and names of connected devices?
+NO
+6- Device ID & Call information
+Does the App allow to determine the phone number and device IDs, whether a call is active and the remote number connected by a call?
+NO
+Does the App also records and transmits anonymized network performance data for analysis by Analytic Engine. This data is used for the purpose of assessing network quality of service issues. No personally identifiable information is recorded or transmitted, including no key press information, no contact information, etc.?
+NO
+7- App description
+IdCloud Auth POC sample app is a "sample application" to showcase Gemalto Mobile Protector product and IdCloud Authentication service
+8- App Permissions
+Does the App require access to certain systems within your device? When you install an application, you are notified of all of the following permissions required to run that application: Camera, FaceID
+Camera is used to scan QRCode for user registration
+Camera, FaceID can be used for user authentication use case
+9- Encryption
+Does the App send data over unencrypted (HTTP) or an encrypted (HTTPS) connection?
+Encrypted (HTTPS) connection
+10- Explain why the data are being collected, when and for what purpose
+We do not collect personal data
+11- Do you assign an appropriate rating to the App?
+NO
+12- Can the App be downloaded by children?
+YES. But it requires a registration credentials from Gemalto.
+13- Does the App comply will all the terms and conditions explained in the Apple iOS Human Interface Guidelines?
+YES
+14- Does the App use trademark, service mark or images of Google, apple, BlackBerry or other market store owners?
+NO
+Sub-policy 7
+https://www.thalesgroup.com/en/markets/digital-identity-and-security/policies/privacy-policy-ddl-qa-for-mobile-app:
+Skip to main content
+You are here :
+Home
+Markets
+Digital Identity and Security
+DDL Privacy Q&A for Mobile App
+As part of the delivery of a mobile application to be published by a customer, Gemalto has to provide the following information to the customer:
+1- Device & App history
+Does the App allow to view one or more of information about activity on the device, which apps are running, browsing and bookmarks?
+No, the App doesn't allow to view any activity on the device.
+However, the App will only show its own transaction history.
+2- Location
+Does the App use the device's location: Approximate location (network-based)
+Precise location: GPS and network-based?
+Does the App notify and obtain user consent before collecting, transmitting or using location data?
+No, the app doesn't use any location information (neither network-based nor GPS based).
+Yes, before sharing any data, the app specifies the data sharing (a type of data) and requires the user consent to proceed.
+3- Identity
+Does the App find account on the device, add or remove accounts?
+No, the app doesn't add or remove any accounts on the device.
+The app will only allow the use of the applicative account stored inside itself.
+4- Photos/media/files
+Does the app use one or more of: files on a device such as images, videos or audio, the device's external storage?
+No, the app doesn't use any photo, media files stored on the device's internal or external storage.
+The app uses some pictures & information provided by the user when enrolling to the service. The enrollment is performed by the relevant authority in charge of the digital document.
+5- Wi-Fi connection information
+Does the App allow to view information about Wi-Fi networking, such as whether Wi-Fi is enabled and names of connected devices?
+No.
+6- Device ID & Call information
+Does the App allow to determine the phone number and device IDs, whether a call is active and the remote number connected by a call?
+Not at all
+Does the App also record and transmit anonymized network performance data for analysis by Analytic Engine? This data is used for the purpose of assessing network quality of service issues. No personally identifiable information is recorded or transmitted, including no key press information, no contact information, etc.?
+No
+7- App description
+Digital Document Wallet Application. It allows the end-user to install and use a valid digital driver license. Prior to use this App, the end-user shall contact the relevant authority in charge of driver license in his country and then enrol to the DDL service. This App does not grant any driver license rights.
+With this App, the end-user can use his DDL to prove his driving privileges, to allow reading of the information across issuing authorities and law enforcement, to selectively authorize the release (sharing) of information from his DDL to a DDL reader (to give a proof of age, for instance, to show his driving class entitlements to a car rental company….)
+8- App Permissions
+Does the App require access to certain systems within your device? When you install an application, you are notified of all of the following permissions required to run that application:
+Access to Bluetooth
+Access to NFC (if supported by smartphones)
+Access to the Camera (to scan QR code)
+Access to Face ID (for compliant iPhones)
+9- Encryption
+Does the App send data over unencrypted (HTTP) or an encrypted (HTTPS) connection?
+Yes, it sends data over an encrypted communication channel.
+10- Explain why the data are being collected, when and for what purpose
+Collected data:
+phone model,
+OS version,
+reason of installation failure if any,
+if the installation process was not completed, at what stage the user stopped
+Data is anonymized.
+The purpose is to get analytics on smartphone fleet (marketing studies) and the reason of failure to report to our customers/ to improve our product
+11- Do you assign an appropriate rating to the App?
+No Rating.
+12- Can the App be downloaded by children?
+Yes, it can be downloaded by the children, the downloaded App is not configured. Configuration of the app would require end-user to enrol to the DDL, following local regulations.
+13- Does the App comply will all the terms and conditions explained in the Apple iOS Human Interface Guidelines?
+Yes
+14- Does the App use trademark, service mark or images of Google, Apple, BlackBerry or other market store owners?
+No
+Sub-policy 8
+https://www.thalesgroup.com/markets/digital-identity-and-security/policies/privacy-policy-docreaderex:
+Skip to main content
+You are here :
+Home
+Markets
+Digital Identity and Security
+Privacy Policy for DocReaderEx
+Last update: February 6th, 2019
+This privacy policy governs your use of the software application DocReaderEx. By using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us.
+1- Device & App history
+Does the App allow to view one or more of information about activity on the device, which apps are running, browsing and bookmarks?
+Answer: No.
+2- Location
+Does the App use the device's location: Approximate location (network based), precise location: GPS and network based?
+Answer: No.
+Does the App notify and obtain user consent before collecting, transmitting or using location data?
+Answer: N.A.
+3- Identity
+Does the App find account on the device? Add or remove accounts?
+Answer: No.
+4- Photos/media/files
+Does the App uses one or more of: files on device such as images, videos or audio, the device's external storage?
+Answer: No.
+5- Wi-Fi connection information
+Does the App allow to view information about wi-fi networking, such as names of connected devices?
+Answer: Yes, the application shows the user a list of all connected iSeries device.
+6- App description
+This app is used to demonstrate the capabilities of Gemalto iSeries Document Readers.
+The application uses a framework that is available to our integrators to develop similar applications to utilize the device. The functions are simply to show connecting to a device, choosing what features you want the iSeries device to use, and capturing document features. No data from iSeries devices is permanently stored and the application does not require any personal data, email, passwords, etc. to run. It application is free to use by interested iSeries customers and sales staff.
+7- App Permissions
+Does the App require access to certain systems within your device? When you install an application, you are notified of all of the following permissions required to run that application:
+Answer: Internet.
+8- Encryption
+Does the App send data over unencrypted (HTTP), an encrypted (HTTPS), or WebSocket connection?
+Answer: WebSocket.
+9- Explain why the data are being collected, when and for what purpose
+App collects free mDNS data from connected iSeries devices so the user can identify which device to connect to for use.
+10- Do you assign an appropriate rating to the App?
+Answer: Yes.
+11- Can the App be downloaded by children?
+Answer: Yes.
+12- Does the App comply will all the terms and conditions explained in the Apple iOS Human Interface Guidelines?
+Answer: Yes.
+13- Does the App use trademark, service mark or images of Google, apple,
+BlackBerry or other market store owners?
+Answer: No.
+14- Security and Retention of the data collected
+The app has been developed in a secure manner, it includes specific security features.
+Data storage: The app stores all the data in secure in the phone internal storage with encryption.
+Data Transmission: The data transfer from device to Gemalto iSeries Reader and vice versa is encrypted.
+More:
+Privacy policy for Magnificient Reader Mobile App
+Sub-policy 9
+https://www.thalesgroup.com/markets/digital-identity-and-security/policies/privacy-policy-provisioner:
+Skip to main content
+You are here :
+Home
+Markets
+Digital Identity and Security
+Privacy Policy for Provisioner
+Last update: February 20th, 2019
+This privacy policy governs your use of the software application Provisioner. By using the Application, you are
+consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us.
+1- Device & App history
+Does the App allow to view one or more of information about activity on the device, which apps are running, browsing and bookmarks?
+Answer: No.
+2- Location
+Does the App use the device's location: Approximate location (network based), precise location: GPS and network based?
+Answer: No.
+Does the App notify and obtain user consent before collecting, transmitting or using location data?
+Answer: N.A.
+3- Identity
+Does the App find account on the device? Add or remove accounts?
+Answer: No.
+4- Photos/media/files
+Does the App uses one or more of: files on device such as images, videos or audio, the device's external storage?
+Answer: No.
+5- Wi-Fi connection information
+Does the App allow to view information about wi-fi networking, such as names of connected devices?
+Answer: No.
+6- App description
+This app provides a quick and convenient way to complete the provisioning process of Gemalto iSeries Document Readers. It allows the user the ability to generate a barcode that contains the information the reader needs to be provisioned (setup). This includes network information as well as credentials for users and applications.
+7- App Permissions
+Does the App require access to certain systems within your device? When you install an application, you are notified of all of the following permissions required to run that application:
+Answer: No.
+8- Encryption
+Does the App send data over unencrypted (HTTP), an encrypted (HTTPS), or WebSocket connection?
+Answer: No.
+9- Explain why the data are being collected, when and for what purpose
+App collects only data needed to provision an iSeries device. This process can also be complete directly on device without use of this application.
+10- Do you assign an appropriate rating to the App?
+Answer: Yes.
+11- Can the App be downloaded by children?
+Answer: Yes.
+12- Does the App comply will all the terms and conditions explained in the Apple iOS Human Interface Guidelines?
+Answer: Yes.
+13- Does the App use trademark, service mark or images of Google, apple,
+BlackBerry or other market store owners?
+Answer: No.
+14- Security and Retention of the data collected
+The app has been developed in a secure manner, it includes specific security features.
+Data storage: The app stores all the data in secure in the phone internal storage with encryption.
+Sub-policy 10
+https://www.thalesgroup.com/markets/digital-identity-and-security/policies/privacy-policy-magnificientreader:
+Skip to main content
+You are here :
+Home
+Markets
+Digital Identity and Security
+Privacy Q&A for Magnificient Reader Mobile App
+As part of the delivery of a mobile application to be published by a customer, Gemalto has to provide the following information to the customer:
+1- Device & App history
+Does the App allow to view one or more of information about activity on the device, which apps are running, browsing and bookmarks?
+Answer: No.
+2- Location
+Does the App use the device's location: Approximate location (network based), precise location: GPS and network based?
+Answer: No.
+Does the App notify and obtain user consent before collecting, transmitting or using location data?
+Answer: N.A.
+3- Identity
+Does the App find account on the device? Add or remove accounts?
+Answer: No.
+4- Photos/media/files
+Does the App uses one or more of: files on device such as images, videos or audio, the device's external storage?
+Answer: Yes, it permits to add and read PDF files which are transferred to local phone storage from itunes.
+5- Wi-Fi connection information
+Does the App allow to view information about wi-fi networking, such as names of connected devices?
+Answer: No.
+6- Device ID & Call information
+Does the App allow to determine the phone number and device IDs, whether a call is active and the remote number connected by a call?
+Answer: No.
+Does the App also records and transmits anonymized network performance data for analysis by Analytic Engine. This data is used for the purpose of assessing network quality of service issues. No personally identifiable information is recorded or transmitted, including no key press information, no contact information, etc.?
+Answer: No.
+7- App Description
+Secure Application that permits to read PDF files.
+8- App Permissions
+Does the App require access to certain systems within your device? When you install an application, you are notified of all of the following permissions required to run that application:
+Answer: N.A.
+9- Encryption
+Does the App send data over unencrypted (HTTP) or an encrypted (HTTPS) connection?
+Answer: No.
+10- Explain why the data are being collected, when and for what purpose
+Answer: No data are collected.
+11- Do you assign an appropriate rating to the App?
+Answer: Yes.
+12- Can the App be downloaded by children?
+Answer: Yes.
+13- Does the App comply will all the terms and conditions explained in the Apple iOS Human Interface Guidelines?
+Answer: Yes.
+14- Does the App use trademark, service mark or images of Google, apple,
+BlackBerry or other market store owners?
+Answer: No.
+Other privacy policies:
+Personal data processing terms for
+satisfaction survey
+Privacy policy for
+voicecard companion
+Provacy policy for
+DocReaderEx
+Sub-policy 11
+https://www.thalesgroup.com/sites/default/files/database/document/2024-11/Voice%20Card%20Companion%20Privacy%20Notice_Android%20.pdf:
+
+Sub-policy 12
+https://www.thalesgroup.com/sites/default/files/database/document/2024-11/Voice%20Card%20Companion%20Privacy%20Notice_Apple.pdf:
+
+Sub-policy 13
+https://www.thalesgroup.com/sites/default/files/database/document/2024-11/Thales%20POS%20Simulator_iOS_privacy%20policy.pdf:
+
+Sub-policy 14
+https://www.thalesgroup.com/sites/default/files/database/document/2024-11/Biometric%20Card%20Enrolment%20Privacy%20Notice_Android.pdf:
+
+Sub-policy 15
+https://www.thalesgroup.com/sites/default/files/database/document/2024-11/Biometric%20Card%20Enrolment%20Privacy%20Notice_Apple.pdf:

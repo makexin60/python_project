@@ -1,0 +1,56 @@
+[
+    {
+        "No data shared with third parties ( The developer says this app doesn't share user data with other companies or organizations. Learn more about how developers declare sharing. )": []
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "Financial info": "User payment info and Purchase history",
+                "Data collected and for what purpose": [
+                    {
+                        "User payment info · Optional": "App functionality, Analytics, Advertising or marketing, Personalization",
+                        "Purchase history · Optional": "App functionality, Analytics, Personalization"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions, Other user-generated content, and Other actions",
+                "Data collected and for what purpose": [
+                    {
+                        "App interactions · Optional": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance",
+                        "Other user-generated content · Optional": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance",
+                        "Other actions · Optional": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Device or other IDs · Optional": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+                "Data collected and for what purpose": [
+                    {
+                        "Crash logs · Optional": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance",
+                        "Diagnostics · Optional": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance",
+                        "Other app performance data · Optional": "App functionality, Analytics, Developer communications, Advertising or marketing"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data isn’t encrypted": "Your data isn’t transferred over a secure connection"
+            },
+            {
+                "Data can’t be deleted": "The developer doesn’t provide a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

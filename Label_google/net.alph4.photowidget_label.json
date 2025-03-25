@@ -1,0 +1,127 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "Financial info": "Purchase history",
+                "Data shared and for what purpose": [
+                    {
+                        "Purchase history": "Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "Location": "Approximate location and Precise location",
+                "Data shared and for what purpose": [
+                    {
+                        "Approximate location": "Advertising or marketing",
+                        "Precise location": "Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions and In-app search history",
+                "Data shared and for what purpose": [
+                    {
+                        "App interactions": "Advertising or marketing",
+                        "In-app search history": "Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name, Email address, User IDs, Address, Phone number, and Other info",
+                "Data shared and for what purpose": [
+                    {
+                        "Name": "Advertising or marketing",
+                        "Email address": "Advertising or marketing",
+                        "User IDs": "Advertising or marketing",
+                        "Address": "Advertising or marketing",
+                        "Phone number": "Advertising or marketing",
+                        "Other info": "Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Diagnostics",
+                "Data shared and for what purpose": [
+                    {
+                        "Diagnostics": "Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data shared and for what purpose": [
+                    {
+                        "Device or other IDs": "Advertising or marketing"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "Financial info": "Purchase history",
+                "Data collected and for what purpose": [
+                    {
+                        "Purchase history": "Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "Location": "Approximate location and Precise location",
+                "Data collected and for what purpose": [
+                    {
+                        "Approximate location": "Advertising or marketing",
+                        "Precise location": "Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions and In-app search history",
+                "Data collected and for what purpose": [
+                    {
+                        "App interactions": "Advertising or marketing",
+                        "In-app search history": "Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name, Email address, User IDs, Address, Phone number, and Other info",
+                "Data collected and for what purpose": [
+                    {
+                        "Name": "Advertising or marketing",
+                        "Email address": "Advertising or marketing",
+                        "User IDs": "Advertising or marketing",
+                        "Address": "Advertising or marketing",
+                        "Phone number": "Advertising or marketing",
+                        "Other info · Optional": "Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Diagnostics",
+                "Data collected and for what purpose": [
+                    {
+                        "Diagnostics": "Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Device or other IDs": "Advertising or marketing"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data isn’t encrypted": "Your data isn’t transferred over a secure connection"
+            }
+        ]
+    }
+]

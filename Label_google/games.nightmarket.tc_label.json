@@ -1,0 +1,160 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "App info and performance": "Diagnostics and Other app performance data",
+                "Data shared and for what purpose": [
+                    {
+                        "Diagnostics": "App functionality, Analytics",
+                        "Other app performance data": "App functionality, Analytics"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "Financial info": "User payment info, Purchase history, and Other financial info",
+                "Data collected and for what purpose": [
+                    {
+                        "User payment info": "App functionality",
+                        "Purchase history": "App functionality",
+                        "Other financial info": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Files and docs": "Files and docs",
+                "Data collected and for what purpose": [
+                    {
+                        "Files and docs": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Messages": "Emails, SMS or MMS, and Other in-app messages",
+                "Data collected and for what purpose": [
+                    {
+                        "Emails": "Developer communications",
+                        "SMS or MMS": "Developer communications",
+                        "Other in-app messages": "App functionality, Developer communications"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+                "Data collected and for what purpose": [
+                    {
+                        "Crash logs": "App functionality, Analytics",
+                        "Diagnostics": "App functionality, Analytics",
+                        "Other app performance data": "App functionality, Analytics"
+                    }
+                ]
+            },
+            {
+                "Location": "Approximate location",
+                "Data collected and for what purpose": [
+                    {
+                        "Approximate location": "App functionality"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions, In-app search history, Installed apps, Other user-generated content, and Other actions",
+                "Data collected and for what purpose": [
+                    {
+                        "App interactions": "Analytics",
+                        "In-app search history": "App functionality, Analytics",
+                        "Installed apps": "Analytics, Personalization",
+                        "Other user-generated content": "Analytics",
+                        "Other actions": "App functionality, Analytics"
+                    }
+                ]
+            },
+            {
+                "Photos and videos": "Photos and Videos",
+                "Data collected and for what purpose": [
+                    {
+                        "Photos": "App functionality",
+                        "Videos": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Audio": "Voice or sound recordings, Music files, and Other audio files",
+                "Data collected and for what purpose": [
+                    {
+                        "Voice or sound recordings": "App functionality",
+                        "Music files": "App functionality",
+                        "Other audio files": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Health and fitness": "Health info and Fitness info",
+                "Data collected and for what purpose": [
+                    {
+                        "Health info": "Analytics",
+                        "Fitness info": "Analytics"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Device or other IDs": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Web browsing": "Web browsing history",
+                "Data collected and for what purpose": [
+                    {
+                        "Web browsing history": "Analytics"
+                    }
+                ]
+            },
+            {
+                "Calendar": "Calendar events",
+                "Data collected and for what purpose": [
+                    {
+                        "Calendar events": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Contacts": "Contacts",
+                "Data collected and for what purpose": [
+                    {
+                        "Contacts": "Developer communications"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Address, Phone number, Race and ethnicity, Political or religious beliefs, Sexual orientation, and Other info",
+                "Data collected and for what purpose": [
+                    {
+                        "Address": "Analytics",
+                        "Phone number": "App functionality, Analytics",
+                        "Race and ethnicity": "Analytics",
+                        "Political or religious beliefs": "Analytics",
+                        "Sexual orientation": "Analytics",
+                        "Other info": "App functionality, Analytics"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            },
+            {
+                "Data can’t be deleted": "The developer doesn’t provide a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

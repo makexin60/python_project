@@ -1,0 +1,110 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "Personal info": "Name and User IDs",
+                "Data shared and for what purpose": [
+                    {
+                        "Name": "Personalization",
+                        "User IDs": "Analytics, Advertising or marketing, Personalization"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data shared and for what purpose": [
+                    {
+                        "Device or other IDs": "App functionality, Analytics, Developer communications, Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "Audio": "Other audio files",
+                "Data shared and for what purpose": [
+                    {
+                        "Other audio files": "Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions, In-app search history, and Other user-generated content",
+                "Data shared and for what purpose": [
+                    {
+                        "App interactions": "Analytics",
+                        "In-app search history": "Analytics",
+                        "Other user-generated content": "Personalization"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Crash logs and Diagnostics",
+                "Data shared and for what purpose": [
+                    {
+                        "Crash logs": "Analytics, Fraud prevention, security, and compliance",
+                        "Diagnostics": "Analytics, Fraud prevention, security, and compliance"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "Personal info": "Name, Email address, User IDs, and Other info",
+                "Data collected and for what purpose": [
+                    {
+                        "Name · Optional": "Personalization",
+                        "Email address · Optional": "App functionality",
+                        "User IDs": "App functionality, Analytics, Developer communications, Advertising or marketing, Personalization, Account management",
+                        "Other info · Optional": "App functionality, Analytics, Developer communications, Advertising or marketing, Personalization"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Device or other IDs": "App functionality, Analytics, Developer communications, Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "Audio": "Other audio files",
+                "Data collected and for what purpose": [
+                    {
+                        "Other audio files": "App functionality, Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions, In-app search history, Other user-generated content, and Other actions",
+                "Data collected and for what purpose": [
+                    {
+                        "App interactions": "Analytics",
+                        "In-app search history": "Analytics",
+                        "Other user-generated content · Optional": "Personalization",
+                        "Other actions": "App functionality, Analytics"
+                    }
+                ]
+            },
+            {
+                "Financial info": "Purchase history",
+                "Data collected and for what purpose": [
+                    {
+                        "Purchase history": "Fraud prevention, security, and compliance, Account management"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            },
+            {
+                "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

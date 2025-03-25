@@ -1,0 +1,142 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "Web browsing": "Web browsing history",
+                "Data shared and for what purpose": [
+                    {
+                        "Web browsing history": "App functionality, Analytics, Developer communications, Account management"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions and Installed apps",
+                "Data shared and for what purpose": [
+                    {
+                        "App interactions": "App functionality, Analytics, Developer communications, Account management",
+                        "Installed apps": "App functionality, Analytics, Developer communications, Account management"
+                    }
+                ]
+            },
+            {
+                "Contacts": "Contacts",
+                "Data shared and for what purpose": [
+                    {
+                        "Contacts": "App functionality, Analytics, Developer communications, Account management"
+                    }
+                ]
+            },
+            {
+                "Photos and videos": "Photos and Videos",
+                "Data shared and for what purpose": [
+                    {
+                        "Photos": "App functionality, Analytics, Developer communications, Account management",
+                        "Videos": "App functionality, Analytics, Developer communications, Account management"
+                    }
+                ]
+            },
+            {
+                "Health and fitness": "Health info and Fitness info",
+                "Data shared and for what purpose": [
+                    {
+                        "Health info": "App functionality, Analytics, Developer communications, Account management",
+                        "Fitness info": "App functionality, Analytics, Developer communications, Account management"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name, Email address, User IDs, and Phone number",
+                "Data shared and for what purpose": [
+                    {
+                        "Name": "App functionality, Analytics, Developer communications, Account management",
+                        "Email address": "App functionality, Analytics, Developer communications, Account management",
+                        "User IDs": "App functionality, Analytics, Developer communications, Account management",
+                        "Phone number": "App functionality, Analytics, Developer communications, Account management"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Crash logs and Diagnostics",
+                "Data shared and for what purpose": [
+                    {
+                        "Crash logs": "App functionality, Analytics, Developer communications, Account management",
+                        "Diagnostics": "App functionality, Analytics, Developer communications, Account management"
+                    }
+                ]
+            },
+            {
+                "Messages": "Emails, SMS or MMS, and Other in-app messages",
+                "Data shared and for what purpose": [
+                    {
+                        "Emails": "App functionality, Analytics, Developer communications, Account management",
+                        "SMS or MMS": "App functionality, Analytics, Developer communications, Advertising or marketing, Account management",
+                        "Other in-app messages": "App functionality, Analytics, Developer communications, Account management"
+                    }
+                ]
+            },
+            {
+                "Calendar": "Calendar events",
+                "Data shared and for what purpose": [
+                    {
+                        "Calendar events": "App functionality, Analytics, Developer communications, Account management"
+                    }
+                ]
+            },
+            {
+                "Audio": "Voice or sound recordings",
+                "Data shared and for what purpose": [
+                    {
+                        "Voice or sound recordings": "App functionality, Developer communications, Account management"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data shared and for what purpose": [
+                    {
+                        "Device or other IDs": "App functionality, Analytics, Developer communications, Account management"
+                    }
+                ]
+            },
+            {
+                "Location": "Approximate location and Precise location",
+                "Data shared and for what purpose": [
+                    {
+                        "Approximate location": "App functionality, Analytics, Developer communications, Account management",
+                        "Precise location": "App functionality, Analytics, Developer communications, Account management"
+                    }
+                ]
+            },
+            {
+                "Files and docs": "Files and docs",
+                "Data shared and for what purpose": [
+                    {
+                        "Files and docs": "App functionality, Analytics, Developer communications, Account management"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "Personal info": "Email address",
+                "Data collected and for what purpose": [
+                    {
+                        "Email address": "App functionality, Analytics, Account management"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            },
+            {
+                "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

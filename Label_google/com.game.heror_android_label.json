@@ -1,0 +1,117 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "Files and docs": "Files and docs",
+                "Data shared and for what purpose": [
+                    {
+                        "Files and docs": "App functionality, Analytics, Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "Calendar": "Calendar events",
+                "Data shared and for what purpose": [
+                    {
+                        "Calendar events": "App functionality, Analytics, Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions, In-app search history, Installed apps, Other user-generated content, and Other actions",
+                "Data shared and for what purpose": [
+                    {
+                        "App interactions": "App functionality, Analytics, Advertising or marketing",
+                        "In-app search history": "App functionality, Analytics, Advertising or marketing",
+                        "Installed apps": "App functionality, Analytics, Advertising or marketing",
+                        "Other user-generated content": "App functionality, Analytics, Advertising or marketing",
+                        "Other actions": "App functionality, Analytics, Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "Messages": "Emails and Other in-app messages",
+                "Data shared and for what purpose": [
+                    {
+                        "Emails": "App functionality, Analytics",
+                        "Other in-app messages": "App functionality, Analytics, Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name, Email address, User IDs, and Address",
+                "Data shared and for what purpose": [
+                    {
+                        "Name": "App functionality, Analytics, Advertising or marketing",
+                        "Email address": "App functionality, Analytics, Advertising or marketing",
+                        "User IDs": "App functionality, Analytics, Advertising or marketing",
+                        "Address": "App functionality, Analytics, Advertising or marketing"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "Files and docs": "Files and docs",
+                "Data collected and for what purpose": [
+                    {
+                        "Files and docs": "App functionality, Analytics, Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "Calendar": "Calendar events",
+                "Data collected and for what purpose": [
+                    {
+                        "Calendar events": "App functionality, Analytics, Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions, In-app search history, Installed apps, Other user-generated content, and Other actions",
+                "Data collected and for what purpose": [
+                    {
+                        "App interactions": "App functionality, Analytics, Advertising or marketing",
+                        "In-app search history": "App functionality, Analytics, Advertising or marketing",
+                        "Installed apps": "App functionality, Analytics, Advertising or marketing",
+                        "Other user-generated content": "App functionality, Analytics, Advertising or marketing",
+                        "Other actions": "App functionality, Analytics, Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "Messages": "Emails, SMS or MMS, and Other in-app messages",
+                "Data collected and for what purpose": [
+                    {
+                        "Emails": "App functionality, Analytics",
+                        "SMS or MMS": "App functionality, Analytics",
+                        "Other in-app messages": "App functionality, Analytics, Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name, Email address, User IDs, and Address",
+                "Data collected and for what purpose": [
+                    {
+                        "Name": "App functionality, Analytics, Advertising or marketing",
+                        "Email address": "App functionality, Analytics, Advertising or marketing",
+                        "User IDs": "App functionality, Analytics, Advertising or marketing",
+                        "Address": "App functionality, Analytics, Advertising or marketing"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data isn’t encrypted": "Your data isn’t transferred over a secure connection"
+            },
+            {
+                "Data can’t be deleted": "The developer doesn’t provide a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

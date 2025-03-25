@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "id": "1279210863",
+            "type": "apps",
+            "href": "/v1/catalog/ie/apps/1279210863?l=en-GB",
+            "attributes": {
+                "privacyDetails": {
+                    "managePrivacyChoicesUrl": null,
+                    "privacyTypes": []
+                }
+            },
+            "relationships": {
+                "developer": {
+                    "href": "/v1/catalog/ie/apps/1279210863/developer?l=en-GB",
+                    "data": [
+                        {
+                            "id": "331270078",
+                            "type": "developers",
+                            "href": "/v1/catalog/ie/developers/331270078?l=en-GB"
+                        }
+                    ]
+                },
+                "genres": {
+                    "href": "/v1/catalog/ie/apps/1279210863/genres?l=en-GB",
+                    "data": []
+                }
+            },
+            "meta": {
+                "contentVersion": {
+                    "MZ_INDEXER": 1741739191483,
+                    "RTCI": 1741739100685
+                }
+            }
+        }
+    ]
+}

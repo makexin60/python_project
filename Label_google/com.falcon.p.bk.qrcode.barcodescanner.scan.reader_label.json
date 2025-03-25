@@ -1,0 +1,76 @@
+[
+    {
+        "No data shared with third parties ( The developer says this app doesn't share user data with other companies or organizations. Learn more about how developers declare sharing. )": []
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "Contacts": "Contacts",
+                "Data collected and for what purpose": [
+                    {
+                        "Contacts · Optional": "App functionality, Analytics, Personalization"
+                    }
+                ]
+            },
+            {
+                "Calendar": "Calendar events",
+                "Data collected and for what purpose": [
+                    {
+                        "Calendar events · Optional": "App functionality, Analytics, Personalization"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name, Email address, User IDs, Address, Phone number, Race and ethnicity, Political or religious beliefs, Sexual orientation, and Other info",
+                "Data collected and for what purpose": [
+                    {
+                        "Name · Optional": "App functionality, Analytics, Personalization",
+                        "Email address · Optional": "App functionality, Analytics, Personalization",
+                        "User IDs · Optional": "App functionality, Analytics, Personalization",
+                        "Address · Optional": "App functionality, Analytics, Personalization",
+                        "Phone number · Optional": "App functionality, Analytics, Personalization",
+                        "Race and ethnicity · Optional": "App functionality, Analytics, Personalization",
+                        "Political or religious beliefs · Optional": "App functionality, Analytics, Personalization",
+                        "Sexual orientation · Optional": "App functionality, Analytics, Personalization",
+                        "Other info · Optional": "App functionality, Analytics"
+                    }
+                ]
+            },
+            {
+                "Location": "Approximate location and Precise location",
+                "Data collected and for what purpose": [
+                    {
+                        "Approximate location · Optional": "App functionality, Analytics, Personalization",
+                        "Precise location · Optional": "App functionality, Analytics, Personalization"
+                    }
+                ]
+            },
+            {
+                "Photos and videos": "Photos",
+                "Data collected and for what purpose": [
+                    {
+                        "Photos · Optional": "App functionality, Analytics, Personalization"
+                    }
+                ]
+            },
+            {
+                "Messages": "Emails",
+                "Data collected and for what purpose": [
+                    {
+                        "Emails · Optional": "App functionality, Analytics"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data isn’t encrypted": "Your data isn’t transferred over a secure connection"
+            },
+            {
+                "Data can’t be deleted": "The developer doesn’t provide a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

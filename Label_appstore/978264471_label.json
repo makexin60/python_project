@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "id": "978264471",
+            "type": "apps",
+            "href": "/v1/catalog/ie/apps/978264471?l=en-GB",
+            "attributes": {
+                "privacyDetails": {
+                    "managePrivacyChoicesUrl": null,
+                    "privacyTypes": []
+                }
+            },
+            "relationships": {
+                "developer": {
+                    "href": "/v1/catalog/ie/apps/978264471/developer?l=en-GB",
+                    "data": [
+                        {
+                            "id": "726115662",
+                            "type": "developers",
+                            "href": "/v1/catalog/ie/developers/726115662?l=en-GB"
+                        }
+                    ]
+                },
+                "genres": {
+                    "href": "/v1/catalog/ie/apps/978264471/genres?l=en-GB",
+                    "data": []
+                }
+            },
+            "meta": {
+                "contentVersion": {
+                    "MZ_INDEXER": 1740062537780,
+                    "RTCI": 1737353195671
+                }
+            }
+        }
+    ]
+}

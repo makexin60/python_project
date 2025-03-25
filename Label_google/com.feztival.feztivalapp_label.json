@@ -1,0 +1,55 @@
+[
+    {
+        "No data shared with third parties ( The developer says this app doesn't share user data with other companies or organizations. Learn more about how developers declare sharing. )": []
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "Photos and videos": "Photos and Videos",
+                "Data collected and for what purpose": [
+                    {
+                        "Photos · Optional": "App functionality",
+                        "Videos · Optional": "App functionality"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions",
+                "Data collected and for what purpose": [
+                    {
+                        "App interactions": "App functionality, Fraud prevention, security, and compliance, Personalization, Account management"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name, Email address, User IDs, and Phone number",
+                "Data collected and for what purpose": [
+                    {
+                        "Name": "Fraud prevention, security, and compliance, Account management",
+                        "Email address · Optional": "App functionality, Developer communications, Account management",
+                        "User IDs": "App functionality, Fraud prevention, security, and compliance, Account management",
+                        "Phone number": "App functionality, Account management"
+                    }
+                ]
+            },
+            {
+                "Messages": "Other in-app messages",
+                "Data collected and for what purpose": [
+                    {
+                        "Other in-app messages · Optional": "App functionality"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            },
+            {
+                "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

@@ -1,0 +1,141 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+                "Data shared and for what purpose": [
+                    {
+                        "Crash logs": "Analytics",
+                        "Diagnostics": "Analytics",
+                        "Other app performance data": "Analytics"
+                    }
+                ]
+            },
+            {
+                "Financial info": "User payment info and Purchase history",
+                "Data shared and for what purpose": [
+                    {
+                        "User payment info": "Analytics, Personalization",
+                        "Purchase history": "App functionality, Analytics"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions, In-app search history, Other user-generated content, and Other actions",
+                "Data shared and for what purpose": [
+                    {
+                        "App interactions": "Analytics",
+                        "In-app search history": "Analytics",
+                        "Other user-generated content": "Analytics",
+                        "Other actions": "Analytics"
+                    }
+                ]
+            },
+            {
+                "Location": "Precise location",
+                "Data shared and for what purpose": [
+                    {
+                        "Precise location": "App functionality, Analytics, Personalization"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data shared and for what purpose": [
+                    {
+                        "Device or other IDs": "Analytics"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name, Email address, User IDs, Race and ethnicity, Political or religious beliefs, Sexual orientation, and Other info",
+                "Data shared and for what purpose": [
+                    {
+                        "Name": "Personalization, Account management",
+                        "Email address": "Personalization, Account management",
+                        "User IDs": "Personalization, Account management",
+                        "Race and ethnicity": "Analytics, Personalization",
+                        "Political or religious beliefs": "App functionality, Analytics",
+                        "Sexual orientation": "App functionality, Analytics",
+                        "Other info": "Analytics"
+                    }
+                ]
+            },
+            {
+                "Files and docs": "Files and docs",
+                "Data shared and for what purpose": [
+                    {
+                        "Files and docs": "Analytics"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "Photos and videos": "Photos",
+                "Data collected and for what purpose": [
+                    {
+                        "Photos · Optional": "App functionality, Account management"
+                    }
+                ]
+            },
+            {
+                "Messages": "Other in-app messages",
+                "Data collected and for what purpose": [
+                    {
+                        "Other in-app messages": "App functionality, Analytics, Account management"
+                    }
+                ]
+            },
+            {
+                "Financial info": "User payment info",
+                "Data collected and for what purpose": [
+                    {
+                        "User payment info · Optional": "App functionality, Analytics, Account management"
+                    }
+                ]
+            },
+            {
+                "Location": "Precise location",
+                "Data collected and for what purpose": [
+                    {
+                        "Precise location · Optional": "App functionality, Analytics, Personalization, Account management"
+                    }
+                ]
+            },
+            {
+                "Audio": "Voice or sound recordings",
+                "Data collected and for what purpose": [
+                    {
+                        "Voice or sound recordings · Optional": "App functionality, Personalization, Account management"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name, Email address, Phone number, Race and ethnicity, Political or religious beliefs, and Sexual orientation",
+                "Data collected and for what purpose": [
+                    {
+                        "Name": "App functionality, Analytics, Developer communications, Account management",
+                        "Email address": "App functionality, Developer communications, Account management",
+                        "Phone number · Optional": "App functionality, Account management",
+                        "Race and ethnicity · Optional": "App functionality, Analytics, Personalization",
+                        "Political or religious beliefs · Optional": "App functionality, Analytics, Personalization",
+                        "Sexual orientation · Optional": "App functionality, Personalization"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            },
+            {
+                "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

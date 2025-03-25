@@ -1,0 +1,99 @@
+[
+    {
+        "No data shared with third parties ( The developer says this app doesn't share user data with other companies or organizations. Learn more about how developers declare sharing. )": []
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "Photos and videos": "Photos and Videos",
+                "Data collected and for what purpose": [
+                    {
+                        "Photos": "App functionality",
+                        "Videos": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Files and docs": "Files and docs",
+                "Data collected and for what purpose": [
+                    {
+                        "Files and docs": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Web browsing": "Web browsing history",
+                "Data collected and for what purpose": [
+                    {
+                        "Web browsing history": "App functionality, Analytics, Advertising or marketing, Personalization"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions",
+                "Data collected and for what purpose": [
+                    {
+                        "App interactions": "App functionality, Analytics, Personalization"
+                    }
+                ]
+            },
+            {
+                "Contacts": "Contacts",
+                "Data collected and for what purpose": [
+                    {
+                        "Contacts": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Audio": "Voice or sound recordings and Other audio files",
+                "Data collected and for what purpose": [
+                    {
+                        "Voice or sound recordings": "App functionality",
+                        "Other audio files": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Messages": "Emails and Other in-app messages",
+                "Data collected and for what purpose": [
+                    {
+                        "Emails": "App functionality, Analytics",
+                        "Other in-app messages": "App functionality, Analytics"
+                    }
+                ]
+            },
+            {
+                "Financial info": "User payment info and Purchase history",
+                "Data collected and for what purpose": [
+                    {
+                        "User payment info": "App functionality, Fraud prevention, security, and compliance",
+                        "Purchase history": "App functionality, Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name, Email address, User IDs, Address, and Phone number",
+                "Data collected and for what purpose": [
+                    {
+                        "Name": "App functionality, Account management",
+                        "Email address": "App functionality, Developer communications, Fraud prevention, security, and compliance, Account management",
+                        "User IDs · Optional": "App functionality",
+                        "Address · Optional": "App functionality",
+                        "Phone number · Optional": "App functionality"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            },
+            {
+                "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

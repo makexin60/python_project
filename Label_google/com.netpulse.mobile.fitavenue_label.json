@@ -1,0 +1,128 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "App info and performance": "Crash logs and Diagnostics",
+                "Data shared and for what purpose": [
+                    {
+                        "Crash logs": "Analytics",
+                        "Diagnostics": "Analytics"
+                    }
+                ]
+            },
+            {
+                "Health and fitness": "Fitness info",
+                "Data shared and for what purpose": [
+                    {
+                        "Fitness info": "App functionality, Personalization"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions",
+                "Data shared and for what purpose": [
+                    {
+                        "App interactions": "Analytics"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Email address and User IDs",
+                "Data shared and for what purpose": [
+                    {
+                        "Email address": "App functionality, Developer communications, Fraud prevention, security, and compliance, Account management",
+                        "User IDs": "App functionality, Account management"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "App info and performance": "Crash logs and Diagnostics",
+                "Data collected and for what purpose": [
+                    {
+                        "Crash logs": "Analytics",
+                        "Diagnostics": "Analytics"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Device or other IDs": "App functionality, Account management"
+                    }
+                ]
+            },
+            {
+                "Health and fitness": "Fitness info",
+                "Data collected and for what purpose": [
+                    {
+                        "Fitness info · Optional": "App functionality, Personalization"
+                    }
+                ]
+            },
+            {
+                "Messages": "Emails and Other in-app messages",
+                "Data collected and for what purpose": [
+                    {
+                        "Emails · Optional": "App functionality",
+                        "Other in-app messages · Optional": "App functionality"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions, Other user-generated content, and Other actions",
+                "Data collected and for what purpose": [
+                    {
+                        "App interactions": "Analytics",
+                        "Other user-generated content · Optional": "App functionality",
+                        "Other actions · Optional": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Location": "Approximate location and Precise location",
+                "Data collected and for what purpose": [
+                    {
+                        "Approximate location · Optional": "App functionality",
+                        "Precise location · Optional": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name, Email address, User IDs, Phone number, Sexual orientation, and Other info",
+                "Data collected and for what purpose": [
+                    {
+                        "Name": "App functionality, Account management",
+                        "Email address": "App functionality, Developer communications, Fraud prevention, security, and compliance, Account management",
+                        "User IDs": "App functionality, Account management",
+                        "Phone number": "App functionality, Account management",
+                        "Sexual orientation · Optional": "App functionality, Personalization, Account management",
+                        "Other info · Optional": "App functionality, Personalization, Account management"
+                    }
+                ]
+            },
+            {
+                "Photos and videos": "Photos",
+                "Data collected and for what purpose": [
+                    {
+                        "Photos · Optional": "App functionality, Account management"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            },
+            {
+                "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

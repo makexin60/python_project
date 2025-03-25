@@ -1,0 +1,68 @@
+[
+    {
+        "No data shared with third parties ( The developer says this app doesn't share user data with other companies or organizations. Learn more about how developers declare sharing. )": []
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "Photos and videos": "Photos",
+                "Data collected and for what purpose": [
+                    {
+                        "Photos": "App functionality, Personalization"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions, In-app search history, and Other user-generated content",
+                "Data collected and for what purpose": [
+                    {
+                        "App interactions": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+                        "In-app search history": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+                        "Other user-generated content": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization"
+                    }
+                ]
+            },
+            {
+                "Files and docs": "Files and docs",
+                "Data collected and for what purpose": [
+                    {
+                        "Files and docs": "App functionality, Personalization"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Device or other IDs": "App functionality, Analytics, Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Email address",
+                "Data collected and for what purpose": [
+                    {
+                        "Email address": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+                "Data collected and for what purpose": [
+                    {
+                        "Crash logs": "Analytics, Fraud prevention, security, and compliance",
+                        "Diagnostics": "Analytics, Fraud prevention, security, and compliance",
+                        "Other app performance data": "Analytics, Fraud prevention, security, and compliance"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            }
+        ]
+    }
+]

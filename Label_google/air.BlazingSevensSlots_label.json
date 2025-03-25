@@ -1,0 +1,81 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "Personal info": "Name, Email address, and User IDs",
+                "Data shared and for what purpose": [
+                    {
+                        "Name": "Developer communications",
+                        "Email address": "Developer communications",
+                        "User IDs": "Developer communications, Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data shared and for what purpose": [
+                    {
+                        "Device or other IDs": "Analytics, Advertising or marketing"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "App activity": "App interactions",
+                "Data collected and for what purpose": [
+                    {
+                        "App interactions": "App functionality, Analytics, Developer communications"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name, Email address, and User IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Name · Optional": "Developer communications",
+                        "Email address · Optional": "Developer communications",
+                        "User IDs": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Account management"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Crash logs and Diagnostics",
+                "Data collected and for what purpose": [
+                    {
+                        "Crash logs": "Analytics",
+                        "Diagnostics": "Analytics"
+                    }
+                ]
+            },
+            {
+                "Financial info": "Purchase history",
+                "Data collected and for what purpose": [
+                    {
+                        "Purchase history": "App functionality, Analytics, Developer communications"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Device or other IDs": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            },
+            {
+                "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

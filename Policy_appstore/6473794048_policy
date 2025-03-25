@@ -1,10 +1,10 @@
 Privacy Policy
-EFFECTIVE DATE: 2025-03-05
+EFFECTIVE DATE: 2025-03-24
 About this Privacy Policy
 We value your privacy and want to be accountable and fair to you, as well as transparent with you with regard to our processing of your personal data. You own your personal data and are always in control of it.
 General Information
 Instabridge, a Swedish company, provides intermediary services primarily consisting of transmission of access to a communication network (the “Services”, as defined in the EU’s Digital Services Act (“DSA”). The regulatory framework for the Services consists principally of the DSA and the General Data Protection Regulation (“GDPR”) as well as various legal acts ancillary to DSA and GDPR as well as local laws and regulations in jurisdictions where the Services are provided. The Privacy Policy reflects our commitments and undertakings as further outlined below.
-If you reside within or outside the European Union, European Economic Area and Switzerland (“Europe”), you are entering into the Terms of Service with Degoo Backup AB and the terms of this Privacy Policy apply to you. [Click here for the supplemental privacy notice for US residents.
+If you reside within or outside the European Union, European Economic Area and Switzerland (“Europe”), you are entering into the Terms of Service with Degoo Backup AB and the terms of this Privacy Policy apply to you.
 This Privacy Policy (“Privacy Policy”) describes how and when we may collect, use, secure, and share information collected in connection with our mobile applications, websites, content, products, and any related services (collectively, the “Services”), and your choices regarding our processing of that information. For the purposes of this Privacy Policy, “Instabridge” (or “we” or “us”) refers to Degoo Backup AB, company reg. no. 556886-0729, and its subsidiaries, representatives, affiliates, officers, and directors for websites and applications that link to this Privacy Policy or otherwise make it available to you. We are the data controller of the personal data that we collect from you when using the Services (as defined in our Terms of Service https://instabridge.com/terms-of-service/).
 Please read this Privacy Policy carefully. This document contains a policy statement regarding our collection, use and processing of personal data, with whom we may share your personal data and i.a. your rights in relation to your personal data. It also tells you what to expect when we collect and use personal data about you that you share with us when using our Services.
 Please note that this notice does not apply to third party products or services or the practices of companies that we do not own or control, including other companies you may interact with, in or through Instabridge. We will not be responsible or liable for: (i) the availability or accuracy of such third party apps or sites (ii) the content, products or services on or availability of such third party apps or sites; or (iii) your use of any such third party apps or sites.
@@ -40,6 +40,7 @@ Use and app settings, diagnostic data, and other information as reasonably requi
 Inferences, such as those drawn from any of the personal information we collect, to better understand your preferences.
 If you have connected your user account with us to a third party application, we may receive similar information related to your interactions with the Service from such channels.
 In the in-app browser, we automatically collect browsing history data to enhance your experience by providing you with tailored browsing recommendations. This data is stored in a secure database and is accessed only by our servers in an automated manner for the sole purpose of generating recommendations. Access to this data is strictly limited, and we keep the amount of data stored to the minimum required for feature function (data is anonymised, obfuscated, deleted or aggregated after 30 days). Anonymised, aggregated browsing data may be processed and analysed to help us improve our product, resolve issues and provide a better user experience.
+If you use the caller or caller id feature provided with our Services, we collect information about your calls to provide call logs, such as phone number, name if it exists in your contacts, call time and date, call duration and number of calls. This information is stored and processed locally on your device.
 When you use our VPN service, we only keep the following data associated with your account:
 Total amount of bytes transferred in a 30 day period.
 Timestamp of your last activity on our VPN network.
@@ -58,13 +59,6 @@ Number of parallel connections at any given time to prevent rampant abuse and ac
 A counter is incremented that stores the total number of bytes downloaded/uploaded in a 30 day period.
 Anything that is not mentioned above is not stored.
 Our bespoke system eliminates the need to store data entirely. This data resides only in the server’s memory while you’re connected, and is immediately discarded by the VPN server when you disconnect. Since it doesn’t get logged into a permanent database, there is nothing to delete.
-Information Collected or Generated When You Use our Dialer and Caller ID Features:
-When you utilize our Dialer app and Caller ID functionalities, we access certain information from your device to provide these services effectively:
-Call Log Information:
-We access your call logs to identify incoming and outgoing calls, facilitating the Caller ID feature and enabling efficient call management. This includes details such as phone numbers, call durations, and timestamps. Importantly, this information is accessed solely on your device and is not transmitted to or stored on our servers.
-Contact Information:
-With your explicit consent, we access your contacts to display caller information and enhance the accuracy of our Caller ID feature. This access occurs only on your device; we do not collect or store your contact information on our servers.
-You can manage or revoke these permissions at any time through your device settings. However, please note that disabling these permissions may limit the functionality of the Dialer app and Caller ID features.
 Opt-Out Option Search And Browsing History
 You have the option to opt out of having your search and browser history stored and processed. If you choose to opt out:
 Your account will not be synced across devices.
@@ -110,13 +104,23 @@ To manage our relationship and provide the Services in a satisfactory and error 
 We may use the information we collect for a number of business and commercial purposes, including to:
 Perform internal operations necessary to develop, provide, maintain, and improve our Services, including troubleshooting, providing customer and technical support, and conducting data analysis, testing, and research;
 Understand how you interact with our Services and personalise the product experience and content (including advertising and messaging campaigns), as well as offer discounts or personalised pricing in accordance with applicable law;
-To show you personalised ads when you use our Services. Depending on your consent choices, we may use identifiers and cookies to provide you with tailored ads.
+Show caller contact information (phone number, name) during calls using the call feature or the caller id functionality. This is only to the extent of showing eg contact name and number on the screen, in addition to call information (number of calls, ingoing/outgoing call, duration).
+Managing your incoming and outgoing calls when you use the call logs or caller id functionality.
+To show you personalised ads when you use our Services. Depending on your consent choices, we may use identifiers and cookies to provide you with tailored ads. We work with third-party advertising networks/service providers to provide personalised ads, including but not limited to Google, Meta, and Unity. These third-parties collect and use personal information about your use of the Service, and depending on your consent settings, the use of other websites and services, in order to serve you with ads and content tailored to meet your preferences and likely interests. This data is also used to understand the effectiveness of ads.
 Maintain the safety, security, and integrity of our Services, for example by authenticating players and providing account security and fraud detection;
 Send you news and/or marketing communications (by email, or text) subject to your marketing preferences and choices, including information about Instabridge or third-party offerings we think may be of interest to you;
 Administer contests, surveys, and sweepstakes you enter, notify contest winners, and award prizes;
 Fulfil a purchase or send you order confirmations or other requested product or Service information;
 Facilitate your communication with friends and other users, and enable features that allow you to share information with other people (for example, if you choose to use friend invite features); and/or
 Comply with legal requirements and/or investigate or address claims or disputes relating to your use of the Services.
+Further information with regard to ads personalisation
+You can disable personalised advertising in your device settings. Additionally, you may have the option to opt out of personalised ads from advertisers and ad networks that participate in the
+Network Advertising Initiative
+, or adhere to the
+DAA Self-Regulatory Principles for Online Behavioral Advertising
+, by using their provided opt-out tools.
+Please keep in mind that opting out of personalised advertising will not stop all ads from being displayed to you (i.e. opting out does not provide an ad-free experience).
+Use of aggregated or anonymised data
 We may use your non-personal information data in an aggregated and/or anonymised form to share publicly and to third parties, for example, in reports on internet use trends, to partners under agreement with us, or as part of community benchmarking. Data shared in this manner cannot reasonably be used to identify you as an individual.
 How We Disclose Information
 At Instabridge, we do not sell your information. Subject to your legal rights, we may disclose the information we collect about you, and/or may enable you to share this information, with a third parties in various ways, including:
@@ -128,6 +132,8 @@ When we respond to court orders, or legal process, or to establish or exercise o
 With specific third parties if we believe disclosure is required by applicable law, regulation, or legal process. This includes, but is not limited to, when we believe, at our sole discretion, that it is necessary to share information in order to investigate, prevent or take actions against illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service, or as otherwise required by law. We may use your personal information without your knowledge or consent where we are permitted or required by applicable law or regulatory requirements to do so.
 In some cases, we may enable you to access third-party products or services through our Services. Please note that those products or services are offered by people or companies not affiliated with or controlled by us, and we are not responsible for their actions, their terms, their use of information, or their products or services. If you submit your information to a third party, that third party’s treatment of your information is governed by their privacy policy, which may differ from this Privacy Policy and which we encourage you to review.
 We also share information with your consent or at your direction. For example, we may share your personal information if you opt in to receiving information from Instabridge’s business partners.
+Do Not Track Browser Settings
+The Service is not designed to respond to “do not track” signals sent by some browsers.
 Your Rights and Choices
 GDPR applies to collection and processing of personal information in the EU and EEA and in accordance with GDPR and related laws and regulations you may have the following rights:
 Access: to obtain confirmation regarding whether we process your personal information, and to obtain a copy of the personal information we have collected about you. (Note that this right only applies to personal information relating to you, and not to any other player or person.)
@@ -137,6 +143,7 @@ Restriction or objection to processing: to object to Instabridge’s processing 
 Portability: to receive a copy of your personal information in a structured, commonly used, and machine-readable format so that you can transmit it elsewhere.
 Request to be informed: to request information about third parties with which your personal information has been shared.
 Request to review: to review decisions taken exclusively based on automated processing if these decisions could affect your data subject rights.
+Please note that these rights are not absolute. We may decline requests to exercise your data subject rights if there is a valid reason—such as being unable to verify your identity, the request potentially infringing on a third party’s rights or applicable law, or if fulfilling the request could disrupt our Services or prevent us from providing a requested service.
 In addition to the rights described above, if we have collected and processed certain types of personal information with your consent, you may withdraw that consent at any time in the manner described when you provided consent. Withdrawing your consent will not affect the lawfulness of any processing conducted prior to then, nor will it affect any processing based on lawful grounds other than consent.
 If you are unhappy with our processing of your personal data and/or consider it to be in contrary to applicable legislation you may lodge a complaint with a competent supervisory data protection authority (“DPA”) (such as with the DPA in your country of residence, the DPA in the country of your place of work or the DPA in the country where the alleged infringement has occurred). In Sweden, the supervisory authority is the
 Swedish Supervisory Authority for Privacy Protection
@@ -145,6 +152,195 @@ We will cooperate with the appropriate governmental authorities to resolve any p
 To exercise the aforementioned rights please contact us at the following address: privacy@instabridge.com or Degoo Backup AB, Vasagatan 16, 111 20 Stockholm. In order to ensure that you receive a swift response, please state in your letter your full name and, if applicable, your address, user name and the email address used for registration. We may request you provide us with information necessary to confirm your identity before responding to any request you make.
 Data Retention
 We will keep your data for as long as you have an account in the Services or for as long as we need to keep any personal data to comply with our legal obligations, resolve disputes, or enforce our agreements. After this your personal data will be deleted.
+We may also retain anonymous data indefinitely.
+Security
+We take all reasonable technical and organisational measures in order to protect your personal data against accidental or unlawful destruction, accidental loss or alteration, unauthorised disclosure or access and any other unlawful forms of processing.
+Whilst we take appropriate technical and organisational measures to safeguard the personal data that you provide to us, no transmission over the Internet can ever be guaranteed secure. Consequently, please note that we cannot guarantee the security of any personal information that you transfer over the Internet to us.
+Use By Minors
+Our Services are designed for a general audience and require all users to be above the minimum age to consent for data processing as a condition of access. By installing or using our Services you represent and warrant to us that you are above the minimum age to consent for data processing in your domicile.
+If you are a parent or guardian of a minor, and believe that minor has uploaded personal information in connection with our Services without your consent, or if you wish to review information collected from your minor child, or have that information modified or deleted, you may contact us as described in “Contact Us” below. If we become aware that a minor has provided us with personal information in violation of applicable law, we will use reasonable efforts to delete any personal information we have collected, unless we have a legal obligation to keep it.
+International Transfers of Your Personal Data
+If you are located in the European Union (“EU”), United Kingdom (“UK”) or Switzerland then we may transfer personal data that we collect from you to third party suppliers and trusted partners located in countries that are outside of the EU and the European Economic Area (“EEA”) (including, but not limited to the USA) or to our partners/related third parties in connection with the above purposes. The same rule applies for users outside the EU/EAA, that is your data may be transferred outside of the country from which it was originally collected. Please be aware that the countries to which we may transfer data may have data protection laws that are different from the laws where you live.
+When transferring personal data outside the EU/EEA, we will ensure that the country in which your personal data will be handled has been deemed “adequate” by the EU Commission under Article 45 of the General Data Protection Regulation (“GDPR”) or if your personal data will be transferred to a country which the EU Commission does not consider to have an adequate level of protection for personal data, we will take all necessary steps required under applicable law in order for such transfer of information across borders to be compliant with applicable law. We will only transfer your personal data to a country outside the EU/EEA where; (i) the transfer is being safeguarded by the use of EU model clauses (under Article 46.2 in the GDPR) or (ii) where the recipient is certified under the US-EU Privacy Shield Framework (under Article 45 in the GDPR).
+By installing or using the App or Services, you consent to those transfers of information to other countries and to service providers.
+You can find further information about the rules on data transfers outside the EU/EEA, including the mechanisms that we rely upon, on the European Commission website (
+https://ec.europa.eu/info/law/law-topic/data-protection_en
+).
+How to Contact Us
+Data controller
+Name:
+Degoo Backup AB
+Registration number:
+556886-0729
+Postal address:
+Vasagatan 16
+111 20 Stockholm
+SWEDEN
+E-mail address:
+support@degoo.com
+Data Protection Officer
+Postal address:
+Degoo Backup AB
+Att. Data Protection Officer
+Vasagatan 16
+111 20 Stockholm
+SWEDEN
+E-mail address:
+privacy@instabridge.comPrivacy Policy
+EFFECTIVE DATE: 2025-03-24
+About this Privacy Policy
+We value your privacy and want to be accountable and fair to you, as well as transparent with you with regard to our processing of your personal data. You own your personal data and are always in control of it.
+General Information
+Instabridge, a Swedish company, provides intermediary services primarily consisting of transmission of access to a communication network (the “Services”, as defined in the EU’s Digital Services Act (“DSA”). The regulatory framework for the Services consists principally of the DSA and the General Data Protection Regulation (“GDPR”) as well as various legal acts ancillary to DSA and GDPR as well as local laws and regulations in jurisdictions where the Services are provided. The Privacy Policy reflects our commitments and undertakings as further outlined below.
+If you reside within or outside the European Union, European Economic Area and Switzerland (“Europe”), you are entering into the Terms of Service with Degoo Backup AB and the terms of this Privacy Policy apply to you.
+This Privacy Policy (“Privacy Policy”) describes how and when we may collect, use, secure, and share information collected in connection with our mobile applications, websites, content, products, and any related services (collectively, the “Services”), and your choices regarding our processing of that information. For the purposes of this Privacy Policy, “Instabridge” (or “we” or “us”) refers to Degoo Backup AB, company reg. no. 556886-0729, and its subsidiaries, representatives, affiliates, officers, and directors for websites and applications that link to this Privacy Policy or otherwise make it available to you. We are the data controller of the personal data that we collect from you when using the Services (as defined in our Terms of Service https://instabridge.com/terms-of-service/).
+Please read this Privacy Policy carefully. This document contains a policy statement regarding our collection, use and processing of personal data, with whom we may share your personal data and i.a. your rights in relation to your personal data. It also tells you what to expect when we collect and use personal data about you that you share with us when using our Services.
+Please note that this notice does not apply to third party products or services or the practices of companies that we do not own or control, including other companies you may interact with, in or through Instabridge. We will not be responsible or liable for: (i) the availability or accuracy of such third party apps or sites (ii) the content, products or services on or availability of such third party apps or sites; or (iii) your use of any such third party apps or sites.
+We may update the Privacy Policy from time to time by posting a new version on instabridge.com with an updated date (the “Effective Date”). Your continued use of the Services after the Effective Date will be an acknowledgement of your acceptance of the amended Private Policy and our updated practices.
+If there is any difference between the English version and any other language version of this Privacy Policy, the English version will apply (to the extent permitted by applicable law or regulation).
+Information We May Collect and How We Collect It
+We may collect various types of information, including information you provide or make available to us directly, information collected from your devices (including on web and mobile), and information collected from other sources, such as social networking sites. Some of this information may be considered “personal information” or “personal data” under applicable laws or regulations. We collect this information for various purposes to provide and improve our Services to you.
+Types of Data Collected
+Information you provide:
+If you decide to create a user account on Instabridge, we will request certain information from you, which may include
+your username, password, and email address.
+In the event that you choose to log in using your credentials from a third-party app (such as Facebook or Google), you give us permission to obtain your authentication information, such as your username, email address, and encrypted access credentials. Additionally, we may gather other information that is accessible through your third-party app account, such as your country and hometown, date of birth, and networks.
+You also provide us with information directly when you:
+Communicate with or contact others using our Services, “invite a friend,” “share this page,” or use other similar features;
+Contact us, including for customer or technical support;
+Participate in Instabridge offers, contests, or special events;
+Subscribe to newsletters or sign up to hear about current or upcoming products; and/or
+Complete surveys offered by us or on our behalf.
+Depending on how you choose to use the Services, you may provide us with the following types of information:
+Contact information such as your first and last name, username or handle, third-party service ID, email address, phone number, home address, billing address or shipping address, and other contact information;
+Biographic and demographic information such as your date of birth, gender, and time zone.
+Transaction information such as purchase or payment information; and/or
+Other information such as profile information you choose to share (for example, when you connect with our Services through social features).
+Information Collected or Generated When You Use our Services:
+When you access or use our Services, we collect information from and about you and the device(s) you use. This may include the following information:
+IP address, unique device identifiers, advertising identifiers, device serial numbers, and similar identifiers;
+Device information such as hardware model, device software platform/OS and firmware, mobile carrier, preferred languages, device motion information, mobile network information, browser type and version, Internet service provider,
+Internet activity such as referring/exit pages and URLs, or clickstream information, eSIM usage;
+BSSID and SSID (Wi-Fi network name), SIM card identifiers (IMEI), MAC address of access point, signal level, captive portal login steps and other technology on the devices you use to access the Service.
+Approximate location inferred from IP address;
+In-app purchase information; and/or
+Use and app settings, diagnostic data, and other information as reasonably required to offer and enhance our Services, including network and internet performance.
+Inferences, such as those drawn from any of the personal information we collect, to better understand your preferences.
+If you have connected your user account with us to a third party application, we may receive similar information related to your interactions with the Service from such channels.
+In the in-app browser, we automatically collect browsing history data to enhance your experience by providing you with tailored browsing recommendations. This data is stored in a secure database and is accessed only by our servers in an automated manner for the sole purpose of generating recommendations. Access to this data is strictly limited, and we keep the amount of data stored to the minimum required for feature function (data is anonymised, obfuscated, deleted or aggregated after 30 days). Anonymised, aggregated browsing data may be processed and analysed to help us improve our product, resolve issues and provide a better user experience.
+If you use the caller or caller id feature provided with our Services, we collect information about your calls to provide call logs, such as phone number, name if it exists in your contacts, call time and date, call duration and number of calls. This information is stored and processed locally on your device.
+When you use our VPN service, we only keep the following data associated with your account:
+Total amount of bytes transferred in a 30 day period.
+Timestamp of your last activity on our VPN network.
+This data is used to enforce free tier limitations, prevent abuse and remove inactive accounts.
+The following data is NOT stored:
+Source IP
+Sites you visited
+Historical record of VPN sessions
+When you are actively connected to a server, the following is stored in a server’s memory for the duration of your connection:
+Data immediately discarded when you disconnect:
+OpenVPN/IKEv2 username
+Time of connection
+Amount of data transferred
+Data is stored in a central location:
+Number of parallel connections at any given time to prevent rampant abuse and account sharing.
+A counter is incremented that stores the total number of bytes downloaded/uploaded in a 30 day period.
+Anything that is not mentioned above is not stored.
+Our bespoke system eliminates the need to store data entirely. This data resides only in the server’s memory while you’re connected, and is immediately discarded by the VPN server when you disconnect. Since it doesn’t get logged into a permanent database, there is nothing to delete.
+Opt-Out Option Search And Browsing History
+You have the option to opt out of having your search and browser history stored and processed. If you choose to opt out:
+Your account will not be synced across devices.
+Your account cannot be restored if you remove and later reinstall the app.
+If you have any questions or wish to change your data preferences, please contact us at privacy@instabridge.com.
+How we store your information
+We store your information on secure servers, using the following third parties:
+Google Cloud and Heroku. The data we store and otherwise process about you will be stored on secure servers hosted by Google Cloud and Heroku.
+Amplitude and their service provider Amazon Web Service. Data that we process for product development purposes is hosted by Amplitude Inc. and their service provider Amazon Web Services.
+Information Collected Using Cookies and Similar Technologies
+We and our partners use various tools to collect information when you visit our sites and Services, including cookies, pixels, software development kits, advertising identifiers, and other similar technologies. Some of these technologies store information in the browser or on your device. Other technologies may use network-related or other information to recognize your device (e.g., IP address). Our Services use these technologies, for example, when you first request a web page and information is then stored on your computer or other device so the website or app can access information when you make subsequent requests for pages from that Service.
+Examples of Cookies we use and their purposes:
+Functional cookies: We use functional cookies to operate certain functions of the Website in accordance with your choices, meaning that when you continue to use or come back to the Website, the site will be provided as you have previously requested, e.g. remembering your username and customization of the Website.
+Analytics cookies: We use analytics cookies to analyse how the Website is accessed, used or is performing. We use the information to maintain, operate and improve the Website.
+Third party cookies: We may allow our partners to use cookies on the Website for the same purposes identified above. We may also use service providers acting on our behalf to use cookies for the purposes identified above.
+Security Cookies: We use Security Cookies for security purposes.
+Advertising Cookies: Advertising Cookies are used to serve you with advertisements that may be relevant to you and your interests.
+If you have any questions or comments about our use of cookies, please contact privacy@instabridge.com.
+At any time, you can control the use of cookies by adjusting the settings on your browser. However, if you choose to disable some or all cookies, please note that by blocking any or all cookies, you may not have access to certain features, content, or personalization available through our Services.
+Other information collected using tracking technologies
+Depending on the Services you use, we and our partners may also use these technologies to gather information about how you view and use our Services and content, and to connect your activity with other information we store about you. Some of these partners include:
+Google Analytics. For more information about how Google uses your personal information (including for its own purposes, e.g., for profiling or linking it to other information), please visit
+Google Analytics’ Privacy Policy
+. To learn more about how to opt-out of Google Analytics’ use of your information, please click
+here
+.
+Legal Basis for Processing Personal Information
+Our legal basis for collecting and using your personal information will depend on the type of information and the context in which we collect it. In general, we collect personal information from you only:
+Where we have your consent to do so, such as before we use or share your information for advertising that is targeted based on your browsing history, online behaviour, or other personal information that we or third parties may have collected about you. If you consent to our use of your personal information for any purpose, you have the right to withdraw consent at any time by contacting us, as explained above;
+Where we need it to perform a contract with you;
+Where it is in our legitimate interests and not overridden by your data protection interests or fundamental rights and freedoms. We have a legitimate interest in processing your personal information, for example, for the following purposes:
+Product and Service development, management, delivery, and enhancement;
+Fraud detection and prevention;
+Network and system security and performance;
+General corporate operations;
+Compliance with applicable foreign laws;
+Communications regarding your purchases; and
+Non-targeted marketing and advertising.
+Where we have a legal obligation to collect personal information from you or may otherwise need it to protect your vital interests or those of another person.
+If you have questions about the legal basis on which we collect and use your personal information, please contact us at privacy@Instabridge.com.
+How We Use Information
+To manage our relationship and provide the Services in a satisfactory and error free manner, we need to process your data, including personal data. For example, we process your data when you create an account, if you contact our customer support team, for maintenance of the app, and for marketing purposes. If you do not provide us with this information we will not be able to provide you with the Services. Please find more detailed information on how we process your data when we manage our relationship, below.
+We may use the information we collect for a number of business and commercial purposes, including to:
+Perform internal operations necessary to develop, provide, maintain, and improve our Services, including troubleshooting, providing customer and technical support, and conducting data analysis, testing, and research;
+Understand how you interact with our Services and personalise the product experience and content (including advertising and messaging campaigns), as well as offer discounts or personalised pricing in accordance with applicable law;
+Show caller contact information (phone number, name) during calls using the call feature or the caller id functionality. This is only to the extent of showing eg contact name and number on the screen, in addition to call information (number of calls, ingoing/outgoing call, duration).
+Managing your incoming and outgoing calls when you use the call logs or caller id functionality.
+To show you personalised ads when you use our Services. Depending on your consent choices, we may use identifiers and cookies to provide you with tailored ads. We work with third-party advertising networks/service providers to provide personalised ads, including but not limited to Google, Meta, and Unity. These third-parties collect and use personal information about your use of the Service, and depending on your consent settings, the use of other websites and services, in order to serve you with ads and content tailored to meet your preferences and likely interests. This data is also used to understand the effectiveness of ads.
+Maintain the safety, security, and integrity of our Services, for example by authenticating players and providing account security and fraud detection;
+Send you news and/or marketing communications (by email, or text) subject to your marketing preferences and choices, including information about Instabridge or third-party offerings we think may be of interest to you;
+Administer contests, surveys, and sweepstakes you enter, notify contest winners, and award prizes;
+Fulfil a purchase or send you order confirmations or other requested product or Service information;
+Facilitate your communication with friends and other users, and enable features that allow you to share information with other people (for example, if you choose to use friend invite features); and/or
+Comply with legal requirements and/or investigate or address claims or disputes relating to your use of the Services.
+Further information with regard to ads personalisation
+You can disable personalised advertising in your device settings. Additionally, you may have the option to opt out of personalised ads from advertisers and ad networks that participate in the
+Network Advertising Initiative
+, or adhere to the
+DAA Self-Regulatory Principles for Online Behavioral Advertising
+, by using their provided opt-out tools.
+Please keep in mind that opting out of personalised advertising will not stop all ads from being displayed to you (i.e. opting out does not provide an ad-free experience).
+Use of aggregated or anonymised data
+We may use your non-personal information data in an aggregated and/or anonymised form to share publicly and to third parties, for example, in reports on internet use trends, to partners under agreement with us, or as part of community benchmarking. Data shared in this manner cannot reasonably be used to identify you as an individual.
+How We Disclose Information
+At Instabridge, we do not sell your information. Subject to your legal rights, we may disclose the information we collect about you, and/or may enable you to share this information, with a third parties in various ways, including:
+With vendors, consultants, business partners, payment processors, and other third-party service providers as necessary to carry out work on our behalf and otherwise provide the Services. This includes IT infrastructure companies that facilitate our provision of the Services to you; and other third party service providers, such as hosting providers or other IT service providers for the purpose of providing the Service or tracking your use of the Service and advertising and survey service providers to help us in our communication with you and to better understand your use of the Service.
+With third-party applications if you choose to connect your Instabridge account or use a third-party application to login to Instabridge. You understand and agree that such information may be attributed to your account on the third party application, and that a third party application’s use of information collected from you is governed by the third party application’s privacy policies and your settings on the relevant service. Instabridge’s use of such information is governed by this Privacy Policy and your Instabridge account settings.
+With others who share your device, if you make your Account available to them through that device;
+With law enforcement officials, government authorities, or other third parties if we believe your actions are inconsistent with our Terms of Service or other policies, and/or are fraudulent or in violation of applicable law, or as we determine necessary to protect the rights, property, or safety of Instabridge or others;
+When we respond to court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
+With specific third parties if we believe disclosure is required by applicable law, regulation, or legal process. This includes, but is not limited to, when we believe, at our sole discretion, that it is necessary to share information in order to investigate, prevent or take actions against illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service, or as otherwise required by law. We may use your personal information without your knowledge or consent where we are permitted or required by applicable law or regulatory requirements to do so.
+In some cases, we may enable you to access third-party products or services through our Services. Please note that those products or services are offered by people or companies not affiliated with or controlled by us, and we are not responsible for their actions, their terms, their use of information, or their products or services. If you submit your information to a third party, that third party’s treatment of your information is governed by their privacy policy, which may differ from this Privacy Policy and which we encourage you to review.
+We also share information with your consent or at your direction. For example, we may share your personal information if you opt in to receiving information from Instabridge’s business partners.
+Do Not Track Browser Settings
+The Service is not designed to respond to “do not track” signals sent by some browsers.
+Your Rights and Choices
+GDPR applies to collection and processing of personal information in the EU and EEA and in accordance with GDPR and related laws and regulations you may have the following rights:
+Access: to obtain confirmation regarding whether we process your personal information, and to obtain a copy of the personal information we have collected about you. (Note that this right only applies to personal information relating to you, and not to any other player or person.)
+Rectification or Correction: to correct your personal information where it is inaccurate, incomplete, or outdated.
+Erasure (deletion): to request that Instabridge deletes your personal information, for example when it is no longer necessary to fulfil the purposes for which Instabridge collected it. This right may be limited to the extent that Instabridge is permitted or required by applicable law to retain your information. (Note that if you request deletion of your personal information, you may no longer be able to use or access the Services. If you share devices with someone else who uses the Services, that person may also lose related Account information and access. If you decide to use or access the Services again, Instabridge may consider this a new Account and may collect personal information associated with that Account in accordance with this Privacy Policy.)
+Restriction or objection to processing: to object to Instabridge’s processing of your personal information, or request that Instabridge restricts that processing. Because the information that Instabridge collects is generally required to provide the Services to you, if you object to the processing of your personal information, this may have the same effect as requesting deletion of this information. This right may be limited to the extent that Instabridge is permitted or required by applicable law to continue processing the information. (Note that if you object to the processing of your personal information, you and others who use your devices to access the Services may no longer be able to use or access the Services.)
+Portability: to receive a copy of your personal information in a structured, commonly used, and machine-readable format so that you can transmit it elsewhere.
+Request to be informed: to request information about third parties with which your personal information has been shared.
+Request to review: to review decisions taken exclusively based on automated processing if these decisions could affect your data subject rights.
+Please note that these rights are not absolute. We may decline requests to exercise your data subject rights if there is a valid reason—such as being unable to verify your identity, the request potentially infringing on a third party’s rights or applicable law, or if fulfilling the request could disrupt our Services or prevent us from providing a requested service.
+In addition to the rights described above, if we have collected and processed certain types of personal information with your consent, you may withdraw that consent at any time in the manner described when you provided consent. Withdrawing your consent will not affect the lawfulness of any processing conducted prior to then, nor will it affect any processing based on lawful grounds other than consent.
+If you are unhappy with our processing of your personal data and/or consider it to be in contrary to applicable legislation you may lodge a complaint with a competent supervisory data protection authority (“DPA”) (such as with the DPA in your country of residence, the DPA in the country of your place of work or the DPA in the country where the alleged infringement has occurred). In Sweden, the supervisory authority is the
+Swedish Supervisory Authority for Privacy Protection
+(“Integritetsskyddsmyndigheten”).
+We will cooperate with the appropriate governmental authorities to resolve any privacy-related complaints that cannot be amicably resolved.
+To exercise the aforementioned rights please contact us at the following address: privacy@instabridge.com or Degoo Backup AB, Vasagatan 16, 111 20 Stockholm. In order to ensure that you receive a swift response, please state in your letter your full name and, if applicable, your address, user name and the email address used for registration. We may request you provide us with information necessary to confirm your identity before responding to any request you make.
+Data Retention
+We will keep your data for as long as you have an account in the Services or for as long as we need to keep any personal data to comply with our legal obligations, resolve disputes, or enforce our agreements. After this your personal data will be deleted.
+We may also retain anonymous data indefinitely.
 Security
 We take all reasonable technical and organisational measures in order to protect your personal data against accidental or unlawful destruction, accidental loss or alteration, unauthorised disclosure or access and any other unlawful forms of processing.
 Whilst we take appropriate technical and organisational measures to safeguard the personal data that you provide to us, no transmission over the Internet can ever be guaranteed secure. Consequently, please note that we cannot guarantee the security of any personal information that you transfer over the Internet to us.
@@ -179,3 +375,185 @@ Vasagatan 16
 SWEDEN
 E-mail address:
 privacy@instabridge.com
+Sub-section Policy: 
+Sub-policy 0
+https://www.google.com/policies/privacy/partners/:
+Privacy & Terms
+Overview
+Privacy Policy
+Terms of Service
+Technologies
+FAQ
+Google Account
+Technologies
+Advertising
+How Google uses information from sites or apps that use our services
+How Google uses cookies
+How Google uses location information
+How Google uses credit card numbers for payments
+How Google Voice works
+Google Product Privacy Guide
+How Google retains data we collect
+Google advertising services are experimenting with new ways of supporting the delivery and measurement of digital advertising in ways that better protect people’s privacy online via the
+Privacy Sandbox
+initiative on Chrome and Android. Users with the relevant Privacy Sandbox settings enabled in Chrome or Android may see relevant ads from Google’s advertising services based on
+Topics
+or
+Protected Audience
+data stored on their browser or mobile device. Google’s advertising services may also measure ad performance using
+Attribution Reporting
+data stored on their browser or mobile device.
+More information on the Privacy Sandbox
+.
+How Google uses information from sites or apps that use our services
+Many websites and apps use Google services to improve their content and keep it free. When they integrate our services, these sites and apps share information with Google.
+For example, when you visit a website that uses advertising services like AdSense, including analytics tools like Google Analytics, or embeds video content from YouTube, your web browser automatically sends certain information to Google. This includes the URL of the page you’re visiting and your IP address. We may use the IP address, for example, to identify your general location, to measure the effectiveness of ads, and, depending on your settings, to improve the relevance of the ads you see. We may also
+set cookies on your browser
+or read cookies that are already there. Apps that use Google advertising services also share information with Google, such as the name of the app and a unique identifier for advertising.
+Google uses the information shared by sites and apps to deliver our services, maintain and improve them, develop new services, measure the effectiveness of advertising, protect against fraud and abuse, and personalize content and ads you see on Google and on our partners’ sites and apps. See our
+Privacy Policy
+to learn more about how we process data for each of these purposes and our
+Advertising
+page for more about Google ads, how your information is used in the context of advertising, and how long Google stores this information.
+Our
+Privacy Policy
+explains the legal grounds Google relies upon to process your information — for example, we may process your information with your consent or to pursue legitimate interests such as providing, maintaining and improving our services to meet the needs of our users.
+Sometimes, when processing information shared with us by sites and apps, those sites and apps will ask for your consent before allowing Google to process your information. For example, a banner may appear on a site asking for consent for Google to process the information that site collects. When that happens, we will respect the purposes described in the consent you give to the site or app, rather than the legal grounds described in the Google Privacy Policy. If you want to change or withdraw your consent, you should visit the site or app in question to do so.
+Ad personalization
+If ad personalization is turned on, Google will use your information to make your ads more useful for you. For example, a website that sells mountain bikes might use Google's ad services. After you visit that site, you could see an ad for mountain bikes on a different site that shows ads served by Google.
+If ad personalization is off, Google will not collect or use your information to create an ad profile or personalize the ads Google shows to you. You will still see ads, but they may not be as useful. Ads may still be based on the topic of the website or app you're looking at, your current search terms, or on your general location, but not on your interests, search history, or browsing history. Your information can still be used for the other purposes mentioned above, such as to measure the effectiveness of advertising and protect against fraud and abuse.
+When you interact with a website or app that uses Google services, you may be asked to choose whether you want to see personalized ads from ad providers, including Google. Regardless of your choice, Google will not personalize the ads you see if your ad personalization setting is off or your account is ineligible for personalized ads.
+You can see and control what information we use to show you ads by visiting your
+ad settings
+.
+How you can control the information collected by Google on these sites and apps
+Here are some of the ways you can control the information that is shared by your device when you visit or interact with sites and apps that use Google services:
+Ad Settings
+helps you control ads you see on Google services (such as Google Search or YouTube), or on non-Google websites and apps that use Google ad services. You can also
+learn how
+ads are personalized, opt out of ad personalization, and block specific advertisers.
+If you are signed in to your Google Account, and depending on your Account settings,
+My Activity
+allows you to review and control data that’s created when you use Google services, including the information we collect from the sites and apps you have visited. You can browse by date and by topic, and delete part or all of your activity.
+Many websites and apps use Google Analytics to understand how visitors engage with their sites or apps. If you don’t want Analytics to be used in your browser, you can
+install the Google Analytics browser add-on
+. Learn more about
+Google Analytics and privacy
+.
+Incognito mode in Chrome
+allows you to browse the web without recording webpages and files in your browser or Account history (unless you choose to sign in). Cookies are deleted after you've closed all of your incognito windows and tabs, and your bookmarks and settings are stored until you delete them. Learn more about
+cookies
+. Using Incognito mode in Chrome or other private browsing modes does not prevent the collection of data when you visit websites that use Google services, and Google may still collect data when you visit websites using these browsers.
+Many browsers, including Chrome, allow you to block third-party cookies. You can also clear any existing cookies from within your browser. Learn more about
+managing cookies in Chrome
+.
+Google
+About Google
+Privacy
+Terms
+Transparency Center
+A drop down list to change the language of the site. Each option is a language name. There are 65 language options.
+Afrikaans
+Bahasa Indonesia
+Bahasa Melayu
+Català
+Čeština
+Dansk
+Deutsch
+Eesti
+English
+English (India)
+English (United Kingdom)
+Español
+Español (Latinoamérica)
+Euskara
+Filipino
+Français
+Français (Canada)
+Gaeilge
+Galego
+Hrvatski
+Isizulu
+Íslenska
+Italiano
+Kiswahili
+Latviešu
+Lietuvių
+Magyar
+Malti
+Nederlands
+Norsk
+Polski
+Português (Brasil)
+Português (Portugal)
+Română
+Slovenčina
+Slovenščina
+Srpski
+Suomi
+Svenska
+Tiếng Việt
+Türkçe
+অসমীয়া
+Ελληνικά
+Български
+ଓଡିଆ
+Русский
+Српски
+Українська
+‫עברית‬
+‫اردو‬
+‫العربية‬
+‫فارسی‬
+አማርኛ
+मराठी
+हिन्दी
+বাংলা
+ગુજરાતી
+தமிழ்
+తెలుగు
+ಕನ್ನಡ
+മലയാളം
+ไทย
+한국어
+中文 (香港)
+中文（简体中文）
+中文（繁體中文）
+日本語
+Main menu
+Google apps
+Sub-policy 1
+https://www.imy.se/en/:
+Listen
+The Swedish Authority for Privacy Protection's (IMY) role is to uphold the protection of personal data, monitoring that they are handled correctly and do not fall into the wrong hands.
+What do you need today?
+Read news in English
+See lawful grounds for personal data processing
+Current events
+News in English
+Publications
+News in English
+Publications
+News
+See more news
+H&M has made it unnecessarily difficult to avoid marketing
+19 October 2023
+The Swedish Agency for Privacy Protection (IMY) has reviewed complaints concerning H&M and finds that the company has failed in its handling of requests from individuals who do not want to receive marketing from the company.
+Administrative fine of SEK 35 million against Trygg-Hansa
+05 September 2023
+Trygg-Hansa's security flaws have meant that information about 650,000 customers has been accessible to unauthorized persons via the internet. The Swedish Authority for Privacy Protection (IMY) is now issuing an administrative fine of SEK 35 million against the company.
+Four companies must stop using Google Analytics
+03 July 2023
+The Swedish Authority for Privacy Protection (IMY) has audited how four companies use Google Analytics for web statistics. IMY issues administrative fines against two of the companies. One of the companies has recently stopped using the statistics tool on its own initiative, while IMY orders the other three to also stop using it.
+Our most commonly used forms and e-services
+For individuals
+For individuals
+Complain about a processing of your personal data
+Complain about camera surveillance
+How to request a lawfulness check
+All forms and e-services for individuals
+For organisations
+For organisations
+Notification of a personal data breach
+Announce that you have a data protection officer
+All forms and e-services for organisations

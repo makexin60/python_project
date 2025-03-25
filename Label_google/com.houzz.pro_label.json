@@ -1,0 +1,109 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "App activity": "Other user-generated content",
+                "Data shared and for what purpose": [
+                    {
+                        "Other user-generated content": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Email address",
+                "Data shared and for what purpose": [
+                    {
+                        "Email address": "Advertising or marketing"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Device or other IDs": "App functionality, Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "Photos and videos": "Photos and Videos",
+                "Data collected and for what purpose": [
+                    {
+                        "Photos": "App functionality, Analytics, Advertising or marketing, Personalization",
+                        "Videos": "App functionality, Analytics, Personalization"
+                    }
+                ]
+            },
+            {
+                "Financial info": "Purchase history",
+                "Data collected and for what purpose": [
+                    {
+                        "Purchase history": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions, In-app search history, and Other user-generated content",
+                "Data collected and for what purpose": [
+                    {
+                        "App interactions": "App functionality, Analytics, Personalization",
+                        "In-app search history": "App functionality, Analytics, Personalization",
+                        "Other user-generated content": "App functionality, Analytics, Account management"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name, Email address, User IDs, Address, and Phone number",
+                "Data collected and for what purpose": [
+                    {
+                        "Name": "App functionality, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
+                        "Email address": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
+                        "User IDs": "App functionality, Analytics, Fraud prevention, security, and compliance, Account management",
+                        "Address": "App functionality, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
+                        "Phone number": "App functionality, Advertising or marketing, Fraud prevention, security, and compliance, Account management"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Crash logs and Diagnostics",
+                "Data collected and for what purpose": [
+                    {
+                        "Crash logs": "App functionality, Analytics",
+                        "Diagnostics": "App functionality, Analytics"
+                    }
+                ]
+            },
+            {
+                "Messages": "SMS or MMS and Other in-app messages",
+                "Data collected and for what purpose": [
+                    {
+                        "SMS or MMS": "App functionality, Analytics",
+                        "Other in-app messages": "App functionality, Analytics"
+                    }
+                ]
+            },
+            {
+                "Files and docs": "Files and docs",
+                "Data collected and for what purpose": [
+                    {
+                        "Files and docs": "App functionality, Analytics"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            },
+            {
+                "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "No data shared with third parties ( The developer says this app doesn't share user data with other companies or organizations. Learn more about how developers declare sharing. )": []
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "Health and fitness": "Fitness info",
+                "Data collected and for what purpose": [
+                    {
+                        "Fitness info": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name, Email address, User IDs, and Other info",
+                "Data collected and for what purpose": [
+                    {
+                        "Name": "App functionality, Account management",
+                        "Email address": "App functionality, Account management",
+                        "User IDs": "App functionality, Account management",
+                        "Other info": "App functionality, Account management"
+                    }
+                ]
+            },
+            {
+                "Photos and videos": "Photos",
+                "Data collected and for what purpose": [
+                    {
+                        "Photos · Optional": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Contacts": "Contacts",
+                "Data collected and for what purpose": [
+                    {
+                        "Contacts · Optional": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Messages": "SMS or MMS",
+                "Data collected and for what purpose": [
+                    {
+                        "SMS or MMS · Optional": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Audio": "Music files",
+                "Data collected and for what purpose": [
+                    {
+                        "Music files · Optional": "App functionality"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            }
+        ]
+    }
+]

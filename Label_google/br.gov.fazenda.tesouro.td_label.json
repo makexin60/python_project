@@ -1,0 +1,72 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "Financial info": "Other financial info",
+                "Data shared and for what purpose": [
+                    {
+                        "Other financial info": "Account management"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "Personal info": "User IDs, Phone number, and Other info",
+                "Data collected and for what purpose": [
+                    {
+                        "User IDs": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Account management",
+                        "Phone number": "Account management",
+                        "Other info": "App functionality, Account management"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Device or other IDs": "Analytics, Developer communications"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions",
+                "Data collected and for what purpose": [
+                    {
+                        "App interactions": "App functionality, Analytics"
+                    }
+                ]
+            },
+            {
+                "Financial info": "Other financial info",
+                "Data collected and for what purpose": [
+                    {
+                        "Other financial info": "App functionality, Account management"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+                "Data collected and for what purpose": [
+                    {
+                        "Crash logs": "Analytics",
+                        "Diagnostics": "Analytics",
+                        "Other app performance data": "Analytics"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data isn’t encrypted": "Your data isn’t transferred over a secure connection"
+            },
+            {
+                "Data can’t be deleted": "The developer doesn’t provide a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "No data shared with third parties ( The developer says this app doesn't share user data with other companies or organizations. Learn more about how developers declare sharing. )": []
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+                "Data collected and for what purpose": [
+                    {
+                        "Crash logs · Optional": "App functionality",
+                        "Diagnostics · Optional": "App functionality",
+                        "Other app performance data · Optional": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Photos and videos": "Photos",
+                "Data collected and for what purpose": [
+                    {
+                        "Photos · Optional": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Personal info": "User IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "User IDs": "App functionality, Analytics"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            }
+        ]
+    }
+]

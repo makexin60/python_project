@@ -1,0 +1,49 @@
+[
+    {
+        "No data shared with third parties ( The developer says this app doesn't share user data with other companies or organizations. Learn more about how developers declare sharing. )": []
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "App activity": "App interactions and Other actions",
+                "Data collected and for what purpose": [
+                    {
+                        "App interactions": "App functionality, Analytics, Developer communications, Advertising or marketing, Personalization, Account management",
+                        "Other actions": "App functionality, Analytics, Developer communications, Advertising or marketing, Personalization, Account management"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+                "Data collected and for what purpose": [
+                    {
+                        "Crash logs": "App functionality, Analytics, Developer communications, Advertising or marketing, Personalization, Account management",
+                        "Diagnostics": "App functionality, Analytics, Developer communications, Advertising or marketing, Personalization, Account management",
+                        "Other app performance data": "App functionality, Analytics, Developer communications, Advertising or marketing, Personalization, Account management"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name, Email address, User IDs, and Other info",
+                "Data collected and for what purpose": [
+                    {
+                        "Name": "App functionality, Analytics, Developer communications, Advertising or marketing, Personalization, Account management",
+                        "Email address": "App functionality, Analytics, Developer communications, Advertising or marketing, Personalization, Account management",
+                        "User IDs": "App functionality, Analytics, Developer communications, Advertising or marketing, Personalization, Account management",
+                        "Other info": "App functionality, Analytics, Developer communications, Advertising or marketing, Personalization, Account management"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data isn’t encrypted": "Your data isn’t transferred over a secure connection"
+            },
+            {
+                "Committed to follow the Play Families Policy": "The developer has committed to follow the Play Families Policy for this app. See the policy"
+            }
+        ]
+    }
+]

@@ -1,0 +1,124 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data shared and for what purpose": [
+                    {
+                        "Device or other IDs": "Analytics, Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "Financial info": "User payment info",
+                "Data shared and for what purpose": [
+                    {
+                        "User payment info": "App functionality, Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions",
+                "Data shared and for what purpose": [
+                    {
+                        "App interactions": "Analytics"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+                "Data shared and for what purpose": [
+                    {
+                        "Crash logs": "Analytics",
+                        "Diagnostics": "Analytics",
+                        "Other app performance data": "Analytics"
+                    }
+                ]
+            },
+            {
+                "Location": "Approximate location and Precise location",
+                "Data shared and for what purpose": [
+                    {
+                        "Approximate location": "Analytics, Advertising or marketing",
+                        "Precise location": "App functionality, Analytics, Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "Photos and videos": "Photos",
+                "Data shared and for what purpose": [
+                    {
+                        "Photos": "Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Email address",
+                "Data shared and for what purpose": [
+                    {
+                        "Email address": "App functionality, Fraud prevention, security, and compliance"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Device or other IDs": "App functionality, Analytics, Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions",
+                "Data collected and for what purpose": [
+                    {
+                        "App interactions": "Analytics"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+                "Data collected and for what purpose": [
+                    {
+                        "Crash logs": "Analytics",
+                        "Diagnostics": "Analytics",
+                        "Other app performance data": "Analytics"
+                    }
+                ]
+            },
+            {
+                "Location": "Approximate location and Precise location",
+                "Data collected and for what purpose": [
+                    {
+                        "Approximate location · Optional": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance",
+                        "Precise location · Optional": "App functionality, Analytics, Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name, Email address, and Phone number",
+                "Data collected and for what purpose": [
+                    {
+                        "Name · Optional": "Advertising or marketing, Personalization",
+                        "Email address": "App functionality, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management",
+                        "Phone number · Optional": "App functionality, Personalization"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            },
+            {
+                "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

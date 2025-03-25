@@ -1,0 +1,96 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "Personal info": "Name, Email address, User IDs, and Address",
+                "Data shared and for what purpose": [
+                    {
+                        "Name": "App functionality, Analytics, Fraud prevention, security, and compliance",
+                        "Email address": "App functionality, Analytics, Fraud prevention, security, and compliance",
+                        "User IDs": "App functionality, Analytics, Fraud prevention, security, and compliance",
+                        "Address": "App functionality, Analytics"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "Photos and videos": "Photos",
+                "Data collected and for what purpose": [
+                    {
+                        "Photos · Optional": "App functionality"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions, In-app search history, Other user-generated content, and Other actions",
+                "Data collected and for what purpose": [
+                    {
+                        "App interactions · Optional": "App functionality, Analytics",
+                        "In-app search history · Optional": "App functionality, Analytics",
+                        "Other user-generated content · Optional": "App functionality",
+                        "Other actions · Optional": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Location": "Approximate location and Precise location",
+                "Data collected and for what purpose": [
+                    {
+                        "Approximate location · Optional": "App functionality",
+                        "Precise location · Optional": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name, Email address, User IDs, Address, and Phone number",
+                "Data collected and for what purpose": [
+                    {
+                        "Name": "App functionality, Analytics, Fraud prevention, security, and compliance",
+                        "Email address": "App functionality, Analytics, Fraud prevention, security, and compliance",
+                        "User IDs · Optional": "App functionality, Analytics, Fraud prevention, security, and compliance",
+                        "Address · Optional": "App functionality, Analytics",
+                        "Phone number · Optional": "App functionality, Analytics"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Device or other IDs · Optional": "App functionality, Analytics"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Crash logs and Diagnostics",
+                "Data collected and for what purpose": [
+                    {
+                        "Crash logs · Optional": "App functionality",
+                        "Diagnostics · Optional": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Messages": "Other in-app messages",
+                "Data collected and for what purpose": [
+                    {
+                        "Other in-app messages · Optional": "App functionality"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            },
+            {
+                "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

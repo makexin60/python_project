@@ -1,0 +1,82 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "Photos and videos": "Videos",
+                "Data shared and for what purpose": [
+                    {
+                        "Videos": "App functionality"
+                    }
+                ]
+            },
+            {
+                "App activity": "Installed apps",
+                "Data shared and for what purpose": [
+                    {
+                        "Installed apps": "Advertising or marketing, Fraud prevention, security, and compliance"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Device or other IDs": "Analytics"
+                    }
+                ]
+            },
+            {
+                "Personal info": "User IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "User IDs": "Analytics"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions, In-app search history, Installed apps, Other user-generated content, and Other actions",
+                "Data collected and for what purpose": [
+                    {
+                        "App interactions": "Analytics",
+                        "In-app search history": "Analytics",
+                        "Installed apps": "Analytics, Advertising or marketing, Fraud prevention, security, and compliance",
+                        "Other user-generated content": "Analytics",
+                        "Other actions": "Analytics"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+                "Data collected and for what purpose": [
+                    {
+                        "Crash logs": "Analytics",
+                        "Diagnostics": "Analytics",
+                        "Other app performance data": "Analytics"
+                    }
+                ]
+            },
+            {
+                "Location": "Approximate location",
+                "Data collected and for what purpose": [
+                    {
+                        "Approximate location": "Analytics"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            },
+            {
+                "Data can’t be deleted": "The developer doesn’t provide a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

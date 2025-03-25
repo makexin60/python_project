@@ -1,0 +1,41 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "Location": "Precise location",
+                "Data shared and for what purpose": [
+                    {
+                        "Precise location": "App functionality, Personalization"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "Personal info": "Phone number",
+                "Data collected and for what purpose": [
+                    {
+                        "Phone number · Optional": "App functionality, Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "Photos and videos": "Photos",
+                "Data collected and for what purpose": [
+                    {
+                        "Photos · Optional": "App functionality"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data isn’t encrypted": "Your data isn’t transferred over a secure connection"
+            }
+        ]
+    }
+]

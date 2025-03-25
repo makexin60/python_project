@@ -1,0 +1,71 @@
+[
+    {
+        "No data shared with third parties ( The developer says this app doesn't share user data with other companies or organizations. Learn more about how developers declare sharing. )": []
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "Personal info": "Name and Email address",
+                "Data collected and for what purpose": [
+                    {
+                        "Name": "App functionality, Fraud prevention, security, and compliance, Account management",
+                        "Email address": "App functionality, Fraud prevention, security, and compliance, Account management"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+                "Data collected and for what purpose": [
+                    {
+                        "Crash logs": "Analytics",
+                        "Diagnostics": "Analytics",
+                        "Other app performance data": "Analytics, Developer communications"
+                    }
+                ]
+            },
+            {
+                "Photos and videos": "Photos",
+                "Data collected and for what purpose": [
+                    {
+                        "Photos": "App functionality, Account management"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions and Other user-generated content",
+                "Data collected and for what purpose": [
+                    {
+                        "App interactions": "App functionality, Analytics, Fraud prevention, security, and compliance, Personalization",
+                        "Other user-generated content": "App functionality, Analytics, Personalization, Account management"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Device or other IDs": "App functionality, Analytics"
+                    }
+                ]
+            },
+            {
+                "Messages": "Other in-app messages",
+                "Data collected and for what purpose": [
+                    {
+                        "Other in-app messages": "App functionality, Analytics"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            },
+            {
+                "Data can’t be deleted": "The developer doesn’t provide a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

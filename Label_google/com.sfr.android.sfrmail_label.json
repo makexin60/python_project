@@ -1,0 +1,132 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "Personal info": "User IDs",
+                "Data shared and for what purpose": [
+                    {
+                        "User IDs": "App functionality, Personalization"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data shared and for what purpose": [
+                    {
+                        "Device or other IDs": "Analytics, Developer communications, Advertising or marketing, Personalization"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Crash logs and Diagnostics",
+                "Data shared and for what purpose": [
+                    {
+                        "Crash logs": "Analytics",
+                        "Diagnostics": "Analytics"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "Calendar": "Calendar events",
+                "Data collected and for what purpose": [
+                    {
+                        "Calendar events · Optional": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Email address, User IDs, and Phone number",
+                "Data collected and for what purpose": [
+                    {
+                        "Email address": "App functionality, Analytics, Fraud prevention, security, and compliance, Account management",
+                        "User IDs": "App functionality, Analytics, Fraud prevention, security, and compliance, Personalization",
+                        "Phone number": "App functionality, Analytics, Fraud prevention, security, and compliance, Personalization, Account management"
+                    }
+                ]
+            },
+            {
+                "Audio": "Voice or sound recordings, Music files, and Other audio files",
+                "Data collected and for what purpose": [
+                    {
+                        "Voice or sound recordings · Optional": "App functionality",
+                        "Music files · Optional": "App functionality",
+                        "Other audio files · Optional": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Contacts": "Contacts",
+                "Data collected and for what purpose": [
+                    {
+                        "Contacts · Optional": "App functionality, Personalization, Account management"
+                    }
+                ]
+            },
+            {
+                "Photos and videos": "Photos and Videos",
+                "Data collected and for what purpose": [
+                    {
+                        "Photos · Optional": "App functionality, Account management",
+                        "Videos · Optional": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Files and docs": "Files and docs",
+                "Data collected and for what purpose": [
+                    {
+                        "Files and docs · Optional": "App functionality"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions and In-app search history",
+                "Data collected and for what purpose": [
+                    {
+                        "App interactions": "App functionality, Analytics, Fraud prevention, security, and compliance",
+                        "In-app search history": "App functionality, Personalization"
+                    }
+                ]
+            },
+            {
+                "Messages": "Emails",
+                "Data collected and for what purpose": [
+                    {
+                        "Emails": "App functionality, Fraud prevention, security, and compliance, Personalization"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Device or other IDs": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Crash logs and Diagnostics",
+                "Data collected and for what purpose": [
+                    {
+                        "Crash logs": "App functionality, Analytics",
+                        "Diagnostics": "Analytics, Fraud prevention, security, and compliance"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            },
+            {
+                "Data can’t be deleted": "The developer doesn’t provide a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

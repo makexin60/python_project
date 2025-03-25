@@ -1,0 +1,63 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "Personal info": "Name, Email address, User IDs, Address, and Phone number",
+                "Data shared and for what purpose": [
+                    {
+                        "Name": "Account management",
+                        "Email address": "Advertising or marketing",
+                        "User IDs": "App functionality, Advertising or marketing, Account management",
+                        "Address": "Advertising or marketing",
+                        "Phone number": "App functionality, Advertising or marketing, Account management"
+                    }
+                ]
+            },
+            {
+                "Contacts": "Contacts",
+                "Data shared and for what purpose": [
+                    {
+                        "Contacts": "App functionality, Account management"
+                    }
+                ]
+            },
+            {
+                "Health and fitness": "Fitness info",
+                "Data shared and for what purpose": [
+                    {
+                        "Fitness info": "App functionality, Account management"
+                    }
+                ]
+            },
+            {
+                "Photos and videos": "Photos",
+                "Data shared and for what purpose": [
+                    {
+                        "Photos": "Account management"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data shared and for what purpose": [
+                    {
+                        "Device or other IDs": "App functionality"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "No data collected ( The developer says this app doesn’t collect user data )": []
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            },
+            {
+                "Data can’t be deleted": "The developer doesn’t provide a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

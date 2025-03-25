@@ -1,0 +1,72 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+                "Data shared and for what purpose": [
+                    {
+                        "Crash logs": "App functionality, Analytics, Advertising or marketing, Personalization, Account management",
+                        "Diagnostics": "App functionality, Analytics, Advertising or marketing, Personalization, Account management",
+                        "Other app performance data": "App functionality, Analytics, Advertising or marketing, Personalization, Account management"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data shared and for what purpose": [
+                    {
+                        "Device or other IDs": "App functionality, Analytics, Advertising or marketing, Personalization, Account management"
+                    }
+                ]
+            },
+            {
+                "Financial info": "User payment info",
+                "Data shared and for what purpose": [
+                    {
+                        "User payment info": "App functionality, Analytics, Advertising or marketing, Personalization, Account management"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name, Email address, and User IDs",
+                "Data shared and for what purpose": [
+                    {
+                        "Name": "App functionality, Analytics, Advertising or marketing, Personalization, Account management",
+                        "Email address": "App functionality, Analytics, Advertising or marketing, Personalization, Account management",
+                        "User IDs": "App functionality, Analytics, Advertising or marketing, Personalization, Account management"
+                    }
+                ]
+            },
+            {
+                "Location": "Approximate location",
+                "Data shared and for what purpose": [
+                    {
+                        "Approximate location": "App functionality, Analytics, Advertising or marketing, Personalization, Account management"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions, In-app search history, Installed apps, Other user-generated content, and Other actions",
+                "Data shared and for what purpose": [
+                    {
+                        "App interactions": "App functionality, Analytics, Advertising or marketing, Personalization, Account management",
+                        "In-app search history": "App functionality, Analytics, Advertising or marketing, Personalization, Account management",
+                        "Installed apps": "App functionality, Analytics, Advertising or marketing, Personalization, Account management",
+                        "Other user-generated content": "App functionality, Analytics, Advertising or marketing, Personalization, Account management",
+                        "Other actions": "App functionality, Analytics, Advertising or marketing, Personalization, Account management"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "No data collected ( The developer says this app doesn’t collect user data )": []
+    },
+    {
+        "Security practices": [
+            {
+                "Data isn’t encrypted": "Your data isn’t transferred over a secure connection"
+            }
+        ]
+    }
+]

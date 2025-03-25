@@ -1,0 +1,67 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data shared and for what purpose": [
+                    {
+                        "Device or other IDs": "App functionality, Advertising or marketing"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Device or other IDs": "App functionality, Advertising or marketing, Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Email address, User IDs, Race and ethnicity, Political or religious beliefs, and Other info",
+                "Data collected and for what purpose": [
+                    {
+                        "Email address": "App functionality, Developer communications, Fraud prevention, security, and compliance, Account management",
+                        "User IDs": "Account management",
+                        "Race and ethnicity": "Personalization",
+                        "Political or religious beliefs": "Personalization",
+                        "Other info": "Personalization"
+                    }
+                ]
+            },
+            {
+                "Photos and videos": "Photos and Videos",
+                "Data collected and for what purpose": [
+                    {
+                        "Photos · Optional": "Personalization",
+                        "Videos · Optional": "Personalization"
+                    }
+                ]
+            },
+            {
+                "App activity": "In-app search history, Other user-generated content, and Other actions",
+                "Data collected and for what purpose": [
+                    {
+                        "In-app search history": "Personalization",
+                        "Other user-generated content · Optional": "Personalization",
+                        "Other actions · Optional": "Personalization"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            },
+            {
+                "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

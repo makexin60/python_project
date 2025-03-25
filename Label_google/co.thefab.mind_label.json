@@ -1,0 +1,89 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "App info and performance": "Crash logs and Diagnostics",
+                "Data shared and for what purpose": [
+                    {
+                        "Crash logs": "App functionality",
+                        "Diagnostics": "App functionality"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions",
+                "Data shared and for what purpose": [
+                    {
+                        "App interactions": "Analytics, Advertising or marketing, Personalization"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data shared and for what purpose": [
+                    {
+                        "Device or other IDs": "App functionality, Analytics"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "Personal info": "Name, Email address, User IDs, and Other info",
+                "Data collected and for what purpose": [
+                    {
+                        "Name · Optional": "App functionality, Developer communications, Advertising or marketing, Personalization, Account management",
+                        "Email address · Optional": "App functionality, Advertising or marketing, Personalization, Account management",
+                        "User IDs": "App functionality, Analytics",
+                        "Other info · Optional": "App functionality, Analytics, Advertising or marketing, Personalization"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Crash logs and Diagnostics",
+                "Data collected and for what purpose": [
+                    {
+                        "Crash logs": "App functionality",
+                        "Diagnostics": "App functionality"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions",
+                "Data collected and for what purpose": [
+                    {
+                        "App interactions": "Analytics, Advertising or marketing, Personalization"
+                    }
+                ]
+            },
+            {
+                "Financial info": "User payment info",
+                "Data collected and for what purpose": [
+                    {
+                        "User payment info · Optional": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Device or other IDs": "App functionality, Analytics"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            },
+            {
+                "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

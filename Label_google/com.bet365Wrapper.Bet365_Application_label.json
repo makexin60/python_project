@@ -1,0 +1,80 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "Personal info": "Name and Address",
+                "Data shared and for what purpose": [
+                    {
+                        "Name": "Fraud prevention, security, and compliance, Account management",
+                        "Address": "Fraud prevention, security, and compliance, Account management"
+                    }
+                ]
+            },
+            {
+                "Financial info": "User payment info",
+                "Data shared and for what purpose": [
+                    {
+                        "User payment info": "App functionality"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "Personal info": "Name, Email address, Address, and Phone number",
+                "Data collected and for what purpose": [
+                    {
+                        "Name": "App functionality, Fraud prevention, security, and compliance, Account management",
+                        "Email address": "Developer communications, Advertising or marketing, Account management",
+                        "Address": "App functionality, Fraud prevention, security, and compliance, Account management",
+                        "Phone number": "Account management"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Crash logs",
+                "Data collected and for what purpose": [
+                    {
+                        "Crash logs · Optional": "Analytics"
+                    }
+                ]
+            },
+            {
+                "Financial info": "User payment info",
+                "Data collected and for what purpose": [
+                    {
+                        "User payment info": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Device or other IDs": "App functionality, Fraud prevention, security, and compliance, Personalization"
+                    }
+                ]
+            },
+            {
+                "Messages": "Other in-app messages",
+                "Data collected and for what purpose": [
+                    {
+                        "Other in-app messages · Optional": "App functionality, Advertising or marketing"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            },
+            {
+                "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

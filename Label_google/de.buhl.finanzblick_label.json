@@ -1,0 +1,89 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "Location": "Approximate location and Precise location",
+                "Data shared and for what purpose": [
+                    {
+                        "Approximate location": "App functionality",
+                        "Precise location": "App functionality"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "Files and docs": "Files and docs",
+                "Data collected and for what purpose": [
+                    {
+                        "Files and docs · Optional": "App functionality, Analytics, Developer communications"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions",
+                "Data collected and for what purpose": [
+                    {
+                        "App interactions": "Analytics, Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Crash logs and Diagnostics",
+                "Data collected and for what purpose": [
+                    {
+                        "Crash logs · Optional": "Analytics",
+                        "Diagnostics · Optional": "Analytics"
+                    }
+                ]
+            },
+            {
+                "Photos and videos": "Photos",
+                "Data collected and for what purpose": [
+                    {
+                        "Photos · Optional": "App functionality, Analytics"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Email address and User IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Email address": "App functionality, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
+                        "User IDs": "App functionality, Analytics, Account management"
+                    }
+                ]
+            },
+            {
+                "Financial info": "User payment info, Purchase history, and Other financial info",
+                "Data collected and for what purpose": [
+                    {
+                        "User payment info · Optional": "App functionality",
+                        "Purchase history · Optional": "App functionality, Analytics, Developer communications",
+                        "Other financial info · Optional": "App functionality, Analytics"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Device or other IDs": "App functionality, Developer communications"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            },
+            {
+                "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "Personal info": "Name and Other info",
+                "Data shared and for what purpose": [
+                    {
+                        "Name": "Developer communications, Advertising or marketing, Account management",
+                        "Other info": "Analytics, Developer communications, Advertising or marketing, Account management"
+                    }
+                ]
+            },
+            {
+                "Location": "Approximate location",
+                "Data shared and for what purpose": [
+                    {
+                        "Approximate location": "App functionality, Analytics, Developer communications, Advertising or marketing, Account management"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "Personal info": "Name, User IDs, and Other info",
+                "Data collected and for what purpose": [
+                    {
+                        "Name · Optional": "Developer communications, Advertising or marketing, Account management",
+                        "User IDs": "App functionality, Account management",
+                        "Other info · Optional": "Analytics, Developer communications, Advertising or marketing, Account management"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions",
+                "Data collected and for what purpose": [
+                    {
+                        "App interactions": "App functionality, Analytics"
+                    }
+                ]
+            },
+            {
+                "Location": "Approximate location",
+                "Data collected and for what purpose": [
+                    {
+                        "Approximate location": "App functionality, Analytics, Developer communications, Advertising or marketing, Account management"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Device or other IDs": "App functionality, Analytics, Account management"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Crash logs and Diagnostics",
+                "Data collected and for what purpose": [
+                    {
+                        "Crash logs": "App functionality, Analytics",
+                        "Diagnostics": "App functionality, Analytics"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            }
+        ]
+    }
+]

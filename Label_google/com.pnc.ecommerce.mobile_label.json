@@ -1,0 +1,95 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "App activity": "App interactions and Installed apps",
+                "Data shared and for what purpose": [
+                    {
+                        "App interactions": "Analytics, Advertising or marketing",
+                        "Installed apps": "Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Phone number",
+                "Data shared and for what purpose": [
+                    {
+                        "Phone number": "App functionality, Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data shared and for what purpose": [
+                    {
+                        "Device or other IDs": "Fraud prevention, security, and compliance"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "App info and performance": "Crash logs and Diagnostics",
+                "Data collected and for what purpose": [
+                    {
+                        "Crash logs": "Analytics",
+                        "Diagnostics": "Analytics"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions",
+                "Data collected and for what purpose": [
+                    {
+                        "App interactions": "Analytics, Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Device or other IDs": "Analytics, Developer communications, Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "Financial info": "Other financial info",
+                "Data collected and for what purpose": [
+                    {
+                        "Other financial info · Optional": "App functionality, Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "Location": "Approximate location and Precise location",
+                "Data collected and for what purpose": [
+                    {
+                        "Approximate location · Optional": "App functionality, Analytics, Fraud prevention, security, and compliance",
+                        "Precise location · Optional": "App functionality, Analytics, Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "Contacts": "Contacts",
+                "Data collected and for what purpose": [
+                    {
+                        "Contacts · Optional": "App functionality, Fraud prevention, security, and compliance"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            },
+            {
+                "Data can’t be deleted": "The developer doesn’t provide a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

@@ -1,0 +1,140 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "Location": "Approximate location",
+                "Data shared and for what purpose": [
+                    {
+                        "Approximate location": "App functionality, Analytics, Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "Messages": "Emails",
+                "Data shared and for what purpose": [
+                    {
+                        "Emails": "App functionality, Analytics"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data shared and for what purpose": [
+                    {
+                        "Device or other IDs": "App functionality, Analytics, Personalization, Account management"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Email address and User IDs",
+                "Data shared and for what purpose": [
+                    {
+                        "Email address": "App functionality, Analytics",
+                        "User IDs": "App functionality, Analytics"
+                    }
+                ]
+            },
+            {
+                "Financial info": "Purchase history",
+                "Data shared and for what purpose": [
+                    {
+                        "Purchase history": "App functionality, Analytics, Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Crash logs and Diagnostics",
+                "Data shared and for what purpose": [
+                    {
+                        "Crash logs": "App functionality, Analytics, Developer communications, Account management",
+                        "Diagnostics": "App functionality, Analytics, Developer communications"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "Location": "Approximate location",
+                "Data collected and for what purpose": [
+                    {
+                        "Approximate location": "App functionality, Analytics, Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "Messages": "Emails and Other in-app messages",
+                "Data collected and for what purpose": [
+                    {
+                        "Emails": "App functionality, Analytics",
+                        "Other in-app messages": "App functionality, Analytics, Personalization"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Device or other IDs": "App functionality, Analytics, Developer communications, Personalization, Account management"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions, In-app search history, and Other user-generated content",
+                "Data collected and for what purpose": [
+                    {
+                        "App interactions": "App functionality, Analytics, Personalization, Account management",
+                        "In-app search history": "App functionality, Analytics, Developer communications",
+                        "Other user-generated content": "App functionality, Analytics, Developer communications, Personalization, Account management"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Email address and User IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Email address": "App functionality, Analytics, Account management",
+                        "User IDs": "App functionality, Analytics, Personalization, Account management"
+                    }
+                ]
+            },
+            {
+                "Financial info": "Purchase history",
+                "Data collected and for what purpose": [
+                    {
+                        "Purchase history": "App functionality, Analytics, Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+                "Data collected and for what purpose": [
+                    {
+                        "Crash logs": "App functionality, Analytics, Developer communications, Account management",
+                        "Diagnostics": "App functionality, Analytics, Account management",
+                        "Other app performance data": "App functionality, Analytics, Personalization, Account management"
+                    }
+                ]
+            },
+            {
+                "Photos and videos": "Photos",
+                "Data collected and for what purpose": [
+                    {
+                        "Photos · Optional": "App functionality, Analytics"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            },
+            {
+                "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

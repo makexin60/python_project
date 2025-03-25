@@ -1,0 +1,60 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "Photos and videos": "Photos",
+                "Data shared and for what purpose": [
+                    {
+                        "Photos": "App functionality"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "App activity": "App interactions",
+                "Data collected and for what purpose": [
+                    {
+                        "App interactions": "Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "Location": "Precise location",
+                "Data collected and for what purpose": [
+                    {
+                        "Precise location · Optional": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Photos and videos": "Photos",
+                "Data collected and for what purpose": [
+                    {
+                        "Photos": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name, Email address, User IDs, and Phone number",
+                "Data collected and for what purpose": [
+                    {
+                        "Name": "Account management",
+                        "Email address": "Account management",
+                        "User IDs": "App functionality, Developer communications",
+                        "Phone number": "Account management"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            }
+        ]
+    }
+]

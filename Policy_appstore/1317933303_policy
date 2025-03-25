@@ -20,11 +20,37 @@ Opt Out
 ​
 1.4 Crashlytics
 For our app, we use Crashlytics (Crashlytics, 1 Kendall Square, Cambridge, MA 02139, United States) for analysis Of Systemcrashs to improve the stability of our app. This analysis program uses the IP addresses of the User for analysis purposes. These are anonymous and therefore a conclusion can not be drawn to a concrete person become. For more information, please visit:
+https://try.crashlytics.com/terms/PRIVACY
+1. Privacy
+1.1 Advertising
+If you want to object against the use of this data for advertising purposes, you can deactivate personalized advertising in the app setting under Privacy and in your device settings. On an apple device this can be done in the iOS preferences, under "Privacy" -- "Ads" and enabling the option "no ad tracking"; for a user owning an Android this can be achieved by opening the "Google Settings" (or first "Settings" and then "Google"), clicking on "Display" and ticking the option "Disable personalised ads. You can reset the IDFA or the Advertising ID at any time with these options.
+​
+1.2 Firebase
+We use Firebase to collect anonymous user data in real time. Firebase is a Google subsidiary and has its seat In San Francisco (CA), United States. You can find the privacy policy of Firebase at
+Firebase data privacy
+.
+​
+1.3 Admob
+AdMob is an advertising service provided by AdMob Google Inc. Please read
+this overview
+of how they use information from sites or apps that use their services.
+Personal Data collected:
+Unique device identifiers for advertising. For example, Google Advertiser ID or Apple ID For Advertising.
+Privacy Policy
+|
+Opt Out
+​
+1.4 Crashlytics
+For our app, we use Crashlytics (Crashlytics, 1 Kendall Square, Cambridge, MA 02139, United States) for analysis Of Systemcrashs to improve the stability of our app. This analysis program uses the IP addresses of the User for analysis purposes. These are anonymous and therefore a conclusion can not be drawn to a concrete person become. For more information, please visit:
 https://try.crashlytics.com/terms/
 Sub-section Policy: 
 Sub-policy 0
 https://firebase.google.com/support/privacy:
 Skip to main content
+firebase.google.com uses cookies from Google to deliver and enhance the quality of its services and to analyze traffic.
+Learn more
+.
+OK, got it
 Build
 More
 Run
@@ -71,11 +97,13 @@ JavaScript Release Notes
 Flutter Release Notes
 C++ Release Notes
 Unity Release Notes
-Admin Node.js Release Notes
+Admin Node.
+js Release Notes
 Admin Java Release Notes
 Admin Python Release Notes
 Admin Go Release Notes
-Admin .NET Release Notes
+Admin .
+NET Release Notes
 Security Rules Release Notes
 Firebase CLI Release Notes
 Policies for changes and versioning
@@ -141,8 +169,25 @@ Firebase
 Support
 Send feedback
 Privacy and Security in Firebase
+bookmark_border
+bookmark
 Stay organized with collections
 Save and categorize content based on your preferences.
+On this page
+Data protection
+Firebase support for GDPR and CCPA
+Firebase Data Processing and Security Terms
+Firebase is certified under major privacy and security standards
+Data processing information
+Examples of end-user data processed by Firebase
+Guides for enabling opt-in for end-user data processing
+Data storage and processing locations
+Security information
+Data encryption
+Security practices
+Firebase Service Data
+Examples of how Firebase Service Data is processed by Firebase
+Firebase Service Data use by non-Firebase Google services
 This page outlines Firebase's key security and privacy information. Whether
 you're looking to kick off a new project with Firebase, or curious about how
 Firebase works with your existing project, read on to see how Firebase can help
@@ -222,18 +267,6 @@ ISO 27018
 SOC 1
 SOC 2
 SOC 3
-Firebase ML
-check
-check
-check
-check
-Firebase Test Lab
-check
-check
-check
-check
-check
-check
 Cloud Firestore
 check
 check
@@ -255,14 +288,7 @@ check
 check
 check
 check
-Firebase Authentication
-check
-check
-check
-check
-check
-check
-Firebase Crashlytics
+Firebase A/B Testing
 check
 check
 check
@@ -277,7 +303,9 @@ check
 check
 check
 check
-Firebase In-App Messaging
+Firebase Authentication
+check
+check
 check
 check
 check
@@ -287,12 +315,7 @@ check
 check
 check
 check
-Firebase Performance Monitoring
-check
-check
-check
-check
-Firebase Hosting
+Firebase Crashlytics
 check
 check
 check
@@ -302,12 +325,22 @@ check
 check
 check
 check
-Firebase Remote Config
+Firebase Hosting
 check
 check
 check
 check
-Firebase Realtime Database
+Firebase In-App Messaging
+check
+check
+check
+check
+Firebase ML
+check
+check
+check
+check
+Firebase Performance Monitoring
 check
 check
 check
@@ -317,7 +350,19 @@ check
 check
 check
 check
-Firebase A/B Testing
+Firebase Realtime Database
+check
+check
+check
+check
+Firebase Remote Config
+check
+check
+check
+check
+Firebase Test Lab
+check
+check
 check
 check
 check
@@ -385,22 +430,6 @@ Cloud Functions uses IP addresses to
 Retention:
 Cloud functions only saves IP addresses temporarily, to
             provide the service.
-Firebase Authentication
-Passwords
-Email addresses
-Phone numbers
-User agents
-IP addresses
-How it helps:
-Firebase Authentication uses the data to enable end-user
-            authentication, and facilitate end-user account management. It also uses user-agent
-            strings and IP addresses to provide added security and prevent abuse during sign-up and
-            authentication.
-Retention:
-Firebase Authentication keeps logged IP addresses for a few
-            weeks. It retains other authentication information until the Firebase customer initiates
-            deletion of the associated user, after which data is removed from live and backup
-            systems within 180 days.
 Firebase App Check
 Attestation material from supported attestation providers
 App Check tokens from successful attestations
@@ -439,6 +468,22 @@ Retention:
 Firebase App Distribution retains user information
             until the Firebase customer requests its deletion, after which data is removed from live
             and backup systems within 180 days.
+Firebase Authentication
+Passwords
+Email addresses
+Phone numbers
+User agents
+IP addresses
+How it helps:
+Firebase Authentication uses the data to enable end-user
+            authentication, and facilitate end-user account management. It also uses user-agent
+            strings and IP addresses to provide added security and prevent abuse during sign-up and
+            authentication.
+Retention:
+Firebase Authentication keeps logged IP addresses for a few
+            weeks. It retains other authentication information until the Firebase customer initiates
+            deletion of the associated user, after which data is removed from live and backup
+            systems within 180 days.
 Firebase Cloud Messaging
 Firebase
 installation IDs
@@ -495,6 +540,39 @@ Hosting uses IP addresses of incoming requests to detect
             abuse and provide customers with detailed analysis of usage data.
 Retention:
 Hosting retains IP data for a few months.
+Firebase In-App Messaging
+Firebase
+installation IDs
+How it helps:
+Firebase In-App Messaging
+uses
+Firebase
+installation IDs to determine which devices to deliver messages to.
+Retention:
+Firebase retains
+Firebase
+installation IDs
+            until the Firebase customer
+            makes an API call to delete the ID. After the call, data is removed from live and backup
+            systems within 180 days.
+Firebase ML
+Uploaded Images
+installation auth tokens
+How it helps:
+The Cloud based APIs store uploaded images temporarily,
+            to process and return the analysis to you. Stored images are typically deleted within a
+            few hours. See the Cloud Vision
+Data Usage FAQ
+for more
+            information.
+installation auth tokens
+are used by
+Firebase ML
+for device authentication when interacting with app
+            instances, for example, to distribute developer models to app instances.
+Retention:
+installation auth tokens remain valid until their
+            expiration date. The default token lifetime is one week.
 Firebase Performance Monitoring
 Firebase
 installation IDs
@@ -520,21 +598,6 @@ keeps IP-associated
             events for 30 days, and it keeps installation-associated and de-identified performance
             data for 60 days before starting the process of removing it from live and backup
             systems.
-Firebase In-App Messaging
-Firebase
-installation IDs
-How it helps:
-Firebase In-App Messaging
-uses
-Firebase
-installation IDs to determine which devices to deliver messages to.
-Retention:
-Firebase retains
-Firebase
-installation IDs
-            until the Firebase customer
-            makes an API call to delete the ID. After the call, data is removed from live and backup
-            systems within 180 days.
 Firebase Realtime Database
 IP addresses
 User agents
@@ -563,24 +626,6 @@ Firebase retains
 Firebase
 installation IDs until the Firebase customer makes an API call to delete the
           ID. After the call, data is removed from live and backup systems within 180 days.
-Firebase ML
-Uploaded Images
-installation auth tokens
-How it helps:
-The Cloud based APIs store uploaded images temporarily,
-            to process and return the analysis to you. Stored images are typically deleted within a
-            few hours. See the Cloud Vision
-Data Usage FAQ
-for more
-            information.
-installation auth tokens
-are used by
-Firebase ML
-for device authentication when interacting with app
-            instances, for example, to distribute developer models to app instances.
-Retention:
-installation auth tokens remain valid until their
-            expiration date. The default token lifetime is one week.
 Vertex AI in Firebase
 Customer's inputs and outputs data sent and received from the AI model
 How it helps:
@@ -819,7 +864,9 @@ Apache 2.0 License
 . For details, see the
 Google Developers Site Policies
 . Java is a registered trademark of Oracle and/or its affiliates.
-Last updated 2025-03-04 UTC.
+Last updated 2025-03-17 UTC.
+Info
+Chat
 Sub-policy 1
 https://policies.google.com/technologies/ads:
 Privacy & Terms
@@ -1060,114 +1107,3 @@ Türkçe
 日本語
 Main menu
 Google apps
-Sub-policy 2
-https://www.smartwod.net/website-terms:
-top of page
-WEBSITE TERMS
-Privacy policy
-Responsible party pursuant to data protection laws, in particular the EU General Data Protection Regulation (GDPR), is
-Heidi Tarkpea
-​
-Your rights as the data subject
-You can exercise the following rights at any time using the contact details of our data protection officer:
-Infor
-mation on your data stored by us and the processing thereof (Art. 15 GDPR),
-Rectification of inaccurate personal data (Art. 16 GDPR),
-Deletion of your data stored by us (Art. 17 GDPR),
-Restriction of the data processing, provided that we may not delete your data due to legal obligations (Art. 18 GDPR),
-Objection to the processing of your data with us (Art. 21 GDPR) and
-Data portability, provide that you have consented to the data processing or have entered into a contract with us (Art. 20 GDPR).
-If you have given us consent, you may withdraw it at any time, which will remain in effect in the future.
-You can contact a supervisory authority with a complaint at any time, e.g. the supervisory authority of the state of your residence or the authority that oversees us as the responsible party.
-You’ll find a list of supervisory authorities (for the non-public area) with their respective addresses at:
-https://www.bfdi.bund.de
-.
-​
-Collecting general information during a visit to our website
-Type and purpose of the processing
-When you access our website – i.e. if you do not register or submit information – information of a general nature will be collected automatically. This information (server log files) contains the type of web browser, the operating system used, the domain name of your Internet service provider, your IP address and the like.
-It is processed in particular for the following purposes:
-Ensuring an unproblematic website connection
-Ensuring seamless use of our website
-Analysis of system security and stability as well as
-For additional administrative purposes.
-We will not use your data to draw conclusions about your person. This type of information will be statistically analysed by us if necessary to optimise our website and its underlying technology.
-Legal basis
-The processing occurs according to Art. 6 Para. 1 (f) GDPR, based on our legitimate interest in improving the stability and functionality of our website.
-Recipients
-Recipients of the data may be technical service providers, who work on the operation and maintenance of our website as the processor.
-Retention period
-The data will be deleted as soon as they are no longer required for the reason they were collected. This is generally the case, after the respective session has ended, for data that are used to make the website available.
-Mandatory or required provision
-The provision of the aforementioned personal data is neither legally nor contractually mandatory. Without the IP address however, the service and functionality of our website are not guaranteed. Furthermore, individual services can be unavailable or limited. For this reason, an objection is excluded.
-​
-Contact form
-Type and purpose of the processing
-The data you enter are used for individual communication with you. A valid e-mail address and your name are required for this communication, which serves to organize your inquiry and the respective subsequent reply. Providing additional information is optional.
-Legal basis
-The processing of the data entered in the contact form occurs on the basis of a legitimate interest (Art. 6 Para. 1 (f) GDPR).
-By providing the contact form, our aim is to facilitate an uncomplicated means for you to contact us. The information you enter will be used to process the inquiry and saved for possible follow-up questions.
-If you contact us to request an offer, the processing of the information provided in the contact form will occur in order to implement pre-contractual measures (Art. 6 Para. 1 (b) GDPR).
-Recipients
-Recipients of the data may be processors.
-Retention period
-The data will be deleted no later than 6 months after processing the inquiry.
-Provided that we enter into a contract together, we will use the statutory retention periods in the German Commercial Code (Handelsgesetzbuch) and delete your data according to the respective stipulated deadlines.
-Mandatory or required provision
-The provision of your personal data is voluntary. However, we can only process your inquiry if you provide us with your name, e-mail address and the reason for your inquiry.
-​
-Using Google Analytics
-Type and purpose of the processing
-This website uses Google Analytics, a web analytics service of Google LLC, 1600 Amphitheater Parkway, Mountain View, CA 94043 USA (hereinafter: ‘Google’). Google Analytics uses so-called ‘cookies’, i.e. text files that are stored on your computer and allow an analysis of your use of the website. The information generated by the cookie about your use of this website is typically transmitted to a Google server in the U.S. and stored there. However, due to the activation of IP anonymisation on these websites, your IP address will be truncated beforehand by Google within the member states of the European Union or in other contracting states of the Agreement on the European Economic Area. Only in exceptional cases will the full IP address be sent to a Google server in the U.S. and truncated there. On behalf of the operator of this website, Google will use this information to evaluate your use of the website, summarise reports on website activities and provide other services related to website and Internet usage to the website operator. The IP address transferred from your browser as part of Google Analytics will not be combined with other data from Google.
-The data processing purposes are the website-use analysis and the summary of reports on activities on the website. Based on the use of the website and the Internet, other related services will be provided.
-Legal basis
-The processing of the data occurs on the basis of the user’s consent (Art. 6 Para. 1 (a) GDPR).
-Recipients
-The recipient of the data is Google as the processor. For this, we have entered into the corresponding data-processing contract with Google.
-Retention period
-The deletion of the data occurs as soon as they are no longer necessary for our recording-keeping purposes.
-Third country transfers
-Google processes your data in the United States of America and is subject to the EU-U.S. Privacy Shield:
-https://www.privacyshield.gov/EU-US-Framework.
-Mandatory or required provision
-The provision of your personal data is voluntary, based solely on your consent. If you prevent access, this can lead to functional limitations on the website.
-Revocation of consent
-You can prevent the storage of cookies by a corresponding setting in your browser software; however, please note that in this case you may not be able to use all the functions of this website in their entirety. Furthermore, you can prevent the collected data generated by the cookie and the data related to your use of the website (including your IP address) being transmitted to Google, as well as the processing of this data by Google, by downloading and installi
-ng the browser plug-in available at the following link: browser add-on to deactivate Google Analytics.
-In addition, or as an alternative to the browser add-on, you can prevent tracking by Google Analytics on our web pages by clicking this link, which will install an opt-out cookie on your device. This will prevent data collection by Google Analytics for this website and for this browser in the future, as long as the cookie remains installed in your browser.
-Profiling
-With the assistance of the tracking tool Google Analytics, the browsing behaviour of the website visitors can be evaluated and their respective interests can be analysed. For this analysis, we create a pseudonymous user profile.
-​
-Using script libraries (Google Webfonts)
-Type and purpose of the processing
-In order to present our content correctly and graphically appealing across all browsers, we use ‘Google Webfonts’ from Google LLC (1600 Amphitheater Parkway, Mountain View, CA 94043, USA, hereinafter ‘Google’) to display fonts on this website.
-You’ll find the data protection guidelines of the library operator Google here:
-https://www.google.com/policies/privacy/
-Legal basis
-Your consent is the legal basis for the integration of Google Webfonts and the associated data transfer to Google (Art. 6 Para. 1 (a) GDPR).
-Recipients
-The use of script libraries or font libraries automatically triggers a connection to the operator of the library. It is theoretically possible – but currently also unclear whether and to what end – that the operator, in this case Google, will collect data.
-Retention period
-We do not collect any personal data via the integration of Google Webfonts.
-You’ll find additional information on Google Webfonts at
-https://developers.google.com/fonts/faq
-and in Google’s privacy policy:
-https://www.google.com/policies/privacy/.
-Third country transfers
-Google processes your data in the United States of America and is subject to the EU-U.S. Privacy Shield:
-https://www.privacyshield.gov/EU-US-Framework.
-Mandatory or required provision
-The provision of your personal data is neither legally nor contractually required. However, the correct presentation of standard-fonts content is not possible without this provision.
-Revocation of consent
-The programming language JavaScript is regularly used to display content. Thus, you can opt out of the data processing by disabling JavaScript execution in your browser or by installing a Ja
-vaScript blocker. Please note that this may result in functional limitations on the website.
-​
-SSL encryption
-To protect the security of your data during transmission, we use state-of-the-art encryption methods (such as SSL) via HTTPS.
-Revision of our privacy policy
-We reserve the right to amend this privacy policy so that it always complies with current legal requirements or to implement changes to our services in the privacy policy, e.g. when introducing new services. Your next visit will be subject to the new privacy policy.
-Questions for the data protection officer
-If you have any questions pertaining to data protection, please send us an e-mail or contact the person responsible for data protection in our organization:
-Heidi Tarkpea
-The privacy policy was created via the activeMind AG privacy policy generator (Version: #2018-09-24).
-bottom of page

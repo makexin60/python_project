@@ -1,0 +1,119 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "Messages": "Emails",
+                "Data shared and for what purpose": [
+                    {
+                        "Emails": "Analytics"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data shared and for what purpose": [
+                    {
+                        "Device or other IDs": "Analytics"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name, Email address, and User IDs",
+                "Data shared and for what purpose": [
+                    {
+                        "Name": "Analytics",
+                        "Email address": "Analytics",
+                        "User IDs": "Analytics"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Crash logs and Diagnostics",
+                "Data shared and for what purpose": [
+                    {
+                        "Crash logs": "Analytics",
+                        "Diagnostics": "Analytics"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions, In-app search history, and Other user-generated content",
+                "Data shared and for what purpose": [
+                    {
+                        "App interactions": "Analytics",
+                        "In-app search history": "Analytics",
+                        "Other user-generated content": "Analytics"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "Files and docs": "Files and docs",
+                "Data collected and for what purpose": [
+                    {
+                        "Files and docs": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Messages": "Emails and Other in-app messages",
+                "Data collected and for what purpose": [
+                    {
+                        "Emails": "Analytics, Developer communications",
+                        "Other in-app messages": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Device or other IDs": "App functionality, Analytics"
+                    }
+                ]
+            },
+            {
+                "Audio": "Voice or sound recordings, Music files, and Other audio files",
+                "Data collected and for what purpose": [
+                    {
+                        "Voice or sound recordings": "App functionality",
+                        "Music files": "App functionality",
+                        "Other audio files": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Photos and videos": "Photos and Videos",
+                "Data collected and for what purpose": [
+                    {
+                        "Photos": "App functionality",
+                        "Videos": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name, Email address, and User IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Name": "App functionality, Analytics",
+                        "Email address": "App functionality, Analytics, Account management",
+                        "User IDs": "App functionality, Analytics"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data isn’t encrypted": "Your data isn’t transferred over a secure connection"
+            },
+            {
+                "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

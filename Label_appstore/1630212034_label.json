@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "id": "1630212034",
+            "type": "apps",
+            "href": "/v1/catalog/ie/apps/1630212034?l=en-GB",
+            "attributes": {
+                "privacyDetails": {
+                    "managePrivacyChoicesUrl": "https://www.rollicgames.com/privacy",
+                    "privacyTypes": []
+                }
+            },
+            "relationships": {
+                "developer": {
+                    "href": "/v1/catalog/ie/apps/1630212034/developer?l=en-GB",
+                    "data": [
+                        {
+                            "id": "1452111779",
+                            "type": "developers",
+                            "href": "/v1/catalog/ie/developers/1452111779?l=en-GB"
+                        }
+                    ]
+                },
+                "genres": {
+                    "href": "/v1/catalog/ie/apps/1630212034/genres?l=en-GB",
+                    "data": []
+                }
+            },
+            "meta": {
+                "contentVersion": {
+                    "MZ_INDEXER": 1740739151515,
+                    "RTCI": 1731360493303
+                }
+            }
+        }
+    ]
+}

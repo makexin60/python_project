@@ -1,0 +1,59 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "Files and docs": "Files and docs",
+                "Data shared and for what purpose": [
+                    {
+                        "Files and docs": "App functionality, Analytics"
+                    }
+                ]
+            },
+            {
+                "App activity": "Installed apps",
+                "Data shared and for what purpose": [
+                    {
+                        "Installed apps": "App functionality, Analytics"
+                    }
+                ]
+            },
+            {
+                "Contacts": "Contacts",
+                "Data shared and for what purpose": [
+                    {
+                        "Contacts": "App functionality, Analytics"
+                    }
+                ]
+            },
+            {
+                "Photos and videos": "Photos and Videos",
+                "Data shared and for what purpose": [
+                    {
+                        "Photos": "App functionality, Analytics",
+                        "Videos": "App functionality, Analytics"
+                    }
+                ]
+            },
+            {
+                "Audio": "Voice or sound recordings, Music files, and Other audio files",
+                "Data shared and for what purpose": [
+                    {
+                        "Voice or sound recordings": "App functionality, Analytics",
+                        "Music files": "App functionality, Analytics",
+                        "Other audio files": "App functionality, Analytics"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "No data collected ( The developer says this app doesn’t collect user data )": []
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            }
+        ]
+    }
+]

@@ -1,0 +1,129 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "Personal info": "Email address and User IDs",
+                "Data shared and for what purpose": [
+                    {
+                        "Email address": "Analytics, Advertising or marketing",
+                        "User IDs": "Analytics, Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data shared and for what purpose": [
+                    {
+                        "Device or other IDs": "Analytics, Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "Financial info": "Purchase history",
+                "Data shared and for what purpose": [
+                    {
+                        "Purchase history": "Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+                "Data shared and for what purpose": [
+                    {
+                        "Crash logs": "Analytics",
+                        "Diagnostics": "Analytics, Advertising or marketing",
+                        "Other app performance data": "Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions, In-app search history, and Other actions",
+                "Data shared and for what purpose": [
+                    {
+                        "App interactions": "Analytics, Advertising or marketing",
+                        "In-app search history": "Analytics, Advertising or marketing",
+                        "Other actions": "Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "Location": "Approximate location and Precise location",
+                "Data shared and for what purpose": [
+                    {
+                        "Approximate location": "Advertising or marketing",
+                        "Precise location": "Advertising or marketing"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "Personal info": "Email address, User IDs, and Other info",
+                "Data collected and for what purpose": [
+                    {
+                        "Email address": "Analytics, Advertising or marketing",
+                        "User IDs": "Analytics, Advertising or marketing",
+                        "Other info": "Analytics"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Device or other IDs": "Analytics, Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "Financial info": "Purchase history",
+                "Data collected and for what purpose": [
+                    {
+                        "Purchase history": "Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+                "Data collected and for what purpose": [
+                    {
+                        "Crash logs": "Analytics",
+                        "Diagnostics": "Analytics, Advertising or marketing",
+                        "Other app performance data": "Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions, In-app search history, and Other actions",
+                "Data collected and for what purpose": [
+                    {
+                        "App interactions": "Analytics, Advertising or marketing",
+                        "In-app search history": "Analytics, Advertising or marketing",
+                        "Other actions": "Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "Location": "Approximate location and Precise location",
+                "Data collected and for what purpose": [
+                    {
+                        "Approximate location": "Advertising or marketing",
+                        "Precise location": "Advertising or marketing"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            },
+            {
+                "Data can’t be deleted": "The developer doesn’t provide a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

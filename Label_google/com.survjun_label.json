@@ -1,0 +1,68 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "App activity": "Installed apps",
+                "Data shared and for what purpose": [
+                    {
+                        "Installed apps": "Analytics, Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Phone number",
+                "Data shared and for what purpose": [
+                    {
+                        "Phone number": "App functionality, Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "Audio": "Voice or sound recordings",
+                "Data shared and for what purpose": [
+                    {
+                        "Voice or sound recordings": "Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "Photos and videos": "Photos",
+                "Data shared and for what purpose": [
+                    {
+                        "Photos": "Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "Location": "Approximate location and Precise location",
+                "Data shared and for what purpose": [
+                    {
+                        "Approximate location": "Analytics, Personalization",
+                        "Precise location": "App functionality, Analytics"
+                    }
+                ]
+            },
+            {
+                "Web browsing": "Web browsing history",
+                "Data shared and for what purpose": [
+                    {
+                        "Web browsing history": "Analytics, Advertising or marketing, Personalization"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "No data collected ( The developer says this app doesn’t collect user data )": []
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            },
+            {
+                "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

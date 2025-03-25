@@ -1,0 +1,58 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+                "Data shared and for what purpose": [
+                    {
+                        "Crash logs": "App functionality, Analytics",
+                        "Diagnostics": "App functionality, Analytics",
+                        "Other app performance data": "App functionality, Analytics"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions and Installed apps",
+                "Data shared and for what purpose": [
+                    {
+                        "App interactions": "App functionality, Analytics",
+                        "Installed apps": "App functionality, Analytics"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+                "Data collected and for what purpose": [
+                    {
+                        "Crash logs · Optional": "App functionality, Analytics",
+                        "Diagnostics · Optional": "App functionality, Analytics",
+                        "Other app performance data · Optional": "App functionality, Analytics"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions and Installed apps",
+                "Data collected and for what purpose": [
+                    {
+                        "App interactions · Optional": "App functionality, Analytics",
+                        "Installed apps · Optional": "App functionality, Analytics"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            },
+            {
+                "Data can’t be deleted": "The developer doesn’t provide a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

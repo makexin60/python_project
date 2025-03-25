@@ -133,16 +133,18 @@ Detects how the user reached the website by registering their last URL-address.
 _fbp [x3]
 Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
 Google
-6
+11
 Learn more about this provider
 Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
+IDE
+Pending
 NID
 Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.
 pagead/1p-user-list/#
 Tracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites. This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites.
-_ga
+_ga [x3]
 Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.
-_ga_#
+_ga_# [x3]
 Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.
 _gcl_au [x2]
 Used by Google AdSense for experimenting with advertisement efficiency across websites using their services.
@@ -184,7 +186,7 @@ Collects information on user behaviour on multiple websites. This information is
 guest_id_marketing
 Collects information on user behaviour on multiple websites. This information is used in order to optimize the relevance of advertisement on the website.
 YouTube
-21
+22
 Learn more about this provider
 #-#
 Used to track user’s interaction with embedded content.
@@ -212,6 +214,8 @@ YSC
 Pending
 yt.innertube::nextId
 Registers a unique ID to keep statistics of what videos from YouTube the user has seen.
+ytidb::LAST_RESULT_ENTRY_KEY
+Used to track user’s interaction with embedded content.
 YtIdbMeta#databases
 Used to track user’s interaction with embedded content.
 yt-remote-cast-available
@@ -229,13 +233,8 @@ Stores the user's video player preferences using embedded YouTube video
 yt-remote-session-name
 Stores the user's video player preferences using embedded YouTube video
 Unclassified
-8
+11
 Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
-TikTok
-1
-Learn more about this provider
-parameter_inference_rule
-Pending
 cdn.jsdelivr.net
 1
 65770a86c79dc5a4af1fa5f2#pages
@@ -247,12 +246,19 @@ Pending
 selector-shown
 Pending
 s.axon.ai
-4
+6
 _applovin_pixel_version
 Pending
 _axsid
 Pending
 _axwrt [x2]
+Pending
+ax_visitor [x2]
+Pending
+www.zing-gym.coach
+zingcoach.fit
+2
+ZING_GEOLOCATION_DATA [x2]
 Pending
 Cross-domain consent
 5
@@ -263,7 +269,7 @@ portal.zing.coach
 www.zing.coach
 www.zing-gym.coach
 zingcoach.fit
-Cookie declaration last updated on 2/10/25 by
+Cookie declaration last updated on 3/10/25 by
 Cookiebot
 [#IABV2_TITLE#]
 [#IABV2_BODY_INTRO#]
@@ -285,10 +291,1582 @@ You can at any time change or withdraw your consent from the Cookie Declaration 
 Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.
 Please state your consent ID and date when you contact us regarding your consent.
 Do not sell or share my personal information
-Deny
-Allow selection
-Customize
 Allow all
+Customize
+Allow selection
+Deny
+Privacy Policy
+Effective date: March 11, 2025
+This Privacy Policy explains how Zing Coach Inc. (further will be referred as “
+we
+” or “
+us
+”) collects, stores, uses and protects your personal data in connection with your use of our website https://zing.coach/ (or its related pages such as, but not limited to, https://zing-gym.coach/) (the “
+Website
+”) and our application Zing Coach (the “
+App
+”, and together with the Website referred to as the
+“Services
+”). This policy also explains the rights you have in respect of your personal data and the practices we implement to protect your privacy.
+1. Personal Data We Collect
+Personal data that you provide:
+General details
+. This includes your name, email, your age, account credentials, subscription details, transaction history. You may also choose to provide information about your gender.
+Communication information
+. If you communicate with us, via support channels, we collect and process your name, contact information, and contents of any messages you send.
+Account photo.
+This is the photo you voluntarily decide to upload as your profile picture.
+Social media information
+. We have pages on social media sites like Instagram. When you interact with our social media pages, we will collect the personal data that you choose to provide to us. Additionally, the companies that host our social media pages may provide us with aggregate information and analytics about our social media activity.
+Health and well-being data
+.
+When you use the Services, you may choose to input personal data about you, such as your weight; height; body mass index (BMI, a value derived from the mass and height of a person); your physical parameters; information about your workout habits; any injuries you may have. With your consent, you may also allow us to connect to third-party services, such as Apple HealthKit or Google Health Connect, to enable us to import information about your health and activities into the App. Such imported data may include information about your fitness activities, weight, height, BMI, calories burnt, heart rate, number of steps/distance traveled, data about your menstrual cycles (if applicable). We will process these data to provide you with App functionality and features. Importing such data is subject to the Google Health Connect and Apple HealthKit privacy policies and terms.
+AI Assistant conversations
+. When you use our AI Assistant in the App or through the messengers where we make the AI Assistant available, we store the conversations.
+Body Scan photos
+. To be provided with Body Scan reports, you may share with us the photos of your body. Further, with your consent, you may allow us to use your Body Scan photos for the purpose of Services improvement: for example, to train the models that power AI Body Scan feature. You can withdraw your consent any time by contacting us at
+support@zing.coach
+, and we will stop using your future Body Scan photos for that purpose.
+Personal data that we receive automatically from your use of the Services:
+Log data
+. It means the information that your browser automatically sends whenever you use our Website, or whenever you access the App. It includes the IP address, browser type, date and time of your access.
+Usage details
+. It includes the features you use and your actions within the Services, as well as your time zone, country, dates and times of access, operating system information.
+Device information
+. It includes model and type of your device, unique device identifiers, and operating system information.
+Movements during the workout
+. This means that we mark your image with certain dots to give you feedback about your results during the workout. These data are processed on your device. After the workout, we store the information about the marked dots to our servers to analyze if the technology works well and if the users fit into the screen. To avoid any doubt, we do not get access to the actual videos of your workout, but just to the dots marking your movements. These dots may be considered biometric data in some jurisdictions. We will destroy these data as soon as the purpose of data collection is satisfied.
+AI Body Scan information
+. When you request a body composition report, we analyze the photos of your body that you choose to upload, including the information we get from the analysis, like your body position, orientation, topology, and other elements of the photo. We use this information only for the purpose of the body composition report and delete the photos and the information right after we generate the body composition report. Upon your explicit consent, however, we may store your photos and the information we get from the photos for up to one month and use them to improve our body composition function.
+Details about your in-app purchases
+. This may include, for example, details of the time you made certain purchases and your subscription details.
+Cookies and similar technologies
+.
+We use cookies and similar technologies to operate and administer the Services and improve your experience there. For details, please read Section “Cookies, Software Development Kits, and Other Tracking Technologies” below.
+Personal data that we receive from other sources:
+We receive information from our trusted partners, such as security partners to protect against fraud, abuse, and other security threats to our Services or marketing vendors who provide us with information about potential customers of our business services.
+All the information above is your
+personal data
+, and we call it this way throughout the privacy policy.
+2. Purposes of Processing
+We process your personal data for the following purposes:
+To provide you with and maintain our Services: It includes the creation of a personalized workout plan for you or making adjustments to it; communication with AI Assistant, which is powered by GPT API (developed by OpenAI); making Body Scans.
+To improve and develop our Services and new features and conduct research.
+To check if your age allows you to use the App.
+To provide you with customer support and respond to your inquiries.
+To send you service emails, including security alerts or transaction confirmations.
+Upon your consent, where required, to send you marketing information about our Services, promotions, insights. You can opt-out from receiving marketing emails by following the “Unsubscribe” link in the email or by contacting us at
+support@zing.coach
+.
+To integrate data between the Website and the App in connection with onboarding users.
+Upon your consent, where required, to find audiences similar to our users. For this processing, we may share, among others, details of your use of the App (e.g., the fact that you work out with the App), your device information, and details of your subscription purchase with our third-party advertising partners like AppsFlyer.
+To prevent misuse of our Services and to ensure the security of our IT systems, architecture, and networks.
+To comply with legal obligations and protect the rights, privacy, safety, or property of our users, us, our affiliates, or any third party.
+To anonymize your personal data.
+Aggregated or de-identified information.
+We aggregate or de-identify your personal data so that it can no longer be used to identify you and use this information to:
+conduct scientific research, or
+analyze the effectiveness of the Services,
+improve and add features to our Services, and
+for such other similar purposes.
+From time to time, we may share or publish aggregated information like general user statistics with third parties, including research institutions. We will maintain and use de-identified information in anonymous or de-identified form and we will not attempt to re-identify the information unless required by law.
+We will not sell or rent your personal data for monetary gain.
+We will not disclose your personal data except as otherwise described in this Privacy Policy. We will share your personal data with our service providers who support our services as described in this Privacy Policy. We will also not use information received through your use of the Apple HealthKit or Google Health Connect framework for advertising or similar services, or sell it to advertising platforms, data brokers, or information resellers.
+For iOS users
+. Consent to sharing Usage details with Apple for refund purposes. By using our App and making in-app purchases, you consent to our sharing of data regarding your usage and consumption of purchased content with Apple, as part of our efforts to resolve refund requests. This information may include details about how you have accessed and interacted with the purchased content. The purpose of sharing this data is to help Apple make an informed decision regarding refund requests. We ensure that such data sharing is done in compliance with Apple's policies and only as necessary to process your requests.
+3. Legal Bases for Processing (for EU, EEA, UK, or Swiss Users)
+When we process your personal data for the purposes described above, we rely on the following legal bases:
+3.1. Purpose of processing:
+To provide and maintain our Services
+‍
+Type of personal data processed:
+General details
+Account photo
+Health and wellbeing data
+Communication information
+Conversations with AI Assistant
+Log data
+Usage details
+Device information
+Cookies and similar technologies
+Details about
+Legal basis:
+Where necessary to perform a contract with you, such providing you with a personalized workout plan, or enabling communications with AI Assistant, or performing Body Scans for you. For processing of your health and wellbeing data, we rely on your consent.
+3.2. Purpose of processing:
+To improve and develop our Services and features and conduct research
+Type of personal data processed:
+General details
+Communication information
+Conversations with AI Assistant (de-identified)
+Body Scan photos
+Log data
+Usage details
+Device information
+Movements during workout
+AI Body Scan information
+Cookies and similar technologies
+Data we receive from other sources
+Legal basis:
+Where necessary for our legitimate interests, including in developing and improving, such as when we train our models or improve the App for your future experience. For use of your Body Scan photos, we reply on your consent.
+3.3. Purpose of processing:
+To check if your age allows you to use the App
+Type of personal data processed:
+General details
+Legal basis:
+Where necessary to perform a contract with you, such providing you with our services only if you meet the age threshold.
+3.4. Purpose of processing:
+To provide you with customer support and respond to your inquiries
+Type of personal data processed:
+General details
+Communication information
+Social Media Information
+Log data
+Usage details
+Device information
+Legal basis:
+Where necessary for our legitimate interests, in particular in supporting your customer journey.
+3.5. Purpose of processing:
+To send you service emails, including security alerts or transaction confirmations
+Type of personal data processed:
+General details
+Communication information
+Log data
+Usage details
+Device information
+Legal basis:
+Where necessary to comply with an obligation arising out of a contract between us or out of applicable laws.
+3.6. Purpose of processing:
+To send you marketing information about our Services, promotions, insights
+Type of personal data processed:
+General details
+Communication information
+Social Media Information
+Log data
+Usage details
+Device information
+Legal basis:
+Your consent where we ask for it to process your personal data for a specified purpose.
+3.7. Purpose of processing:
+To integrate data between the Website and the App in connection with onboarding users
+Type of personal data processed:
+General details
+Log data
+Usage details
+Device information
+Legal basis:
+It’s our legitimate interest to ensure your smooth use of the Services.
+3.8. Purpose of processing:
+To find audiences similar to our users
+Type of personal data processed:
+General details
+Log data
+Usage details
+Device information
+Legal basis:
+With your consent, we may share some of your non-health personal data with AppsFlyer or similar services to promote our Services.
+3.9. Purpose of processing:
+To prevent misuse of our Services and to ensure the security of our IT systems, architecture, and networks
+Type of personal data processed:
+General details
+Communication information
+Social media information
+Conversations with AI Assistant
+Log data
+Usage details
+Device information
+Details about in-app purchases
+Cookies and similar technologies
+Legal basis:
+Where necessary to comply with a legal obligation. Where we are not under a specific legal obligation, where necessary for our legitimate interests and those of third parties, including in protecting our Services from abuse, fraud, or security risks, such as processing data from security partners to protect against fraud, abuse, and security threats in our Services.
+3.10. Purpose of processing:
+To comply with legal obligations and protect the rights, privacy, safety, or property of our users, us, our affiliates, or any third party
+Type of personal data processed:
+General details
+Communication information
+Social media information
+Conversations with AI Assistant
+Log data
+Usage details
+Device information
+Details about in-app purchases
+Cookies and similar technologies
+Legal basis:
+Where necessary to comply with a legal obligation. Where we are not under a specific legal obligation, where necessary for our legitimate interests and those of third parties, including in protecting our Services from abuse, fraud, or security risks, such as processing data from security partners to protect against fraud, abuse, and security threats in our Services.
+3.11. Purpose of processing:
+To anonymize your personal data
+Type of personal data processed:
+Health and wellbeing data
+Data we receive from other sources
+Usage details
+Legal basis:
+Where necessary for our legitimate interests, such as when we use it to:
+conduct scientific research, or
+analyze the effectiveness of the Services, or
+improve and add features to our Services, or
+for such other similar purposes.
+4. Additional U. S. State Disclosures
+4.1. Category of personal data:
+Identifiers, such as name, unique personal identifier, online identifier, IP address, email address, or account name
+Categories of sources from which collected:
+Directly from you or automatically when you use the Services
+Business or Commercial Purpose for Collecting Personal Information:
+To present you with the App and its contents and any other information, products or services that you request from us.
+To carry out our obligations and enforce our rights arising from any contracts entered into between you and us in relation to the Services.
+To customize our product and service offerings to you, for example, offering pricing personalization and discounts.
+To communicate with you, such as to notify you about changes to the Services or any products or services we offer or provide through the App, provide you with customer or technical support, and monitor and improve our responses to your and other users’ inquiries
+To conduct research, analytics and monitor performance and other metrics regarding the Services and your use of the Services.
+To improve, test, and monitor the effectiveness of the Services.
+To provide personalized content and information to you in relation to the App, and so that we, and third parties on which we rely, can advertise to you.
+To send marketing and promotional communications to you.
+In any other way as we may describe when you provide the information or otherwise at your direction or with your consent.
+As permitted or required by law, including for auditing, fraud and security monitoring purposes.
+Categories of Third Parties and Other Entities To Whom We May Disclose:
+To our affiliates, contractors, vendors and service providers to process in accordance with our instructions.
+to parties involved in strategic transactions, reorganization, bankruptcy, receivership, or transition of a service to another provider.
+In response to legal requests and for purposes of preventing harm.
+4.2. Category of personal data:
+Characteristics of Protected Classifications, such as gender
+Categories of sources from which collected:
+Directly from you
+Business or Commercial Purpose for Collecting Personal Information:
+To present to you with the App and its contents and any other information, products or services that you request from us.
+To carry out our obligations and enforce our rights arising from any contracts entered into between you and us in relation to the Services.
+In any other way as we may describe when you provide the information or otherwise at your direction or with your consent.
+As permitted or required by law, including for auditing, fraud and security monitoring purposes.
+Categories of Third Parties and Other Entities To Whom We May Disclose:
+To our affiliates, contractors, vendors and service providers to process in accordance with our instructions.
+To parties involved in strategic transactions, reorganization, bankruptcy, receivership, or transition of a service to another provider.
+In response to legal requests and for purposes of preventing harm.
+4.3. Category of personal data:
+Commercial information, such as records of products or services purchased, obtained or considered, or other purchasing or consuming histories of tendencies
+Categories of sources from which collected:
+Automatically when you use the Services
+Business or Commercial Purpose for Collecting Personal Information:
+To present you with the App and its contents and any other information, products or services that you request from us.
+To carry out our obligations and enforce our rights arising from any contracts entered into between you and us in relation to the Services.
+To customize our product and service offerings to you, for example, offering pricing personalization and discounts.
+To communicate with you, such as to notify you about changes to the Services or any products or services we offer or provide through the App, provide you with customer or technical support, and monitor and improve our responses to your and other users’ inquiries
+To conduct research, analytics and monitor performance and other metrics regarding the Services and your use of the Services.
+To improve, test, and monitor the effectiveness of the Services.
+To provide personalized content and information to you in relation to the App, and so that we, and third parties on which we rely, can advertise to you.
+To send marketing and promotional communications to you.
+In any other way as we may describe when you provide the information or otherwise at your direction or with your consent.
+As permitted or required by law, including for auditing, fraud and security monitoring purposes.
+Categories of Third Parties and Other Entities To Whom We May Disclose:
+To our affiliates, contractors, vendors and service providers to process in accordance with our instructions.
+to parties involved in strategic transactions, reorganization, bankruptcy, receivership, or transition of a service to another provider.
+In response to legal requests and for purposes of preventing harm.
+4.4. Category of personal data:
+Internet or other electronic network activity information, such as information regarding interaction with an app or advertisement
+Categories of sources from which collected:
+Automatically when you use the Services
+Business or Commercial Purpose for Collecting Personal Information:
+To present you with the App and its contents and any other information, products or services that you request from us.
+To carry out our obligations and enforce our rights arising from any contracts entered into between you and us in relation to the Services.
+To customize our product and service offerings to you, for example, offering pricing personalization and discounts.
+To communicate with you, such as to notify you about changes to the Services or any products or services we offer or provide through the App, provide you with customer or technical support, and monitor and improve our responses to your and other users’ inquiries
+To conduct research, analytics and monitor performance and other metrics regarding the Services and your use of the Services.
+To improve, test, and monitor the effectiveness of the Services.
+To provide personalized content and information to you in relation to the App, and so that we, and third parties on which we rely, can advertise to you.
+To send marketing and promotional communications to you.
+In any other way as we may describe when you provide the information or otherwise at your direction or with your consent.
+As permitted or required by law, including for auditing, fraud and security monitoring purposes.
+Categories of Third Parties and Other Entities To Whom We May Disclose:
+To our affiliates, contractors, vendors and service providers to process in accordance with our instructions.
+to parties involved in strategic transactions, reorganization, bankruptcy, receivership, or transition of a service to another provider.
+In response to legal requests and for purposes of preventing harm.
+4.5. Category of personal data:
+Geolocation data, such as the state or country associated with your IP address
+Categories of sources from which collected:
+Automatically when you use the Services
+Business or Commercial Purpose for Collecting Personal Information:
+To present you with the App and its contents and any other information, products or services that you request from us.
+To carry out our obligations and enforce our rights arising from any contracts entered into between you and us in relation to the Services.
+To customize our product and service offerings to you, for example, offering pricing personalization and discounts.
+To communicate with you, such as to notify you about changes to the Services or any products or services we offer or provide through the App, provide you with customer or technical support, and monitor and improve our responses to your and other users’ inquiries.
+To conduct research, analytics and monitor performance and other metrics regarding the Services and your use of the Services.
+To improve, test, and monitor the effectiveness of the Services.
+To provide personalized content and information to you in relation to the App, and so that we, and third parties on which we rely, can advertise to you.
+To send marketing and promotional communications to you.In any other way as we may describe when you provide the information or otherwise at your direction or with your consent.
+As permitted or required by law, including for auditing, fraud and security monitoring purposes.
+Categories of Third Parties and Other Entities To Whom We May Disclose:
+To our affiliates, contractors, vendors and service providers to process in accordance with our instructions.
+to parties involved in strategic transactions, reorganization, bankruptcy, receivership, or transition of a service to another provider.
+In response to legal requests and for purposes of preventing harm.
+4.6. Category of personal data:
+Visual, information, such the photos you upload to the App
+Categories of sources from which collected:
+Directly from you
+Business or Commercial Purpose for Collecting Personal Information:
+To present you with the App and its contents and any other information, products or services that you request from us.
+To generate body composition reports.
+To improve, test, and monitor the effectiveness of the Services.
+Categories of Third Parties and Other Entities To Whom We May Disclose:
+To our affiliates, contractors, vendors and service providers to process in accordance with our instructions.
+To parties involved in strategic transactions, reorganization, bankruptcy, receivership, or transition of a service to another provider.
+In response to legal requests and for purposes of preventing harm.
+4.7. Category of personal data:
+Inferences drawn from the information listed above to create a profile about a user reflecting their preferences, characteristics and other attributes
+Categories of sources from which collected:
+Directly from you or automatically when you use the Services
+‍
+Business or Commercial Purpose for Collecting Personal Information:
+To present you with the App and its contents and any other information, products or services that you request from us.
+To carry out our obligations and enforce our rights arising from any contracts entered into between you and us in relation to the Services.
+To customize our product and service offerings to you, for example, offering pricing personalization and discounts.
+To communicate with you, such as to notify you about changes to the Services or any products or services we offer or provide through the App, provide you with customer or technical support, and monitor and improve our responses to your and other users’ inquiries.
+To conduct research, analytics and monitor performance and other metrics regarding the Services and your use of the Services.
+To improve, test, and monitor the effectiveness of the Services.
+To provide personalized content and information to you in relation to the App, and so that we, and third parties on which we rely, can advertise to you.
+To send marketing and promotional communications to you.
+In any other way as we may describe when you provide the information or otherwise at your direction or with your consent.
+As permitted or required by law, including for auditing, fraud and security monitoring purposes.
+Categories of Third Parties and Other Entities To Whom We May Disclose:
+To our affiliates, contractors, vendors and service providers to process in accordance with our instructions.
+to parties involved in strategic transactions, reorganization, bankruptcy, receivership, or transition of a service to another provider.
+In response to legal requests and for purposes of preventing harm.
+4.8. Category of personal data:
+Information that may be sensitive personal data, such as gender, health and wellbeing information
+Categories of sources from which collected:
+Directly from you or from such other sources that you connect to the Services
+Business or Commercial Purpose for Collecting Personal Information:
+To present to you with the App and its contents and any other information, products or services that you request from us.
+To carry out our obligations and enforce our rights arising from any contracts entered into between you and us in relation to the Services.
+In any other way as we may describe when you provide the information or otherwise at your direction or with your consent.
+As permitted or required by law, including for auditing, fraud and security monitoring purposes.
+Categories of Third Parties and Other Entities To Whom We May Disclose:
+To our affiliates, contractors, vendors and service providers to process in accordance with our instructions.
+to parties involved in strategic transactions, reorganization, bankruptcy, receivership, or transition of a service to another provider.
+In response to legal requests and for purposes of preventing harm.
+‍
+Sharing personal data for cross-context behavioral advertising.
+We may share the following categories personal information with third-party ad-tech providers and others throughout the online advertising ecosystem for purposes of cross-context behavioral advertising:
+Identifiers
+Categories of personal information described in Cal. Civ. Code Section 1798.80(e)
+Commercial Information
+Internet or other electronic network activity information
+Geolocation data
+Inferences drawn from personal information such as preferences, characteristics and behaviors.
+You may have the right to opt-out of us sharing your personal information for cross-context behavioral advertising purposes.
+Other Rights: Notice to California Consumers.
+You have other rights under California’s “Shine the Light” law. California Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses’ practices related to disclosing personal information to third parties for the third parties’ direct marketing purposes. We do not disclose personal information to third parties for those third parties’ direct marketing purposes.
+5. Personal Data Retention
+We retain your personal data for as long as your account is active or for as long as it is necessary for the purposes of its collection and processing (e.g., for resolving disputes, for safety and security reasons, or for complying with our legal obligations).
+If you choose to deactivate your account, we retain your personal data for no longer than one month in case you decide to re-activate the Services. We also retain some of your information (General details, Details about in-app purchases, Communication information, your consent logs) as necessary to comply with our legal obligations, to resolve disputes and/or to enforce our agreements.
+We may also anonymize your personal data (so that it can no longer be associated with you) for scientific research or statistical purposes, as well as for the purpose of Services improvement and development. In this case, we may use this information indefinitely without further notice to you.
+6. Privacy Rights
+We want to make sure that you are fully aware of all your data protection rights and the ways you can exercise them. These rights may differ across countries.
+If you are EU, EEA or UK resident, you have the right to:
+Access your personal data and information relating to how it is processed.
+Transfer your personal data to a third party (right to data portability).
+Correct your personal data (through the App settings or by requesting us).
+Request deletion of your personal data.
+Restrict how we process your personal data (for example, in cases where you contest inaccuracy).
+To object to processing of your personal data for direct marketing at any time.
+To object to how we process your personal data when our processing is based on our legitimate interests.
+Withdraw your consent – where we rely on consent as the legal basis for processing at any time.
+Lodge a complaint with the data protection authority. You have the right to lodge a complaint with a local data protection authority in the country of your residence, where you work or where an alleged infringement of the applicable data protection law took place. Please see a list of EU member states’ supervisory authorities
+here
+, and the UK’s supervisory authority (ICO)
+here
+.
+Note that these rights may be limited: for example, if you ask us to delete information that we are required to retain by law or where we have compelling legitimate interests to keep.
+If you are a resident of countries other than EU, EEA or UK:
+Depending on location, individuals may have certain statutory right in relation to their personal data. For example, you may have the right to:
+Request the categories of personal data collected about you.
+Request the categories of sources from which your personal data is collected.
+Request the commercial purpose for collecting your personal data.
+Request the categories of third parties to whom personal data is disclosed, and the categories of personal data disclosed.
+Request the specific pieces of personal data collected about you.
+Request that personal data collected about you be deleted.
+Request that your inaccurate personal data be corrected.
+Request that we do not sell or share your personal data.
+How to exercise the rights:
+You can exercise some of the rights above through the App settings. If you are unable to exercise your rights through the App, please submit your request through
+support@zing.coach
+.
+If you make a request, typically we would perform it
+within one month
+. If we need any more time to help you exercise any of your rights, we will let you know.
+If your request is vague or unclear, we may engage into a conversation with you to understand your request better. We may also refuse to act on manifestly unfounded and excessive requests.
+We can ask you to prove your identity while exercising your data protection rights. This is made to ensure that you are indeed entitled to receive certain information and that no rights of third parties are violated by your request. If we can’t verify your request, we will not act on your request.
+You may submit a request through an authorized agent. If you do so, the agent must present signed written permission to act on your behalf and you may be required to independently verify your identity.
+7. Security Measures
+We take the protection of your personal data very seriously and we take reasonable and appropriate measures to protect them from loss, theft, misuse and unauthorized access, disclosure, alteration, and destruction.
+Among others, we utilize the following information security measures to protect your personal data:
+Encryption of your personal data in transit and in rest.
+Systematic vulnerability scanning and penetration testing.
+Protection of data integrity.
+Organizational and legal measures. For example, our employees have different levels of access to your personal data and only those in charge of data management get access to your personal data and only for limited purposes required for the operation of the application. We impose strict liability on our employees for any disclosures, unauthorized accesses, alterations, destructions, misuses of your personal data.
+Please understand that no security system is perfect and, as such, we cannot guarantee the absolute security of the Services, or that your information won’t be intercepted while being transmitted to us. In case your personal data got compromised due to a security breach, we will act promptly to identify the cause and take all reasonable steps to remedy the breach. We will inform you of the incident, if necessary, in connection with the applicable legislation.
+If you want to report a security incident related to our Services, please contact us at support@zing.coach.
+8. Children
+Our Services are not directed at, or intended for, children under 18 years old.
+If you are aware of anyone under 18 using the Services, please contact us at support@zing.coach and we will take the required steps to delete such information and/or delete the account.
+9. Sharing of Your Personal Data
+In some situations, we engage other companies to process your personal data on our behalf. We refer to these companies or service providers as “processors.”
+Processors are companies that help us run the Services, support our communication with you, or perform other App-related activities. They process certain personal data on our behalf to accomplish the goals related to the App functions and deliver the Services and associated activities. We remain responsible for any acts or omissions of our processors, and we enter into data processing contracts with them to the extent required by applicable law.
+Here are some of the main processors we rely on:
+1. Infrastructure & security
+‍
+Amazon Web Services, Inc. (USA)
+Auth0, Inc. (USA)
+Hetzner Online GmbH (Germany)
+Firebase (USA)
+2. Email & in-app communication
+SurveyMonkey, Inc. (USA)
+TypeForm (Spain)
+SendGrid (USA)
+3. Push messages
+Braze, Inc. (USA)
+4. AI Assistant communications
+OpenAI LLC (USA)
+5. Analytics tools
+Amplitude, Inc. (USA)
+Firebase (USA)
+EPPO (USA)
+Meta Events Manager (USA)
+6. User onboarding and data integration
+AppsFlyer, Inc. (USA)
+Services promotion
+AppsFlyer, Inc. (USA)
+7. Customer support
+Zendesk, Inc. (USA)
+8. Payments
+Apple, Inc. (USA)
+Adyen N. V. (the Netherlands)
+Stripe, Inc. (USA)
+Verify, Inc. (USA)
+9. Subscriptions management
+RevenueCat, Inc. (USA)
+Google (USA)
+10. Affiliates
+Palta People Ltd. (Cyprus) – technical maintenance and customer support.
+Palta UK Ltd. (UK) – technical maintenance and customer support.
+Palta Poland sp. z o. o. (Poland) - technical maintenance and customer support
+Transfers of personal data outside of the European Union, the European Economic Area, and the United Kingdom.
+Where required under the EEA GDPR, in case of transfers of personal data from the EEA to countries outside the EEA, where we cannot rely on adequacy decisions adopted by the European Commission (for more information, please see
+here
+) we ensure appropriate safeguards are in place to guarantee the continued protection of your personal data, particularly by signing the Standard Contractual Clauses of the European Commission (article 46(2)(c) GDPR). For more information on these Standard Contractual Clauses, please see
+here
+.
+Where required under the UK GDPR, in case of transfers of personal data to countries outside the United Kingdom, we ensure appropriate safeguards are in place to guarantee the continued protection of your personal data, particularly by signing the UK Addendum to the EU Standard Contractual Clauses or the UK International Data Transfer Agreement, whichever is more appropriate in the given situation. For more information on the UK Addendum and the UK International Data Transfer Agreement please see
+here
+. We may also guarantee the protection of your personal data by relying on adequacy decisions adopted or approved by the authorities in the United Kingdom.
+10. Cookies, Software Development Kits, and Other Tracking Technologies
+When you use our Services, we and our service providers, vendors, and partners, including third parties, may use cookies (a small text file placed on your computer or mobile device to identify your computer and web browser) and other similar technologies to collect or receive certain information about you and/or your use of our Services. However, it’s not only cookies that can be used in this way. Functions performed by a cookie can be achieved by other means, too. This Section, therefore, also applies to any similar technology that stores or accesses information on your device. This could include, for example, HTML5 local storage, local shared objects, beacons, pixels, and plug-ins. We also use third-party analytics tools (such as, but not limited to, AppsFlyer, Meta Events Manager, Firebase) to help us measure traffic and usage trends of our Services, as well as for other analytics purposes. Such analytics tools collect information via third-party SDKs incorporated into the Services, which includes information about features of the App you visit or use, your actions in the App, and information about your subscription. Such information may be used to provide content, advertising, or functionality. Third parties may also use such information for their own purposes.
+For the avoidance of doubt, we do not use health and wellbeing data for advertising purposes.
+Cookies.
+Generally, there are many different ways to classify cookies. Most common ways are classification by duration, by provenance and by purpose.
+Classified by their duration, there are Session and Persistent cookies.  Session cookies expire once you close your browser (or once your session ends). Persistent cookies are stored on your hard drive until you erase them or until your browser erases them, depending on the cookie’s expiration date. All cookies have an expiration date, which is commonly embedded into their code. We use both session cookies and persistent cookies.
+Classified by their provenance, there are first-party and third-party cookies. First-party cookies refer to cookies that Zig Coach sets and uses directly. Third-party cookies refer to cookies set by third parties (such as our analytics providers) through our Website or via server cookies.
+Classified by their purpose, we use Strictly Necessary, Performance and Marketing cookies.
+Strictly Necessary cookies.
+These cookies are strictly necessary to provide you with the Website and the features you have requested, such as to allow you to log into secure areas of the Website. Because these cookies are essential for the Website and the features you have requested to work, you cannot reject them. We use such cookies for the following essential purposes:
+Functionality: Optimizing and improving access to the Website
+Security: Preventing fraud and detecting nonhuman (bot) traffic, including authentication and secure logins
+Cookie consent: Remembering your cookie consent preferences
+Analysis: Traffic scheduling and network distribution
+Billing: The ability to make payments
+As explained above, these cookies are strictly necessary to operate our Websites and cannot be declined. Some of these cookies have a maximum duration of 13 months.
+‍
+Performance cookies.
+We use analytics and performance cookies to analyze how you use the Website. This helps us to:
+See which pages you view most often
+Analyze which region you are visiting the Website from
+Observe how you interact with the content
+Measure any errors that occur
+Test different design ideas
+The above information is used to report and evaluate your activities and patterns as a user of the Website. Some of these cookies have a maximum duration of 13 months.
+‍
+Marketing cookies.
+These cookies help us reach you and more people like you to spread the word about the App, as well as analyze whether we do that effectively.
+Zing Coach does not use cookies to collect or analyze your health information for marketing purposes.
+We use marketing cookies to analyze and improve our marketing campaigns. This helps us to:
+Improve our marketing campaigns, including tracking ad conversions
+Identify paid search keywords
+Identify the source of traffic to the Website, such as search engine, social media, or specific website
+Analyze which region you are visiting the Website from
+See how you interact with the content
+Software Development Kits (SDKs).
+SDKs are third-party software development kits that may be installed in our mobile application. SDKs help us understand how you interact with our App and collect certain information about the device and network you use to access the application. Our App is never used to present you with third-party advertising. You can browse with full confidence in the protection of your privacy. Access is requested with the purpose of enabling the use of our services and improving their functioning. Certain SDKs, where legally required, are subject to a prior consent request and the possibility of withdrawing this consent. Zing Coach services may still be used even in the event of refusal or withdrawal of consent.
+AppsFlyer SDK: Facilitates measurement of performance and analysis of customer acquisition campaigns. Further information about AppsFlyer SDK is available at
+https://www.appsflyer.com/product/security-and-privacy/
+.
+You can deactivate this data processing at any time via
+https://www.appsflyer.com/optout
+. In order to do so, you must have the Identifier for Advertisers (IDFA) of your mobile device. You can also withdraw your consent for the collection of data for targeted advertising or sharing their data with third-party advertisers through your device’s settings.
+Advertising ID.
+You can tailor your device settings to control your advertising ID:
+On Apple devices, you can enable the “Limit Ad Tracking” setting in your device settings.
+On Android devices, you can enable the “Opt out of Ads Personalization” in your device settings.
+Interest-based Advertising.
+We may partner with ad networks and other ad-serving providers that serve ads on behalf of us and others on non-affiliated platforms. Some of those ads may be personalized, meaning that they are intended to be relevant to you based on information ad networks and ad serving providers collect about your use of the App over time, including information about relationships among different browsers and devices. This type of advertising is known as interest-based advertising.
+Your Choices.
+Most browsers and devices are configured to accept cookies and similar tracking technologies automatically. You may be able to set your browser and device options so as to limit such technologies. You can visit the Digital Advertising Alliance (“DAA”) Webchoices tool at
+www.aboutads.info
+to learn more about this interest-based advertising and how to opt out of this kind of advertising by companies participating in the DAA self-regulatory program, and
+http://www.aboutads.info/appchoices
+for information on the DAA’s mobile app opt-out program. You can also opt out of receiving interest-based ads from members of the Network Advertising Initiative (“NAI”) by visiting the NAI consumer opt-out page at
+http://optout.networkadvertising.org/?c=1#!/
+. Opting out of receiving interest-based ads does not mean that you will no longer receive ads from us, but rather that the ads will not be tailored to your perceived interests. To opt out of being tracked by Google Analytics across all websites, visit http://tools.google.com/dlpage/gaoptout.
+For users in the European Economic Area, United Kingdom, and United States.
+You can manage the collection and processing of Personal Data via cookies, SDKs, and other tracking technologies by contacting us at
+support@zing.coach
+.
+You may find that some parts of the App may not function properly if you have refused cookies or similar tracking technologies, and you should be aware that disabling cookies or similar tracking technologies may prevent you from accessing some of our content. Your choices are typically device and browser-specific.
+11. Your Choices About Our Communications
+If you are using our Services, you may receive electronic communications from us (e.g., by posting in-app notices, via push notifications or emails). We send some of these communications to you, such as those related to your subscriptions, technical and security notices, and updates to the Privacy Policy and Terms of Use, where necessary to perform our contract with you to provide the App or otherwise based on our legitimate interest in contacting you.
+If required by law, we will ask for your consent to send you promotional and marketing emails, in-app communications, and push notifications about new products, features, or offers related to our Services.
+Marketing & Promotional Emails.
+If you wish to stop receiving our promotional and marketing emails, you can do so by following the “Unsubscribe” links in any marketing email sent to you.
+Push Notifications
+. If you wish to stop receiving push notifications, you can do so through your mobile device settings by tapping “Settings” -> “Notifications” -> Choose Zing Coach -> press the toggle to allow or forbid push notifications from the App.
+12.
+Changes to Our Privacy Policy
+The date this privacy policy was last reviewed is indicated at the top of the page. We may modify or update this privacy policy from time to time. Some changes do not require your consent: for example, when we add a new purpose of processing that is compatible with the existing purposes, or the new processing activity that falls under the users’ reasonable expectation. However, if the changes made may pose risk to your rights and freedoms (for example, by including a new purpose of the processing that is not compatible with the existing purposes of processing, a new legal basis, or a new category of personal data to be collected or a new data subject, all of which are not reasonably expected by the users), we will ask for your consent to those changes separately from this privacy policy. If you did not receive a request for your consent to the changes or refused to give consent, those changes will not apply to you. That fact can negatively affect some of our Services provided to you if those Services inevitably include consent to the changes.
+Link to the privacy policy, October 8, 2024
+Link to the privacy policy, May 30, 2024
+Link to the privacy policy, March 15, 2024
+Link to the privacy policy, March 1, 2024
+Link to the privacy policy, Nov 6, 2023
+Link to the privacy policy, June 12, 2023
+Link to the privacy policy, May 9, 2022
+Link to the privacy policy, March 1, 2021
+‍
+13. Contact Us
+Zing Coach, Inc.
+Email:
+support@zing.coach
+Our DPO:
+privacy@palta.com
+(
+please, indicate in the email subject that you are a Zing user
+).
+EU representative:
+‍
+‍
+privacy@palta.com
+(
+please indicate in the email subject that you are a Zing user
+).Consent
+Details
+[#IABV2SETTINGS#]
+About
+This website uses cookies
+We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.
+Consent Selection
+Necessary
+Preferences
+Statistics
+Marketing
+Show details
+Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
+Cookiebot
+4
+Learn more about this provider
+1.gif
+Used to count the number of sessions to the website, necessary for optimizing CMP product delivery.
+CookieConsent [x3]
+Stores the user's cookie consent state for the current domain
+Google
+1
+Learn more about this provider
+Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
+test_cookie
+Used to check if the user's browser supports cookies.
+Twitter Inc.
+1
+Learn more about this provider
+__cf_bm
+This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.
+cdn.amplitude.com
+www.zing-gym.coach
+zingcoach.fit
+3
+object(#-#-##:#:#.#) [x3]
+Holds the users timezone.
+cdn.jsdelivr.net
+1
+_cfuvid
+This cookie is a part of the services provided by Cloudflare - Including load-balancing, deliverance of website content and serving DNS connection for website operators.
+www.zing-gym.coach
+1
+__paypalPrimer_storage__
+Pending
+www.zing-gym.coach
+zingcoach.fit
+6
+@primer/analytics/https://analytics.production.data.primer.io/sdk-logs [x2]
+Pending
+GB_UUID [x2]
+Pending
+ZING_USER_NAME [x2]
+Pending
+zingcoach.fit
+cdn.amplitude.com
+www.zing-gym.coach
+3
+_tldtest_# [x3]
+Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
+Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+www.zing-gym.coach
+zingcoach.fit
+2
+i18nextLng [x2]
+Determines the preferred language of the visitor. Allows the website to set the preferred language upon the visitor's re-entry.
+Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+TikTok
+2
+Learn more about this provider
+_tt_enable_cookie [x2]
+Used by the social networking service, TikTok, for tracking the use of embedded services.
+Twitter Inc.
+1
+Learn more about this provider
+personalization_id
+This cookie is set by Twitter - The cookie allows the visitor to share content from the website onto their Twitter profile.
+cdn.amplitude.com
+4
+amplitude_unsent_#
+Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization.
+amplitude_unsent_identify_#
+Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization.
+amp_cookie_test# [x2]
+Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
+cdn.amplitude.com
+zingcoach.fit
+2
+amplitude_# [x2]
+Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
+cdn.amplitude.com
+zingcoach.fit
+www.zing-gym.coach
+3
+amp_# [x3]
+Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
+www.zing-gym.coach
+1
+amplitude_test#.#
+Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
+www.zing-gym.coach
+zingcoach.fit
+15
+amp_cookie_test [x3]
+Pending
+AMP_TEST [x2]
+Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
+AMP_unsent_# [x2]
+Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
+amplitude_unsent_0763c0413a774af78b020bf2355ee004_palta_data_platform [x2]
+Pending
+amplitude_unsent_identify_0763c0413a774af78b020bf2355ee004_palta_data_platform [x2]
+Pending
+gbFeaturesCache [x2]
+This cookie is used by the website’s operator in context with multi-variate testing. This is a tool used to combine or change content on the website. This allows the website to find the best variation/edition of the site.
+sentryReplaySession [x2]
+Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization.
+zingcoach.fit
+www.zing-gym.coach
+4
+AMP_# [x2]
+Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
+AMP_TLDTEST [x2]
+Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
+Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+Meta Platforms, Inc.
+5
+Learn more about this provider
+lastExternalReferrer
+Detects how the user reached the website by registering their last URL-address.
+lastExternalReferrerTime
+Detects how the user reached the website by registering their last URL-address.
+_fbp [x3]
+Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+Google
+11
+Learn more about this provider
+Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
+IDE
+Pending
+NID
+Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.
+pagead/1p-user-list/#
+Tracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites. This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites.
+_ga [x3]
+Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.
+_ga_# [x3]
+Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.
+_gcl_au [x2]
+Used by Google AdSense for experimenting with advertisement efficiency across websites using their services.
+Pinterest
+6
+Learn more about this provider
+_pinterest_ct_ua
+Used by Pinterest to track the usage of services.
+ar_debug
+Pending
+v3/
+Used by Pinterest to track the usage of services.
+is_eu
+Determines whether the user is located within the EU and therefore is subject to EU's data privacy regulations.
+_pin_unauth [x2]
+Used by Pinterest to track the usage of services.
+TikTok
+6
+Learn more about this provider
+tt_appInfo
+Used by the social networking service, TikTok, for tracking the use of embedded services.
+tt_pixel_session_index
+Used by the social networking service, TikTok, for tracking the use of embedded services.
+tt_sessionId
+Used by the social networking service, TikTok, for tracking the use of embedded services.
+_ttp [x3]
+Used by the social networking service, TikTok, for tracking the use of embedded services.
+Twitter Inc.
+6
+Learn more about this provider
+1/i/adsct [x2]
+Collects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant.
+muc_ads
+Collects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant.
+guest_id
+Collects data related to the user's visits to the website, such as the number of visits, average time spent on the website and which pages have been loaded, with the purpose of personalising and improving the Twitter service.
+guest_id_ads
+Collects information on user behaviour on multiple websites. This information is used in order to optimize the relevance of advertisement on the website.
+guest_id_marketing
+Collects information on user behaviour on multiple websites. This information is used in order to optimize the relevance of advertisement on the website.
+YouTube
+22
+Learn more about this provider
+#-#
+Used to track user’s interaction with embedded content.
+__Secure-ROLLOUT_TOKEN
+Pending
+iU5q-!O9@$
+Registers a unique ID to keep statistics of what videos from YouTube the user has seen.
+LAST_RESULT_ENTRY_KEY
+Used to track user’s interaction with embedded content.
+LogsDatabaseV2:V#||LogsRequestsStore
+Used to track user’s interaction with embedded content.
+nextId
+Used to track user’s interaction with embedded content.
+remote_sid
+Necessary for the implementation and functionality of YouTube video-content on the website.
+requests
+Used to track user’s interaction with embedded content.
+ServiceWorkerLogsDatabase#SWHealthLog
+Necessary for the implementation and functionality of YouTube video-content on the website.
+TESTCOOKIESENABLED
+Used to track user’s interaction with embedded content.
+VISITOR_INFO1_LIVE
+Pending
+YSC
+Pending
+yt.innertube::nextId
+Registers a unique ID to keep statistics of what videos from YouTube the user has seen.
+ytidb::LAST_RESULT_ENTRY_KEY
+Used to track user’s interaction with embedded content.
+YtIdbMeta#databases
+Used to track user’s interaction with embedded content.
+yt-remote-cast-available
+Stores the user's video player preferences using embedded YouTube video
+yt-remote-cast-installed
+Stores the user's video player preferences using embedded YouTube video
+yt-remote-connected-devices
+Stores the user's video player preferences using embedded YouTube video
+yt-remote-device-id
+Stores the user's video player preferences using embedded YouTube video
+yt-remote-fast-check-period
+Stores the user's video player preferences using embedded YouTube video
+yt-remote-session-app
+Stores the user's video player preferences using embedded YouTube video
+yt-remote-session-name
+Stores the user's video player preferences using embedded YouTube video
+Unclassified
+11
+Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
+cdn.jsdelivr.net
+1
+65770a86c79dc5a4af1fa5f2#pages
+Pending
+cdn.smartcat-proxy.com
+2
+scLang
+Pending
+selector-shown
+Pending
+s.axon.ai
+6
+_applovin_pixel_version
+Pending
+_axsid
+Pending
+_axwrt [x2]
+Pending
+ax_visitor [x2]
+Pending
+www.zing-gym.coach
+zingcoach.fit
+2
+ZING_GEOLOCATION_DATA [x2]
+Pending
+Cross-domain consent
+5
+Your consent applies to the following domains:
+List of domains your consent applies to:
+login.zing.coach
+portal.zing.coach
+www.zing.coach
+www.zing-gym.coach
+zingcoach.fit
+Cookie declaration last updated on 3/10/25 by
+Cookiebot
+[#IABV2_TITLE#]
+[#IABV2_BODY_INTRO#]
+[#IABV2_BODY_LEGITIMATE_INTEREST_INTRO#]
+[#IABV2_BODY_PREFERENCE_INTRO#]
+[#IABV2_LABEL_PURPOSES#]
+[#IABV2_BODY_PURPOSES_INTRO#]
+[#IABV2_BODY_PURPOSES#]
+[#IABV2_LABEL_FEATURES#]
+[#IABV2_BODY_FEATURES_INTRO#]
+[#IABV2_BODY_FEATURES#]
+[#IABV2_LABEL_PARTNERS#]
+[#IABV2_BODY_PARTNERS_INTRO#]
+[#IABV2_BODY_PARTNERS#]
+Cookies are small text files that can be used by websites to make a user's experience more efficient.
+The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.
+This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.
+You can at any time change or withdraw your consent from the Cookie Declaration on our website.
+Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.
+Please state your consent ID and date when you contact us regarding your consent.
+Do not sell or share my personal information
+Allow all
+Customize
+Allow selection
+Deny
+Privacy Policy
+Effective date: March 11, 2025
+This Privacy Policy explains how Zing Coach Inc. (further will be referred as “
+we
+” or “
+us
+”) collects, stores, uses and protects your personal data in connection with your use of our website https://zing.coach/ (or its related pages such as, but not limited to, https://zing-gym.coach/) (the “
+Website
+”) and our application Zing Coach (the “
+App
+”, and together with the Website referred to as the
+“Services
+”). This policy also explains the rights you have in respect of your personal data and the practices we implement to protect your privacy.
+1. Personal Data We Collect
+Personal data that you provide:
+General details
+. This includes your name, email, your age, account credentials, subscription details, transaction history. You may also choose to provide information about your gender.
+Communication information
+. If you communicate with us, via support channels, we collect and process your name, contact information, and contents of any messages you send.
+Account photo.
+This is the photo you voluntarily decide to upload as your profile picture.
+Social media information
+. We have pages on social media sites like Instagram. When you interact with our social media pages, we will collect the personal data that you choose to provide to us. Additionally, the companies that host our social media pages may provide us with aggregate information and analytics about our social media activity.
+Health and well-being data
+.
+When you use the Services, you may choose to input personal data about you, such as your weight; height; body mass index (BMI, a value derived from the mass and height of a person); your physical parameters; information about your workout habits; any injuries you may have. With your consent, you may also allow us to connect to third-party services, such as Apple HealthKit or Google Health Connect, to enable us to import information about your health and activities into the App. Such imported data may include information about your fitness activities, weight, height, BMI, calories burnt, heart rate, number of steps/distance traveled, data about your menstrual cycles (if applicable). We will process these data to provide you with App functionality and features. Importing such data is subject to the Google Health Connect and Apple HealthKit privacy policies and terms.
+AI Assistant conversations
+. When you use our AI Assistant in the App or through the messengers where we make the AI Assistant available, we store the conversations.
+Body Scan photos
+. To be provided with Body Scan reports, you may share with us the photos of your body. Further, with your consent, you may allow us to use your Body Scan photos for the purpose of Services improvement: for example, to train the models that power AI Body Scan feature. You can withdraw your consent any time by contacting us at
+support@zing.coach
+, and we will stop using your future Body Scan photos for that purpose.
+Personal data that we receive automatically from your use of the Services:
+Log data
+. It means the information that your browser automatically sends whenever you use our Website, or whenever you access the App. It includes the IP address, browser type, date and time of your access.
+Usage details
+. It includes the features you use and your actions within the Services, as well as your time zone, country, dates and times of access, operating system information.
+Device information
+. It includes model and type of your device, unique device identifiers, and operating system information.
+Movements during the workout
+. This means that we mark your image with certain dots to give you feedback about your results during the workout. These data are processed on your device. After the workout, we store the information about the marked dots to our servers to analyze if the technology works well and if the users fit into the screen. To avoid any doubt, we do not get access to the actual videos of your workout, but just to the dots marking your movements. These dots may be considered biometric data in some jurisdictions. We will destroy these data as soon as the purpose of data collection is satisfied.
+AI Body Scan information
+. When you request a body composition report, we analyze the photos of your body that you choose to upload, including the information we get from the analysis, like your body position, orientation, topology, and other elements of the photo. We use this information only for the purpose of the body composition report and delete the photos and the information right after we generate the body composition report. Upon your explicit consent, however, we may store your photos and the information we get from the photos for up to one month and use them to improve our body composition function.
+Details about your in-app purchases
+. This may include, for example, details of the time you made certain purchases and your subscription details.
+Cookies and similar technologies
+.
+We use cookies and similar technologies to operate and administer the Services and improve your experience there. For details, please read Section “Cookies, Software Development Kits, and Other Tracking Technologies” below.
+Personal data that we receive from other sources:
+We receive information from our trusted partners, such as security partners to protect against fraud, abuse, and other security threats to our Services or marketing vendors who provide us with information about potential customers of our business services.
+All the information above is your
+personal data
+, and we call it this way throughout the privacy policy.
+2. Purposes of Processing
+We process your personal data for the following purposes:
+To provide you with and maintain our Services: It includes the creation of a personalized workout plan for you or making adjustments to it; communication with AI Assistant, which is powered by GPT API (developed by OpenAI); making Body Scans.
+To improve and develop our Services and new features and conduct research.
+To check if your age allows you to use the App.
+To provide you with customer support and respond to your inquiries.
+To send you service emails, including security alerts or transaction confirmations.
+Upon your consent, where required, to send you marketing information about our Services, promotions, insights. You can opt-out from receiving marketing emails by following the “Unsubscribe” link in the email or by contacting us at
+support@zing.coach
+.
+To integrate data between the Website and the App in connection with onboarding users.
+Upon your consent, where required, to find audiences similar to our users. For this processing, we may share, among others, details of your use of the App (e.g., the fact that you work out with the App), your device information, and details of your subscription purchase with our third-party advertising partners like AppsFlyer.
+To prevent misuse of our Services and to ensure the security of our IT systems, architecture, and networks.
+To comply with legal obligations and protect the rights, privacy, safety, or property of our users, us, our affiliates, or any third party.
+To anonymize your personal data.
+Aggregated or de-identified information.
+We aggregate or de-identify your personal data so that it can no longer be used to identify you and use this information to:
+conduct scientific research, or
+analyze the effectiveness of the Services,
+improve and add features to our Services, and
+for such other similar purposes.
+From time to time, we may share or publish aggregated information like general user statistics with third parties, including research institutions. We will maintain and use de-identified information in anonymous or de-identified form and we will not attempt to re-identify the information unless required by law.
+We will not sell or rent your personal data for monetary gain.
+We will not disclose your personal data except as otherwise described in this Privacy Policy. We will share your personal data with our service providers who support our services as described in this Privacy Policy. We will also not use information received through your use of the Apple HealthKit or Google Health Connect framework for advertising or similar services, or sell it to advertising platforms, data brokers, or information resellers.
+For iOS users
+. Consent to sharing Usage details with Apple for refund purposes. By using our App and making in-app purchases, you consent to our sharing of data regarding your usage and consumption of purchased content with Apple, as part of our efforts to resolve refund requests. This information may include details about how you have accessed and interacted with the purchased content. The purpose of sharing this data is to help Apple make an informed decision regarding refund requests. We ensure that such data sharing is done in compliance with Apple's policies and only as necessary to process your requests.
+3. Legal Bases for Processing (for EU, EEA, UK, or Swiss Users)
+When we process your personal data for the purposes described above, we rely on the following legal bases:
+3.1. Purpose of processing:
+To provide and maintain our Services
+‍
+Type of personal data processed:
+General details
+Account photo
+Health and wellbeing data
+Communication information
+Conversations with AI Assistant
+Log data
+Usage details
+Device information
+Cookies and similar technologies
+Details about
+Legal basis:
+Where necessary to perform a contract with you, such providing you with a personalized workout plan, or enabling communications with AI Assistant, or performing Body Scans for you. For processing of your health and wellbeing data, we rely on your consent.
+3.2. Purpose of processing:
+To improve and develop our Services and features and conduct research
+Type of personal data processed:
+General details
+Communication information
+Conversations with AI Assistant (de-identified)
+Body Scan photos
+Log data
+Usage details
+Device information
+Movements during workout
+AI Body Scan information
+Cookies and similar technologies
+Data we receive from other sources
+Legal basis:
+Where necessary for our legitimate interests, including in developing and improving, such as when we train our models or improve the App for your future experience. For use of your Body Scan photos, we reply on your consent.
+3.3. Purpose of processing:
+To check if your age allows you to use the App
+Type of personal data processed:
+General details
+Legal basis:
+Where necessary to perform a contract with you, such providing you with our services only if you meet the age threshold.
+3.4. Purpose of processing:
+To provide you with customer support and respond to your inquiries
+Type of personal data processed:
+General details
+Communication information
+Social Media Information
+Log data
+Usage details
+Device information
+Legal basis:
+Where necessary for our legitimate interests, in particular in supporting your customer journey.
+3.5. Purpose of processing:
+To send you service emails, including security alerts or transaction confirmations
+Type of personal data processed:
+General details
+Communication information
+Log data
+Usage details
+Device information
+Legal basis:
+Where necessary to comply with an obligation arising out of a contract between us or out of applicable laws.
+3.6. Purpose of processing:
+To send you marketing information about our Services, promotions, insights
+Type of personal data processed:
+General details
+Communication information
+Social Media Information
+Log data
+Usage details
+Device information
+Legal basis:
+Your consent where we ask for it to process your personal data for a specified purpose.
+3.7. Purpose of processing:
+To integrate data between the Website and the App in connection with onboarding users
+Type of personal data processed:
+General details
+Log data
+Usage details
+Device information
+Legal basis:
+It’s our legitimate interest to ensure your smooth use of the Services.
+3.8. Purpose of processing:
+To find audiences similar to our users
+Type of personal data processed:
+General details
+Log data
+Usage details
+Device information
+Legal basis:
+With your consent, we may share some of your non-health personal data with AppsFlyer or similar services to promote our Services.
+3.9. Purpose of processing:
+To prevent misuse of our Services and to ensure the security of our IT systems, architecture, and networks
+Type of personal data processed:
+General details
+Communication information
+Social media information
+Conversations with AI Assistant
+Log data
+Usage details
+Device information
+Details about in-app purchases
+Cookies and similar technologies
+Legal basis:
+Where necessary to comply with a legal obligation. Where we are not under a specific legal obligation, where necessary for our legitimate interests and those of third parties, including in protecting our Services from abuse, fraud, or security risks, such as processing data from security partners to protect against fraud, abuse, and security threats in our Services.
+3.10. Purpose of processing:
+To comply with legal obligations and protect the rights, privacy, safety, or property of our users, us, our affiliates, or any third party
+Type of personal data processed:
+General details
+Communication information
+Social media information
+Conversations with AI Assistant
+Log data
+Usage details
+Device information
+Details about in-app purchases
+Cookies and similar technologies
+Legal basis:
+Where necessary to comply with a legal obligation. Where we are not under a specific legal obligation, where necessary for our legitimate interests and those of third parties, including in protecting our Services from abuse, fraud, or security risks, such as processing data from security partners to protect against fraud, abuse, and security threats in our Services.
+3.11. Purpose of processing:
+To anonymize your personal data
+Type of personal data processed:
+Health and wellbeing data
+Data we receive from other sources
+Usage details
+Legal basis:
+Where necessary for our legitimate interests, such as when we use it to:
+conduct scientific research, or
+analyze the effectiveness of the Services, or
+improve and add features to our Services, or
+for such other similar purposes.
+4. Additional U. S. State Disclosures
+4.1. Category of personal data:
+Identifiers, such as name, unique personal identifier, online identifier, IP address, email address, or account name
+Categories of sources from which collected:
+Directly from you or automatically when you use the Services
+Business or Commercial Purpose for Collecting Personal Information:
+To present you with the App and its contents and any other information, products or services that you request from us.
+To carry out our obligations and enforce our rights arising from any contracts entered into between you and us in relation to the Services.
+To customize our product and service offerings to you, for example, offering pricing personalization and discounts.
+To communicate with you, such as to notify you about changes to the Services or any products or services we offer or provide through the App, provide you with customer or technical support, and monitor and improve our responses to your and other users’ inquiries
+To conduct research, analytics and monitor performance and other metrics regarding the Services and your use of the Services.
+To improve, test, and monitor the effectiveness of the Services.
+To provide personalized content and information to you in relation to the App, and so that we, and third parties on which we rely, can advertise to you.
+To send marketing and promotional communications to you.
+In any other way as we may describe when you provide the information or otherwise at your direction or with your consent.
+As permitted or required by law, including for auditing, fraud and security monitoring purposes.
+Categories of Third Parties and Other Entities To Whom We May Disclose:
+To our affiliates, contractors, vendors and service providers to process in accordance with our instructions.
+to parties involved in strategic transactions, reorganization, bankruptcy, receivership, or transition of a service to another provider.
+In response to legal requests and for purposes of preventing harm.
+4.2. Category of personal data:
+Characteristics of Protected Classifications, such as gender
+Categories of sources from which collected:
+Directly from you
+Business or Commercial Purpose for Collecting Personal Information:
+To present to you with the App and its contents and any other information, products or services that you request from us.
+To carry out our obligations and enforce our rights arising from any contracts entered into between you and us in relation to the Services.
+In any other way as we may describe when you provide the information or otherwise at your direction or with your consent.
+As permitted or required by law, including for auditing, fraud and security monitoring purposes.
+Categories of Third Parties and Other Entities To Whom We May Disclose:
+To our affiliates, contractors, vendors and service providers to process in accordance with our instructions.
+To parties involved in strategic transactions, reorganization, bankruptcy, receivership, or transition of a service to another provider.
+In response to legal requests and for purposes of preventing harm.
+4.3. Category of personal data:
+Commercial information, such as records of products or services purchased, obtained or considered, or other purchasing or consuming histories of tendencies
+Categories of sources from which collected:
+Automatically when you use the Services
+Business or Commercial Purpose for Collecting Personal Information:
+To present you with the App and its contents and any other information, products or services that you request from us.
+To carry out our obligations and enforce our rights arising from any contracts entered into between you and us in relation to the Services.
+To customize our product and service offerings to you, for example, offering pricing personalization and discounts.
+To communicate with you, such as to notify you about changes to the Services or any products or services we offer or provide through the App, provide you with customer or technical support, and monitor and improve our responses to your and other users’ inquiries
+To conduct research, analytics and monitor performance and other metrics regarding the Services and your use of the Services.
+To improve, test, and monitor the effectiveness of the Services.
+To provide personalized content and information to you in relation to the App, and so that we, and third parties on which we rely, can advertise to you.
+To send marketing and promotional communications to you.
+In any other way as we may describe when you provide the information or otherwise at your direction or with your consent.
+As permitted or required by law, including for auditing, fraud and security monitoring purposes.
+Categories of Third Parties and Other Entities To Whom We May Disclose:
+To our affiliates, contractors, vendors and service providers to process in accordance with our instructions.
+to parties involved in strategic transactions, reorganization, bankruptcy, receivership, or transition of a service to another provider.
+In response to legal requests and for purposes of preventing harm.
+4.4. Category of personal data:
+Internet or other electronic network activity information, such as information regarding interaction with an app or advertisement
+Categories of sources from which collected:
+Automatically when you use the Services
+Business or Commercial Purpose for Collecting Personal Information:
+To present you with the App and its contents and any other information, products or services that you request from us.
+To carry out our obligations and enforce our rights arising from any contracts entered into between you and us in relation to the Services.
+To customize our product and service offerings to you, for example, offering pricing personalization and discounts.
+To communicate with you, such as to notify you about changes to the Services or any products or services we offer or provide through the App, provide you with customer or technical support, and monitor and improve our responses to your and other users’ inquiries
+To conduct research, analytics and monitor performance and other metrics regarding the Services and your use of the Services.
+To improve, test, and monitor the effectiveness of the Services.
+To provide personalized content and information to you in relation to the App, and so that we, and third parties on which we rely, can advertise to you.
+To send marketing and promotional communications to you.
+In any other way as we may describe when you provide the information or otherwise at your direction or with your consent.
+As permitted or required by law, including for auditing, fraud and security monitoring purposes.
+Categories of Third Parties and Other Entities To Whom We May Disclose:
+To our affiliates, contractors, vendors and service providers to process in accordance with our instructions.
+to parties involved in strategic transactions, reorganization, bankruptcy, receivership, or transition of a service to another provider.
+In response to legal requests and for purposes of preventing harm.
+4.5. Category of personal data:
+Geolocation data, such as the state or country associated with your IP address
+Categories of sources from which collected:
+Automatically when you use the Services
+Business or Commercial Purpose for Collecting Personal Information:
+To present you with the App and its contents and any other information, products or services that you request from us.
+To carry out our obligations and enforce our rights arising from any contracts entered into between you and us in relation to the Services.
+To customize our product and service offerings to you, for example, offering pricing personalization and discounts.
+To communicate with you, such as to notify you about changes to the Services or any products or services we offer or provide through the App, provide you with customer or technical support, and monitor and improve our responses to your and other users’ inquiries.
+To conduct research, analytics and monitor performance and other metrics regarding the Services and your use of the Services.
+To improve, test, and monitor the effectiveness of the Services.
+To provide personalized content and information to you in relation to the App, and so that we, and third parties on which we rely, can advertise to you.
+To send marketing and promotional communications to you.In any other way as we may describe when you provide the information or otherwise at your direction or with your consent.
+As permitted or required by law, including for auditing, fraud and security monitoring purposes.
+Categories of Third Parties and Other Entities To Whom We May Disclose:
+To our affiliates, contractors, vendors and service providers to process in accordance with our instructions.
+to parties involved in strategic transactions, reorganization, bankruptcy, receivership, or transition of a service to another provider.
+In response to legal requests and for purposes of preventing harm.
+4.6. Category of personal data:
+Visual, information, such the photos you upload to the App
+Categories of sources from which collected:
+Directly from you
+Business or Commercial Purpose for Collecting Personal Information:
+To present you with the App and its contents and any other information, products or services that you request from us.
+To generate body composition reports.
+To improve, test, and monitor the effectiveness of the Services.
+Categories of Third Parties and Other Entities To Whom We May Disclose:
+To our affiliates, contractors, vendors and service providers to process in accordance with our instructions.
+To parties involved in strategic transactions, reorganization, bankruptcy, receivership, or transition of a service to another provider.
+In response to legal requests and for purposes of preventing harm.
+4.7. Category of personal data:
+Inferences drawn from the information listed above to create a profile about a user reflecting their preferences, characteristics and other attributes
+Categories of sources from which collected:
+Directly from you or automatically when you use the Services
+‍
+Business or Commercial Purpose for Collecting Personal Information:
+To present you with the App and its contents and any other information, products or services that you request from us.
+To carry out our obligations and enforce our rights arising from any contracts entered into between you and us in relation to the Services.
+To customize our product and service offerings to you, for example, offering pricing personalization and discounts.
+To communicate with you, such as to notify you about changes to the Services or any products or services we offer or provide through the App, provide you with customer or technical support, and monitor and improve our responses to your and other users’ inquiries.
+To conduct research, analytics and monitor performance and other metrics regarding the Services and your use of the Services.
+To improve, test, and monitor the effectiveness of the Services.
+To provide personalized content and information to you in relation to the App, and so that we, and third parties on which we rely, can advertise to you.
+To send marketing and promotional communications to you.
+In any other way as we may describe when you provide the information or otherwise at your direction or with your consent.
+As permitted or required by law, including for auditing, fraud and security monitoring purposes.
+Categories of Third Parties and Other Entities To Whom We May Disclose:
+To our affiliates, contractors, vendors and service providers to process in accordance with our instructions.
+to parties involved in strategic transactions, reorganization, bankruptcy, receivership, or transition of a service to another provider.
+In response to legal requests and for purposes of preventing harm.
+4.8. Category of personal data:
+Information that may be sensitive personal data, such as gender, health and wellbeing information
+Categories of sources from which collected:
+Directly from you or from such other sources that you connect to the Services
+Business or Commercial Purpose for Collecting Personal Information:
+To present to you with the App and its contents and any other information, products or services that you request from us.
+To carry out our obligations and enforce our rights arising from any contracts entered into between you and us in relation to the Services.
+In any other way as we may describe when you provide the information or otherwise at your direction or with your consent.
+As permitted or required by law, including for auditing, fraud and security monitoring purposes.
+Categories of Third Parties and Other Entities To Whom We May Disclose:
+To our affiliates, contractors, vendors and service providers to process in accordance with our instructions.
+to parties involved in strategic transactions, reorganization, bankruptcy, receivership, or transition of a service to another provider.
+In response to legal requests and for purposes of preventing harm.
+‍
+Sharing personal data for cross-context behavioral advertising.
+We may share the following categories personal information with third-party ad-tech providers and others throughout the online advertising ecosystem for purposes of cross-context behavioral advertising:
+Identifiers
+Categories of personal information described in Cal. Civ. Code Section 1798.80(e)
+Commercial Information
+Internet or other electronic network activity information
+Geolocation data
+Inferences drawn from personal information such as preferences, characteristics and behaviors.
+You may have the right to opt-out of us sharing your personal information for cross-context behavioral advertising purposes.
+Other Rights: Notice to California Consumers.
+You have other rights under California’s “Shine the Light” law. California Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses’ practices related to disclosing personal information to third parties for the third parties’ direct marketing purposes. We do not disclose personal information to third parties for those third parties’ direct marketing purposes.
+5. Personal Data Retention
+We retain your personal data for as long as your account is active or for as long as it is necessary for the purposes of its collection and processing (e.g., for resolving disputes, for safety and security reasons, or for complying with our legal obligations).
+If you choose to deactivate your account, we retain your personal data for no longer than one month in case you decide to re-activate the Services. We also retain some of your information (General details, Details about in-app purchases, Communication information, your consent logs) as necessary to comply with our legal obligations, to resolve disputes and/or to enforce our agreements.
+We may also anonymize your personal data (so that it can no longer be associated with you) for scientific research or statistical purposes, as well as for the purpose of Services improvement and development. In this case, we may use this information indefinitely without further notice to you.
+6. Privacy Rights
+We want to make sure that you are fully aware of all your data protection rights and the ways you can exercise them. These rights may differ across countries.
+If you are EU, EEA or UK resident, you have the right to:
+Access your personal data and information relating to how it is processed.
+Transfer your personal data to a third party (right to data portability).
+Correct your personal data (through the App settings or by requesting us).
+Request deletion of your personal data.
+Restrict how we process your personal data (for example, in cases where you contest inaccuracy).
+To object to processing of your personal data for direct marketing at any time.
+To object to how we process your personal data when our processing is based on our legitimate interests.
+Withdraw your consent – where we rely on consent as the legal basis for processing at any time.
+Lodge a complaint with the data protection authority. You have the right to lodge a complaint with a local data protection authority in the country of your residence, where you work or where an alleged infringement of the applicable data protection law took place. Please see a list of EU member states’ supervisory authorities
+here
+, and the UK’s supervisory authority (ICO)
+here
+.
+Note that these rights may be limited: for example, if you ask us to delete information that we are required to retain by law or where we have compelling legitimate interests to keep.
+If you are a resident of countries other than EU, EEA or UK:
+Depending on location, individuals may have certain statutory right in relation to their personal data. For example, you may have the right to:
+Request the categories of personal data collected about you.
+Request the categories of sources from which your personal data is collected.
+Request the commercial purpose for collecting your personal data.
+Request the categories of third parties to whom personal data is disclosed, and the categories of personal data disclosed.
+Request the specific pieces of personal data collected about you.
+Request that personal data collected about you be deleted.
+Request that your inaccurate personal data be corrected.
+Request that we do not sell or share your personal data.
+How to exercise the rights:
+You can exercise some of the rights above through the App settings. If you are unable to exercise your rights through the App, please submit your request through
+support@zing.coach
+.
+If you make a request, typically we would perform it
+within one month
+. If we need any more time to help you exercise any of your rights, we will let you know.
+If your request is vague or unclear, we may engage into a conversation with you to understand your request better. We may also refuse to act on manifestly unfounded and excessive requests.
+We can ask you to prove your identity while exercising your data protection rights. This is made to ensure that you are indeed entitled to receive certain information and that no rights of third parties are violated by your request. If we can’t verify your request, we will not act on your request.
+You may submit a request through an authorized agent. If you do so, the agent must present signed written permission to act on your behalf and you may be required to independently verify your identity.
+7. Security Measures
+We take the protection of your personal data very seriously and we take reasonable and appropriate measures to protect them from loss, theft, misuse and unauthorized access, disclosure, alteration, and destruction.
+Among others, we utilize the following information security measures to protect your personal data:
+Encryption of your personal data in transit and in rest.
+Systematic vulnerability scanning and penetration testing.
+Protection of data integrity.
+Organizational and legal measures. For example, our employees have different levels of access to your personal data and only those in charge of data management get access to your personal data and only for limited purposes required for the operation of the application. We impose strict liability on our employees for any disclosures, unauthorized accesses, alterations, destructions, misuses of your personal data.
+Please understand that no security system is perfect and, as such, we cannot guarantee the absolute security of the Services, or that your information won’t be intercepted while being transmitted to us. In case your personal data got compromised due to a security breach, we will act promptly to identify the cause and take all reasonable steps to remedy the breach. We will inform you of the incident, if necessary, in connection with the applicable legislation.
+If you want to report a security incident related to our Services, please contact us at support@zing.coach.
+8. Children
+Our Services are not directed at, or intended for, children under 18 years old.
+If you are aware of anyone under 18 using the Services, please contact us at support@zing.coach and we will take the required steps to delete such information and/or delete the account.
+9. Sharing of Your Personal Data
+In some situations, we engage other companies to process your personal data on our behalf. We refer to these companies or service providers as “processors.”
+Processors are companies that help us run the Services, support our communication with you, or perform other App-related activities. They process certain personal data on our behalf to accomplish the goals related to the App functions and deliver the Services and associated activities. We remain responsible for any acts or omissions of our processors, and we enter into data processing contracts with them to the extent required by applicable law.
+Here are some of the main processors we rely on:
+1. Infrastructure & security
+‍
+Amazon Web Services, Inc. (USA)
+Auth0, Inc. (USA)
+Hetzner Online GmbH (Germany)
+Firebase (USA)
+2. Email & in-app communication
+SurveyMonkey, Inc. (USA)
+TypeForm (Spain)
+SendGrid (USA)
+3. Push messages
+Braze, Inc. (USA)
+4. AI Assistant communications
+OpenAI LLC (USA)
+5. Analytics tools
+Amplitude, Inc. (USA)
+Firebase (USA)
+EPPO (USA)
+Meta Events Manager (USA)
+6. User onboarding and data integration
+AppsFlyer, Inc. (USA)
+Services promotion
+AppsFlyer, Inc. (USA)
+7. Customer support
+Zendesk, Inc. (USA)
+8. Payments
+Apple, Inc. (USA)
+Adyen N. V. (the Netherlands)
+Stripe, Inc. (USA)
+Verify, Inc. (USA)
+9. Subscriptions management
+RevenueCat, Inc. (USA)
+Google (USA)
+10. Affiliates
+Palta People Ltd. (Cyprus) – technical maintenance and customer support.
+Palta UK Ltd. (UK) – technical maintenance and customer support.
+Palta Poland sp. z o. o. (Poland) - technical maintenance and customer support
+Transfers of personal data outside of the European Union, the European Economic Area, and the United Kingdom.
+Where required under the EEA GDPR, in case of transfers of personal data from the EEA to countries outside the EEA, where we cannot rely on adequacy decisions adopted by the European Commission (for more information, please see
+here
+) we ensure appropriate safeguards are in place to guarantee the continued protection of your personal data, particularly by signing the Standard Contractual Clauses of the European Commission (article 46(2)(c) GDPR). For more information on these Standard Contractual Clauses, please see
+here
+.
+Where required under the UK GDPR, in case of transfers of personal data to countries outside the United Kingdom, we ensure appropriate safeguards are in place to guarantee the continued protection of your personal data, particularly by signing the UK Addendum to the EU Standard Contractual Clauses or the UK International Data Transfer Agreement, whichever is more appropriate in the given situation. For more information on the UK Addendum and the UK International Data Transfer Agreement please see
+here
+. We may also guarantee the protection of your personal data by relying on adequacy decisions adopted or approved by the authorities in the United Kingdom.
+10. Cookies, Software Development Kits, and Other Tracking Technologies
+When you use our Services, we and our service providers, vendors, and partners, including third parties, may use cookies (a small text file placed on your computer or mobile device to identify your computer and web browser) and other similar technologies to collect or receive certain information about you and/or your use of our Services. However, it’s not only cookies that can be used in this way. Functions performed by a cookie can be achieved by other means, too. This Section, therefore, also applies to any similar technology that stores or accesses information on your device. This could include, for example, HTML5 local storage, local shared objects, beacons, pixels, and plug-ins. We also use third-party analytics tools (such as, but not limited to, AppsFlyer, Meta Events Manager, Firebase) to help us measure traffic and usage trends of our Services, as well as for other analytics purposes. Such analytics tools collect information via third-party SDKs incorporated into the Services, which includes information about features of the App you visit or use, your actions in the App, and information about your subscription. Such information may be used to provide content, advertising, or functionality. Third parties may also use such information for their own purposes.
+For the avoidance of doubt, we do not use health and wellbeing data for advertising purposes.
+Cookies.
+Generally, there are many different ways to classify cookies. Most common ways are classification by duration, by provenance and by purpose.
+Classified by their duration, there are Session and Persistent cookies.  Session cookies expire once you close your browser (or once your session ends). Persistent cookies are stored on your hard drive until you erase them or until your browser erases them, depending on the cookie’s expiration date. All cookies have an expiration date, which is commonly embedded into their code. We use both session cookies and persistent cookies.
+Classified by their provenance, there are first-party and third-party cookies. First-party cookies refer to cookies that Zig Coach sets and uses directly. Third-party cookies refer to cookies set by third parties (such as our analytics providers) through our Website or via server cookies.
+Classified by their purpose, we use Strictly Necessary, Performance and Marketing cookies.
+Strictly Necessary cookies.
+These cookies are strictly necessary to provide you with the Website and the features you have requested, such as to allow you to log into secure areas of the Website. Because these cookies are essential for the Website and the features you have requested to work, you cannot reject them. We use such cookies for the following essential purposes:
+Functionality: Optimizing and improving access to the Website
+Security: Preventing fraud and detecting nonhuman (bot) traffic, including authentication and secure logins
+Cookie consent: Remembering your cookie consent preferences
+Analysis: Traffic scheduling and network distribution
+Billing: The ability to make payments
+As explained above, these cookies are strictly necessary to operate our Websites and cannot be declined. Some of these cookies have a maximum duration of 13 months.
+‍
+Performance cookies.
+We use analytics and performance cookies to analyze how you use the Website. This helps us to:
+See which pages you view most often
+Analyze which region you are visiting the Website from
+Observe how you interact with the content
+Measure any errors that occur
+Test different design ideas
+The above information is used to report and evaluate your activities and patterns as a user of the Website. Some of these cookies have a maximum duration of 13 months.
+‍
+Marketing cookies.
+These cookies help us reach you and more people like you to spread the word about the App, as well as analyze whether we do that effectively.
+Zing Coach does not use cookies to collect or analyze your health information for marketing purposes.
+We use marketing cookies to analyze and improve our marketing campaigns. This helps us to:
+Improve our marketing campaigns, including tracking ad conversions
+Identify paid search keywords
+Identify the source of traffic to the Website, such as search engine, social media, or specific website
+Analyze which region you are visiting the Website from
+See how you interact with the content
+Software Development Kits (SDKs).
+SDKs are third-party software development kits that may be installed in our mobile application. SDKs help us understand how you interact with our App and collect certain information about the device and network you use to access the application. Our App is never used to present you with third-party advertising. You can browse with full confidence in the protection of your privacy. Access is requested with the purpose of enabling the use of our services and improving their functioning. Certain SDKs, where legally required, are subject to a prior consent request and the possibility of withdrawing this consent. Zing Coach services may still be used even in the event of refusal or withdrawal of consent.
+AppsFlyer SDK: Facilitates measurement of performance and analysis of customer acquisition campaigns. Further information about AppsFlyer SDK is available at
+https://www.appsflyer.com/product/security-and-privacy/
+.
+You can deactivate this data processing at any time via
+https://www.appsflyer.com/optout
+. In order to do so, you must have the Identifier for Advertisers (IDFA) of your mobile device. You can also withdraw your consent for the collection of data for targeted advertising or sharing their data with third-party advertisers through your device’s settings.
+Advertising ID.
+You can tailor your device settings to control your advertising ID:
+On Apple devices, you can enable the “Limit Ad Tracking” setting in your device settings.
+On Android devices, you can enable the “Opt out of Ads Personalization” in your device settings.
+Interest-based Advertising.
+We may partner with ad networks and other ad-serving providers that serve ads on behalf of us and others on non-affiliated platforms. Some of those ads may be personalized, meaning that they are intended to be relevant to you based on information ad networks and ad serving providers collect about your use of the App over time, including information about relationships among different browsers and devices. This type of advertising is known as interest-based advertising.
+Your Choices.
+Most browsers and devices are configured to accept cookies and similar tracking technologies automatically. You may be able to set your browser and device options so as to limit such technologies. You can visit the Digital Advertising Alliance (“DAA”) Webchoices tool at
+www.aboutads.info
+to learn more about this interest-based advertising and how to opt out of this kind of advertising by companies participating in the DAA self-regulatory program, and
+http://www.aboutads.info/appchoices
+for information on the DAA’s mobile app opt-out program. You can also opt out of receiving interest-based ads from members of the Network Advertising Initiative (“NAI”) by visiting the NAI consumer opt-out page at
+http://optout.networkadvertising.org/?c=1#!/
+. Opting out of receiving interest-based ads does not mean that you will no longer receive ads from us, but rather that the ads will not be tailored to your perceived interests. To opt out of being tracked by Google Analytics across all websites, visit http://tools.google.com/dlpage/gaoptout.
+For users in the European Economic Area, United Kingdom, and United States.
+You can manage the collection and processing of Personal Data via cookies, SDKs, and other tracking technologies by contacting us at
+support@zing.coach
+.
+You may find that some parts of the App may not function properly if you have refused cookies or similar tracking technologies, and you should be aware that disabling cookies or similar tracking technologies may prevent you from accessing some of our content. Your choices are typically device and browser-specific.
+11. Your Choices About Our Communications
+If you are using our Services, you may receive electronic communications from us (e.g., by posting in-app notices, via push notifications or emails). We send some of these communications to you, such as those related to your subscriptions, technical and security notices, and updates to the Privacy Policy and Terms of Use, where necessary to perform our contract with you to provide the App or otherwise based on our legitimate interest in contacting you.
+If required by law, we will ask for your consent to send you promotional and marketing emails, in-app communications, and push notifications about new products, features, or offers related to our Services.
+Marketing & Promotional Emails.
+If you wish to stop receiving our promotional and marketing emails, you can do so by following the “Unsubscribe” links in any marketing email sent to you.
+Push Notifications
+. If you wish to stop receiving push notifications, you can do so through your mobile device settings by tapping “Settings” -> “Notifications” -> Choose Zing Coach -> press the toggle to allow or forbid push notifications from the App.
+12.
+Changes to Our Privacy Policy
+The date this privacy policy was last reviewed is indicated at the top of the page. We may modify or update this privacy policy from time to time. Some changes do not require your consent: for example, when we add a new purpose of processing that is compatible with the existing purposes, or the new processing activity that falls under the users’ reasonable expectation. However, if the changes made may pose risk to your rights and freedoms (for example, by including a new purpose of the processing that is not compatible with the existing purposes of processing, a new legal basis, or a new category of personal data to be collected or a new data subject, all of which are not reasonably expected by the users), we will ask for your consent to those changes separately from this privacy policy. If you did not receive a request for your consent to the changes or refused to give consent, those changes will not apply to you. That fact can negatively affect some of our Services provided to you if those Services inevitably include consent to the changes.
+Link to the privacy policy, October 8, 2024
+Link to the privacy policy, May 30, 2024
+Link to the privacy policy, March 15, 2024
+Link to the privacy policy, March 1, 2024
+Link to the privacy policy, Nov 6, 2023
+Link to the privacy policy, June 12, 2023
+Link to the privacy policy, May 9, 2022
+Link to the privacy policy, March 1, 2021
+‍
+13. Contact Us
+Zing Coach, Inc.
+Email:
+support@zing.coach
+Our DPO:
+privacy@palta.com
+(
+please, indicate in the email subject that you are a Zing user
+).
+EU representative:
+‍
+‍
+privacy@palta.com
+(
+please indicate in the email subject that you are a Zing user
+).
+Sub-section Policy: 
+Sub-policy 0
+https://www.appsflyer.com/product/security-and-privacy/:
+Platform
+Measure
+Measurement suite
+Measure every action on mobile, web and CTV
+ROI measurement
+Understand your true mobile marketing ROI
+Creative Optimization
+Unlock creative performance with the power of AI
+Analyze
+Marketing analytics
+Turn insights on campaign performance into action
+Incrementality
+Prove the real value of your marketing campaigns
+Engage
+CX & deep linking
+Boost revenue with exceptional customer experience
+Audience segmentation
+Create meaningful conversations with your customers
+Protect
+Fraud protection
+Protect your marketing budget from mobile ad fraud
+Collaborate
+Privacy Cloud
+Collaborate with your partners in a privacy-centric way
+AppsFlyer Data Collaboration Platform
+First-party data monetization that fuels retail media growth
+Partner marketplace
+Connect to over 10,000 tech and media partners
+Interactive product tours
+iOS 14+ solutions
+Data feeds & APIs
+Solutions
+Team
+Marketing
+Product
+Data & Analytics
+R&D
+Goal
+Regain iOS visibility
+Kickstart app growth
+Scale user acquisition
+Increase engagement & LTV
+Maximize ROAS
+Industry
+Gaming
+Shopping
+Finance
+Food & drink
+Health & fitness
+Travel
+Platform
+iOS
+Android
+PC & console
+CTV & OTT
+Web
+Mobile
+Web3
+Partnerships
+Tech and media partners
+Agency partners
+Partner Program
+Interactive product tours
+Customer stories
+The AppsFlyer difference
+Learn
+Resources
+Stay informed with industry insights, the latest trends, original content, and all things AppsFlyer
+Ecosystem
+Blog
+Reports & guides
+Events & webinars
+Tools & templates
+Industry benchmarks
+Videos
+Podcasts
+Glossary
+Metrics comparison
+Customers
+Customer stories
+Product news
+Use cases
+Help center
+Developer Hub
+AppsFlyer Learning
+Come to MAMA
+Company
+Who we are
+Find out more about our history, our team, what we stand for, and why we do what we do
+About us
+Newsroom
+CEO blog spot
+Trust hub
+Careers
+Social impact
+Contact
+From our CEO
+The future of our ecosystem and web
+On privacy and user experience
+Aggregated advanced privacy
+Pricing
+English
+Français
+日本語
+Русский
+Español
+简体中文
+한국어
+Deutsch
+Portuguese
+Tiếng Việt
+Login
+Sign up free
+Contact sales
+Security at AppsFlyer
+How we ensure your data is protected
+Staying ahead of the risks in an ever-evolving mobile ecosystem is crucial to the success of your business. Our platform is designed with security at the center, and backed by a dedicated team of experts who are always working to ensure your data is protected
+Partner announcements and communications?
+Click here
+Security is an essential part of our product inside and out. From strict checkpoints in our security development lifecycle to continuous monitoring of our infrastructure and applications, we make sure our platform is secure 24/7/365. We’ve also implemented extensive measures to make sure your experience is safe and secure every time you log in to your account.
+The cloud is an extension of our business. That’s why we only work with partners like AWS and GCP who hold the same high standards security and compliance as we do. We monitor environments across data centers using multi-layered controls to help protect our infrastructure in addition to anti-DDoS protection, WAF, API protection tools, and continuous 24/7 monitoring.
+Making sure your data is fresh, accurate is our number one priority. That’s why we’ve created a business continuity plan that ensures critical operations and services are always available. Our services are hosted on a globally distributed network that provides continuous activity and provide multiple backups, allowing our servers to remain resilient in the event of significant failures.
+Data security is a critical part of our efforts to help both you and your users. Our web servers support strong encryption protocols to secure connections between customer devices and our web services and APIs. All data is encrypted, both in transit and at rest leaving no vulnerabilities. There are also additional advanced options such as IP masking which you can implement at any time.
+“We’re always on high alert. Always. We check and recheck our activity and seek to improve ourselves in every aspect in order to protect our systems. We don’t just check boxes, we are constantly thinking about how we can expand and go beyond.”
+Our Cookies Policy
+AppsFlyer respects your privacy as our website user. We use cookies to improve your user experience and for remarketing. Some of this data may be shared with select partners. See our
+cookies policy
+for more information.
+Reject all cookies
+Accept all cookies
+Customize
+Cookie Preference Center
+AppsFlyer uses Cookies to provide, maintain, and improve our websites, to optimize our offerings and marketing activities, and to provide our visitors and users with a better experience, for example, in order to maintain your preferences, to better secure our websites, to identify technical issues, and to monitor and improve the overall performance of our websites.
+More information
+Allow All
+Please select which Cookies you approve, you may choose all options.
+Always Active
+Necessary Cookies are enabled for the assurance and function of a properly run website, and they cannot be disabled. They are usually only set in response to actions permitted by you, such as, enabling functions like navigation and access to secure areas of the website. These Cookies do not store personal information that will be used for other purposes.
+Performance Cookies
+These Cookies provide us with aggregated (anonymous) insights into website enhancement and performance improvement. These cookies allow us to measure and improve the performance of our Sites. They help us know which pages are the most and least popular and see how visitors move around the website.
+Marketing Cookies
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+Functional Cookies
+These Cookies enable us to provide enhanced functionality and personalization through our Sites and allow for a better user experience. These may be set by us (first-party Cookies) or by third-party providers who work with us (third-party Cookies).
+Back Button
+Cookie List
+Search Icon
+Filter Icon
+Clear
+checkbox label
+label
+Apply
+Cancel
+Consent
+Leg.Interest
+checkbox label
+label
+checkbox label
+label
+checkbox label
+label
+Sub-policy 1
+https://www.zing.coach/privacy-policy-october-8-2024:
 Privacy Policy
 Effective date: October 8, 2024
 This Privacy Policy explains how Zing Coach Inc. (further will be referred as “
@@ -842,463 +2420,8 @@ Palta UK Ltd
 Email:
 privacy@palta.com
 (please indicate in the email subject that you are a Zing user).
-Sub-section Policy: 
-Sub-policy 0
-https://www.appsflyer.com/product/security-and-privacy/:
-Platform
-Measure
-Measurement suite
-Measure every action on mobile, web and CTV
-ROI measurement
-Understand your true mobile marketing ROI
-Creative Optimization
-Unlock creative performance with the power of AI
-Analyze
-Marketing analytics
-Turn insights on campaign performance into action
-Incrementality
-Prove the real value of your marketing campaigns
-Engage
-CX & deep linking
-Boost revenue with exceptional customer experience
-Audience segmentation
-Create meaningful conversations with your customers
-Protect
-Fraud protection
-Protect your marketing budget from mobile ad fraud
-Collaborate
-Privacy Cloud
-Collaborate with your partners in a privacy-centric way
-AppsFlyer Data Collaboration Platform
-First-party data monetization that fuels retail media growth
-Partner marketplace
-Connect to over 10,000 tech and media partners
-Interactive product tours
-iOS 14+ solutions
-Data feeds & APIs
-Solutions
-Team
-Marketing
-Product
-Data & Analytics
-R&D
-Goal
-Regain iOS visibility
-Kickstart app growth
-Scale user acquisition
-Increase engagement & LTV
-Maximize ROAS
-Industry
-Gaming
-Shopping
-Finance
-Food & drink
-Health & fitness
-Travel
-Platform
-iOS
-Android
-PC & console
-CTV & OTT
-Web
-Mobile
-Web3
-Partnerships
-Tech and media partners
-Agency partners
-Partner Program
-Interactive product tours
-Customer stories
-The AppsFlyer difference
-Learn
-Resources
-Stay informed with industry insights, the latest trends, original content, and all things AppsFlyer
-Ecosystem
-Blog
-Reports & guides
-Events & webinars
-Tools & templates
-Industry benchmarks
-Videos
-Podcasts
-Glossary
-Metrics comparison
-Customers
-Customer stories
-Product news
-Use cases
-Help center
-Developer Hub
-AppsFlyer Learning
-Come to MAMA
-Company
-Who we are
-Find out more about our history, our team, what we stand for, and why we do what we do
-About us
-Newsroom
-CEO blog spot
-Trust hub
-Careers
-Social impact
-Contact
-From our CEO
-The future of our ecosystem and web
-On privacy and user experience
-Aggregated advanced privacy
-Pricing
-English
-Français
-日本語
-Русский
-Español
-简体中文
-한국어
-Deutsch
-Portuguese
-Tiếng Việt
-Login
-Sign up free
-Contact sales
-Security at AppsFlyer
-How we ensure your data is protected
-Staying ahead of the risks in an ever-evolving mobile ecosystem is crucial to the success of your business. Our platform is designed with security at the center, and backed by a dedicated team of experts who are always working to ensure your data is protected
-Partner announcements and communications?
-Click here
-Security is an essential part of our product inside and out. From strict checkpoints in our security development lifecycle to continuous monitoring of our infrastructure and applications, we make sure our platform is secure 24/7/365. We’ve also implemented extensive measures to make sure your experience is safe and secure every time you log in to your account.
-The cloud is an extension of our business. That’s why we only work with partners like AWS and GCP who hold the same high standards security and compliance as we do. We monitor environments across data centers using multi-layered controls to help protect our infrastructure in addition to anti-DDoS protection, WAF, API protection tools, and continuous 24/7 monitoring.
-Making sure your data is fresh, accurate is our number one priority. That’s why we’ve created a business continuity plan that ensures critical operations and services are always available. Our services are hosted on a globally distributed network that provides continuous activity and provide multiple backups, allowing our servers to remain resilient in the event of significant failures.
-Data security is a critical part of our efforts to help both you and your users. Our web servers support strong encryption protocols to secure connections between customer devices and our web services and APIs. All data is encrypted, both in transit and at rest leaving no vulnerabilities. There are also additional advanced options such as IP masking which you can implement at any time.
-“We’re always on high alert. Always. We check and recheck our activity and seek to improve ourselves in every aspect in order to protect our systems. We don’t just check boxes, we are constantly thinking about how we can expand and go beyond.”
-Our Cookies Policy
-AppsFlyer respects your privacy as our website user. We use cookies to improve your user experience and for remarketing. Some of this data may be shared with select partners. See our
-cookies policy
-for more information.
-Reject all cookies
-Accept all cookies
-Customize
-Cookie Preference Center
-AppsFlyer uses Cookies to provide, maintain, and improve our websites, to optimize our offerings and marketing activities, and to provide our visitors and users with a better experience, for example, in order to maintain your preferences, to better secure our websites, to identify technical issues, and to monitor and improve the overall performance of our websites.
-More information
-Allow All
-Please select which Cookies you approve, you may choose all options.
-Always Active
-Necessary Cookies are enabled for the assurance and function of a properly run website, and they cannot be disabled. They are usually only set in response to actions permitted by you, such as, enabling functions like navigation and access to secure areas of the website. These Cookies do not store personal information that will be used for other purposes.
-Performance Cookies
-These Cookies provide us with aggregated (anonymous) insights into website enhancement and performance improvement. These cookies allow us to measure and improve the performance of our Sites. They help us know which pages are the most and least popular and see how visitors move around the website.
-Marketing Cookies
-These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
-Functional Cookies
-These Cookies enable us to provide enhanced functionality and personalization through our Sites and allow for a better user experience. These may be set by us (first-party Cookies) or by third-party providers who work with us (third-party Cookies).
-Back Button
-Cookie List
-Search Icon
-Filter Icon
-Clear
-checkbox label
-label
-Apply
-Cancel
-Consent
-Leg.Interest
-checkbox label
-label
-checkbox label
-label
-checkbox label
-label
-Sub-policy 1
+Sub-policy 2
 http://www.zing.coach/privacy-policy-may-30-2024:
-Consent
-Details
-[#IABV2SETTINGS#]
-About
-This website uses cookies
-We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.
-Consent Selection
-Necessary
-Preferences
-Statistics
-Marketing
-Show details
-Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
-Cookiebot
-4
-Learn more about this provider
-1.gif
-Used to count the number of sessions to the website, necessary for optimizing CMP product delivery.
-CookieConsent [x3]
-Stores the user's cookie consent state for the current domain
-Google
-1
-Learn more about this provider
-Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
-test_cookie
-Used to check if the user's browser supports cookies.
-Twitter Inc.
-1
-Learn more about this provider
-__cf_bm
-This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.
-cdn.amplitude.com
-www.zing-gym.coach
-zingcoach.fit
-3
-object(#-#-##:#:#.#) [x3]
-Holds the users timezone.
-cdn.jsdelivr.net
-1
-_cfuvid
-This cookie is a part of the services provided by Cloudflare - Including load-balancing, deliverance of website content and serving DNS connection for website operators.
-www.zing-gym.coach
-1
-__paypalPrimer_storage__
-Pending
-www.zing-gym.coach
-zingcoach.fit
-6
-@primer/analytics/https://analytics.production.data.primer.io/sdk-logs [x2]
-Pending
-GB_UUID [x2]
-Pending
-ZING_USER_NAME [x2]
-Pending
-zingcoach.fit
-cdn.amplitude.com
-www.zing-gym.coach
-3
-_tldtest_# [x3]
-Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
-Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
-www.zing-gym.coach
-zingcoach.fit
-2
-i18nextLng [x2]
-Determines the preferred language of the visitor. Allows the website to set the preferred language upon the visitor's re-entry.
-Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
-TikTok
-2
-Learn more about this provider
-_tt_enable_cookie [x2]
-Used by the social networking service, TikTok, for tracking the use of embedded services.
-Twitter Inc.
-1
-Learn more about this provider
-personalization_id
-This cookie is set by Twitter - The cookie allows the visitor to share content from the website onto their Twitter profile.
-cdn.amplitude.com
-4
-amplitude_unsent_#
-Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization.
-amplitude_unsent_identify_#
-Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization.
-amp_cookie_test# [x2]
-Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
-cdn.amplitude.com
-zingcoach.fit
-2
-amplitude_# [x2]
-Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
-cdn.amplitude.com
-zingcoach.fit
-www.zing-gym.coach
-3
-amp_# [x3]
-Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
-www.zing-gym.coach
-1
-amplitude_test#.#
-Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
-www.zing-gym.coach
-zingcoach.fit
-15
-amp_cookie_test [x3]
-Pending
-AMP_TEST [x2]
-Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
-AMP_unsent_# [x2]
-Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
-amplitude_unsent_0763c0413a774af78b020bf2355ee004_palta_data_platform [x2]
-Pending
-amplitude_unsent_identify_0763c0413a774af78b020bf2355ee004_palta_data_platform [x2]
-Pending
-gbFeaturesCache [x2]
-This cookie is used by the website’s operator in context with multi-variate testing. This is a tool used to combine or change content on the website. This allows the website to find the best variation/edition of the site.
-sentryReplaySession [x2]
-Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization.
-zingcoach.fit
-www.zing-gym.coach
-4
-AMP_# [x2]
-Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
-AMP_TLDTEST [x2]
-Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
-Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
-Meta Platforms, Inc.
-5
-Learn more about this provider
-lastExternalReferrer
-Detects how the user reached the website by registering their last URL-address.
-lastExternalReferrerTime
-Detects how the user reached the website by registering their last URL-address.
-_fbp [x3]
-Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
-Google
-6
-Learn more about this provider
-Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
-NID
-Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.
-pagead/1p-user-list/#
-Tracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites. This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites.
-_ga
-Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.
-_ga_#
-Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.
-_gcl_au [x2]
-Used by Google AdSense for experimenting with advertisement efficiency across websites using their services.
-Pinterest
-6
-Learn more about this provider
-_pinterest_ct_ua
-Used by Pinterest to track the usage of services.
-ar_debug
-Pending
-v3/
-Used by Pinterest to track the usage of services.
-is_eu
-Determines whether the user is located within the EU and therefore is subject to EU's data privacy regulations.
-_pin_unauth [x2]
-Used by Pinterest to track the usage of services.
-TikTok
-6
-Learn more about this provider
-tt_appInfo
-Used by the social networking service, TikTok, for tracking the use of embedded services.
-tt_pixel_session_index
-Used by the social networking service, TikTok, for tracking the use of embedded services.
-tt_sessionId
-Used by the social networking service, TikTok, for tracking the use of embedded services.
-_ttp [x3]
-Used by the social networking service, TikTok, for tracking the use of embedded services.
-Twitter Inc.
-6
-Learn more about this provider
-1/i/adsct [x2]
-Collects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant.
-muc_ads
-Collects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant.
-guest_id
-Collects data related to the user's visits to the website, such as the number of visits, average time spent on the website and which pages have been loaded, with the purpose of personalising and improving the Twitter service.
-guest_id_ads
-Collects information on user behaviour on multiple websites. This information is used in order to optimize the relevance of advertisement on the website.
-guest_id_marketing
-Collects information on user behaviour on multiple websites. This information is used in order to optimize the relevance of advertisement on the website.
-YouTube
-21
-Learn more about this provider
-#-#
-Used to track user’s interaction with embedded content.
-__Secure-ROLLOUT_TOKEN
-Pending
-iU5q-!O9@$
-Registers a unique ID to keep statistics of what videos from YouTube the user has seen.
-LAST_RESULT_ENTRY_KEY
-Used to track user’s interaction with embedded content.
-LogsDatabaseV2:V#||LogsRequestsStore
-Used to track user’s interaction with embedded content.
-nextId
-Used to track user’s interaction with embedded content.
-remote_sid
-Necessary for the implementation and functionality of YouTube video-content on the website.
-requests
-Used to track user’s interaction with embedded content.
-ServiceWorkerLogsDatabase#SWHealthLog
-Necessary for the implementation and functionality of YouTube video-content on the website.
-TESTCOOKIESENABLED
-Used to track user’s interaction with embedded content.
-VISITOR_INFO1_LIVE
-Pending
-YSC
-Pending
-yt.innertube::nextId
-Registers a unique ID to keep statistics of what videos from YouTube the user has seen.
-YtIdbMeta#databases
-Used to track user’s interaction with embedded content.
-yt-remote-cast-available
-Stores the user's video player preferences using embedded YouTube video
-yt-remote-cast-installed
-Stores the user's video player preferences using embedded YouTube video
-yt-remote-connected-devices
-Stores the user's video player preferences using embedded YouTube video
-yt-remote-device-id
-Stores the user's video player preferences using embedded YouTube video
-yt-remote-fast-check-period
-Stores the user's video player preferences using embedded YouTube video
-yt-remote-session-app
-Stores the user's video player preferences using embedded YouTube video
-yt-remote-session-name
-Stores the user's video player preferences using embedded YouTube video
-Unclassified
-8
-Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
-TikTok
-1
-Learn more about this provider
-parameter_inference_rule
-Pending
-cdn.jsdelivr.net
-1
-65770a86c79dc5a4af1fa5f2#pages
-Pending
-cdn.smartcat-proxy.com
-2
-scLang
-Pending
-selector-shown
-Pending
-s.axon.ai
-4
-_applovin_pixel_version
-Pending
-_axsid
-Pending
-_axwrt [x2]
-Pending
-Cross-domain consent
-5
-Your consent applies to the following domains:
-List of domains your consent applies to:
-login.zing.coach
-portal.zing.coach
-www.zing.coach
-www.zing-gym.coach
-zingcoach.fit
-Cookie declaration last updated on 2/10/25 by
-Cookiebot
-[#IABV2_TITLE#]
-[#IABV2_BODY_INTRO#]
-[#IABV2_BODY_LEGITIMATE_INTEREST_INTRO#]
-[#IABV2_BODY_PREFERENCE_INTRO#]
-[#IABV2_LABEL_PURPOSES#]
-[#IABV2_BODY_PURPOSES_INTRO#]
-[#IABV2_BODY_PURPOSES#]
-[#IABV2_LABEL_FEATURES#]
-[#IABV2_BODY_FEATURES_INTRO#]
-[#IABV2_BODY_FEATURES#]
-[#IABV2_LABEL_PARTNERS#]
-[#IABV2_BODY_PARTNERS_INTRO#]
-[#IABV2_BODY_PARTNERS#]
-Cookies are small text files that can be used by websites to make a user's experience more efficient.
-The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.
-This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.
-You can at any time change or withdraw your consent from the Cookie Declaration on our website.
-Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.
-Please state your consent ID and date when you contact us regarding your consent.
-Do not sell or share my personal information
-Deny
-Allow selection
-Customize
-Allow all
 Privacy Policy
 Effective date: May 30, 2024
 This Privacy Policy explains how Zing Coach Inc. (further will be referred as “
@@ -1848,7 +2971,7 @@ Palta UK Ltd
 Email:
 privacy@palta.com
 (please indicate in the email subject that you are a Zing user).
-Sub-policy 2
+Sub-policy 3
 http://www.zing.coach/privacy-policy-march-15-2024:
 Privacy Policy
 Effective date: March 15, 2024
@@ -2362,299 +3485,8 @@ Palta UK Ltd
 Email:
 privacy@palta.com
 (please indicate in the email subject that you are a Zing user).
-Sub-policy 3
+Sub-policy 4
 https://www.zing.coach/privacy-policy-march-1-2024:
-Consent
-Details
-[#IABV2SETTINGS#]
-About
-This website uses cookies
-We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.
-Consent Selection
-Necessary
-Preferences
-Statistics
-Marketing
-Show details
-Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
-Cookiebot
-4
-Learn more about this provider
-1.gif
-Used to count the number of sessions to the website, necessary for optimizing CMP product delivery.
-CookieConsent [x3]
-Stores the user's cookie consent state for the current domain
-Google
-1
-Learn more about this provider
-Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
-test_cookie
-Used to check if the user's browser supports cookies.
-Twitter Inc.
-1
-Learn more about this provider
-__cf_bm
-This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.
-cdn.amplitude.com
-www.zing-gym.coach
-zingcoach.fit
-3
-object(#-#-##:#:#.#) [x3]
-Holds the users timezone.
-cdn.jsdelivr.net
-1
-_cfuvid
-This cookie is a part of the services provided by Cloudflare - Including load-balancing, deliverance of website content and serving DNS connection for website operators.
-www.zing-gym.coach
-1
-__paypalPrimer_storage__
-Pending
-www.zing-gym.coach
-zingcoach.fit
-6
-@primer/analytics/https://analytics.production.data.primer.io/sdk-logs [x2]
-Pending
-GB_UUID [x2]
-Pending
-ZING_USER_NAME [x2]
-Pending
-zingcoach.fit
-cdn.amplitude.com
-www.zing-gym.coach
-3
-_tldtest_# [x3]
-Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
-Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
-www.zing-gym.coach
-zingcoach.fit
-2
-i18nextLng [x2]
-Determines the preferred language of the visitor. Allows the website to set the preferred language upon the visitor's re-entry.
-Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
-TikTok
-2
-Learn more about this provider
-_tt_enable_cookie [x2]
-Used by the social networking service, TikTok, for tracking the use of embedded services.
-Twitter Inc.
-1
-Learn more about this provider
-personalization_id
-This cookie is set by Twitter - The cookie allows the visitor to share content from the website onto their Twitter profile.
-cdn.amplitude.com
-4
-amplitude_unsent_#
-Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization.
-amplitude_unsent_identify_#
-Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization.
-amp_cookie_test# [x2]
-Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
-cdn.amplitude.com
-zingcoach.fit
-2
-amplitude_# [x2]
-Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
-cdn.amplitude.com
-zingcoach.fit
-www.zing-gym.coach
-3
-amp_# [x3]
-Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
-www.zing-gym.coach
-1
-amplitude_test#.#
-Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
-www.zing-gym.coach
-zingcoach.fit
-15
-amp_cookie_test [x3]
-Pending
-AMP_TEST [x2]
-Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
-AMP_unsent_# [x2]
-Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
-amplitude_unsent_0763c0413a774af78b020bf2355ee004_palta_data_platform [x2]
-Pending
-amplitude_unsent_identify_0763c0413a774af78b020bf2355ee004_palta_data_platform [x2]
-Pending
-gbFeaturesCache [x2]
-This cookie is used by the website’s operator in context with multi-variate testing. This is a tool used to combine or change content on the website. This allows the website to find the best variation/edition of the site.
-sentryReplaySession [x2]
-Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization.
-zingcoach.fit
-www.zing-gym.coach
-4
-AMP_# [x2]
-Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
-AMP_TLDTEST [x2]
-Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
-Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
-Meta Platforms, Inc.
-5
-Learn more about this provider
-lastExternalReferrer
-Detects how the user reached the website by registering their last URL-address.
-lastExternalReferrerTime
-Detects how the user reached the website by registering their last URL-address.
-_fbp [x3]
-Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
-Google
-6
-Learn more about this provider
-Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
-NID
-Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.
-pagead/1p-user-list/#
-Tracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites. This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites.
-_ga
-Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.
-_ga_#
-Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.
-_gcl_au [x2]
-Used by Google AdSense for experimenting with advertisement efficiency across websites using their services.
-Pinterest
-6
-Learn more about this provider
-_pinterest_ct_ua
-Used by Pinterest to track the usage of services.
-ar_debug
-Pending
-v3/
-Used by Pinterest to track the usage of services.
-is_eu
-Determines whether the user is located within the EU and therefore is subject to EU's data privacy regulations.
-_pin_unauth [x2]
-Used by Pinterest to track the usage of services.
-TikTok
-6
-Learn more about this provider
-tt_appInfo
-Used by the social networking service, TikTok, for tracking the use of embedded services.
-tt_pixel_session_index
-Used by the social networking service, TikTok, for tracking the use of embedded services.
-tt_sessionId
-Used by the social networking service, TikTok, for tracking the use of embedded services.
-_ttp [x3]
-Used by the social networking service, TikTok, for tracking the use of embedded services.
-Twitter Inc.
-6
-Learn more about this provider
-1/i/adsct [x2]
-Collects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant.
-muc_ads
-Collects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant.
-guest_id
-Collects data related to the user's visits to the website, such as the number of visits, average time spent on the website and which pages have been loaded, with the purpose of personalising and improving the Twitter service.
-guest_id_ads
-Collects information on user behaviour on multiple websites. This information is used in order to optimize the relevance of advertisement on the website.
-guest_id_marketing
-Collects information on user behaviour on multiple websites. This information is used in order to optimize the relevance of advertisement on the website.
-YouTube
-21
-Learn more about this provider
-#-#
-Used to track user’s interaction with embedded content.
-__Secure-ROLLOUT_TOKEN
-Pending
-iU5q-!O9@$
-Registers a unique ID to keep statistics of what videos from YouTube the user has seen.
-LAST_RESULT_ENTRY_KEY
-Used to track user’s interaction with embedded content.
-LogsDatabaseV2:V#||LogsRequestsStore
-Used to track user’s interaction with embedded content.
-nextId
-Used to track user’s interaction with embedded content.
-remote_sid
-Necessary for the implementation and functionality of YouTube video-content on the website.
-requests
-Used to track user’s interaction with embedded content.
-ServiceWorkerLogsDatabase#SWHealthLog
-Necessary for the implementation and functionality of YouTube video-content on the website.
-TESTCOOKIESENABLED
-Used to track user’s interaction with embedded content.
-VISITOR_INFO1_LIVE
-Pending
-YSC
-Pending
-yt.innertube::nextId
-Registers a unique ID to keep statistics of what videos from YouTube the user has seen.
-YtIdbMeta#databases
-Used to track user’s interaction with embedded content.
-yt-remote-cast-available
-Stores the user's video player preferences using embedded YouTube video
-yt-remote-cast-installed
-Stores the user's video player preferences using embedded YouTube video
-yt-remote-connected-devices
-Stores the user's video player preferences using embedded YouTube video
-yt-remote-device-id
-Stores the user's video player preferences using embedded YouTube video
-yt-remote-fast-check-period
-Stores the user's video player preferences using embedded YouTube video
-yt-remote-session-app
-Stores the user's video player preferences using embedded YouTube video
-yt-remote-session-name
-Stores the user's video player preferences using embedded YouTube video
-Unclassified
-8
-Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
-TikTok
-1
-Learn more about this provider
-parameter_inference_rule
-Pending
-cdn.jsdelivr.net
-1
-65770a86c79dc5a4af1fa5f2#pages
-Pending
-cdn.smartcat-proxy.com
-2
-scLang
-Pending
-selector-shown
-Pending
-s.axon.ai
-4
-_applovin_pixel_version
-Pending
-_axsid
-Pending
-_axwrt [x2]
-Pending
-Cross-domain consent
-5
-Your consent applies to the following domains:
-List of domains your consent applies to:
-login.zing.coach
-portal.zing.coach
-www.zing.coach
-www.zing-gym.coach
-zingcoach.fit
-Cookie declaration last updated on 2/10/25 by
-Cookiebot
-[#IABV2_TITLE#]
-[#IABV2_BODY_INTRO#]
-[#IABV2_BODY_LEGITIMATE_INTEREST_INTRO#]
-[#IABV2_BODY_PREFERENCE_INTRO#]
-[#IABV2_LABEL_PURPOSES#]
-[#IABV2_BODY_PURPOSES_INTRO#]
-[#IABV2_BODY_PURPOSES#]
-[#IABV2_LABEL_FEATURES#]
-[#IABV2_BODY_FEATURES_INTRO#]
-[#IABV2_BODY_FEATURES#]
-[#IABV2_LABEL_PARTNERS#]
-[#IABV2_BODY_PARTNERS_INTRO#]
-[#IABV2_BODY_PARTNERS#]
-Cookies are small text files that can be used by websites to make a user's experience more efficient.
-The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.
-This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.
-You can at any time change or withdraw your consent from the Cookie Declaration on our website.
-Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.
-Please state your consent ID and date when you contact us regarding your consent.
-Do not sell or share my personal information
-Deny
-Allow selection
-Customize
-Allow all
 Privacy Policy
 Effective date: March 1, 2024
 This Privacy Policy explains how Zing Coach Inc. (further will be referred as “
@@ -3155,8 +3987,305 @@ Address: Sterling House Fulbourne ROA, Walthamstow, London, E17 4EE
 Email:
 privacy@palta.com
 (please indicate in the email subject that you are a Zing user).
-Sub-policy 4
+Sub-policy 5
 https://www.zing.coach/privacy-policy-nov-6-2023:
+Consent
+Details
+[#IABV2SETTINGS#]
+About
+This website uses cookies
+We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.
+Consent Selection
+Necessary
+Preferences
+Statistics
+Marketing
+Show details
+Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
+Cookiebot
+4
+Learn more about this provider
+1.gif
+Used to count the number of sessions to the website, necessary for optimizing CMP product delivery.
+CookieConsent [x3]
+Stores the user's cookie consent state for the current domain
+Google
+1
+Learn more about this provider
+Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
+test_cookie
+Used to check if the user's browser supports cookies.
+Twitter Inc.
+1
+Learn more about this provider
+__cf_bm
+This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.
+cdn.amplitude.com
+www.zing-gym.coach
+zingcoach.fit
+3
+object(#-#-##:#:#.#) [x3]
+Holds the users timezone.
+cdn.jsdelivr.net
+1
+_cfuvid
+This cookie is a part of the services provided by Cloudflare - Including load-balancing, deliverance of website content and serving DNS connection for website operators.
+www.zing-gym.coach
+1
+__paypalPrimer_storage__
+Pending
+www.zing-gym.coach
+zingcoach.fit
+6
+@primer/analytics/https://analytics.production.data.primer.io/sdk-logs [x2]
+Pending
+GB_UUID [x2]
+Pending
+ZING_USER_NAME [x2]
+Pending
+zingcoach.fit
+cdn.amplitude.com
+www.zing-gym.coach
+3
+_tldtest_# [x3]
+Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
+Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+www.zing-gym.coach
+zingcoach.fit
+2
+i18nextLng [x2]
+Determines the preferred language of the visitor. Allows the website to set the preferred language upon the visitor's re-entry.
+Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+TikTok
+2
+Learn more about this provider
+_tt_enable_cookie [x2]
+Used by the social networking service, TikTok, for tracking the use of embedded services.
+Twitter Inc.
+1
+Learn more about this provider
+personalization_id
+This cookie is set by Twitter - The cookie allows the visitor to share content from the website onto their Twitter profile.
+cdn.amplitude.com
+4
+amplitude_unsent_#
+Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization.
+amplitude_unsent_identify_#
+Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization.
+amp_cookie_test# [x2]
+Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
+cdn.amplitude.com
+zingcoach.fit
+2
+amplitude_# [x2]
+Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
+cdn.amplitude.com
+zingcoach.fit
+www.zing-gym.coach
+3
+amp_# [x3]
+Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
+www.zing-gym.coach
+1
+amplitude_test#.#
+Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
+www.zing-gym.coach
+zingcoach.fit
+15
+amp_cookie_test [x3]
+Pending
+AMP_TEST [x2]
+Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
+AMP_unsent_# [x2]
+Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
+amplitude_unsent_0763c0413a774af78b020bf2355ee004_palta_data_platform [x2]
+Pending
+amplitude_unsent_identify_0763c0413a774af78b020bf2355ee004_palta_data_platform [x2]
+Pending
+gbFeaturesCache [x2]
+This cookie is used by the website’s operator in context with multi-variate testing. This is a tool used to combine or change content on the website. This allows the website to find the best variation/edition of the site.
+sentryReplaySession [x2]
+Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization.
+zingcoach.fit
+www.zing-gym.coach
+4
+AMP_# [x2]
+Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
+AMP_TLDTEST [x2]
+Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
+Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+Meta Platforms, Inc.
+5
+Learn more about this provider
+lastExternalReferrer
+Detects how the user reached the website by registering their last URL-address.
+lastExternalReferrerTime
+Detects how the user reached the website by registering their last URL-address.
+_fbp [x3]
+Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+Google
+11
+Learn more about this provider
+Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
+IDE
+Pending
+NID
+Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.
+pagead/1p-user-list/#
+Tracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites. This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites.
+_ga [x3]
+Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.
+_ga_# [x3]
+Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.
+_gcl_au [x2]
+Used by Google AdSense for experimenting with advertisement efficiency across websites using their services.
+Pinterest
+6
+Learn more about this provider
+_pinterest_ct_ua
+Used by Pinterest to track the usage of services.
+ar_debug
+Pending
+v3/
+Used by Pinterest to track the usage of services.
+is_eu
+Determines whether the user is located within the EU and therefore is subject to EU's data privacy regulations.
+_pin_unauth [x2]
+Used by Pinterest to track the usage of services.
+TikTok
+6
+Learn more about this provider
+tt_appInfo
+Used by the social networking service, TikTok, for tracking the use of embedded services.
+tt_pixel_session_index
+Used by the social networking service, TikTok, for tracking the use of embedded services.
+tt_sessionId
+Used by the social networking service, TikTok, for tracking the use of embedded services.
+_ttp [x3]
+Used by the social networking service, TikTok, for tracking the use of embedded services.
+Twitter Inc.
+6
+Learn more about this provider
+1/i/adsct [x2]
+Collects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant.
+muc_ads
+Collects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant.
+guest_id
+Collects data related to the user's visits to the website, such as the number of visits, average time spent on the website and which pages have been loaded, with the purpose of personalising and improving the Twitter service.
+guest_id_ads
+Collects information on user behaviour on multiple websites. This information is used in order to optimize the relevance of advertisement on the website.
+guest_id_marketing
+Collects information on user behaviour on multiple websites. This information is used in order to optimize the relevance of advertisement on the website.
+YouTube
+22
+Learn more about this provider
+#-#
+Used to track user’s interaction with embedded content.
+__Secure-ROLLOUT_TOKEN
+Pending
+iU5q-!O9@$
+Registers a unique ID to keep statistics of what videos from YouTube the user has seen.
+LAST_RESULT_ENTRY_KEY
+Used to track user’s interaction with embedded content.
+LogsDatabaseV2:V#||LogsRequestsStore
+Used to track user’s interaction with embedded content.
+nextId
+Used to track user’s interaction with embedded content.
+remote_sid
+Necessary for the implementation and functionality of YouTube video-content on the website.
+requests
+Used to track user’s interaction with embedded content.
+ServiceWorkerLogsDatabase#SWHealthLog
+Necessary for the implementation and functionality of YouTube video-content on the website.
+TESTCOOKIESENABLED
+Used to track user’s interaction with embedded content.
+VISITOR_INFO1_LIVE
+Pending
+YSC
+Pending
+yt.innertube::nextId
+Registers a unique ID to keep statistics of what videos from YouTube the user has seen.
+ytidb::LAST_RESULT_ENTRY_KEY
+Used to track user’s interaction with embedded content.
+YtIdbMeta#databases
+Used to track user’s interaction with embedded content.
+yt-remote-cast-available
+Stores the user's video player preferences using embedded YouTube video
+yt-remote-cast-installed
+Stores the user's video player preferences using embedded YouTube video
+yt-remote-connected-devices
+Stores the user's video player preferences using embedded YouTube video
+yt-remote-device-id
+Stores the user's video player preferences using embedded YouTube video
+yt-remote-fast-check-period
+Stores the user's video player preferences using embedded YouTube video
+yt-remote-session-app
+Stores the user's video player preferences using embedded YouTube video
+yt-remote-session-name
+Stores the user's video player preferences using embedded YouTube video
+Unclassified
+11
+Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
+cdn.jsdelivr.net
+1
+65770a86c79dc5a4af1fa5f2#pages
+Pending
+cdn.smartcat-proxy.com
+2
+scLang
+Pending
+selector-shown
+Pending
+s.axon.ai
+6
+_applovin_pixel_version
+Pending
+_axsid
+Pending
+_axwrt [x2]
+Pending
+ax_visitor [x2]
+Pending
+www.zing-gym.coach
+zingcoach.fit
+2
+ZING_GEOLOCATION_DATA [x2]
+Pending
+Cross-domain consent
+5
+Your consent applies to the following domains:
+List of domains your consent applies to:
+login.zing.coach
+portal.zing.coach
+www.zing.coach
+www.zing-gym.coach
+zingcoach.fit
+Cookie declaration last updated on 3/10/25 by
+Cookiebot
+[#IABV2_TITLE#]
+[#IABV2_BODY_INTRO#]
+[#IABV2_BODY_LEGITIMATE_INTEREST_INTRO#]
+[#IABV2_BODY_PREFERENCE_INTRO#]
+[#IABV2_LABEL_PURPOSES#]
+[#IABV2_BODY_PURPOSES_INTRO#]
+[#IABV2_BODY_PURPOSES#]
+[#IABV2_LABEL_FEATURES#]
+[#IABV2_BODY_FEATURES_INTRO#]
+[#IABV2_BODY_FEATURES#]
+[#IABV2_LABEL_PARTNERS#]
+[#IABV2_BODY_PARTNERS_INTRO#]
+[#IABV2_BODY_PARTNERS#]
+Cookies are small text files that can be used by websites to make a user's experience more efficient.
+The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.
+This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.
+You can at any time change or withdraw your consent from the Cookie Declaration on our website.
+Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.
+Please state your consent ID and date when you contact us regarding your consent.
+Do not sell or share my personal information
+Allow all
+Customize
+Allow selection
+Deny
 Privacy Policy
 Effective date: Nov 6, 2023
 This Privacy Policy explains how Zing Coach Inc. (further will be referred as
@@ -3380,7 +4509,7 @@ Address: Sterling House Fulbourne ROA, Walthamstow, London, E17 4EE
 Email:
 privacy@palta.com
 (please indicate in the email subject that you are Zing user).
-Sub-policy 5
+Sub-policy 6
 https://www.zing.coach/privacy-policy-june-12-2023:
 Consent
 Details
@@ -3517,16 +4646,18 @@ Detects how the user reached the website by registering their last URL-address.
 _fbp [x3]
 Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
 Google
-6
+11
 Learn more about this provider
 Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
+IDE
+Pending
 NID
 Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.
 pagead/1p-user-list/#
 Tracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites. This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites.
-_ga
+_ga [x3]
 Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.
-_ga_#
+_ga_# [x3]
 Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.
 _gcl_au [x2]
 Used by Google AdSense for experimenting with advertisement efficiency across websites using their services.
@@ -3568,7 +4699,7 @@ Collects information on user behaviour on multiple websites. This information is
 guest_id_marketing
 Collects information on user behaviour on multiple websites. This information is used in order to optimize the relevance of advertisement on the website.
 YouTube
-21
+22
 Learn more about this provider
 #-#
 Used to track user’s interaction with embedded content.
@@ -3596,6 +4727,8 @@ YSC
 Pending
 yt.innertube::nextId
 Registers a unique ID to keep statistics of what videos from YouTube the user has seen.
+ytidb::LAST_RESULT_ENTRY_KEY
+Used to track user’s interaction with embedded content.
 YtIdbMeta#databases
 Used to track user’s interaction with embedded content.
 yt-remote-cast-available
@@ -3613,13 +4746,8 @@ Stores the user's video player preferences using embedded YouTube video
 yt-remote-session-name
 Stores the user's video player preferences using embedded YouTube video
 Unclassified
-8
+11
 Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
-TikTok
-1
-Learn more about this provider
-parameter_inference_rule
-Pending
 cdn.jsdelivr.net
 1
 65770a86c79dc5a4af1fa5f2#pages
@@ -3631,12 +4759,19 @@ Pending
 selector-shown
 Pending
 s.axon.ai
-4
+6
 _applovin_pixel_version
 Pending
 _axsid
 Pending
 _axwrt [x2]
+Pending
+ax_visitor [x2]
+Pending
+www.zing-gym.coach
+zingcoach.fit
+2
+ZING_GEOLOCATION_DATA [x2]
 Pending
 Cross-domain consent
 5
@@ -3647,7 +4782,7 @@ portal.zing.coach
 www.zing.coach
 www.zing-gym.coach
 zingcoach.fit
-Cookie declaration last updated on 2/10/25 by
+Cookie declaration last updated on 3/10/25 by
 Cookiebot
 [#IABV2_TITLE#]
 [#IABV2_BODY_INTRO#]
@@ -3669,10 +4804,10 @@ You can at any time change or withdraw your consent from the Cookie Declaration 
 Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.
 Please state your consent ID and date when you contact us regarding your consent.
 Do not sell or share my personal information
-Deny
-Allow selection
-Customize
 Allow all
+Customize
+Allow selection
+Deny
 Zing Coach App Privacy Policy
 Effective as of June 12, 2023
 Introduction
@@ -3914,7 +5049,7 @@ privacy@palta.com
 Link to the privacy policy, May 9, 2022
 ‍
 Link to the privacy policy, March 1, 2021
-Sub-policy 6
+Sub-policy 7
 https://www.zing.coach/android-privacy:
 Consent
 Details
@@ -4051,16 +5186,18 @@ Detects how the user reached the website by registering their last URL-address.
 _fbp [x3]
 Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
 Google
-6
+11
 Learn more about this provider
 Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
+IDE
+Pending
 NID
 Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.
 pagead/1p-user-list/#
 Tracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites. This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites.
-_ga
+_ga [x3]
 Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.
-_ga_#
+_ga_# [x3]
 Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.
 _gcl_au [x2]
 Used by Google AdSense for experimenting with advertisement efficiency across websites using their services.
@@ -4102,7 +5239,7 @@ Collects information on user behaviour on multiple websites. This information is
 guest_id_marketing
 Collects information on user behaviour on multiple websites. This information is used in order to optimize the relevance of advertisement on the website.
 YouTube
-21
+22
 Learn more about this provider
 #-#
 Used to track user’s interaction with embedded content.
@@ -4130,6 +5267,8 @@ YSC
 Pending
 yt.innertube::nextId
 Registers a unique ID to keep statistics of what videos from YouTube the user has seen.
+ytidb::LAST_RESULT_ENTRY_KEY
+Used to track user’s interaction with embedded content.
 YtIdbMeta#databases
 Used to track user’s interaction with embedded content.
 yt-remote-cast-available
@@ -4147,13 +5286,8 @@ Stores the user's video player preferences using embedded YouTube video
 yt-remote-session-name
 Stores the user's video player preferences using embedded YouTube video
 Unclassified
-8
+11
 Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
-TikTok
-1
-Learn more about this provider
-parameter_inference_rule
-Pending
 cdn.jsdelivr.net
 1
 65770a86c79dc5a4af1fa5f2#pages
@@ -4165,12 +5299,19 @@ Pending
 selector-shown
 Pending
 s.axon.ai
-4
+6
 _applovin_pixel_version
 Pending
 _axsid
 Pending
 _axwrt [x2]
+Pending
+ax_visitor [x2]
+Pending
+www.zing-gym.coach
+zingcoach.fit
+2
+ZING_GEOLOCATION_DATA [x2]
 Pending
 Cross-domain consent
 5
@@ -4181,7 +5322,7 @@ portal.zing.coach
 www.zing.coach
 www.zing-gym.coach
 zingcoach.fit
-Cookie declaration last updated on 2/10/25 by
+Cookie declaration last updated on 3/10/25 by
 Cookiebot
 [#IABV2_TITLE#]
 [#IABV2_BODY_INTRO#]
@@ -4203,10 +5344,10 @@ You can at any time change or withdraw your consent from the Cookie Declaration 
 Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.
 Please state your consent ID and date when you contact us regarding your consent.
 Do not sell or share my personal information
-Deny
-Allow selection
-Customize
 Allow all
+Customize
+Allow selection
+Deny
 Zing Coach App Privacy Policy
 Effective as of May 09, 2022
 Introduction
@@ -4314,8 +5455,305 @@ Address:
 Office 902, Oval, Krinou 3, Ayios Athanasios, 4103, Limassol, Cyprus
 Email:
 info@dpoeu.eu
-Sub-policy 7
+Sub-policy 8
 https://www.zing.coach/privacy-policy-march-01-2021:
+Consent
+Details
+[#IABV2SETTINGS#]
+About
+This website uses cookies
+We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.
+Consent Selection
+Necessary
+Preferences
+Statistics
+Marketing
+Show details
+Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
+Cookiebot
+4
+Learn more about this provider
+1.gif
+Used to count the number of sessions to the website, necessary for optimizing CMP product delivery.
+CookieConsent [x3]
+Stores the user's cookie consent state for the current domain
+Google
+1
+Learn more about this provider
+Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
+test_cookie
+Used to check if the user's browser supports cookies.
+Twitter Inc.
+1
+Learn more about this provider
+__cf_bm
+This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.
+cdn.amplitude.com
+www.zing-gym.coach
+zingcoach.fit
+3
+object(#-#-##:#:#.#) [x3]
+Holds the users timezone.
+cdn.jsdelivr.net
+1
+_cfuvid
+This cookie is a part of the services provided by Cloudflare - Including load-balancing, deliverance of website content and serving DNS connection for website operators.
+www.zing-gym.coach
+1
+__paypalPrimer_storage__
+Pending
+www.zing-gym.coach
+zingcoach.fit
+6
+@primer/analytics/https://analytics.production.data.primer.io/sdk-logs [x2]
+Pending
+GB_UUID [x2]
+Pending
+ZING_USER_NAME [x2]
+Pending
+zingcoach.fit
+cdn.amplitude.com
+www.zing-gym.coach
+3
+_tldtest_# [x3]
+Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
+Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+www.zing-gym.coach
+zingcoach.fit
+2
+i18nextLng [x2]
+Determines the preferred language of the visitor. Allows the website to set the preferred language upon the visitor's re-entry.
+Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+TikTok
+2
+Learn more about this provider
+_tt_enable_cookie [x2]
+Used by the social networking service, TikTok, for tracking the use of embedded services.
+Twitter Inc.
+1
+Learn more about this provider
+personalization_id
+This cookie is set by Twitter - The cookie allows the visitor to share content from the website onto their Twitter profile.
+cdn.amplitude.com
+4
+amplitude_unsent_#
+Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization.
+amplitude_unsent_identify_#
+Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization.
+amp_cookie_test# [x2]
+Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
+cdn.amplitude.com
+zingcoach.fit
+2
+amplitude_# [x2]
+Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
+cdn.amplitude.com
+zingcoach.fit
+www.zing-gym.coach
+3
+amp_# [x3]
+Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
+www.zing-gym.coach
+1
+amplitude_test#.#
+Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
+www.zing-gym.coach
+zingcoach.fit
+15
+amp_cookie_test [x3]
+Pending
+AMP_TEST [x2]
+Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
+AMP_unsent_# [x2]
+Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
+amplitude_unsent_0763c0413a774af78b020bf2355ee004_palta_data_platform [x2]
+Pending
+amplitude_unsent_identify_0763c0413a774af78b020bf2355ee004_palta_data_platform [x2]
+Pending
+gbFeaturesCache [x2]
+This cookie is used by the website’s operator in context with multi-variate testing. This is a tool used to combine or change content on the website. This allows the website to find the best variation/edition of the site.
+sentryReplaySession [x2]
+Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization.
+zingcoach.fit
+www.zing-gym.coach
+4
+AMP_# [x2]
+Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
+AMP_TLDTEST [x2]
+Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
+Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+Meta Platforms, Inc.
+5
+Learn more about this provider
+lastExternalReferrer
+Detects how the user reached the website by registering their last URL-address.
+lastExternalReferrerTime
+Detects how the user reached the website by registering their last URL-address.
+_fbp [x3]
+Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+Google
+11
+Learn more about this provider
+Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
+IDE
+Pending
+NID
+Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.
+pagead/1p-user-list/#
+Tracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites. This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites.
+_ga [x3]
+Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.
+_ga_# [x3]
+Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.
+_gcl_au [x2]
+Used by Google AdSense for experimenting with advertisement efficiency across websites using their services.
+Pinterest
+6
+Learn more about this provider
+_pinterest_ct_ua
+Used by Pinterest to track the usage of services.
+ar_debug
+Pending
+v3/
+Used by Pinterest to track the usage of services.
+is_eu
+Determines whether the user is located within the EU and therefore is subject to EU's data privacy regulations.
+_pin_unauth [x2]
+Used by Pinterest to track the usage of services.
+TikTok
+6
+Learn more about this provider
+tt_appInfo
+Used by the social networking service, TikTok, for tracking the use of embedded services.
+tt_pixel_session_index
+Used by the social networking service, TikTok, for tracking the use of embedded services.
+tt_sessionId
+Used by the social networking service, TikTok, for tracking the use of embedded services.
+_ttp [x3]
+Used by the social networking service, TikTok, for tracking the use of embedded services.
+Twitter Inc.
+6
+Learn more about this provider
+1/i/adsct [x2]
+Collects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant.
+muc_ads
+Collects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant.
+guest_id
+Collects data related to the user's visits to the website, such as the number of visits, average time spent on the website and which pages have been loaded, with the purpose of personalising and improving the Twitter service.
+guest_id_ads
+Collects information on user behaviour on multiple websites. This information is used in order to optimize the relevance of advertisement on the website.
+guest_id_marketing
+Collects information on user behaviour on multiple websites. This information is used in order to optimize the relevance of advertisement on the website.
+YouTube
+22
+Learn more about this provider
+#-#
+Used to track user’s interaction with embedded content.
+__Secure-ROLLOUT_TOKEN
+Pending
+iU5q-!O9@$
+Registers a unique ID to keep statistics of what videos from YouTube the user has seen.
+LAST_RESULT_ENTRY_KEY
+Used to track user’s interaction with embedded content.
+LogsDatabaseV2:V#||LogsRequestsStore
+Used to track user’s interaction with embedded content.
+nextId
+Used to track user’s interaction with embedded content.
+remote_sid
+Necessary for the implementation and functionality of YouTube video-content on the website.
+requests
+Used to track user’s interaction with embedded content.
+ServiceWorkerLogsDatabase#SWHealthLog
+Necessary for the implementation and functionality of YouTube video-content on the website.
+TESTCOOKIESENABLED
+Used to track user’s interaction with embedded content.
+VISITOR_INFO1_LIVE
+Pending
+YSC
+Pending
+yt.innertube::nextId
+Registers a unique ID to keep statistics of what videos from YouTube the user has seen.
+ytidb::LAST_RESULT_ENTRY_KEY
+Used to track user’s interaction with embedded content.
+YtIdbMeta#databases
+Used to track user’s interaction with embedded content.
+yt-remote-cast-available
+Stores the user's video player preferences using embedded YouTube video
+yt-remote-cast-installed
+Stores the user's video player preferences using embedded YouTube video
+yt-remote-connected-devices
+Stores the user's video player preferences using embedded YouTube video
+yt-remote-device-id
+Stores the user's video player preferences using embedded YouTube video
+yt-remote-fast-check-period
+Stores the user's video player preferences using embedded YouTube video
+yt-remote-session-app
+Stores the user's video player preferences using embedded YouTube video
+yt-remote-session-name
+Stores the user's video player preferences using embedded YouTube video
+Unclassified
+11
+Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
+cdn.jsdelivr.net
+1
+65770a86c79dc5a4af1fa5f2#pages
+Pending
+cdn.smartcat-proxy.com
+2
+scLang
+Pending
+selector-shown
+Pending
+s.axon.ai
+6
+_applovin_pixel_version
+Pending
+_axsid
+Pending
+_axwrt [x2]
+Pending
+ax_visitor [x2]
+Pending
+www.zing-gym.coach
+zingcoach.fit
+2
+ZING_GEOLOCATION_DATA [x2]
+Pending
+Cross-domain consent
+5
+Your consent applies to the following domains:
+List of domains your consent applies to:
+login.zing.coach
+portal.zing.coach
+www.zing.coach
+www.zing-gym.coach
+zingcoach.fit
+Cookie declaration last updated on 3/10/25 by
+Cookiebot
+[#IABV2_TITLE#]
+[#IABV2_BODY_INTRO#]
+[#IABV2_BODY_LEGITIMATE_INTEREST_INTRO#]
+[#IABV2_BODY_PREFERENCE_INTRO#]
+[#IABV2_LABEL_PURPOSES#]
+[#IABV2_BODY_PURPOSES_INTRO#]
+[#IABV2_BODY_PURPOSES#]
+[#IABV2_LABEL_FEATURES#]
+[#IABV2_BODY_FEATURES_INTRO#]
+[#IABV2_BODY_FEATURES#]
+[#IABV2_LABEL_PARTNERS#]
+[#IABV2_BODY_PARTNERS_INTRO#]
+[#IABV2_BODY_PARTNERS#]
+Cookies are small text files that can be used by websites to make a user's experience more efficient.
+The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.
+This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.
+You can at any time change or withdraw your consent from the Cookie Declaration on our website.
+Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.
+Please state your consent ID and date when you contact us regarding your consent.
+Do not sell or share my personal information
+Allow all
+Customize
+Allow selection
+Deny
 Zing Coach App Privacy Policy
 Effective as of March 01, 2021 to May 08, 2022
 Introduction

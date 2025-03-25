@@ -1,0 +1,86 @@
+[
+    {
+        "No data shared with third parties ( The developer says this app doesn't share user data with other companies or organizations. Learn more about how developers declare sharing. )": []
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Device or other IDs": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Location": "Approximate location and Precise location",
+                "Data collected and for what purpose": [
+                    {
+                        "Approximate location": "App functionality",
+                        "Precise location": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Other info",
+                "Data collected and for what purpose": [
+                    {
+                        "Other info": "App functionality, Fraud prevention, security, and compliance, Personalization"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions and Installed apps",
+                "Data collected and for what purpose": [
+                    {
+                        "App interactions": "Analytics",
+                        "Installed apps": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Messages": "Other in-app messages",
+                "Data collected and for what purpose": [
+                    {
+                        "Other in-app messages": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Health and fitness": "Fitness info",
+                "Data collected and for what purpose": [
+                    {
+                        "Fitness info": "App functionality"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Crash logs and Diagnostics",
+                "Data collected and for what purpose": [
+                    {
+                        "Crash logs": "Analytics",
+                        "Diagnostics": "Analytics"
+                    }
+                ]
+            },
+            {
+                "Audio": "Voice or sound recordings",
+                "Data collected and for what purpose": [
+                    {
+                        "Voice or sound recordings": "App functionality"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            },
+            {
+                "Data can’t be deleted": "The developer doesn’t provide a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

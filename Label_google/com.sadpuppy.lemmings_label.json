@@ -1,0 +1,132 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "Personal info": "Email address and User IDs",
+                "Data shared and for what purpose": [
+                    {
+                        "Email address": "Advertising or marketing",
+                        "User IDs": "App functionality"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Diagnostics and Other app performance data",
+                "Data shared and for what purpose": [
+                    {
+                        "Diagnostics": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance",
+                        "Other app performance data": "Analytics, Advertising or marketing, Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "Location": "Approximate location",
+                "Data shared and for what purpose": [
+                    {
+                        "Approximate location": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data shared and for what purpose": [
+                    {
+                        "Device or other IDs": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions, In-app search history, Other user-generated content, and Other actions",
+                "Data shared and for what purpose": [
+                    {
+                        "App interactions": "Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+                        "In-app search history": "Analytics",
+                        "Other user-generated content": "Analytics",
+                        "Other actions": "Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization"
+                    }
+                ]
+            },
+            {
+                "Financial info": "Purchase history",
+                "Data shared and for what purpose": [
+                    {
+                        "Purchase history": "App functionality, Analytics, Advertising or marketing"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "Personal info": "Email address, User IDs, Race and ethnicity, Political or religious beliefs, Sexual orientation, and Other info",
+                "Data collected and for what purpose": [
+                    {
+                        "Email address · Optional": "App functionality, Account management",
+                        "User IDs": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance",
+                        "Race and ethnicity · Optional": "Analytics, Advertising or marketing",
+                        "Political or religious beliefs · Optional": "Analytics, Advertising or marketing",
+                        "Sexual orientation · Optional": "Analytics, Advertising or marketing",
+                        "Other info": "Analytics, Advertising or marketing, Personalization"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+                "Data collected and for what purpose": [
+                    {
+                        "Crash logs": "App functionality, Analytics",
+                        "Diagnostics": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance",
+                        "Other app performance data": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "Location": "Approximate location",
+                "Data collected and for what purpose": [
+                    {
+                        "Approximate location": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Device or other IDs": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions, In-app search history, Other user-generated content, and Other actions",
+                "Data collected and for what purpose": [
+                    {
+                        "App interactions": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+                        "In-app search history · Optional": "Analytics",
+                        "Other user-generated content · Optional": "Analytics",
+                        "Other actions": "Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization"
+                    }
+                ]
+            },
+            {
+                "Financial info": "Purchase history and Other financial info",
+                "Data collected and for what purpose": [
+                    {
+                        "Purchase history": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+                        "Other financial info · Optional": "Analytics, Advertising or marketing"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            },
+            {
+                "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

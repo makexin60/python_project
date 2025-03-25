@@ -1,0 +1,66 @@
+[
+    {
+        "No data shared with third parties ( The developer says this app doesn't share user data with other companies or organizations. Learn more about how developers declare sharing. )": []
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Device or other IDs": "Analytics, Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "Location": "Approximate location",
+                "Data collected and for what purpose": [
+                    {
+                        "Approximate location": "Analytics, Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions, In-app search history, Other user-generated content, and Other actions",
+                "Data collected and for what purpose": [
+                    {
+                        "App interactions": "Analytics, Advertising or marketing",
+                        "In-app search history": "App functionality, Advertising or marketing",
+                        "Other user-generated content": "Analytics, Advertising or marketing",
+                        "Other actions": "Analytics, Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "Personal info": "User IDs, Sexual orientation, and Other info",
+                "Data collected and for what purpose": [
+                    {
+                        "User IDs": "Analytics, Advertising or marketing",
+                        "Sexual orientation": "Analytics, Advertising or marketing",
+                        "Other info": "Analytics, Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+                "Data collected and for what purpose": [
+                    {
+                        "Crash logs": "Analytics, Advertising or marketing",
+                        "Diagnostics": "Analytics, Advertising or marketing",
+                        "Other app performance data": "Analytics, Advertising or marketing"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data isn’t encrypted": "Your data isn’t transferred over a secure connection"
+            },
+            {
+                "Data can’t be deleted": "The developer doesn’t provide a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

@@ -1,0 +1,61 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "Photos and videos": "Videos",
+                "Data shared and for what purpose": [
+                    {
+                        "Videos": "App functionality"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "Photos and videos": "Photos",
+                "Data collected and for what purpose": [
+                    {
+                        "Photos · Optional": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Web browsing": "Web browsing history",
+                "Data collected and for what purpose": [
+                    {
+                        "Web browsing history · Optional": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Location": "Approximate location",
+                "Data collected and for what purpose": [
+                    {
+                        "Approximate location": "Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "Audio": "Music files and Other audio files",
+                "Data collected and for what purpose": [
+                    {
+                        "Music files · Optional": "App functionality",
+                        "Other audio files · Optional": "App functionality"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data isn’t encrypted": "Your data isn’t transferred over a secure connection"
+            },
+            {
+                "Data can’t be deleted": "The developer doesn’t provide a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

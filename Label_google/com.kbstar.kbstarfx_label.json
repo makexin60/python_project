@@ -1,0 +1,69 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "Files and docs": "Files and docs",
+                "Data shared and for what purpose": [
+                    {
+                        "Files and docs": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Financial info": "Other financial info",
+                "Data shared and for what purpose": [
+                    {
+                        "Other financial info": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Contacts": "Contacts",
+                "Data shared and for what purpose": [
+                    {
+                        "Contacts": "App functionality, Account management"
+                    }
+                ]
+            },
+            {
+                "Photos and videos": "Photos",
+                "Data shared and for what purpose": [
+                    {
+                        "Photos": "Account management"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name, Email address, User IDs, Address, and Phone number",
+                "Data shared and for what purpose": [
+                    {
+                        "Name": "Account management",
+                        "Email address": "Advertising or marketing",
+                        "User IDs": "App functionality, Advertising or marketing",
+                        "Address": "Advertising or marketing",
+                        "Phone number": "Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "Messages": "Emails and SMS or MMS",
+                "Data shared and for what purpose": [
+                    {
+                        "Emails": "Advertising or marketing",
+                        "SMS or MMS": "Advertising or marketing"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "No data collected ( The developer says this app doesn’t collect user data )": []
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            }
+        ]
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "Personal info": "Name",
+                "Data shared and for what purpose": [
+                    {
+                        "Name": "Advertising or marketing"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "Photos and videos": "Photos",
+                "Data collected and for what purpose": [
+                    {
+                        "Photos · Optional": "App functionality, Account management"
+                    }
+                ]
+            },
+            {
+                "Financial info": "User payment info and Purchase history",
+                "Data collected and for what purpose": [
+                    {
+                        "User payment info": "App functionality, Account management",
+                        "Purchase history": "App functionality, Account management"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Device or other IDs": "App functionality, Analytics, Developer communications"
+                    }
+                ]
+            },
+            {
+                "Messages": "Emails and Other in-app messages",
+                "Data collected and for what purpose": [
+                    {
+                        "Emails · Optional": "App functionality, Account management",
+                        "Other in-app messages": "App functionality, Account management"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Email address, User IDs, Address, and Other info",
+                "Data collected and for what purpose": [
+                    {
+                        "Email address · Optional": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
+                        "User IDs": "App functionality, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
+                        "Address · Optional": "Account management",
+                        "Other info · Optional": "App functionality, Account management"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data isn’t encrypted": "Your data isn’t transferred over a secure connection"
+            },
+            {
+                "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

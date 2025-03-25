@@ -1,0 +1,63 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "Personal info": "Sexual orientation and Other info",
+                "Data shared and for what purpose": [
+                    {
+                        "Sexual orientation": "Analytics",
+                        "Other info": "Analytics"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "App info and performance": "Crash logs",
+                "Data collected and for what purpose": [
+                    {
+                        "Crash logs": "Analytics"
+                    }
+                ]
+            },
+            {
+                "Personal info": "User IDs, Sexual orientation, and Other info",
+                "Data collected and for what purpose": [
+                    {
+                        "User IDs": "Personalization",
+                        "Sexual orientation": "Analytics",
+                        "Other info": "Analytics"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Device or other IDs": "Analytics"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions",
+                "Data collected and for what purpose": [
+                    {
+                        "App interactions": "Analytics"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            },
+            {
+                "Committed to follow the Play Families Policy": "The developer has committed to follow the Play Families Policy for this app. See the policy"
+            }
+        ]
+    }
+]

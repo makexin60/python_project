@@ -1,0 +1,66 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "Location": "Precise location",
+                "Data shared and for what purpose": [
+                    {
+                        "Precise location": "App functionality, Fraud prevention, security, and compliance, Account management"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "Location": "Approximate location and Precise location",
+                "Data collected and for what purpose": [
+                    {
+                        "Approximate location": "App functionality, Account management",
+                        "Precise location": "App functionality, Fraud prevention, security, and compliance, Personalization, Account management"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name, Email address, Address, and Phone number",
+                "Data collected and for what purpose": [
+                    {
+                        "Name": "App functionality, Personalization, Account management",
+                        "Email address": "App functionality, Personalization, Account management",
+                        "Address": "Account management",
+                        "Phone number": "App functionality, Fraud prevention, security, and compliance, Personalization, Account management"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions and In-app search history",
+                "Data collected and for what purpose": [
+                    {
+                        "App interactions · Optional": "Analytics",
+                        "In-app search history · Optional": "Analytics"
+                    }
+                ]
+            },
+            {
+                "Financial info": "Credit score and Other financial info",
+                "Data collected and for what purpose": [
+                    {
+                        "Credit score · Optional": "App functionality, Analytics, Fraud prevention, security, and compliance, Account management",
+                        "Other financial info · Optional": "App functionality, Analytics"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            },
+            {
+                "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "App activity": "App interactions, Other user-generated content, and Other actions",
+                "Data shared and for what purpose": [
+                    {
+                        "App interactions": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management",
+                        "Other user-generated content": "Fraud prevention, security, and compliance",
+                        "Other actions": "Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization"
+                    }
+                ]
+            },
+            {
+                "Financial info": "Purchase history",
+                "Data shared and for what purpose": [
+                    {
+                        "Purchase history": "Analytics, Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+                "Data shared and for what purpose": [
+                    {
+                        "Crash logs": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
+                        "Diagnostics": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
+                        "Other app performance data": "Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Account management"
+                    }
+                ]
+            },
+            {
+                "Contacts": "Contacts",
+                "Data shared and for what purpose": [
+                    {
+                        "Contacts": "Analytics, Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data shared and for what purpose": [
+                    {
+                        "Device or other IDs": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management"
+                    }
+                ]
+            },
+            {
+                "Photos and videos": "Photos",
+                "Data shared and for what purpose": [
+                    {
+                        "Photos": "App functionality, Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name, Email address, User IDs, Address, and Phone number",
+                "Data shared and for what purpose": [
+                    {
+                        "Name": "App functionality, Analytics, Advertising or marketing",
+                        "Email address": "App functionality, Analytics, Advertising or marketing, Account management",
+                        "User IDs": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance",
+                        "Address": "Analytics, Advertising or marketing",
+                        "Phone number": "Analytics, Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "Messages": "Emails",
+                "Data shared and for what purpose": [
+                    {
+                        "Emails": "Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "Location": "Approximate location and Precise location",
+                "Data shared and for what purpose": [
+                    {
+                        "Approximate location": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management",
+                        "Precise location": "App functionality, Developer communications, Advertising or marketing, Personalization"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "Contacts": "Contacts",
+                "Data collected and for what purpose": [
+                    {
+                        "Contacts": "App functionality, Analytics, Advertising or marketing, Account management"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name, Email address, Address, Phone number, Sexual orientation, and Other info",
+                "Data collected and for what purpose": [
+                    {
+                        "Name": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management",
+                        "Email address": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
+                        "Address": "Analytics, Advertising or marketing",
+                        "Phone number": "Analytics, Advertising or marketing",
+                        "Sexual orientation": "Advertising or marketing",
+                        "Other info": "App functionality, Analytics, Advertising or marketing, Personalization"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data isn’t encrypted": "Your data isn’t transferred over a secure connection"
+            },
+            {
+                "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

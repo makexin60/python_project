@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "id": "978982416",
+            "type": "apps",
+            "href": "/v1/catalog/ie/apps/978982416?l=en-GB",
+            "attributes": {
+                "privacyDetails": {
+                    "managePrivacyChoicesUrl": null,
+                    "privacyTypes": []
+                }
+            },
+            "relationships": {
+                "genres": {
+                    "href": "/v1/catalog/ie/apps/978982416/genres?l=en-GB",
+                    "data": []
+                },
+                "developer": {
+                    "href": "/v1/catalog/ie/apps/978982416/developer?l=en-GB",
+                    "data": [
+                        {
+                            "id": "483926607",
+                            "type": "developers",
+                            "href": "/v1/catalog/ie/developers/483926607?l=en-GB"
+                        }
+                    ]
+                }
+            },
+            "meta": {
+                "contentVersion": {
+                    "MZ_INDEXER": 1739910849715,
+                    "RTCI": 1739452875188
+                }
+            }
+        }
+    ]
+}

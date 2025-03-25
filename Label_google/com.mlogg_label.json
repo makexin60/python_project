@@ -1,0 +1,151 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "Calendar": "Calendar events",
+                "Data shared and for what purpose": [
+                    {
+                        "Calendar events": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Financial info": "Other financial info",
+                "Data shared and for what purpose": [
+                    {
+                        "Other financial info": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name and Address",
+                "Data shared and for what purpose": [
+                    {
+                        "Name": "App functionality, Account management",
+                        "Address": "App functionality"
+                    }
+                ]
+            },
+            {
+                "App activity": "Other user-generated content",
+                "Data shared and for what purpose": [
+                    {
+                        "Other user-generated content": "App functionality"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+                "Data collected and for what purpose": [
+                    {
+                        "Crash logs": "Analytics",
+                        "Diagnostics": "Analytics",
+                        "Other app performance data": "Analytics, Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "Audio": "Voice or sound recordings",
+                "Data collected and for what purpose": [
+                    {
+                        "Voice or sound recordings · Optional": "App functionality, Fraud prevention, security, and compliance, Personalization"
+                    }
+                ]
+            },
+            {
+                "Location": "Approximate location and Precise location",
+                "Data collected and for what purpose": [
+                    {
+                        "Approximate location": "App functionality, Analytics, Fraud prevention, security, and compliance",
+                        "Precise location": "App functionality, Analytics, Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Device or other IDs": "Developer communications, Fraud prevention, security, and compliance, Account management"
+                    }
+                ]
+            },
+            {
+                "Messages": "SMS or MMS",
+                "Data collected and for what purpose": [
+                    {
+                        "SMS or MMS": "App functionality, Personalization"
+                    }
+                ]
+            },
+            {
+                "Contacts": "Contacts",
+                "Data collected and for what purpose": [
+                    {
+                        "Contacts · Optional": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Financial info": "Purchase history and Other financial info",
+                "Data collected and for what purpose": [
+                    {
+                        "Purchase history": "App functionality",
+                        "Other financial info · Optional": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Photos and videos": "Photos",
+                "Data collected and for what purpose": [
+                    {
+                        "Photos": "App functionality, Analytics, Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name, Email address, User IDs, Address, Phone number, and Other info",
+                "Data collected and for what purpose": [
+                    {
+                        "Name · Optional": "App functionality, Account management",
+                        "Email address": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
+                        "User IDs": "App functionality, Developer communications, Fraud prevention, security, and compliance, Account management",
+                        "Address · Optional": "App functionality",
+                        "Phone number": "App functionality, Analytics, Fraud prevention, security, and compliance, Personalization, Account management",
+                        "Other info": "App functionality, Fraud prevention, security, and compliance, Account management"
+                    }
+                ]
+            },
+            {
+                "Files and docs": "Files and docs",
+                "Data collected and for what purpose": [
+                    {
+                        "Files and docs · Optional": "App functionality"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions and Other user-generated content",
+                "Data collected and for what purpose": [
+                    {
+                        "App interactions": "Analytics",
+                        "Other user-generated content · Optional": "App functionality"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            },
+            {
+                "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

@@ -1,0 +1,141 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "Location": "Precise location",
+                "Data shared and for what purpose": [
+                    {
+                        "Precise location": "App functionality, Analytics, Advertising or marketing, Personalization"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data shared and for what purpose": [
+                    {
+                        "Device or other IDs": "App functionality, Analytics, Advertising or marketing, Personalization"
+                    }
+                ]
+            },
+            {
+                "Health and fitness": "Health info and Fitness info",
+                "Data shared and for what purpose": [
+                    {
+                        "Health info": "App functionality, Analytics, Advertising or marketing, Personalization",
+                        "Fitness info": "App functionality, Analytics, Developer communications, Advertising or marketing, Personalization"
+                    }
+                ]
+            },
+            {
+                "Personal info": "User IDs and Other info",
+                "Data shared and for what purpose": [
+                    {
+                        "User IDs": "App functionality, Developer communications, Account management",
+                        "Other info": "App functionality, Advertising or marketing, Personalization"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "Contacts": "Contacts",
+                "Data collected and for what purpose": [
+                    {
+                        "Contacts · Optional": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Location": "Precise location",
+                "Data collected and for what purpose": [
+                    {
+                        "Precise location · Optional": "App functionality, Personalization"
+                    }
+                ]
+            },
+            {
+                "Photos and videos": "Photos",
+                "Data collected and for what purpose": [
+                    {
+                        "Photos · Optional": "App functionality"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Crash logs and Diagnostics",
+                "Data collected and for what purpose": [
+                    {
+                        "Crash logs": "Analytics",
+                        "Diagnostics": "Analytics"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions, Other user-generated content, and Other actions",
+                "Data collected and for what purpose": [
+                    {
+                        "App interactions": "App functionality, Analytics, Developer communications, Advertising or marketing, Personalization",
+                        "Other user-generated content · Optional": "App functionality, Analytics, Developer communications, Advertising or marketing, Personalization",
+                        "Other actions · Optional": "App functionality, Analytics, Advertising or marketing, Personalization"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Device or other IDs": "App functionality, Analytics, Advertising or marketing, Personalization"
+                    }
+                ]
+            },
+            {
+                "Health and fitness": "Health info and Fitness info",
+                "Data collected and for what purpose": [
+                    {
+                        "Health info · Optional": "App functionality, Analytics, Developer communications, Advertising or marketing, Personalization",
+                        "Fitness info · Optional": "App functionality, Analytics, Developer communications, Advertising or marketing, Personalization"
+                    }
+                ]
+            },
+            {
+                "Files and docs": "Files and docs",
+                "Data collected and for what purpose": [
+                    {
+                        "Files and docs · Optional": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Audio": "Voice or sound recordings",
+                "Data collected and for what purpose": [
+                    {
+                        "Voice or sound recordings · Optional": "App functionality, Analytics, Personalization"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name, User IDs, Phone number, and Other info",
+                "Data collected and for what purpose": [
+                    {
+                        "Name": "App functionality",
+                        "User IDs": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management",
+                        "Phone number": "Fraud prevention, security, and compliance, Account management",
+                        "Other info · Optional": "App functionality, Analytics, Advertising or marketing, Personalization"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            },
+            {
+                "Data can’t be deleted": "The developer doesn’t provide a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

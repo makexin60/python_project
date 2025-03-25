@@ -1,0 +1,119 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data shared and for what purpose": [
+                    {
+                        "Device or other IDs": "Analytics, Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name, Email address, User IDs, Address, and Phone number",
+                "Data shared and for what purpose": [
+                    {
+                        "Name": "Analytics, Advertising or marketing",
+                        "Email address": "Analytics, Advertising or marketing",
+                        "User IDs": "Analytics, Advertising or marketing, Personalization",
+                        "Address": "Analytics, Advertising or marketing",
+                        "Phone number": "Analytics, Advertising or marketing, Account management"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Crash logs",
+                "Data shared and for what purpose": [
+                    {
+                        "Crash logs": "Analytics"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions, In-app search history, and Other actions",
+                "Data shared and for what purpose": [
+                    {
+                        "App interactions": "Analytics",
+                        "In-app search history": "App functionality, Analytics, Personalization",
+                        "Other actions": "App functionality, Analytics, Personalization"
+                    }
+                ]
+            },
+            {
+                "Location": "Approximate location",
+                "Data shared and for what purpose": [
+                    {
+                        "Approximate location": "App functionality, Analytics"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Device or other IDs": "Analytics, Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name, Email address, User IDs, Address, and Phone number",
+                "Data collected and for what purpose": [
+                    {
+                        "Name": "App functionality, Analytics, Developer communications, Advertising or marketing, Account management",
+                        "Email address": "App functionality, Analytics, Developer communications, Advertising or marketing, Account management",
+                        "User IDs": "App functionality, Analytics, Advertising or marketing, Personalization, Account management",
+                        "Address": "App functionality, Analytics, Advertising or marketing, Account management",
+                        "Phone number": "App functionality, Analytics, Advertising or marketing, Account management"
+                    }
+                ]
+            },
+            {
+                "Financial info": "User payment info and Purchase history",
+                "Data collected and for what purpose": [
+                    {
+                        "User payment info": "App functionality",
+                        "Purchase history": "App functionality, Personalization"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Crash logs",
+                "Data collected and for what purpose": [
+                    {
+                        "Crash logs": "Analytics"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions, In-app search history, and Other actions",
+                "Data collected and for what purpose": [
+                    {
+                        "App interactions": "Analytics",
+                        "In-app search history": "App functionality, Analytics, Personalization",
+                        "Other actions": "App functionality, Analytics, Personalization"
+                    }
+                ]
+            },
+            {
+                "Location": "Approximate location and Precise location",
+                "Data collected and for what purpose": [
+                    {
+                        "Approximate location": "App functionality",
+                        "Precise location": "App functionality, Account management"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            }
+        ]
+    }
+]

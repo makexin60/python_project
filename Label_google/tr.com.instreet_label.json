@@ -1,0 +1,94 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "Personal info": "Address",
+                "Data shared and for what purpose": [
+                    {
+                        "Address": "App functionality"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "Location": "Approximate location and Precise location",
+                "Data collected and for what purpose": [
+                    {
+                        "Approximate location · Optional": "App functionality",
+                        "Precise location · Optional": "App functionality"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Crash logs",
+                "Data collected and for what purpose": [
+                    {
+                        "Crash logs": "App functionality, Analytics"
+                    }
+                ]
+            },
+            {
+                "Financial info": "User payment info and Purchase history",
+                "Data collected and for what purpose": [
+                    {
+                        "User payment info · Optional": "App functionality, Personalization",
+                        "Purchase history": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Messages": "Emails, SMS or MMS, and Other in-app messages",
+                "Data collected and for what purpose": [
+                    {
+                        "Emails · Optional": "App functionality, Advertising or marketing, Account management",
+                        "SMS or MMS · Optional": "App functionality, Advertising or marketing, Account management",
+                        "Other in-app messages · Optional": "App functionality, Advertising or marketing, Account management"
+                    }
+                ]
+            },
+            {
+                "Photos and videos": "Photos",
+                "Data collected and for what purpose": [
+                    {
+                        "Photos · Optional": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name, Email address, User IDs, Address, Phone number, Sexual orientation, and Other info",
+                "Data collected and for what purpose": [
+                    {
+                        "Name": "App functionality, Account management",
+                        "Email address": "App functionality, Account management",
+                        "User IDs": "App functionality, Account management",
+                        "Address · Optional": "App functionality, Account management",
+                        "Phone number": "App functionality, Fraud prevention, security, and compliance, Account management",
+                        "Sexual orientation · Optional": "App functionality, Personalization, Account management",
+                        "Other info · Optional": "App functionality, Account management"
+                    }
+                ]
+            },
+            {
+                "App activity": "Installed apps",
+                "Data collected and for what purpose": [
+                    {
+                        "Installed apps": "Advertising or marketing"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            },
+            {
+                "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "App activity": "App interactions and Other user-generated content",
+                "Data shared and for what purpose": [
+                    {
+                        "App interactions": "Analytics, Developer communications, Advertising or marketing",
+                        "Other user-generated content": "Analytics, Developer communications, Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data shared and for what purpose": [
+                    {
+                        "Device or other IDs": "Analytics, Developer communications, Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "Financial info": "Purchase history and Other financial info",
+                "Data shared and for what purpose": [
+                    {
+                        "Purchase history": "Analytics, Developer communications, Advertising or marketing",
+                        "Other financial info": "Analytics, Developer communications, Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+                "Data shared and for what purpose": [
+                    {
+                        "Crash logs": "Analytics, Developer communications, Advertising or marketing",
+                        "Diagnostics": "Analytics, Developer communications, Advertising or marketing",
+                        "Other app performance data": "Analytics, Developer communications, Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "Personal info": "User IDs",
+                "Data shared and for what purpose": [
+                    {
+                        "User IDs": "Analytics, Developer communications, Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "Location": "Approximate location",
+                "Data shared and for what purpose": [
+                    {
+                        "Approximate location": "Analytics, Developer communications, Advertising or marketing"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "No data collected ( The developer says this app doesn’t collect user data )": []
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            }
+        ]
+    }
+]

@@ -7,4 +7,141 @@ The user can create notebooks and other files, which will reside in the applicat
 During the TestFlight phase, if the application crashes, a crash report can be sent to the developers. This crash report will contain information about what caused the crash (functions being called, values of variables).
 The owner of the application,
 Nicolas Holzschuch
+, does not have any way to access the data created by the user.Privacy policy for Carnets
+Carnets
+is a Jupyter notebook. It runs entirely locally, on your iOS device. It does not need a network connection.
+Carnets
+does not collect any data, period.
+The user can create notebooks and other files, which will reside in the application directory, and can be moved outside of the directory as needed by the user.
+During the TestFlight phase, if the application crashes, a crash report can be sent to the developers. This crash report will contain information about what caused the crash (functions being called, values of variables).
+The owner of the application,
+Nicolas Holzschuch
 , does not have any way to access the data created by the user.
+Sub-section Policy: 
+Sub-policy 0
+https://github.com/holzschu/Carnets/commit/f7e85ccbf766b8ae87c4aedd037869b2442c4514:
+holzschu
+/
+Carnets
+Public
+Notifications
+You must be signed in to change notification settings
+Fork
+34
+Star
+582
+Code
+Issues
+248
+Pull requests
+1
+Actions
+Projects
+0
+Security
+Insights
+Additional navigation options
+Code
+Issues
+Pull requests
+Actions
+Projects
+Security
+Insights
+File tree
+2
+file
+s
+changed
++
+6
+-
+0
+lines changed
+Top
+README.md
+privacy_policy.md
+2 files changed
++6
+-0
+lines changed
+Original file line number
+Diff line number
+Diff line change
+@@ -1,6 +1,10 @@
+1
+1
+#
+Carnets
+2
+2
+Carnets is a stand-alone Jupyter notebook server and client. Edit your notebooks on the go, even where there is no network.
+3
+3
+4
++
+#
+To install without building:
+5
++
+6
++
+Carnets has been approved for TestFlight by Apple. Send an
+[
+e-mail
+]
+(
+mailto:carnets_jupyter@icloud.com
+)
+to receive an invitation.
+7
++
+4
+8
+#
+To build:
+5
+9
+-
+clone the git repository
+6
+10
+-
+type
+`
+./get_frameworks.sh
+`
+Original file line number
+Diff line number
+Diff line change
+@@ -7,4 +7,6 @@
+7
+7
+8
+8
+The user can create notebooks and other files, which will reside in the application directory, and can be moved outside of the directory as needed by the user.
+9
+9
+10
++
+During the TestFlight phase, if the application crashes, a crash report can be sent to the developers. This crash report will contain information about what caused the crash (functions being called, values of variables).
+11
++
+10
+12
+The owner of the application,
+[
+Nicolas Holzschuch
+]
+(
+mailto:carnets_jupyter@icloud.com
+)
+, does not have any way to access the data created by the user.
+0
+commit comments
+Comments
+0
+(
+0
+)
+You can’t perform that action at this time.

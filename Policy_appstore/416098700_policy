@@ -3,8 +3,10 @@ Personal Data processed for the following purposes and using the following servi
 Advertising
 AdMob
 Personal Data: Cookies; unique device identifiers for advertising (Google Advertiser ID or IDFA, for example); Usage Data
+AppLovin
+Personal Data: Trackers; Usage Data
 Analytics
-Google Analytics for Firebase
+Google Analytics for Firebase (for apps)
 Personal Data: Cookies; unique device identifiers for advertising (Google Advertiser ID or IDFA, for example); Usage Data
 Infrastructure monitoring
 Firebase Performance Monitoring
@@ -29,8 +31,8 @@ AppChoices
 that helps Users to control interest-based advertising on mobile apps.
 Users may also opt out of certain advertising features through applicable device settings, such as the device advertising settings for mobile phones or ads settings in general.
 Further information about the processing of Personal Data
-CCPA: Collection of personal information about minors
-We do not knowingly collect personal information of consumers who are below the age of 16.
+We do not collect Personal Information about California consumers below the age of 16
+We do not knowingly collect Personal Information of California consumers who are below the age of 16 nor do we Sell or Share it.
 Contact information
 Owner and Data Controller
 Ali Kerem Erkan - Girişim 88 Sitesi Küme Evleri No 2, Orhun Mah. Etimesgut, 06815, Ankara (Turkey)
@@ -72,8 +74,10 @@ Some of the services listed below may use Trackers to identify Users or they may
 Services of this kind usually offer the possibility to opt out of such tracking. In addition to any opt-out feature offered by any of the services below, Users may learn more on how to generally opt out of interest-based advertising within the dedicated section "How to opt-out of interest-based advertising" in this document.
 AdMob (Google Ireland Limited)
 AdMob is an advertising service provided by Google Ireland Limited.
-In order to understand Google's use of Data, consult
-Google's partner policy
+In order to understand Google's use of Data, consult their
+partner policy
+and their
+Business Data page
 .
 Personal Data processed: Cookies; unique device identifiers for advertising (Google Advertiser ID or IDFA, for example); Usage Data.
 Place of processing:  Ireland –
@@ -83,10 +87,19 @@ Category of Personal Information collected according to the CCPA: identifiers; i
 This processing constitutes:
 a Sale in California
 a Sharing in California
+AppLovin (AppLovin Corporation)
+AppLovin is an advertising service provided by AppLovin Corporation.
+Personal Data processed: Trackers; Usage Data.
+Place of processing:  United States –
+Privacy Policy
+–
+Opt out
+.
+Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
 Analytics
 The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.
-Google Analytics for Firebase
-Google Analytics for Firebase or Firebase Analytics is an analytics service provided by Google LLC or by Google Ireland Limited, depending on how the Owner manages the Data processing.
+Google Analytics for Firebase (for apps)
+Google Analytics for Firebase (for apps) or Firebase Analytics is an analytics service provided by Google LLC or by Google Ireland Limited, depending on how the Owner manages the Data processing.
 In order to understand Google's use of Data, consult
 Google's partner policy
 .
@@ -270,7 +283,7 @@ Third-parties:
 AdMob Google Inc., Google LLC
 Internet or other electronic network activity information
 Personal Information collected or disclosed:
-Cookies, Usage Data, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example), various types of Data as specified in the privacy policy of the service
+Cookies, Usage Data, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example), various types of Data as specified in the privacy policy of the service, Trackers
 Purposes:
 Advertising
 Analytics
@@ -283,7 +296,7 @@ Yes
 Targeted Advertising: ℹ️:
 Yes
 Third-parties:
-AdMob Google Inc., Google LLC
+AdMob Google Inc., Google LLC, AppLovin Corporation
 Service providers or contractors:
 Qrafter
 ℹ️ You can read the definitions of these concepts inside the “
@@ -351,8 +364,427 @@ We will respond to your request without undue delay, but in all cases within the
 Should we deny your request, we will explain to you the reasons behind our denial (where envisaged by applicable law you may then contact the relevant authority to submit a complaint).
 We do not charge a fee to process or respond to your request unless such request is manifestly unfounded or excessive and in all other cases where it is permitted by the applicable law. In such cases, we may charge a reasonable fee or refuse to act on the request. In either case, we will communicate our choices and explain the reasons behind them.
 Additional information for Users in the United States
-CCPA: Collection of personal information about minors
-We do not knowingly collect personal information of consumers who are below the age of 16.
+We do not collect Personal Information about California consumers below the age of 16
+We do not knowingly collect Personal Information of California consumers who are below the age of 16 nor do we Sell or Share it.
+Additional information about Data collection and processing
+Legal action
+The User's Personal Data may be used for legal purposes by the Owner in Court or in the stages leading to possible legal action arising from improper use of Qrafter or the related Services.
+The User declares to be aware that the Owner may be required to reveal personal data upon request of public authorities.
+Additional information about User's Personal Data
+In addition to the information contained in this privacy policy, Qrafter may provide the User with additional and contextual information concerning particular Services or the collection and processing of Personal Data upon request.
+System logs and maintenance
+For operation and maintenance purposes, Qrafter and any third-party services may collect files that record interaction with Qrafter (System logs) or use other Personal Data (such as the IP Address) for this purpose.
+Information not contained in this policy
+More details concerning the collection or processing of Personal Data may be requested from the Owner at any time. Please see the contact information at the beginning of this document.
+Changes to this privacy policy
+The Owner reserves the right to make changes to this privacy policy at any time by notifying its Users on this page and possibly within Qrafter and/or - as far as technically and legally feasible - sending a notice to Users via any contact information available to the Owner. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom.
+Should the changes affect processing activities performed on the basis of the User’s consent, the Owner shall collect new consent from the User, where required.
+Definitions and legal references
+Personal Data (or Data)
+          / Personal Information (or Information)
+Any information that directly, indirectly, or in connection with other information — including a personal identification number — allows for the identification or identifiability of a natural person.
+Sensitive Personal Information
+Sensitive Personal Information means any Personal Information  that is not publicly available and reveals information considered sensitive according to the applicable privacy law.
+Usage Data
+Information collected automatically through Qrafter (or third-party services employed in Qrafter), which can include: the IP addresses or domain names of the computers utilized by the Users who use Qrafter, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Application) and the details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User's IT environment.
+User
+The individual using Qrafter who, unless otherwise specified, coincides with the Data Subject.
+Data Subject
+The natural person to whom the Personal Data refers.
+Data Processor (or Processor)
+The natural or legal person, public authority, agency or other body which processes Personal Data on behalf of the Controller, as described in this privacy policy.
+Data Controller (or Owner)
+The natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of Personal Data, including the security measures concerning the operation and use of Qrafter. The Data Controller, unless otherwise specified, is the Owner of Qrafter.
+Qrafter (or this Application)
+The means by which the Personal Data of the User is collected and processed.
+Service
+The service provided by Qrafter as described in the relative terms (if available) and on this site/application.
+Sale
+Sale means any exchange of Personal Information by the Owner to
+a third party, for monetary or other valuable consideration
+, as defined by the applicable privacy US state law. Please note that the exchange of Personal Information with a service provider pursuant to a written contract that meets the requirements set by the applicable law, does not constitute a Sale of your Personal Information.
+Sharing
+Sharing means any sharing, renting, releasing, disclosing, disseminating, making available, transferring, or otherwise communicating orally, in writing, or by electronic or other means, a consumer's Personal Information by the business to a
+third party for cross-context behavioral advertising
+, whether for monetary or other valuable consideration, including transactions between a business and a third party for cross-context behavioral advertising for the benefit of a business in which no money is exchanged, as defined by the California privacy laws. Please note that the exchange of Personal Information with a service provider pursuant to a written contract that meets the requirements set by the California privacy laws, does not constitute sharing of your Personal Information.
+Targeted advertising
+Targeted advertising means displaying advertisements to a consumer where the advertisement is selected based on Personal Information obtained from that consumer’s activities over time and across nonaffiliated websites or online applications to predict such consumer’s preferences or interests, as defined by the applicable privacy US state law.
+European Union (or EU)
+Unless otherwise specified, all references made within this document to the European Union include all current member states to the European Union and the European Economic Area.
+Cookie
+Cookies are Trackers consisting of small sets of data stored in the User's browser.
+Tracker
+Tracker indicates any technology - e.g Cookies, unique identifiers, web beacons, embedded scripts, e-tags and fingerprinting - that enables the tracking of Users, for example by accessing or storing information on the User’s device.
+Legal information
+This privacy statement has been prepared based on provisions of multiple legislations.
+This privacy policy relates solely to Qrafter, if not stated otherwise within this document.Policy summary
+Personal Data processed for the following purposes and using the following services:
+Advertising
+AdMob
+Personal Data: Cookies; unique device identifiers for advertising (Google Advertiser ID or IDFA, for example); Usage Data
+AppLovin
+Personal Data: Trackers; Usage Data
+Analytics
+Google Analytics for Firebase (for apps)
+Personal Data: Cookies; unique device identifiers for advertising (Google Advertiser ID or IDFA, for example); Usage Data
+Infrastructure monitoring
+Firebase Performance Monitoring
+Personal Data: various types of Data as specified in the privacy policy of the service
+Information on opting out of interest-based advertising
+In addition to any opt-out feature provided by any of the services listed in this document, Users may follow the instructions provided by
+YourOnlineChoices
+(EU),
+  the
+Network Advertising Initiative
+(US) and
+  the
+Digital Advertising Alliance
+(US),
+DAAC
+(Canada),
+DDAI
+(Japan)
+  or other similar initiatives. Such initiatives allow Users to select their tracking preferences for most of the advertising tools. The Owner thus recommends that Users make use of these resources in addition to the information provided in this document.
+The Digital Advertising Alliance offers an application called
+AppChoices
+that helps Users to control interest-based advertising on mobile apps.
+Users may also opt out of certain advertising features through applicable device settings, such as the device advertising settings for mobile phones or ads settings in general.
+Further information about the processing of Personal Data
+We do not collect Personal Information about California consumers below the age of 16
+We do not knowingly collect Personal Information of California consumers who are below the age of 16 nor do we Sell or Share it.
+Contact information
+Owner and Data Controller
+Ali Kerem Erkan - Girişim 88 Sitesi Küme Evleri No 2, Orhun Mah. Etimesgut, 06815, Ankara (Turkey)
+Owner contact email:
+kerem@keremerkan.net
+Full policy
+Owner and Data Controller
+Ali Kerem Erkan - Girişim 88 Sitesi Küme Evleri No 2, Orhun Mah. Etimesgut, 06815, Ankara (Turkey)
+Owner contact email:
+kerem@keremerkan.net
+Types of Data collected
+Among the types of Personal Data that Qrafter collects, by itself or through third parties, there are:
+      Cookies; Usage Data; unique device identifiers for advertising (Google Advertiser ID or IDFA, for example).
+Complete details on each type of Personal Data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection.
+Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using Qrafter.
+Unless specified otherwise, all Data requested by Qrafter is mandatory and failure to provide this Data may make it impossible for Qrafter to provide its services. In cases where Qrafter specifically states that some Data is not mandatory, Users are free not to communicate this Data without consequences to the availability or the functioning of the Service.
+Users who are uncertain about which Personal Data is mandatory are welcome to contact the Owner.
+Any use of Cookies – or of other tracking tools — by Qrafter or by the owners of third-party services used by Qrafter serves the purpose of providing the Service required by the User, in addition to any other purposes described in the present document.
+Users are responsible for any third-party Personal Data obtained, published or shared through Qrafter.
+Mode and place of processing the Data
+Methods of processing
+The Owner takes appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the Data.
+The Data processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Owner, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of Qrafter (administration, sales, marketing, legal, system administration) or external parties (such as third-party technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if necessary, as Data Processors by the Owner. The updated list of these parties may be requested from the Owner at any time.
+Place
+The Data is processed at the Owner's operating offices and in any other places where the parties involved in the processing are located.
+Depending on the User's location, data transfers may involve transferring the User's Data to a country other than their own. To find out more about the place of processing of such transferred Data, Users can check the section containing details about the processing of Personal Data.
+Retention time
+Unless specified otherwise in this document, Personal Data shall be processed and stored for as long as required by the purpose they have been collected for and may be retained for longer due to applicable legal obligation or based on the Users’ consent.
+The purposes of processing
+The Data concerning the User is collected to allow the Owner to provide its Service, comply with its legal obligations, respond to enforcement requests, protect its rights and interests (or those of its Users or third parties), detect any malicious or fraudulent activity, as well as the following:
+        Advertising, Analytics and Infrastructure monitoring.
+For specific information about the Personal Data used for each purpose, the User may refer to the section “Detailed information on the processing of Personal Data”.
+Detailed information on the processing of Personal Data
+Personal Data is collected for the following purposes and using the following services:
+Advertising
+This type of service allows User Data to be utilized for advertising communication purposes. These communications are displayed in the form of banners and other advertisements on Qrafter, possibly based on User interests.
+This does not mean that all Personal Data are used for this purpose. Information and conditions of use are shown below.
+Some of the services listed below may use Trackers to identify Users or they may use the behavioral retargeting technique, i.e. displaying ads tailored to the User’s interests and behavior, including those detected outside Qrafter. For more information, please check the privacy policies of the relevant services.
+Services of this kind usually offer the possibility to opt out of such tracking. In addition to any opt-out feature offered by any of the services below, Users may learn more on how to generally opt out of interest-based advertising within the dedicated section "How to opt-out of interest-based advertising" in this document.
+AdMob (Google Ireland Limited)
+AdMob is an advertising service provided by Google Ireland Limited.
+In order to understand Google's use of Data, consult their
+partner policy
+and their
+Business Data page
+.
+Personal Data processed: Cookies; unique device identifiers for advertising (Google Advertiser ID or IDFA, for example); Usage Data.
+Place of processing:  Ireland –
+Privacy Policy
+.
+Category of Personal Information collected according to the CCPA: identifiers; internet or other electronic network activity information.
+This processing constitutes:
+a Sale in California
+a Sharing in California
+AppLovin (AppLovin Corporation)
+AppLovin is an advertising service provided by AppLovin Corporation.
+Personal Data processed: Trackers; Usage Data.
+Place of processing:  United States –
+Privacy Policy
+–
+Opt out
+.
+Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
+Analytics
+The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.
+Google Analytics for Firebase (for apps)
+Google Analytics for Firebase (for apps) or Firebase Analytics is an analytics service provided by Google LLC or by Google Ireland Limited, depending on how the Owner manages the Data processing.
+In order to understand Google's use of Data, consult
+Google's partner policy
+.
+Firebase Analytics may share Data with other tools provided by Firebase, such as Crash Reporting, Authentication, Remote Config or Notifications. The User may check this privacy policy to find a detailed explanation about the other tools used by the Owner.
+Qrafter uses identifiers for mobile devices and technologies similar to cookies to run the Firebase Analytics service.
+Users may opt-out of certain Firebase features through applicable device settings, such as the device advertising settings for mobile phones or by following the instructions in other Firebase related sections of this privacy policy, if available.
+Personal Data processed: Cookies; unique device identifiers for advertising (Google Advertiser ID or IDFA, for example); Usage Data.
+Place of processing:  United States –
+Privacy Policy
+;  Ireland –
+Privacy Policy
+.
+Category of Personal Information collected according to the CCPA: identifiers; internet or other electronic network activity information.
+This processing constitutes:
+Infrastructure monitoring
+This type of service allows Qrafter to monitor the use and behavior of its components so its performance, operation, maintenance and troubleshooting can be improved.
+Which Personal Data are processed depends on the characteristics and mode of implementation of these services, whose function is to filter the activities of Qrafter.
+Firebase Performance Monitoring
+Firebase Performance Monitoring is a monitoring service provided by Google LLC or by Google Ireland Limited, depending on how the Owner manages the Data processing.
+Personal Data processed: various types of Data as specified in the privacy policy of the service.
+Place of processing:  United States –
+Privacy Policy
+;  Ireland –
+Privacy Policy
+.
+Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
+This processing constitutes:
+Information on opting out of interest-based advertising
+In addition to any opt-out feature provided by any of the services listed in this document, Users may follow the instructions provided by
+YourOnlineChoices
+(EU),
+  the
+Network Advertising Initiative
+(US) and
+  the
+Digital Advertising Alliance
+(US),
+DAAC
+(Canada),
+DDAI
+(Japan)
+  or other similar initiatives. Such initiatives allow Users to select their tracking preferences for most of the advertising tools. The Owner thus recommends that Users make use of these resources in addition to the information provided in this document.
+The Digital Advertising Alliance offers an application called
+AppChoices
+that helps Users to control interest-based advertising on mobile apps.
+Users may also opt out of certain advertising features through applicable device settings, such as the device advertising settings for mobile phones or ads settings in general.
+Further Information for Users
+     in the European Union
+This section applies to all Users in the European Union, according to the General Data Protection Regulation (the “GDPR”), and, for such Users, supersedes any other possibly divergent or conflicting information contained in the privacy policy. Further details regarding the categories of Data processed, the purposes of processing, the categories of recipients of the Personal Data, if any, and further information about Personal Data can be found in
+the section titled “Detailed information on the processing of Personal Data” within this document
+.
+Legal basis of processing
+The Owner may process Personal Data relating to Users if one of the following applies:
+Users have given their consent for one or more specific purposes.
+provision of Data is necessary for the performance of an agreement with the User and/or for any pre-contractual obligations thereof;
+processing is necessary for compliance with a legal obligation to which the Owner is subject;
+processing is related to a task that is carried out in the public interest or in the exercise of official authority vested in the Owner;
+processing is necessary for the purposes of the legitimate interests pursued by the Owner or by a third party.
+In any case, the Owner will gladly help to clarify the specific legal basis that applies to the processing, and in particular whether the provision of Personal Data is a statutory or contractual requirement, or a requirement necessary to enter into a contract.
+Further information about retention time
+Unless specified otherwise in this document, Personal Data shall be processed and stored for as long as required by the purpose they have been collected for and may be retained for longer due to applicable legal obligation or based on the Users’ consent.
+Therefore:
+Personal Data collected for purposes related to the performance of a contract between the Owner and the User shall be retained until such contract has been fully performed.
+Personal Data collected for the purposes of the Owner’s legitimate interests shall be retained as long as needed to fulfill such purposes. Users may find specific information regarding the legitimate interests pursued by the Owner within the relevant sections of  this document or by contacting the Owner.
+The Owner may be allowed to retain Personal Data for a longer period whenever the User has given consent to such processing, as long as such consent is not withdrawn. Furthermore, the Owner may be obliged to retain Personal Data for a longer period whenever required to fulfil a legal obligation or upon order of an authority.
+Once the retention period expires, Personal Data shall be deleted. Therefore, the right of access, the right to erasure, the right to rectification and the right to data portability cannot be enforced after expiration of the retention period.
+The rights of Users based on the General Data Protection Regulation (GDPR)
+Users may exercise certain rights regarding their Data processed by the Owner.
+In particular, Users have the right to do the following, to the extent permitted by law:
+Withdraw their consent at any time.
+Users have the right to withdraw consent where they have previously given their consent to the processing of their Personal Data.
+Object to processing of their Data.
+Users have the right to object to the processing of their Data if the processing is carried out on a legal basis other than consent.
+Access their Data.
+Users have the right to learn if Data is being processed by the Owner, obtain disclosure regarding certain aspects of the processing and obtain a copy of the Data undergoing processing.
+Verify and seek rectification.
+Users have the right to verify the accuracy of their Data and ask for it to be updated or corrected.
+Restrict the processing of their Data.
+Users have the right to restrict the processing of their Data. In this case, the Owner will not process their Data for any purpose other than storing it.
+Have their Personal Data deleted or otherwise removed.
+Users have the right to obtain the erasure of their Data from the Owner.
+Receive their Data and have it transferred to another controller.
+Users have the right to receive their Data in a structured, commonly used and machine readable format and, if technically feasible, to have it transmitted to another controller without any hindrance.
+Lodge a complaint.
+Users have the right to bring a claim before their competent data protection authority.
+Users are also entitled to learn about the legal basis for Data transfers abroad including to any international organization governed by public international law or set up by two or more countries, such as the UN, and about the security measures taken by the Owner to safeguard their Data.
+Details about the right to object to processing
+Where Personal Data is processed for a public interest, in the exercise of an official authority vested in the Owner or for the purposes of the legitimate interests pursued by the Owner, Users may object to such processing by providing a ground related to their particular situation to justify the objection.
+Users must know that, however, should their Personal Data be processed for direct marketing purposes, they can object to that processing at any time, free of charge and without providing any justification. Where the User objects to processing for direct marketing purposes, the Personal Data will no longer be processed for such purposes. To learn whether the Owner is processing Personal Data for direct marketing purposes, Users may refer to the relevant sections of this document.
+How to exercise these rights
+Any requests to exercise User rights can be directed to the Owner through  the contact details provided in this document. Such requests are free of charge and will be answered by the Owner as early as possible and always within one month, providing Users with the information required by law. Any rectification or erasure of Personal Data or restriction of processing will be communicated by the Owner to each recipient, if any, to whom the Personal Data has been disclosed unless this proves impossible or involves disproportionate effort. At the Users’ request, the Owner will inform them about those recipients.
+Further information for Users
+  in Brazil
+This section of the document integrates with and supplements the information contained in the rest of the privacy policy and is provided by the entity running Qrafter and, if the case may be, its parent, subsidiaries and affiliates (for the purposes of this section referred to collectively as “we”, “us”, “our”).
+This section applies to all Users in Brazil (Users are referred to below, simply as “you”, “your”, “yours”), according to the "Lei Geral de Proteção de Dados" (the "LGPD"), and for such Users, it supersedes any other possibly divergent or conflicting information contained in the privacy policy.
+This part of the document uses the term “personal information“ as it is defined in the
+LGPD
+.
+The grounds on which we process your personal information
+We can process your personal information solely if we have a legal basis for such processing. Legal bases are as follows:
+your consent to the relevant processing activities;
+compliance with a legal or regulatory obligation that lies with us;
+the carrying out of public policies provided in laws or regulations or based on contracts, agreements and similar legal instruments;
+studies conducted by research entities, preferably carried out on anonymized personal information;
+the carrying out of a contract and its preliminary procedures, in cases where you are a party to said contract;
+the exercising of our rights in judicial, administrative or arbitration procedures;
+protection or physical safety of yourself or a third party;
+the protection of health – in procedures carried out by health entities or professionals;
+our legitimate interests, provided that your fundamental rights and liberties do not prevail over such interests; and
+credit protection.
+To find out more about the legal bases, you can contact us at any time using the contact details provided in this document.
+Categories of personal information processed
+To find out what categories of your personal information are processed, you can read the section titled “Detailed information on the processing of Personal Data” within this document.
+Why we process your personal information
+To find out why we process your personal information, you can read the sections titled “Detailed information on the processing of Personal Data” and “The purposes of processing” within this document.
+Your Brazilian privacy rights, how to file a request and our response to your requests
+Your Brazilian privacy rights
+You have the right to:
+obtain confirmation of the existence of processing activities on your personal information;
+access to your personal information;
+have incomplete, inaccurate or outdated personal information rectified;
+obtain the anonymization, blocking or elimination of your unnecessary or excessive personal information, or of information that is not being processed in compliance with the LGPD;
+obtain information on the possibility to provide or deny your consent and the consequences thereof;
+obtain information about the third parties with whom we share your personal information;
+obtain, upon your express request, the portability of your personal information (except for anonymized information) to another service or product provider, provided that our commercial and industrial secrets are safeguarded;
+obtain the deletion of your personal information being processed if the processing was based upon your consent, unless one or more exceptions provided for in art. 16 of the LGPD apply;
+revoke your consent at any time;
+lodge a complaint related to your personal information with the ANPD (the National Data Protection Authority) or with consumer protection bodies;
+oppose a processing activity in cases where the processing is not carried out in compliance with the provisions of the law;
+request clear and adequate information regarding the criteria and procedures used for an automated decision; and
+request the review of decisions made solely on the basis of the automated processing of your personal information, which affect your interests. These include decisions to define your personal, professional, consumer and credit profile, or aspects of your personality.
+You will never be discriminated against, or otherwise suffer any sort of detriment, if you exercise your rights.
+How to file your request
+You can file your express request to exercise your rights free from any charge, at any time, by using the contact details provided in this document, or via your legal representative.
+How and when we will respond to your request
+We will strive to promptly respond to your requests.
+In any case, should it be impossible for us to do so, we’ll make sure to communicate to you the factual or legal reasons that prevent us from immediately, or otherwise ever, complying with your requests. In cases where we are not processing your personal information, we will indicate to you the physical or legal person to whom you should address your requests, if we are in the position to do so.
+In the event that you file an
+access
+or personal information
+processing confirmation
+request, please make sure that you specify whether you’d like your personal information to be delivered in electronic or printed form.
+You will also need to let us know whether you want us to answer your request immediately, in which case we will answer in a simplified fashion, or if you need a complete disclosure instead.
+In the latter case, we’ll respond within 15 days from the time of your request, providing you with all the information on the origin of your personal information, confirmation on whether or not records exist, any criteria used for the processing and the purposes of the processing, while safeguarding our commercial and industrial secrets.
+In the event that you file a
+rectification, deletion, anonymization or personal information blocking
+request, we will make sure to immediately communicate your request to other parties with whom we have shared your personal information in order to enable such third parties to also comply with your request — except in cases where such communication is proven impossible or involves disproportionate effort on our side.
+Transfer of personal information outside of Brazil permitted by the law
+We are allowed to transfer your personal information outside of the Brazilian territory in the following cases:
+when the transfer is necessary for international legal cooperation between public intelligence, investigation and prosecution bodies, according to the legal means provided by the international law;
+when the transfer is necessary to protect your life or physical security or those of a third party;
+when the transfer is authorized by the ANPD;
+when the transfer results from a commitment undertaken in an international cooperation agreement;
+when the transfer is necessary for the execution of a public policy or legal attribution of public service;
+when the transfer is necessary for compliance with a legal or regulatory obligation, the carrying out of a contract or preliminary procedures related to a contract, or the regular exercise of rights in judicial, administrative or arbitration procedures.
+Further information for Users
+    in the United States
+This part of the document integrates with and supplements the information contained in the rest of the privacy policy and is provided by the business running Qrafter and, if the case may be, its parent, subsidiaries and affiliates (for the purposes of this section referred to collectively as “we”, “us”, “our”).
+The information contained in this section applies to all Users (Users are referred to below, simply as “you”, “your”, “yours”), who are residents in the following states:
+California, Virginia, Colorado, Connecticut, Utah, Texas, Oregon, Nevada, Delaware, Iowa, New Hampshire, New Jersey, Nebraska and Montana.
+For such Users, this information supersedes any other possibly divergent or conflicting provisions contained in the privacy policy.
+This part of the document uses the term Personal Information.
+Notice at collection
+The following Notice at collection provides you with timely notice about the
+categories of Personal Information collected or disclosed in the past 12 months
+so that you can exercise meaningful control over our use of that Information.
+While such categorization of Personal Information is mainly based on California privacy laws, it can also be helpful for anyone who is not a California resident to get a general idea of what types of Personal Information are collected.
+Identifiers
+Personal Information collected or disclosed:
+Cookies, Usage Data, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example)
+Purposes:
+Advertising
+Analytics
+Retention period:
+for the time necessary to fulfill the purpose
+Sold or Shared ℹ️:
+Yes
+Targeted Advertising: ℹ️:
+Yes
+Third-parties:
+AdMob Google Inc., Google LLC
+Internet or other electronic network activity information
+Personal Information collected or disclosed:
+Cookies, Usage Data, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example), various types of Data as specified in the privacy policy of the service, Trackers
+Purposes:
+Advertising
+Analytics
+Infrastructure monitoring
+Further information about Personal Data
+Retention period:
+for the time necessary to fulfill the purpose
+Sold or Shared ℹ️:
+Yes
+Targeted Advertising: ℹ️:
+Yes
+Third-parties:
+AdMob Google Inc., Google LLC, AppLovin Corporation
+Service providers or contractors:
+Qrafter
+ℹ️ You can read the definitions of these concepts inside the “
+Definitions and legal references section
+” of the privacy policy.
+To know more about your rights in particular to opt out of certain processing activities   you can refer to the “
+Your privacy rights under US state laws
+” section of our privacy policy.
+For more details on the collection of Personal Information, please read the section “
+Detailed information on the processing of Personal Data
+” of our privacy policy.
+We won’t process your Information for unexpected purposes, or for purposes that are not reasonably necessary to and compatible with the purposes originally disclosed, without your consent.
+What are the sources of the Personal Information we collect?
+We collect the above-mentioned categories of Personal Information, either directly or indirectly, from you when you use Qrafter.
+For example, you directly provide your Personal Information when you submit requests via any forms on Qrafter. You also provide Personal Information indirectly when you navigate Qrafter, as Personal Information about you is automatically observed and collected.
+Finally, we may collect your Personal Information from third parties that work with us in connection with the Service or with the functioning of Qrafter and features thereof.
+Your privacy rights under US state laws
+You may exercise certain rights regarding your Personal Information. In particular, to the extent permitted by applicable law, you have:
+the right to access Personal Information: the right to know.
+You have the right to request that we confirm whether or not we are processing your Personal Information. You also have the right to access such Personal Information;
+the right to correct inaccurate Personal Information.
+You have the right to request that we correct any inaccurate Personal Information we maintain about you;
+the right to request the deletion of your Personal Information.
+You have the right to request that we delete any of your Personal Information;
+the right to obtain a copy of your Personal Information.
+We will provide your Personal Information in a portable and usable format that allows you to transfer data easily to another entity – provided that this is technically feasible;
+the right to opt out from the Sale of your Personal Information;
+We will not discriminate against you for exercising your privacy rights.
+the right to non-discrimination.
+Additional rights for Users residing in California
+In addition to the rights listed above common to all Users in the United States, as a User residing in California, you have
+The right to opt out of the Sharing of your Personal Information
+for cross-context behavioral advertising;
+The right to request to limit our use or disclosure of your Sensitive Personal Information
+to only that which is necessary to perform the services or provide the goods, as is reasonably expected by an average consumer. Please note that certain exceptions outlined in the law may apply, such as, when the collection and processing of Sensitive Personal Information is necessary to verify or maintain the quality or safety of our service.
+Additional rights for Users residing in Virginia, Colorado, Connecticut, Texas, Oregon, Nevada, Delaware, Iowa, New Hampshire, New Jersey, Nebraska and Montana
+In addition to the rights listed above common to all Users in the United States, as a User residing in Virginia, Colorado, Connecticut, Texas, Oregon, Nevada, Delaware, Iowa, New Hampshire, New Jersey, Nebraska and Montana you have
+The right to opt out of
+the processing of your personal information for
+Targeted Advertising or profiling
+in furtherance of decisions that produce legal or similarly significant effects concerning you;
+The right to freely give, deny or withdraw your consent for the processing of your Sensitive Personal Information.
+Please note that certain exceptions outlined in the law may apply, such as, but not limited to, when the collection and processing of Sensitive Personal Information is necessary for the provision of a product or service specifically requested by the consumer.
+Additional rights for users residing in Utah and Iowa
+In addition to the rights listed above common to all Users in the United States, as a User residing in Utah and Iowa, you have
+The right to opt out of
+the processing of your Personal Information for
+Targeted Advertising
+;
+The right to opt out of the processing of your Sensitive Personal Information.
+Please note that certain exceptions outlined in the law may apply, such as, but not limited to, when the collection and processing of Sensitive Personal Information is necessary for the provision of a product or service specifically requested by the consumer.
+How to exercise your privacy rights under US state laws
+To exercise the rights described above, you need to submit your request to us by contacting us via the contact details provided in this document.
+For us to respond to your request, we must know who you are. We will not respond to any request if we are unable to verify your identity and therefore confirm the Personal Information in our possession relates to you. You are not required to create an account with us to submit your request. We will use any Personal Information collected from you in connection with the verification of your request solely for verification and shall not further disclose the Personal Information, retain it longer than necessary for purposes of verification, or use it for unrelated purposes.
+If you are an adult, you can make a request on behalf of a child under your parental authority.
+How to exercise your rights to opt out
+In addition to what is stated above, to exercise your right to opt-out of Sale or Sharing and Targeted Advertising you can also use the privacy choices link provided on Qrafter.
+If you want to submit requests to opt out of Sale or Sharing and Targeted Advertising activities via a user-enabled
+global privacy control
+, such as for example the Global Privacy Control (“
+GPC
+”), you are free to do so and we will abide by such request in a frictionless manner.
+How and when we are expected to handle your request
+We will respond to your request without undue delay, but in all cases within the timeframe required by applicable law. Should we need more time, we will explain to you the reasons why, and how much more time we need.
+Should we deny your request, we will explain to you the reasons behind our denial (where envisaged by applicable law you may then contact the relevant authority to submit a complaint).
+We do not charge a fee to process or respond to your request unless such request is manifestly unfounded or excessive and in all other cases where it is permitted by the applicable law. In such cases, we may charge a reasonable fee or refuse to act on the request. In either case, we will communicate our choices and explain the reasons behind them.
+Additional information for Users in the United States
+We do not collect Personal Information about California consumers below the age of 16
+We do not knowingly collect Personal Information of California consumers who are below the age of 16 nor do we Sell or Share it.
 Additional information about Data collection and processing
 Legal action
 The User's Personal Data may be used for legal purposes by the Owner in Court or in the stages leading to possible legal action arising from improper use of Qrafter or the related Services.
@@ -407,6 +839,313 @@ This privacy statement has been prepared based on provisions of multiple legisla
 This privacy policy relates solely to Qrafter, if not stated otherwise within this document.
 Sub-section Policy: 
 Sub-policy 0
+https://business.safety.google/privacy/:
+business.safety.google uses cookies from Google to deliver and enhance the quality of its services and to analyze traffic.
+Learn more
+.
+OK, got it
+Learn more about
+how Google processes personal information
+Google's use of information
+Helps you understand how Google uses personal information it receives from sites or apps that use our advertising services.
+Read more
+Privacy Policy
+Helps you understand what information Google collects and why, how we use it, and how you can review, manage, delete and update it.
+Read more
+Data use across Google services
+Helps you understand how personal data is shared across Google services and how Google handles personal data received from our advertising partners.
+Read more
+Sub-policy 1
+https://www.applovin.com/privacy/:
+Products
+Axon
+AI-powered recommendation engine
+AppDiscovery
+Acquire your ideal users
+MAX
+Monetize your app
+SparkLabs
+Create ads that perform
+AppLovin Exchange
+Reach your audience
+Array
+Increase value across customer’s lifecycle
+Adjust
+Measure your marketing
+Wurl
+Our streaming TV solution
+Solutions
+Increase ARPDAU
+Grow Ad Inventory
+Acquire App Users
+Increase IAPs
+Resources
+Success Stories
+Blog
+Video Library
+Guides and Reports
+Glossary
+Events
+View all resources
+More about us
+Partners
+Jobs
+NEW
+Press
+About Us
+Sign Up
+Sign In
+ENG
+中文
+日本語
+한국어
+Privacy Policy
+Overview
+Policies
+Privacy Policy
+隐私政策
+Datenschutzerklärung
+プライバシーポリシー
+개인정보 보호 정책
+Política de Privacidade
+Politique de confidentialité
+AppLovin Partners
+AppLovin Policies for Publishers
+AppLovin Policies for Demand Partners
+AppLovin Array Privacy Policy
+Terms
+Terms of Use
+使用协议条款
+Vereinbarung über die Nutzungsbedingungen
+利用規約
+이용 약관 계약
+Contrato de Termos de Uso
+Accord sur les Conditions d’utilisation
+DMCA Notice
+End User License Agreement — Software
+AppLovin Array Terms of Service
+APPLOVIN PLATFORM DATA PROCESSING AGREEMENT
+AppLovin Demand Partner Data Processing Agreement
+Effective Date
+: October 30, 2024
+You can find the prior version
+here
+.
+AppLovin Corporation (“we,” “us,” “our,” or “AppLovin”) operates a suite of tools for app developers and other businesses to automate and optimize the marketing and monetization of their platforms, products, or services by enabling the placement of different types of advertisements on digital properties including mobile apps, websites, and connected TV devices (collectively, the “Advertising Services” or “Services”).  As explained below, consumers interact with us in a few ways, primarily through advertisements served by AppLovin on behalf of advertisers.
+The AppLovin Privacy Policy (this “Privacy Policy”) explains how we collect, use, and share information through our Services and advertising platform, and our corporate website at www.applovin.com (the “Website”), as well as your choices related to that information.
+Contents
+Our Advertising Services
+Our Website
+Additional Provisions for EU/UK/Swiss Individuals
+U.S. Multistate Privacy Notice
+Policy Changes
+Contact Us
+Our Advertising Services
+This section describes the information we collect, use, and share through our Advertising Services.
+General Information Collection and Use
+If you are a consumer who downloads and uses an application which contains the AppLovin SDK or otherwise interacts with the Services through advertisements served within a digital property, we may collect certain information, including the following:
+Device, App, and Browser Data
+Device make, model, and operating system;
+Device properties related to screen size, orientation, audio, battery, device memory usage, settings, and boot time;
+Device settings related to accessibility features, font size, and theme;
+Carrier;
+Name and properties of mobile application through which a consumer interacts with the Services;
+Country, time zone, and locale settings (country and preferred language);
+Network connection type and speed;
+IP Address;
+Internet browser user-agent used to access the Services;
+HTTP header information;
+Advertising IDs (IDFA/GAID/Amazon FOSAID);
+Vendor IDs (IDFV);
+App Set IDs; and
+Advertising and tracking preferences and restrictions.
+Application publishers may choose to share with us additional information including your age or year of birth, gender, email, phone number, and interest segments for purposes of their own direct ad serving.  We do not retain this data or pass it downstream to advertising partners.  Please see the applicable publisher’s privacy policy for more information about their use of first party data.
+Advertisers (through the advertiser itself or through a third party service provider on behalf of such advertiser) may also share transactional or “event” data related to a consumer’s interaction with an application, such as information about the actions taken in an application like purchases or application installations.
+Information Collection and Use Specific
+to
+e-Commerce Ads Only
+If you are a consumer who interacts with the Services through an e-commerce platform or a merchant website, we may collect certain additional information (that you provided to the e-commerce platform or merchant, through a third party’s API, our SDK, pixel, or other similar technologies), including the following:
+User IDs;
+Shopping browsing behavior (e.g., views) and search history;
+Records of products purchased or considered (e.g., added to cart, check out);
+Purchasing histories; and
+Information regarding user interactions with advertising partners and their merchant partners’ sites and advertisements.
+How We Collect Your Information
+This information may be collected automatically across mobile apps and devices or received from third-parties across different technologies over time. We may also combine information we collect with other information we derive through analytical techniques, and we will use that combined information to offer the Services.
+How We Use Your Information
+We generally use the information we collect to:
+Deliver the Services, maintain, and improve them, including our AI-powered advertising technology, and research and develop new ones;
+Promote safety, security, and integrity of Services;
+Provide measurement, analytics, and reporting; and
+Comply with legal and regulatory obligations.
+We use AI-powered advertising technology (sometimes referred to as “automated decision-making”) to help us improve our advertising products and Services and serve ads that are relevant and interesting to you. We use it in ways that do not produce legal or similarly significant effects on you (for example, by reordering how advertisements might appear when you visit a digital property such as a mobile app or a website).
+Information Sharing
+We may share information we collect or derive with third parties in the following contexts:
+Service Providers.
+We transfer information to service providers, and other partners who support our business, such as providing technical infrastructure services, analyzing how our Services are used, measuring the effectiveness of ads and services, providing customer service, or facilitating payments. These partners must adhere to strict confidentiality obligations in a way that is consistent with this Privacy Policy and the agreements we enter into with them.
+Affiliates.
+We may share information within the AppLovin family of companies for purposes consistent with this Privacy Policy.
+Advertising Partners.
+We share information with our third-party advertising partners, including advertisers, ad networks, exchanges, demand side platforms, merchants, other advertising partners (who aggregate their own demand sources), and ad optimization and measurement/attribution partners (e.g., mobile measurement partners or “MMPs”) to provide our clients with Advertising Services. This information may be used by such third-party partners to measure how effective ads are, show advertisements to end users for products and services that are more likely to appeal to them (a practice known as interest-based advertising or behavioral advertising), and to undertake web analytics to analyze traffic and other ad activity to improve the advertising experience.
+Unless otherwise noted in our partner list, each AppLovin advertising partner is an independent controller of your data. You can view a list of AppLovin advertising partners with whom we share your data
+here
+, current as of the date listed at the top of that page.
+If you do not want to receive interest-based advertisements, please see the
+“Manage Your Privacy Choices”
+section below. If you are located in the European Union, UK, or Switzerland, you may also see the
+“Additional Provisions for EU/UK/Swiss Individuals”
+section below for more options. If you are an individual resident of the U.S. states that have enacted comprehensive consumer privacy laws, you may also review the “
+U.S. Multistate Privacy Notice
+” section below for more options.
+Please note that the practices of our third-party advertising partners delivering advertisements through our Services are subject to those partners’ own privacy policies.
+Regulatory or Legal Requirements.
+We may disclose information to governmental regulatory authorities as required by law, including for tax or accounting purposes, in response to their requests for such information or to assist in investigations. We may also disclose personal information to third parties in connection with claims, disputes, or litigation, when otherwise required by law or court order.
+Safety and Terms Enforcement.
+We may disclose information if we determine, in our sole discretion, that its disclosure is necessary to protect the health, safety, or rights of you or any other person, protect against fraud, or enforce our legal rights, including contractual commitments made to us by third parties.
+Business Transfers.
+We may disclose personal information as part of an organizational business transaction, such as a merger, acquisition, joint venture, financing, or sale of organizational assets and may transfer personal information to a third party as one of the business assets in such a transaction. We may also disclose personal information in the event of insolvency, bankruptcy, or receivership.
+Manage Your Privacy Choices:
+To limit collection of information from mobile devices, please visit your device’s settings to set the “Limit Ad Track” or other similar features on your device. Additionally, you may opt-out of interest-based advertising within ads served by AppLovin. For detailed instructions, see
+How AppLovin Shows You Ads
+. You can also make choices about data collection for certain companies by visiting an industry consumer choice platform such as the NAI (
+https://optout.networkadvertising.org/
+) or DAA (
+https://optout.aboutads.info/
+).  You may still receive ads after limiting processing of information for interest-based advertising, but those ads may be less relevant to your interests.
+To see or manage the data collected by AppLovin from your device, you may download the AppLovin Privacy Management Application from the Apple or Google Play Stores:
+By navigating through the tabs in the AppLovin Privacy Management Application, you can erase the personal information that AppLovin may have collected about you or request a copy of that personal information.
+Children’s Privacy
+We do not knowingly collect personal information from, or serve advertisements to, children as defined and required by applicable laws. If you believe we have served an advertisement to a child or might have any personal information from or about a child, or if you believe a mobile application in which an AppLovin-served advertisement appeared may be designed for, directed to, or pass personal information knowingly from, children in violation of our policies, please contact us via email at
+dataprotection@applovin.com
+.
+Data Security and Retention
+We implement reasonable measures to help secure the information we collect through the Services. We retain the data we collect through the Services for up to 2 years. Information is automatically purged from our system if the Services do not receive any updated information for a device in the last 2 years. Note that we will retain information in our systems for as long as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+[END OF ADVERTISING SERVICES-SPECIFIC PROVISIONS]
+Our Website
+This section describes the information we collect, use, and share through our Website.
+Cookies and Other Similar Technology
+The Website uses cookies, web beacons, or other similar technology to collect information for various purposes, including interest-based advertising. This information may include your IP address, device identifier, browser type, device type, the date and time of your visit, and the areas of the Website you visit. To learn more about and manage the cookies on this Website, please click “Cookie Settings” in our Website footer. You may also be able to limit the use of cookies through your browser settings. Note that certain parts of the Website may not function properly without cookies. Additionally, you may still receive ads after limiting processing of information for interest-based advertising, but those ads may be less relevant to your interests. If you erase your cookies, reset your device identifier, or use different browsers or devices, you may need to make your choices again.
+We partner with Google Analytics to learn more about how you use our Website. For more information about how Google Analytics works you can visit
+here
+. To opt-out of Google Analytics, you can visit
+here
+and follow the instructions.
+Additional Information Collection for Business Account Owners
+When you register with AppLovin to use our Services, you may provide us with personal information such as your name, email address, phone number, mailing address, user name, and password. You may also provide us with payment information when you submit or receive a payment, or other information when you complete the online forms available on the Website. We may also acquire information from other trusted sources to update or supplement the information that you voluntarily provide to us or that we collect automatically.
+How We Use Your Information
+We may use the information we collect or you provide to us through the Website for various purposes, including:
+To communicate with you, for example through newsletters or with other information about our products and services;
+To operate and improve the Website and our Services;
+To customize the Website;
+For analytics and research;
+For marketing purposes; and
+For purposes disclosed at the time of collection.
+Information Sharing
+We may share information we collect through the Website in the following contexts:
+With your consent;
+For advertising and marketing purposes;
+In response to a subpoena, court order, or other legal process;
+To protect our rights and the rights of others;
+With our affiliates;
+With service providers that help us operate the Website and Services;
+As part of a sale, merger, or acquisition, including at bankruptcy; and
+For purposes disclosed at the time of collection.
+Links to Other Websites
+The Website may provide links to other websites or other digital properties that we do not control. We encourage you to review the privacy policy of those digital properties that you may visit.
+Updating Information
+You can update the personal information you provide to us by correcting, updating, or deleting the information associated with you via your AppLovin account. To add, modify, remove, or request access to the personal information about you that we hold, please see the
+“Contact Us”
+section below.
+Your Marketing Choices
+If you no longer wish to receive marketing-related emails from us on a going-forward basis, you may opt out of receiving these emails by clicking “Unsubscribe” at the bottom of any marketing email you receive from us or by emailing us at
+dataprotection@applovin.com
+.
+Children
+Our Website is not intended for use by children as defined and required by applicable law. We do not knowingly collect personal information from children through the Website. If you believe we might have any personal information from or about a child, please contact us via email at
+dataprotection@applovin.com
+.
+Data Security and Retention
+We have implemented reasonable physical, technical, and administrative security measures for the Website to help protect information we collect and store.
+For detailed information regarding retention associated with cookies on the applovin.com domain, please click “Cookie Settings” in our Website footer to learn more.
+We retain other information such as customer contact and payment information in our systems for as long as necessary as permitted by law to comply with our legal obligations, resolve disputes, and enforce our agreements.
+[END OF WEBSITE-SPECIFIC PROVISIONS]
+Additional Provisions for EU/UK/Swiss Individuals
+If you are located in the European Union, United Kingdom, or Switzerland, the following additional provisions apply to you.
+Data Privacy Framework
+AppLovin complies with the EU-U.S Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce.
+AppLovin has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union and the United Kingdom in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF.  AppLovin has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this Privacy Policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit
+https://www.dataprivacyframework.gov/
+.
+If you are an EU, UK, or Swiss individual, where we transfer your personal data to third party servicer providers (see above) who perform services for us or on our behalf, we are responsible for the processing of that data by them and shall remain liable if they process your personal data in a manner inconsistent with the DPF Principles, unless we are not responsible for the event giving rise to the damage.
+With respect to personal data received or transferred pursuant to the Data Privacy Framework, AppLovin is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, AppLovin may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+In compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF, AppLovin commits to resolve DPF Principles-related complaints about our collection and use of your personal information. EU, UK, and Swiss individuals with inquiries or complaints regarding our handling of personal data received in reliance on the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF should first contact AppLovin at
+dataprotection@applovin.com
+. AppLovin refers unresolved complaints to TRUSTe, an alternative dispute resolution provider based in the United States.  If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit
+https://feedback-form.truste.com/watchdog/request
+for more information or to file a complaint.  These dispute resolution services are provided at no cost to you.
+For complaints regarding DPF compliance not resolved by any of the other DPF mechanisms, you have the possibility, under certain conditions, to invoke binding arbitration. Further information can be found on the official DPF website.
+Lawful Basis for Processing
+On certain occasions, we process your personal data when it is necessary for the performance of a contract to which you are a party, such as to provide services to you. We may also process your personal data to respond to your inquiries concerning our products and services.
+On other occasions, we process your personal data where required by law. We may also process your personal data if necessary to protect your interests or the interests of a third party.
+Additionally, we process your personal data when necessary to do so for fraud prevention, improving our network and services, and marketing our services to advertisers and publishers, where these interests are not overridden by your data protection rights.
+If the processing of your personal data is necessary, we will generally ensure that consent has been obtained from you if there is no other lawful basis for such processing. You have the right to withdraw your consent to processing of personal data at any time.
+If personal data covered by this Privacy Policy is to be used for a new purpose that is materially different from that for which the personal data was originally collected or subsequently authorized, or is to be disclosed to a non-agent third party in a manner not specified in this Privacy Policy, we will provide you with an opportunity to choose whether to have your personal data so used or disclosed. Requests to opt out of such uses or disclosures of personal data should be sent to us as specified in the “Contact” section below. Certain personal data, such as information about medical or health conditions, racial or ethnic origin, political opinions, religious or philosophical beliefs, is considered “Sensitive Information”. AppLovin does not collect or seek to elicit “Sensitive Information”.
+For questions about data processing, please contact our Data Protection Officer. Visit the “Contact” section below for contact information.
+Your Rights
+If you are an individual in the EU, UK, or Switzerland, you are able:
+To request access to the personal data we hold about you;
+To request that we rectify or erase your personal data;
+To request that we restrict or block the processing of your personal data;
+Under certain circumstances, to receive personal data about you that we store and transmit to another without hindrance from us, including requesting that we provide your personal data directly to another, i.e., a right to data portability; and
+Where we previously obtained your consent, to withdraw consent to processing your personal data.
+To exercise these rights, please contact us at the email address set forth in the
+“Contact Us”
+section below.  Our Data Protection Officer can also be reached at this email address.  Please be aware that we may be unable to afford these rights to you under certain circumstances, such as if we are legally prevented from doing so.
+In certain circumstances, you may appoint an authorized agent to exercise any rights that you may have on your behalf.  If you choose to exercise any rights through an authorized agent, you will need to verify your identity directly with us before we can process any requests.  In addition, we will need written documentation demonstrating the authorized agent’s authority to act on your behalf.
+Additionally, you have the right to lodge a complaint against us. To do so, contact the supervisory authority in your country of residence.
+EU and UK Privacy Representatives
+We have appointed
+Prighter Group
+as our privacy representatives in the EU and UK.  You can contact us through our privacy representatives at the following addresses:
+For residents of the EU
+:
+PrighterGDPR-Rep by Maetzler Rechtsanwalts GmbH & Co KG
+c/o AppLovin Corporation
+Kriegerstraße 44
+30161 Hannover
+Germany
+For residents of the UK
+:
+PrighterUK-Rep by Prighter Ltd.
+c/o AppLovin Corporation
+20 Mortlake Mortlake High Street
+London, SW14 8JN
+United Kingdom
+Additional information regarding our privacy representatives can be found at the following link:
+https://prighter.com/q/19826057144
+.
+[END OF EU/UK/SWISS SPECIFIC PROVISIONS]
+U.S. Multistate Privacy Notice
+Additional provisions for individual residents of the U.S. states that have enacted comprehensive consumer privacy laws are included in our
+U.S. Multistate Privacy Notice
+, which explains how those residents may exercise their privacy rights.
+Policy Changes
+We may, in our sole discretion, make changes to this Privacy Policy from time to time in order to accommodate new technologies, industry practices, regulatory requirements, or for other purposes. If we make any changes, we will update the “Effective Date” posted at the top of this Privacy Policy. If we make any material changes, we may notify you by email (sent to the email address specified in your account) or by means of a notice on the Website prior to the change becoming effective. We encourage you to review this Privacy Policy periodically to ensure that you understand how we collect, use, and share information.
+Any changes to this Privacy Policy will become effective when the revised Privacy Policy is posted on the Website. By continuing to use the Website or Advertising Services following such changes, you are agreeing to accept the terms of the revised Privacy Policy.
+Contact Us
+If you have any questions or comments about this Privacy Policy, please write to us at:
+Data Protection Officer
+AppLovin Corporation
+1100 Page Mill Road
+Palo Alto, CA 94304
+You can also contact us or our Data Protection Officer via email at
+dataprotection@applovin.com
+.
+Please be sure to include your relevant account information in any correspondence to us.  This will help ensure that we can respond to your inquiry in a timely manner.
+If you have a customer care issue, please visit
+AppLovin Support
+.
+Sub-policy 2
 https://policies.google.com/privacy:
 Privacy & Terms
 Overview
@@ -1593,7 +2332,7 @@ Türkçe
 日本語
 Main menu
 Google apps
-Sub-policy 1
+Sub-policy 3
 https://www.iubenda.com/en/privacy-and-cookie-policy-generator:
 ×
 Notice
@@ -1702,7 +2441,7 @@ Trusted by over 140,000 clients in 100+ countries
 “If you, like me, are part of a smart team and hate updating your privacy policy every time you add some code to your site, then iubenda is for you. It's ridiculously affordable, and super easy to use.”
 Start generating
 TRY BEFORE YOU BUY or STAY WITH THE FREE OPTION
-3113187 self-updating documents already generated
+3124733 self-updating documents already generated
 FAQ
 Should my email newsletters contain a privacy policy?
 Yes. Email newsletters should contain a reference to your

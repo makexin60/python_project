@@ -1,0 +1,174 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+                "Data shared and for what purpose": [
+                    {
+                        "Crash logs": "Analytics, Advertising or marketing",
+                        "Diagnostics": "Analytics",
+                        "Other app performance data": "App functionality, Analytics, Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data shared and for what purpose": [
+                    {
+                        "Device or other IDs": "Analytics, Advertising or marketing, Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name, Email address, User IDs, Address, and Phone number",
+                "Data shared and for what purpose": [
+                    {
+                        "Name": "Analytics, Advertising or marketing, Account management",
+                        "Email address": "Analytics, Advertising or marketing, Account management",
+                        "User IDs": "App functionality, Analytics, Advertising or marketing, Account management",
+                        "Address": "Analytics, Advertising or marketing",
+                        "Phone number": "Analytics, Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "Messages": "Other in-app messages",
+                "Data shared and for what purpose": [
+                    {
+                        "Other in-app messages": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Location": "Approximate location and Precise location",
+                "Data shared and for what purpose": [
+                    {
+                        "Approximate location": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance",
+                        "Precise location": "Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions and Other actions",
+                "Data shared and for what purpose": [
+                    {
+                        "App interactions": "Analytics, Advertising or marketing, Fraud prevention, security, and compliance",
+                        "Other actions": "Advertising or marketing, Fraud prevention, security, and compliance"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+                "Data collected and for what purpose": [
+                    {
+                        "Crash logs": "Analytics, Advertising or marketing",
+                        "Diagnostics": "Analytics",
+                        "Other app performance data": "App functionality, Analytics, Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Device or other IDs": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Account management"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name, Email address, User IDs, Address, and Phone number",
+                "Data collected and for what purpose": [
+                    {
+                        "Name": "Analytics, Advertising or marketing, Account management",
+                        "Email address": "Analytics, Advertising or marketing, Account management",
+                        "User IDs": "App functionality, Analytics, Advertising or marketing, Account management",
+                        "Address": "Analytics, Advertising or marketing",
+                        "Phone number": "Analytics, Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "Photos and videos": "Photos and Videos",
+                "Data collected and for what purpose": [
+                    {
+                        "Photos · Optional": "App functionality, Analytics",
+                        "Videos · Optional": "Analytics"
+                    }
+                ]
+            },
+            {
+                "Files and docs": "Files and docs",
+                "Data collected and for what purpose": [
+                    {
+                        "Files and docs · Optional": "App functionality, Analytics"
+                    }
+                ]
+            },
+            {
+                "Audio": "Voice or sound recordings and Other audio files",
+                "Data collected and for what purpose": [
+                    {
+                        "Voice or sound recordings · Optional": "Analytics",
+                        "Other audio files · Optional": "Analytics"
+                    }
+                ]
+            },
+            {
+                "Financial info": "Purchase history",
+                "Data collected and for what purpose": [
+                    {
+                        "Purchase history": "Analytics, Personalization, Account management"
+                    }
+                ]
+            },
+            {
+                "Messages": "Other in-app messages",
+                "Data collected and for what purpose": [
+                    {
+                        "Other in-app messages": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Location": "Approximate location and Precise location",
+                "Data collected and for what purpose": [
+                    {
+                        "Approximate location": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance",
+                        "Precise location · Optional": "Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions and Other actions",
+                "Data collected and for what purpose": [
+                    {
+                        "App interactions": "Analytics, Advertising or marketing, Fraud prevention, security, and compliance",
+                        "Other actions": "Advertising or marketing, Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "Web browsing": "Web browsing history",
+                "Data collected and for what purpose": [
+                    {
+                        "Web browsing history": "App functionality, Analytics, Personalization"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            },
+            {
+                "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

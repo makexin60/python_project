@@ -1,0 +1,95 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "Photos and videos": "Photos and Videos",
+                "Data shared and for what purpose": [
+                    {
+                        "Photos": "App functionality",
+                        "Videos": "App functionality"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+                "Data shared and for what purpose": [
+                    {
+                        "Crash logs": "Analytics, Developer communications",
+                        "Diagnostics": "Analytics, Developer communications, Fraud prevention, security, and compliance",
+                        "Other app performance data": "Analytics, Developer communications, Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "Messages": "Emails, SMS or MMS, and Other in-app messages",
+                "Data shared and for what purpose": [
+                    {
+                        "Emails": "App functionality",
+                        "SMS or MMS": "App functionality",
+                        "Other in-app messages": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data shared and for what purpose": [
+                    {
+                        "Device or other IDs": "Analytics, Developer communications, Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "Files and docs": "Files and docs",
+                "Data shared and for what purpose": [
+                    {
+                        "Files and docs": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Contacts": "Contacts",
+                "Data shared and for what purpose": [
+                    {
+                        "Contacts": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name, Email address, User IDs, Address, Phone number, Sexual orientation, and Other info",
+                "Data shared and for what purpose": [
+                    {
+                        "Name": "App functionality, Analytics, Advertising or marketing",
+                        "Email address": "App functionality, Analytics, Advertising or marketing",
+                        "User IDs": "App functionality, Analytics, Advertising or marketing",
+                        "Address": "App functionality, Analytics, Advertising or marketing",
+                        "Phone number": "App functionality, Analytics, Advertising or marketing",
+                        "Sexual orientation": "App functionality, Analytics, Advertising or marketing",
+                        "Other info": "App functionality, Analytics, Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "Location": "Approximate location and Precise location",
+                "Data shared and for what purpose": [
+                    {
+                        "Approximate location": "App functionality, Analytics, Advertising or marketing",
+                        "Precise location": "App functionality, Analytics, Advertising or marketing"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "No data collected ( The developer says this app doesn’t collect user data )": []
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            },
+            {
+                "Data can’t be deleted": "The developer doesn’t provide a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

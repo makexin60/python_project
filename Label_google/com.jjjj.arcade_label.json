@@ -1,0 +1,50 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "Financial info": "User payment info and Purchase history",
+                "Data shared and for what purpose": [
+                    {
+                        "User payment info": "Analytics",
+                        "Purchase history": "Analytics"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name and User IDs",
+                "Data shared and for what purpose": [
+                    {
+                        "Name": "Analytics",
+                        "User IDs": "Analytics"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data shared and for what purpose": [
+                    {
+                        "Device or other IDs": "Analytics"
+                    }
+                ]
+            },
+            {
+                "Location": "Approximate location",
+                "Data shared and for what purpose": [
+                    {
+                        "Approximate location": "Analytics"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "No data collected ( The developer says this app doesn’t collect user data )": []
+    },
+    {
+        "Security practices": [
+            {
+                "Data isn’t encrypted": "Your data isn’t transferred over a secure connection"
+            }
+        ]
+    }
+]

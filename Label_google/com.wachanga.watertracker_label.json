@@ -1,0 +1,125 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "Health and fitness": "Health info and Fitness info",
+                "Data shared and for what purpose": [
+                    {
+                        "Health info": "Analytics",
+                        "Fitness info": "Analytics"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data shared and for what purpose": [
+                    {
+                        "Device or other IDs": "Analytics, Developer communications, Advertising or marketing, Personalization"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions, Other user-generated content, and Other actions",
+                "Data shared and for what purpose": [
+                    {
+                        "App interactions": "Analytics, Personalization",
+                        "Other user-generated content": "Analytics, Personalization",
+                        "Other actions": "Analytics, Personalization"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name and Other info",
+                "Data shared and for what purpose": [
+                    {
+                        "Name": "App functionality, Personalization",
+                        "Other info": "App functionality, Personalization"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+                "Data shared and for what purpose": [
+                    {
+                        "Crash logs": "Analytics, Fraud prevention, security, and compliance",
+                        "Diagnostics": "Analytics, Fraud prevention, security, and compliance",
+                        "Other app performance data": "Analytics, Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "Location": "Approximate location",
+                "Data shared and for what purpose": [
+                    {
+                        "Approximate location": "App functionality, Personalization"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "Health and fitness": "Health info and Fitness info",
+                "Data collected and for what purpose": [
+                    {
+                        "Health info": "App functionality, Analytics, Personalization",
+                        "Fitness info": "App functionality, Analytics, Personalization"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Device or other IDs": "Analytics, Developer communications, Advertising or marketing, Personalization"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions, Other user-generated content, and Other actions",
+                "Data collected and for what purpose": [
+                    {
+                        "App interactions": "Analytics, Personalization",
+                        "Other user-generated content": "Analytics, Personalization",
+                        "Other actions": "Analytics, Personalization"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name and Other info",
+                "Data collected and for what purpose": [
+                    {
+                        "Name": "App functionality, Personalization",
+                        "Other info": "App functionality, Personalization"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+                "Data collected and for what purpose": [
+                    {
+                        "Crash logs": "Analytics, Fraud prevention, security, and compliance",
+                        "Diagnostics": "Analytics, Fraud prevention, security, and compliance",
+                        "Other app performance data": "Analytics, Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "Location": "Approximate location",
+                "Data collected and for what purpose": [
+                    {
+                        "Approximate location": "App functionality, Personalization"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            }
+        ]
+    }
+]

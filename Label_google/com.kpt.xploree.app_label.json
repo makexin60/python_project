@@ -1,0 +1,91 @@
+[
+    {
+        "No data shared with third parties ( The developer says this app doesn't share user data with other companies or organizations. Learn more about how developers declare sharing. )": []
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "Personal info": "Name, Phone number, and Sexual orientation",
+                "Data collected and for what purpose": [
+                    {
+                        "Name · Optional": "App functionality",
+                        "Phone number · Optional": "Personalization",
+                        "Sexual orientation · Optional": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Messages": "Emails",
+                "Data collected and for what purpose": [
+                    {
+                        "Emails · Optional": "App functionality"
+                    }
+                ]
+            },
+            {
+                "App activity": "Installed apps",
+                "Data collected and for what purpose": [
+                    {
+                        "Installed apps · Optional": "Analytics, Advertising or marketing"
+                    }
+                ]
+            },
+            {
+                "Calendar": "Calendar events",
+                "Data collected and for what purpose": [
+                    {
+                        "Calendar events · Optional": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Audio": "Voice or sound recordings and Music files",
+                "Data collected and for what purpose": [
+                    {
+                        "Voice or sound recordings · Optional": "App functionality",
+                        "Music files · Optional": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Contacts": "Contacts",
+                "Data collected and for what purpose": [
+                    {
+                        "Contacts · Optional": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Web browsing": "Web browsing history",
+                "Data collected and for what purpose": [
+                    {
+                        "Web browsing history · Optional": "Analytics"
+                    }
+                ]
+            },
+            {
+                "Files and docs": "Files and docs",
+                "Data collected and for what purpose": [
+                    {
+                        "Files and docs · Optional": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Financial info": "Other financial info",
+                "Data collected and for what purpose": [
+                    {
+                        "Other financial info · Optional": "Fraud prevention, security, and compliance"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            }
+        ]
+    }
+]

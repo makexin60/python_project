@@ -1,0 +1,45 @@
+{
+    "data": [
+        {
+            "id": "368664047",
+            "type": "apps",
+            "href": "/v1/catalog/ie/apps/368664047?l=en-GB",
+            "attributes": {
+                "privacyDetails": {
+                    "managePrivacyChoicesUrl": null,
+                    "privacyTypes": [
+                        {
+                            "privacyType": "Data Not Collected",
+                            "identifier": "DATA_NOT_COLLECTED",
+                            "description": "The developer does not collect any data from this app.",
+                            "dataCategories": [],
+                            "purposes": []
+                        }
+                    ]
+                }
+            },
+            "relationships": {
+                "developer": {
+                    "href": "/v1/catalog/ie/apps/368664047/developer?l=en-GB",
+                    "data": [
+                        {
+                            "id": "368664050",
+                            "type": "developers",
+                            "href": "/v1/catalog/ie/developers/368664050?l=en-GB"
+                        }
+                    ]
+                },
+                "genres": {
+                    "href": "/v1/catalog/ie/apps/368664047/genres?l=en-GB",
+                    "data": []
+                }
+            },
+            "meta": {
+                "contentVersion": {
+                    "MZ_INDEXER": 1741631925937,
+                    "RTCI": 1741632346090
+                }
+            }
+        }
+    ]
+}

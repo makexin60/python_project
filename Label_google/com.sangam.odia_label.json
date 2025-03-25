@@ -1,0 +1,168 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "Personal info": "Name, Email address, Address, Phone number, Race and ethnicity, Political or religious beliefs, and Other info",
+                "Data shared and for what purpose": [
+                    {
+                        "Name": "App functionality, Fraud prevention, security, and compliance",
+                        "Email address": "App functionality, Fraud prevention, security, and compliance",
+                        "Address": "App functionality, Fraud prevention, security, and compliance",
+                        "Phone number": "App functionality, Fraud prevention, security, and compliance",
+                        "Race and ethnicity": "App functionality, Fraud prevention, security, and compliance, Personalization",
+                        "Political or religious beliefs": "App functionality",
+                        "Other info": "App functionality, Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "Messages": "Emails and SMS or MMS",
+                "Data shared and for what purpose": [
+                    {
+                        "Emails": "Fraud prevention, security, and compliance",
+                        "SMS or MMS": "App functionality, Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "Health and fitness": "Health info",
+                "Data shared and for what purpose": [
+                    {
+                        "Health info": "App functionality"
+                    }
+                ]
+            },
+            {
+                "App activity": "Installed apps and Other user-generated content",
+                "Data shared and for what purpose": [
+                    {
+                        "Installed apps": "Analytics, Advertising or marketing",
+                        "Other user-generated content": "App functionality"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Diagnostics and Other app performance data",
+                "Data shared and for what purpose": [
+                    {
+                        "Diagnostics": "Analytics, Advertising or marketing",
+                        "Other app performance data": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Photos and videos": "Photos",
+                "Data shared and for what purpose": [
+                    {
+                        "Photos": "App functionality, Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "Financial info": "Other financial info",
+                "Data shared and for what purpose": [
+                    {
+                        "Other financial info": "App functionality"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "Personal info": "Name, Email address, Address, Phone number, Race and ethnicity, Political or religious beliefs, and Other info",
+                "Data collected and for what purpose": [
+                    {
+                        "Name": "App functionality, Fraud prevention, security, and compliance, Personalization, Account management",
+                        "Email address": "App functionality, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
+                        "Address": "App functionality, Fraud prevention, security, and compliance, Personalization, Account management",
+                        "Phone number": "App functionality, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
+                        "Race and ethnicity": "App functionality, Fraud prevention, security, and compliance, Personalization, Account management",
+                        "Political or religious beliefs · Optional": "App functionality",
+                        "Other info": "App functionality, Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management"
+                    }
+                ]
+            },
+            {
+                "Messages": "Emails and SMS or MMS",
+                "Data collected and for what purpose": [
+                    {
+                        "Emails": "App functionality, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
+                        "SMS or MMS": "App functionality, Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management"
+                    }
+                ]
+            },
+            {
+                "Files and docs": "Files and docs",
+                "Data collected and for what purpose": [
+                    {
+                        "Files and docs": "App functionality, Fraud prevention, security, and compliance, Account management"
+                    }
+                ]
+            },
+            {
+                "Health and fitness": "Health info",
+                "Data collected and for what purpose": [
+                    {
+                        "Health info": "App functionality, Account management"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions, Installed apps, and Other user-generated content",
+                "Data collected and for what purpose": [
+                    {
+                        "App interactions": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance",
+                        "Installed apps": "Analytics, Advertising or marketing",
+                        "Other user-generated content": "App functionality, Account management"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Crash logs, Diagnostics, and Other app performance data",
+                "Data collected and for what purpose": [
+                    {
+                        "Crash logs": "App functionality, Analytics, Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management",
+                        "Diagnostics": "Analytics, Advertising or marketing",
+                        "Other app performance data": "App functionality, Account management"
+                    }
+                ]
+            },
+            {
+                "Photos and videos": "Photos",
+                "Data collected and for what purpose": [
+                    {
+                        "Photos": "App functionality, Fraud prevention, security, and compliance, Account management"
+                    }
+                ]
+            },
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Device or other IDs": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "Financial info": "Other financial info",
+                "Data collected and for what purpose": [
+                    {
+                        "Other financial info · Optional": "App functionality, Advertising or marketing, Personalization, Account management"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            },
+            {
+                "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

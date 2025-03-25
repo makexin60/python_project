@@ -35,9 +35,1897 @@ Will This Privacy Policy Ever Change?
 We may need to update this Policy to reflect changes in our provided services, our business and applicable laws. We will, however, always maintain our commitment to respect your privacy. We will post any revisions to this Policy on our public Github code repository. Your use of our services after any change will be subject to the new Privacy Policy.
 If you have any questions or concerns about our Privacy Policy, please contact us at
 support@bookplayer.app
+Effective Date: 27 May 2023Privacy Policy
+version 2.0.0 of This Agreement was created on May 25, 2023.
+BookPlayer is an audio book player app, and we believe that an audio book player should provide a good listening experience which also includes peace of mind when it comes to data responsibility.
+This Privacy Policy explains what information we collect and why. It applies to the iOS, iPadOS and MacOS apps.
+What information do you collect about me?
+For our base functionality, BookPlayer collects two types of information:
+App crash data and performance (using
+Sentry
+).
+App usage (using
+TelemetryDeck
+).
+If you choose to create an account in our app, we store the email address that you share via the Sign in with Apple integration,
+If you choose to purchase a subscription to BookPlayer Pro, we do the following:
+We process your payment data using RevenueCat, which collects anonymous purchase history limited to BookPlayer subscriptions only. For more details, please see their
+privacy policy
+.
+We will store your library data in our servers, including the files, book progress (total listened time also), and bookmarks that have been added or created inside the app.
+How do you use my information?
+To provide all the features specified in the subscription service.
+To provide effective support to you during your use of the app.
+To understand how BookPlayer services are used and to improve our services.
+Will you send me emails?
+No.
+Will you share my information?
+No.
+Can I delete my information?
+Yes, you can initiate the process for deleting your account from within the Account screen inside the app. We will retain your data for a 7-day period in case you decide to contact us via
+support@bookplayer.app
+and revert your decision.
+Can I have a copy of my information?
+Yes, you can request a copy of your data we have stored by contacting us via
+support@bookplayer.app
+Will This Privacy Policy Ever Change?
+We may need to update this Policy to reflect changes in our provided services, our business and applicable laws. We will, however, always maintain our commitment to respect your privacy. We will post any revisions to this Policy on our public Github code repository. Your use of our services after any change will be subject to the new Privacy Policy.
+If you have any questions or concerns about our Privacy Policy, please contact us at
+support@bookplayer.app
 Effective Date: 27 May 2023
 Sub-section Policy: 
 Sub-policy 0
+https://github.com/TortugaPower/BookPlayer/commit/6e79e02359f91b0baa71533e112f24ffaa7aebd8:
+TortugaPower
+/
+BookPlayer
+Public
+Sponsor
+Notifications
+You must be signed in to change notification settings
+Fork
+208
+Star
+1.8k
+Code
+Issues
+152
+Pull requests
+0
+Discussions
+Actions
+Projects
+1
+Wiki
+Security
+Insights
+Additional navigation options
+Code
+Issues
+Pull requests
+Discussions
+Actions
+Projects
+Wiki
+Security
+Insights
+File tree
+6
+file
+s
+changed
++
+190
+-
+47
+lines changed
+Top
+BookPlayer.xcodeproj
+project.pbxproj
+BookPlayerShareExtension
+Info.plist
+GENERAL_TERMS.md
+PRIVACY_POLICY.md
+SUPPLEMENTAL_TERMS.md
+TERMS_CONDITIONS.md
+6 files changed
++190
+-47
+lines changed
+Original file line number
+Diff line number
+Diff line change
+@@ -3503,7 +3503,7 @@
+3503
+3503
+CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+3504
+3504
+CODE_SIGN_IDENTITY = "Apple Development";
+3505
+3505
+CODE_SIGN_STYLE = Manual;
+3506
+-
+CURRENT_PROJECT_VERSION =
+1
+;
+3506
++
+CURRENT_PROJECT_VERSION =
+7
+;
+3507
+3507
+DEVELOPMENT_TEAM = "$(inherited)";
+3508
+3508
+GCC_C_LANGUAGE_STANDARD = gnu11;
+3509
+3509
+INFOPLIST_FILE = BookPlayerIntents/Info.plist;
+@@ -3513,7 +3513,7 @@
+3513
+3513
+"@executable_path/Frameworks",
+3514
+3514
+"@executable_path/../../Frameworks",
+3515
+3515
+);
+3516
+-
+MARKETING_VERSION =
+4.7.2
+;
+3516
++
+MARKETING_VERSION =
+5.0.0
+;
+3517
+3517
+MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+3518
+3518
+MTL_FAST_MATH = YES;
+3519
+3519
+PRODUCT_BUNDLE_IDENTIFIER = "$(BP_BUNDLE_IDENTIFIER).BookPlayerIntents";
+@@ -3537,7 +3537,7 @@
+3537
+3537
+CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+3538
+3538
+CODE_SIGN_IDENTITY = "Apple Distribution";
+3539
+3539
+CODE_SIGN_STYLE = Manual;
+3540
+-
+CURRENT_PROJECT_VERSION =
+1
+;
+3540
++
+CURRENT_PROJECT_VERSION =
+7
+;
+3541
+3541
+DEVELOPMENT_TEAM = "$(inherited)";
+3542
+3542
+GCC_C_LANGUAGE_STANDARD = gnu11;
+3543
+3543
+INFOPLIST_FILE = BookPlayerIntents/Info.plist;
+@@ -3547,7 +3547,7 @@
+3547
+3547
+"@executable_path/Frameworks",
+3548
+3548
+"@executable_path/../../Frameworks",
+3549
+3549
+);
+3550
+-
+MARKETING_VERSION =
+4.7.2
+;
+3550
++
+MARKETING_VERSION =
+5.0.0
+;
+3551
+3551
+MTL_FAST_MATH = YES;
+3552
+3552
+PRODUCT_BUNDLE_IDENTIFIER = "$(BP_BUNDLE_IDENTIFIER).BookPlayerIntents";
+3553
+3553
+PRODUCT_NAME = "$(TARGET_NAME)";
+@@ -3569,7 +3569,7 @@
+3569
+3569
+CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+3570
+3570
+CODE_SIGN_IDENTITY = "Apple Distribution";
+3571
+3571
+CODE_SIGN_STYLE = Manual;
+3572
+-
+CURRENT_PROJECT_VERSION =
+1
+;
+3572
++
+CURRENT_PROJECT_VERSION =
+7
+;
+3573
+3573
+DEVELOPMENT_TEAM = "$(inherited)";
+3574
+3574
+GCC_C_LANGUAGE_STANDARD = gnu11;
+3575
+3575
+INFOPLIST_FILE = BookPlayerIntents/Info.plist;
+@@ -3579,7 +3579,7 @@
+3579
+3579
+"@executable_path/Frameworks",
+3580
+3580
+"@executable_path/../../Frameworks",
+3581
+3581
+);
+3582
+-
+MARKETING_VERSION =
+4.7.2
+;
+3582
++
+MARKETING_VERSION =
+5.0.0
+;
+3583
+3583
+MTL_FAST_MATH = YES;
+3584
+3584
+PRODUCT_BUNDLE_IDENTIFIER = "$(BP_BUNDLE_IDENTIFIER).BookPlayerIntents";
+3585
+3585
+PRODUCT_NAME = "$(TARGET_NAME)";
+@@ -3606,7 +3606,7 @@
+3606
+3606
+CODE_SIGN_ENTITLEMENTS = BookPlayerWatch/BookPlayerWatch.entitlements;
+3607
+3607
+CODE_SIGN_IDENTITY = "Apple Development";
+3608
+3608
+CODE_SIGN_STYLE = Manual;
+3609
+-
+CURRENT_PROJECT_VERSION =
+1
+;
+3609
++
+CURRENT_PROJECT_VERSION =
+7
+;
+3610
+3610
+DEVELOPMENT_TEAM = "$(inherited)";
+3611
+3611
+GCC_C_LANGUAGE_STANDARD = gnu11;
+3612
+3612
+IBSC_MODULE = BookPlayerWatch_Extension;
+@@ -3616,7 +3616,7 @@
+3616
+3616
+"@executable_path/../Frameworks",
+3617
+3617
+"@loader_path/../Frameworks",
+3618
+3618
+);
+3619
+-
+MARKETING_VERSION =
+4.7.2
+;
+3619
++
+MARKETING_VERSION =
+5.0.0
+;
+3620
+3620
+MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+3621
+3621
+MTL_FAST_MATH = YES;
+3622
+3622
+PRODUCT_BUNDLE_IDENTIFIER = "$(BP_BUNDLE_IDENTIFIER).watchkitapp";
+@@ -3648,7 +3648,7 @@
+3648
+3648
+CODE_SIGN_ENTITLEMENTS = BookPlayerWatch/BookPlayerWatch.entitlements;
+3649
+3649
+CODE_SIGN_IDENTITY = "Apple Distribution";
+3650
+3650
+CODE_SIGN_STYLE = Manual;
+3651
+-
+CURRENT_PROJECT_VERSION =
+1
+;
+3651
++
+CURRENT_PROJECT_VERSION =
+7
+;
+3652
+3652
+DEVELOPMENT_TEAM = "$(inherited)";
+3653
+3653
+GCC_C_LANGUAGE_STANDARD = gnu11;
+3654
+3654
+IBSC_MODULE = BookPlayerWatch_Extension;
+@@ -3658,7 +3658,7 @@
+3658
+3658
+"@executable_path/../Frameworks",
+3659
+3659
+"@loader_path/../Frameworks",
+3660
+3660
+);
+3661
+-
+MARKETING_VERSION =
+4.7.2
+;
+3661
++
+MARKETING_VERSION =
+5.0.0
+;
+3662
+3662
+MTL_FAST_MATH = YES;
+3663
+3663
+PRODUCT_BUNDLE_IDENTIFIER = "$(BP_BUNDLE_IDENTIFIER).watchkitapp";
+3664
+3664
+PRODUCT_NAME = "$(TARGET_NAME)";
+@@ -3687,7 +3687,7 @@
+3687
+3687
+CODE_SIGN_ENTITLEMENTS = BookPlayerWatch/BookPlayerWatch.entitlements;
+3688
+3688
+CODE_SIGN_IDENTITY = "Apple Distribution";
+3689
+3689
+CODE_SIGN_STYLE = Manual;
+3690
+-
+CURRENT_PROJECT_VERSION =
+1
+;
+3690
++
+CURRENT_PROJECT_VERSION =
+7
+;
+3691
+3691
+DEVELOPMENT_TEAM = "$(inherited)";
+3692
+3692
+GCC_C_LANGUAGE_STANDARD = gnu11;
+3693
+3693
+IBSC_MODULE = BookPlayerWatch_Extension;
+@@ -3697,7 +3697,7 @@
+3697
+3697
+"@executable_path/../Frameworks",
+3698
+3698
+"@loader_path/../Frameworks",
+3699
+3699
+);
+3700
+-
+MARKETING_VERSION =
+4.7.2
+;
+3700
++
+MARKETING_VERSION =
+5.0.0
+;
+3701
+3701
+MTL_FAST_MATH = YES;
+3702
+3702
+PRODUCT_BUNDLE_IDENTIFIER = "$(BP_BUNDLE_IDENTIFIER).watchkitapp";
+3703
+3703
+PRODUCT_NAME = "$(TARGET_NAME)";
+@@ -3723,7 +3723,7 @@
+3723
+3723
+CODE_SIGN_ENTITLEMENTS = "BookPlayerWatch Extension/BookPlayerWatch Extension.entitlements";
+3724
+3724
+CODE_SIGN_IDENTITY = "Apple Development";
+3725
+3725
+CODE_SIGN_STYLE = Manual;
+3726
+-
+CURRENT_PROJECT_VERSION =
+1
+;
+3726
++
+CURRENT_PROJECT_VERSION =
+7
+;
+3727
+3727
+DEVELOPMENT_TEAM = "$(inherited)";
+3728
+3728
+GCC_C_LANGUAGE_STANDARD = gnu11;
+3729
+3729
+INFOPLIST_FILE = "BookPlayerWatch Extension/Info.plist";
+@@ -3732,7 +3732,7 @@
+3732
+3732
+"@executable_path/Frameworks",
+3733
+3733
+"@executable_path/../../Frameworks",
+3734
+3734
+);
+3735
+-
+MARKETING_VERSION =
+4.7.2
+;
+3735
++
+MARKETING_VERSION =
+5.0.0
+;
+3736
+3736
+MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+3737
+3737
+MTL_FAST_MATH = YES;
+3738
+3738
+PRODUCT_BUNDLE_IDENTIFIER = "$(BP_BUNDLE_IDENTIFIER).watchkitapp.watchkitextension";
+@@ -3760,7 +3760,7 @@
+3760
+3760
+CODE_SIGN_ENTITLEMENTS = "BookPlayerWatch Extension/BookPlayerWatch Extension.entitlements";
+3761
+3761
+CODE_SIGN_IDENTITY = "Apple Distribution";
+3762
+3762
+CODE_SIGN_STYLE = Manual;
+3763
+-
+CURRENT_PROJECT_VERSION =
+1
+;
+3763
++
+CURRENT_PROJECT_VERSION =
+7
+;
+3764
+3764
+DEVELOPMENT_TEAM = "$(inherited)";
+3765
+3765
+GCC_C_LANGUAGE_STANDARD = gnu11;
+3766
+3766
+INFOPLIST_FILE = "BookPlayerWatch Extension/Info.plist";
+@@ -3769,7 +3769,7 @@
+3769
+3769
+"@executable_path/Frameworks",
+3770
+3770
+"@executable_path/../../Frameworks",
+3771
+3771
+);
+3772
+-
+MARKETING_VERSION =
+4.7.2
+;
+3772
++
+MARKETING_VERSION =
+5.0.0
+;
+3773
+3773
+MTL_FAST_MATH = YES;
+3774
+3774
+PRODUCT_BUNDLE_IDENTIFIER = "$(BP_BUNDLE_IDENTIFIER).watchkitapp.watchkitextension";
+3775
+3775
+PRODUCT_NAME = "${TARGET_NAME}";
+@@ -3795,7 +3795,7 @@
+3795
+3795
+CODE_SIGN_ENTITLEMENTS = "BookPlayerWatch Extension/BookPlayerWatch Extension.entitlements";
+3796
+3796
+CODE_SIGN_IDENTITY = "Apple Distribution";
+3797
+3797
+CODE_SIGN_STYLE = Manual;
+3798
+-
+CURRENT_PROJECT_VERSION =
+1
+;
+3798
++
+CURRENT_PROJECT_VERSION =
+7
+;
+3799
+3799
+DEVELOPMENT_TEAM = "$(inherited)";
+3800
+3800
+GCC_C_LANGUAGE_STANDARD = gnu11;
+3801
+3801
+INFOPLIST_FILE = "BookPlayerWatch Extension/Info.plist";
+@@ -3804,7 +3804,7 @@
+3804
+3804
+"@executable_path/Frameworks",
+3805
+3805
+"@executable_path/../../Frameworks",
+3806
+3806
+);
+3807
+-
+MARKETING_VERSION =
+4.7.2
+;
+3807
++
+MARKETING_VERSION =
+5.0.0
+;
+3808
+3808
+MTL_FAST_MATH = YES;
+3809
+3809
+PRODUCT_BUNDLE_IDENTIFIER = "$(BP_BUNDLE_IDENTIFIER).watchkitapp.watchkitextension";
+3810
+3810
+PRODUCT_NAME = "${TARGET_NAME}";
+@@ -3954,7 +3954,7 @@
+3954
+3954
+CODE_SIGN_ENTITLEMENTS = BookPlayerWidgetUIExtension.entitlements;
+3955
+3955
+CODE_SIGN_IDENTITY = "Apple Development";
+3956
+3956
+CODE_SIGN_STYLE = Manual;
+3957
+-
+CURRENT_PROJECT_VERSION =
+1
+;
+3957
++
+CURRENT_PROJECT_VERSION =
+7
+;
+3958
+3958
+DEVELOPMENT_TEAM = "$(inherited)";
+3959
+3959
+GCC_C_LANGUAGE_STANDARD = gnu11;
+3960
+3960
+INFOPLIST_FILE = BookPlayerWidgetUI/Info.plist;
+@@ -3964,7 +3964,7 @@
+3964
+3964
+"@executable_path/Frameworks",
+3965
+3965
+"@executable_path/../../Frameworks",
+3966
+3966
+);
+3967
+-
+MARKETING_VERSION =
+4.7.2
+;
+3967
++
+MARKETING_VERSION =
+5.0.0
+;
+3968
+3968
+MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+3969
+3969
+MTL_FAST_MATH = YES;
+3970
+3970
+PRODUCT_BUNDLE_IDENTIFIER = "$(BP_BUNDLE_IDENTIFIER).BookPlayerWidgetUI";
+@@ -3992,7 +3992,7 @@
+3992
+3992
+CODE_SIGN_ENTITLEMENTS = BookPlayerWidgetUIExtension.entitlements;
+3993
+3993
+CODE_SIGN_IDENTITY = "Apple Distribution";
+3994
+3994
+CODE_SIGN_STYLE = Manual;
+3995
+-
+CURRENT_PROJECT_VERSION =
+1
+;
+3995
++
+CURRENT_PROJECT_VERSION =
+7
+;
+3996
+3996
+DEVELOPMENT_TEAM = "$(inherited)";
+3997
+3997
+GCC_C_LANGUAGE_STANDARD = gnu11;
+3998
+3998
+INFOPLIST_FILE = BookPlayerWidgetUI/Info.plist;
+@@ -4002,7 +4002,7 @@
+4002
+4002
+"@executable_path/Frameworks",
+4003
+4003
+"@executable_path/../../Frameworks",
+4004
+4004
+);
+4005
+-
+MARKETING_VERSION =
+4.7.2
+;
+4005
++
+MARKETING_VERSION =
+5.0.0
+;
+4006
+4006
+MTL_FAST_MATH = YES;
+4007
+4007
+PRODUCT_BUNDLE_IDENTIFIER = "$(BP_BUNDLE_IDENTIFIER).BookPlayerWidgetUI";
+4008
+4008
+PRODUCT_NAME = "$(TARGET_NAME)";
+@@ -4028,7 +4028,7 @@
+4028
+4028
+CODE_SIGN_ENTITLEMENTS = BookPlayerWidgetUIExtension.entitlements;
+4029
+4029
+CODE_SIGN_IDENTITY = "Apple Distribution";
+4030
+4030
+CODE_SIGN_STYLE = Manual;
+4031
+-
+CURRENT_PROJECT_VERSION =
+1
+;
+4031
++
+CURRENT_PROJECT_VERSION =
+7
+;
+4032
+4032
+DEVELOPMENT_TEAM = "$(inherited)";
+4033
+4033
+GCC_C_LANGUAGE_STANDARD = gnu11;
+4034
+4034
+INFOPLIST_FILE = BookPlayerWidgetUI/Info.plist;
+@@ -4038,7 +4038,7 @@
+4038
+4038
+"@executable_path/Frameworks",
+4039
+4039
+"@executable_path/../../Frameworks",
+4040
+4040
+);
+4041
+-
+MARKETING_VERSION =
+4.7.2
+;
+4041
++
+MARKETING_VERSION =
+5.0.0
+;
+4042
+4042
+MTL_FAST_MATH = YES;
+4043
+4043
+PRODUCT_BUNDLE_IDENTIFIER = "$(BP_BUNDLE_IDENTIFIER).BookPlayerWidgetUI";
+4044
+4044
+PRODUCT_NAME = "$(TARGET_NAME)";
+@@ -4176,7 +4176,7 @@
+4176
+4176
+CODE_SIGN_IDENTITY = "Apple Development";
+4177
+4177
+"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "Apple Development";
+4178
+4178
+CODE_SIGN_STYLE = Manual;
+4179
+-
+CURRENT_PROJECT_VERSION =
+1
+;
+4179
++
+CURRENT_PROJECT_VERSION =
+7
+;
+4180
+4180
+DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+4181
+4181
+DEVELOPMENT_TEAM = "$(inherited)";
+4182
+4182
+FRAMEWORK_SEARCH_PATHS = (
+@@ -4190,7 +4190,7 @@
+4190
+4190
+"$(inherited)",
+4191
+4191
+"@executable_path/Frameworks",
+4192
+4192
+);
+4193
+-
+MARKETING_VERSION =
+4.7.2
+;
+4193
++
+MARKETING_VERSION =
+5.0.0
+;
+4194
+4194
+PRODUCT_BUNDLE_IDENTIFIER = "$(BP_BUNDLE_IDENTIFIER)";
+4195
+4195
+PRODUCT_NAME = BookPlayer;
+4196
+4196
+PROVISIONING_PROFILE_SPECIFIER = "$(BP_PROVISIONING_MAIN)";
+@@ -4215,7 +4215,7 @@
+4215
+4215
+CODE_SIGN_IDENTITY = "Apple Distribution";
+4216
+4216
+"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "Apple Distribution";
+4217
+4217
+CODE_SIGN_STYLE = Manual;
+4218
+-
+CURRENT_PROJECT_VERSION =
+1
+;
+4218
++
+CURRENT_PROJECT_VERSION =
+7
+;
+4219
+4219
+DEVELOPMENT_TEAM = "$(inherited)";
+4220
+4220
+FRAMEWORK_SEARCH_PATHS = (
+4221
+4221
+"$(inherited)",
+@@ -4228,7 +4228,7 @@
+4228
+4228
+"$(inherited)",
+4229
+4229
+"@executable_path/Frameworks",
+4230
+4230
+);
+4231
+-
+MARKETING_VERSION =
+4.7.2
+;
+4231
++
+MARKETING_VERSION =
+5.0.0
+;
+4232
+4232
+PRODUCT_BUNDLE_IDENTIFIER = "$(BP_BUNDLE_IDENTIFIER)";
+4233
+4233
+PRODUCT_NAME = BookPlayer;
+4234
+4234
+PROVISIONING_PROFILE_SPECIFIER = "$(BP_PROVISIONING_MAIN)";
+@@ -4431,7 +4431,7 @@
+4431
+4431
+CODE_SIGN_IDENTITY = "Apple Development";
+4432
+4432
+"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "Apple Development";
+4433
+4433
+CODE_SIGN_STYLE = Manual;
+4434
+-
+CURRENT_PROJECT_VERSION =
+1
+;
+4434
++
+CURRENT_PROJECT_VERSION =
+7
+;
+4435
+4435
+DEVELOPMENT_TEAM = "$(inherited)";
+4436
+4436
+GCC_C_LANGUAGE_STANDARD = gnu11;
+4437
+4437
+GENERATE_INFOPLIST_FILE = YES;
+@@ -4444,7 +4444,7 @@
+4444
+4444
+"@executable_path/Frameworks",
+4445
+4445
+"@executable_path/../../Frameworks",
+4446
+4446
+);
+4447
+-
+MARKETING_VERSION =
+4.7.2
+;
+4447
++
+MARKETING_VERSION =
+5.0.0
+;
+4448
+4448
+MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+4449
+4449
+MTL_FAST_MATH = YES;
+4450
+4450
+PRODUCT_BUNDLE_IDENTIFIER = "$(BP_BUNDLE_IDENTIFIER).BookPlayerShareExtension";
+@@ -4471,7 +4471,7 @@
+4471
+4471
+CODE_SIGN_IDENTITY = "Apple Distribution";
+4472
+4472
+"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "Apple Distribution";
+4473
+4473
+CODE_SIGN_STYLE = Manual;
+4474
+-
+CURRENT_PROJECT_VERSION =
+1
+;
+4474
++
+CURRENT_PROJECT_VERSION =
+7
+;
+4475
+4475
+DEVELOPMENT_TEAM = "$(inherited)";
+4476
+4476
+GCC_C_LANGUAGE_STANDARD = gnu11;
+4477
+4477
+GENERATE_INFOPLIST_FILE = YES;
+@@ -4484,7 +4484,7 @@
+4484
+4484
+"@executable_path/Frameworks",
+4485
+4485
+"@executable_path/../../Frameworks",
+4486
+4486
+);
+4487
+-
+MARKETING_VERSION =
+4.7.2
+;
+4487
++
+MARKETING_VERSION =
+5.0.0
+;
+4488
+4488
+MTL_FAST_MATH = YES;
+4489
+4489
+PRODUCT_BUNDLE_IDENTIFIER = "$(BP_BUNDLE_IDENTIFIER).BookPlayerShareExtension";
+4490
+4490
+PRODUCT_NAME = "$(TARGET_NAME)";
+@@ -4509,7 +4509,7 @@
+4509
+4509
+CODE_SIGN_IDENTITY = "Apple Distribution";
+4510
+4510
+"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "Apple Distribution";
+4511
+4511
+CODE_SIGN_STYLE = Manual;
+4512
+-
+CURRENT_PROJECT_VERSION =
+1
+;
+4512
++
+CURRENT_PROJECT_VERSION =
+7
+;
+4513
+4513
+DEVELOPMENT_TEAM = "$(inherited)";
+4514
+4514
+GCC_C_LANGUAGE_STANDARD = gnu11;
+4515
+4515
+GENERATE_INFOPLIST_FILE = YES;
+@@ -4522,7 +4522,7 @@
+4522
+4522
+"@executable_path/Frameworks",
+4523
+4523
+"@executable_path/../../Frameworks",
+4524
+4524
+);
+4525
+-
+MARKETING_VERSION =
+4.7.2
+;
+4525
++
+MARKETING_VERSION =
+5.0.0
+;
+4526
+4526
+MTL_FAST_MATH = YES;
+4527
+4527
+PRODUCT_BUNDLE_IDENTIFIER = "$(BP_BUNDLE_IDENTIFIER).BookPlayerShareExtension";
+4528
+4528
+PRODUCT_NAME = "$(TARGET_NAME)";
+@@ -4601,7 +4601,7 @@
+4601
+4601
+CODE_SIGN_IDENTITY = "Apple Distribution";
+4602
+4602
+"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "Apple Distribution";
+4603
+4603
+CODE_SIGN_STYLE = Manual;
+4604
+-
+CURRENT_PROJECT_VERSION =
+1
+;
+4604
++
+CURRENT_PROJECT_VERSION =
+7
+;
+4605
+4605
+DEVELOPMENT_TEAM = "$(inherited)";
+4606
+4606
+FRAMEWORK_SEARCH_PATHS = (
+4607
+4607
+"$(inherited)",
+@@ -4614,7 +4614,7 @@
+4614
+4614
+"$(inherited)",
+4615
+4615
+"@executable_path/Frameworks",
+4616
+4616
+);
+4617
+-
+MARKETING_VERSION =
+4.7.2
+;
+4617
++
+MARKETING_VERSION =
+5.0.0
+;
+4618
+4618
+PRODUCT_BUNDLE_IDENTIFIER = "$(BP_BUNDLE_IDENTIFIER)";
+4619
+4619
+PRODUCT_NAME = BookPlayer;
+4620
+4620
+PROVISIONING_PROFILE_SPECIFIER = "$(BP_PROVISIONING_MAIN)";
+Original file line number
+Diff line number
+Diff line change
+@@ -8,8 +8,8 @@
+8
+8
+<
+dict
+>
+9
+9
+<
+key
+>
+NSExtensionAttributes
+</
+key
+>
+10
+10
+<
+dict
+>
+11
+-
+<
+key
+>
+NSExtensionActivationRule
+</
+key
+>
+12
+-
+<
+string
+>
+SUBQUERY (
+11
++
+<
+key
+>
+NSExtensionActivationRule
+</
+key
+>
+12
++
+<
+string
+>
+SUBQUERY (
+13
+13
+extensionItems,
+14
+14
+$extensionItem,
+15
+15
+SUBQUERY (
+@@ -21,8 +21,8 @@
+21
+21
+|| ANY $attachment.registeredTypeIdentifiers UTI-CONFORMS-TO "public.movie"
+22
+22
+|| ANY $attachment.registeredTypeIdentifiers UTI-CONFORMS-TO "com.pkware.zip-archive"
+23
+23
+)
+24
+-
+).@count
+>
+0
+25
+-
+).@count
+>
+0
+24
++
+).@count
+&gt;
+0
+25
++
+).@count
+&gt;
+0
+26
+26
+</
+string
+>
+27
+27
+</
+dict
+>
+28
+28
+<
+key
+>
+NSExtensionMainStoryboard
+</
+key
+>
+Original file line number
+Diff line number
+Diff line change
+@@ -0,0 +1,56 @@
+1
++
+#
+Terms of Use - General
+2
++
+3
++
+These Terms of Use – General (
+**
+“General Terms”
+**
+) supplement BookPlayer’s Terms of Use
+[
+here
+]
+(
+https://github.com/TortugaPower/BookPlayer/blob/main/TERMS_CONDITIONS.md
+)
+and the BookPlayer Pro Terms of Use
+[
+here
+]
+(
+https://github.com/TortugaPower/BookPlayer/blob/main/SUPPLEMENTAL_TERMS.md
+)
+(collectively the
+**
+“Terms”
+**
+). All capitalized words not defined herein shall have the meaning set forth in the other Terms.
+4
++
+5
++
+**
+1. License to use Application; Your Rights and Obligations
+**
+6
++
+7
++
+1.1 Subject to your compliance with the Terms, including these General Terms of Use (“General Terms”), BookPlayer grants you a limited, non-exclusive, non-sublicensable, revocable, non-transferrable license to access and use the Application and any of its content, information and related materials on your personal electronic device, solely for your personal, non-commercial use.
+8
++
+9
++
+1.2 You understand that all information, data, text, software, sound, photographs, graphics, video, messages, tags, or other materials available in connection with the Application (“Content”) are the sole responsibility of the person from whom such Content originated. We do not control, monitor, endorse, sponsor or approve any Content and do not guarantee the accuracy, integrity, or quality of such Content. You understand that by using the Application, you may be exposed to Content that is offensive, indecent, or objectionable. Under no circumstances will we be liable in any way for any Content, including, but not limited to, any errors or omissions in any Content, or any loss or damage of any kind incurred as a result of the use of any Content made available on the Application.
+10
++
+11
++
+1.3 You acknowledge and agree that (i) we retain complete editorial control over the Application and may alter, amend or cease the operation of the Application at any time in our sole discretion without notice to you; and (ii) the Application may be unavailable from time to time (including for maintenance purposes).
+12
++
+13
++
+1.4 You may not:
+14
++
+(i) remove any copyright, trademark or other proprietary rights notices from the Application or any Content;
+15
++
+(ii) edit, reproduce, modify, prepare derivative works based upon, distribute, license, lease, sell, resell, transfer, publicly display, public perform, stream, broadcast or otherwise exploit the content on the Application unless expressly permitted in writing by BookPlayer;
+16
++
+(iii) decompile, reverse-engineer or disassemble any features of the Application; or
+17
++
+(iv) utilize any programs or scripts for the purpose of scraping, indexing, measuring or otherwise data mining any parts of the Application or otherwise hindering the functionality of any part of the Application.
+18
++
+19
++
+**
+2. Intellectual Property Rights
+**
+20
++
+21
++
+2.1 The Application and the Content are the property of BookPlayer and its licensors, and are protected by copyright, trademark, and other laws of both the United States and foreign countries. Nothing in these Terms constitutes a transfer of any intellectual property rights. Our trademarks and trade dress may not be used in connection with any product or service without our prior written consent.
+22
++
+23
++
+2.2 If you provide us any feedback, ideas and suggestions about the Application or Content (“Feedback”), you assign to us, your entire right, title and interest (including, without limitation, all patent rights, design rights, copyrights and trade secrets) in the Feedback. To the extent such rights cannot be assigned, you hereby waive such rights as to BookPlayer, its affiliates and its and their customers and business partners.
+24
++
+25
++
+**
+3. Disclaimer of Warranties; Limitation of Liability; Consequential Damages and Indemnity
+**
+26
++
+27
++
+3.1 The Content and Application are provided to you “as is” and without warranty. BookPlayer and its subsidiaries, affiliates, officers, employees, agents, partners, and licensors (collectively, the “BookPlayer Parties”) hereby disclaim all warranties with regard to same, including, without limitation, (a) all implied warranties and conditions of merchantability, fitness for a particular purpose, performance, accuracy, reliability, availability, compatibility, title and noninfringement; (b) any errors or defects will be corrected; (c) the Application is free of viruses or other harmful components; or (d) the results of using the Application will meet your requirements. Your use of the Application and any Content is at your own discretion and risk and you are solely responsible for any damage to your computer system or other device, or your loss of data, profits or revenue (or any other punitive, incidental, special or consequential damage) that directly or indirectly results from such use.
+28
++
+29
++
+3.2 You expressly agree to release the BookPlayer Parties from any and all liability connected with your activities, and promise not to sue the BookPlayer Parties for any claims, actions, injuries, damages, or losses associated with your activities, whether based on contract, tort, strict liability, or otherwise, even if BookPlayer has been advised of the possibility of damages. Because some states/jurisdictions do not allow the exclusion or limitation of liability for consequential or incidental damages, the above limitation may not apply to you.
+30
++
+31
++
+3.3 You agree to indemnify, defend and hold harmless all BookPlayer Parties, from any and all claims, demands, damages, losses, liabilities, costs, and expenses (including reasonable attorneys’ fees) arising from your use of the Application or your violation of the Terms.
+32
++
+33
++
+**
+4. Termination
+**
+34
++
+35
++
+4.1 These Terms terminate automatically if, for any reason, we cease to operate the Application. Sections 2-7 of these General Terms will survive termination.
+36
++
+37
++
+4.2 BookPlayer retains the right to terminate these Terms immediately if you have breached these Terms in any way.
+38
++
+39
++
+**
+5. Digital Millennium Copyright Act
+**
+40
++
+41
++
+We follow the notice and take down provisions of the Digital Millennium Copyright Act (the “DMCA”). In addition, we may terminate the account and access rights of any repeat infringer in appropriate circumstances. If you are a copyright owner or the legal agent of a copyright owner, and you believe that any Content infringes upon your copyrights, you may submit a notification pursuant to our DMCA Policy by sending an email to
+[
+support@bookplayer.app
+]
+(
+mailto:support@bookplayer.app
+)
+with a subject line beginning “DMCA Notice” that contains the following information:
+42
++
+(i) A physical or electronic signature of a person authorized to act on behalf of the owner or an agent of an exclusive right that is allegedly infringed;
+43
++
+(ii) Identification of the copyright claimed to have been infringed;
+44
++
+(iii) Identification of the material that is claimed to be infringing, and where it is located in the App or Service, as applicable;
+45
++
+(iv) Information reasonably sufficient to permit us to contact you;
+46
++
+(v) A statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and
+47
++
+(vi) A statement, made under penalty of perjury, that the above information is accurate, and that you are the copyright owner or are authorized to act on behalf of the owner.
+48
++
+We respect the intellectual property rights of others and will respond to clear notices of alleged infringement. You acknowledge that if you fail to comply with all of the requirements of this section, your notice may not be valid.
+49
++
+50
++
+**
+6. Miscellaneous
+**
+51
++
+52
++
+7.1 Severability. In the event that one or more terms of these Terms becomes or is declared to be illegal or otherwise unenforceable by any court of competent jurisdiction, each such term shall be deemed deleted from these Terms in such jurisdiction. All remaining terms of these Terms shall remain in full force and effect and such deletion shall not apply to the Terms in other jurisdictions.
+53
++
+54
++
+7.2 The failure of us to exercise or enforce any right or provision of these Terms shall not constitute a waiver of such right or provision. Our notice to you via email, regular mail, or notices or links on the Application shall constitute acceptable notice to you under these Terms.
+55
++
+56
++
+7.3 These Terms constitutes the entire agreement between us and unless specifically stated in these Terms, no other representation, document or statement shall be considered part of these Terms.
+Original file line number
+Diff line number
+Diff line change
+@@ -1,17 +1,50 @@
+1
+1
+#
+Privacy Policy
+2
+-
+######
+version
+1
+.0.0 of This Agreement was created on
+December 20, 2020
+.
+2
++
+######
+version
+2
+.0.0 of This Agreement was created on
+May 25, 2023
+.
+3
+3
+4
+4
+BookPlayer is an audio book player app, and we believe that an audio book player should provide a good listening experience which also includes peace of mind when it comes to data responsibility.
+5
+5
+6
+-
+##
+What information do
+we collect
+?
+6
++
+This Privacy Policy explains what information
+we collect
+and why. It applies to the iOS, iPadOS and MacOS apps.
+7
+7
+8
+-
+BookPlayer collects two types of information:
+8
++
+##
+What information do you collect about me?
+9
+9
+10
+-
+-
+App crash data (using
+[
+Sentry
+]
+(
+https://sentry.io
+)
+)
+11
+-
+-
+App usage (using
+[
+TelemetryDeck
+]
+(
+https://telemetrydeck.com
+)
+)
+10
++
+For our base functionality, BookPlayer collects two types of information:
+12
+11
+13
+-
+We do not use or have access to your personal data, that includes all data related to your books and Library on your device.
+12
++
+-
+App crash data and performance (using
+[
+Sentry
+]
+(
+https://sentry.io
+)
+).
+13
++
+-
+App usage (using
+[
+TelemetryDeck
+]
+(
+https://telemetrydeck.com/privacy
+)
+).
+14
+14
+15
+-
+##
+Contact Us
+15
++
+If you choose to create an account in our app, we store the email address that you share via the Sign in with Apple integration,
+16
++
+17
++
+If you choose to purchase a subscription to BookPlayer Pro, we do the following:
+18
++
+19
++
+-
+We process your payment data using RevenueCat, which collects anonymous purchase history limited to BookPlayer subscriptions only. For more details, please see their
+[
+privacy policy
+]
+(
+https://www.revenuecat.com/privacy
+)
+.
+20
++
+-
+We will store your library data in our servers, including the files, book progress (total listened time also), and bookmarks that have been added or created inside the app.
+21
++
+22
++
+##
+How do you use my information?
+23
++
+24
++
+-
+To provide all the features specified in the subscription service.
+25
++
+-
+To provide effective support to you during your use of the app.
+26
++
+-
+To understand how BookPlayer services are used and to improve our services.
+27
++
+28
++
+##
+Will you send me emails?
+29
++
+30
++
+No.
+31
++
+32
++
+##
+Will you share my information?
+33
++
+34
++
+No.
+35
++
+36
++
+##
+Can I delete my information?
+37
++
+38
++
+Yes, you can initiate the process for deleting your account from within the Account screen inside the app. We will retain your data for a 7-day period in case you decide to contact us via
+[
+support@bookplayer.app
+]
+(
+mailto:support@bookplayer.app
+)
+and revert your decision.
+39
++
+40
++
+##
+Can I have a copy of my information?
+41
++
+42
++
+Yes, you can request a copy of your data we have stored by contacting us via
+[
+support@bookplayer.app
+]
+(
+mailto:support@bookplayer.app
+)
+43
++
+44
++
+##
+Will This Privacy Policy Ever Change?
+45
++
+46
++
+We may need to update this Policy to reflect changes in our provided services, our business and applicable laws. We will, however, always maintain our commitment to respect your privacy. We will post any revisions to this Policy on our public Github code repository. Your use of our services after any change will be subject to the new Privacy Policy.
+16
+47
+17
+48
+If you have any questions or concerns about our Privacy Policy, please contact us at
+[
+support@bookplayer.app
+]
+(
+mailto:support@bookplayer.app
+)
+49
++
+50
++
+Effective Date: 27 May 2023
+Original file line number
+Diff line number
+Diff line change
+@@ -0,0 +1,44 @@
+1
++
+#
+Terms of Use - BookPlayer Paid Services
+2
++
+3
++
+These terms for paid-services (“Supplemental Terms”) supplement BookPlayer’s Terms of Use found
+[
+here
+]
+(
+https://github.com/TortugaPower/BookPlayer/blob/main/GENERAL_TERMS.md
+)
+and
+[
+here
+]
+(
+https://github.com/TortugaPower/BookPlayer/blob/main/TERMS_CONDITIONS.md
+)
+(collectively the
+**
+“Terms”
+**
+). All capitalized words not defined herein shall have the meaning set forth in the other Terms.
+4
++
+5
++
+**
+1. Your Membership Rights and Obligations
+**
+6
++
+7
++
+1.1 By paying the fixed subscription fee you will become a member of the Application. As a paying member you will gain exclusive access to various features on the Application. This will include a feature enabling you to upload files onto the platform in accordance with the Terms. The files you upload are not to be shared with other BookPlayer members. The available online storage for the uploaded files may be limited based on the subscription plan.
+8
++
+9
++
+1.2 You shall not add, store or contribute any content (“User Content”) to the Application:
+10
++
+(i) unless you hold all necessary rights, licenses and consents to do so and have fully complied with any such third-party licenses relating to User Content (including paying all royalties, fees and any other monies required to be paid in connection with such User Content);
+11
++
+(ii) that would cause you or us to breach any law, regulation, rule, code or other legal obligation;
+12
++
+(iii) that is or could reasonably considered in our sole discretion: (1) to be obscene, defamatory, disparaging, indecent, offensive, threatening or to incite racial hatred, discriminatory, blasphemous, in breach of confidence or in breach of privacy or otherwise objectionable; (2) that would demean, criticize, place in a negative or false light, harm or negatively affect the reputation of BookPlayer, the Application or its associated features; (3) that infringes or is likely to infringe the intellectual property or other proprietary rights of any person, or (4) is likely to subject us or our affiliates to any monetary and/or legal obligations.
+13
++
+14
++
+1.3 You accept responsibility for all activities that occur under your account or from your devices. You accept all risks of unauthorized access to the user data and any other information you provide to us.
+15
++
+16
++
+**
+2. Accounts and Paid Subscription Packages
+**
+17
++
+18
++
+2.1 We may make certain products and/or services available to users of the Application in consideration of a subscription fee or other fees (“Premium Services”), including the ability to purchase products and services from within the Application (“In-App Products”). If you choose to use Premium Services or make purchase of In-App Products via a third-party application store (like the App Store), then such third-party application store will charge you for any such applicable fees or charges (including any applicable taxes), according to their terms and conditions attributable to such purchase.
+19
++
+20
++
+2.2 If you purchase an auto-recurring periodic subscription through an in-app purchase, you will continue to be billed for the subscription until you or we cancel it. The initial price and billing period will be as displayed via the Application. We may change the price at any time, but price changes will only apply to new purchases (including renewals). If you do not wish your subscription to renew automatically, or if you want to change or terminate your subscription, you will need to follow the instructions from Apple to cancel your subscription before the next billing period starts, even if you have otherwise deleted your account with us or if you have deleted the Application from your device. Deleting your member account or deleting the Application from your device does not cancel your subscription. You must cancel your Account as set forth in these Terms.
+21
++
+22
++
+2.3 You retain the right to cancel your subscription at any time which must be done via your Apple account. Upon cancellation, you will continue to be subscribed to the Application until the conclusion of the relevant billing cycle, at which point your subscription and access to the Premium Services will cease.
+23
++
+24
++
+2.4 If you cancel your subscription, following the subscription expiration date, BookPlayer reserves the right delete all files being stored on the platform.
+25
++
+26
++
+**
+3. Billing Cycle and Payment
+**
+27
++
+28
++
+3.1 The membership fee for the Premium Services, the purchase price of In-App Products, and any other charges you may incur in connection with your use of the service, such as sales tax, VAT, and any other transaction fees, will be charged to you via your Apple account.
+29
++
+30
++
+3.2 The length of your billing cycle will depend on the subscription type you select at sign-up for the subscription. Subscription fees will be payable on either an annual or per month basis.
+31
++
+32
++
+3.3 In certain circumstances the payment date may change, for example, if your chosen method of payment has not successfully settled.
+33
++
+34
++
+3.4 If a member exercises its cancellation right, BookPlayer or its billing agents will not charge further subscription fees following the date of cancellation. Members will retain access to Premium Services until the billing cycle concludes. The expiration date will be fixed in-application at the time of subscription.
+35
++
+36
++
+3.5 All subscription fees are non-refundable.
+37
++
+38
++
+3.6 BookPlayer may change your subscription fee from time to time, however, any price changes will apply to subsequent billing cycles only.
+39
++
+40
++
+3.7 BookPlayer may, from time to time, offer new members a “free trial” period where subscription fees will be waived for a period of time. To avoid charges, you must cancel the free trial in the same manner as indicated above for cancellations of subscriptions before the free trial expires.
+41
++
+42
++
+**
+4. Intellectual Property Rights
+**
+43
++
+44
++
+Content uploaded by you will remain the property of the contributor or creator. BookPlayer will not, without user consent, publish the contributed content. However, by posting any User Content onto the Application or its network, you grant us a perpetual, non-exclusive, fully-paid, royalty-free, sublicensable and worldwide right and license to host, cache and copy the User Content to and from various servers and our associated networks and to play same to you upon your request. You represent that all User Content is stored for your personal, non-commercial use and represent that you have all rights to store, retrieve and listen to any User Content and that you have all necessary rights to grant the licenses and consents with respect to your User Content and for the rights you grant under these Terms.
+Original file line number
+Diff line number
+Diff line change
+@@ -0,0 +1,10 @@
+1
++
+#
+Terms of Use
+2
++
+3
++
+The BookPlayer-branded content and services available in connection with the mobile application, and their related systems or networks (the **“Application”**) are made available to you (**“you”** or **“your”**, as the context requires) by BookPlayer. (**“BookPlayer”**, **“we”**, **“our”** and **“us”**, as the context requires) subject to these terms of use, which include the [General Terms of Use](https://github.com/TortugaPower/BookPlayer/blob/main/GENERAL_TERMS.md) (**“General Terms”**) and [BookPlayer Pro Terms of Use](https://github.com/TortugaPower/BookPlayer/blob/main/SUPPLEMENTAL_TERMS.md) (**“Supplemental Terms”**) (collectively, the **“Terms”**). By using the Application, you agree to follow and be bound by the Terms, which may be updated by us from time to time without notice to you. You can review the most current version of the Terms at any time [here](https://github.com/TortugaPower/BookPlayer/blob/main/TERMS_CONDITIONS.md). We and third-party providers may make improvements and/or changes in any part of the Application at any time without notice. The Application is offered and available only to individuals who are 18 years or older, or 13 years or older with parental consent, or the applicable age of majority in your country. By using or accessing the Application, you represent and warrant that you meet these requirements.
+4
++
+5
++
+The Terms are important and you should read them carefully and contact us with any questions before you use the BookPlayer Application and associated websites, content, products and services. You can contact us at
+[
+support@bookplayer.app
+]
+(
+mailto:support@bookplayer.app
+)
+.
+6
++
+7
++
+By continuing to use the Application you acknowledge and agree that you have had sufficient chance to read and understand the Terms and you agree to be bound by them. If you do not agree to the terms, you should not use the Application including its associated features and network.
+8
++
+9
++
+[
+Terms of Use – General
+]
+(
+https://github.com/TortugaPower/BookPlayer/blob/main/GENERAL_TERMS.md
+)
+\
+10
++
+[
+Terms of Use – BookPlayer Pro
+]
+(
+https://github.com/TortugaPower/BookPlayer/blob/main/SUPPLEMENTAL_TERMS.md
+)
+0
+commit comments
+Comments
+0
+(
+0
+)
+Please
+sign in
+to comment.
+You can’t perform that action at this time.
+Sub-policy 1
 https://www.revenuecat.com/privacy:
 Privacy Policy
 This is the Privacy Policy for the website hosted at https://www.revenuecat.com/ (

@@ -1,7 +1,3 @@
-import json
-import os
-import re
-
 import GetCommon
 
 def make_diff():
@@ -38,7 +34,6 @@ def del_file():
     print("文件删除完成。")
 
 import os
-import json
 
 
 def split_file(input_file, output_prefix, lines_per_file=5000):
@@ -76,7 +71,7 @@ if __name__ == "__main__":
     # del_file()
     # make_file
 
-    split_file(r"AppInfo_google\diff_sub_privacy_url.json", r"AppInfo_google\diff_sub_privacy_url", 6000)
+    split_file(r"C:\Users\smile\PycharmProjects\pythonProject\AppInfo_appstore\diff_sub_privacy_url.json", r"AppInfo_appstore\diff_sub_privacy_url", 3000)
 
     # read_id()
     # make_diff()

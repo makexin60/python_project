@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "id": "978180074",
+            "type": "apps",
+            "href": "/v1/catalog/ie/apps/978180074?l=en-GB",
+            "attributes": {
+                "privacyDetails": {
+                    "managePrivacyChoicesUrl": null,
+                    "privacyTypes": []
+                }
+            },
+            "relationships": {
+                "developer": {
+                    "href": "/v1/catalog/ie/apps/978180074/developer?l=en-GB",
+                    "data": [
+                        {
+                            "id": "1444085162",
+                            "type": "developers",
+                            "href": "/v1/catalog/ie/developers/1444085162?l=en-GB"
+                        }
+                    ]
+                },
+                "genres": {
+                    "href": "/v1/catalog/ie/apps/978180074/genres?l=en-GB",
+                    "data": []
+                }
+            },
+            "meta": {
+                "contentVersion": {
+                    "RTCI": 1731378813305,
+                    "MZ_INDEXER": 1739957204594
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+[
+    {
+        "Data shared ( Data that may be shared with other companies or organizations )": [
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data shared and for what purpose": [
+                    {
+                        "Device or other IDs": "Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "Messages": "SMS or MMS",
+                "Data shared and for what purpose": [
+                    {
+                        "SMS or MMS": "Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "Contacts": "Contacts",
+                "Data shared and for what purpose": [
+                    {
+                        "Contacts": "Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions and Installed apps",
+                "Data shared and for what purpose": [
+                    {
+                        "App interactions": "Analytics",
+                        "Installed apps": "Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "Financial info": "User payment info and Other financial info",
+                "Data shared and for what purpose": [
+                    {
+                        "User payment info": "App functionality",
+                        "Other financial info": "Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name, Email address, Address, Phone number, and Other info",
+                "Data shared and for what purpose": [
+                    {
+                        "Name": "Fraud prevention, security, and compliance",
+                        "Email address": "Fraud prevention, security, and compliance",
+                        "Address": "App functionality",
+                        "Phone number": "Fraud prevention, security, and compliance",
+                        "Other info": "Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "Location": "Approximate location and Precise location",
+                "Data shared and for what purpose": [
+                    {
+                        "Approximate location": "Fraud prevention, security, and compliance",
+                        "Precise location": "Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "App info and performance": "Crash logs and Diagnostics",
+                "Data shared and for what purpose": [
+                    {
+                        "Crash logs": "Analytics",
+                        "Diagnostics": "Analytics"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Data collected ( Data this app may collect )": [
+            {
+                "Device or other IDs": "Device or other IDs",
+                "Data collected and for what purpose": [
+                    {
+                        "Device or other IDs": "Fraud prevention, security, and compliance"
+                    }
+                ]
+            },
+            {
+                "App activity": "App interactions",
+                "Data collected and for what purpose": [
+                    {
+                        "App interactions": "Analytics"
+                    }
+                ]
+            },
+            {
+                "Financial info": "Purchase history",
+                "Data collected and for what purpose": [
+                    {
+                        "Purchase history": "App functionality"
+                    }
+                ]
+            },
+            {
+                "Personal info": "Name, Email address, Phone number, and Other info",
+                "Data collected and for what purpose": [
+                    {
+                        "Name · Optional": "App functionality, Fraud prevention, security, and compliance, Account management",
+                        "Email address · Optional": "App functionality, Fraud prevention, security, and compliance, Account management",
+                        "Phone number · Optional": "App functionality, Fraud prevention, security, and compliance, Account management",
+                        "Other info · Optional": "App functionality, Fraud prevention, security, and compliance, Account management"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Security practices": [
+            {
+                "Data is encrypted in transit": "Your data is transferred over a secure connection"
+            },
+            {
+                "You can request that data be deleted": "The developer provides a way for you to request that your data be deleted"
+            }
+        ]
+    }
+]

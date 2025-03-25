@@ -1,122 +1,272 @@
-Your connection is not private
-Attackers might be trying to steal your information from
-kooler.com.tw
-(for example, passwords, messages, or credit cards).
-Learn more about this warning
-net::ERR_CERT_COMMON_NAME_INVALID
-Subject:
-*.sucuri.net
-Issuer:
-Go Daddy Secure Certificate Authority - G2
-Expires on:
-Oct 12, 2025
-Current date:
-Mar 4, 2025
-PEM encoded chain:
------BEGIN CERTIFICATE-----
-MIIGizCCBXOgAwIBAgIIK/NgeJE0PlYwDQYJKoZIhvcNAQELBQAwgbQxCzAJBgNV
-BAYTAlVTMRAwDgYDVQQIEwdBcml6b25hMRMwEQYDVQQHEwpTY290dHNkYWxlMRow
-GAYDVQQKExFHb0RhZGR5LmNvbSwgSW5jLjEtMCsGA1UECxMkaHR0cDovL2NlcnRz
-LmdvZGFkZHkuY29tL3JlcG9zaXRvcnkvMTMwMQYDVQQDEypHbyBEYWRkeSBTZWN1
-cmUgQ2VydGlmaWNhdGUgQXV0aG9yaXR5IC0gRzIwHhcNMjQwOTEwMTM1MzU2WhcN
-MjUxMDEyMTM1MzU2WjAXMRUwEwYDVQQDDAwqLnN1Y3VyaS5uZXQwggEiMA0GCSqG
-SIb3DQEBAQUAA4IBDwAwggEKAoIBAQC9fP+ymA5suM3IT3NiHhIcVDYdqbqmObwQ
-IR0wnusU2s5wI8KXlh44HgU7HsfYdEABIFldII6lVU634wMiv+1Tv1AzL7wos5yA
-aHDa6jvLGYq1KvWa+ApAMZnmeHNAKt+FMjmx9FztrIv+iQ8EzdHrL7+/3FfzVWQV
-hRMuRBIQIAQLvq1+5wuHQGBPdtBjrly/36fapA5vMlmJDQ+qwX5Sdz1TduoSNt55
-qAw85vketdDD5jpXN8u7YGEdf52s0JfaXgewQNda8ulPdlGT+FkQkSF54AMwn7by
-vTmOJa7hB/QZyYlnPQel2AeKj5XT1NzrrdK2bQN6Nm61gOFwTzJ5AgMBAAGjggM7
-MIIDNzAMBgNVHRMBAf8EAjAAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcD
-AjAOBgNVHQ8BAf8EBAMCBaAwOQYDVR0fBDIwMDAuoCygKoYoaHR0cDovL2NybC5n
-b2RhZGR5LmNvbS9nZGlnMnMxLTMwMDU3LmNybDBdBgNVHSAEVjBUMEgGC2CGSAGG
-/W0BBxcBMDkwNwYIKwYBBQUHAgEWK2h0dHA6Ly9jZXJ0aWZpY2F0ZXMuZ29kYWRk
-eS5jb20vcmVwb3NpdG9yeS8wCAYGZ4EMAQIBMHYGCCsGAQUFBwEBBGowaDAkBggr
-BgEFBQcwAYYYaHR0cDovL29jc3AuZ29kYWRkeS5jb20vMEAGCCsGAQUFBzAChjRo
-dHRwOi8vY2VydGlmaWNhdGVzLmdvZGFkZHkuY29tL3JlcG9zaXRvcnkvZ2RpZzIu
-Y3J0MB8GA1UdIwQYMBaAFEDCvSeOzDSDMKIz1/tss/C0LIDOMCMGA1UdEQQcMBqC
-DCouc3VjdXJpLm5ldIIKc3VjdXJpLm5ldDAdBgNVHQ4EFgQUzOYU9T4pV0/imz0g
-tVipkjLvXM8wggF/BgorBgEEAdZ5AgQCBIIBbwSCAWsBaQB2ABLxTjS9U3JMhAYZ
-w48/ehP457Vih4icbTAFhOvlhiY6AAABkdw2YPAAAAQDAEcwRQIhANeP3NyvcSpU
-yD6QrZKSybBgFNfTjC9P+lxwN1LUNW+pAiBq5thpEAt0JAEdV3/4HaEKQtrMmDdD
-zWr08PEYirkD6wB3AH1ZHhLheCp7HGFnfF79+NCHXBSgTpWeuQMv2Q6MLnm4AAAB
-kdw2YhcAAAQDAEgwRgIhAL65XBhVJ4CBzyvFN6WKp38+DqDijmqiRnLnqHQk6n/J
-AiEA8N7Ic732bLbTpgWj4az9fQmw0F1B33Kvn8yW1uFZMzcAdgDM+w9qhXEJZf6V
-m1PO6bJ8IumFXA2XjbapflTA/kwNsAAAAZHcNmKRAAAEAwBHMEUCIQCQFIiRBhYx
-aPe2UZTgaKRuUWxA3FMWp1cHT7fC3BdBWAIgVS7ZjpKRbrfkPpdvSFeN7kVIjym1
-qzo9SyRouOwEYiIwDQYJKoZIhvcNAQELBQADggEBAGkSvTExbaQ86Ysng9WQidlm
-hV+UA7aCbLE42SEV95+GNksGqXT5HDx74BYR0kD5CH51wEkdqRZmOnU6p5PPgJTx
-ENeeGtYTDM9hDYlYSHrzUmce4+psYbrG8g40JIOP1uMjvKARQUZ+OMBU+p9VSvAH
-a9lq3F+foGzBXJk6w1LQkCT9IxJD2RpJcesONtM1MwLBeYs1TdR+tbsPgYiq4FVN
-2tELJ+x4szDcIgUFCzj9zpUBhQldNjy63L5jAclOq2B7g5/d77Xv9pt+5toyZmmB
-KHV8X3AmXZ9aBdN7MwaZlxwIAjTKKhhXlzWbnTaw6Gf+IeMfVqQbV2lb7s4+FOU=
------END CERTIFICATE-----
------BEGIN CERTIFICATE-----
-MIIE0DCCA7igAwIBAgIBBzANBgkqhkiG9w0BAQsFADCBgzELMAkGA1UEBhMCVVMx
-EDAOBgNVBAgTB0FyaXpvbmExEzARBgNVBAcTClNjb3R0c2RhbGUxGjAYBgNVBAoT
-EUdvRGFkZHkuY29tLCBJbmMuMTEwLwYDVQQDEyhHbyBEYWRkeSBSb290IENlcnRp
-ZmljYXRlIEF1dGhvcml0eSAtIEcyMB4XDTExMDUwMzA3MDAwMFoXDTMxMDUwMzA3
-MDAwMFowgbQxCzAJBgNVBAYTAlVTMRAwDgYDVQQIEwdBcml6b25hMRMwEQYDVQQH
-EwpTY290dHNkYWxlMRowGAYDVQQKExFHb0RhZGR5LmNvbSwgSW5jLjEtMCsGA1UE
-CxMkaHR0cDovL2NlcnRzLmdvZGFkZHkuY29tL3JlcG9zaXRvcnkvMTMwMQYDVQQD
-EypHbyBEYWRkeSBTZWN1cmUgQ2VydGlmaWNhdGUgQXV0aG9yaXR5IC0gRzIwggEi
-MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC54MsQ1K92vdSTYuswZLiBCGzD
-BNliF44v/z5lz4/OYuY8UhzaFkVLVat4a2ODYpDOD2lsmcgaFItMzEUz6ojcnqOv
-K/6AYZ15V8TPLvQ/MDxdR/yaFrzDN5ZBUY4RS1T4KL7QjL7wMDge87Am+GZHY23e
-cSZHjzhHU9FGHbTj3ADqRay9vHHZqm8A29vNMDp5T19MR/gd71vCxJ1gO7GyQ5HY
-pDNO6rPWJ0+tJYqlxvTV0KaudAVkV4i1RFXULSo6Pvi4vekyCgKUZMQWOlDxSq7n
-eTOvDCAHf+jfBDnCaQJsY1L6d8EbyHSHyLmTGFBUNUtpTrw700kuH9zB0lL7AgMB
-AAGjggEaMIIBFjAPBgNVHRMBAf8EBTADAQH/MA4GA1UdDwEB/wQEAwIBBjAdBgNV
-HQ4EFgQUQMK9J47MNIMwojPX+2yz8LQsgM4wHwYDVR0jBBgwFoAUOpqFBxBnKLbv
-9r0FQW4gwZTaD94wNAYIKwYBBQUHAQEEKDAmMCQGCCsGAQUFBzABhhhodHRwOi8v
-b2NzcC5nb2RhZGR5LmNvbS8wNQYDVR0fBC4wLDAqoCigJoYkaHR0cDovL2NybC5n
-b2RhZGR5LmNvbS9nZHJvb3QtZzIuY3JsMEYGA1UdIAQ/MD0wOwYEVR0gADAzMDEG
-CCsGAQUFBwIBFiVodHRwczovL2NlcnRzLmdvZGFkZHkuY29tL3JlcG9zaXRvcnkv
-MA0GCSqGSIb3DQEBCwUAA4IBAQAIfmyTEMg4uJapkEv/oV9PBO9sPpyIBslQj6Zz
-91cxG7685C/b+LrTW+C05+Z5Yg4MotdqY3MxtfWoSKQ7CC2iXZDXtHwlTxFWMMS2
-RJ17LJ3lXubvDGGqv+QqG+6EnriDfcFDzkSnE3ANkR/0yBOtg2DZ2HKocyQetawi
-DsoXiWJYRBuriSUBAA/NxBti21G00w9RKpv0vHP8ds42pM3Z2Czqrpv1KrKQ0U11
-GIo/ikGQI31bS/6kA1ibRrLDYGCD+H1QQc7CoZDDu+8CL9IVVO5EFdkKrqeKM+2x
-LXY2JtwE65/3YR8V3Idv7kaWKK2hJn0KCacuBKONvPi8BDAB
------END CERTIFICATE-----
------BEGIN CERTIFICATE-----
-MIIDxTCCAq2gAwIBAgIBADANBgkqhkiG9w0BAQsFADCBgzELMAkGA1UEBhMCVVMx
-EDAOBgNVBAgTB0FyaXpvbmExEzARBgNVBAcTClNjb3R0c2RhbGUxGjAYBgNVBAoT
-EUdvRGFkZHkuY29tLCBJbmMuMTEwLwYDVQQDEyhHbyBEYWRkeSBSb290IENlcnRp
-ZmljYXRlIEF1dGhvcml0eSAtIEcyMB4XDTA5MDkwMTAwMDAwMFoXDTM3MTIzMTIz
-NTk1OVowgYMxCzAJBgNVBAYTAlVTMRAwDgYDVQQIEwdBcml6b25hMRMwEQYDVQQH
-EwpTY290dHNkYWxlMRowGAYDVQQKExFHb0RhZGR5LmNvbSwgSW5jLjExMC8GA1UE
-AxMoR28gRGFkZHkgUm9vdCBDZXJ0aWZpY2F0ZSBBdXRob3JpdHkgLSBHMjCCASIw
-DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAL9xYgjx+lk09xvJGKP3gElY6SKD
-E6bFIEMBO4Tx5oVJnyfq9oQbTqC023CYxzIBsQU+B07u9PpPL1kwIuerGVZr4oAH
-/PMWdYA5UXvl+TW2dE6pjYIT5LY/qQOD+qK+ihVqf94Lw7YZFAXK6sOoBJQ7Rnwy
-DfMAZiLIjWltNowRGLfTshxgtDj6AozO091GB94KPutdfMh8+7ArU6SSYmlRJQVh
-GkSBjCypQ5Yj36w6gZoOKcUcqeldHraenjAKOc7xiID7S13MMuyFYkMlNAJWJwGR
-tDtwKj9useiciAF9n9T521NtYJ2/LOdYq7hfRvzOxBsDPAnrSTFcaUaz4EcCAwEA
-AaNCMEAwDwYDVR0TAQH/BAUwAwEB/zAOBgNVHQ8BAf8EBAMCAQYwHQYDVR0OBBYE
-FDqahQcQZyi27/a9BUFuIMGU2g/eMA0GCSqGSIb3DQEBCwUAA4IBAQCZ21151fmX
-WWcDYfF+OwYxdS2hII5PZYe096acvNjpL9DbWu7PdIxztDhC2gV7+AJ1uP2lsdeu
-9tfeE8tTEH6KRtGX+rcuKxGrkLAngPnon1rpN5+r5N9ss4UXnT3ZJE95kTXWXwTr
-gIOrmgIttRD02JDHBHNA7XIloKmf7J6raBKZV8aPEjoJpL1E/QYVN8Gb5DKj7Tjo
-2GTzLH4U/ALqn83/B2gX2yKQOC16jdFU8WnjXzPKej17CuPKf1855eJ1usV2GDPO
-LPAvTK33sefOT6jEm0pUBsV/fdUID+Ic/n4XuKxe9tQWskMJDE32p2u0mYRlynqI
-4uJEvlz36hz1
------END CERTIFICATE-----
-Certificate Transparency:
-SCT Google 'Argon2025h2' log (Embedded in certificate, Verified)
-SCT DigiCert Yeti2025 Log (Embedded in certificate, Verified)
-SCT Cloudflare 'Nimbus2025' (Embedded in certificate, Verified)
-Warnings may be common while websites update their security. This should improve soon.
-Help improve security on the web for everyone by sending
-URLs of some pages you visit, limited system information, and some page content
-to Google.
-Privacy policy
-Turn on enhanced protection
-to get Chrome's highest level of security
-Back to safety
-Advanced
-This server could not prove that it is
-kooler.com.tw
-; its security certificate is from
-*.sucuri.net
-. This may be caused by a misconfiguration or an attacker intercepting your connection.
-Proceed to kooler.com.tw (unsafe)
+Privacy Policy
+Last updated: December 02, 2022
+This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
+We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help of the
+Privacy Policy Generator
+.
+Interpretation and Definitions
+Interpretation
+The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
+Definitions
+For the purposes of this Privacy Policy:
+Account
+means a unique account created for You to access our Service or parts of our Service.
+Affiliate
+means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
+Application
+means the software program provided by the Company downloaded by You on any electronic device, named AnimeMe
+Company
+(referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to AnimeMe.
+Country
+refers to:  Taiwan
+Device
+means any device that can access the Service such as a computer, a cellphone or a digital tablet.
+Personal Data
+is any information that relates to an identified or identifiable individual.
+Service
+refers to the Application.
+Service Provider
+means any natural or legal person who processes the data on behalf of the Company. It refers to third-party companies or individuals employed by the Company to facilitate the Service, to provide the Service on behalf of the Company, to perform services related to the Service or to assist the Company in analyzing how the Service is used.
+Usage Data
+refers to data collected automatically, either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit).
+You
+means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
+Collecting and Using Your Personal Data
+Types of Data Collected
+Personal Data
+While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:
+Usage Data
+Usage Data
+Usage Data is collected automatically when using the Service.
+Usage Data may include information such as Your Device's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that You visit, the time and date of Your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
+When You access the Service by or through a mobile device, We may collect certain information automatically, including, but not limited to, the type of mobile device You use, Your mobile device unique ID, the IP address of Your mobile device, Your mobile operating system, the type of mobile Internet browser You use, unique device identifiers and other diagnostic data.
+We may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device.
+Information Collected while Using the Application
+While using Our Application, in order to provide features of Our Application, We may collect, with Your prior permission:
+Pictures and other information from your Device's camera and photo library
+We use this information to provide features of Our Service, to improve and customize Our Service. The information may be uploaded to the Company's servers and/or a Service Provider's server or it may be simply stored on Your device.
+You can enable or disable access to this information at any time, through Your Device settings.
+Use of Your Personal Data
+The Company may use Personal Data for the following purposes:
+To provide and maintain our Service
+, including to monitor the usage of our Service.
+To manage Your Account:
+to manage Your registration as a user of the Service. The Personal Data You provide can give You access to different functionalities of the Service that are available to You as a registered user.
+For the performance of a contract:
+the development, compliance and undertaking of the purchase contract for the products, items or services You have purchased or of any other contract with Us through the Service.
+To contact You:
+To contact You by email, telephone calls, SMS, or other equivalent forms of electronic communication, such as a mobile application's push notifications regarding updates or informative communications related to the functionalities, products or contracted services, including the security updates, when necessary or reasonable for their implementation.
+To provide You
+with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless You have opted not to receive such information.
+To manage Your requests:
+To attend and manage Your requests to Us.
+For business transfers:
+We may use Your information to evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which Personal Data held by Us about our Service users is among the assets transferred.
+For other purposes
+: We may use Your information for other purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Service, products, services, marketing and your experience.
+We may share Your personal information in the following situations:
+With Service Providers:
+We may share Your personal information with Service Providers to monitor and analyze the use of our Service,  to contact You.
+For business transfers:
+We may share or transfer Your personal information in connection with, or during negotiations of, any merger, sale of Company assets, financing, or acquisition of all or a portion of Our business to another company.
+With Affiliates:
+We may share Your information with Our affiliates, in which case we will require those affiliates to honor this Privacy Policy. Affiliates include Our parent company and any other subsidiaries, joint venture partners or other companies that We control or that are under common control with Us.
+With business partners:
+We may share Your information with Our business partners to offer You certain products, services or promotions.
+With other users:
+when You share personal information or otherwise interact in the public areas with other users, such information may be viewed by all users and may be publicly distributed outside.
+With Your consent
+: We may disclose Your personal information for any other purpose with Your consent.
+Retention of Your Personal Data
+The Company will retain Your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use Your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+The Company will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of Our Service, or We are legally obligated to retain this data for longer time periods.
+Transfer of Your Personal Data
+Your information, including Personal Data, is processed at the Company's operating offices and in any other places where the parties involved in the processing are located. It means that this information may be transferred to �� and maintained on �� computers located outside of Your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from Your jurisdiction.
+Your consent to this Privacy Policy followed by Your submission of such information represents Your agreement to that transfer.
+The Company will take all steps reasonably necessary to ensure that Your data is treated securely and in accordance with this Privacy Policy and no transfer of Your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of Your data and other personal information.
+Delete Your Personal Data
+You have the right to delete or request that We assist in deleting the Personal Data that We have collected about You.
+Our Service may give You the ability to delete certain information about You from within the Service.
+You may update, amend, or delete Your information at any time by signing in to Your Account, if you have one, and visiting the account settings section that allows you to manage Your personal information. You may also contact Us to request access to, correct, or delete any personal information that You have provided to Us.
+Please note, however, that We may need to retain certain information when we have a legal obligation or lawful basis to do so.
+Disclosure of Your Personal Data
+Business Transactions
+If the Company is involved in a merger, acquisition or asset sale, Your Personal Data may be transferred. We will provide notice before Your Personal Data is transferred and becomes subject to a different Privacy Policy.
+Law enforcement
+Under certain circumstances, the Company may be required to disclose Your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
+Other legal requirements
+The Company may disclose Your Personal Data in the good faith belief that such action is necessary to:
+Comply with a legal obligation
+Protect and defend the rights or property of the Company
+Prevent or investigate possible wrongdoing in connection with the Service
+Protect the personal safety of Users of the Service or the public
+Protect against legal liability
+Security of Your Personal Data
+The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.
+Children's Privacy
+Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.
+If We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use that information.
+Links to Other Websites
+Our Service may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy of every site You visit.
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+Changes to this Privacy Policy
+We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.
+We will let You know via email and/or a prominent notice on Our Service, prior to the change becoming effective and update the "Last updated" date at the top of this Privacy Policy.
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+Contact Us
+If you have any questions about this Privacy Policy, You can contact us:
+By email: koolerlee168@gmail.comPrivacy Policy
+Last updated: December 02, 2022
+This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
+We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help of the
+Privacy Policy Generator
+.
+Interpretation and Definitions
+Interpretation
+The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
+Definitions
+For the purposes of this Privacy Policy:
+Account
+means a unique account created for You to access our Service or parts of our Service.
+Affiliate
+means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
+Application
+means the software program provided by the Company downloaded by You on any electronic device, named AnimeMe
+Company
+(referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to AnimeMe.
+Country
+refers to:  Taiwan
+Device
+means any device that can access the Service such as a computer, a cellphone or a digital tablet.
+Personal Data
+is any information that relates to an identified or identifiable individual.
+Service
+refers to the Application.
+Service Provider
+means any natural or legal person who processes the data on behalf of the Company. It refers to third-party companies or individuals employed by the Company to facilitate the Service, to provide the Service on behalf of the Company, to perform services related to the Service or to assist the Company in analyzing how the Service is used.
+Usage Data
+refers to data collected automatically, either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit).
+You
+means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
+Collecting and Using Your Personal Data
+Types of Data Collected
+Personal Data
+While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:
+Usage Data
+Usage Data
+Usage Data is collected automatically when using the Service.
+Usage Data may include information such as Your Device's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that You visit, the time and date of Your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
+When You access the Service by or through a mobile device, We may collect certain information automatically, including, but not limited to, the type of mobile device You use, Your mobile device unique ID, the IP address of Your mobile device, Your mobile operating system, the type of mobile Internet browser You use, unique device identifiers and other diagnostic data.
+We may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device.
+Information Collected while Using the Application
+While using Our Application, in order to provide features of Our Application, We may collect, with Your prior permission:
+Pictures and other information from your Device's camera and photo library
+We use this information to provide features of Our Service, to improve and customize Our Service. The information may be uploaded to the Company's servers and/or a Service Provider's server or it may be simply stored on Your device.
+You can enable or disable access to this information at any time, through Your Device settings.
+Use of Your Personal Data
+The Company may use Personal Data for the following purposes:
+To provide and maintain our Service
+, including to monitor the usage of our Service.
+To manage Your Account:
+to manage Your registration as a user of the Service. The Personal Data You provide can give You access to different functionalities of the Service that are available to You as a registered user.
+For the performance of a contract:
+the development, compliance and undertaking of the purchase contract for the products, items or services You have purchased or of any other contract with Us through the Service.
+To contact You:
+To contact You by email, telephone calls, SMS, or other equivalent forms of electronic communication, such as a mobile application's push notifications regarding updates or informative communications related to the functionalities, products or contracted services, including the security updates, when necessary or reasonable for their implementation.
+To provide You
+with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless You have opted not to receive such information.
+To manage Your requests:
+To attend and manage Your requests to Us.
+For business transfers:
+We may use Your information to evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which Personal Data held by Us about our Service users is among the assets transferred.
+For other purposes
+: We may use Your information for other purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Service, products, services, marketing and your experience.
+We may share Your personal information in the following situations:
+With Service Providers:
+We may share Your personal information with Service Providers to monitor and analyze the use of our Service,  to contact You.
+For business transfers:
+We may share or transfer Your personal information in connection with, or during negotiations of, any merger, sale of Company assets, financing, or acquisition of all or a portion of Our business to another company.
+With Affiliates:
+We may share Your information with Our affiliates, in which case we will require those affiliates to honor this Privacy Policy. Affiliates include Our parent company and any other subsidiaries, joint venture partners or other companies that We control or that are under common control with Us.
+With business partners:
+We may share Your information with Our business partners to offer You certain products, services or promotions.
+With other users:
+when You share personal information or otherwise interact in the public areas with other users, such information may be viewed by all users and may be publicly distributed outside.
+With Your consent
+: We may disclose Your personal information for any other purpose with Your consent.
+Retention of Your Personal Data
+The Company will retain Your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use Your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+The Company will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of Our Service, or We are legally obligated to retain this data for longer time periods.
+Transfer of Your Personal Data
+Your information, including Personal Data, is processed at the Company's operating offices and in any other places where the parties involved in the processing are located. It means that this information may be transferred to �� and maintained on �� computers located outside of Your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from Your jurisdiction.
+Your consent to this Privacy Policy followed by Your submission of such information represents Your agreement to that transfer.
+The Company will take all steps reasonably necessary to ensure that Your data is treated securely and in accordance with this Privacy Policy and no transfer of Your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of Your data and other personal information.
+Delete Your Personal Data
+You have the right to delete or request that We assist in deleting the Personal Data that We have collected about You.
+Our Service may give You the ability to delete certain information about You from within the Service.
+You may update, amend, or delete Your information at any time by signing in to Your Account, if you have one, and visiting the account settings section that allows you to manage Your personal information. You may also contact Us to request access to, correct, or delete any personal information that You have provided to Us.
+Please note, however, that We may need to retain certain information when we have a legal obligation or lawful basis to do so.
+Disclosure of Your Personal Data
+Business Transactions
+If the Company is involved in a merger, acquisition or asset sale, Your Personal Data may be transferred. We will provide notice before Your Personal Data is transferred and becomes subject to a different Privacy Policy.
+Law enforcement
+Under certain circumstances, the Company may be required to disclose Your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
+Other legal requirements
+The Company may disclose Your Personal Data in the good faith belief that such action is necessary to:
+Comply with a legal obligation
+Protect and defend the rights or property of the Company
+Prevent or investigate possible wrongdoing in connection with the Service
+Protect the personal safety of Users of the Service or the public
+Protect against legal liability
+Security of Your Personal Data
+The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.
+Children's Privacy
+Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.
+If We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use that information.
+Links to Other Websites
+Our Service may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy of every site You visit.
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+Changes to this Privacy Policy
+We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.
+We will let You know via email and/or a prominent notice on Our Service, prior to the change becoming effective and update the "Last updated" date at the top of this Privacy Policy.
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+Contact Us
+If you have any questions about this Privacy Policy, You can contact us:
+By email: koolerlee168@gmail.com
+Sub-section Policy: 
+Sub-policy 0
+https://www.privacypolicies.com/privacy-policy-generator/:
+PrivacyPolicies.com
+#1 Privacy Policy Generator
+Free Privacy Policy Generator
+Generating a Privacy Policy for your website or app can be confusing and time-consuming. Worse, hiring an attorney to do the same thing will likely cost you $1000+. There's no one-size-fits-all policy template (no matter what our competitors say!), and your Privacy Policy needs to be tailored to your website or app to do the job right.
+With our Free Privacy Policy generator, you don't need to hire an expensive attorney or roll the dice on "borrowing" somebody else's template or copying & pasting a generic Privacy Policy.
+We can help you generate a customized Privacy Policy in around three minutes for free.
+Create your Privacy Policy today
+Preview
+Privacy laws require you to have a Privacy Policy
+Your business will need a Privacy Policy to satisfy country-level privacy laws. Don't worry if you're not an expert on these, just tell us the countries where your business is available in.
+CPRA, CCPA & CalOPPA
+CPRA, CCPA & CalOPPA protect personal data belonging to residents of California. If you collect personal information online in the U.S, we'll make sure your Privacy Policy complies with CPRA, CCPA & CalOPPA laws.
+GDPR
+GDPR controls data privacy in the EU. If your business operates within an EU member state or collects personal data from EU citizens, we'll generate a Privacy Policy that includes the necessary GDPR wording.
+The rest of the world
+Our Privacy Policies are adapted to be a fit with major privacy laws around the world to keep your business safe.
+Our Privacy Policy Generator
+Third-party services require you to have a Privacy Policy
+Third parties usually require websites to have a Privacy Policy.
+Analytics (Google Analytics, etc.)
+If you monitor website traffic using analytics tools like Google Analytics, we'll make sure your website's Privacy Policy meets their Terms and Conditions requirements.
+Payments (PayPal, Stripe, etc.)
+If you accept payments from users on your website or app, we'll make sure to include the necessary text in your PayPal as required by PayPal, Stripe, etc.
+Ads & Remarketing (Google Ads, Facebook, etc.)
+If you either display ads in your website or app or run marketing campaigns (such as remarketing), you need to comply with various third-party requirements on what to include in your Privacy Policy.
+Link to your Privacy Policy from anywhere
+Use your custom generated Privacy Policy anywhere: on your custom website, on your Wix website, on your WordPress blog, on your Facebook Page, it doesn't matter. We host your custom Privacy Policy for free and you can link to it from your website.
+Download your Privacy Policy
+If you prefer to host the generated Privacy Policy yourself, you can download it to your computer. We'll make the generated Privacy Policy available to you in multiple formats: HTML, plain text (.TXT file), DOCX or PDF.
+Privacy Policy Generator FAQs
+Our Privacy Policy Generator is both free and premium (you can choose!). You can choose to generate a free Privacy Policy or you can choose to generate a professional Privacy Policy.
+You can choose to include GDPR text in the Privacy Policy as part of the Privacy Policy Generator steps.
+You can choose to include CCPA text in the Privacy Policy as part of the Privacy Policy Generator steps.
+You can choose your Privacy Policy to be generated for a website, for an app or for both.
